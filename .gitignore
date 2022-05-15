@@ -1,0 +1,18 @@
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Local stuff
+local_scripts
+local_data
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
