@@ -6,7 +6,7 @@
 - id: 2
   name: Consommation
   name_long: Consommation, Leviers d'action
-  description: Impact de nos modes de vie, notre consommation
+  description: <p>Impact de nos modes de vie, notre consommation, etc</p>
   created: '2020-04-17'
 - id: 3
   name: Pollution

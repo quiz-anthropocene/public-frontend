@@ -1,9 +1,10 @@
 - id: 1
-  name: Quelques chiffres clés
+  name: Quelques chiffres cléss
   slug: quelques-chiffres-cles
-  introduction: <p>Quelques chiffres pour se mettre en jambes.</p>
+  introduction: <p>Quelques chiffres pour se mettre en jambes !</p>
   conclusion: ''
   questions:
+  - 1
   - 3
   - 16
   - 21
@@ -12,18 +13,21 @@
   - 70
   - 71
   - 75
+  - 80
   - 83
-  tags: []
-  difficulty_average: 1.9
+  tags:
+  - 55
+  - 79
+  difficulty_average: 2.0
   language: Français
   author: 1
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/010-show-your-stripes.png
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/010-show-your-stripes.png
   has_audio: false
   publish: true
-  spotlight: false
+  spotlight: true
   visibility: PUBLIC
   created: '2020-04-17'
-  updated: '2022-04-16'
+  updated: '2022-05-09'
 - id: 2
   name: L'énergie en France 🇫🇷
   slug: lenergie-en-france
@@ -45,14 +49,14 @@
   - 1
   difficulty_average: 2.3
   language: Français
-  author: 1
+  author: null
   image_background_url: https://i3.wp.com/fee.asso.fr/wp-content/uploads/2015/09/Carte-de-France-eolien-2015.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-05-25'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 3
   name: Le quiz de Vincent Mignerot
   slug: le-quiz-de-vincent-mignerot
@@ -85,14 +89,14 @@
   - 185
   difficulty_average: 2.2
   language: Français
-  author: 8
+  author: 6
   image_background_url: https://www.slate.fr/sites/default/files/styles/1060x523/public/neandertal_1.jpg
   has_audio: true
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2020-06-26'
-  updated: '2022-04-16'
+  updated: '2022-05-08'
 - id: 4
   name: Les pics de ressources
   slug: les-pics-de-ressources
@@ -110,14 +114,14 @@
   tags: []
   difficulty_average: 2.7
   language: Français
-  author: 2
+  author: null
   image_background_url: https://upload.wikimedia.org/wikipedia/commons/f/fe/GlobalPeakOil.png
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-08'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 5
   name: Mon empreinte carbone
   slug: mon-empreinte-carbone
@@ -141,14 +145,14 @@
   - 72
   difficulty_average: 2.1
   language: Français
-  author: 2
+  author: null
   image_background_url: https://leshorizons.net/wp-content/uploads/2019/04/d%C3%A9finition-de-lempreinte-carbone-1020x512.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-08'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 6
   name: Introduction à l'anthropocène - Partie 1
   slug: introduction-a-lanthropocene-partie-1
@@ -174,14 +178,14 @@
   tags: []
   difficulty_average: 2.7
   language: Français
-  author: 2
+  author: null
   image_background_url: https://www.francetvinfo.fr/image/759r92wwm-0bca/1200/450/10617521.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-08'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 7
   name: Le Pétrole - Partie 1
   slug: le-petrole-partie-1
@@ -200,14 +204,14 @@
   - 11
   difficulty_average: 2.3
   language: Français
-  author: 2
+  author: null
   image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-09'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 8
   name: La Fresque du Climat - Lot 1
   slug: la-fresque-du-climat-lot-1
@@ -243,14 +247,14 @@
   - 142
   difficulty_average: 2.0
   language: Français
-  author: 2
+  author: null
   image_background_url: https://fresqueduclimat.org/wp-content/uploads/2019/12/photo_2019-12-10-14.01.39-215x215.jpeg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-14'
-  updated: '2022-04-16'
+  updated: '2022-05-05'
 - id: 9
   name: Pollutions
   slug: pollutions
@@ -271,14 +275,14 @@
   tags: []
   difficulty_average: 3.3
   language: Français
-  author: 2
+  author: null
   image_background_url: https://static.latribune.fr/full_width/1201312/plastique-a-jakarta.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-14'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 10
   name: Le Pétrole - Partie 2
   slug: le-petrole-partie-2
@@ -298,14 +302,14 @@
   - 11
   difficulty_average: 2.2
   language: Français
-  author: 2
+  author: null
   image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 11
   name: La fresque du Climat - Lot 2
   slug: la-fresque-du-climat-lot-2
@@ -344,14 +348,14 @@
   - 142
   difficulty_average: 1.9
   language: Français
-  author: 2
+  author: null
   image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/01/IMG_9753-215x215.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 12
   name: La Fresque du Climat - Lot 3
   slug: la-fresque-du-climat-lot-3
@@ -374,14 +378,14 @@
   - 142
   difficulty_average: 2.0
   language: Français
-  author: 2
+  author: null
   image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/01/J1A3917120919-2-215x215.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 13
   name: La Fresque du Climat - Lot 4
   slug: la-fresque-du-climat-lot-4
@@ -401,14 +405,14 @@
   - 142
   difficulty_average: 2.7
   language: Français
-  author: 2
+  author: null
   image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/07/PartieRestit-scaled.jpg?gid=1
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 14
   name: La Fresque du Climat - Lot 5
   slug: la-fresque-du-climat-lot-5
@@ -428,14 +432,14 @@
   - 142
   difficulty_average: 1.7
   language: Français
-  author: 2
+  author: null
   image_background_url: ''
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 15
   name: La Fresque du Climat - pour aller au-delà
   slug: la-fresque-du-climat-pour-aller-au-dela
@@ -464,14 +468,14 @@
   - 142
   difficulty_average: 2.2
   language: Français
-  author: 2
+  author: null
   image_background_url: https://jive.univ-lille.fr/fileadmin/_processed_/c/d/csm_fresque-climat_ac9a138d0f.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 16
   name: Introduction à l'anthropocène - Partie 2
   slug: introduction-a-lanthropocene-partie-2
@@ -496,14 +500,14 @@
   tags: []
   difficulty_average: 2.2
   language: Français
-  author: 2
+  author: null
   image_background_url: https://reporterre.net/local/cache-vignettes/L720xH481/arton11947-94df2.jpg?1597417424
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 17
   name: Une biodiversité qui s'anéantit
   slug: une-biodiversite-qui-saneantit
@@ -525,14 +529,14 @@
   - 76
   difficulty_average: 2.5
   language: Français
-  author: 2
+  author: null
   image_background_url: https://images.sudouest.fr/2019/04/25/5cc1b08b66a4bd2c135ac1f5/widescreen/1000x500/l-extinction-des-dinosaures.jpg?v1
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-08-04'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 18
   name: Le quiz de Laurent Testot
   slug: le-quiz-de-laurent-testot
@@ -570,14 +574,14 @@
   tags: []
   difficulty_average: 2.7
   language: Français
-  author: 13
+  author: null
   image_background_url: https://testing-girl-avis.com/wp-content/uploads/2018/02/ob_34d04f_cataclysmes-laurent-testot-testing-gir-1.jpg
   has_audio: true
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2020-09-23'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 52
   name: La finance "verte", par Bon Pote
   slug: la-finance-verte-par-bon-pote
@@ -606,14 +610,14 @@
   - 194
   difficulty_average: 3.0
   language: Français
-  author: 19
+  author: null
   image_background_url: https://patch.com/img/cdn20/users/224111/20190401/020846/styles/raw/public/processed_images/tree_with_money-1554098721-8512.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-11-16'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 53
   name: Les 10 questions les plus difficiles
   slug: les-10-questions-les-plus-difficiles
@@ -637,14 +641,14 @@
   tags: []
   difficulty_average: 4.0
   language: Français
-  author: 5
+  author: null
   image_background_url: https://cdn.pixabay.com/photo/2016/11/21/15/28/brain-1845962_1280.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-11-27'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 54
   name: Born in the USA
   slug: born-in-the-usa
@@ -680,14 +684,14 @@
   - 80
   difficulty_average: 2.6
   language: Français
-  author: 5
+  author: null
   image_background_url: https://cdn.pixabay.com/photo/2017/12/08/08/17/america-3005258_1280.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 55
   name: Technologies de capture et stockage du CO2
   slug: technologies-de-capture-et-stockage-du-co2
@@ -722,14 +726,14 @@
   - 62
   difficulty_average: 2.9
   language: Français
-  author: 37
+  author: null
   image_background_url: https://www.lereveilleur.com/wp-content/uploads/2020/09/CSC_paint.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-12-08'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 56
   name: En état d'ébriété énergétique ?
   slug: en-etat-debriete-energetique
@@ -754,14 +758,14 @@
   tags: []
   difficulty_average: 2.5
   language: Français
-  author: 2
+  author: null
   image_background_url: https://i.pinimg.com/originals/8c/9a/2f/8c9a2f17830a4bc928fc9ed7f9c1faad.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-12-13'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 57
   name: 2020 en chiffres
   slug: 2020-en-chiffres
@@ -788,14 +792,14 @@
   - 213
   difficulty_average: 1.8
   language: Français
-  author: 1
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/057.jpg
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/057.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 59
   name: Fresque du Numérique
   slug: fresque-du-numerique
@@ -825,14 +829,14 @@
   - 30
   difficulty_average: 2.1
   language: Français
-  author: 18
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/059-logo-fresque-numerique.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/059-logo-fresque-numerique.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-01-21'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 60
   name: Le numérique est-il écologique ?
   slug: le-numerique-est-il-ecologique
@@ -856,14 +860,14 @@
   - 30
   difficulty_average: 2.2
   language: Français
-  author: 14
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/060.jpg
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/060.jpg
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-02-01'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 61
   name: Fresque des low techs - les constats
   slug: fresque-des-low-techs-les-constats
@@ -910,14 +914,14 @@
   - 255
   difficulty_average: 2.7
   language: Français
-  author: 6
+  author: null
   image_background_url: https://fresquedeslowtechs.files.wordpress.com/2021/02/fr_techs_modern_dezo_flouetee_64c.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2022-04-04'
 - id: 62
   name: Fresque de l'Alimentation
   slug: fresque-de-lalimentation
@@ -954,14 +958,14 @@
   - 244
   difficulty_average: 1.9
   language: Français
-  author: 15
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/062-logo-fresque-alimentation-square.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/062-logo-fresque-alimentation-square.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-02-18'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 63
   name: Digital Collage
   slug: digital-collage
@@ -987,14 +991,14 @@
   - 30
   difficulty_average: 2.1
   language: English
-  author: 42
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/063-logo-fresque-numerique-transparent.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/063-logo-fresque-numerique-transparent.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-02-20'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 64
   name: Le quiz Choc
   slug: le-quiz-choc
@@ -1018,14 +1022,14 @@
   tags: []
   difficulty_average: 2.5
   language: Français
-  author: 2
+  author: null
   image_background_url: ''
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2021-03-05'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 65
   name: Le Pétrole
   slug: le-petrole
@@ -1053,14 +1057,14 @@
   - 11
   difficulty_average: 2.2
   language: Français
-  author: 2
+  author: null
   image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2021-03-11'
-  updated: '2022-04-16'
+  updated: '2021-12-09'
 - id: 66
   name: Un voyage sur des millions d'années
   slug: un-voyage-sur-des-millions-dannees
@@ -1143,14 +1147,14 @@
   - 255
   difficulty_average: 2.4
   language: Français
-  author: 6
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/067-low-tech-oubli.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/067-low-tech-oubli.png
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2021-03-23'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 68
   name: Low Tech Collage - Current Issues
   slug: low-tech-collage-current-issues
@@ -1188,14 +1192,14 @@
   - 255
   difficulty_average: 2.6
   language: English
-  author: 6
+  author: null
   image_background_url: https://fresquedeslowtechs.files.wordpress.com/2021/02/fr_techs_modern_dezo_flouetee_64c.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-03-24'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 69
   name: Le cycle de l'eau dans tous ses états
   slug: le-cycle-de-leau-dans-tous-ses-etats
@@ -1225,14 +1229,14 @@
   - 263
   difficulty_average: 2.2
   language: Français
-  author: 20
+  author: null
   image_background_url: https://www.ge.ch/media/media_image/2020-11/grand-cycle.jpg
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2021-04-10'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 70
   name: Fresque des low techs - les leviers d'action
   slug: fresque-des-low-techs-les-leviers-daction
@@ -1266,14 +1270,14 @@
   - 255
   difficulty_average: 1.9
   language: Français
-  author: 6
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/070-solLT_32c.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/070-solLT_32c.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-04-16'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 71
   name: Fresque Océane
   slug: fresque-oceane
@@ -1293,14 +1297,14 @@
   - 223
   difficulty_average: 2.6
   language: Français
-  author: 24
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/071-logo-fresque-oceane.jpg
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/071-logo-fresque-oceane.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2021-04-26'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 73
   name: Forgotten Low Techs
   slug: forgotten-low-techs
@@ -1329,14 +1333,14 @@
   - 255
   difficulty_average: 2.6
   language: English
-  author: 6
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/067-low-tech-oubli.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/067-low-tech-oubli.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-04-27'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 74
   name: Faut-il encore prendre l'avion ?
   slug: faut-il-encore-prendre-lavion
@@ -1373,14 +1377,14 @@
   - 100
   difficulty_average: 2.5
   language: Français
-  author: 35
+  author: null
   image_background_url: https://restonslespiedssurterre.fr/wp-content/uploads/2019/06/OVH-En-tete-Avions-fum%C3%A9e.png
   has_audio: true
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-05-03'
-  updated: '2022-04-16'
+  updated: '2021-10-24'
 - id: 75
   name: 'Transition énergétique des transports #1'
   slug: transition-energetique-des-transports-1
@@ -1416,14 +1420,14 @@
   - 225
   difficulty_average: 2.1
   language: Français
-  author: 11
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/quizs/075.jpg
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/quizs/075.jpg
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-10-03'
-  updated: '2022-04-16'
+  updated: '2021-12-05'
 - id: 76
   name: Inventons Nos Vies Bas Carbone
   slug: invbc
@@ -1459,14 +1463,14 @@
   - 72
   difficulty_average: 2.6
   language: Français
-  author: 36
+  author: null
   image_background_url: https://d3n8a8pro7vhmx.cloudfront.net/resistanceclimatique/pages/115/attachments/original/1616150476/nouveau_kit.jpg?1616150476
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-11-16'
-  updated: '2022-04-16'
+  updated: '2022-01-24'
 - id: 77
   name: Archipel du Vivant
   slug: archipel-du-vivant
@@ -1506,14 +1510,14 @@
   - 248
   difficulty_average: 2.6
   language: Français
-  author: 17
+  author: null
   image_background_url: https://archipelduvivant.org/wp-content/uploads/2020/07/132-133-2.jpg
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2021-12-05'
-  updated: '2022-04-16'
+  updated: '2021-12-09'
 - id: 78
   name: Burger Quiz de l'Anthropocene
   slug: burger-quiz-de-lanthropocene
@@ -1545,14 +1549,14 @@
   tags: []
   difficulty_average: 2.2
   language: Français
-  author: 2
-  image_background_url: https://github.com/quiz-anthropocene/know-your-planet/blob/master/data/images/LOGO%20quiz%20de%20lanthropocene-01.jpg?raw=true
+  author: null
+  image_background_url: https://github.com/raphodn/know-your-planet/blob/master/data/images/LOGO%20quiz%20de%20lanthropocene-01.jpg?raw=true
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2021-12-12'
-  updated: '2022-04-16'
+  updated: '2021-12-30'
 - id: 79
   name: Introduction à la Fresque du Climat
   slug: introduction-a-la-fresque-du-climat
@@ -1588,14 +1592,14 @@
   - 256
   difficulty_average: 1.7
   language: Français
-  author: 2
+  author: null
   image_background_url: https://www.grenoble.fr/uploads/Image/81/IMF_100/GAB_GRENOBLE2019/21428_586_fresque-climat-adultes.jpg
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2022-01-10'
-  updated: '2022-04-16'
+  updated: '2022-01-14'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -1627,11 +1631,83 @@
   - 256
   difficulty_average: 0.0
   language: Français
-  author: 25
-  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/questions/FdcJ.png
+  author: null
+  image_background_url: https://raw.githubusercontent.com/raphodn/know-your-planet/master/data/images/questions/FdcJ.png
   has_audio: false
   publish: true
   spotlight: true
   visibility: PUBLIC
   created: '2022-01-26'
-  updated: '2022-04-16'
+  updated: '2022-02-04'
+- id: 81
+  name: Test
+  slug: test
+  introduction: ''
+  conclusion: ''
+  questions: []
+  tags: []
+  difficulty_average: 0.0
+  language: Français
+  author: 1
+  image_background_url: ''
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-05-01'
+  updated: '2022-05-01'
+- id: 82
+  name: Test 2
+  slug: test-2
+  introduction: ''
+  conclusion: ''
+  questions: []
+  tags: []
+  difficulty_average: 0.0
+  language: Français
+  author: 1
+  image_background_url: ''
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-05-01'
+  updated: '2022-05-01'
+- id: 83
+  name: Test 3
+  slug: test-3
+  introduction: ''
+  conclusion: ''
+  questions: []
+  tags: []
+  difficulty_average: 0.0
+  language: Français
+  author: 1
+  image_background_url: ''
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-05-01'
+  updated: '2022-05-01'
+- id: 84
+  name: Test 4
+  slug: test-4
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 1027
+  - 1028
+  - 1029
+  - 1030
+  tags: []
+  difficulty_average: 1.2
+  language: Français
+  author: 1
+  image_background_url: ''
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-05-01'
+  updated: '2022-05-05'
