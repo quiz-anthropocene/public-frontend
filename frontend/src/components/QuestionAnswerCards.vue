@@ -246,8 +246,8 @@ export default {
         success: this.questionAnswer.success,
         answer_correct: this.question.answer_correct,
         answer_picked: cleanedAnswerPicked,
-        message: this.questionAnswer.message
-        });
+        message: this.questionAnswer.message,
+      });
       // scroll to answer
       setTimeout(() => {
         // why scroll to this div and not to 'answer' directly ? To have a slight top margin
@@ -264,7 +264,7 @@ export default {
           question: this.question.id,
           choice: cleanedAnswerPicked,
           source: this.context.source,
-          quiz: this.context.quiz ? this.context.quiz.id : null
+          quiz: this.context.quiz ? this.context.quiz.id : null,
         }),
       })
         .then((response) => response.json())
