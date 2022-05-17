@@ -1635,3 +1635,23 @@
   visibility: PUBLIC
   created: '2022-01-26'
   updated: '2022-04-16'
+- id: 81
+  name: Population et surpopulation
+  slug: population-et-surpopulation
+  introduction: <p>L’augmentation de la population mondiale est un facteur important
+    de la crise écologique. En est-elle la principale responsable ? Et peut-on agir
+    sur cette croissance ? Pour quel résultats et à quel terme ? Dans ce quiz nous
+    allons revenir sur les chiffres les plus marquants sur cette question épineuse.</p>
+  conclusion: ''
+  questions: []
+  tags: []
+  difficulty_average: 0.0
+  language: Français
+  author: 2
+  image_background_url: https://static.fnac-static.com/multimedia/Images/FR/NR/68/b4/d3/13874280/1540-1.jpg
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-05-16'
+  updated: '2022-05-16'
