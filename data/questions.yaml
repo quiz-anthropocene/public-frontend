@@ -33960,8 +33960,9 @@
   created: '2022-04-06'
   updated: '2022-04-16'
 - id: 886
-  text: Quel est le nombre moyen d’enfants par femmes en Inde ?
-  hint: ''
+  text: L’Inde devrait bientôt devenir le pays le plus peuplé au monde. Quel y est
+    le nombre moyen d’enfants par femme ?
+  hint: Peut-être moins que vous ne l'imaginez
   type: QCM
   category: 8
   tags:
@@ -33990,7 +33991,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-16'
 - id: 887
   text: L’humanité utilise 50% de la surface terrestre pour ses besoins. Combien pour
     la viande ? (à reformuler)
