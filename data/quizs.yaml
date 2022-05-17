@@ -1546,7 +1546,7 @@
   difficulty_average: 2.2
   language: Français
   author: 2
-  image_background_url: https://github.com/quiz-anthropocene/public-frontend/blob/master/data/images/LOGO%20quiz%20de%20lanthropocene-01.jpg?raw=true
+  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/LOGO%20quiz%20de%20lanthropocene-01.jpg
   has_audio: false
   publish: false
   spotlight: false
