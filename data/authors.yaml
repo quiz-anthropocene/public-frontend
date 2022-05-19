@@ -286,3 +286,9 @@
   question_count: 0
   quiz_count: 0
   created: '2022-05-07'
+- id: 50
+  first_name: Fabien
+  last_name: Lopez
+  question_count: 0
+  quiz_count: 0
+  created: '2022-05-18'
