@@ -10,18 +10,6 @@
   question_count: 81
   quiz_count: 9
   created: '2022-04-04'
-- id: 3
-  first_name: Benoît
-  last_name: Foucque
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-04'
-- id: 4
-  first_name: Julia
-  last_name: Delrieu
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-04'
 - id: 5
   first_name: laydgeur
   last_name: ''
@@ -220,24 +208,6 @@
   question_count: 0
   quiz_count: 1
   created: '2022-04-16'
-- id: 38
-  first_name: Guillaume
-  last_name: Mandil
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 39
-  first_name: Pascal
-  last_name: Esposito
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 40
-  first_name: Lucia
-  last_name: Romanita
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-16'
 - id: 41
   first_name: Alain Grandjean & Mireille Martini
   last_name: ''
@@ -250,36 +220,12 @@
   question_count: 0
   quiz_count: 1
   created: '2022-04-16'
-- id: 43
-  first_name: Christine Cavazza et Matthieu Massart
-  last_name: ''
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 44
-  first_name: Julien Briton et Thomas Moulin
-  last_name: ''
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-16'
 - id: 46
   first_name: Emmanuel
   last_name: Pont
   question_count: 0
   quiz_count: 0
   created: '2022-04-16'
-- id: 47
-  first_name: Didier
-  last_name: Quirin
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-22'
-- id: 48
-  first_name: Rachel
-  last_name: Bentzmann
-  question_count: 0
-  quiz_count: 0
-  created: '2022-05-07'
 - id: 49
   first_name: Mylène
   last_name: Turban
