@@ -183,7 +183,6 @@ export default {
       handler(newQuestion, oldQuestion) {
         if (newQuestion) {
           this.initQuestion();
-          this.initContribution();
         }
       },
     },
@@ -200,18 +199,6 @@ export default {
       this.questionSubmitted = false;
       this.questionAnswer = {};
       // this.feedbackSubmitted = false;
-    },
-    initContribution() {
-      this.contribution = {
-        text: '',
-        description: `Question #${this.question.id} - ${this.question.text}`,
-        type: 'commentaire question',
-      };
-      this.showContributionForm = false;
-      this.contributionSubmitted = false;
-      this.contributionResponse = null;
-      this.loading = false;
-      this.error = null;
     },
     shuffleAnswers(answersArray, hasOrderedAnswers) {
       if (hasOrderedAnswers) {
@@ -254,6 +241,13 @@ export default {
         document.getElementById('scroll-to-answer').scrollIntoView({ behavior: 'smooth' });
       }, 25);
       // stats
+      var body = JSON.stringify({
+          question: this.question.id,
+          choice: cleanedAnswerPicked,
+          source: this.context.source,
+          quiz: this.context.quiz ? this.context.quiz.id : null,
+        })
+      console.log(body)
       fetch(`${process.env.VUE_APP_STATS_ENDPOINT}/question-answer-event/`, {
         method: 'POST',
         headers: {
