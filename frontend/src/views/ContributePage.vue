@@ -19,15 +19,15 @@
           <label for="contribution_type">Ma contribution est ...</label>
         </h3>
         <div class="custom-control custom-radio custom-control-inline">
-          <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input" value="nouvelle question" v-model="contribution.type">
+          <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input" value="NEW_QUESTION" v-model="contribution.type">
           <label class="custom-control-label" for="customRadioInline1">Une nouvelle question</label>
         </div>
         <div class="custom-control custom-radio custom-control-inline">
-          <input type="radio" id="customRadioInline2" name="customRadioInline2" class="custom-control-input" value="nouveau quiz" v-model="contribution.type">
+          <input type="radio" id="customRadioInline2" name="customRadioInline2" class="custom-control-input" value="NEW_QUIZ" v-model="contribution.type">
           <label class="custom-control-label" for="customRadioInline2">Une idée de quiz</label>
         </div>
         <div class="custom-control custom-radio custom-control-inline">
-          <input type="radio" id="customRadioInline3" name="customRadioInline3" class="custom-control-input" value="commentaire application" v-model="contribution.type">
+          <input type="radio" id="customRadioInline3" name="customRadioInline3" class="custom-control-input" value="COMMENT_APP" v-model="contribution.type">
           <label class="custom-control-label" for="customRadioInline3">Un commentaire sur l'application</label>
         </div>
         <!-- <div class="custom-control custom-radio custom-control-inline">
@@ -36,14 +36,14 @@
         </div> -->
       </div>
 
-      <div class="form-group" v-if="contribution.type === 'nouvelle question'">
+      <div class="form-group" v-if="contribution.type === 'NEW_QUESTION'">
         <h3 class="margin-bottom-0">
           <label for="contribution_text">Votre question <span class="color-red">*</span></label>
         </h3>
         <div class="help-text">En 1 ou 2 phrases au maximum</div>
         <input type="text" id="contribution_text" class="form-control" v-model="contribution.text" required />
       </div>
-      <div class="form-group" v-if="contribution.type === 'nouvelle question'">
+      <div class="form-group" v-if="contribution.type === 'NEW_QUESTION'">
         <h3 class="margin-bottom-0">
           <label for="text">Informations supplémentaires</label>
         </h3>
@@ -51,14 +51,14 @@
         <textarea id="description" class="form-control" rows="5" v-model="contribution.description"></textarea>
       </div>
 
-      <div class="form-group" v-if="contribution.type === 'nouveau quiz'">
+      <div class="form-group" v-if="contribution.type === 'NEW_QUIZ'">
         <h3 class="margin-bottom-0">
           <label for="contribution_text">Votre idée de quiz <span class="color-red">*</span></label>
         </h3>
         <div class="help-text">En 1 ou 2 phrases au maximum</div>
         <input type="text" id="contribution_text" class="form-control" v-model="contribution.text" required />
       </div>
-      <div class="form-group" v-if="contribution.type === 'nouveau quiz'">
+      <div class="form-group" v-if="contribution.type === 'NEW_QUIZ'">
         <h3 class="margin-bottom-0">
           <label for="text">Informations supplémentaires</label>
         </h3>
@@ -66,7 +66,7 @@
         <textarea id="description" class="form-control" rows="5" v-model="contribution.description"></textarea>
       </div>
 
-      <div class="form-group" v-if="contribution.type === 'commentaire application'">
+      <div class="form-group" v-if="contribution.type === 'COMMENT_APP'">
         <h3 class="margin-bottom-0">
           <label for="contribution_text">Votre commentaire <span class="color-red">*</span></label>
         </h3>
@@ -74,12 +74,12 @@
         <textarea id="contribution_text" class="form-control" rows="5" v-model="contribution.text" required></textarea>
       </div>
 
-      <div class="form-group" v-if="contribution.type === 'nom application'">
+      <!-- <div class="form-group" v-if="contribution.type === 'nom application'">
         <h3 class="margin-bottom-0">
           <label for="contribution_text">Votre idée <span class="color-red">*</span></label>
         </h3>
         <textarea id="contribution_text" class="form-control" rows="2" v-model="contribution.text" required></textarea>
-      </div>
+      </div> -->
 
       <br />
 
@@ -137,7 +137,7 @@ export default {
       contribution: {
         text: '',
         description: '',
-        type: 'nouvelle question',
+        type: 'NEW_QUESTION',
       },
       contributionSubmitted: false,
       contributionResponse: null,
@@ -159,7 +159,7 @@ export default {
       this.contribution = {
         text: '',
         description: '',
-        type: typeFromQuery || 'nouvelle question',
+        type: typeFromQuery || 'NEW_QUESTION',
       };
       this.contributionSubmitted = false;
       this.contributionResponse = null;

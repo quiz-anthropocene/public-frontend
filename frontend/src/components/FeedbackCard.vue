@@ -134,7 +134,7 @@ export default {
           description: (this.context.source === 'question') ? `Question #${this.context.item.id} - ${this.context.item.category.name} - ${this.context.item.text}` : `Quiz #${this.context.item.id} - ${this.context.item.name}`,
           question: (this.context.source === 'question') ? this.context.item.id : null,
           quiz: (this.context.source === 'quiz') ? this.context.item.id : null,
-          type: `commentaire ${this.context.source}`,
+          type: (this.context.source === 'question') ? 'COMMENT_QUESTION' : 'COMMENT_QUIZ',
         }),
       })
         .then((response) => {
