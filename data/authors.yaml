@@ -215,8 +215,8 @@
   quiz_count: 0
   created: '2022-04-16'
 - id: 42
-  first_name: 'Aurélien Deragne, translation: Benoît Barraque'
-  last_name: ''
+  first_name: Benoît
+  last_name: Barraque
   question_count: 0
   quiz_count: 1
   created: '2022-04-16'
@@ -232,3 +232,9 @@
   question_count: 0
   quiz_count: 0
   created: '2022-05-07'
+- id: 55
+  first_name: Quentin
+  last_name: Viallet
+  question_count: 0
+  quiz_count: 0
+  created: '2022-05-23'
