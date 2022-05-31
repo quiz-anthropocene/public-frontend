@@ -1655,3 +1655,33 @@
   visibility: PUBLIC
   created: '2022-05-16'
   updated: '2022-05-16'
+- id: 82
+  name: Le design au service du monde de demain
+  slug: le-design-au-service-du-monde-de-demain
+  introduction: "<p>\"Le design est une méthodologie de résolution de problèmes qui\
+    \ permet de piloter l’innovation, développer la réussite des entreprises, menant\
+    \ à améliorer notre qualité de vie.\" Le design est un outil pour démocratiser\
+    \ des démarches d'innovation et de création de valeur. </p>\r\n\r\n<p>Valeur =\
+    \ Fonctions / Coûts. </p>\r\n\r\n<p>Fonction --> dépend de l'humain. Coûts -->\
+    \ dépend de l'humain. Autrement dit, l'humain est au cœur de la notion de valeur.\
+    \ Vous êtes au cœur de la création de valeur. </p>\r\n\r\n<p> </p>"
+  conclusion: "<p>L'anthropocène désigne la période actuelle des temps géologiques,\
+    \ où les activités humaines ont de fortes répercussions sur les écosystèmes de\
+    \ la planète (biosphère) et les transforment à tous les niveaux.</p>\r\n\r\n<p>\"\
+    Un grand pouvoir implique de grandes responsabilités\". </p>\r\n\r\n<p>Alors à\
+    \ vous de jouer, usez des outils et de la façon de penser du design pour vous\
+    \ aider à assumer ce rôle que nous devons tous intégrer désormais. </p>\r\n\r\n\
+    <p> </p>"
+  questions: []
+  tags:
+  - 32
+  difficulty_average: 0.0
+  language: Français
+  author: 55
+  image_background_url: ''
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-05-30'
+  updated: '2022-05-30'
