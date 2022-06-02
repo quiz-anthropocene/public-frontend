@@ -33906,24 +33906,25 @@
   answer_option_d: D’un facteur 5
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: La population humaine est estimée autour de 1,6 milliards en
+    1900. En 2022 nous approchons les 8 milliards.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Population_mondiale
-  answer_accessible_url_text: La population mondiale sur Wikipédia
+  answer_accessible_url_text: 'Wikipédia : La population mondiale'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: C'est encore plus important quand on regarde depuis les
-    débuts de l'Histoire.
+    débuts de l'Histoire !
   answer_extra_info: La population mondiale, par continent et par pays sur https://ourworldindata.org/grapher/population
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-09'
-  updated: '2022-05-13'
+  updated: '2022-05-31'
 - id: 885
   text: Lesquelles de ces projections démographiques sont jugées réalistes à l’horizon
     2100 ?
@@ -33938,27 +33939,33 @@
   answer_option_b: 10 milliards
   answer_option_c: 11 milliards
   answer_option_d: 12 milliards
-  answer_correct: abc
+  answer_correct: abcd
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: Même si la démographie a une inertie importante (par exemple,
+    la majorité des gens qui vivront en 2050 sont déjà nés), il n'y a pas de boule
+    de cristal pour la population future. La première grande question porte sur la
+    vitesse à laquelle la natalité va diminuer dans les pays où elle est forte (la
+    plupart en Afrique). La seconde est si la natalité continuera à baisser dans les
+    pays riches qui sont déjà en dessous de 2 enfants par femme.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: 'https://www.futura-sciences.com/planete/actualites/population-mondiale-jusquou-va-grimper-population-mondiale-39860/
-
-    '
-  answer_scientific_url: ''
-  answer_scientific_url_text: https://www.nature.com/articles/d41586-021-02522-6
+  answer_accessible_url: https://www.futura-sciences.com/planete/actualites/population-mondiale-jusquou-va-grimper-population-mondiale-39860/
+  answer_accessible_url_text: 'Futura Sciences : Jusqu''où va grimper la population
+    mondiale ?'
+  answer_scientific_url: https://www.nature.com/articles/d41586-021-02522-6
+  answer_scientific_url_text: 'Nature : How far will global population rise? Researchers
+    can’t agree'
   answer_reading_recommendation: ''
   answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_explanation: Les trajectoires estimées pour les 3 principaux organismes
+    qui participent à cet exercice
   answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
 - id: 886
   text: L’Inde devrait bientôt devenir le pays le plus peuplé au monde. Quel y est
     le nombre moyen d’enfants par femme ?
@@ -33975,26 +33982,30 @@
   answer_option_d: 3,5
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: L'Inde est passée récemment sous le seuil de 2,1 enfants par
+    femme, qui assure la stabilité à long terme de la population. Ce chiffre moyen
+    cache néanmoins des différences importances entre Etats et entre villes et campagnes.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.rts.ch/info/monde/medias/12671445-linde-passe-pour-la-premiere-fois-sous-le-seuil-de-21-enfants-par-femme.html
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'RTS : L''Inde passe pour la première fois sous le seuil
+    de 2,1 enfants par femme'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_explanation: By iashris.com - https://indiainpixels.xyz, CC BY-SA 4.0,
+    https://commons.wikimedia.org/w/index.php?curid=112844699
   answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-16'
+  updated: '2022-05-31'
 - id: 887
-  text: L’humanité utilise 50% de la surface terrestre pour ses besoins. Combien pour
-    la viande ? (à reformuler)
+  text: Aujourd'hui l'humanité utilise 50% de la surface terrestre habitable. La grande
+    majorité est pour l'agriculture. Quelle part est occupée par l'élevage ?
   hint: ''
   type: QCM
   category: 8
@@ -34007,14 +34018,18 @@
   answer_option_c: 75%
   answer_option_d: ''
   answer_correct: c
-  has_ordered_answers: false
-  answer_explanation: ''
+  has_ordered_answers: true
+  answer_explanation: L'élevage occupe d'une part des espaces importants de pâturage
+    (environ les 2/3 de l'espace agricole total), mais consomme aussi la moitié des
+    céréales produites par l'humanité. Si l'humanité devenait végane demain, cela
+    libèrerait d'un coup les 3/4 des terres occupées par l'agriculture.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://ourworldindata.org/land-use-diets
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Impact_environnemental_de_l%27%C3%A9levage#Utilisation_des_terres
+  answer_accessible_url_text: 'Wikipédia : Organisation de l''assolement mondial'
   answer_scientific_url: https://www.researchgate.net/publication/325532198_Reducing_food%27s_environmental_impacts_through_producers_and_consumers
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Science : Reducing food''s environmental impacts through
+    producers and consumers'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -34024,7 +34039,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
 - id: 888
   text: Quel est le rapport entre les émissions de CO2 annuelles par d’un Français
     et celles d’un Nigérien ?
@@ -34040,49 +34055,16 @@
   answer_option_b: 30 fois plus
   answer_option_c: 50 fois plus
   answer_option_d: 100 fois plus
-  answer_correct: ''
-  has_ordered_answers: false
-  answer_explanation: ''
-  answer_audio: ''
-  answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
-  answer_scientific_url: https://www.globalcarbonproject.org/carbonbudget/index.htm
-  answer_scientific_url_text: ''
-  answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
-  answer_extra_info: ''
-  author: 46
-  validator: null
-  validation_status: Brouillon
-  visibility: PUBLIC
-  created: '2022-04-06'
-  updated: '2022-04-16'
-- id: 889
-  text: Depuis 1900, la population humaine a été multipliée par 5 et les émissions
-    de CO2 par 20. Dans cet essor des émissions, quelle est la contribution de l'augmentation
-    de la population ?
-  hint: ''
-  type: QCM
-  category: 1
-  tags:
-  - 27
-  difficulty: 3
-  language: Français
-  answer_option_a: 25%
-  answer_option_b: 55%
-  answer_option_c: La réponse ne veut rien dire
-  answer_option_d: ''
-  answer_correct: c
+  answer_correct: d
   has_ordered_answers: true
-  answer_explanation: On peut faire un calcul, mais ça ne dit en fait pas grand chose
-    car il y a de l'augmentation de population dans des pays aux faibles émissions
-    et inversement
+  answer_explanation: Les émissions de CO2 sont très faibles au Niger car on y utilise
+    très peu de combustibles fossiles. Ajoutons que cet écart ne se réduit pas vraiment.
+    C'est tout aussi vrai à l'échelle mondiale, les 50% les plus pauvres étant responsables
+    de seulement 10% des émissions liées à la consommation de l'humanité.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.oxfamfrance.org/climat-et-energie/combattre-les-inegalites-des-emissions-de-co2/
+  answer_accessible_url_text: 'Oxfam : Combattre les inégalités des émissions de CO2'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -34094,7 +34076,46 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
+- id: 889
+  text: Depuis 1900, la population humaine a été multipliée par 5 et les émissions
+    de CO2 par 20. Dans cet essor des émissions, quelle est la contribution de l'augmentation
+    de la population ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 27
+  difficulty: 3
+  language: Français
+  answer_option_a: Le quart
+  answer_option_b: Plus de la moitié
+  answer_option_c: Ce calcul n'a pas de sens
+  answer_option_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'On peut calculer une part mais elle aura très peu de sens :
+    ce calcul global mélange l''augmentation de la population dans des pays aux émissions
+    faibles et l''augmentation des émissions dans des pays à la population stable.
+    On ne sait pas non plus ce qui se serait passé si la population avait augmenté
+    moins vite.'
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: Je n'ai pas de lien à part mon article, personne à ma connaissance
+    ne l'a expliqué clairement
+  author: 46
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-04-06'
+  updated: '2022-05-31'
 - id: 890
   text: Peut-on estimer une population maximale soutenable sur terre ?
   hint: ''
@@ -34108,17 +34129,20 @@
   answer_option_b: Oui, 2 milliards
   answer_option_c: Oui, 10 milliards
   answer_option_d: Non, la question est mal posée
-  answer_correct: ''
-  has_ordered_answers: false
-  answer_explanation: Tout dépend de ce qu'on souhaite comme mode de vie et vision
-    soutenable. Pour la nourriture on sait très bien comment nourrir 10Md en 2050
-    (liens 4 études)
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Tout dépend de ce qu'on vise comme mode de vie et comme état
+    écologique considéré soutenable. Il existe par exemple de nombreuses manières
+    de nourrir 10 milliards d'humains de manière soutenable en 2050. Ce qui semble
+    par contre difficilement soutenable, ce sont 10 milliards qui auraient le mode
+    de vie actuel de l'occidental moyen.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.cirad.fr/espace-presse/communiques-de-presse/2020/repenser-nos-modeles-agricoles
+  answer_scientific_url_text: 'Agrimonde-Terra : un jeu de scénarios pour explorer
+    le futur de la sécurité alimentaire et l’usage des terres'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -34128,7 +34152,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
 - id: 891
   text: Imaginons qu’on parvienne (progressivement !) à réduire la population d’un
     facteur 2. Quel serait l’effet sur les émissions de gaz à effet de serre ?
@@ -34142,11 +34166,16 @@
   language: Français
   answer_option_a: Divisées par 2
   answer_option_b: Divisées par 1,5
-  answer_option_c: Difficile à dire
-  answer_option_d: ''
-  answer_correct: ''
+  answer_option_c: Pas de changement
+  answer_option_d: Difficile à dire
+  answer_correct: d
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: "Difficile à dire ! De nombreuses autres choses changent aussi\
+    \ dans ce monde :\r\n- si la demande de combustibles fossiles baisse, leur prix\
+    \ baisse aussi, et la demande remonte\r\n- le monde devient moins dense\r\n- c'est\
+    \ une raison politique de plus pour attendre\r\nDans tous les cas le réchauffement\
+    \ dépend des émissions cumulées, donc émettre la même quantité plus lentement\
+    \ revient juste à repousser le problème."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -34156,36 +34185,42 @@
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: Je n'ai pas de lien à part mon article, personne à ma connaissance
+    ne l'a expliqué clairement
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
 - id: 892
   text: Imaginons qu’on institue demain une politique de l’enfant unique en Françe,
-    à la chinoise. De combien la population française se réduirait-elle à l’horizon
-    2100
+    à la chinoise. De combien la population française serait-elle réduite à l’horizon
+    2100 ?
   hint: ''
   type: QCM
   category: 8
   tags:
   - 1
   - 27
-  difficulty: 4
+  difficulty: 3
   language: Français
   answer_option_a: 25%
   answer_option_b: 50%
   answer_option_c: 75%
   answer_option_d: ''
-  answer_correct: c
-  has_ordered_answers: false
-  answer_explanation: ''
+  answer_correct: ab
+  has_ordered_answers: true
+  answer_explanation: Cela dépend en fait de ce qu'on entend par "à la chinoise".
+    L'enfant unique en Chine s'est traduit par des taux de fécondité entre 1,6 et
+    2,5 enfants par femme. Pour 1,6 la population serait réduite d'un quart par rapport
+    au scénario où la natalité resterait stable (qui correspond aux projections actuelles).
+    Pour un "enfant unique dur", qui correspondrait par exemple à un taux de fécondité
+    de 1,1 enfants par femme, la population serait divisée par deux en 2100.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://www.ined.fr/fr/tout-savoir-population/jeux/population-demain/)
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.ined.fr/fr/tout-savoir-population/jeux/population-demain/
+  answer_accessible_url_text: 'INED : Imaginez la population de demain'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -34197,10 +34232,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
 - id: 893
-  text: 'Dans son ouvrage, Emmanuel Pont pose une question un peu taboue : quel est
-    l’impact carbone d’avoir un enfant ? A quel résultat aboutit-il ?'
+  text: Peut-on calculer le poids carbone d'avoir un enfant ?
   hint: ''
   type: QCM
   category: 7
@@ -34212,12 +34246,14 @@
   answer_option_b: 10t  CO2e / an
   answer_option_c: 60t CO2e / an
   answer_option_d: Impossible à estimer
-  answer_correct: a
-  has_ordered_answers: false
-  answer_explanation: "le chiffre 60t largement médiatisé ( https://twitter.com/afpfr/status/1049282260707540992\n\
-    \ ) mais additione l'impact futur de toute sa descendance hypothétique. Plusieurs\
-    \ pb. Moyenne actuelle : 10t, mais différent selon âge et va baisser. Mon alternative\
-    \ : 1t / an"
+  answer_correct: ad
+  has_ordered_answers: true
+  answer_explanation: Il est difficile de l'estimer car il dépendra des émissions
+    futures de l'enfant ... et potentiellement de sa descendance. Le chiffre de 60t
+    qui a été largement médiatisé additionne l'impact futur de toute sa descendance
+    hypothétique, si les émissions par personne restent stables pour toujours ...
+    Dans son livre, Emmanuel Pont propose un calcul alternatif pour une famille qui
+    fait des efforts pour réduire ses émissions, qui arrive à 1t CO2e par an.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -34233,7 +34269,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-04-16'
+  updated: '2022-05-31'
 - id: 894
   text: Lequel de ces produits présente la plus grande empreinte eau par kg ?
   hint: ''
