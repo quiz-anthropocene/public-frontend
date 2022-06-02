@@ -84,7 +84,7 @@
       </i>
     </div>
     <div v-if="newsletterRegistrationCallback" class="alert alert-success" role="alert">
-      {{ $t('newsletter.success') }}
+      {{ $t('newsletter.doubleOptInSuccess') }}
       <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="newsletterCleanup()">
         <span aria-hidden="true">&times;</span>
       </button>
@@ -111,14 +111,14 @@
           </div>
         </form>
         <div v-if="newsletterRegistrationLoading">
-          Inscription en cours...
+          {{ $t('newsletter.pending') }}
         </div>
         <div class="alert alert-success" v-if="newsletterRegistrationSuccess">
-          Merci pour votre inscription ! 💯
+          {{ $t('newsletter.success') }}
         </div>
         <div class="alert alert-danger" v-if="newsletterRegistrationError">
-          Une erreur s'est produite au moment de votre inscription 😢
-          <span class="fake-link" @click="newsletterCleanup()">Réessayer</span>
+          {{ $t('newsletter.error') }}
+          <span class="fake-link" @click="newsletterCleanup()">{{ $t('newsletter.errorRetry') }}</span>
         </div>
       </div>
     </div>

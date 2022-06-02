@@ -13,6 +13,13 @@
         "helpUs": "Help us",
         "toAddMore": "to add more"
     },
+    "newsletter": {
+        "pending": "Pending...",
+        "success": "Thanks for signing up! 💯 (you'll receive a confirmation e-mail)",
+        "error": "An error occured 😢",
+        "errorRetry": "Retry",
+        "doubleOptInSuccess": "Newsletter signup confirmed!"
+    },
     "footer": {
         "home": "Home",
         "about": "About this application",
