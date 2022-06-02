@@ -14,7 +14,11 @@
         "toAddMore": "à en rajouter plus"
     },
     "newsletter": {
-        "success": "Votre inscription à la newsletter a été enregistrée, merci !"
+        "pending": "Inscription en cours...",
+        "success": "Merci pour votre inscription ! 💯 (vous recevrez un e-mail de validation)",
+        "error": "Une erreur s'est produite au moment de votre inscription 😢",
+        "errorRetry": "Réessayer",
+        "doubleOptInSuccess": "Votre inscription à la newsletter a été enregistrée, merci !"
     },
     "footer": {
         "home": "Menu principal",

@@ -241,13 +241,6 @@ export default {
         document.getElementById('scroll-to-answer').scrollIntoView({ behavior: 'smooth' });
       }, 25);
       // stats
-      var body = JSON.stringify({
-          question: this.question.id,
-          choice: cleanedAnswerPicked,
-          source: this.context.source,
-          quiz: this.context.quiz ? this.context.quiz.id : null,
-        })
-      console.log(body)
       fetch(`${process.env.VUE_APP_STATS_ENDPOINT}/question-answer-event/`, {
         method: 'POST',
         headers: {
