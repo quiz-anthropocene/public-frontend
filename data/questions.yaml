@@ -33915,7 +33915,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3a39191f.jpg
   answer_image_explanation: C'est encore plus important quand on regarde depuis les
     débuts de l'Histoire !
   answer_extra_info: La population mondiale, par continent et par pays sur https://ourworldindata.org/grapher/population
@@ -33924,7 +33924,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-09'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 885
   text: Lesquelles de ces projections démographiques sont jugées réalistes à l’horizon
     2100 ?
@@ -33956,7 +33956,7 @@
   answer_scientific_url_text: 'Nature : How far will global population rise? Researchers
     can’t agree'
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3ce31bca.jpg
   answer_image_explanation: Les trajectoires estimées pour les 3 principaux organismes
     qui participent à cet exercice
   answer_extra_info: ''
@@ -33965,7 +33965,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 886
   text: L’Inde devrait bientôt devenir le pays le plus peuplé au monde. Quel y est
     le nombre moyen d’enfants par femme ?
@@ -33993,7 +33993,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5abf16c5.jpg
   answer_image_explanation: By iashris.com - https://indiainpixels.xyz, CC BY-SA 4.0,
     https://commons.wikimedia.org/w/index.php?curid=112844699
   answer_extra_info: ''
@@ -34002,7 +34002,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 887
   text: Aujourd'hui l'humanité utilise 50% de la surface terrestre habitable. La grande
     majorité est pour l'agriculture. Quelle part est occupée par l'élevage ?
@@ -34031,7 +34031,7 @@
   answer_scientific_url_text: 'Science : Reducing food''s environmental impacts through
     producers and consumers'
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cb34e1f4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 46
@@ -34039,7 +34039,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 888
   text: Quel est le rapport entre les émissions de CO2 annuelles par d’un Français
     et celles d’un Nigérien ?
@@ -34068,7 +34068,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3e59c6f3.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 46
@@ -34076,7 +34076,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 889
   text: Depuis 1900, la population humaine a été multipliée par 5 et les émissions
     de CO2 par 20. Dans cet essor des émissions, quelle est la contribution de l'augmentation
@@ -34115,7 +34115,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 890
   text: Peut-on estimer une population maximale soutenable sur terre ?
   hint: ''
@@ -34152,7 +34152,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 891
   text: Imaginons qu’on parvienne (progressivement !) à réduire la population d’un
     facteur 2. Quel serait l’effet sur les émissions de gaz à effet de serre ?
@@ -34192,7 +34192,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 892
   text: Imaginons qu’on institue demain une politique de l’enfant unique en Françe,
     à la chinoise. De combien la population française serait-elle réduite à l’horizon
@@ -34224,7 +34224,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/232904aa.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 46
@@ -34232,7 +34232,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 893
   text: Peut-on calculer le poids carbone d'avoir un enfant ?
   hint: ''
@@ -34253,7 +34253,7 @@
     qui a été largement médiatisé additionne l'impact futur de toute sa descendance
     hypothétique, si les émissions par personne restent stables pour toujours ...
     Dans son livre, Emmanuel Pont propose un calcul alternatif pour une famille qui
-    fait des efforts pour réduire ses émissions, qui arrive à 1t CO2e par an.
+    fait des efforts pour réduire ses émissions. Il arrive à 1t CO2e par an.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -34261,15 +34261,16 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fe7727a6.jpg
+  answer_image_explanation: Infographie sur l'étude tant controversée sur le poids
+    carbone d'un nouvel enfant
   answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-05-31'
+  updated: '2022-06-03'
 - id: 894
   text: Lequel de ces produits présente la plus grande empreinte eau par kg ?
   hint: ''
