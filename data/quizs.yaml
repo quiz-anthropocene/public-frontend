@@ -429,13 +429,13 @@
   difficulty_average: 1.7
   language: Français
   author: 2
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/5ef9451b.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2022-06-03'
 - id: 15
   name: La Fresque du Climat - pour aller au-delà
   slug: la-fresque-du-climat-pour-aller-au-dela
@@ -1643,18 +1643,27 @@
     sur cette croissance ? Pour quel résultats et à quel terme ? Dans ce quiz nous
     allons revenir sur les chiffres les plus marquants sur cette question épineuse.</p>
   conclusion: ''
-  questions: []
+  questions:
+  - 884
+  - 885
+  - 886
+  - 887
+  - 888
+  - 889
+  - 890
+  - 891
+  - 892
   tags: []
-  difficulty_average: 0.0
+  difficulty_average: 2.4
   language: Français
-  author: 2
+  author: 46
   image_background_url: https://static.fnac-static.com/multimedia/Images/FR/NR/68/b4/d3/13874280/1540-1.jpg
   has_audio: false
   publish: false
   spotlight: false
   visibility: PUBLIC
   created: '2022-05-16'
-  updated: '2022-05-16'
+  updated: '2022-06-03'
 - id: 82
   name: Le design au service du monde de demain
   slug: le-design-au-service-du-monde-de-demain
