@@ -29,7 +29,7 @@
   answer_scientific_url: http://www.fao.org/food-loss-and-food-waste/fr/
   answer_scientific_url_text: Food Loss and Food Waste, FAO
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/6/4/7/6472109f5f_129947_sources-du-gaspillage-alimentaire.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000001-9d71.jpg
   answer_image_explanation: Répartition des pertes de nourriture dans le monde
   answer_extra_info: ''
   author: 2
@@ -70,7 +70,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://jancovici.com/wp-content/uploads/2016/04/Combien-suis-je-un-esclavagiste-1200x540.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000002-ddcb.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -110,7 +110,7 @@
   answer_scientific_url: http://www.decroissance.qc.ca/sites/default/files/journal/Schneider_l_Ecologiste.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://images.theconversation.com/files/297327/original/file-20191016-98644-c9y1zz.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000003-c4dd.png
   answer_image_explanation: "Effet rebond lié au covoiturage (dans le cas d’un scénario\
     \ de covoiturage volontariste (hausse de 25 % du taux d’occupation moyen des véhicules\
     \ en Île-de-France. \nSource de l'image : Viguié et Coulombel, à partir de Coulombel\
@@ -152,7 +152,7 @@
   answer_scientific_url: https://www.pnas.org/content/115/44/E10397
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://lareleveetlapeste.fr/wp-content/uploads/2019/01/image-couv-sitz-929292.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000004-ef1c.jpg
   answer_image_explanation: ''
   answer_extra_info: 'article avec vidéo Brut : https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/video-a-porto-rico-la-disparition-drastique-des-insectes-inquiete-les-scientifiques_3149365.html
 
@@ -195,7 +195,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.notre-planete.info/actualites/images/geologie/minis/hydrate-methane.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000005-8055.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -231,7 +231,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i2.wp.com/www.ocean-climate.org/wp-content/uploads/2015/03/augmentation-effet-de-serre1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000006-a08a.png
   answer_image_explanation: ''
   answer_extra_info: 'lien vers l’image « situation actuelle » seule: https://i1.wp.com/ocean-climate.org/wp-content/uploads/2015/03/FichesP%C3%87dagogiques_EffetDeSerre_02.jpg'
   author: 2
@@ -352,7 +352,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.washingtonpost.com/blogs/wonkblog/files/2015/03/chicago1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000009-571e.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -423,7 +423,7 @@
   answer_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf#page20
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/consommation-finale-energie-secteur-france-2015_zoom.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000011-1e66.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 16
@@ -588,7 +588,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.conventioncitoyennepourleclimat.fr/wp-content/uploads/2019/12/122019-CCC-insta-effetdeserre.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000015-e05b.png
   answer_image_explanation: 'Le méthane et le protoxyde d''azote sont respectivement
     28 et 298 fois plus puissant que le CO2 en terme de potentiel de réchauffement
     global. '
@@ -665,7 +665,7 @@
   answer_scientific_url: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
   answer_scientific_url_text: CO₂ and Greenhouse Gas Emissions - Our World in Data
   answer_reading_recommendation: ''
-  answer_image_url: https://img.aws.la-croix.com/2018/12/07/1300988266/Emissions-carbone-monde_1_1399_1250.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000017-ebef.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 16
@@ -736,7 +736,7 @@
   answer_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/aa7541
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DsBdo7AWwAARSX1.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000019-157b.jpg
   answer_image_explanation: Le graphique est tiré des résultats d'un article publié
     en 2017 dans la revue Environmental Research Letters
   answer_extra_info: ''
@@ -771,7 +771,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://stockage.univ-valenciennes.fr/EcoPEM/BoiteB/res/I_a.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000020-e08c.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 24
@@ -821,7 +821,7 @@
   answer_scientific_url: https://scripps.ucsd.edu/programs/keelingcurve/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DchL6tsX4AA_kmn.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000021-644d.jpg
   answer_image_explanation: ''
   answer_extra_info: 'https://ourworldindata.org/grapher/global-co-concentration-ppm
 
@@ -868,7 +868,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://storage.googleapis.com/prd-blogs/2019/12/Emissions-1960-2019-monde-par-personne-et-pays-par-source.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000022-2a4f.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -906,7 +906,7 @@
   answer_scientific_url: https://www.globalcarbonproject.org/carbonbudget/19/files/GCP_CarbonBudget_2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.icos-cp.eu/sites/default/files/inline-images/s45_Global_Sources_and_Sinks_newcm.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000023-2247.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -940,7 +940,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.inspiraction.news/wp-content/uploads/2016/07/localisation-de-la-couche-d-ozone.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000024-954a.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -980,7 +980,7 @@
   answer_scientific_url: https://www.nature.com/articles/nature14016
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.carbonbrief.org/media/366129/percentage-usable2.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000025-8808.png
   answer_image_explanation: ''
   answer_extra_info: 'la question initiale faisait mention de 80% de pétrole.
 
@@ -1027,7 +1027,7 @@
   answer_scientific_url: https://www.nature.com/articles/nature10915
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://img.over-blog.com/500x297/4/34/30/34/ere-glaciere.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000026-f398.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1065,7 +1065,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://reporterre.net/IMG/jpg/emissions_de_me_thane_lie_es_aux_activite_s_humaines_1_.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000027-9e95.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1105,7 +1105,7 @@
   answer_scientific_url: https://ocean-climate.org/?page_id=4538
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i2.wp.com/ocean-climate.org/wp-content/uploads/2015/03/acidification-des-oceans.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000028-68be.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1187,7 +1187,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/7/f/37fe435a1d_34646_44141-1-meltpondscau.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000030-3d39.jpg
   answer_image_explanation: ''
   answer_extra_info: 'autres articles :
 
@@ -1229,7 +1229,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.britannica.com/82/152182-050-719F9121/state-diagram-carbonates-conditions-oceans-2100.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000031-529f.jpg
   answer_image_explanation: ''
   answer_extra_info: https://www.lemonde.fr/blog/oceanclimat/2015/11/18/tout-ce-quil-faut-savoir-sur-lacidification-des-oceans/
   author: 16
@@ -1269,7 +1269,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://sciencesdelavieetdelaterre93.files.wordpress.com/2018/08/18-bis-exp-fonte-glaces.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000032-0333.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1306,7 +1306,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.mercator-ocean.fr/wp-content/uploads/2019/04/ocean_vert.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000033-a633.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1343,7 +1343,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/03_Technical-Summary-TS.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/greenhouse-gas-emissions-by-sector.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000034-34c5.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1383,7 +1383,7 @@
   answer_scientific_url: https://www.nature.com/articles/480032a
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2018/12/1bbcc05b-aed7-4c77-9f95-62107f3bcfe7/838_001_1bc9tr_jpeg.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000035-6f2d.jpg
   answer_image_explanation: ''
   answer_extra_info: https://multimedia.scmp.com/news/world/article/3000839/permafrost/
   author: 2
@@ -1421,7 +1421,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.britannica.com/82/152182-050-719F9121/state-diagram-carbonates-conditions-oceans-2100.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000036-5b50.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1461,7 +1461,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://mongabay-images.s3.amazonaws.com/14/0911-report-chart.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000037-549b.jpg
   answer_image_explanation: Pays les plus affectés par la déforestation. Les % en
     bleu représentent la proportion du bois qui est exportée. Sont illustrés également
     les principales causes par pays (en anglais).
@@ -1546,7 +1546,7 @@
   answer_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/tableau-de-bord-biomethane-injecte-dans-les-reseaux-de-gaz-quatrieme-trimestre-2019
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.batiactu.com/images/auto/620-465-c/20140214_172254_martina-noltenordsee-luftbilderdscf8495.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000039-d0fc.jpg
   answer_image_explanation: Méthaniseur
   answer_extra_info: https://www.energylab.sia-partners.com/observatoire-biomethane-2019
   author: 16
@@ -1585,7 +1585,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/inline-images/production-electricite-france-2019.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000040-b15f.png
   answer_image_explanation: ''
   answer_extra_info: "https://www.statistiques.developpement-durable.gouv.fr/tableau-de-bord-biogaz-pour-la-production-delectricite-premier-trimestre-2020\r\
     \nhttps://www.actu-environnement.com/ae/news/biogaz-raccordement-electricite-recul-30222.php4"
@@ -1625,7 +1625,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://1.bp.blogspot.com/-YPGrQC-JsnA/WddGXvQ24pI/AAAAAAAArGI/IDCmYNxgbdgfzbhOyglN5--QAFYCZKe3gCLcBGAs/s1600/Surp%25C3%25AAche%2BFin%2Bdu%2Bpoisson%2B2048%2BBoris%2BWorm%2BCharles%2BClover%2BScience%2BThe%2BTelegraph%2Bmontage.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000041-2a47.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1664,7 +1664,7 @@
   answer_scientific_url: https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://jancovici.com/wp-content/uploads/2016/04/gaz_graph7.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000042-3e8a.png
   answer_image_explanation: 'Forçage radiatif résiduel, au cours du temps, et en watts
     par mètre carré, provenant d’un million de tonnes de gaz émises à l’instant 0
     (échelles logaritmiques).
@@ -1706,7 +1706,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.aws.la-croix.com/2018/08/01/1200959070/001-17y9ya-preview_2_1399_1504.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000043-9410.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1789,7 +1789,7 @@
   answer_scientific_url: https://ipbes.net/news/Media-Release-Global-Assessment-Fr
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.notre-planete.info/actualites/images/pollution/minis/sol-pollue-mine-Pyrites-Australie.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000045-4ffb.jpg
   answer_image_explanation: 'Sol pollué dans la mine Brukunga Pyrites, à l''est d''Adelaide,
     sud de l''Australie en 1992
 
@@ -1869,7 +1869,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.les-crises.fr/images/1300-climat/1357-banquise/arctique-1979-2011.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000047-9052.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1906,7 +1906,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://berkeleyearth.org/wp-content/uploads/2018/01/LandOcean2017-1024x582.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000048-ed71.png
   answer_image_explanation: L'océan est en bleu, les terres en rouge.
   answer_extra_info: ''
   author: 2
@@ -1981,7 +1981,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.guim.co.uk/img/media/6254405aa6e58794f74e5a782413c2f1f151ee9d/0_0_5410_3245/master/5410.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=8eff17dc64f679a3950d41fde8cb632a
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000050-6887.jpg
   answer_image_explanation: Érosion des sols au Royaume-Uni
   answer_extra_info: 'Autre source : https://www.theguardian.com/environment/2015/dec/02/arable-land-soil-food-security-shortage'
   author: 2
@@ -2024,7 +2024,7 @@
   answer_scientific_url: http://www.senat.fr/rap/r18-528/r18-5281.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn-s-www.ledauphine.com/images/C2000558-A859-4CD7-9768-E4FCF9741D1F/NW_raw/une-vue-aerienne-de-la-plaine-de-valence-l-urbanisation-grignote-les-terres-agricoles-trop-pour-certains-le-d-l-f-h-1297717691.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000051-693d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2059,7 +2059,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://youmatter.world/app/uploads/sites/3/2018/01/desertification-rechauffement-climatique.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000052-b014.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2093,7 +2093,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.aws.la-croix.com/2017/10/20/1200885917/En-20015-9-millions-deces-prematures-etaient-pollution-monde_1_1398_584.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000053-456e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2128,7 +2128,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.lemde.fr/2019/02/27/0/0/534/790/688/0/60/0/4fc8975_hhpqAspZg2YOSObK32N1qr8C.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000054-7a8c.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2164,7 +2164,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.lemde.fr/2014/03/27/47/0/1024/512/688/0/60/0/ill_4390558_7e89_594017.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000055-5c31.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2205,7 +2205,7 @@
   answer_scientific_url: https://science.sciencemag.org/content/347/6223/768/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/15907.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000056-dd09.jpeg
   answer_image_explanation: ''
   answer_extra_info: https://www.theseacleaners.org/la-pollution-plastique-oceanique/
   author: 2
@@ -2242,7 +2242,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.aws.la-croix.com/2019/04/09/1301014562/zones-dechets-plastique-oceans_1_1399_1027.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000057-b47c.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2274,7 +2274,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://fingfx.thomsonreuters.com/gfx/rngs/GLOBAL-PLASTIC/010050KC19P/PLASTIC-BAN-01.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000058-106b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2310,7 +2310,7 @@
   answer_scientific_url: https://www.wwf.fr/rapport-planete-vivante-2018
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.lefigaro.fr/assets/infographie/print/1fixe/201440_biodiversite_WWF.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000059-13aa.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2345,7 +2345,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/17911.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000060-6fb7.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2419,7 +2419,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2015/07/dd013420-36df-11e5-9c4f-005056a87c89/838_ide-population-mondiale-20150730-01.webp
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000062-003e.webp
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2456,7 +2456,7 @@
   answer_scientific_url_text: Deux milliards de personnes de plus sur la Terre en
     2050, selon l’ONU | ONU Info
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/dependency-age-groups-to-2100.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000063-7173.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2493,7 +2493,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/global-primary-energy.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000064-4db9.png
   answer_image_explanation: 'Consommation globale directe d''énergie primaire dans
     le monde. Unité : Téra watt-heures. '
   answer_extra_info: ''
@@ -2531,7 +2531,7 @@
   answer_scientific_url: https://www.sciencedirect.com/science/article/abs/pii/S095937800800099X
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.alternatives-economiques.fr/sites/default/files/public/media/20110501/F609049D.GIF
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000065-7561.gif
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2647,7 +2647,7 @@
   answer_scientific_url: http://www.energycrisis.com/Laherrere/opec2001.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/3/37/Decouvertes-petrole.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000068-fe0d.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2695,7 +2695,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.researchgate.net/profile/Paul_Fenton6/publication/284183970/figure/fig4/AS:668520648044558@1536399151955/Production-at-todays-oil-fi-elds-has-already-started-to-decline-Source-UK-Energy.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000069-a14e.png
   answer_image_explanation: 'Production globale de pétrole, passé et prévisons à 2030.
 
     En vert : puits de pétrole brut en opération ; en gris: puits en développement
@@ -2740,7 +2740,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/global-primary-energy.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000070-6f29.png
   answer_image_explanation: Evolution de la consommation d’énergie primaire dans le
     monde, par source
   answer_extra_info: ''
@@ -2781,7 +2781,7 @@
   answer_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2019/09/hcc_rapport_annuel_grand_public_2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/Empreinte-carbone-moyenne-france_zoom.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000071-c59a.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2818,7 +2818,7 @@
   answer_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2019/09/hcc_rapport_annuel_grand_public_2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.carbone4.com/wp-content/uploads/2019/09/e7a118de-1838-4812-9073-15a01cf56c90.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000072-fa9d.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2854,7 +2854,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DuzZwawWsAEWb02.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000073-7d93.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2893,7 +2893,7 @@
   answer_scientific_url: https://www.nature.com/articles/d41586-018-06610-y
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://media.nature.com/w1172/magazine-assets/d41586-018-06610-y/d41586-018-06610-y_16109898.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000074-4e92.jpg
   answer_image_explanation: 'Data center de Facebook à Luleå, en Suède. Crédit : Jonathan
     Nackstrand/AFP/Getty'
   answer_extra_info: 'graphique pollution mails : https://www.leparisien.fr/resizer/r6wWjvmpV910kaFMATZjfE2L_4Q=/800x512/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/JW6W6ZUMZPZXPL6ZFWWDD5ISMM.jpg
@@ -2934,7 +2934,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://images.theconversation.com/files/266321/original/file-20190328-139361-ydg7u5.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000075-3d63.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -2978,7 +2978,7 @@
   answer_scientific_url: https://journals.sagepub.com/doi/10.1177/2053019616677743
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://en.ugtu.net/sites/default/files/users/user_302/large_spectehnika-head.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000076-545a.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -3016,7 +3016,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://images.theconversation.com/files/266321/original/file-20190328-139361-ydg7u5.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000077-eef5.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -3058,7 +3058,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i0.wp.com/bonpote.com/wp-content/uploads/2020/07/image-34.png?w=684&ssl=1
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000078-1591.png
   answer_image_explanation: ''
   answer_extra_info: 'https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/
 
@@ -3097,7 +3097,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2020/02/e24440ab-1b03-42d3-858c-fdbc74f3e0ef/838_001_1km0ss_jpeg.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000079-9106.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 26
@@ -3135,7 +3135,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://le-rechauffement-climatique-tpe.e-monsite.com/medias/images/cycle-glaciaire2-mieux.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000080-9952.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 26
@@ -3221,7 +3221,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.letelegramme.fr/images/2018/03/02/energie-negawatt-le-bon-scenario_3841704_540x356p.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000082-8d8e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 16
@@ -3261,7 +3261,7 @@
   answer_scientific_url: http://www.globalcarbonatlas.org/fr/CO2-emissions
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000083-2bf0.svg
   answer_image_explanation: Émissions de CO2 par personne dans le monde, mesurées
     en tonnes équivalent CO2. On parle ici d'émissions sur le territoire et non d'empreinte
     carbone
@@ -3303,7 +3303,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www1.onf.fr/outils/en_avant/20170517-163243-382976/2/++illustration++/++display++w950.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000084-3b46.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3373,7 +3373,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://franceboisforet.fr/wp-content/uploads/2018/03/surface-boisee-600x600.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000086-b99d.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3410,7 +3410,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://blog.troude.com/wp-content/uploads/2018/11/20181126-Montage-Haut-Conseil-pour-le-Climat-768x562.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000087-e0be.jpg
   answer_image_explanation: Les membres du Haut Conseil pour le Climat (Valérie Masson-Delmotte,
     Jean-Marc Jancovici, Corinne Le Quere, Pascal Canfin, Laurence Tubiana, Pierre
     Larrouturou, etc)
@@ -3457,7 +3457,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ecologique-solidaire.gouv.fr/sites/default/files/Trajectoire%20et%20budgets%20carbone.PNG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000088-ade1.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3527,7 +3527,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ile-de-france.ademe.fr/sites/default/files/styles/image_dossier/public/logo-ademe-republique-francaise.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000090-4e38.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3562,7 +3562,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i0.wp.com/verdamano.com/wp-content/uploads/2020/04/La-pollution-numerique-en-chiffres_1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000091-232c.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 21
@@ -3606,7 +3606,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ecoconso.be/sites/default/files/publications/une-tonne-co2.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000092-f7b2.jpg
   answer_image_explanation: Ce qu'on peut faire en émettant une tonne de CO2
   answer_extra_info: ''
   author: 1
@@ -3645,7 +3645,7 @@
   answer_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-essentiel-142-empreinte-matiere-avril2018b.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DbDcakTWAAASzbV.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000093-77a7.jpg
   answer_image_explanation: ''
   answer_extra_info: l'iPhone 5 fait 110g et a un écran de 4". D'après l'ADEME (https://www.ademe.fr/sites/default/files/assets/documents/acv-biens-equipements-201809-rapport.pdf,
     pages 24 et 25), un smartphone de +5,5" / 200g, a un "sac à dos écologique" =
@@ -3683,7 +3683,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.novethic.fr/fileadmin/gobelets-plastiques-pixabay.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000094-f949.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 21
@@ -3761,7 +3761,7 @@
   answer_scientific_url: https://www.ademe.fr/sites/default/files/assets/documents/pertes-gaspillages-alimentaires-etat-lieux-201605-synt.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/4918.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000096-e2d7.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3797,7 +3797,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.notre-planete.info/actualites/images/eau/eau-Terre.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000097-8f7e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 21
@@ -3852,7 +3852,7 @@
   answer_scientific_url: https://portals.iucn.org/library/sites/library/files/documents/2017-002-Fr.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/18234.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000098-7d21.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 21
@@ -3892,7 +3892,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://energie.sia-partners.com/sites/default/files/image1_58.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000099-7ef1.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3931,7 +3931,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://fr.wikipedia.org/wiki/Conf%C3%A9rences_des_Nations_unies_sur_les_changements_climatiques#/media/Fichier:COP21_participants_-_30_Nov_2015_(23430273715).jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000100-3349.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -3969,7 +3969,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://media.lesechos.com/api/v1/images/view/5d31e6b63e454644062f5a67/contenu_article/image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000101-412b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -4046,7 +4046,7 @@
   answer_scientific_url: https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/consommation-energie-primaire-monde-2018_zoom.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000103-99ea.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/001.jpg'
   author: 5
@@ -4084,7 +4084,7 @@
   answer_scientific_url: https://www.iea.org/data-and-statistics?country=FRANCE&fuel=Energy%20consumption&indicator=Total%20final%20consumption%20(TFC)%20by%20source
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/consommation-finale-energie-france-2015.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000104-5681.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -4124,7 +4124,7 @@
   answer_scientific_url: https://www.ipcc.ch/about/history/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.eaufrance.fr/sites/default/files/2019-06/evenements-politiques-internationaux-de-lutte-contre-changement-climatique.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000105-f5a3.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -4157,7 +4157,7 @@
   answer_scientific_url: https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source
   answer_scientific_url_text: Data overview - IEA
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/energy-consumption-by-source-and-region.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000106-41db.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/004.jpg'
   author: 5
@@ -4197,7 +4197,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdnfr1.img.sputniknews.com/img/103982/33/1039823388_1:0:4137:2238_1000x541_80_0_0_ca3008d757be511d68a3af98984093c5.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000107-9cc8.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -4301,7 +4301,7 @@
   answer_scientific_url: https://unfccc.int/resource/docs/2009/cop15/fre/11a01f.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/body_img/public/img/2018/12/12/co2-ppm-total-with-trends-2018.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000110-525f.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image alternative: https://pbs.twimg.com/media/DV92X06VoAE3YmC.jpg'
   author: 5
@@ -4409,7 +4409,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://elsegundo.chevron.com/-/media/elsegundo/our-businesses/images/about-whats-in-a-barrel-of-oil-1160x400.jpg?h=400&w=1160&la=en&hash=C38C2BAB6EE0C76F6B22A777F9B26D30
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000113-4f4f.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -4486,7 +4486,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/OPEC.svg/langfr-2880px-OPEC.svg.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000115-217a.svg
   answer_image_explanation: Pays membres de l’OPEP
   answer_extra_info: ''
   author: 5
@@ -4520,7 +4520,7 @@
   answer_scientific_url: https://www.eia.gov/tools/faqs/faq.php?id=709&t=6
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/19382.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000116-7c7c.jpeg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/014.jpg'
   author: 5
@@ -4839,7 +4839,7 @@
   answer_scientific_url: https://ccfa.fr/wp-content/uploads/2018/09/analyse_statistiques_2018_fr.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.webfleet.com/fr_fr/webfleet/blog/wp-content/uploads/sites/151/2020/04/Consumo_Carburante_truck-1181063_1280-820x350-768x328.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000125-0878.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -5066,7 +5066,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://sites.uclouvain.be/teclim-conferences/Climat/Effet_de_serre_files/droppedImage.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000131-3662.jpg
   answer_image_explanation: Graphique établi sur la base du 4ème rapport d’évaluation
     du GIEC, 2007 (AR4, WGI)
   answer_extra_info: ''
@@ -5338,7 +5338,7 @@
   answer_scientific_url: https://www.ipcc.ch/reports/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://ceriscope.sciences-po.fr/sites/default/files/03c_chronologie_GIEC_1988-2014-01.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000138-8738.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -5375,7 +5375,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://idata.over-blog.com/2/72/04/81/GES-dans-atmosphere.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000139-4fff.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -5517,7 +5517,7 @@
   answer_scientific_url: https://www.nature.com/articles/ncomms14845
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://files.secure.website/wscfus/9167827/4542986/co2-400-m-years-400-ppm-20-m.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000143-4b58.png
   answer_image_explanation: ''
   answer_extra_info: 'Réponse initiale: Il y a 20 millions d’années.
 
@@ -5737,7 +5737,7 @@
   answer_scientific_url: https://www.iea.org/reports/key-world-energy-statistics-2019
   answer_scientific_url_text: Key World Energy Statistics 2020 – Analysis - IEA
   answer_reading_recommendation: ''
-  answer_image_url: https://149354316.v2.pressablecdn.com/wp-content/uploads/2019/11/20191127_Russia_02-1.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000149-f5df.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/047.jpg'
   author: 5
@@ -5812,7 +5812,7 @@
   answer_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-12/datalab-46-chiffres-cles-du-climat-edition-2019-novembre2018_1.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/7/72/Global_warming_potential.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000151-8c8e.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/049.png'
   author: 5
@@ -5885,7 +5885,7 @@
   answer_scientific_url: https://unctad.org/en/PublicationsLibrary/rmt2018_en.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://geoconfluences.ens-lyon.fr/images/img-eurocorridors/img-hackenberg/graphique1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000153-fe58.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/051.jpg'
   author: 5
@@ -6003,7 +6003,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.pinimg.com/originals/09/7c/6d/097c6d8adb100e04db3615e72ff93dea.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000156-4624.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Sources : - http://atheniangroup.com/pdf/Specs.pdf page 2 -
     http://imo.org/en/OurWork/Environment/PollutionPrevention/AirPollution/Documents/Third
@@ -6046,7 +6046,7 @@
   answer_scientific_url: http://www.itopf.org/knowledge-resources/data-statistics/statistics/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://lemarin.ouest-france.fr/sites/default/files/styles/full/public/2019/01/11/itopf.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000157-a09e.jpg
   answer_image_explanation: ''
   answer_extra_info: 'images originales:
 
@@ -6202,7 +6202,7 @@
   answer_scientific_url: https://www.iea.org/reports/key-world-energy-statistics-2019
   answer_scientific_url_text: Key World Energy Statistics 2020 – Analysis - IEA
   answer_reading_recommendation: ''
-  answer_image_url: https://i1.wp.com/images.mapsofworld.com/answers/2018/08/map-coal-producing-countries.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000161-6950.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/059.jpg
 
@@ -6342,7 +6342,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://stock.rtl.lu/rtl/728/rtl2008.lu/nt/p/2019/12/12/00/5861f8cdff6ffd87e4b6311f64707d7d.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000165-7440.jpeg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/063.png'
   author: 5
@@ -6628,7 +6628,7 @@
   answer_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2018-full-report.pdf#page28
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/16307.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000173-ba2d.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -7094,7 +7094,7 @@
   answer_scientific_url: http://www.globalcarbonatlas.org/en/CO2-emissions
   answer_scientific_url_text: CO2 Emissions | Global Carbon Atlas
   answer_reading_recommendation: ''
-  answer_image_url: https://reporterre.net/local/cache-vignettes/L720xH480/arton16196-43e69.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000186-7399.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -7312,7 +7312,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2017/09/WG1AR5_Chapter01_FINAL.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://globalclimat.files.wordpress.com/2015/12/time_tas_world_mon1_ave12_ref1986-2005_1900-2100_cmip5one_rcp26_rcp45_rcp60_rcp85.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000192-ed88.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/091.jpg'
   author: 5
@@ -7348,7 +7348,7 @@
   answer_scientific_url: https://scrippsco2.ucsd.edu/history_legacy/early_keeling_curve.html
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.esrl.noaa.gov/gmd/webdata/ccgg/trends/co2_data_mlo.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000193-4e06.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/092.jpg'
   author: 5
@@ -7388,7 +7388,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://image.slidesharecdn.com/wgiar5presentation-141209074339-conversion-gate01/95/fifth-assessment-report-working-group-i-20-638.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000194-34a5.jpg
   answer_image_explanation: ''
   answer_extra_info: 'images originales:
 
@@ -7539,7 +7539,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://fr.statista.com/graphique/1/689808/classement-mondial-plus-grandes-centrales-electricite-hydraulique.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000198-9907.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/097.jpg'
   author: 5
@@ -8018,7 +8018,7 @@
   answer_scientific_url: https://www.norskpetroleum.no/en/facts/historical-production/#annually
   answer_scientific_url_text: Historical production on the NCS - Norwegianpetroleum.no
   answer_reading_recommendation: ''
-  answer_image_url: https://assets.letemps.ch/sites/default/files/styles/original/public/media/2019/02/01/file73w6xgbtw7s2c7kjdoz.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000212-45f7.jpg
   answer_image_explanation: Production de pétrole et de gaz de la Norvège, le pic
     du pétrole est atteint en 2000, le pic des deux combinés est en 2004.
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/111.jpg'
@@ -8055,7 +8055,7 @@
   answer_scientific_url: http://idele.fr/filieres/publication/idelesolr/recommends/chiffres-cles-bovins-2018.html
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://fr.statista.com/graphique/1/546295/nombre-bovins-par-type-france.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000213-aa3e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -8157,7 +8157,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://yonnelautre.fr/local/cache-vignettes/L527xH718/to_en_france-da2af.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000216-897c.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/115.jpg
 
@@ -8300,7 +8300,7 @@
   answer_scientific_url: https://di.unfccc.int/detailed_data_by_party
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ecologique-solidaire.gouv.fr/sites/default/files/Trajectoire%20et%20budgets%20carbone.PNG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000220-f736.png
   answer_image_explanation: Les chiffres de la Stratégie Nationale Bas-Carbone (SNBC)
     française sont légèrement différents, mais l'ordre de grandeur est similaire (division
     par 6)
@@ -8337,7 +8337,7 @@
   answer_scientific_url: http://www.georisques.gouv.fr/dossiers/telechargement/gaspar
   answer_scientific_url_text: Procédures administratives relatives aux risques | Géorisques
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/CK2rIHiWIAAYvh0.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000221-42cb.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/120.jpg'
   author: 5
@@ -8376,7 +8376,7 @@
   answer_scientific_url: http://la.climatologie.free.fr/glaciation/glaciation.htm
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://trustmyscience.com/wp-content/uploads/2020/03/axes-terre.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000222-2ce5.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 24
@@ -8445,7 +8445,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/world-electricity-by-source.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000224-511d.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -8528,7 +8528,7 @@
   answer_scientific_url: https://www.flightradar24.com/blog/flightradar24s-2019-by-the-numbers/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://transport.sia-partners.com/sites/default/files/evolution_du_nombre_de_passagers_aeriens_mondiaux.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000226-72e0.jpg
   answer_image_explanation: ''
   answer_extra_info: 'graphique afp: https://pbs.twimg.com/media/DTz5DdNXcAARmq3.jpg'
   author: 1
@@ -8568,7 +8568,7 @@
   answer_scientific_url: https://unctad.org/en/PublicationsLibrary/rmt2015_en.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.wedemain.fr/photo/art/grande/25272365-26676984.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000227-94f3.jpg
   answer_image_explanation: ''
   answer_extra_info: https://info.arte.tv/fr/le-commerce-maritime-mondial-infographies
   author: 1
@@ -8646,7 +8646,7 @@
   answer_scientific_url: https://www.internal-displacement.org/global-report/grid2019/french.html
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.internal-displacement.org/global-report/grid2020/img/2020/versions/GRID2020_NDs-dl.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000229-c880.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -8689,7 +8689,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ifpenergiesnouvelles.fr/sites/ifpen.fr/files/inline-images/Enjeux%20et%20prospective/Decryptage/TRANSPORTS/Capture_moteur.PNG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000230-c8c6.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 23
@@ -8732,7 +8732,7 @@
   answer_scientific_url: https://www.nobelprize.org/prizes/peace/2007/summary/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.20mn.fr/hRuPxZIGQ2Wv3u3qBkDmxA/960x614_al-gore-gauche-rajendra-pachauri-responsable-giec-recu-prix-nobel-paix-10-decembre-oslo.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000231-1756.jpg
   answer_image_explanation: L'ancien vice-président américain Al Gore (à gauche) et
     l'Indien Rajendra Pachauri, le président du Giec (à droite), ont reçu le prix
     Nobel lundi 10 décembre 2007 à Olso (Norvège).
@@ -8770,7 +8770,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://alimentation-generale.fr/wp-content/uploads/2018/06/jean-jouzel.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000232-cbbd.jpg
   answer_image_explanation: Photographie de Jean Jouzel
   answer_extra_info: ''
   author: 1
@@ -8812,7 +8812,7 @@
   answer_scientific_url: http://www.globalcarbonatlas.org/en/CH4-emissions
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.cade-environnement.org/files/2017/01/Capture-m%C3%A9thane.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000233-26e9.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -8845,7 +8845,7 @@
   answer_scientific_url: https://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=t2020_rd300&language=en&toolbox=sort
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://stock.rtl.lu/rtl/728/rtl2008.lu/nt/p/2019/12/12/00/5861f8cdff6ffd87e4b6311f64707d7d.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000234-df06.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -8881,7 +8881,7 @@
   answer_scientific_url: https://ec.europa.eu/eurostat/documents/2995521/9779955/8-08052019-AP-FR.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.bfmtv.com/c/7778/6571/241/82fbb2c7503afdd6e6e95a898c17b.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000235-8596.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -8920,7 +8920,7 @@
   answer_scientific_url: https://www.iea.org/reports/co2-emissions-from-fuel-combustion-2019
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/0/04/2019_AQAL_Capital_and_Tom_Schulz_variwide_chart_%22Worldwide_Co2_emissions%22.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000236-e141.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -9470,7 +9470,7 @@
   answer_scientific_url: https://www.bilans-ges.ademe.fr/fr/actualite/actualite/detail/id/23
   answer_scientific_url_text: ADEME - Site Bilans GES
   answer_reading_recommendation: ''
-  answer_image_url: https://quoidansmonassiette.fr/wp-content/uploads/2020/01/Emissions-en-GES-pour-100g-de-prot%C3%A9ines.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000251-fdf3.jpg
   answer_image_explanation: ''
   answer_extra_info: 'id: 135
 
@@ -10377,7 +10377,7 @@
   answer_scientific_url: https://www.eia.gov/petroleum/imports/browser/#/?vs=PET_IMPORTS.WORLD-US-ALL.A
   answer_scientific_url_text: Crude Imports
   answer_reading_recommendation: ''
-  answer_image_url: https://static.latribune.fr/1093805/statista-venezuela-pays-producteurs-petrole-fournisseurs-des-etats-unis.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000276-b3f8.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/160.jpg
 
@@ -10415,7 +10415,7 @@
   answer_scientific_url: https://webstore.iea.org/electricity-information-2019
   answer_scientific_url_text: IEA – International Energy Agency - IEA
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/world-electricity-by-source.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000277-95bd.png
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/161.jpg
 
@@ -10670,7 +10670,7 @@
   answer_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-11/datalab-essentiel-159-les-ventes-de-produits-petroliers-en-2017-novembre2018.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ouest-france.fr/sites/default/files/styles/image-640/public/2019/04/22/chauffage-de-plus-en-plus-de-foyers-passent-du-fioul-au-gaz_0.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000284-7725.jpg
   answer_image_explanation: 1l de fioul = 0,88 kg
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/168.jpg
 
@@ -11038,7 +11038,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/3/2020/07/SROCC_SPM_fr.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/7/5/4/7540dfa366_82076_cop21-l-impact-du-rechauffement-mer.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000294-7c2f.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/178.jpg
 
@@ -11075,7 +11075,7 @@
   answer_scientific_url: https://www.ecologique-solidaire.gouv.fr/sites/default/files/ONERC_Rapport_2014_Arbre_Et_Foret_WEB.pdf#page25
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.pinimg.com/originals/03/1a/13/031a13494a4dfc1685fec2bc28598ae5.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000295-0e4a.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/179.jpg
 
@@ -11632,7 +11632,7 @@
   answer_scientific_url: https://www.ecologique-solidaire.gouv.fr/lhistoire-des-ministeres
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2020/04/d7231897-3927-43df-9f0b-7b069610bd82/838_img_20200416_181537_797.webp
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000310-8875.webp
   answer_image_explanation: Robert Poujade, ministre de l'Environnement, février 1971
     (archive INA)
   answer_extra_info: https://twitter.com/laydgeur/status/1185074794854793216
@@ -12518,7 +12518,7 @@
   answer_scientific_url_text: International - U.S. Energy Information Administration
     (EIA)
   answer_reading_recommendation: ''
-  answer_image_url: https://2.bp.blogspot.com/_RSKFRo9oWAQ/S3PAQxv9y4I/AAAAAAAAAS8/cQCBUQsITbI/s1600/article_1504-ECO-biocarburants.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000334-069a.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/218.jpg
 
@@ -12850,7 +12850,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/09_SROCC_Ch05_FINAL-1.pdf#page450
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://fr.boell.org/sites/default/files/uploads/2018/05/p25_ouvaleco2.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000343-0480.png
   answer_image_explanation: ''
   answer_extra_info: 'images originales:
 
@@ -14532,7 +14532,7 @@
   answer_scientific_url: http://www.globalcarbonatlas.org/fr/CO2-emissions
   answer_scientific_url_text: CO2 Emissions | Global Carbon Atlas
   answer_reading_recommendation: ''
-  answer_image_url: https://s.brsimg.com/static-000/cache/i/content/images/d/9/1/d91a8646db5d1a6af1e576f0a88c046f-1024x731.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000387-5730.jpg
   answer_image_explanation: chiffres de 2015
   answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/271.png
 
@@ -14717,7 +14717,7 @@
   answer_scientific_url: https://www.apple.com/euro/environment/pdf/a/generic/products/iphone/iPhone_11_PER_sept2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DbDcakTWAAASzbV.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000392-42ee.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Réponses modifiées pour permettre de mémoriser l’ordre de grandeur
     de l’empreinte carbone d’un smartphone: ~100 kg CO2eq
@@ -15085,7 +15085,7 @@
   answer_scientific_url: https://www.ademe.fr/sites/default/files/assets/documents/le-revers-de-mon-look.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.lagentlefactory.com/blog/wp-content/uploads/2020/02/impact-environnemental-jean.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000402-d6fd.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 23
@@ -15128,7 +15128,7 @@
   answer_scientific_url: https://www.pnas.org/content/early/2020/04/28/1910114117
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Solitaire-Carcasse_de_voiture_%285%29.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000403-a993.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -15168,7 +15168,7 @@
   answer_scientific_url: https://www.ecologique-solidaire.gouv.fr/securite-dapprovisionnement-en-petrole
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.f1g.fr/media/figaro/742x/2016/05/27/INFea0c2548-2359-11e6-8d16-c8945fbf1a82-742x590.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000404-1446.jpg
   answer_image_explanation: ''
   answer_extra_info: 'image alternative: https://www.sagess.fr/sites/default/files/evolution-stock-sagess-2018-fr.jpg'
   author: 1
@@ -15211,7 +15211,7 @@
   answer_scientific_url: https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?prg.htm
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ravijen.fr/wp-content/uploads/2018/09/tableau-PRG.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000405-1b7d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -15252,7 +15252,7 @@
   answer_scientific_url: https://public.wmo.int/fr/medias/communiqu%C3%A9s-de-presse/l%E2%80%99omm-confirme-que-2019-se-classe-au-deuxi%C3%A8me-rang-des-ann%C3%A9es-les-plus
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.notre-planete.info/actualites/images/climat/temperatures-Terre-1850-2019.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000406-3b2e.png
   answer_image_explanation: ''
   answer_extra_info: super question Raphaël !
   author: 1
@@ -15288,7 +15288,7 @@
   answer_scientific_url: http://assets.worldwildlife.org/publications/790/files/original/Reviving_Ocean_Economy_REPORT_low_res.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.f1g.fr/media/figaro/768x/2015/04/23/INF7739c6bc-e9b5-11e4-9931-49d28addcbb7-805x515.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000407-683d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -15331,7 +15331,7 @@
   answer_scientific_url: https://www-pub.iaea.org/MTCD/Publications/PDF/RDS-2-39_web.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/20750.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000408-0a10.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -15369,7 +15369,7 @@
   answer_scientific_url: https://www-pub.iaea.org/MTCD/Publications/PDF/RDS-2-39_web.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/part_nucleaire_production_electricite_2014_zoom.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000409-20e9.png
   answer_image_explanation: Chiffres de 2014
   answer_extra_info: ''
   author: 1
@@ -15408,7 +15408,7 @@
   answer_scientific_url: https://www.rte-france.com/fr/article/bilans-electriques-nationaux
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/inline-images/production-electricite-france-2019.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000410-de71.png
   answer_image_explanation: ''
   answer_extra_info: 'image alternative: https://fr.statista.com/statistiques/472545/proportion-nucleaire-production-d-electricite-france/'
   author: 1
@@ -15452,7 +15452,7 @@
   answer_scientific_url: https://www.agora-energiewende.de/fileadmin2/Projekte/2019/Jahresauswertung_EU_2019/172_A-EW_EU-Annual-Report-2019_Web.pdf#page31
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3-eu-west-1.amazonaws.com/usb-prd-upload/images/thumb_840xh/5e3c2e1b562a5.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000411-a3e1.png
   answer_image_explanation: Chiffres de 2019, et évolution par rapport à 2018
   answer_extra_info: 'image alternative: http://huet.blog.lemonde.fr/files/2019/05/le-bon-graphique.jpg
 
@@ -15510,7 +15510,7 @@
   answer_scientific_url: https://www.nature.com/articles/s41558-020-0797-x
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://images.theconversation.com/files/336075/original/file-20200519-152344-ynlr5t.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000412-6fc3.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -15622,7 +15622,7 @@
   answer_scientific_url: http://www.cndp.fr/crdp-reunion/node/169
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.les-crises.fr/images/1300-climat/1300-effet-de-serre/sans-effet-serre.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000415-b2fa.gif
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
@@ -15695,7 +15695,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.citepa.org/wp-content/uploads/apercu_graphsecten1-768x595.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000417-4c9d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
@@ -15732,7 +15732,7 @@
   answer_scientific_url: https://www.citepa.org/fr/2020_01_a09/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://asset.lemde.fr/prd-blogs/2019/12/Evolution-empreinte-carbone-France-1995-2018.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000418-4d4b.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
@@ -15964,7 +15964,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/04/FS_review_process_fr.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://archive.ipcc.ch/img/graphics/WP_AR6_en_web.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000425-0f56.jpg
   answer_image_explanation: Description de l’écriture et de la revue des rapports
     du GIEC
   answer_extra_info: ''
@@ -16004,7 +16004,7 @@
   answer_scientific_url: https://www.ipcc.ch/languages-2/francais/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://archive.ipcc.ch/img/graphics/ipcc_chart_web_fr.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000426-f601.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
@@ -16040,7 +16040,7 @@
   answer_scientific_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ipcc.ch/site/assets/uploads/2020/02/WP_AR6_fr_web-1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000427-c282.png
   answer_image_explanation: Processus de construction d'un rapport du GIEC
   answer_extra_info: ''
   author: 7
@@ -16082,7 +16082,7 @@
   answer_scientific_url: https://archive.ipcc.ch/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.terresacree.org/images/rechauffement4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000428-7e10.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -16463,7 +16463,7 @@
   answer_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=231&yr=2016
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.journalactionpme.com/wp-content/uploads/2019/08/ressources-terrestres.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000439-1dee.jpg
   answer_image_explanation: Excédent ou déficit écologique par pays. Le rouge correspond
     à un déficit entre 4 et 5 planètes.
   answer_extra_info: ''
@@ -16501,7 +16501,7 @@
   answer_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=1021,1006,1018,2002,1012&yr=2016
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.journalactionpme.com/wp-content/uploads/2019/08/ressources-terrestres.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000440-8a1d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
@@ -16542,7 +16542,7 @@
   answer_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/4/4b/CO2_per_capita_per_country.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000441-365b.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
@@ -16914,7 +16914,7 @@
   answer_scientific_url: https://www.climat-en-questions.fr/reponse/mecanismes-devolution/aerosols-climat-par-olivier-boucher
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.meteosuisse.admin.ch/content/meteoswiss/fr/home/klima/klimawandel-schweiz/aerosolbeobachtung/_jcr_content/content/image.mchimg.png/1523967565353.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000452-a7c2.png
   answer_image_explanation: 'Schéma de l’effet des aérosols sur le climat. Source
     : www.meteosuisse.admin.ch'
   answer_extra_info: ''
@@ -16951,7 +16951,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.meteofrance.fr/documents/10192/78631664/500x320xEcart-temperatures-moyennes-_1900_2019.png.pagespeed.ic.iwclJNbIQu.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000453-0d2c.png
   answer_image_explanation: Anomalies de température en France par rapport à la moyenne
     de référence 1981-2010 (période de 30 ans)
   answer_extra_info: ''
@@ -17087,7 +17087,7 @@
   answer_scientific_url: https://www.climat-en-questions.fr/reponse/fonctionnement-climat/definir-climat-par-jean-louis-fellous
   answer_scientific_url_text: Comment peut-on définir le climat ?
   answer_reading_recommendation: ''
-  answer_image_url: https://static3.mclcm.net/iod/images/v2/69/photo/188031/650x370_100_300_000000x30x0.jpg?ts=20151110184722
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000457-d9de.jpg
   answer_image_explanation: 'Source : www.lachainemeteo.com'
   answer_extra_info: ''
   author: 7
@@ -17161,7 +17161,7 @@
   answer_scientific_url: http://documents.irevues.inist.fr/handle/2042/51959
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.meteocontact.fr/uploads/lsv/eruptionvolcanique.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000459-52a5.jpg
   answer_image_explanation: 'Source : www.meteocontact.fr'
   answer_extra_info: ''
   author: 7
@@ -17197,7 +17197,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://climate.nasa.gov/system/content_pages/main_images/1320_effects-image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000460-37d1.jpg
   answer_image_explanation: 'Exemples de conséquences du changement climatique, incendies,
     sécheresses, ouragans. Source : Shutterstock.com'
   answer_extra_info: ''
@@ -17237,7 +17237,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.lemde.fr/2018/10/08/0/0/1068/3461/688/0/60/0/54015ef_OV604aPS8tam_kucE2rBcQDB.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000461-0376.png
   answer_image_explanation: 'Source : www.lemonde.fr'
   answer_extra_info: ''
   author: 7
@@ -17342,7 +17342,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://mk0comwattcorpojop4e.kinstacdn.com/wp-content/uploads/2017/11/panneau-solaire-en-detail.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000464-c138.jpg
   answer_image_explanation: 'Source : www.comwatt.com'
   answer_extra_info: ''
   author: 7
@@ -17376,7 +17376,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/production-mondiale-electricite-2015_zoom.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000465-dd11.png
   answer_image_explanation: Répartition de la production électrique mondiale par source
     d'énergie en 2015 (©Connaissance des Énergies)
   answer_extra_info: ''
@@ -17450,7 +17450,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.photovoltaique.guidenr.fr/images/energie-primitive.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000467-f8d6.jpg
   answer_image_explanation: 'Source : http://www.photovoltaique.guidenr.fr'
   answer_extra_info: ''
   author: 7
@@ -17491,7 +17491,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.sfen.org/sites/default/files/public/thumbnails/image/infograf_7_3_0.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000468-dbf7.png
   answer_image_explanation: 'Émissions de gaz à effet de serre par kWh produit (en
     CO2 équivalent). Le nucléaire est une énergie bas-carbone : sur l’ensemble de
     son cycle de vie (construction, exploitation, démantèlement), ses émissions sont
@@ -17534,7 +17534,7 @@
   answer_scientific_url: https://en.wikipedia.org/wiki/List_of_tidal_power_stations
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Barrage_de_la_Rance.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000469-25cb.jpg
   answer_image_explanation: L’usine marémotrice de la Rance
   answer_extra_info: ''
   author: 7
@@ -17753,7 +17753,7 @@
   answer_scientific_url: https://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2012-0449+0+DOC+XML+V0//FR&language=FR#top
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.seaandhuman.org/wp-content/uploads/2018/12/photo-01-15.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000475-84c6.jpg
   answer_image_explanation: Requin amputé de ses ailerons et mort asphyxié
   answer_extra_info: ''
   author: 32
@@ -17796,7 +17796,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://planete.lesechos.fr/wp-content/uploads/2020/03/corail-poissons.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000476-e5cc.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -18089,7 +18089,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.clg-daudet-carpentras.ac-aix-marseille.fr/spip/IMG/file/techno/niv6/la%20geothermie.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000484-4b69.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -18232,7 +18232,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://college.lutterbach.free.fr/EISE/exposes2015/hydrol/images/hydrolienne.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000488-15c3.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -18304,7 +18304,7 @@
   answer_scientific_url: https://www.carbonbrief.org/factcheck-what-is-the-carbon-footprint-of-streaming-video-on-netflix
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.iopscience.com/images/1748-9326/9/5/054007/Full/erl487799f3_online.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000490-82d1.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -18343,7 +18343,7 @@
   answer_scientific_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999GL900070
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ipcc.ch/site/assets/uploads/2018/03/fig2-20.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000491-c193.gif
   answer_image_explanation: Courbe en crosse de hockey dans le 3ème rapport du GIEC
     (2001)
   answer_extra_info: ''
@@ -18422,7 +18422,7 @@
   answer_scientific_url: https://blogs.scientificamerican.com/observations/earth-day-and-the-hockey-stick-a-singular-message/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ipcc.ch/site/assets/uploads/2018/03/fig2-20.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000493-ce26.gif
   answer_image_explanation: Courbe en crosse de hockey dans le 3ème rapport du GIEC
     (2001)
   answer_extra_info: ''
@@ -18499,7 +18499,7 @@
   answer_scientific_url: https://ethw.org/w/images/a/ae/Edison_and_Pearl_Street,_Text,_031410.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://energystory.org/wp-content/uploads/2015/08/Pearl-Street-Station.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000495-234f.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -18789,7 +18789,7 @@
   answer_scientific_url: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
   answer_scientific_url_text: CO₂ and Greenhouse Gas Emissions - Our World in Data
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/exports/annual-co2-emissions-per-country-da8ccccaf5fc9d6bab92c3527f0cc596_v20_850x600.svg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000503-fbe3.svg
   answer_image_explanation: de 1890 à 2006
   answer_extra_info: ''
   author: 5
@@ -18925,7 +18925,7 @@
   answer_scientific_url_text: Climate-induced variations in global wildfire danger
     from 1979 to 2013 | Nature Communications
   answer_reading_recommendation: ''
-  answer_image_url: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms8537/MediaObjects/41467_2015_Article_BFncomms8537_Fig2_HTML.jpg?as=webp
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000507-985e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -19269,7 +19269,7 @@
   answer_scientific_url: https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.afdb.org/sites/default/files/styles/1700x900/public/cop_25_in_madrid.jpg?itok=_rsG0osI
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000517-b76e.jpg
   answer_image_explanation: COP25 à Madrid
   answer_extra_info: ''
   author: 5
@@ -19397,7 +19397,7 @@
   answer_scientific_url: http://www.capcomespace.net/dossiers/espace_privee/SpaceX/falcon_9_heavy.htm
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/0/3/2/03221bc992_50164229_crew-dragon-nasa.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000520-2e83.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -19432,7 +19432,7 @@
   answer_scientific_url: https://www.ipcc.ch/sr15/download/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ipcc.ch/site/assets/uploads/sites/2/2019/03/front-cover-SR15-report.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000521-51b9.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -19615,7 +19615,7 @@
   answer_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/04/hcc_rapport_spcial_annexe.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://reporterre.net/local/cache-vignettes/L720xH493/arton20450-6fdd1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000526-ff3e.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -19662,7 +19662,7 @@
   answer_scientific_url: https://carbonmonitor.org/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://asset.lemde.fr/prd-blogs/2020/10/secteurs.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000527-18cd.png
   answer_image_explanation: Les secteurs émetteurs de CO2 étudiés par l’équipe de
     Zhu Liu. L’électricité est en orange, les transports routiers en violet. L’aviation
     en jaune montre que près de la moitié des émissions, donc des vols, ont disparu,
@@ -19816,7 +19816,7 @@
   answer_scientific_url: https://www.lemonde.fr/blog/huet/2019/02/06/climat-et-economie-le-co2-explique-tout/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://live.staticflickr.com/4918/46316143381_22a979fb60_b.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000531-96da.jpg
   answer_image_explanation: Émissions de CO2 par personne en fonction du niveau de
     PIB par personne, par pays, chiffres 2011 en dollars
   answer_extra_info: https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/
@@ -19854,7 +19854,7 @@
   answer_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://specials-images.forbesimg.com/imageserve/993477484/960x0.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000532-b1f0.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -19931,7 +19931,7 @@
   answer_scientific_url: https://www.unifa.fr/sites/default/files/2019-04/BROCHURE%20REGION%202017-2018.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.circuits-culture.com/sites/default/files/images/unifa.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000534-9b4c.png
   answer_image_explanation: Les engrais simples sont souvent de la famille des engrais
     NPK c'est-à-dire les trois symboles représentant l'azote (symbole chimique N),
     le phosphore (P) ou le potassium (K). Mais ils peuvent aussi être à base de calcium
@@ -20131,7 +20131,7 @@
   answer_scientific_url: https://ourworldindata.org/grapher/annual-co2-emissions-per-country
   answer_scientific_url_text: Annual CO₂ emissions - Our World in Data
   answer_reading_recommendation: ''
-  answer_image_url: https://ourworldindata.org/grapher/exports/annual-co-emissions-by-region.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000539-71eb.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -20204,7 +20204,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg/800px-Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000541-df99.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -20355,7 +20355,7 @@
   answer_scientific_url: https://www.partage-le.com/2016/09/02/lagriculture-ou-la-pire-erreur-de-lhistoire-de-lhumanite-par-jared-diamond-clive-dennis/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cardiologydoc.files.wordpress.com/2012/02/cave-man-diet.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000545-80ef.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 8
@@ -20389,7 +20389,7 @@
   answer_scientific_url: https://1000ideespourlacorse.files.wordpress.com/2018/10/human_running_adaptations.png?w=840
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://lasueur.com/wp-content/uploads/2017/05/Persistence-Hunting.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000546-384b.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 8
@@ -20427,7 +20427,7 @@
   answer_scientific_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057944
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://c8.alamy.com/compfr/fkcjp6/homo-erectus-plaque-livre-britannique-fkcjp6.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000547-7384.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 8
@@ -20499,7 +20499,7 @@
   answer_scientific_url: https://www.nature.com/articles/nature12267
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://4.bp.blogspot.com/-UelFVcR9bC8/UcxQ9dYteJI/AAAAAAAAwOk/tYCN2i4iBgU/s400/human-evolution-throwing_02.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000549-d426.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 8
@@ -20575,7 +20575,7 @@
   answer_scientific_url: https://www.pourlascience.fr/sd/prehistoire/les-reseaux-sociaux-a-lepoque-gravettienne-6879.php
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.larousse.fr/encyclopedie/data/images/1011156-LEurope_pr%c3%a9historique.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000551-9595.jpg
   answer_image_explanation: 'L''Europe préhistorique. Crédit : Larousse'
   answer_extra_info: ''
   author: 8
@@ -20649,7 +20649,7 @@
   answer_scientific_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842772/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://www.gambassa.com/gambassafiles/images/images/2078/homo_erectus_harnessing_fire_v1.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000553-f8ba.gif
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 8
@@ -20723,7 +20723,7 @@
   answer_scientific_url: https://phys.org/news/2020-05-supercomputer-simulations-reveal-neanderthal-extinction.html?fbclid=IwAR0YH-YV7fSdA6DEh6OoMqJp-bVaSr6xb0GaEM42zCagXZxXh97iNpVt3Ys
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/8/88/Sapiens_neanderthal_comparison_en_blackbackground.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000555-40b0.png
   answer_image_explanation: Crânes d'Homo sapiens (à gauche) et de Néandertalien (à
     droite)
   answer_extra_info: ''
@@ -21103,7 +21103,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ensi.ch/fr/wp-content/uploads/sites/4/2014/05/kernkraftwerk_beznau_ensi-1.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000566-eaf7.jpg
   answer_image_explanation: Centrale nucléaire de Beznau en suisse, donc le réacteur
     n°1 d’une puissance de 365 MW est le plus ancien réacteur nucléaire en service
     dans le monde
@@ -21146,7 +21146,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://static.usbeketrica.com/images/thumb_840xh/5f10743fbc5ad.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000567-3a20.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -21256,7 +21256,7 @@
   answer_scientific_url: https://macsphere.mcmaster.ca/handle/11375/15697
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://assets.letemps.ch/sites/default/files/media/2014/12/18/07c018f6-86da-11e4-9cd5-59e213f8caa2.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000570-b1ff.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -21298,7 +21298,7 @@
   answer_scientific_url: http://www.terrierman.com/russianfoxfarmstudy.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.sciencesetavenir.fr/assets/img/2015/02/23/cover-r4x3w1000-57e155beab460-domestication-du-chien.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000571-451e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 13
@@ -21339,7 +21339,7 @@
   answer_scientific_url: https://academic.oup.com/bioscience/article/59/7/593/334816
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://blog.nature.org/science/files/2018/06/tnc_84671281-1260x708.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000572-acf4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 13
@@ -21382,7 +21382,7 @@
   answer_scientific_url: https://doi.org/10.1017/CBO9780511844058.009
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.dailymail.co.uk/i/pix/2015/04/15/10/27975FAA00000578-0-The_map_above_shows_major_volcanic_eruptions_from_the_past_2_000-a-17_1429091055374.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000573-165b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 13
@@ -21455,7 +21455,7 @@
   answer_scientific_url: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/cultural-evolution-of-prosocial-religions/01B053B0294890F8CFACFB808FE2A0EF#
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i.ibb.co/2Ky46rH/Lien-foi-soci-t.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000575-5edd.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 8
@@ -21509,7 +21509,7 @@
   answer_scientific_url: https://fr.wikipedia.org/wiki/%C3%89change_colombien
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Intikawan_Amantani.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000576-f409.jpg
   answer_image_explanation: Culture en terrasses sur l'île de Taquile, où sont cultivés
     des aliments de base andéens, tels que le quinoa, la pomme de terre et le blé.
     Ce dernier est une importation européenne.
@@ -21550,7 +21550,7 @@
   answer_scientific_url: https://www.nationalgeographic.fr/espace/et-si-la-plus-grande-tempete-solaire-jamais-enregistree-etait-venir
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img.maxisciences.com/article/mourir-moins-con/eruption-solaire_9b358aa01d21270d7599f9825ae7a32a470af690.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000577-d5bc.jpg
   answer_image_explanation: Eruption solaire massive
   answer_extra_info: ''
   author: 13
@@ -21584,7 +21584,7 @@
   answer_scientific_url: https://fr.wikipedia.org/wiki/Quatre_grandes_inventions_de_la_Chine_antique
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/5/53/Model_Si_Nan_of_Han_Dynasty.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000578-7a2d.jpg
   answer_image_explanation: Maquette d'une cuiller indiquant le sud
   answer_extra_info: ''
   author: 13
@@ -21627,7 +21627,7 @@
   answer_scientific_url: https://mitpress.mit.edu/books/energy-and-civilization
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.geostrategia.fr/wp-content/uploads/2018/09/pixiz-05-09-2018-18-11-54.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000579-e730.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 13
@@ -21665,7 +21665,7 @@
   answer_scientific_url: https://journals.openedition.org/etudesrurales/9545
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.agro.basf.ch/de/Pictures/images2_pictures/startseite_pictures/geschichte_pictures/cheval_1540x866.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000580-aa44.jpg
   answer_image_explanation: ''
   answer_extra_info: F
   author: 13
@@ -21704,7 +21704,7 @@
   answer_scientific_url: https://www.lemonde.fr/planete/article/2014/12/24/theo-colborn-1927-2014_4545871_3244.html
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i1.wp.com/www.lavoixdubio.com/wp-content/uploads/2015/03/Perturbateurs-endocriniens-salle-de-bain.jpg?fit=800%2C600
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000581-7560.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 13
@@ -21742,7 +21742,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://imgix.bustle.com/rehost/2016/9/13/6029141b-a962-4ed0-b403-27d0abdbb1a5.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000582-b2f6.png
   answer_image_explanation: Défi lancé à Robert Förstemann, champion du monde de sprint
     et cycliste olympique qui possède des cuisses démesurées, capable de développer
     700 watts, de faire fonctionner un simple grille-pain.
@@ -22162,7 +22162,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://media.lesechos.com/api/v1/images/view/5f619c1f3e45466cb2592835/1280x720-webp/0603890130962-web-tete.webp
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000594-54b1.webp
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -22202,7 +22202,7 @@
   answer_scientific_url: https://link.springer.com/article/10.1007%2Fs10584-020-02785-4
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2020-09/climate%20change%20sea%20level%20rise%20in%20pacific.jpg?itok=vplfV1-0
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000595-1da8.jpg
   answer_image_explanation: Augmentation du niveau des mers entre 1992 et 2014 (crédit
     NASA)
   answer_extra_info: https://news.uchicago.edu/story/climate-change-will-ultimately-cost-humanity-100000-ton-carbon-scientists-estimate
@@ -22290,7 +22290,7 @@
   answer_scientific_url: https://sustainablefinancesurvey.de/sites/sustainablefinancesurvey.de/files/documents/european-sustainable-finance-survey-2020_bf.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i2.wp.com/bonpote.com/wp-content/uploads/2020/10/image-10.png?w=648&ssl=1
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000597-03ca.png
   answer_image_explanation: 'Bleu: rentre dans le périmètre de la classification.
     Vert : et remplit les critères de l''UE'
   answer_extra_info: ''
@@ -22331,7 +22331,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ctvnews.ca/polopoly_fs/1.5122075.1601210290!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000598-401f.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 19
@@ -22368,7 +22368,7 @@
   answer_scientific_url: https://www.ran.org/wp-content/uploads/2020/03/Banking_on_Climate_Change__2020_vF.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.rangerminerals.com/wp-content/uploads/2020/06/jpmorgan-oil-price.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000599-4ebf.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 19
@@ -22407,7 +22407,7 @@
   answer_scientific_url: https://www.ran.org/wp-content/uploads/2020/03/Banking_on_Climate_Change__2020_vF.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.connaissancedesenergies.org/sites/default/files/album_images/investissements-banques-energies-fossiles-2016-2019_zoom.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000600-7ee7.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 19
@@ -22442,7 +22442,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.lerevenu.com/sites/site/files/field/image/coffre-orshutterstock.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000601-ca5d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 19
@@ -22478,7 +22478,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.statcdn.com/Infographic/images/normal/22479.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000602-b0ee.jpeg
   answer_image_explanation: ''
   answer_extra_info: 'graph pour l''Europe : https://ec.europa.eu/eurostat/statistics-explained/images/a/a8/General_government_debt%2C_2018_and_2019_(¹)_(General_government_consolidated_gross_debt%2C_%_of_GDP)_2020-10-22.png'
   author: 19
@@ -22521,7 +22521,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://images.firstpost.com/wp-content/uploads/2019/09/covergreenbonds.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000603-0881.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 19
@@ -22700,7 +22700,7 @@
   answer_scientific_url: https://www.oxfamfrance.org/wp-content/uploads/2020/10/rapportBanque_OXFAM_v5.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.oxfamfrance.org/wp-content/uploads/2019/11/Hexagones-1160x580.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000608-5373.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 22
@@ -22736,7 +22736,7 @@
   answer_scientific_url: https://www.connaissancedesenergies.org/sites/default/files/pdf-pt-vue/fiche_pedago_primaire_ou_finale_-_coment_comptabiliser_l_energie_-_mars_2020.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://negawatt.org/scenario/images/sankeys/Sankey_SnW_2017_v3_2015_simplifie.jpg?8792397
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000609-aeb6.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 22
@@ -22814,7 +22814,7 @@
   answer_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/10/hcc_rapport_empreinte-carbone.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://media.lesechos.com/api/v1/images/view/5f7ed78b8fe56f38403f5d66/par_defaut/image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000611-f443.jpg
   answer_image_explanation: ''
   answer_extra_info: Bilan des gaz à effet de serre comme définis dans la loi. https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024354907/2011-07-13
   author: 22
@@ -22921,7 +22921,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn-s-www.leprogres.fr/images/1CBF5BB7-B190-4840-9E8C-0C9EA5F9A05B/NW_raw/dans-le-departement-cette-methode-de-debroussaillage-et-de-valorisation-par-le-feu-de-vegetaux-sur-pied-est-interdite-sur-toute-l-annee-par-l-arrete-prefectoral-du-17-decembre-2002-photo-d-illustration-le-progres-1490470336.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000614-ac9d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -23039,7 +23039,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://4.bp.blogspot.com/-bE8gqXA0YR4/UVyaCguEt9I/AAAAAAAAAdw/uiIYaIULD9A/s1600/Energie+et+d%C3%A9veloppement+-+Les+trois+m%C3%A9thodes+de+capture+du+carbone+pr%C3%A9combustion,+oxyr%C3%A9duction+et+postcombustion.PNG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000617-6e4a.png
   answer_image_explanation: 'Les trois méthodes de captage du carbone : postcombustion,
     oxyréduction et précombustion (Source de l''image http://energie-developpement.blogspot.com)'
   answer_extra_info: ''
@@ -23078,7 +23078,7 @@
   answer_scientific_url: https://www.globalccsinstitute.com/archive/hub/publications/201688/global-ccs-cost-updatev4.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.eia.gov/todayinenergy/images/2017.10.31/main.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000618-8688.png
   answer_image_explanation: Installation de capture et stockage du CO2 sur la centrale
     au charbon de Petra Nova au Texas. On y voit les différents composants pour capturer
     le CO2.
@@ -23118,7 +23118,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.thenationalnews.com/image/policy:1.213290:1499318519/image/jpeg.jpg?f=16x9&w=1200&$p$f$w=dfa40e8
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000619-d53b.jpg
   answer_image_explanation: Installation de production d'acier équipée de capture
     et de stockage de CO2 aux Émirats Arabes Unis
   answer_extra_info: ''
@@ -23159,7 +23159,7 @@
   answer_scientific_url: http://acces.ens-lyon.fr/acces/thematiques/eedd/climat/pedagogie/hors_classe/ciment.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://slideplayer.fr/slide/3302277/11/images/9/Le+ciment+%3A+fabrication.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000620-3cc9.jpg
   answer_image_explanation: Fabrication du ciment
   answer_extra_info: ''
   author: 5
@@ -23197,7 +23197,7 @@
   answer_scientific_url_text: CCUS in the transition to net-zero emissions – CCUS
     in Clean Energy Transitions – Analysis - IEA
   answer_reading_recommendation: ''
-  answer_image_url: https://bioenergyinternational.com/app/uploads/sites/3/2019/11/IEA_WEO2019_SDS_CO2_reductions.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000621-de7b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -23233,7 +23233,7 @@
   answer_scientific_url_text: Estimating geological CO2 storage security to deliver
     on climate mitigation | Nature Communications
   answer_reading_recommendation: ''
-  answer_image_url: https://www.brgm.fr/sites/default/files/galerie_stockagegeol_01.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000622-c2f6.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -23620,7 +23620,7 @@
   answer_scientific_url: https://www.irsn.fr/FR/expertise/rapports_expertise/radioprotection-homme/Pages/Bilan-2018-exposition-professionnelle-rayonnements-ionisants-France.aspx
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DoA_LwtW0AAAAKl.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000632-aa90.jpg
   answer_image_explanation: ''
   answer_extra_info: https://twitter.com/laydgeur/status/1278797750788919301
   author: 5
@@ -23711,7 +23711,7 @@
   answer_scientific_url: https://francoisruffin.fr/aerien-quota-carbone-individuel/
   answer_scientific_url_text: 'Aérien : pour un quota carbone individuel'
   answer_reading_recommendation: ''
-  answer_image_url: https://i.ytimg.com/vi/Nczi3jeJJuI/maxresdefault.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000634-2645.jpg
   answer_image_explanation: ''
   answer_extra_info: 'https://twitter.com/laydgeur/status/1280240217321070594
 
@@ -25134,7 +25134,7 @@
   answer_scientific_url_text: Comment économiser l’eau et l’énergie sous sa douche
     ? | écoconso
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2019/01/415ff1b9-dff4-4c4d-896b-12fa7e4f93ca/870x489_maxsportsworldtwo628478.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000670-cfce.jpg
   answer_image_explanation: ''
   answer_extra_info: https://twitter.com/laydgeur/status/1329023763539750918
   author: 5
@@ -25322,7 +25322,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://mktg.factosoft.com/consoglobe/image-upload/img/triDuMetal.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000675-f395.jpg
   answer_image_explanation: Processus de recyclage du métal
   answer_extra_info: ''
   author: 2
@@ -25395,7 +25395,7 @@
   answer_scientific_url: https://www.iea.org/reports/world-energy-investment-2020/key-findings#abstract
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://newenergydrupalfs.s3.amazonaws.com/annual_clean_energy_investment_bnef_january_2019.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000677-f8cd.jpg
   answer_image_explanation: Le graphe s'arrête en 2018 mais la répartition entre les
     différents investissements a les même proportions en 2019.
   answer_extra_info: ''
@@ -25437,7 +25437,7 @@
   answer_scientific_url: https://www.oxfamfrance.org/rapports/banques-des-engagements-climat-a-prendre-au-4eme-degre/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.outside.fr/wp-content/uploads/2020/10/Oxfam-Banques-720x640.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000678-e925.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 22
@@ -25479,7 +25479,7 @@
   answer_scientific_url: http://citycarbonfootprints.info/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://coincentral.com/wp-content/uploads/2019/04/bitcoin-energy-consumpti.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000679-b5f7.jpeg
   answer_image_explanation: ''
   answer_extra_info: https://youtu.be/WhI72CFrqEk
   author: 22
@@ -25645,7 +25645,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://wolfstreet.com/wp-content/uploads/2020/07/US-IATA-2020-07-29-air-passenger-volume-.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000683-6d46.png
   answer_image_explanation: Volume de trafic, mesuré en milliards de passagers payants
     x km. (RPK = Revenue Passenger x Kilometers)
   answer_extra_info: ''
@@ -25687,7 +25687,7 @@
   answer_scientific_url: https://www.rte-france.com/actualites/covid19_quels_impacts_sur_la_consommation_electricite
   answer_scientific_url_text: ''
   answer_reading_recommendation: 'autres lien : https://www.strategie.gouv.fr/point-de-vue/impacts-de-crise-covid-19-systeme-electrique'
-  answer_image_url: https://asset.lemde.fr/prd-blogs/2020/04/Baisse-conso-elec-RTE.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000684-349a.png
   answer_image_explanation: La consommation du 26 mars 2020 ressemble à celle d’un
     lundi de Pâques (ici celui de 2018) avec une baisse particulièrement forte durant
     la matinée. Source RTE.
@@ -25730,7 +25730,7 @@
   answer_scientific_url: https://www.carbonbrief.org/state-of-the-climate-2020-on-course-to-be-warmest-year-on-record
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/2/9/7/297292d5a2_50170756_climat-secheresse-annee-plus-chaude-onu.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000685-55cf.jpg
   answer_image_explanation: Ecart de la température moyenne annuelle à l’échelle du
     globe par rapport à la période préindustrielle (1850 –1900). Les données pour
     2020 concernent la période de janvier à octobre. Source OMM.
@@ -25780,7 +25780,7 @@
   answer_scientific_url: https://wedocs.unep.org/bitstream/handle/20.500.11822/34438/EGR20ESE.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2020/12/576b9a07-4013-41e0-9965-46698b3bf02a/838_001_8wv6kb_jpeg.webp
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000686-e60c.webp
   answer_image_explanation: Graphique montrant l'écart entre les engagements nationaux
     pour limiter l'émission de gaz à effet de serre et les réductions nécessaires
     pour endiguer le réchauffement climatique
@@ -25828,7 +25828,7 @@
   answer_scientific_url: https://www.conventioncitoyennepourleclimat.fr/foire-aux-questions/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.ecologie.gouv.fr/sites/default/files/Trajectoire%20et%20budgets%20carbone.PNG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000687-b090.png
   answer_image_explanation: Stratégie Nationale Bas Carbone française avec l'objectif
     d'atteindre la neutralité carbone en 2050. GES = gaz à effet de serre.
   answer_extra_info: 'Comment les 150 ont-ils été sélectionnés ? : https://www.conventioncitoyennepourleclimat.fr/wp-content/uploads/2019/09/CCC-infogrpahie-critere-representativite-1-1024x921.png'
@@ -25874,7 +25874,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://media.lesechos.com/api/v1/images/view/5fc6861cd286c27f782a1c86/par_defaut/image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000688-9321.jpg
   answer_image_explanation: ''
   answer_extra_info: 'source de l''image : https://www.lesechos.fr/monde/ameriques/nouvelle-poussee-de-la-deforestation-au-bresil-1270055
 
@@ -25924,7 +25924,7 @@
   answer_scientific_url: https://atmosphere.copernicus.eu/wildfires-americas-and-tropical-africa-2020-compared-previous-years
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://atmosphere.copernicus.eu/sites/default/files/inline-images/cams_gfas_global_monthly_c_january_december_2003_2020_small.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000689-87b8.png
   answer_image_explanation: Émissions totales de carbone dues aux feux de forêt, en
     millions de tonnes par année
   answer_extra_info: ''
@@ -25971,7 +25971,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://reporterre.net/IMG/jpg/sans_titre-1.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000690-b846.jpg
   answer_image_explanation: ''
   answer_extra_info: 'tweet avec carte annonce lignes transfrontalières : https://twitter.com/seatsixtyone/status/1336293208343666692
 
@@ -26022,7 +26022,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.leparisien.fr/resizer/x6mOI7LpiEdvCOQj_gIHtcmz5vI=/1167x1280/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/LGKGNNXPORZ5UHSA4OHS7ZPYE4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000691-2e0d.jpg
   answer_image_explanation: Un succès qui ne s'arrête pas aux grandes villes
   answer_extra_info: 'question 120 pose la même question pour l''année 2017
 
@@ -26074,7 +26074,7 @@
   answer_scientific_url: https://www.ecologie.gouv.fr/ministere-transition-ecologique-consolide-soutien-pratique-du-velo
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://static.latribune.fr/full_width/1528551/velo.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000692-0d88.jpg
   answer_image_explanation: Nombre de vélos passant devant les sites de comptage à
     Paris, par heure.
   answer_extra_info: 'Plan vélo Mai 2020 : https://www.ecologie.gouv.fr/sites/default/files/20200529_DP_VELO_MTES.pdf
@@ -26123,7 +26123,7 @@
   answer_scientific_url: https://www.ecologie.gouv.fr/plan-velo-et-mobilites-actives
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.france-ecotours.com/media/infographie_1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000693-ce65.png
   answer_image_explanation: Chiffres de 2018
   answer_extra_info: 'article intéressant : https://www.velo-territoires.org/actualite/2020/10/08/deux-ans-plan-velo-12-de-part-modale-velo-2030/'
   author: 1
@@ -26163,7 +26163,7 @@
   answer_scientific_url: https://fr.wikipedia.org/wiki/Liste_des_centrales_thermiques_%C3%A0_flamme_en_France#Centrales_%C3%A0_charbon
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.publicsenat.fr/sites/default/files/styles/pse_rte_moyen/public/thumbnails/image/a5984100d91b4ddcb281f4259ac29bae31927bfe.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000694-2497.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
@@ -27178,7 +27178,7 @@
   answer_scientific_url: https://professionnels.ofb.fr/fr/node/44
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i1.wp.com/www.natura-sciences.com/wp-content/uploads/2012/10/changement-climatique-baisse-debit-cours-eau-explore-2070.jpg?w=881&ssl=1
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000718-c844.jpg
   answer_image_explanation: 'Carte prévisionnelle de l''évolution plausible des débits
     des cours d''eau en France métropolitaine à l''horizon 2046-2065. On note la disparité
     selon les régions.
@@ -27226,7 +27226,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/image/evolution-empreinte-carbone-france-CGDD.svg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000719-0baf.svg
   answer_image_explanation: Total revu à 9t depuis que ce graphique a été publié
   answer_extra_info: ''
   author: 2
@@ -27671,7 +27671,7 @@
   answer_scientific_url: https://fr.wikipedia.org/wiki/Perg%C3%A9lisol#Situation_actuelle_:_fonte_acc%C3%A9l%C3%A9r%C3%A9e
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://legrandnord.org/wp-content/uploads/file/permafrost10(1).jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000729-e466.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 27
@@ -28411,7 +28411,7 @@
   answer_scientific_url: http://www.meteofrance.fr/climat-passe-et-futur/impacts-du-changement-climatique-sur-les-phenomenes-hydrometeorologiques/changement-climatique-et-enneigement
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2018/01/c5107a92-02bd-4209-8050-a946499a94b7/1136_gettyimages-171316657.webp
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000746-3127.webp
   answer_image_explanation: 'Canon à neige: enneigeur monofluide à ventilateur'
   answer_extra_info: ''
   author: 20
@@ -28455,7 +28455,7 @@
   answer_scientific_url: https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Global_lake_warming_trend_threatens_freshwater_species
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jumping_Salmon.jpg/800px-Jumping_Salmon.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000747-ac64.jpg
   answer_image_explanation: 'Saumon en migration
 
 
@@ -28499,7 +28499,7 @@
   answer_scientific_url: https://www.nature.com/articles/s41598-020-64630-z
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: http://i.dtinews.vn/images/editor/images/ngovan/52020/29/Big/hien-truong-vu-sat-o-1590553465-width1004height565.jpg?v=1.0
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000748-e54d.jpg
   answer_image_explanation: 'Exemple d''érosion sur le delta du Mékong
 
 
@@ -28543,7 +28543,7 @@
   answer_scientific_url: https://www.documentation.eauetbiodiversite.fr/notice/influence-de-la-montee-du-niveau-de-la-mer-sur-le-biseau-salin-des-aquiferes-cotiers-des-drom0
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.symcrau.com/images/2-LA-NAPPE-de-la-CRAU/B4b_schema_biseau_sale.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000749-8dad.jpg
   answer_image_explanation: 'Schéma de principe des interactions entre eaux souterraines
     salées et douces. Une montée du niveau de la mer, réduit la zone d''influence
     de l''eau douce. Un pompage excessif par l''Homme peut également entraîner une
@@ -29096,7 +29096,7 @@
   answer_scientific_url: https://www.nature.com/articles/nature14016
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.carbonbrief.org/media/366129/percentage-usable2.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000762-2251.png
   answer_image_explanation: ''
   answer_extra_info: 'la question initiale faisait mention de 80% de pétrole.
 
@@ -29143,7 +29143,7 @@
   answer_scientific_url: https://www.nature.com/articles/nature14016
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.carbonbrief.org/media/366129/percentage-usable2.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000763-76e3.png
   answer_image_explanation: ''
   answer_extra_info: 'la question initiale faisait mention de 80% de pétrole.
 
@@ -29186,7 +29186,7 @@
   answer_scientific_url: https://fr.wikipedia.org/wiki/Sixi%C3%A8me_rapport_d%27%C3%A9valuation_du_GIEC
   answer_scientific_url_text: WIkipedia - le 6ème rapport d’évaluation du GIEC
   answer_reading_recommendation: ''
-  answer_image_url: https://www.terresacree.org/images/rechauffement4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000764-0bce.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -29259,7 +29259,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.enerzine.com/UserFiles/Image/breve19003b.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000766-b4f4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 25
@@ -29296,7 +29296,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://sciencesdelavieetdelaterre93.files.wordpress.com/2018/08/18-bis-exp-fonte-glaces.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000767-0bcd.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 16
@@ -30100,7 +30100,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/89c6e50829398cfde2e66bc6b742a244c853e515/data/images/questions/787.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000787-648a.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 30
@@ -30152,7 +30152,7 @@
   answer_scientific_url: https://earthsky.org/earth/how-much-do-oceans-add-to-worlds-oxygen
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i0.wp.com/mrmondialisation.org/wp-content/uploads/2019/10/diatoms_through_the_microscope.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000788-4f32.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
@@ -30191,7 +30191,7 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: Paul Watson – Urgence ! Si l’océan meurt, nous mourrons
     – Éditions Glénat, Avril 2016
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/3/5/0/35068fbf1e_15282_24616-phytoplancton-dr.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000789-7709.jpg
   answer_image_explanation: Banc de phytoplancton du ciel
   answer_extra_info: ''
   author: 17
@@ -30387,7 +30387,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://geo.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FGEO.2Fvar.2Fgeo.2Fstorage.2Fimages.2Fmedia.2Fimages.2Frubrique-environnement.2Fles-mots-verts.2Fenergies-fossiles.2F446095-1-fre-FR.2Fenergies-fossiles.2Ejpg/1150x647/background-color/ffffff/quality/70/energie-fossile-gaz-petrole-charbon.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000793-08be.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -31166,7 +31166,7 @@
   answer_scientific_url: https://doi.org/10.1038/nature06949
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://climate.nasa.gov/system/charts/15_co2_left_061720.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000815-dd73.gif
   answer_image_explanation: Évolution de la concentration en CO2 dans l’atmosphère
     durant les derniers 800 000 ans (source NASA). La concentration variait entre
     180ppm et 280ppm. Depuis le début de la révolution industrielle la hausse est
@@ -31206,7 +31206,7 @@
   answer_scientific_url: https://doi.org/10.1038/nature06949
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://climate.nasa.gov/system/charts/15_co2_left_061720.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000816-1ce8.gif
   answer_image_explanation: Évolution de la concentration en CO2 dans l’atmosphère
     durant les derniers 800 000 ans (source NASA). La concentration variait entre
     180ppm et 280ppm. Depuis le début de la révolution industrielle la hausse est
@@ -32275,7 +32275,7 @@
   answer_scientific_url: https://www.cieau.com/connaitre-leau/leau-dans-la-nature/eau-douce-tout-savoir/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/c/d/7/cd780c64f7_113142_volume-eau-terre-01.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000844-b766.jpg
   answer_image_explanation: La plus grande sphère, de 1.400 km de diamètre, concentre
     toute l’eau terrestre (salée et douce). La petite sphère (273 km de diamètre)
     à droite représente le volume total d’eau douce. Et enfin, la plus petite sphère
@@ -32316,7 +32316,7 @@
   answer_scientific_url: https://theshiftproject.org/wp-content/uploads/2020/01/2020-01.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.researchgate.net/profile/Alexandre_Monnin2/publication/341099681/figure/fig1/AS:886676264062979@1588411503728/Evolution-2013-2025-de-la-consommation-energetique-du-Numerique-en-TWh-Source-Lean.ppm
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000845-c9c6.ppm
   answer_image_explanation: 'Évolution 2013-2025 de la consommation énergétique du
     Numérique en TWh Source : [Lean ICT Materials] Forecast Model. Les couleurs correspondent
     à différents scénarios'
@@ -32354,7 +32354,7 @@
   answer_scientific_url: https://pubs.acs.org/doi/abs/10.1021/es025643o
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.tuvoiscequejeveuxdire.net/contenus/wp-content/uploads/2020/04/FNL_2019-11_CERDD_HSalazar_BFPTC_Sobriete-numerique_7-copie.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000846-5efa.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 14
@@ -32437,7 +32437,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://enseignantspourlaplanete.files.wordpress.com/2020/04/image-7.png?w=453
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000848-94e0.png
   answer_image_explanation: 'Source : GreenIT, Empreinte environnementale du numérique
     mondial, p 21'
   answer_extra_info: ''
@@ -32473,7 +32473,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.statista.com/graphic/1/456500/daily-number-of-e-mails-worldwide.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000849-8e34.jpg
   answer_image_explanation: Nombre de mails envoyés et reçus par jour dans le monde
   answer_extra_info: ''
   author: 14
@@ -32515,7 +32515,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s.yimg.com/ny/api/res/1.2/hcrZwIBkPiwbJ1vPPKfPzg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2g9NjAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/afp.com/0bc98402aee698d59e35b891671a12a082f4a483.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000850-5f4e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 14
@@ -32637,7 +32637,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://img-0.journaldunet.com/JJ98BzKl8fGjGJbEwoiByQChQ-k=/1080x/smart/d3219ef460974110a5a40ddf19d934e6/ccmcms-jdn/12796951.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000853-a343.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 14
@@ -33257,7 +33257,7 @@
   answer_scientific_url: https://www.pnas.org/content/114/35/9326
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.europeanscientist.com/wp-content/uploads/thumbs/111-5-36wyzbezp0b2mk3cfrcow0.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000868-308b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
@@ -33298,7 +33298,7 @@
   answer_scientific_url: https://www.imf.org/external/pubs/ft/fandd/2019/12/natures-solution-to-climate-change-chami.htm
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i0.wp.com/mrmondialisation.org/wp-content/uploads/2019/10/baleine-1524x860.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000869-fe8f.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
@@ -33381,7 +33381,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://jancovici.com/wp-content/uploads/2016/04/Combien-suis-je-un-esclavagiste-1200x540.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000871-55ef.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -33752,7 +33752,7 @@
   answer_scientific_url: https://world-habitat.org/publications/new-tricks-with-old-bricks/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://wiki.lowtechlab.org/images/1/1b/Isolation_grace_au_myc_lium_panneau_carton.PNG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000880-65df.png
   answer_image_explanation: Isolation low-tech, grâce au mycelium de champignon
   answer_extra_info: ''
   author: 6
@@ -33793,7 +33793,7 @@
   answer_scientific_url: https://en.wikipedia.org/wiki/Moonlight_tower
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LeveeAtNightNewOrleans1883.jpg/1024px-LeveeAtNightNewOrleans1883.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000881-c064.jpg
   answer_image_explanation: Nouvelle-Orléans, 1883
   answer_extra_info: ''
   author: 6
@@ -33837,7 +33837,7 @@
   answer_scientific_url: https://en.wikipedia.org/wiki/Guastavino_tile
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/New_York_City_City_Hall_subway_station_HAER_image.jpg/800px-New_York_City_City_Hall_subway_station_HAER_image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000882-9f25.jpg
   answer_image_explanation: L'architecte Guastavino a importé ces voûtes dans la ville
     de New-York
   answer_extra_info: ''
@@ -33882,7 +33882,7 @@
   answer_scientific_url: https://www.sciencedirect.com/science/article/pii/S0960148115003079
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://solar.lowtechmagazine.com/dithers/thermal-windmill3.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000883-794e.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 6
@@ -33915,7 +33915,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3a39191f.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000884-a4fd.jpg
   answer_image_explanation: C'est encore plus important quand on regarde depuis les
     débuts de l'Histoire !
   answer_extra_info: La population mondiale, par continent et par pays sur https://ourworldindata.org/grapher/population
@@ -33956,7 +33956,7 @@
   answer_scientific_url_text: 'Nature : How far will global population rise? Researchers
     can’t agree'
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3ce31bca.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000885-046d.jpg
   answer_image_explanation: Les trajectoires estimées pour les 3 principaux organismes
     qui participent à cet exercice
   answer_extra_info: ''
@@ -33993,7 +33993,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5abf16c5.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000886-94ee.jpg
   answer_image_explanation: By iashris.com - https://indiainpixels.xyz, CC BY-SA 4.0,
     https://commons.wikimedia.org/w/index.php?curid=112844699
   answer_extra_info: ''
@@ -34031,7 +34031,7 @@
   answer_scientific_url_text: 'Science : Reducing food''s environmental impacts through
     producers and consumers'
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cb34e1f4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000887-1f6e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 46
@@ -34068,7 +34068,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3e59c6f3.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000888-b784.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 46
@@ -34224,7 +34224,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/232904aa.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000892-0c74.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 46
@@ -34261,7 +34261,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fe7727a6.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000893-e725.jpg
   answer_image_explanation: Infographie sur l'étude tant controversée sur le poids
     carbone d'un nouvel enfant
   answer_extra_info: ''
@@ -35633,7 +35633,7 @@
   answer_scientific_url: https://solidarites-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/article/effets-sur-la-sante-d-une-exposition-a-des-pesticides
   answer_scientific_url_text: ''
   answer_reading_recommendation: 'source : https://presse.inserm.fr/en/consommation-daliments-ultra-transformes-et-risque-de-maladies-cardiovasculaires/35086/'
-  answer_image_url: https://cdn.radiofrance.fr/s3/cruiser-production/2020/06/ac211826-ed88-4d88-90bd-7e6be210a825/838_supermarche.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000930-9f98.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 15
@@ -35680,7 +35680,7 @@
   answer_scientific_url: https://unfccc.int/fr/process-and-meetings/l-accord-de-paris/qu-est-ce-que-l-accord-de-paris
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://unfccc.int/sites/default/files/styles/hero_carousel_960x640/public/paris_agreement_adopted_1_758.jpg?itok=WTjOIvOr
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000931-beb9.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -35721,7 +35721,7 @@
   answer_scientific_url: https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/empreinte-carbone/article/l-empreinte-carbone-de-la-france#label_onglet818
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ree.developpement-durable.gouv.fr/local/cache-vignettes/L880xH439/comparaison_empreinte_carbone_inventaire_2016-12fcf.png?1607615135
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000932-5b90.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -35758,7 +35758,7 @@
   answer_scientific_url: https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/empreinte-carbone/article/l-empreinte-carbone-de-la-france
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://ree.developpement-durable.gouv.fr/local/cache-vignettes/L692xH390/decomposition_ec_par_poste_de_consommation-bb5f8.png?1607877975
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000933-aa87.png
   answer_image_explanation: Décomposition de l’empreinte carbone par poste de consommation
     en 2016
   answer_extra_info: ''
@@ -36657,7 +36657,7 @@
   answer_scientific_url: https://en.wikipedia.org/wiki/Moonlight_tower
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LeveeAtNightNewOrleans1883.jpg/1024px-LeveeAtNightNewOrleans1883.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000955-125b.jpg
   answer_image_explanation: New-Orleans, 1883
   answer_extra_info: ''
   author: 6
@@ -36697,7 +36697,7 @@
   answer_scientific_url: https://www.sciencedirect.com/science/article/pii/S0960148115003079
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://solar.lowtechmagazine.com/dithers/thermal-windmill3.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000956-2322.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 6
@@ -36740,7 +36740,7 @@
   answer_scientific_url: https://en.wikipedia.org/wiki/Guastavino_tile
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/New_York_City_City_Hall_subway_station_HAER_image.jpg/800px-New_York_City_City_Hall_subway_station_HAER_image.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000957-e606.jpg
   answer_image_explanation: The architect Guastavino imported these vaults to New
     York City
   answer_extra_info: ''
@@ -37019,7 +37019,7 @@
   answer_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/ac286e
   answer_scientific_url_text: ''
   answer_reading_recommendation: https://www.sciencedirect.com/science/article/pii/S1352231020305689
-  answer_image_url: https://p0.piqsels.com/preview/838/295/739/aircraft-airplane-blue-cargo.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000965-1019.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37146,7 +37146,7 @@
   answer_scientific_url: https://monimpacttransport.fr/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://datagir.ademe.fr/static/e10d89bca3ede0d0737d5a999f6af127/010a5/mon-impact-transport.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000968-13f5.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37189,7 +37189,7 @@
   answer_scientific_url: https://www.ecologie.gouv.fr/diagnostic-performance-energetique-dpe
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://alec-nancy.fr/wp-content/uploads/2021/05/ALEC-Nancy-Grands-Territoires-DPE-.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000969-27a4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37227,7 +37227,7 @@
   answer_scientific_url: https://www.resistanceclimatique.org/inventons_nos_vies_bas_carbone
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://d3n8a8pro7vhmx.cloudfront.net/resistanceclimatique/pages/115/features/original/_DSC4614.jpg?1598286546
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000970-50f5.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37273,7 +37273,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://live.staticflickr.com/3706/33231398121_bcabbe481a.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000971-03d3.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37522,7 +37522,7 @@
   answer_scientific_url: https://www.apple.com/euro/environment/pdf/a/generic/products/iphone/iPhone_11_PER_sept2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://pbs.twimg.com/media/DbDcakTWAAASzbV.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001004-978b.jpg
   answer_image_explanation: "120g of smartphone contains \n70 precious and rare metals\
     \ (or, silver, aluminium, cobalt...) and requires 70 kg of substance (difficult\
     \ to extract and requiring a lot of water)"
@@ -37562,7 +37562,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://i0.wp.com/verdamano.com/wp-content/uploads/2020/04/La-pollution-numerique-en-chiffres_1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001005-4846.png
   answer_image_explanation: 'Data coming from The Shift project 2017.
 
     It represents 4% of the portion of worldwide Co2 emissions (more than civil Aviation),
@@ -37606,7 +37606,7 @@
   answer_scientific_url: https://www.nature.com/articles/d41586-018-06610-y
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://media.nature.com/w1172/magazine-assets/d41586-018-06610-y/d41586-018-06610-y_16109898.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001006-6dcb.jpg
   answer_image_explanation: 'Data center of Facebook at Luleå, in Sweden. Credit :
     Jonathan Nackstrand/AFP/Getty'
   answer_extra_info: ''
@@ -37644,7 +37644,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://www.birdsdessines.fr/bds/2020/12/16/docgyneco08_ultracrepidarianisme_1608124014.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001007-9c13.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 27
@@ -37870,7 +37870,7 @@
   answer_scientific_url: https://www.citepa.org/fr/secten/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://journaldelenergie.com/wp-content/uploads/2021/07/HCC-1.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001013-9a63.png
   answer_image_explanation: 'Emissions par secteur en France en 2019 (source : Haut
     Conseil pour le Climat)'
   answer_extra_info: ''
@@ -38259,7 +38259,7 @@
   answer_scientific_url_text: 'Thèse d’Aurélien Bigo : Les transports face au défi
     de la transition énergétique'
   answer_reading_recommendation: ''
-  answer_image_url: https://www.largus.fr/images/images/txt_voiture-moyenne-65-ans-d-evolution.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001021-05c2.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 11
