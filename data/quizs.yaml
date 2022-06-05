@@ -46,7 +46,7 @@
   difficulty_average: 2.3
   language: Français
   author: 1
-  image_background_url: https://i3.wp.com/fee.asso.fr/wp-content/uploads/2015/09/Carte-de-France-eolien-2015.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000002-ce4a.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -86,7 +86,7 @@
   difficulty_average: 2.2
   language: Français
   author: 8
-  image_background_url: https://www.slate.fr/sites/default/files/styles/1060x523/public/neandertal_1.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000003-597d.jpg
   has_audio: true
   publish: true
   spotlight: true
@@ -111,7 +111,7 @@
   difficulty_average: 2.7
   language: Français
   author: 2
-  image_background_url: https://upload.wikimedia.org/wikipedia/commons/f/fe/GlobalPeakOil.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000004-ac07.png
   has_audio: false
   publish: true
   spotlight: false
@@ -142,7 +142,7 @@
   difficulty_average: 2.1
   language: Français
   author: 2
-  image_background_url: https://leshorizons.net/wp-content/uploads/2019/04/d%C3%A9finition-de-lempreinte-carbone-1020x512.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000005-586a.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -175,7 +175,7 @@
   difficulty_average: 2.7
   language: Français
   author: 2
-  image_background_url: https://www.francetvinfo.fr/image/759r92wwm-0bca/1200/450/10617521.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000006-b5bb.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -201,7 +201,7 @@
   difficulty_average: 2.3
   language: Français
   author: 2
-  image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000007-646d.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -272,7 +272,7 @@
   difficulty_average: 3.3
   language: Français
   author: 2
-  image_background_url: https://static.latribune.fr/full_width/1201312/plastique-a-jakarta.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000009-6ade.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -299,7 +299,7 @@
   difficulty_average: 2.2
   language: Français
   author: 2
-  image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000010-bdc2.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -345,7 +345,7 @@
   difficulty_average: 1.9
   language: Français
   author: 2
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/01/IMG_9753-215x215.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000011-6927.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -375,7 +375,7 @@
   difficulty_average: 2.0
   language: Français
   author: 2
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/01/J1A3917120919-2-215x215.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000012-3a81.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -402,7 +402,7 @@
   difficulty_average: 2.7
   language: Français
   author: 2
-  image_background_url: https://fresqueduclimat.org/wp-content/uploads/2020/07/PartieRestit-scaled.jpg?gid=1
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000013-eb5a.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -429,7 +429,7 @@
   difficulty_average: 1.7
   language: Français
   author: 2
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/5ef9451b.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000014-9b58.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -465,7 +465,7 @@
   difficulty_average: 2.2
   language: Français
   author: 2
-  image_background_url: https://jive.univ-lille.fr/fileadmin/_processed_/c/d/csm_fresque-climat_ac9a138d0f.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000015-a68a.jpg
   has_audio: false
   publish: false
   spotlight: false
@@ -497,7 +497,7 @@
   difficulty_average: 2.2
   language: Français
   author: 2
-  image_background_url: https://reporterre.net/local/cache-vignettes/L720xH481/arton11947-94df2.jpg?1597417424
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000016-1e5a.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -526,7 +526,7 @@
   difficulty_average: 2.5
   language: Français
   author: 2
-  image_background_url: https://images.sudouest.fr/2019/04/25/5cc1b08b66a4bd2c135ac1f5/widescreen/1000x500/l-extinction-des-dinosaures.jpg?v1
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000017-b87e.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -571,7 +571,7 @@
   difficulty_average: 2.7
   language: Français
   author: 13
-  image_background_url: https://testing-girl-avis.com/wp-content/uploads/2018/02/ob_34d04f_cataclysmes-laurent-testot-testing-gir-1.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000018-9a3f.jpg
   has_audio: true
   publish: true
   spotlight: true
@@ -607,7 +607,7 @@
   difficulty_average: 3.0
   language: Français
   author: 19
-  image_background_url: https://patch.com/img/cdn20/users/224111/20190401/020846/styles/raw/public/processed_images/tree_with_money-1554098721-8512.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000052-1e57.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -638,7 +638,7 @@
   difficulty_average: 4.0
   language: Français
   author: 5
-  image_background_url: https://cdn.pixabay.com/photo/2016/11/21/15/28/brain-1845962_1280.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000053-064a.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -681,7 +681,7 @@
   difficulty_average: 2.6
   language: Français
   author: 5
-  image_background_url: https://cdn.pixabay.com/photo/2017/12/08/08/17/america-3005258_1280.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000054-c005.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -723,7 +723,7 @@
   difficulty_average: 2.9
   language: Français
   author: 37
-  image_background_url: https://www.lereveilleur.com/wp-content/uploads/2020/09/CSC_paint.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000055-63df.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -755,7 +755,7 @@
   difficulty_average: 2.5
   language: Français
   author: 2
-  image_background_url: https://i.pinimg.com/originals/8c/9a/2f/8c9a2f17830a4bc928fc9ed7f9c1faad.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000056-9bf6.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -911,7 +911,7 @@
   difficulty_average: 2.7
   language: Français
   author: 6
-  image_background_url: https://fresquedeslowtechs.files.wordpress.com/2021/02/fr_techs_modern_dezo_flouetee_64c.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000061-582f.png
   has_audio: false
   publish: true
   spotlight: true
@@ -1054,7 +1054,7 @@
   difficulty_average: 2.2
   language: Français
   author: 2
-  image_background_url: https://prixdubaril.com/images/puits-petrole.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000065-42f8.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -1105,7 +1105,7 @@
   difficulty_average: 3.2
   language: Français
   author: null
-  image_background_url: https://cdn.pixabay.com/photo/2015/11/19/21/43/desert-1052092_1280.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000066-3614.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -1189,7 +1189,7 @@
   difficulty_average: 2.6
   language: English
   author: 6
-  image_background_url: https://fresquedeslowtechs.files.wordpress.com/2021/02/fr_techs_modern_dezo_flouetee_64c.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000068-15c5.png
   has_audio: false
   publish: true
   spotlight: true
@@ -1226,7 +1226,7 @@
   difficulty_average: 2.2
   language: Français
   author: 20
-  image_background_url: https://www.ge.ch/media/media_image/2020-11/grand-cycle.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000069-6de8.jpg
   has_audio: false
   publish: true
   spotlight: false
@@ -1374,7 +1374,7 @@
   difficulty_average: 2.5
   language: Français
   author: 35
-  image_background_url: https://restonslespiedssurterre.fr/wp-content/uploads/2019/06/OVH-En-tete-Avions-fum%C3%A9e.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000074-3037.png
   has_audio: true
   publish: true
   spotlight: true
@@ -1460,7 +1460,7 @@
   difficulty_average: 2.6
   language: Français
   author: 36
-  image_background_url: https://d3n8a8pro7vhmx.cloudfront.net/resistanceclimatique/pages/115/attachments/original/1616150476/nouveau_kit.jpg?1616150476
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000076-26d2.jpg
   has_audio: false
   publish: true
   spotlight: true
@@ -1507,7 +1507,7 @@
   difficulty_average: 2.6
   language: Français
   author: 17
-  image_background_url: https://archipelduvivant.org/wp-content/uploads/2020/07/132-133-2.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000077-7fc3.jpg
   has_audio: false
   publish: true
   spotlight: true
@@ -1589,7 +1589,7 @@
   difficulty_average: 1.7
   language: Français
   author: 2
-  image_background_url: https://www.grenoble.fr/uploads/Image/81/IMF_100/GAB_GRENOBLE2019/21428_586_fresque-climat-adultes.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000079-9514.jpg
   has_audio: false
   publish: true
   spotlight: true
@@ -1657,7 +1657,7 @@
   difficulty_average: 2.4
   language: Français
   author: 46
-  image_background_url: https://static.fnac-static.com/multimedia/Images/FR/NR/68/b4/d3/13874280/1540-1.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000081-6f88.jpg
   has_audio: false
   publish: false
   spotlight: false
