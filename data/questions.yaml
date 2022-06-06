@@ -4048,7 +4048,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000103-99ea.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/001.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/001.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -4159,7 +4159,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000106-41db.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/004.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/004.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -4522,7 +4522,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000116-7c7c.jpeg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/014.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/014.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -4912,7 +4912,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000127-aa91.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'autre image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/025b.jpg
+  answer_extra_info: 'autre image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/025b.jpg
 
 
     Source Fr : https://www.rte-france.com/fr/eco2mix/donnees-en-energie Source autres
@@ -5522,7 +5522,7 @@
   answer_extra_info: 'Réponse initiale: Il y a 20 millions d’années.
 
 
-    Image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/041.jpg
+    Image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/041.jpg
 
 
     Image alternative: http://www.illustratedcuriosity.com/files/media/39990/wmo.jpg'
@@ -5739,7 +5739,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000149-f5df.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/047.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/047.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -5814,7 +5814,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000151-8c8e.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/049.png'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/049.png'
   author: 5
   validator: 2
   validation_status: Validée
@@ -5850,7 +5850,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000152-193f.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/050.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/050.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -5887,7 +5887,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000153-fe58.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/051.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/051.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -6050,9 +6050,9 @@
   answer_image_explanation: ''
   answer_extra_info: 'images originales:
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/055a.jpg
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/055a.jpg
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/055b.jpg'
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/055b.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -6089,7 +6089,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000158-686a.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'autre image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/056b.jpg'
+  answer_extra_info: 'autre image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/056b.jpg'
   author: 5
   validator: 2
   validation_status: Écartée
@@ -6204,7 +6204,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000161-6950.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/059.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/059.jpg
 
     image alternative: https://ourworldindata.org/grapher/exports/coal-production-by-region.png
     (affiche la production de charbon par région, pas par pays)'
@@ -6344,7 +6344,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000165-7440.jpeg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/063.png'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/063.png'
   author: 5
   validator: 2
   validation_status: Écartée
@@ -6560,7 +6560,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000171-1800.jpeg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/069.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/069.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -6739,7 +6739,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000176-a19b.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/075.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/075.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -6846,7 +6846,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000179-6e7c.jpeg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/078.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/078.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -7237,7 +7237,7 @@
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/088.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/088.jpg
 
     Source 1 : https://skepticalscience.net/pdf/rebuttal/CO2-emissions-correlation-with-CO2-concentration-intermediate.pdf
     2 : https://climate.nasa.gov/vital-signs/carbon-dioxide/'
@@ -7314,7 +7314,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000192-ed88.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/091.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/091.jpg'
   author: 5
   validator: 1
   validation_status: Écartée
@@ -7350,7 +7350,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000193-4e06.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/092.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/092.jpg'
   author: 5
   validator: 1
   validation_status: Écartée
@@ -7392,9 +7392,9 @@
   answer_image_explanation: ''
   answer_extra_info: 'images originales:
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/093a.jpg
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/093a.jpg
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/093b.jpg'
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/093b.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -7431,7 +7431,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000195-4ec8.jpg
   answer_image_explanation: le graphique du milieu avec les points en orange.
-  answer_extra_info: 'image alternative: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/094a.jpg'
+  answer_extra_info: 'image alternative: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/094a.jpg'
   author: 5
   validator: null
   validation_status: Écartée
@@ -7504,9 +7504,9 @@
 
     images originales:
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/096a.jpg
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/096a.jpg
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/096b.jpg'
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/096b.jpg'
   author: 5
   validator: null
   validation_status: Écartée
@@ -7541,7 +7541,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000198-9907.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/097.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/097.jpg'
   author: 5
   validator: 1
   validation_status: Écartée
@@ -8021,7 +8021,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000212-45f7.jpg
   answer_image_explanation: Production de pétrole et de gaz de la Norvège, le pic
     du pétrole est atteint en 2000, le pic des deux combinés est en 2004.
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/111.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/111.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -8159,7 +8159,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000216-897c.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/115.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/115.jpg
 
     image alternative: https://medias.liberation.fr/photo/1231382-infographie-les-records-de-temperature-a-battre-en-europe-2-juillet-2019.jpg'
   author: 5
@@ -8339,7 +8339,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000221-42cb.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/120.jpg'
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/120.jpg'
   author: 5
   validator: 2
   validation_status: Validée
@@ -10379,7 +10379,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000276-b3f8.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/160.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/160.jpg
 
 
     https://twitter.com/laydgeur/status/1167853448408309760'
@@ -10417,7 +10417,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000277-95bd.png
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/161.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/161.jpg
 
 
     https://twitter.com/laydgeur/status/1168598181262897152'
@@ -10672,7 +10672,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000284-7725.jpg
   answer_image_explanation: 1l de fioul = 0,88 kg
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/168.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/168.jpg
 
 
     https://twitter.com/laydgeur/status/1172033463958085633'
@@ -11040,7 +11040,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000294-7c2f.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/178.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/178.jpg
 
 
     https://twitter.com/laydgeur/status/1176947315720040448'
@@ -11077,7 +11077,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000295-0e4a.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/179.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/179.jpg
 
 
     https://twitter.com/laydgeur/status/1177310853114318854'
@@ -11485,7 +11485,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000306-8bb6.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/190a.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/190a.jpg
 
 
     https://twitter.com/laydgeur/status/1182944388009418752'
@@ -11524,7 +11524,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000307-eee7.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/191.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/191.jpg
 
 
     https://twitter.com/laydgeur/status/1183823706918924288'
@@ -11897,7 +11897,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000317-0e35.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/201a.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/201a.jpg
 
 
     https://twitter.com/laydgeur/status/1188914665750978561'
@@ -12520,7 +12520,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000334-069a.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/218.jpg
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/218.jpg
 
 
     image alternative: https://images.ladepeche.fr/api/v1/images/view/5c17793c8fe56f189029116f/large/image.jpg
@@ -12854,9 +12854,9 @@
   answer_image_explanation: ''
   answer_extra_info: 'images originales:
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/227a.jpg
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/227a.jpg
 
-    - https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/227b.jpg
+    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/227b.jpg
 
 
     https://twitter.com/laydgeur/status/1204505503704989704'
@@ -14534,7 +14534,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000387-5730.jpg
   answer_image_explanation: chiffres de 2015
-  answer_extra_info: 'image originale: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/master/data/images/questions/laydgeur/271.png
+  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/271.png
 
 
     https://twitter.com/laydgeur/status/1232045258281799681'
