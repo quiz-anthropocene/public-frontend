@@ -56,7 +56,7 @@ export default {
   metaInfo() {
     const title = 'Atelier';
     const description = "Le quiz de l'anthropocène se décline désormais en atelier interactif !";
-    // const imageUrl = 'https://raw.githubusercontent.com/quiz-anthropocene/know-your-planet/master/data/images/atelier/biennale_villes_transition_2021.jpg';
+    // const imageUrl = 'https://quiz-anthropocene.s3.fr-par.scw.cloud/app/2021_biennale_villes_transition_logo.jpg';
     return {
       title,
       meta: metaTagsGenerator(title, description),
