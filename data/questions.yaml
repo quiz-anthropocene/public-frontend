@@ -74,7 +74,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-07'
@@ -316,7 +316,7 @@
     restera quasiment 40%, et au bout de 10000 ans il en restera encore 20% !'
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-08'
@@ -389,7 +389,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -426,7 +426,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000011-1e66.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -461,7 +461,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -593,7 +593,7 @@
     28 et 298 fois plus puissant que le CO2 en terme de potentiel de réchauffement
     global. '
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -630,7 +630,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000016-f9c8.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Source image: http://www.donnees.statistiques.developpement-durable.gouv.fr/lesessentiels/climat/images/effet-de-serre-2-b.jpg'
-  author: 16
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -668,7 +668,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000017-ebef.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 1
   validation_status: Écartée
   visibility: PUBLIC
@@ -701,7 +701,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: Je n'ai pas pu sourcer ces infos
-  author: 16
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -740,7 +740,7 @@
   answer_image_explanation: Le graphique est tiré des résultats d'un article publié
     en 2017 dans la revue Environmental Research Letters
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -1069,7 +1069,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
@@ -1232,7 +1232,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000031-529f.jpg
   answer_image_explanation: ''
   answer_extra_info: https://www.lemonde.fr/blog/oceanclimat/2015/11/18/tout-ce-quil-faut-savoir-sur-lacidification-des-oceans/
-  author: 16
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -1549,7 +1549,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000039-d0fc.jpg
   answer_image_explanation: Méthaniseur
   answer_extra_info: https://www.energylab.sia-partners.com/observatoire-biomethane-2019
-  author: 16
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -1589,7 +1589,7 @@
   answer_image_explanation: ''
   answer_extra_info: "https://www.statistiques.developpement-durable.gouv.fr/tableau-de-bord-biogaz-pour-la-production-delectricite-premier-trimestre-2020\r\
     \nhttps://www.actu-environnement.com/ae/news/biogaz-raccordement-electricite-recul-30222.php4"
-  author: 16
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -1710,7 +1710,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2020-03-10'
@@ -1873,7 +1873,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
@@ -3100,7 +3100,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000079-9106.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 26
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -3138,7 +3138,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000080-9952.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 26
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -3224,7 +3224,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000082-8d8e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 1
   validation_status: Écartée
   visibility: PUBLIC
@@ -3266,7 +3266,7 @@
     en tonnes équivalent CO2. On parle ici d'émissions sur le territoire et non d'empreinte
     carbone
   answer_extra_info: https://ourworldindata.org/grapher/co-emissions-per-capita?tab=chart
-  author: 16
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -3565,7 +3565,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000091-232c.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 21
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -3650,7 +3650,7 @@
   answer_extra_info: l'iPhone 5 fait 110g et a un écran de 4". D'après l'ADEME (https://www.ademe.fr/sites/default/files/assets/documents/acv-biens-equipements-201809-rapport.pdf,
     pages 24 et 25), un smartphone de +5,5" / 200g, a un "sac à dos écologique" =
     MIPS de +200kg
-  author: 21
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -3686,7 +3686,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000094-f949.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 21
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -3800,7 +3800,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000097-8f7e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 21
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -3855,7 +3855,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000098-7d21.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 21
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -8692,7 +8692,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000230-c8c6.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 23
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -15088,7 +15088,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000402-d6fd.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 23
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -15549,7 +15549,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -15581,7 +15581,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15625,7 +15625,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000415-b2fa.gif
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 5
   validation_status: Validée
   visibility: PUBLIC
@@ -15658,7 +15658,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15698,7 +15698,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000417-4c9d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -15735,7 +15735,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000418-4d4b.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -15767,7 +15767,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15800,7 +15800,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15832,7 +15832,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15865,7 +15865,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15898,7 +15898,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15931,7 +15931,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -15968,7 +15968,7 @@
   answer_image_explanation: Description de l’écriture et de la revue des rapports
     du GIEC
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16007,7 +16007,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000426-f601.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16043,7 +16043,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000427-c282.png
   answer_image_explanation: Processus de construction d'un rapport du GIEC
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16118,7 +16118,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16152,7 +16152,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16184,7 +16184,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16216,7 +16216,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16249,7 +16249,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16283,7 +16283,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16317,7 +16317,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16358,7 +16358,7 @@
   answer_image_explanation: Trajectoires d’émissions de gaz à effet de serre pour
     limiter le réchauffement à +1,5°C
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16393,7 +16393,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000437-58ef.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16428,7 +16428,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16467,7 +16467,7 @@
   answer_image_explanation: Excédent ou déficit écologique par pays. Le rouge correspond
     à un déficit entre 4 et 5 planètes.
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16504,7 +16504,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000440-8a1d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16545,7 +16545,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000441-365b.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16577,7 +16577,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16611,7 +16611,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16646,7 +16646,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16680,7 +16680,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16716,7 +16716,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16750,7 +16750,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16782,7 +16782,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16815,7 +16815,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16849,7 +16849,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -16881,7 +16881,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16918,7 +16918,7 @@
   answer_image_explanation: 'Schéma de l’effet des aérosols sur le climat. Source
     : www.meteosuisse.admin.ch'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -16955,7 +16955,7 @@
   answer_image_explanation: Anomalies de température en France par rapport à la moyenne
     de référence 1981-2010 (période de 30 ans)
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -16988,7 +16988,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17021,7 +17021,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17052,7 +17052,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17090,7 +17090,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000457-d9de.jpg
   answer_image_explanation: 'Source : www.lachainemeteo.com'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -17124,7 +17124,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17164,7 +17164,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000459-52a5.jpg
   answer_image_explanation: 'Source : www.meteocontact.fr'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -17201,7 +17201,7 @@
   answer_image_explanation: 'Exemples de conséquences du changement climatique, incendies,
     sécheresses, ouragans. Source : Shutterstock.com'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 40
   validation_status: Validée
   visibility: PUBLIC
@@ -17240,7 +17240,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000461-0376.png
   answer_image_explanation: 'Source : www.lemonde.fr'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17273,7 +17273,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17307,7 +17307,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -17345,7 +17345,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000464-c138.jpg
   answer_image_explanation: 'Source : www.comwatt.com'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -17380,7 +17380,7 @@
   answer_image_explanation: Répartition de la production électrique mondiale par source
     d'énergie en 2015 (©Connaissance des Énergies)
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -17414,7 +17414,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17453,7 +17453,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000467-f8d6.jpg
   answer_image_explanation: 'Source : http://www.photovoltaique.guidenr.fr'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -17497,7 +17497,7 @@
     son cycle de vie (construction, exploitation, démantèlement), ses émissions sont
     comparables à celles des énergies renouvelables.'
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -17537,7 +17537,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000469-25cb.jpg
   answer_image_explanation: L’usine marémotrice de la Rance
   answer_extra_info: ''
-  author: 7
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -17570,7 +17570,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: doublon
-  author: 7
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -17609,7 +17609,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 32
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17645,7 +17645,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 32
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17682,7 +17682,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 32
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17716,7 +17716,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 32
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17756,7 +17756,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000475-84c6.jpg
   answer_image_explanation: Requin amputé de ses ailerons et mort asphyxié
   answer_extra_info: ''
-  author: 32
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -17834,7 +17834,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 32
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -17869,7 +17869,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000478-7d2f.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 29
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -17908,7 +17908,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000479-2dcf.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 29
+  author: null
   validator: 2
   validation_status: Écartée
   visibility: PUBLIC
@@ -21217,7 +21217,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 23
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -21747,7 +21747,7 @@
     et cycliste olympique qui possède des cuisses démesurées, capable de développer
     700 watts, de faire fonctionner un simple grille-pain.
   answer_extra_info: ''
-  author: 23
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -21779,7 +21779,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -21813,7 +21813,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -21846,7 +21846,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -21879,7 +21879,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -21912,7 +21912,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -21987,7 +21987,7 @@
   answer_image_explanation: En l'absence de changement majeur, les pays indiqués en
     rouge sombre seront en stress hydrique très élevé en 2040
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -22020,7 +22020,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22053,7 +22053,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22087,7 +22087,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22120,7 +22120,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 28
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22560,7 +22560,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 41
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22596,7 +22596,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 41
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22629,7 +22629,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 41
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -22662,7 +22662,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 41
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -24299,7 +24299,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -26205,7 +26205,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000695-36c8.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -26242,7 +26242,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000696-42cd.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -26283,7 +26283,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000697-a93f.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26322,7 +26322,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000698-350f.png
   answer_image_explanation: ''
   answer_extra_info: https://fr.wikipedia.org/wiki/Gaz_à_effet_de_serre#cite_note-51
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26363,7 +26363,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000699-ad70.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26402,7 +26402,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000700-d50e.png
   answer_image_explanation: 'A gauche : les effets CO2. à droite, les effets non-CO2>'
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -26469,7 +26469,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000701-b2e9.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26506,7 +26506,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000702-1f31.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26545,7 +26545,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000703-3ca2.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26584,7 +26584,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000704-9e84.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26619,7 +26619,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000705-95af.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26654,7 +26654,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000706-5c47.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26689,7 +26689,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000707-c3ef.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26742,7 +26742,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000708-892a.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26788,7 +26788,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000709-03f3.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26827,7 +26827,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000710-7d70.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -26874,7 +26874,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000711-694e.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -26921,7 +26921,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000712-af73.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -26965,7 +26965,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000713-bb96.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27009,7 +27009,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000714-16bf.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -27051,7 +27051,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000715-ce52.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27089,7 +27089,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27137,7 +27137,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000717-1df9.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27269,7 +27269,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000720-664d.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -27317,7 +27317,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000721-91f8.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27356,7 +27356,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000722-ce19.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27395,7 +27395,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000723-e326.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27440,7 +27440,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000724-4481.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -27479,7 +27479,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -27529,7 +27529,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000726-6f07.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27581,7 +27581,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000727-5453.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27629,7 +27629,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27722,7 +27722,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27774,7 +27774,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000731-56da.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -27831,7 +27831,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000732-814c.png
   answer_image_explanation: ''
   answer_extra_info: https://www.ouest-france.fr/leditiondusoir/2018-01-18/pourquoi-le-kerosene-est-il-completement-detaxe-83f0840c-e9bc-4e3b-ab81-83495ba02ee5
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -27874,7 +27874,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: https://www.ouest-france.fr/leditiondusoir/2018-01-18/pourquoi-le-kerosene-est-il-completement-detaxe-83f0840c-e9bc-4e3b-ab81-83495ba02ee5
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27911,7 +27911,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -27954,7 +27954,7 @@
   answer_image_explanation: 'TICPE : Taxe Intérieure sur la Consommation des Produits
     Energétiques'
   answer_extra_info: 'Source : L''illusion du voyage vert, p6, 2ème §'
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -28158,7 +28158,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -28596,7 +28596,7 @@
 
     '
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -28635,7 +28635,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: Paragraphe 4.1 Page 4
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -28686,7 +28686,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000752-7944.png
   answer_image_explanation: ''
   answer_extra_info: Abstract Page 1, Par. 4.4 Page 9
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -28720,7 +28720,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -28762,7 +28762,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000754-16a8.png
   answer_image_explanation: ''
   answer_extra_info: Par. 4.1 Page 3
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -28798,7 +28798,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000755-313d.png
   answer_image_explanation: ''
   answer_extra_info: Paragraphe 4.1 Page 3 – fig. 1 Page 4
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -28859,7 +28859,7 @@
   answer_image_explanation: Pays où le nombre de propriétaires de jets explose (2016)
     / croissance entre 2006 à et 2016
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -28901,7 +28901,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000757-34b9.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -28944,7 +28944,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000758-5ec7.png
   answer_image_explanation: ''
   answer_extra_info: Par. 4.3 et Fig. 5 Page 7
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29299,7 +29299,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000767-0bcd.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 16
+  author: null
   validator: 1
   validation_status: Validée
   visibility: PUBLIC
@@ -29409,7 +29409,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -29452,7 +29452,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000771-2838.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29495,7 +29495,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000772-c96c.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -29529,7 +29529,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29563,7 +29563,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29601,7 +29601,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -29645,7 +29645,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29692,7 +29692,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29739,7 +29739,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29832,7 +29832,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29868,7 +29868,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -29902,7 +29902,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -30156,7 +30156,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-26'
@@ -30195,7 +30195,7 @@
   answer_image_explanation: Banc de phytoplancton du ciel
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-26'
@@ -30245,7 +30245,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Brouillon
   visibility: PUBLIC
@@ -30305,7 +30305,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000791-375d.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -30349,7 +30349,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000792-5ff3.png
   answer_image_explanation: 'Sources : Wikipedia - OAG'
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31172,7 +31172,7 @@
     180ppm et 280ppm. Depuis le début de la révolution industrielle la hausse est
     vertigineuse.
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31212,7 +31212,7 @@
     180ppm et 280ppm. Depuis le début de la révolution industrielle la hausse est
     vertigineuse.
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31248,7 +31248,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000817-70a9.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31284,7 +31284,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000818-305d.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31327,7 +31327,7 @@
     se former. La concentration est passée en dessous de ce seuil il y a environ 34
     millions d’années, permettant à la calotte Antarctique de se former et de se maintenir.
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31367,7 +31367,7 @@
     le pic lors de l’évènement PETM il y a environ 56 millions d’années
   answer_extra_info: 'Source image : Svensen, H., 2012, Bubbles from the deep, Nature,
     483, 413–415. https://doi.org/10.1038/483413a'
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31409,7 +31409,7 @@
     pendant environ 40 000 ans, et redescendent ensuite plus lentement, pour retrouver
     le niveau d’avant crise environ 130 000 ans après.
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31446,7 +31446,7 @@
     On voit très clairement le “trou“ il y a 250 millions d’années, correspondant
     à la plus grande extinction de masse que la terre ait connu.
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31508,7 +31508,7 @@
     J.W., Looy, C.V. and Martini, A.M., 2020, The base of the Lystrosaurus Assemblage
     Zone, Karoo Basin, predates the end-Permian marine extinction. Nat. Commun. 11,
     1428. https://doi.org/10.1038/s41467-020-15243-7'
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -31546,7 +31546,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000824-f544.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 10
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -32284,7 +32284,7 @@
     USGS, Jack Cook, Woods Hole Oceanographic Institution, Adam Nieman
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33145,7 +33145,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33185,7 +33185,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33223,7 +33223,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33261,7 +33261,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33302,7 +33302,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-23'
@@ -33385,7 +33385,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-03-12'
@@ -34529,7 +34529,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -34564,7 +34564,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -34597,7 +34597,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -34630,7 +34630,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -34665,7 +34665,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -34702,7 +34702,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -34739,7 +34739,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -34773,7 +34773,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -34813,7 +34813,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -34851,7 +34851,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -34891,7 +34891,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000910-d12d.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -34957,7 +34957,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000911-3e18.png
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Écartée
   visibility: PUBLIC
@@ -35000,7 +35000,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35032,7 +35032,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35064,7 +35064,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35096,7 +35096,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35128,7 +35128,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35160,7 +35160,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35192,7 +35192,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -35224,7 +35224,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -37577,7 +37577,7 @@
 
     Digital footprint will increase by about 9% per year.'
   answer_extra_info: ''
-  author: 21
+  author: null
   validator: 2
   validation_status: Validée
   visibility: PUBLIC
@@ -37757,7 +37757,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -37835,7 +37835,7 @@
 
     Paragraphe 4.3 Page 5 / fig. 3 page 6 (version pdf)'
   answer_extra_info: ''
-  author: 9
+  author: null
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38325,3 +38325,344 @@
   visibility: PUBLIC
   created: '2021-10-08'
   updated: '2022-04-16'
+- id: 1023
+  text: "Le baril est une unité fréquemment employée dans l'industrie pétrolière.\r\
+    \nQue représente un baril de pétrole ?"
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 159 kg
+  answer_option_b: 121 kg
+  answer_option_c: 121 litres
+  answer_option_d: 159 litres
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Aux origines de l'extraction du pétrole au XIXe siècle en Pennsylvanie
+    (États-Unis d'Amérique), différents barils étaient utilisés, rendant difficile
+    le commerce du pétrole. Le client ne savait pas exactement quel volume il achetait.
+    En 1866, les producteurs de pétrole se sont donc mis d'accord pour standardiser
+    le volume des barils à 42 gallons américains, soit environ 159 litres.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1024
+  text: Quelle quantité de pétrole est consommée chaque jour dans le monde ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: 100 000 barils
+  answer_option_b: 10 millions de barils
+  answer_option_c: 100 millions de barils
+  answer_option_d: 150 millions de barils
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 150 millions de barils
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d7867b40.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1025
+  text: Quel est le 1er pays producteur de pétrole ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: États-Unis d'Amérique
+  answer_option_b: Arabie saoudite
+  answer_option_c: Russie
+  answer_option_d: Chine
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Depuis 2017, les États-Unis ont retrouvé leur rang de 1er producteur
+    de pétrole au monde. Auparavant, cette place était tenue par l'Arabie saoudite.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/da1e3c45.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1026
+  text: Quel est le 1er pays consommateur de pétrole ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Chine
+  answer_option_b: Etats-Unis
+  answer_option_c: Russie
+  answer_option_d: Canada
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Les États-Unis ne sont pas seulement le 1er pays producteur
+    de pétrole au monde, ils sont aussi le 1er consommateur.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2f67a4fb.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1027
+  text: Quelle place occupe le pétrole dans le paysage énergétique mondial ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: 1ère place
+  answer_option_b: 2e place
+  answer_option_c: 3e place
+  answer_option_d: 4ème place
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f7cbc2a2.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1028
+  text: Quel est le 1er fournisseur de pétrole de l'Union européenne ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Norvège
+  answer_option_b: États-Unis d'Amérique
+  answer_option_c: Russie
+  answer_option_d: Algérie
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40231ff7.png
+  answer_image_explanation: 'Source : Eurostat'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1029
+  text: Combien les importations de pétrole brut et de produits raffinés ont-elles
+    coûté à la France en 2019 ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: 500 millions d'euros
+  answer_option_b: 3 milliards d'euros
+  answer_option_c: 22 milliards d'euros
+  answer_option_d: 35 milliards d'euros
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: En 2019, les importations de pétrole brut et de carburants raffinés
+    ont coûté 35 milliards d'euros à la France. Si cette facture a diminué en 2020
+    avec le Covid, elle est repartie en forte hausse, du fait de l'augmentation du
+    prix du baril. Cette tendance à la hausse devrait d'ailleurs se poursuivre dans
+    les prochaines années...
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: Ministère de la transition écologique, Bilan énergétique
+    de la France pour 2019
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1030
+  text: Qu'est-ce que l'OPEP ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Une agence des Nations Unies
+  answer_option_b: Un cartel
+  answer_option_c: Une entreprise
+  answer_option_d: Un organisme international de régulation du pétrole
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'OPEP (organisation des pays producteurs de pétrole) est un
+    cartel, c'est-à-dire une alliance de pays producteurs de pétrole ayant vocation
+    à contrôler le marché. Pour ce faire, l'OPEP régule la production de ses pays
+    membres, afin de faire augmenter ou baisser le prix du pétrole.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1031
+  text: Le transport routier est le 1er usage du pétrole dans le monde. Quel est le
+    second ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Le transport maritime
+  answer_option_b: Le transport aérien
+  answer_option_c: La pétrochimie
+  answer_option_d: La production électrique
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La pétrochimie constitue le 2ème usage au monde du pétrole,
+    derrière le transport routier. Il s'agit de la production, à partir de pétrole,
+    des composés chimiques de base. Ces composés serviront ensuite à produire des
+    plastiques, fibres synthétiques, médicaments, cosmétiques, etc. Le secteur de
+    la pétrochimie est en forte croissance.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1032
+  text: Tous les pétroles extraits dans le monde ont-ils les mêmes propriétés physicochimiques
+    ?
+  hint: ''
+  type: VF
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Oui
+  answer_option_b: Non
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Selon leur origine, les pétroles contiennent des chaînes carbonées
+    plus ou moins longues. Ils sont donc plus ou moins visqueux. Ils peuvent aussi
+    contenir plus ou moins de soufre et d'impuretés.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
