@@ -22,29 +22,11 @@
   question_count: 50
   quiz_count: 5
   created: '2022-04-16'
-- id: 7
-  first_name: Citoyens Pour le Climat
-  last_name: ''
-  question_count: 18
-  quiz_count: 0
-  created: '2022-04-16'
 - id: 8
   first_name: Vincent
   last_name: Mignerot
   question_count: 13
   quiz_count: 1
-  created: '2022-04-16'
-- id: 9
-  first_name: Restons les pieds sur terre
-  last_name: ''
-  question_count: 12
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 10
-  first_name: Sous nos pieds
-  last_name: ''
-  question_count: 10
-  quiz_count: 0
   created: '2022-04-16'
 - id: 11
   first_name: Aurélien
@@ -76,12 +58,6 @@
   question_count: 9
   quiz_count: 1
   created: '2022-04-16'
-- id: 16
-  first_name: Avenir Climatique
-  last_name: ''
-  question_count: 9
-  quiz_count: 0
-  created: '2022-04-16'
 - id: 17
   first_name: Jean-Christophe
   last_name: Anna
@@ -106,22 +82,10 @@
   question_count: 8
   quiz_count: 1
   created: '2022-04-16'
-- id: 21
-  first_name: Guillaume
-  last_name: Boudry
-  question_count: 5
-  quiz_count: 0
-  created: '2022-04-16'
 - id: 22
   first_name: Kim
   last_name: Nguyen-Huu
   question_count: 5
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 23
-  first_name: Contributeur anonyme
-  last_name: ''
-  question_count: 3
   quiz_count: 0
   created: '2022-04-16'
 - id: 24
@@ -136,28 +100,10 @@
   question_count: 2
   quiz_count: 1
   created: '2022-04-16'
-- id: 26
-  first_name: climat-en-questions.fr
-  last_name: ''
-  question_count: 2
-  quiz_count: 0
-  created: '2022-04-16'
 - id: 27
   first_name: Jean-Philippe
   last_name: Pernin
   question_count: 2
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 28
-  first_name: Pascal
-  last_name: Mostardi
-  question_count: 1
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 29
-  first_name: INRAE
-  last_name: ''
-  question_count: 0
   quiz_count: 0
   created: '2022-04-16'
 - id: 30
@@ -168,12 +114,6 @@
   created: '2022-04-16'
 - id: 31
   first_name: JBD
-  last_name: ''
-  question_count: 0
-  quiz_count: 0
-  created: '2022-04-16'
-- id: 32
-  first_name: Le Monde
   last_name: ''
   question_count: 0
   quiz_count: 0
@@ -195,24 +135,6 @@
   last_name: Bonnassieux
   question_count: 0
   quiz_count: 1
-  created: '2022-04-16'
-- id: 36
-  first_name: Collectif INVBC
-  last_name: ''
-  question_count: 0
-  quiz_count: 1
-  created: '2022-04-16'
-- id: 37
-  first_name: Le Réveilleur
-  last_name: ''
-  question_count: 0
-  quiz_count: 1
-  created: '2022-04-16'
-- id: 41
-  first_name: Alain Grandjean & Mireille Martini
-  last_name: ''
-  question_count: 0
-  quiz_count: 0
   created: '2022-04-16'
 - id: 42
   first_name: Benoît
