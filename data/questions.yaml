@@ -74,7 +74,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-07'
@@ -316,7 +316,7 @@
     restera quasiment 40%, et au bout de 10000 ans il en restera encore 20% !'
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-08'
@@ -1069,7 +1069,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
@@ -1710,7 +1710,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2020-03-10'
@@ -1873,7 +1873,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
@@ -24299,7 +24299,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -30156,7 +30156,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-26'
@@ -30195,7 +30195,7 @@
   answer_image_explanation: Banc de phytoplancton du ciel
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-26'
@@ -32284,7 +32284,7 @@
     USGS, Jack Cook, Woods Hole Oceanographic Institution, Adam Nieman
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33145,7 +33145,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33185,7 +33185,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33223,7 +33223,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33261,7 +33261,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33302,7 +33302,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: 38
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-23'
@@ -33385,7 +33385,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: 39
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-03-12'
@@ -38325,3 +38325,344 @@
   visibility: PUBLIC
   created: '2021-10-08'
   updated: '2022-04-16'
+- id: 1023
+  text: "Le baril est une unité fréquemment employée dans l'industrie pétrolière.\r\
+    \nQue représente un baril de pétrole ?"
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 159 kg
+  answer_option_b: 121 kg
+  answer_option_c: 121 litres
+  answer_option_d: 159 litres
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Aux origines de l'extraction du pétrole au XIXe siècle en Pennsylvanie
+    (États-Unis d'Amérique), différents barils étaient utilisés, rendant difficile
+    le commerce du pétrole. Le client ne savait pas exactement quel volume il achetait.
+    En 1866, les producteurs de pétrole se sont donc mis d'accord pour standardiser
+    le volume des barils à 42 gallons américains, soit environ 159 litres.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1024
+  text: Quelle quantité de pétrole est consommée chaque jour dans le monde ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: 100 000 barils
+  answer_option_b: 10 millions de barils
+  answer_option_c: 100 millions de barils
+  answer_option_d: 150 millions de barils
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 150 millions de barils
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d7867b40.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1025
+  text: Quel est le 1er pays producteur de pétrole ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: États-Unis d'Amérique
+  answer_option_b: Arabie saoudite
+  answer_option_c: Russie
+  answer_option_d: Chine
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Depuis 2017, les États-Unis ont retrouvé leur rang de 1er producteur
+    de pétrole au monde. Auparavant, cette place était tenue par l'Arabie saoudite.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/da1e3c45.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1026
+  text: Quel est le 1er pays consommateur de pétrole ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Chine
+  answer_option_b: Etats-Unis
+  answer_option_c: Russie
+  answer_option_d: Canada
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Les États-Unis ne sont pas seulement le 1er pays producteur
+    de pétrole au monde, ils sont aussi le 1er consommateur.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2f67a4fb.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1027
+  text: Quelle place occupe le pétrole dans le paysage énergétique mondial ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: 1ère place
+  answer_option_b: 2e place
+  answer_option_c: 3e place
+  answer_option_d: 4ème place
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f7cbc2a2.png
+  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1028
+  text: Quel est le 1er fournisseur de pétrole de l'Union européenne ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Norvège
+  answer_option_b: États-Unis d'Amérique
+  answer_option_c: Russie
+  answer_option_d: Algérie
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40231ff7.png
+  answer_image_explanation: 'Source : Eurostat'
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1029
+  text: Combien les importations de pétrole brut et de produits raffinés ont-elles
+    coûté à la France en 2019 ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: 500 millions d'euros
+  answer_option_b: 3 milliards d'euros
+  answer_option_c: 22 milliards d'euros
+  answer_option_d: 35 milliards d'euros
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: En 2019, les importations de pétrole brut et de carburants raffinés
+    ont coûté 35 milliards d'euros à la France. Si cette facture a diminué en 2020
+    avec le Covid, elle est repartie en forte hausse, du fait de l'augmentation du
+    prix du baril. Cette tendance à la hausse devrait d'ailleurs se poursuivre dans
+    les prochaines années...
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: Ministère de la transition écologique, Bilan énergétique
+    de la France pour 2019
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1030
+  text: Qu'est-ce que l'OPEP ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Une agence des Nations Unies
+  answer_option_b: Un cartel
+  answer_option_c: Une entreprise
+  answer_option_d: Un organisme international de régulation du pétrole
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'OPEP (organisation des pays producteurs de pétrole) est un
+    cartel, c'est-à-dire une alliance de pays producteurs de pétrole ayant vocation
+    à contrôler le marché. Pour ce faire, l'OPEP régule la production de ses pays
+    membres, afin de faire augmenter ou baisser le prix du pétrole.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1031
+  text: Le transport routier est le 1er usage du pétrole dans le monde. Quel est le
+    second ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Le transport maritime
+  answer_option_b: Le transport aérien
+  answer_option_c: La pétrochimie
+  answer_option_d: La production électrique
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La pétrochimie constitue le 2ème usage au monde du pétrole,
+    derrière le transport routier. Il s'agit de la production, à partir de pétrole,
+    des composés chimiques de base. Ces composés serviront ensuite à produire des
+    plastiques, fibres synthétiques, médicaments, cosmétiques, etc. Le secteur de
+    la pétrochimie est en forte croissance.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
+- id: 1032
+  text: Tous les pétroles extraits dans le monde ont-ils les mêmes propriétés physicochimiques
+    ?
+  hint: ''
+  type: VF
+  category: 5
+  tags:
+  - 11
+  difficulty: 1
+  language: Français
+  answer_option_a: Oui
+  answer_option_b: Non
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Selon leur origine, les pétroles contiennent des chaînes carbonées
+    plus ou moins longues. Ils sont donc plus ou moins visqueux. Ils peuvent aussi
+    contenir plus ou moins de soufre et d'impuretés.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'

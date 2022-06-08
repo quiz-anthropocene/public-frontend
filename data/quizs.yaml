@@ -1694,3 +1694,35 @@
   visibility: PUBLIC
   created: '2022-05-30'
   updated: '2022-05-30'
+- id: 83
+  name: Le quiz de Maxence Cordiez sur le Pétrole
+  slug: le-quiz-de-maxence-cordiez-sur-le-petrole
+  introduction: <p>Depuis 2017, Maxence publie Cordiez publie des contenus sur l'énergie
+    et le climat, notamment sur LinkedIn. Notamment ce quiz de prise de connaissance
+    sur le pétrole, qu'il a accepté de transposer chez Quiz de l'Anthropocène.</p>
+  conclusion: '<p>Si le sujet vous a intéressé, vous pouvez aussi vous procurer l''ouvrage
+    qu''il a publié : Energies, Fake or Not ? La transition énergétique, on y est
+    prresque</p>'
+  questions:
+  - 1023
+  - 1024
+  - 1025
+  - 1026
+  - 1027
+  - 1028
+  - 1029
+  - 1030
+  - 1031
+  - 1032
+  tags:
+  - 11
+  difficulty_average: 1.0
+  language: Français
+  author: 57
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0470a518.png
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-06-08'
+  updated: '2022-06-08'
