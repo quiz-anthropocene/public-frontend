@@ -74,7 +74,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: null
+  validator: 39
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-07'
@@ -316,7 +316,7 @@
     restera quasiment 40%, et au bout de 10000 ans il en restera encore 20% !'
   answer_extra_info: ''
   author: 2
-  validator: null
+  validator: 39
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-08'
@@ -1069,7 +1069,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: null
+  validator: 39
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
@@ -1391,7 +1391,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-06-09'
 - id: 36
   text: DOUBLON Outre le changement climatique, les émissions de CO2 ont aussi une
     influence inquiétante sur...
@@ -1710,7 +1710,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: null
+  validator: 39
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2020-03-10'
@@ -1873,7 +1873,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: null
+  validator: 39
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-03-10'
@@ -15136,7 +15136,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2022-06-09'
 - id: 404
   text: 'A combien de jours de consommation intérieure les stocks stratégiques pétroliers
     correspondent-ils en France ? '
@@ -19825,7 +19825,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-06-09'
 - id: 532
   text: Si le charbon chinois était un pays, en quelle année est-il devenu le 1er
     émetteur mondial de CO2 ?
@@ -24299,11 +24299,11 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
-  updated: '2022-04-16'
+  updated: '2022-06-10'
 - id: 650
   text: Sur les 20 plus grands incendies depuis 90 ans en Californie, combien ont
     eu lieu après l'an 2000 ?
@@ -30156,7 +30156,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-26'
@@ -30195,7 +30195,7 @@
   answer_image_explanation: Banc de phytoplancton du ciel
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-26'
@@ -32284,7 +32284,7 @@
     USGS, Jack Cook, Woods Hole Oceanographic Institution, Adam Nieman
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33145,7 +33145,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33185,7 +33185,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33223,7 +33223,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33261,7 +33261,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-22'
@@ -33302,7 +33302,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 17
-  validator: null
+  validator: 38
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-02-23'
@@ -33385,7 +33385,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
-  validator: null
+  validator: 39
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-03-12'
