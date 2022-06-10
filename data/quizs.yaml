@@ -1001,22 +1001,20 @@
   introduction: ''
   conclusion: ''
   questions:
+  - 35
   - 51
   - 69
   - 76
   - 225
   - 294
   - 403
-  - 531
   - 589
   - 719
-  - 729
-  - 737
   - 738
   - 871
   - 1007
   tags: []
-  difficulty_average: 2.5
+  difficulty_average: 2.4
   language: Français
   author: 2
   image_background_url: ''
@@ -1025,7 +1023,7 @@
   spotlight: false
   visibility: PUBLIC
   created: '2021-03-05'
-  updated: '2022-04-16'
+  updated: '2022-06-09'
 - id: 65
   name: Le Pétrole
   slug: le-petrole
@@ -1697,12 +1695,12 @@
 - id: 83
   name: Le quiz de Maxence Cordiez sur le Pétrole
   slug: le-quiz-de-maxence-cordiez-sur-le-petrole
-  introduction: <p>Depuis 2017, Maxence publie Cordiez publie des contenus sur l'énergie
-    et le climat, notamment sur LinkedIn. Notamment ce quiz de prise de connaissance
+  introduction: <p>Depuis 2017, Maxence Cordiez publie des contenus sur l'énergie
+    et le climat, en particulier sur LinkedIn. Notamment ce quiz de prise de connaissance
     sur le pétrole, qu'il a accepté de transposer chez Quiz de l'Anthropocène.</p>
   conclusion: '<p>Si le sujet vous a intéressé, vous pouvez aussi vous procurer l''ouvrage
-    qu''il a publié : Energies, Fake or Not ? La transition énergétique, on y est
-    prresque</p>'
+    qu''il a publié : <em>Energies, Fake or Not ? La transition énergétique, on y
+    est presque</em></p>'
   questions:
   - 1023
   - 1024
@@ -1725,4 +1723,4 @@
   spotlight: false
   visibility: PUBLIC
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-06-09'
