@@ -33901,10 +33901,10 @@
   difficulty: 2
   language: Français
   answer_option_a: D’un facteur 2
-  answer_option_b: D’un facteur 3
-  answer_option_c: D’un facteur 4
-  answer_option_d: D’un facteur 5
-  answer_correct: d
+  answer_option_b: D’un facteur 5
+  answer_option_c: D’un facteur 10
+  answer_option_d: ''
+  answer_correct: c
   has_ordered_answers: true
   answer_explanation: La population humaine est estimée autour de 1,6 milliards en
     1900. En 2022 nous approchons les 8 milliards.
@@ -33924,10 +33924,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-09'
-  updated: '2022-06-03'
+  updated: '2022-06-13'
 - id: 885
-  text: Lesquelles de ces projections démographiques sont jugées réalistes à l’horizon
-    2100 ?
+  text: Lesquelles de ces projections de population à l’horizon 2100 sont jugées réalistes
+    par les démographes ?
   hint: ''
   type: QCM-RM
   category: 8
@@ -33965,7 +33965,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-06'
+  updated: '2022-06-13'
 - id: 886
   text: L’Inde devrait bientôt devenir le pays le plus peuplé au monde. Quel y est
     le nombre moyen d’enfants par femme ?
@@ -34102,7 +34102,7 @@
     ce calcul global mélange l''augmentation de la population dans des pays aux émissions
     faibles et l''augmentation des émissions dans des pays à la population stable.
     On ne sait pas non plus ce qui se serait passé si la population avait augmenté
-    moins vite.'
+    moins vite  : aurait-on vraiment brûlé moins de combustibles fossiles ?'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -34110,16 +34110,15 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
-  answer_extra_info: Je n'ai pas de lien à part mon article, personne à ma connaissance
-    ne l'a expliqué clairement
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0ae6cc1d.jpg
+  answer_image_explanation: Les émissions par personne et par continent depuis 1900
+  answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-06'
+  updated: '2022-06-13'
 - id: 890
   text: Peut-on estimer une population maximale qui serait soutenable sur terre ?
   hint: ''
@@ -34148,15 +34147,17 @@
   answer_scientific_url_text: 'Agrimonde-Terra : un jeu de scénarios pour explorer
     le futur de la sécurité alimentaire et l’usage des terres'
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4307d45c.png
+  answer_image_explanation: Actions proposées par le World Resource Institute pour
+    nourrir 10 milliards de personne en 2050, et leur effet sur les émissions de gaz
+    à effet de serre.
   answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-06'
+  updated: '2022-06-13'
 - id: 891
   text: Imaginons qu’on parvienne (progressivement !) à réduire la population d’un
     facteur 2. Quel serait l’effet sur les émissions de gaz à effet de serre ?
@@ -34176,10 +34177,11 @@
   has_ordered_answers: true
   answer_explanation: "Difficile à dire ! De nombreuses autres choses changent aussi\
     \ dans ce monde :\r\n- si la demande de combustibles fossiles baisse, leur prix\
-    \ baisse aussi, et la demande remonte\r\n- le monde devient moins dense.\r\n-\
-    \ c'est une raison politique de plus pour attendre.\r\nDans tous les cas le réchauffement\
-    \ dépend des émissions cumulées, donc émettre la même quantité plus lentement\
-    \ revient juste à repousser le problème."
+    \ baisse aussi, et la demande remonte\r\n- le monde devient moins dense et donc\
+    \ moins efficace\r\n- c'est une raison politique de plus pour repousser les décisions\
+    \ politiques difficiles\r\nDans tous les cas le réchauffement dépend des émissions\
+    \ cumulées, donc émettre la même quantité plus lentement revient juste à repousser\
+    \ le problème."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -34187,16 +34189,16 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
-  answer_extra_info: Je n'ai pas de lien à part mon article, personne à ma connaissance
-    ne l'a expliqué clairement
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cd664fba.jpeg
+  answer_image_explanation: Thanos, le méchant d'Avengers qui voulait diviser la population
+    par deux pour sauver l'environnement.
+  answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-06'
+  updated: '2022-06-13'
 - id: 892
   text: Imaginons que, à l'instar de la Chine, on lance demain une politique de l’enfant
     unique en Françe. De combien la population française serait-elle réduite à l’horizon
@@ -34215,13 +34217,14 @@
   answer_option_d: ''
   answer_correct: ab
   has_ordered_answers: true
-  answer_explanation: Cela dépend en fait de ce qu'on entend par "à la chinoise".
-    La politique de l'enfant unique en Chine s'est traduite par des taux de fécondité
-    entre 1,6 et 2,5 enfants par femme. Pour 1,6 la population serait réduite d'un
-    quart par rapport au scénario où la natalité resterait stable (qui correspond
-    aux projections actuelles). Pour un "enfant unique dur", qui correspondrait par
-    exemple à un taux de fécondité de 1,1 enfants par femme, la population serait
-    divisée par deux en 2100.
+  answer_explanation: "Cela dépend en fait de ce qu'on entend par \"enfant unique\
+    \ comme en Chine\". La politique de l'enfant unique s'y est traduite par des taux\
+    \ de fécondité entre 2,5 enfants par femme (au début) et 1,6 (récemment).\r\n\r\
+    \nSi l'ont réduit le taux de fécondité à 1,6 en France, la population serait réduite\
+    \ d'un quart en 2100 par rapport au scénario où la natalité resterait stable (qui\
+    \ correspond aussi aux projections actuelles). Pour un \"enfant unique dur\",\
+    \ qui correspondrait par exemple à un taux de fécondité de 1,1 enfants par femme,\
+    \ la population serait divisée par deux en 2100."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ined.fr/fr/tout-savoir-population/jeux/population-demain/
@@ -34230,14 +34233,14 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000892-0c74.jpg
-  answer_image_explanation: ''
+  answer_image_explanation: Calculs d'Emmanuel Pont
   answer_extra_info: ''
   author: 46
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-06'
+  updated: '2022-06-13'
 - id: 893
   text: Quel est l'empreinte carbone de mettre au monde un enfant ?
   hint: ''
@@ -34254,10 +34257,12 @@
   answer_correct: ad
   has_ordered_answers: true
   answer_explanation: Le chiffre de 60t qui a été largement médiatisé - voir l'infographie
-    ci-dessous. Il inclue dans son calcul l'impact futur de toute sa descendance hypothétique,
-    si les émissions par personne restent stables pour toujours... On peut objecter
-    qu'il est difficile de l'estimer car il dépendra des émissions futures de l'enfant
-    ... et potentiellement de sa descendance. Dans son livre, Emmanuel Pont propose
+    ci-dessous - est très discutable. Il inclut dans son calcul l'impact futur de
+    toute sa descendance hypothétique, si les émissions par personne restent stables
+    pour toujours... On peut objecter que les émissions vont forcément diminuer, de
+    gré ou de force (géologie). Ce chiffre n'est pas non plus directement comparable
+    avec les autres du graphique, qui représentent des analyses de cycle de vie, c'est-à-dire
+    des émissions mesurées et à court terme. Dans son livre, Emmanuel Pont propose
     un calcul alternatif pour une famille qui fait des efforts pour réduire ses émissions.
     Il arrive à 1t CO2e par an.
   answer_audio: ''
@@ -34268,7 +34273,7 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000893-e725.jpg
-  answer_image_explanation: Infographie sur l'étude tant controversée sur le poids
+  answer_image_explanation: Infographie tirée de l'étude controversée sur le poids
     carbone d'un nouvel enfant
   answer_extra_info: ''
   author: 46
@@ -34276,7 +34281,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-06'
+  updated: '2022-06-13'
 - id: 894
   text: Lequel de ces produits présente la plus grande empreinte eau par kg ?
   hint: ''

@@ -1639,9 +1639,17 @@
   slug: population-et-surpopulation
   introduction: <p>L’augmentation de la population mondiale est un facteur important
     de la crise écologique. En est-elle la principale responsable ? Et peut-on agir
-    sur cette croissance ? Pour quel résultats et à quel terme ? Dans ce quiz nous
-    allons revenir sur les chiffres les plus marquants sur cette question épineuse.</p>
-  conclusion: ''
+    sur cette croissance ? Pour quel résultats et à quelle échéance ? Dans ce quiz
+    nous allons revenir sur les chiffres les plus marquants sur cette question épineuse,
+    et peut-être mettre en question quelques idées reçues.</p>
+  conclusion: <p>Après ce quizz, nous avons une vision plus nuancée du débat la surpopulation.
+    Si l'augmentation de la population humaine est un facteur de la crise écologique,
+    ce n'est pas en levier d'action très efficace en raison de l'inertie et de la
+    difficulté pour réduire la natalité. La "population maximale" dépend de la manière
+    dont nous vivons et du fonctionnement de nos sociétés. De même, à l'échelle individuelle,
+    avoir un enfant a un poids écologique bien plus faible que les chiffres qui peuvent
+    circuler, et qui pourra être encore plus limité selon la manière dont vit cet
+    enfant.</p>
   questions:
   - 884
   - 885
@@ -1662,7 +1670,7 @@
   spotlight: false
   visibility: PUBLIC
   created: '2022-05-16'
-  updated: '2022-06-03'
+  updated: '2022-06-13'
 - id: 82
   name: Le design au service du monde de demain
   slug: le-design-au-service-du-monde-de-demain
