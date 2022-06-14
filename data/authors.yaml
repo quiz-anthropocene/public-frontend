@@ -223,8 +223,8 @@
 - id: 46
   first_name: Emmanuel
   last_name: Pont
-  question_count: 0
-  quiz_count: 0
+  question_count: 10
+  quiz_count: 1
   created: '2022-04-16'
 - id: 49
   first_name: Mylène
