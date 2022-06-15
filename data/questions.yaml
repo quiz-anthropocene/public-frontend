@@ -33904,7 +33904,7 @@
   answer_option_b: Elle a été multipliée par 5
   answer_option_c: Elle a été multipliée par 10
   answer_option_d: ''
-  answer_correct: c
+  answer_correct: b
   has_ordered_answers: true
   answer_explanation: La population humaine en 1900 est estimée autour de 1,6 milliards.
     En 2022 nous approchons les 8 milliards.
@@ -33924,7 +33924,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-04-09'
-  updated: '2022-06-14'
+  updated: '2022-06-15'
 - id: 885
   text: Parmi ces projections de population à l’horizon 2100, lesquelles sont jugées
     réalistes par les démographes ?
@@ -38674,3 +38674,59 @@
   visibility: PUBLIC
   created: '2022-06-08'
   updated: '2022-06-08'
+- id: 1033
+  text: Sous climats tempérés, quels sols contiennent le plus de matière organique
+    par hectare ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: les sols de forêts
+  answer_option_b: les prairies d'élevage
+  answer_option_c: les champs de céréales
+  answer_option_d: les vergers/vignes
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Plus exactement, ce sont les prairies permanentes pâturées\
+    \ qui ont les plus grosses réserves de matières organiques. La raison en est triple :\r\
+    \n1) le sol n’est pas travaillé, ce qui limite la dégradation de la matière organique.\
+    \ Cette minéralisation de la matière organiques est en effet un processus aérobie,\
+    \ facilité par le travaille du sol.\r\n2) les sols de prairies reçoivent quasiment\
+    \ toute la production de matières organiques aérienne via les déjections des herbivores.\
+    \ En effet, les ruminants sont très peu efficaces (5-10%) pour transformer leur\
+    \ nourriture en biomasse animale, ainsi ils retirent peu de biomasse et de nutriments\
+    \ du système tout en assurant un retours au sol sous une forme très assimilable.\r\
+    \n3) au contraire des arbres, les herbes nourrissent le sol principalement par\
+    \ leurs racines,, sous forme d’exsudation racinaire, ce qui permet d’augmenter\
+    \ le taux de matière organique sur toute la profondeur du système racinaire (jusqu’à\
+    \ 2m!) et de former des sols épais riches en matière organique. Au contraire,\
+    \ une foret nourrit le sol principalement via la chute des feuilles, ce qui limite\
+    \ la couche humifère à 30-40cm d’épaisseur. PS : La forêt compense bien sur par\
+    \ un stock élevé dans sa biomasse « vivante », stock qui est plus fragile au aléas\
+    \ (feux, tempêtes...)"
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.territoires-climat.ademe.fr/actualite/etude-de-linra-stocker-du-carbone-dans-les-sols-francais-quel-potentiel-au-regard-de-lobjectif-4-pour-1000-et-a-quel-cout
+  answer_accessible_url_text: Pratiques agricoles pour stocker du carbone dans les
+    sols français
+  answer_scientific_url: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/lorigine-du-monde
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/281c9125.png
+  answer_image_explanation: Les sols de prairies d'élevage, et notamment des prairies
+    d'altitude, sont a préservés en priorité de la mise en culture pour préserver
+    leur stock de matière organique. Au contraire, les sols cultivés dégradés peuvent
+    être régénéré par des couverts végétaux ("engrais verts") associés avec du pâturage.
+  answer_extra_info: A l’opposé, les vergers et vignes conduits de manière intensive
+    avec un travail du sol intense et un faible retours de matière organique stocke
+    bien moins de carbone dans le sol. Cela n’est pas irréversible, car un enherbement
+    et son contrôle par pâturage pourrait inverser la tendance et permettre de régénérer
+    ces sols, qui sont actuellement parmi les plus dégradés.
+  author: 59
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-15'
+  updated: '2022-06-15'
