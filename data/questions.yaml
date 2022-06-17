@@ -38691,21 +38691,13 @@
   has_ordered_answers: true
   answer_explanation: "Plus exactement, ce sont les prairies permanentes pâturées\
     \ qui ont les plus grosses réserves de matières organiques. La raison en est triple :\r\
-    \n1) le sol n’est pas travaillé, ce qui limite la dégradation de la matière organique.\
-    \ Cette minéralisation de la matière organiques est en effet un processus aérobie,\
-    \ facilité par le travaille du sol.\r\n2) les sols de prairies reçoivent quasiment\
-    \ toute la production de matières organiques aérienne via les déjections des herbivores.\
-    \ En effet, les ruminants sont très peu efficaces (5-10%) pour transformer leur\
-    \ nourriture en biomasse animale, ainsi ils retirent peu de biomasse et de nutriments\
-    \ du système tout en assurant un retours au sol sous une forme très assimilable.\r\
-    \n3) au contraire des arbres, les herbes nourrissent le sol principalement par\
-    \ leurs racines,, sous forme d’exsudation racinaire, ce qui permet d’augmenter\
-    \ le taux de matière organique sur toute la profondeur du système racinaire (jusqu’à\
-    \ 2m!) et de former des sols épais riches en matière organique. Au contraire,\
-    \ une foret nourrit le sol principalement via la chute des feuilles, ce qui limite\
-    \ la couche humifère à 30-40cm d’épaisseur. PS : La forêt compense bien sur par\
-    \ un stock élevé dans sa biomasse « vivante », stock qui est plus fragile au aléas\
-    \ (feux, tempêtes...)"
+    \n1) le sol n’est pas travaillé, ce qui limite la dégradation de la matière organique.\r\
+    \n2) les sols de prairies reçoivent quasiment toute la production de matières\
+    \ organiques aérienne via les déjections des herbivores.\r\n3) les herbes nourrissent\
+    \ le sol principalement par leurs racines, sous forme d’exsudation racinaire,\
+    \ ce qui permet d’augmenter le taux de matière organique sur toute la profondeur\
+    \ du système racinaire (jusqu’à 2m!) et de former des sols épais riches en matière\
+    \ organique."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.territoires-climat.ademe.fr/actualite/etude-de-linra-stocker-du-carbone-dans-les-sols-francais-quel-potentiel-au-regard-de-lobjectif-4-pour-1000-et-a-quel-cout
@@ -38719,14 +38711,13 @@
     d'altitude, sont a préservés en priorité de la mise en culture pour préserver
     leur stock de matière organique. Au contraire, les sols cultivés dégradés peuvent
     être régénéré par des couverts végétaux ("engrais verts") associés avec du pâturage.
-  answer_extra_info: A l’opposé, les vergers et vignes conduits de manière intensive
-    avec un travail du sol intense et un faible retours de matière organique stocke
-    bien moins de carbone dans le sol. Cela n’est pas irréversible, car un enherbement
-    et son contrôle par pâturage pourrait inverser la tendance et permettre de régénérer
-    ces sols, qui sont actuellement parmi les plus dégradés.
+  answer_extra_info: Au contraire, une foret nourrit le sol principalement via la
+    chute des feuilles, ce qui limite la couche humifère à 30-40cm d’épaisseur. La
+    forêt compense bien sur par un stock élevé dans sa biomasse « vivante », stock
+    qui est plus fragile au aléas (feux, tempêtes...)
   author: 59
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-15'
-  updated: '2022-06-15'
+  updated: '2022-06-16'
