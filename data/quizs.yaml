@@ -1737,3 +1737,48 @@
   visibility: PUBLIC
   created: '2022-06-08'
   updated: '2022-06-09'
+- id: 84
+  name: Introduction to the Climate Fresk (EN)
+  slug: introduction-to-the-climate-fresk-en
+  introduction: "<p> </p>\r\n\r\n<p>The Climate Fresk, this is playful, collaborative\
+    \ and creative workshop about climate change. It is based on collective intelligence\
+    \ and is extremely pedagogical. In 3 hours, you will discover the climate mechanisms\
+    \ and the consequences of its disruption, you will debate as a team and elaborate\
+    \ courses of action to limit it and adapt ourselves.<br />\r\nAlready 430,000\
+    \ people joined accross the world. How about testing your knowledge?</p>\r\n\r\
+    \n<p> </p>"
+  conclusion: "<p> </p>\r\n\r\n<p>Did you like it? Did you learn something you? Did\
+    \ you miss something? Don't hesitate, join a workshop of the <a href=\"https://climatefresk.org\"\
+    >Climate Fresk <\\a>. You can even quickly become a facilitator !</a></p>\r\n\r\
+    \n<p> </p>"
+  questions:
+  - 1034
+  - 1035
+  - 1036
+  - 1037
+  - 1038
+  - 1039
+  - 1040
+  - 1041
+  - 1042
+  - 1043
+  tags:
+  - 9
+  - 13
+  - 14
+  - 51
+  - 93
+  - 97
+  - 98
+  - 225
+  - 256
+  difficulty_average: 1.0
+  language: English
+  author: 60
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'

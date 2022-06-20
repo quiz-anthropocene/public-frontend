@@ -38721,3 +38721,395 @@
   visibility: PUBLIC
   created: '2022-06-15'
   updated: '2022-06-16'
+- id: 1034
+  text: In their last report issued in 2021, how do scientists from the IPCC estimate
+    the likeliness that the current climate change is due to human activities?
+  hint: The impact of humankind is clearly established.
+  type: QCM
+  category: 1
+  tags:
+  - 22
+  - 32
+  difficulty: 1
+  language: English
+  answer_option_a: As likely as unlikely
+  answer_option_b: Likely
+  answer_option_c: Very likely
+  answer_option_d: Absolutely sure
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Since the last IPCC report (AR6) published in 2021, this is
+    a fact that doesn't suffer any contestation. First of all, it is undeniable that
+    human influence did warm up the atmosphere, the ocean and the earth; quick and
+    generalized changes already happened and their consequences are serious for frozen
+    land and biosphere. Furthermore, we can from now on assure that 100% of climate
+    change is due to human activities.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.theguardian.com/environment/2021/aug/09/climate-crisis-unequivocally-caused-by-human-activities-says-ipcc-report
+  answer_accessible_url_text: The Guardian "Climate crisis ‘unequivocally’ caused
+    by human activities, says IPCC report"
+  answer_scientific_url: https://archive.ipcc.ch/
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2faa1d7e.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1035
+  text: What would be the earth surface temperature without greenhouse effect ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 12
+  - 142
+  - 155
+  difficulty: 1
+  language: Français
+  answer_option_a: -50 degC
+  answer_option_b: -18 degC
+  answer_option_c: 0 degC
+  answer_option_d: 15 degC
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://education.nationalgeographic.org/resource/greenhouse-effect-our-planet
+  answer_accessible_url_text: National Geographic "The Greenhouse Effect And Our Planet"
+  answer_scientific_url: https://www.hko.gov.hk/en/climate_change/human_activities.htm
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/164895d0.png
+  answer_image_explanation: With and without greenhouse gases
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1036
+  text: 21,000 years ago, a period of deglaciation started on Earth to end with a
+    warming of +5°C. How long did that period last ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: English
+  answer_option_a: 1,000 years
+  answer_option_b: 5,000 years
+  answer_option_c: 10,000 years
+  answer_option_d: 18,000 years
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "The last deglaciation period (+5°C) lasted from 21,000 years\
+    \ ago to 11,000 years ago\r\nTherefore, that period lasted 10,000 years and life\
+    \ had enough time to adapt to that change as it therefore occurred at a rate of\
+    \ 0.05°C per century.\r\nToday, a similar warming is happening, but at a different\
+    \ rate.\r\nThe current average Earth temperature has already increased by +1,2°C\
+    \ since the beginning of the industrial era, and according to some scenarios of\
+    \ the IPCC, it could reach +5°C  by 2100.\r\nThis means an increase of 2°C per\
+    \ century... 40 time faster than during the last deglaciation period."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.nature.com/articles/s41586-020-2617-x
+  answer_scientific_url_text: Nature "Glacial cooling and climate sensitivity revisited"
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4ffddda4.jpg
+  answer_image_explanation: https://www.diercke.com/content/last-ice-age-978-3-14-100790-9-26-1-0
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1037
+  text: For how much does fossil energy contribute on the global world consumption
+    ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 11
+  - 40
+  - 41
+  - 256
+  difficulty: 1
+  language: Français
+  answer_option_a: 40%
+  answer_option_b: 65%
+  answer_option_c: 85%
+  answer_option_d: 95%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Petrol (33%), coil (27%) and gas (23%) for a total of exactly\
+    \ 83% !\r\nWe often talk about electricity and renewable energy, but actually\
+    \ our lives are highly dependent to fossil energy for our transport, building\
+    \ heating and cooling, items consumption (particularly plastics ones), drugs,\
+    \ clothes, etc."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://ourworldindata.org/energy-production-consumption
+  answer_accessible_url_text: Our World in Data "Energy Production and Consumption"
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a771be5b.png
+  answer_image_explanation: Global primary energy consumption by source and years
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1038
+  text: Let's imagine that we put all the cows of the world within the same country.
+    In which position would that country be in term of greenhouse gases emission ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 5
+  - 97
+  difficulty: 1
+  language: English
+  answer_option_a: 1st
+  answer_option_b: 3rd
+  answer_option_c: 5th
+  answer_option_d: 10th
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: 'Livestock farming owns approximately 15% of global CO2 emissions
+    : a direct contribution via enteric fermentation, and an indirect contribution
+    via the deforestation and nitrogen fertilize to produce their food - of which
+    2/3 only for cattle.'
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.fao.org/gleam/results/en/
+  answer_scientific_url_text: Food and Agriculture Organization of the United Nations
+    "Global Livestock Environmental Assessment Model (GLEAM)"
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/74d13851.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1039
+  text: What happens to the CO2 we are emitting ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 13
+  - 14
+  difficulty: 1
+  language: English
+  answer_option_a: Part of it stays within the atmosphere
+  answer_option_b: Part of it stays is dissolved into the ocean
+  answer_option_c: Part of it is absorbed by plant
+  answer_option_d: Most of it is transformed and quick disappears
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: "From the global C02 emission from human sources :\r\n- 23%\
+    \ are dissolved into the oceans (and contributes to their acidification)\r\n-\
+    \ 29% is absorbed by plants\r\n- 44% remains in the atmosphere, which leads to\
+    \ an increase of its concentration. As C02 is a greenhouse gas, this excess contributes\
+    \ to accumulate more energy and warm up the climate.\r\nC02 is a very stable chemical\
+    \ element and does not disappear naturally quickly."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.3ne.ca/wp-content/uploads/2020/06/Carbon-Sinks-and-Sources-Fact-Sheet-Advanced-2020-06-15-e.pdf
+  answer_accessible_url_text: 'FACT SHEET: Carbon Sinks & Sources'
+  answer_scientific_url: https://essd.copernicus.org/articles/14/1917/2022/essd-14-1917-2022-discussion.html
+  answer_scientific_url_text: Global Carbon Budget 2021
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/46f6a504.png
+  answer_image_explanation: Sources and sinks of anthropogenic CO2 emissions (2009-2018)
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1040
+  text: The ocean acidification is a consequence of...
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 9
+  - 142
+  - 166
+  difficulty: 1
+  language: English
+  answer_option_a: the anthropogenic (human) CO2 emssion
+  answer_option_b: the eutrophication (lack of oxygen)
+  answer_option_c: the photosynthesis
+  answer_option_d: the warming of the atmosphere
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Part of the CO2 contained in the atmosphere is dissolved into\
+    \ the ocean.\r\nWe can then find it within the water under various form, one of\
+    \ them being the carbonic acid (H2CO3).\r\nSince the beginning of the industrial\
+    \ era (1800), the ocean acidification increased by 26%.\r\nThe current rate of\
+    \ ocean acidification is 10 times faster than at any time during the last 55 millions\
+    \ of years.\r\nSome scientific models even predict an increase of 150% of the\
+    \ ocean acidity by 2100."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://en.wikipedia.org/wiki/Ocean_acidification
+  answer_accessible_url_text: Wikipedia, Ocean acidification
+  answer_scientific_url: https://ocean-climate.org/en/awareness/the-impact-of-climate-change-on-the-ocean/
+  answer_scientific_url_text: Ocean and climate platform, Ocean acidification
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e835dfa7.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1041
+  text: Among the following phenomena, which one does NOT increase the ocean level
+    ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 9
+  - 16
+  - 69
+  - 142
+  - 160
+  difficulty: 1
+  language: English
+  answer_option_a: Water dilatation due to warming of the ocean
+  answer_option_b: Melting of the ice caps
+  answer_option_c: Melting of the ice pack / sea ice
+  answer_option_d: Meting of glaciers
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: "The sea ice (the Artic, icebergs, part of Antarctica) is floating\
+    \ within the ocean water. Therefore, the volume of melted water replaces the volume\
+    \ of the ice, without increasing the ocean level. Have a try with an ice cube\
+    \ !\r\nOn the contrary, ice caps (Greenland, Antarctica) and glaciers sit on land,\
+    \ meaning that melted water flows down the ocean and increases its level."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://en.wikipedia.org/wiki/Sea_level_rise
+  answer_accessible_url_text: Wikipedia, Sea level rise
+  answer_scientific_url: https://www.nationalgeographic.com/environment/article/sea-level-rise-1
+  answer_scientific_url_text: Natinal Geographic, Sea level rise, explained
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bfd54610.jpg
+  answer_image_explanation: IPCC AR6 Report, Climate Change 2021, The Physical Science
+    Basis
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1042
+  text: Without any positive action from humans, from how many meters will the sea
+    level rise in 2100 (relatively to 1850) ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags:
+  - 9
+  - 61
+  - 69
+  - 142
+  - 164
+  difficulty: 1
+  language: English
+  answer_option_a: 1m
+  answer_option_b: 3m
+  answer_option_c: 7m
+  answer_option_d: 10m
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Sea level increased by approximately 30cm since the beginning\
+    \ of the industrial era (1800).\r\nA rise of 1m by 2100 is not excluded by some\
+    \ some scenarios (SSP 8.5)."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level
+  answer_accessible_url_text: 'Climate.gov, Climate Change: Global Sea Level'
+  answer_scientific_url: https://www.ipcc.ch
+  answer_scientific_url_text: IPCC AR6 Report, Climate Change 2021, The Physical Science
+    Basis
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/68b6da98.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'
+- id: 1043
+  text: Without any positive action from humans to mitigate climate change, how many
+    humans risk to live within the next 50 years in area warmer than the current Sahara
+    ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 23
+  - 51
+  - 142
+  - 181
+  difficulty: 1
+  language: English
+  answer_option_a: 200 millions
+  answer_option_b: 1 billion
+  answer_option_c: 3.5 billions
+  answer_option_d: 7 billions
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "This is 3.5 billions people what would exit this \"climate\
+    \ niche\" in which we have been living and thriving during the past 6000 years.\r\
+    \nThis is the conclusion from a recent study describing the maximal risks we are\
+    \ facing within the next decades, except if we start taking some actions..."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://climate.nasa.gov/images-of-change
+  answer_accessible_url_text: NASE, Images of change
+  answer_scientific_url: https://www.pnas.org/doi/10.1073/pnas.1910114117
+  answer_scientific_url_text: PNAS, Future of the human climate niche
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c7733e97.png
+  answer_image_explanation: IPCC AR6 Report, Climate Change 2021, The Physical Science
+    Basis
+  answer_extra_info: ''
+  author: 60
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-19'
+  updated: '2022-06-19'

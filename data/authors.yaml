@@ -250,3 +250,9 @@
   question_count: 0
   quiz_count: 0
   created: '2022-06-13'
+- id: 60
+  first_name: Geoffroy
+  last_name: Claisse
+  question_count: 0
+  quiz_count: 0
+  created: '2022-06-16'
