@@ -1559,8 +1559,9 @@
     créatif sur le changement climatique. Il est basé sur l’intelligence collective
     et est extrêmement pédagogique. En 3 heures, vous découvrez les mécanismes du
     climat et les conséquences de son dérèglement, vous débattez entre vous et élaborez
-    des pistes d'action pour le limiter et s'y adapter. Déjà 300 000 personnes y ont
-    participé à travers le monde. A vous de tester vos connaissances !</p>
+    des pistes d'action pour le limiter et s'y adapter. Déjà plus de 400,000 personnes
+    y ont participé à travers le monde et 20,000 sont devenues animateurs. A vous
+    de tester vos connaissances !</p>
   conclusion: <p>Ca vous a plu ? Des points qui vous étaient inconnus ? Alors n'hésitez
     plus, inscrivez-vous à un atelier de la <a href="http://fresqueduclimat.org">Fresque
     du Climat</a>. Vous pourrez même rapidement devenir animateur à votre tour.</p>
@@ -1594,7 +1595,7 @@
   spotlight: true
   visibility: PUBLIC
   created: '2022-01-10'
-  updated: '2022-04-16'
+  updated: '2022-06-20'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -1740,13 +1741,13 @@
 - id: 84
   name: Introduction to the Climate Fresk (EN)
   slug: introduction-to-the-climate-fresk-en
-  introduction: "<p> </p>\r\n\r\n<p>The Climate Fresk, this is playful, collaborative\
-    \ and creative workshop about climate change. It is based on collective intelligence\
-    \ and is extremely pedagogical. In 3 hours, you will discover the climate mechanisms\
-    \ and the consequences of its disruption, you will debate as a team and elaborate\
-    \ courses of action to limit it and adapt ourselves.<br />\r\nAlready 430,000\
-    \ people joined accross the world. How about testing your knowledge?</p>\r\n\r\
-    \n<p> </p>"
+  introduction: "<p> </p>\r\n\r\n<p>The Climate Fresk, this is a fun, collaborative\
+    \ and creative workshop on climate change. It is based on collective intelligence\
+    \ and is extremely pedagogical. In 3 hours, you will get to understand the casuse-to\
+    \ effet mechanisms behind climat change, and the consequences of its disruption.\
+    \ You will debate as a team and elaborate action to limit it and adapt ourselves.\
+    \ Already 430,000 people have attended a Fresk accross the world. How about testing\
+    \ your knowledge?</p>"
   conclusion: "<p> </p>\r\n\r\n<p>Did you like it? Did you learn something you? Did\
     \ you miss something? Don't hesitate, join a workshop of the <a href=\"https://climatefresk.org\"\
     >Climate Fresk <\\a>. You can even quickly become a facilitator !</a></p>\r\n\r\
@@ -1781,4 +1782,4 @@
   spotlight: false
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-06-20'
