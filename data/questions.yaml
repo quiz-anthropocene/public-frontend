@@ -38723,7 +38723,7 @@
   updated: '2022-06-16'
 - id: 1034
   text: In their last report issued in 2021, how do scientists from the IPCC estimate
-    the likeliness that the current climate change is due to human activities?
+    the likeliness that the current climate change is cause by human activities?
   hint: The impact of humankind is clearly established.
   type: QCM
   category: 1
@@ -38738,12 +38738,12 @@
   answer_option_d: Absolutely sure
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Since the last IPCC report (AR6) published in 2021, this is
-    a fact that doesn't suffer any contestation. First of all, it is undeniable that
-    human influence did warm up the atmosphere, the ocean and the earth; quick and
-    generalized changes already happened and their consequences are serious for frozen
-    land and biosphere. Furthermore, we can from now on assure that 100% of climate
-    change is due to human activities.
+  answer_explanation: Since the last IPCC report (AR6) issued in 2021, this is a fact
+    this unequivocally established. First of all, it is know clearly proven that the
+    human influence did warm up the atmosphere, the ocean and the earth. Rapid and
+    widespread changes already happened and their consequences are serious for the
+    frozen land and biosphere. Furthermore, we can affirm that 100% of climate change
+    is due to human activities.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.theguardian.com/environment/2021/aug/09/climate-crisis-unequivocally-caused-by-human-activities-says-ipcc-report
@@ -38757,28 +38757,28 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-06-20'
 - id: 1035
   text: What would be the earth surface temperature without greenhouse effect ?
   hint: ''
   type: QCM
   category: 1
-  tags:
-  - 12
-  - 142
-  - 155
+  tags: []
   difficulty: 1
   language: Français
-  answer_option_a: -50 degC
-  answer_option_b: -18 degC
-  answer_option_c: 0 degC
-  answer_option_d: 15 degC
+  answer_option_a: -50 °C
+  answer_option_b: -18 °C
+  answer_option_c: 0 °C
+  answer_option_d: 15 °C
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: "The greenhouse effect is a natural phenomenon. Without the\
+    \ greenhouse effect, the planet would be 33°C colder and life as we know it would\
+    \ not be possible. But greenhouse gases from human\r\nactivities amplify the greenhouse\
+    \ effect and unbalance the climate."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://education.nationalgeographic.org/resource/greenhouse-effect-our-planet
@@ -38786,18 +38786,18 @@
   answer_scientific_url: https://www.hko.gov.hk/en/climate_change/human_activities.htm
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/164895d0.png
-  answer_image_explanation: With and without greenhouse gases
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/38b113fa.png
+  answer_image_explanation: ''
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-06-20'
 - id: 1036
-  text: 21,000 years ago, a period of deglaciation started on Earth to end with a
-    warming of +5°C. How long did that period last ?
+  text: 21,000 years ago, it was an ice age with an average temperature on earth 5°C
+    lower than today's. How long did the deglaciation last?
   hint: ''
   type: QCM
   category: 1
@@ -38811,13 +38811,13 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "The last deglaciation period (+5°C) lasted from 21,000 years\
-    \ ago to 11,000 years ago\r\nTherefore, that period lasted 10,000 years and life\
-    \ had enough time to adapt to that change as it therefore occurred at a rate of\
-    \ 0.05°C per century.\r\nToday, a similar warming is happening, but at a different\
-    \ rate.\r\nThe current average Earth temperature has already increased by +1,2°C\
-    \ since the beginning of the industrial era, and according to some scenarios of\
-    \ the IPCC, it could reach +5°C  by 2100.\r\nThis means an increase of 2°C per\
-    \ century... 40 time faster than during the last deglaciation period."
+    \ ago to 11,000 years ago\r\nOver this 10,000-year period, life had enough time\
+    \ to adapt to that change as it therefore occurred at a rate of 0.05°C per century.\r\
+    \nToday, a similar warming is happening, but at a different rate.\r\nThe current\
+    \ average Earth temperature has already increased by +1,2°C since the beginning\
+    \ of the industrial era, and according to some scenarios of the IPCC, it could\
+    \ reach +5°C  by 2100.\r\nThis means an increase of 2°C per century... 40 time\
+    \ faster than during the last deglaciation period."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -38825,7 +38825,7 @@
   answer_scientific_url: https://www.nature.com/articles/s41586-020-2617-x
   answer_scientific_url_text: Nature "Glacial cooling and climate sensitivity revisited"
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4ffddda4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7bd07675.png
   answer_image_explanation: https://www.diercke.com/content/last-ice-age-978-3-14-100790-9-26-1-0
   answer_extra_info: ''
   author: 60
@@ -38833,7 +38833,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-06-20'
 - id: 1037
   text: For how much does fossil energy contribute on the global world consumption
     ?
