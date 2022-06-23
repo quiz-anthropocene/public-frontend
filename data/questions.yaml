@@ -15128,7 +15128,7 @@
   answer_scientific_url: https://www.pnas.org/content/early/2020/04/28/1910114117
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000403-a993.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/04e983e0.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -15136,7 +15136,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-05-20'
-  updated: '2022-06-09'
+  updated: '2022-06-23'
 - id: 404
   text: 'A combien de jours de consommation intérieure les stocks stratégiques pétroliers
     correspondent-ils en France ? '
