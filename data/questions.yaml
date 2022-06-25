@@ -39113,3 +39113,40 @@
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-06-19'
+- id: 1044
+  text: Quel est la part du flux solaire directement réfléchi par la surface d’un
+    glacier ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 68
+  - 268
+  difficulty: 2
+  language: Français
+  answer_option_a: Rien, pas besoin de lunettes pour marcher sur un glacier
+  answer_option_b: Environ 20%
+  answer_option_c: Environ 60%
+  answer_option_d: 100%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Plus une surface est blanche, et plus elle renvoie le flux solaire
+    directement. Cette part est d'environ 85% pour de la neige fraîche, 60% pour un
+    glacier, mais elle est réduite à presque 0% lorsque la surface est sombre, comme
+    de la roche ou un océan.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Atm%20-%20Role%20des%20glaciers%20dans%20le%20climat%20terrestre%20actuel%20-%20Rondeau.htm
+  answer_accessible_url_text: Ecole des mines de Saint-Etienne
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-24'
+  updated: '2022-06-24'
