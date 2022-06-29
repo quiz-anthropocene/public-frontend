@@ -1783,3 +1783,28 @@
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-06-20'
+- id: 85
+  name: Les Glaciers Chamboulés
+  slug: les-glaciers-chamboules
+  introduction: <p>Le changement climatique fait fondre les glaciers et les calottes
+    polaires.</p>
+  conclusion: ''
+  questions:
+  - 1044
+  - 1045
+  - 1046
+  - 1047
+  tags:
+  - 69
+  - 225
+  - 268
+  difficulty_average: 1.8
+  language: Français
+  author: 34
+  image_background_url: ''
+  has_audio: false
+  publish: false
+  spotlight: false
+  visibility: PUBLIC
+  created: '2022-06-28'
+  updated: '2022-06-28'
