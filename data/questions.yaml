@@ -39133,7 +39133,8 @@
   answer_explanation: Plus une surface est blanche, et plus elle renvoie le flux solaire
     directement. Cette part est d'environ 85% pour de la neige fraîche, 60% pour un
     glacier, mais elle est réduite à presque 0% lorsque la surface est sombre, comme
-    de la roche ou un océan.
+    de la roche ou un océan. Le reste du flux solaire est absorbé par la matière,
+    ce qui a pour effet de la chauffer. Elle émet alors du rayonnement infrarouge.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Atm%20-%20Role%20des%20glaciers%20dans%20le%20climat%20terrestre%20actuel%20-%20Rondeau.htm
@@ -39149,4 +39150,164 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-24'
-  updated: '2022-06-24'
+  updated: '2022-06-28'
+- id: 1045
+  text: Entre 2006 et 2018, le niveau des mers a augmenté de 3.7 mm par an, ce qui
+    fait une augmentation d'environ 44 mm sur la période. Quelle est en pourcentage
+    la contribution des glaciers de montagne à cette augmentation ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 69
+  - 268
+  difficulty: 2
+  language: Français
+  answer_option_a: 0%
+  answer_option_b: 17%
+  answer_option_c: 50%
+  answer_option_d: La totalité
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: La part des glaciers est effectivement de 17%. Pour le reste,
+    39% viennent de l'expansion thermique, 27% de la fonte des calottes polaires et
+    17% des transferts d'eau entre les continents et les océans. Dans le futur, on
+    estime que la part des calottes polaires va fortement grandir par rapport à celle
+    des glaciers de montagne.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/
+  answer_accessible_url_text: Hausse du niveau des mers et changement climatique
+  answer_scientific_url: https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter_09.pdf
+  answer_scientific_url_text: IPCC AR6 WG1 Chapitre 9 Table 9.5
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-28'
+  updated: '2022-06-28'
+- id: 1046
+  text: Quelle serait la hausse du niveau des mers si la calotte polaire Antarctique
+    fondait en totalité ?
+  hint: beaucoup beaucoup beaucoup
+  type: QCM
+  category: 1
+  tags:
+  - 69
+  - 268
+  difficulty: 1
+  language: Français
+  answer_option_a: 30 cm
+  answer_option_b: 1 m
+  answer_option_c: 57 m
+  answer_option_d: 120 m
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Ce serait donc presque 60 m rajoutés au niveau des mers moyen
+    si la calotte polaire Antarctique fondait. La fonte de la calotte polaire du Groënland
+    ajouterait environ 7 m, tandis que la fonte des glaciers de montagne et des petites
+    calottes glaciaires ajouterait environ 30 cm. Le potentiel d'augmentation du niveau
+    des mers est donc essentiellement dans les calottes polaires.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/
+  answer_accessible_url_text: Estimer la contribution des glaces au niveau des mers
+    (en anglais)
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-28'
+  updated: '2022-06-28'
+- id: 1047
+  text: Lors du dernier maximum glaciaire, il y a 30000 ans, la température moyenne
+    à la surface de la Terre était inférieure de 6°C par rapport à aujourd'hui. La
+    ville de Grenoble était alors recouverte par un grand glacier qui s'écoulait depuis
+    les vallées de la Maurienne et de la Tarentaise. Quelle était alors l'altitude
+    de surface de ce glacier au niveau de la "capitale des Alpes" ?
+  hint: Au dessus de la tour Perret
+  type: QCM
+  category: 1
+  tags:
+  - 225
+  - 268
+  difficulty: 2
+  language: Français
+  answer_option_a: Mais non, jamais un glacier n'a recouvert Grenoble
+  answer_option_b: 1 m
+  answer_option_c: 300 m
+  answer_option_d: 1200 m
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Oui, ça paraît important, mais l'altitude de ce glacier était
+    bien de 1200 m. À la même époque, il existait deux autres calottes polaires au
+    dessus de l'Amérique du Nord et des pays Scandinaves et les glaciers existant
+    aujourd'hui étaient alors beaucoup plus étendus. La conséquence était un niveau
+    des mers était environ 120 m plus bas, ce qui permettait le passage à pied de
+    la France à l'Angleterre et a facilité l'expansion de l'humain via le détroit
+    de Béring.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: http://www.geoglaciaire.net/index.php?option=com_content&view=article&id=284&Itemid=257
+  answer_accessible_url_text: Géoglaciaire, altitude anciens glaciers
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-28'
+  updated: '2022-06-28'
+- id: 1048
+  text: Le climat naturel de la Terre alterne entre périodes glaciaires et périodes
+    chaudes, dites "interglaciaires" (comme actuellement). Qu'est ce qui enclenche
+    cette alternance ?
+  hint: Cycles de Milankovitch
+  type: QCM
+  category: 1
+  tags:
+  - 225
+  difficulty: 3
+  language: Français
+  answer_option_a: Les variations de l'activité solaire
+  answer_option_b: De subtiles modifications des paramètres orbitaux de la Terre autour
+    du soleil
+  answer_option_c: L'activité volcanique de la Terre
+  answer_option_d: L'élection d'Emmanuel Macron
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Les paramètres orbitaux de la Terre autour du soleil sont l'excentricité,
+    l'obliquité et la précession des équinoxes. Chaque paramètre évolue selon des
+    périodes très longues liées aux cycles de Milankovitch. Ces modifications très
+    progressives sur le temps long favorisent dans certains cas la transition entre
+    période glaciaire et interglaciaire, ou le contraire.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-06-28'
+  updated: '2022-06-28'
