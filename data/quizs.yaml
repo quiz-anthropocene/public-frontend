@@ -1739,19 +1739,17 @@
   created: '2022-06-08'
   updated: '2022-06-09'
 - id: 84
-  name: Introduction to the Climate Fresk (EN)
+  name: Introduction to the Climate Fresk
   slug: introduction-to-the-climate-fresk-en
-  introduction: "<p> </p>\r\n\r\n<p>The Climate Fresk, this is a fun, collaborative\
-    \ and creative workshop on climate change. It is based on collective intelligence\
-    \ and is extremely pedagogical. In 3 hours, you will get to understand the casuse-to\
-    \ effet mechanisms behind climat change, and the consequences of its disruption.\
-    \ You will debate as a team and elaborate action to limit it and adapt ourselves.\
-    \ Already 430,000 people have attended a Fresk accross the world. How about testing\
-    \ your knowledge?</p>"
-  conclusion: "<p> </p>\r\n\r\n<p>Did you like it? Did you learn something you? Did\
-    \ you miss something? Don't hesitate, join a workshop of the <a href=\"https://climatefresk.org\"\
-    >Climate Fresk <\\a>. You can even quickly become a facilitator !</a></p>\r\n\r\
-    \n<p> </p>"
+  introduction: <p>The Climate Fresk is a fun, collaborative and creative workshop
+    on climate change. It is based on collective intelligence and is extremely pedagogical.
+    In 3 hours, you will get to understand its causes and effects. You will debate
+    as a team, and elaborate actions to limit its consequences as well as adapting
+    to it. Already 430,000 people have attended a Fresk accross the world. Time to
+    test your knowledge!</p>
+  conclusion: <p>Did you like it? Did you learn something new? Did you miss something?
+    Don't hesitate, join a workshop of the <a href="https://climatefresk.org">Climate
+    Fresk</a>. You can even quickly become a facilitator!</p>
   questions:
   - 1034
   - 1035
@@ -1782,7 +1780,7 @@
   spotlight: false
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-20'
+  updated: '2022-07-04'
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules
