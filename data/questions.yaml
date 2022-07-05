@@ -17202,7 +17202,7 @@
     sécheresses, ouragans. Source : Shutterstock.com'
   answer_extra_info: ''
   author: 7
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
@@ -20093,7 +20093,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
@@ -20252,7 +20252,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
@@ -21109,7 +21109,7 @@
     dans le monde
   answer_extra_info: ''
   author: 5
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-07-04'
@@ -38835,8 +38835,7 @@
   created: '2022-06-19'
   updated: '2022-06-20'
 - id: 1037
-  text: For how much does fossil energy contribute on the global world consumption
-    ?
+  text: How much of the world energy consumption does fossil energy contribute to?
   hint: ''
   type: QCM
   category: 5
@@ -38854,10 +38853,9 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "Petrol (33%), coil (27%) and gas (23%) for a total of exactly\
-    \ 83% !\r\nWe often talk about electricity and renewable energy, but actually\
-    \ our lives are highly dependent to fossil energy for our transport, building\
-    \ heating and cooling, items consumption (particularly plastics ones), drugs,\
-    \ clothes, etc."
+    \ 83% !\r\nWe often talk about electricity and renewable energy, but our lives\
+    \ are actually highly dependent on fossil energy for our transport, building heating\
+    \ and cooling, general goods (particularly plastics), drugs, clothes, etc."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://ourworldindata.org/energy-production-consumption
@@ -38873,7 +38871,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-04'
 - id: 1038
   text: Let's imagine that we put all the cows of the world within the same country.
     In which position would that country be in term of greenhouse gases emission ?
