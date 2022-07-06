@@ -17202,7 +17202,7 @@
     sécheresses, ouragans. Source : Shutterstock.com'
   answer_extra_info: ''
   author: 7
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
@@ -20093,7 +20093,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
@@ -20252,7 +20252,7 @@
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-06-24'
@@ -21109,7 +21109,7 @@
     dans le monde
   answer_extra_info: ''
   author: 5
-  validator: 40
+  validator: null
   validation_status: Validée
   visibility: PUBLIC
   created: '2020-07-04'
@@ -38797,7 +38797,7 @@
   updated: '2022-06-20'
 - id: 1036
   text: 21,000 years ago, it was an ice age with an average temperature on earth 5°C
-    lower than today's. How long did the deglaciation last?
+    lower than today's. How long did that deglaciation last?
   hint: ''
   type: QCM
   category: 1
@@ -38811,13 +38811,14 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "The last deglaciation period (+5°C) lasted from 21,000 years\
-    \ ago to 11,000 years ago\r\nOver this 10,000-year period, life had enough time\
-    \ to adapt to that change as it therefore occurred at a rate of 0.05°C per century.\r\
-    \nToday, a similar warming is happening, but at a different rate.\r\nThe current\
-    \ average Earth temperature has already increased by +1,2°C since the beginning\
-    \ of the industrial era, and according to some scenarios of the IPCC, it could\
-    \ reach +5°C  by 2100.\r\nThis means an increase of 2°C per century... 40 time\
-    \ faster than during the last deglaciation period."
+    \ ago to 11,000 years ago.\r\nOver this 10,000-year period, life had enough time\
+    \ to adapt. Indeed, that change occurred at a rate of only 0.05°C per century\
+    \ (40 times slower than the current anthropogenic climate change).\r\nToday, a\
+    \ similar warming is happening, but at a different rate.\r\nThe current average\
+    \ Earth temperature has already increased by +1,2°C since the beginning of the\
+    \ industrial era, and according to some scenarios of the IPCC, it could reach\
+    \ +5°C  by 2100.\r\nThis means an increase of 2°C per century... 40 time faster\
+    \ than during the last deglaciation period."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -38833,10 +38834,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-20'
+  updated: '2022-07-05'
 - id: 1037
-  text: For how much does fossil energy contribute on the global world consumption
-    ?
+  text: On the grand total of the world energy consumption, how much does fossil energy
+    contribute ?
   hint: ''
   type: QCM
   category: 5
@@ -38854,10 +38855,9 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "Petrol (33%), coil (27%) and gas (23%) for a total of exactly\
-    \ 83% !\r\nWe often talk about electricity and renewable energy, but actually\
-    \ our lives are highly dependent to fossil energy for our transport, building\
-    \ heating and cooling, items consumption (particularly plastics ones), drugs,\
-    \ clothes, etc."
+    \ 83% !\r\nWe often talk about electricity and renewable energy, but our lives\
+    \ are actually highly dependent on fossil energy for our transport, building heating\
+    \ and cooling, general goods (particularly plastics), drugs, clothes, etc."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://ourworldindata.org/energy-production-consumption
@@ -38873,7 +38873,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-05'
 - id: 1038
   text: Let's imagine that we put all the cows of the world within the same country.
     In which position would that country be in term of greenhouse gases emission ?
@@ -38892,9 +38892,9 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'Livestock farming owns approximately 15% of global CO2 emissions
-    : a direct contribution via enteric fermentation, and an indirect contribution
-    via the deforestation and nitrogen fertilize to produce their food - of which
-    2/3 only for cattle.'
+    : a direct contribution via enteric fermentation (what happens in cow''s stomach),
+    and an indirect contribution via the deforestation and nitrogen fertilizer in
+    order to produce their food - of which 2/3 only for cattle.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -38911,7 +38911,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-05'
 - id: 1039
   text: What happens to the CO2 we are emitting ?
   hint: ''
@@ -38930,10 +38930,11 @@
   has_ordered_answers: true
   answer_explanation: "From the global C02 emission from human sources :\r\n- 23%\
     \ are dissolved into the oceans (and contributes to their acidification)\r\n-\
-    \ 29% is absorbed by plants\r\n- 44% remains in the atmosphere, which leads to\
-    \ an increase of its concentration. As C02 is a greenhouse gas, this excess contributes\
-    \ to accumulate more energy and warm up the climate.\r\nC02 is a very stable chemical\
-    \ element and does not disappear naturally quickly."
+    \ 29% is absorbed by plants (photosynthesis)\r\n- 44% remains in the atmosphere,\
+    \ which leads to an increase of the atmospheric CO2 concentration. As C02 is a\
+    \ greenhouse gas, this excess contributes to accumulate more energy and warm up\
+    \ the climate.\r\nC02 is a very stable chemical element and does not disappear\
+    \ naturally quickly. It literally takes centuries."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.3ne.ca/wp-content/uploads/2020/06/Carbon-Sinks-and-Sources-Fact-Sheet-Advanced-2020-06-15-e.pdf
@@ -38949,7 +38950,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-05'
 - id: 1040
   text: The ocean acidification is a consequence of...
   hint: ''
@@ -38961,7 +38962,7 @@
   - 166
   difficulty: 1
   language: English
-  answer_option_a: the anthropogenic (human) CO2 emssion
+  answer_option_a: the anthropogenic (human) CO2 emission
   answer_option_b: the eutrophication (lack of oxygen)
   answer_option_c: the photosynthesis
   answer_option_d: the warming of the atmosphere
@@ -38969,11 +38970,11 @@
   has_ordered_answers: true
   answer_explanation: "Part of the CO2 contained in the atmosphere is dissolved into\
     \ the ocean.\r\nWe can then find it within the water under various form, one of\
-    \ them being the carbonic acid (H2CO3).\r\nSince the beginning of the industrial\
-    \ era (1800), the ocean acidification increased by 26%.\r\nThe current rate of\
-    \ ocean acidification is 10 times faster than at any time during the last 55 millions\
-    \ of years.\r\nSome scientific models even predict an increase of 150% of the\
-    \ ocean acidity by 2100."
+    \ them being carbonic acid (H2CO3).\r\nSince the beginning of the industrial era\
+    \ (1800), ocean acidification increased by 26%.\r\nThe current rate of ocean acidification\
+    \ is 10 times faster than at any time during the last 55 millions of years.\r\n\
+    Some scientific models even predict an increase of 150% of the ocean acidity by\
+    \ 2100."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://en.wikipedia.org/wiki/Ocean_acidification
@@ -38989,7 +38990,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-05'
 - id: 1041
   text: Among the following phenomena, which one does NOT increase the ocean level
     ?
@@ -39007,14 +39008,14 @@
   answer_option_a: Water dilatation due to warming of the ocean
   answer_option_b: Melting of the ice caps
   answer_option_c: Melting of the ice pack / sea ice
-  answer_option_d: Meting of glaciers
+  answer_option_d: Melting of glaciers
   answer_correct: c
   has_ordered_answers: false
   answer_explanation: "The sea ice (the Artic, icebergs, part of Antarctica) is floating\
     \ within the ocean water. Therefore, the volume of melted water replaces the volume\
     \ of the ice, without increasing the ocean level. Have a try with an ice cube\
     \ !\r\nOn the contrary, ice caps (Greenland, Antarctica) and glaciers sit on land,\
-    \ meaning that melted water flows down the ocean and increases its level."
+    \ meaning that melted water flows down to the ocean and increases its level."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://en.wikipedia.org/wiki/Sea_level_rise
@@ -39031,7 +39032,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-05'
 - id: 1042
   text: Without any positive action from humans, from how many meters will the sea
     level rise in 2100 (relatively to 1850) ?
@@ -39092,10 +39093,11 @@
   answer_option_d: 7 billions
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "This is 3.5 billions people what would exit this \"climate\
-    \ niche\" in which we have been living and thriving during the past 6000 years.\r\
-    \nThis is the conclusion from a recent study describing the maximal risks we are\
-    \ facing within the next decades, except if we start taking some actions..."
+  answer_explanation: "This is approximately 3.5 billions people who would exit this\
+    \ \"climate niche\" in which we have been living and thriving during the past\
+    \ 6000 years.\r\nThis is the conclusion from a recent study describing the maximal\
+    \ risks we are facing within the next decades, except if we start taking some\
+    \ actions..."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://climate.nasa.gov/images-of-change
@@ -39112,7 +39114,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-05'
 - id: 1044
   text: Quel est la part du flux solaire directement réfléchi par la surface d’un
     glacier ?
