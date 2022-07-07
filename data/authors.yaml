@@ -256,3 +256,9 @@
   question_count: 2
   quiz_count: 0
   created: '2022-06-16'
+- id: 62
+  first_name: Nicolas
+  last_name: Teulade
+  question_count: 0
+  quiz_count: 0
+  created: '2022-07-01'
