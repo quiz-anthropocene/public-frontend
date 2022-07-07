@@ -38738,12 +38738,11 @@
   answer_option_d: Absolutely sure
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Since the last IPCC report (AR6) issued in 2021, this is a fact
-    this unequivocally established. First of all, it is know clearly proven that the
-    human influence did warm up the atmosphere, the ocean and the earth. Rapid and
-    widespread changes already happened and their consequences are serious for the
-    frozen land and biosphere. Furthermore, we can affirm that 100% of climate change
-    is due to human activities.
+  answer_explanation: Since the last IPCC report (AR6) issued in 2021, this is a unequivocally
+    established fact. First of all, it is now clearly proven that the human influence
+    did warm up the atmosphere, the ocean and the earth. Rapid and widespread changes
+    are happening and their consequences are serious for the frozen land and the biosphere.
+    Furthermore, we can affirm that 100% of climate change is due to human activities.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.theguardian.com/environment/2021/aug/09/climate-crisis-unequivocally-caused-by-human-activities-says-ipcc-report
@@ -38785,7 +38784,7 @@
   answer_scientific_url: https://www.hko.gov.hk/en/climate_change/human_activities.htm
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/38b113fa.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e3e037de.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 60
@@ -38813,7 +38812,7 @@
     11,000 years ago, resulting in a +5°C warming, and life had enough time to adapt.
     Today, a further warming is taking place, but a different pace. Earth temperature
     has already increased by +1,2°C since the beginning of the industrial era, and
-    according to IPCC, the warming could reach  +2°C to 5°C  by 2100.
+    it is expected to further warm up by +2°C to 5°C by 2100.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -38826,12 +38825,12 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
 - id: 1037
-  text: What part of the world energy consumption does energy represent?
+  text: What part of the world energy consumption do fossil fuels represent?
   hint: ''
   type: QCM
   category: 5
@@ -38848,10 +38847,10 @@
   answer_option_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Petrol (33%), coil (27%) and gas (23%) for a total of exactly\
-    \ 83% !\r\nWe often talk about electricity and renewable energy, but our lives\
-    \ are actually highly dependent on fossil energy for our transport, building heating\
-    \ and cooling, general goods (particularly plastics), drugs, clothes, etc."
+  answer_explanation: "Petrol (33%), coil (27%) and gas (23%), totalling 83% as of\
+    \ 2019.\r\nWe often talk about electricity and renewable energy, but our lives\
+    \ highly rely on fossil fuels for transport, building heating and cooling, general\
+    \ goods (particularly plastics), drugs, clothes, etc."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://ourworldindata.org/energy-production-consumption
@@ -38864,13 +38863,13 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
 - id: 1038
-  text: 'Imagine : let us gather all cows in the world into one country. which rank
-    would that country have in term of greenhouse gases emissions?'
+  text: Let suppose we bring all cows in the world into one country. Which rank would
+    that country have in term of greenhouse gases emissions?
   hint: ''
   type: QCM
   category: 1
@@ -38902,14 +38901,14 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
 - id: 1039
   text: What happens to CO2 once it has been release by human activities?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 1
   tags:
   - 13
@@ -38940,7 +38939,7 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
@@ -38958,13 +38957,12 @@
   answer_option_d: the warming of the atmosphere
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Part of the CO2 contained in the atmosphere is dissolved into\
-    \ the ocean.\r\nWe can then find it within the water under various forms, one\
-    \ of them being carbonic acid (H2CO3).\r\nSince the beginning of the industrial\
-    \ era (1800), ocean acidification increased by 26%.\r\nThe current rate of ocean\
-    \ acidification is 10 times faster than at any time during the last 55 millions\
-    \ of years.\r\nSome scientific models even predict an increase of 150% of the\
-    \ ocean acidity by 2100."
+  answer_explanation: "A part of the CO2 in the atmosphere is dissolved into the ocean.\
+    \ It produces carbonic acid (H2CO3), which acidifies the oceans. Since the beginning\
+    \ of the industrial era (1800), ocean acidification has increased by 26%.\r\n\
+    The current rate of ocean acidification is 10 times faster than at any time during\
+    \ the last 55 millions of years.\r\nSome scientific models even predict an increase\
+    \ of 150% of the ocean acidity by 2100."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://en.wikipedia.org/wiki/Ocean_acidification
@@ -38977,7 +38975,7 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
@@ -39020,13 +39018,13 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
 - id: 1042
-  text: In the absence of reaction by humans, by how many meters will the sea level
-    rise by 2100 relative to 1850?
+  text: In the lack of human response, how much will the sea level rise by 2100 relative
+    to 1850?
   hint: ''
   type: QCM
   category: 6
@@ -39046,7 +39044,7 @@
   has_ordered_answers: true
   answer_explanation: "The sea level has increased by approximately 30cm since the\
     \ beginning of the industrial era (1850).\r\nA rise of 1m by 2100 is possible\
-    \ in some scenarios by IPCC."
+    \ in some IPCC scenarios."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level
@@ -39060,21 +39058,18 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
 - id: 1043
-  text: In the lack of human reaction to mitigate climate change, how many people
-    are likely to live within the next 50 years in area warmer than the Sahara currenty?
+  text: In the lack of human response to mitigate climate change, how many people
+    will end up living within the next 50 years in areas warmer than the Sahara currently?
   hint: ''
   type: QCM
   category: 1
   tags:
-  - 23
-  - 51
-  - 142
-  - 181
+  - 225
   difficulty: 1
   language: English
   answer_option_a: 200 millions
@@ -39091,7 +39086,7 @@
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://climate.nasa.gov/images-of-change
-  answer_accessible_url_text: NASE, Images of change
+  answer_accessible_url_text: NASA, Images of change
   answer_scientific_url: https://www.pnas.org/doi/10.1073/pnas.1910114117
   answer_scientific_url_text: PNAS, Future of the human climate niche
   answer_reading_recommendation: ''
@@ -39101,7 +39096,7 @@
   answer_extra_info: ''
   author: 60
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
   updated: '2022-07-07'
