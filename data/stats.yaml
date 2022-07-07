@@ -10,21 +10,21 @@ question_per_validation_status_count:
   total: 18
 - validation_status: A valider
   total: 1
-quiz_count: 50
+quiz_count: 51
 quiz_per_publish_count:
 - publish: true
   total: 35
 - publish: false
-  total: 15
-question_answer_count: 288766
-quiz_answer_count: 22212
-question_answer_count_last_30_days: 11595
-quiz_answer_count_last_30_days: 1331
+  total: 16
+question_answer_count: 289938
+quiz_answer_count: 22319
+question_answer_count_last_30_days: 11987
+quiz_answer_count_last_30_days: 1364
 category_count: 8
 tag_count: 242
 question_feedback_count: 4245
 quiz_feedback_count: 758
-contribution_count: 724
-question_feedback_count_last_30_days: 45
-quiz_feedback_count_last_30_days: 13
-contribution_count_last_30_days: 11
+contribution_count: 725
+question_feedback_count_last_30_days: 40
+quiz_feedback_count_last_30_days: 11
+contribution_count_last_30_days: 10
