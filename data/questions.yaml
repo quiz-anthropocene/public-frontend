@@ -38363,7 +38363,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38395,7 +38395,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d7867b40.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38427,7 +38427,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/da1e3c45.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38459,7 +38459,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2f67a4fb.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38491,7 +38491,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f7cbc2a2.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38523,7 +38523,7 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40231ff7.png
   answer_image_explanation: 'Source : Eurostat'
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38561,7 +38561,7 @@
   answer_image_explanation: Ministère de la transition écologique, Bilan énergétique
     de la France pour 2019
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38596,7 +38596,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38633,7 +38633,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38668,7 +38668,7 @@
   answer_image_url: ''
   answer_image_explanation: ''
   answer_extra_info: ''
-  author: 2
+  author: 57
   validator: null
   validation_status: Brouillon
   visibility: PUBLIC
@@ -38722,8 +38722,8 @@
   created: '2022-06-15'
   updated: '2022-06-16'
 - id: 1034
-  text: In their last report issued in 2021, how do scientists from the IPCC estimate
-    the likeliness that the current climate change is cause by human activities?
+  text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
+    that the current climate change is caused by human activities?
   hint: The impact of humankind is clearly established.
   type: QCM
   category: 1
@@ -38760,7 +38760,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-20'
+  updated: '2022-07-07'
 - id: 1035
   text: What would be the earth surface temperature without greenhouse effect ?
   hint: ''
@@ -38775,10 +38775,9 @@
   answer_option_d: 15 °C
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "The greenhouse effect is a natural phenomenon. Without the\
-    \ greenhouse effect, the planet would be 33°C colder and life as we know it would\
-    \ not be possible. But greenhouse gases from human\r\nactivities amplify the greenhouse\
-    \ effect and unbalance the climate."
+  answer_explanation: The greenhouse effect is a natural phenomenon. Without it, the
+    planet would be 33°C colder and life as we know it would not be possible. But
+    greenhouse gases from human activities amplify it and unbalance the climate.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://education.nationalgeographic.org/resource/greenhouse-effect-our-planet
@@ -38794,10 +38793,10 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-20'
+  updated: '2022-07-07'
 - id: 1036
-  text: 21,000 years ago, it was an ice age with an average temperature on earth 5°C
-    lower than today's. How long did that deglaciation last?
+  text: 21,000 years ago, it was ice age, with an average temperature on earth 5°C
+    lower than today's. How long did it take to warm up up to today's temperature?
   hint: ''
   type: QCM
   category: 1
@@ -38810,15 +38809,11 @@
   answer_option_d: 18,000 years
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "The last deglaciation period (+5°C) lasted from 21,000 years\
-    \ ago to 11,000 years ago.\r\nOver this 10,000-year period, life had enough time\
-    \ to adapt. Indeed, that change occurred at a rate of only 0.05°C per century\
-    \ (40 times slower than the current anthropogenic climate change).\r\nToday, a\
-    \ similar warming is happening, but at a different rate.\r\nThe current average\
-    \ Earth temperature has already increased by +1,2°C since the beginning of the\
-    \ industrial era, and according to some scenarios of the IPCC, it could reach\
-    \ +5°C  by 2100.\r\nThis means an increase of 2°C per century... 40 time faster\
-    \ than during the last deglaciation period."
+  answer_explanation: The last deglaciation period lasted from 21,000 years ago to
+    11,000 years ago, resulting in a +5°C warming, and life had enough time to adapt.
+    Today, a further warming is taking place, but a different pace. Earth temperature
+    has already increased by +1,2°C since the beginning of the industrial era, and
+    according to IPCC, the warming could reach  +2°C to 5°C  by 2100.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -38834,10 +38829,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1037
-  text: On the grand total of the world energy consumption, how much does fossil energy
-    contribute ?
+  text: What part of the world energy consumption does energy represent?
   hint: ''
   type: QCM
   category: 5
@@ -38873,10 +38867,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1038
-  text: Let's imagine that we put all the cows of the world within the same country.
-    In which position would that country be in term of greenhouse gases emission ?
+  text: 'Imagine : let us gather all cows in the world into one country. which rank
+    would that country have in term of greenhouse gases emissions?'
   hint: ''
   type: QCM
   category: 1
@@ -38891,10 +38885,10 @@
   answer_option_d: 10th
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Livestock farming owns approximately 15% of global CO2 emissions
-    : a direct contribution via enteric fermentation (what happens in cow''s stomach),
-    and an indirect contribution via the deforestation and nitrogen fertilizer in
-    order to produce their food - of which 2/3 only for cattle.'
+  answer_explanation: Livestock farming amounts to approximately 15% of global CO2
+    emissions. Directly through the fermentation in their stomach, and indirectly
+    through the induced deforestation and the nitrogen-based fertilizers used to to
+    produce their food.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -38911,9 +38905,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1039
-  text: What happens to the CO2 we are emitting ?
+  text: What happens to CO2 once it has been release by human activities?
   hint: ''
   type: QCM
   category: 1
@@ -38922,19 +38916,18 @@
   - 14
   difficulty: 1
   language: English
-  answer_option_a: Part of it stays within the atmosphere
-  answer_option_b: Part of it stays is dissolved into the ocean
-  answer_option_c: Part of it is absorbed by plant
-  answer_option_d: Most of it is transformed and quick disappears
+  answer_option_a: Part of it remains within the atmosphere
+  answer_option_b: Part of it dissolves into the ocean
+  answer_option_c: Part of it is absorbed by plants and soils
+  answer_option_d: Most of it is transformed and quickly disappears
   answer_correct: abc
   has_ordered_answers: true
   answer_explanation: "From the global C02 emission from human sources :\r\n- 23%\
     \ are dissolved into the oceans (and contributes to their acidification)\r\n-\
-    \ 29% is absorbed by plants (photosynthesis)\r\n- 44% remains in the atmosphere,\
-    \ which leads to an increase of the atmospheric CO2 concentration. As C02 is a\
-    \ greenhouse gas, this excess contributes to accumulate more energy and warm up\
-    \ the climate.\r\nC02 is a very stable chemical element and does not disappear\
-    \ naturally quickly. It literally takes centuries."
+    \ 29% is absorbed by plants (photosynthesis)\r\n- 44% remains in the atmosphere.\
+    \ This leads to an increase of the atmospheric CO2 concentration. As C02 is a\
+    \ greenhouse gas, this accumulates energy and warms up the climate.\r\nC02 is\
+    \ a very stable chemical element and an excess remains in the atmosphere for centuries."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.3ne.ca/wp-content/uploads/2020/06/Carbon-Sinks-and-Sources-Fact-Sheet-Advanced-2020-06-15-e.pdf
@@ -38950,31 +38943,28 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1040
   text: The ocean acidification is a consequence of...
   hint: ''
   type: QCM
   category: 1
-  tags:
-  - 9
-  - 142
-  - 166
+  tags: []
   difficulty: 1
   language: English
-  answer_option_a: the anthropogenic (human) CO2 emission
+  answer_option_a: the human-based emissions of CO2
   answer_option_b: the eutrophication (lack of oxygen)
   answer_option_c: the photosynthesis
   answer_option_d: the warming of the atmosphere
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: "Part of the CO2 contained in the atmosphere is dissolved into\
-    \ the ocean.\r\nWe can then find it within the water under various form, one of\
-    \ them being carbonic acid (H2CO3).\r\nSince the beginning of the industrial era\
-    \ (1800), ocean acidification increased by 26%.\r\nThe current rate of ocean acidification\
-    \ is 10 times faster than at any time during the last 55 millions of years.\r\n\
-    Some scientific models even predict an increase of 150% of the ocean acidity by\
-    \ 2100."
+    \ the ocean.\r\nWe can then find it within the water under various forms, one\
+    \ of them being carbonic acid (H2CO3).\r\nSince the beginning of the industrial\
+    \ era (1800), ocean acidification increased by 26%.\r\nThe current rate of ocean\
+    \ acidification is 10 times faster than at any time during the last 55 millions\
+    \ of years.\r\nSome scientific models even predict an increase of 150% of the\
+    \ ocean acidity by 2100."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://en.wikipedia.org/wiki/Ocean_acidification
@@ -38990,10 +38980,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1041
-  text: Among the following phenomena, which one does NOT increase the ocean level
-    ?
+  text: Among the following phenomena, which one do NOT result in a increase of sea
+    level?
   hint: ''
   type: QCM
   category: 1
@@ -39005,17 +38995,18 @@
   - 160
   difficulty: 1
   language: English
-  answer_option_a: Water dilatation due to warming of the ocean
+  answer_option_a: Water expansion due to ocean warming
   answer_option_b: Melting of the ice caps
   answer_option_c: Melting of the ice pack / sea ice
   answer_option_d: Melting of glaciers
   answer_correct: c
   has_ordered_answers: false
   answer_explanation: "The sea ice (the Artic, icebergs, part of Antarctica) is floating\
-    \ within the ocean water. Therefore, the volume of melted water replaces the volume\
-    \ of the ice, without increasing the ocean level. Have a try with an ice cube\
-    \ !\r\nOn the contrary, ice caps (Greenland, Antarctica) and glaciers sit on land,\
-    \ meaning that melted water flows down to the ocean and increases its level."
+    \ upon the ocean. Therefore, the volume of melted water replaces the volume of\
+    \ the ice, without increasing the ocean level. Have a try yourself with an ice\
+    \ cube into a glass of water!\r\nOn the contrary, ice caps (Greenland, Antarctica)\
+    \ and glaciers sit on land, meaning that melted water flows down to the ocean\
+    \ and increases its level."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://en.wikipedia.org/wiki/Sea_level_rise
@@ -39032,10 +39023,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1042
-  text: Without any positive action from humans, from how many meters will the sea
-    level rise in 2100 (relatively to 1850) ?
+  text: In the absence of reaction by humans, by how many meters will the sea level
+    rise by 2100 relative to 1850?
   hint: ''
   type: QCM
   category: 6
@@ -39053,9 +39044,9 @@
   answer_option_d: 10m
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Sea level increased by approximately 30cm since the beginning\
-    \ of the industrial era (1800).\r\nA rise of 1m by 2100 is not excluded by some\
-    \ some scenarios (SSP 8.5)."
+  answer_explanation: "The sea level has increased by approximately 30cm since the\
+    \ beginning of the industrial era (1850).\r\nA rise of 1m by 2100 is possible\
+    \ in some scenarios by IPCC."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level
@@ -39072,11 +39063,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-06-19'
+  updated: '2022-07-07'
 - id: 1043
-  text: Without any positive action from humans to mitigate climate change, how many
-    humans risk to live within the next 50 years in area warmer than the current Sahara
-    ?
+  text: In the lack of human reaction to mitigate climate change, how many people
+    are likely to live within the next 50 years in area warmer than the Sahara currenty?
   hint: ''
   type: QCM
   category: 1
@@ -39114,7 +39104,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-05'
+  updated: '2022-07-07'
 - id: 1044
   text: Quel est la part du flux solaire directement réfléchi par la surface d’un
     glacier ?
