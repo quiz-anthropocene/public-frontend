@@ -1776,11 +1776,11 @@
   author: 60
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  publish: true
+  spotlight: true
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-08'
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules
