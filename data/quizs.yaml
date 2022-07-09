@@ -1745,11 +1745,11 @@
     on climate change. It is based on collective intelligence and is extremely pedagogical.
     In 3 hours, you will get to understand its causes and effects. You will debate
     as a team, and elaborate actions to limit its consequences as well as adapt to
-    it. 450,000 people have attended a Fresk accross the world. Time to test your
-    knowledge!</p>
-  conclusion: <p>Did you learn something new? Did you miss something? Why don't you
-    join a workshop of the <a href="https://climatefresk.org">Climate Fresk</a>? You
-    can even become a facilitator afterwards.</p>
+    it. 450,000 people have attended a Fresk accross the world. How much do you know
+    about it?</p>
+  conclusion: <p>Did you learn something new? Why don't you join a workshop of the
+    <a href="https://climatefresk.org">Climate Fresk</a>? You can even become a facilitator
+    afterwards.</p>
   questions:
   - 1034
   - 1035
@@ -1776,11 +1776,11 @@
   author: 60
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  publish: true
+  spotlight: true
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-09'
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules

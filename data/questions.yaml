@@ -29209,11 +29209,11 @@
   answer_option_d: joues dans le jardin ?
   answer_correct: abc
   has_ordered_answers: true
-  answer_explanation: "Par exemple, tout ce que tu achètes vient de l’industrie. Pour\
-    \ le produire, le transporter, le faire fonctionner ou s’en débarrasser, cela\
-    \ émet beaucoup de CO2, un gaz à effet de serre. Idem pour faire rouler une voiture\
-    \ ou voler un avion. \nLes vaches dont tu manges la viande ou tu bois le lait\
-    \ sont des ruminants qui rejettent un autre gaz. "
+  answer_explanation: Par exemple, tout ce que tu achètes vient de l’industrie. Pour
+    le produire, le transporter, le faire fonctionner ou s’en débarrasser, cela émet
+    beaucoup de CO2, un gaz à effet de serre. Idem pour faire rouler une voiture ou
+    voler un avion. Les vaches dont tu manges la viande ou tu bois le lait sont des
+    ruminants qui rejettent un autre gaz, qui créé aussi de l'effet de serre.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.vikidia.org/wiki/Gaz_%C3%A0_effet_de_serre
@@ -29230,7 +29230,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-07-07'
 - id: 766
   text: 'Vrai ou faux : Tous les humains contribuent de la même manière au changement
     climatique.'
@@ -30374,12 +30374,12 @@
     \ ! La nature a mis des millions et des millions d’années à les fabriquer à partir\
     \ de matière vivante qui s’est décomposée. On en brûle énormément, ce qui émet\
     \ donc beaucoup de CO2. Et puis, il n’y en a qu’une quantité limitée. Comme pour\
-    \ un tube de dentifrice, il en reste de moins en moins chaque jour.\nLe soleil\
+    \ un tube de dentifrice, il en reste de moins en moins chaque jour.\r\nLe soleil\
     \ (comme le vent) est considéré comme une énergie renouvelable. On utilise cette\
-    \ énergie grâce à des panneaux solaires notamment. \nLe nucléaire n’est pas une\
-    \ énergie renouvelable mais n’est pas non plus une énergie fossile. Son utilisation\
-    \ n’émet pas de CO2 et ne participe pas au dérèglement climatique, mais créé des\
-    \ déchets dangereux qui durent très longtemps."
+    \ énergie grâce à des panneaux solaires notamment. \r\nLe nucléaire n’est pas\
+    \ une énergie renouvelable mais n’est pas non plus une énergie fossile. Son utilisation\
+    \ n’émet quasiment pas de CO2 et ne participe pas au dérèglement climatique, mais\
+    \ créé des déchets dangereux qui durent très longtemps."
   answer_audio: ''
   answer_video: https://www.lumni.fr/video/c-est-quoi-les-energies-fossiles
   answer_accessible_url: http://www.lacaseauxenfants.org/energies/energies-fossiles.htm
@@ -30395,7 +30395,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-07-07'
 - id: 794
   text: Avec la quantité de réserves prouvées, et avec une hypothèse de consommation
     constante, pour combien de temps avons-nous encore du nickel ?
@@ -34084,9 +34084,9 @@
   created: '2022-04-06'
   updated: '2022-06-14'
 - id: 889
-  text: Depuis 1900, les émissions de CO2 multipliées par 20 alors que la population
-    humaine a été multipliée par 5. Dans cet essor des émissions, quelle part l'augmentation
-    de la population a-t-elle joué ?
+  text: Depuis 1900, les émissions de CO2 ont été multipliées par 20 alors que la
+    population humaine a été multipliée par 5. Dans cet essor des émissions, quelle
+    part l'augmentation de la population a-t-elle joué ?
   hint: ''
   type: QCM
   category: 1
@@ -34121,7 +34121,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2022-07-07'
 - id: 890
   text: Peut-on estimer une population humaine maximale qui serait soutenable sur
     terre ?
