@@ -35240,7 +35240,7 @@
   updated: '2022-04-16'
 - id: 921
   text: Le glacier d'Aletsch, situé en Suisse, est le plus grand glacier des Alpes.
-    Comment le glacier a-t-il évolué en taille depuis les années 1960 ?
+    Quel a été le recul de ce glacier depuis les années 1980 ?
   hint: Ce n'est pas un glacier très original
   type: QCM
   category: 1
@@ -35250,17 +35250,20 @@
   difficulty: 2
   language: Français
   answer_option_a: il a reculé de 500 m
-  answer_option_b: Il a reculé de 1500 m
+  answer_option_b: Il a reculé de 1600 m
   answer_option_c: Il a reculé de 10 km
   answer_option_d: Il a avancé de 890 m
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: Le glacier d'Aletsch a nue longueur de plus de 20 km. Il a effectivement
+    reculé de 1600 m depuis les années 1980. Comme pour la plupart des autres glaciers
+    européens, ce recul s'accélère encore depuis les années 2000. Entre 2010 et 2020
+    le front du glacier recule d'environ 100 m par an.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
+  answer_accessible_url: https://www.glamos.ch/en/factsheet#/B36-26
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
+  answer_scientific_url: https://tc.copernicus.org/articles/12/759/2018/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: ''
@@ -35271,7 +35274,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-07-13'
 - id: 922
   text: Quel pourcentage des emballages jetés par les ménages sont des emballages
     alimentaires ?
@@ -37697,10 +37700,10 @@
   answer_extra_info: ''
   author: 34
   validator: null
-  validation_status: Brouillon
+  validation_status: Écartée
   visibility: PUBLIC
   created: '2021-03-03'
-  updated: '2022-04-16'
+  updated: '2022-07-13'
 - id: 1009
   text: Quelle a été la surface perdue par les glaciers des Alpes Européennes depuis
     les années 1960 ?
@@ -37734,7 +37737,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-03-12'
-  updated: '2022-04-16'
+  updated: '2022-07-13'
 - id: 1010
   text: En France, quelle est la perte de revenu provenant des exemptions de taxe
     sur le kérosène ?
@@ -39123,9 +39126,9 @@
     de la roche ou un océan. Le reste du flux solaire est absorbé par la matière,
     ce qui a pour effet de la chauffer. Elle émet alors du rayonnement infrarouge.
   answer_audio: ''
-  answer_video: ''
-  answer_accessible_url: https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Atm%20-%20Role%20des%20glaciers%20dans%20le%20climat%20terrestre%20actuel%20-%20Rondeau.htm
-  answer_accessible_url_text: Ecole des mines de Saint-Etienne
+  answer_video: https://www.youtube.com/watch?v=yCiT9ZuZBbw
+  answer_accessible_url: https://fr.wikipedia.org/wiki/R%C3%A9troaction_glace-alb%C3%A9do
+  answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -39137,11 +39140,10 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-24'
-  updated: '2022-06-28'
+  updated: '2022-07-14'
 - id: 1045
-  text: Entre 2006 et 2018, le niveau des mers a augmenté de 3.7 mm par an, ce qui
-    fait une augmentation d'environ 44 mm sur la période. Quelle est en pourcentage
-    la contribution des glaciers de montagne à cette augmentation ?
+  text: Entre 2006 et 2018, le niveau des mers a augmenté de 44 mm. Quelle a été la
+    contribution des glaciers de montagne à cette élévation ?
   hint: ''
   type: QCM
   category: 1
@@ -39153,14 +39155,14 @@
   answer_option_a: 0%
   answer_option_b: 17%
   answer_option_c: 50%
-  answer_option_d: La totalité
+  answer_option_d: 100%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: La part des glaciers est effectivement de 17%. Pour le reste,
-    39% viennent de l'expansion thermique, 27% de la fonte des calottes polaires et
-    17% des transferts d'eau entre les continents et les océans. Dans le futur, on
-    estime que la part des calottes polaires va fortement grandir par rapport à celle
-    des glaciers de montagne.
+  answer_explanation: Pour le reste, 39% viennent de l'expansion thermique des océans
+    sous l'effet du réchauffement, 27% de la fonte des calottes polaires et 17% des
+    transferts d'eau entre les continents et les océans. On estime que la contribution
+    des calottes polaires va fortement grandir par rapport à celle des glaciers de
+    montagne.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/
@@ -39176,7 +39178,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-06-28'
+  updated: '2022-07-13'
 - id: 1046
   text: Quelle serait la hausse du niveau des mers si la calotte polaire Antarctique
     fondait en totalité ?
@@ -39194,11 +39196,10 @@
   answer_option_d: 120 m
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Ce serait donc presque 60 m rajoutés au niveau des mers moyen
-    si la calotte polaire Antarctique fondait. La fonte de la calotte polaire du Groënland
-    ajouterait environ 7 m, tandis que la fonte des glaciers de montagne et des petites
-    calottes glaciaires ajouterait environ 30 cm. Le potentiel d'augmentation du niveau
-    des mers est donc essentiellement dans les calottes polaires.
+  answer_explanation: La fonte de la calotte polaire du Groënland ajouterait environ
+    7 m, tandis que la fonte des glaciers de montagne et des petites calottes glaciaires
+    ajouterait environ 30 cm. Le potentiel d'augmentation du niveau des mers réside
+    donc essentiellement dans les calottes polaires.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/
@@ -39215,7 +39216,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-06-28'
+  updated: '2022-07-13'
 - id: 1047
   text: Lors du dernier maximum glaciaire, il y a 30000 ans, la température moyenne
     à la surface de la Terre était inférieure de 6°C par rapport à aujourd'hui. La
@@ -39240,9 +39241,10 @@
     bien de 1200 m. À la même époque, il existait deux autres calottes polaires au
     dessus de l'Amérique du Nord et des pays Scandinaves et les glaciers existant
     aujourd'hui étaient alors beaucoup plus étendus. La conséquence était un niveau
-    des mers était environ 120 m plus bas, ce qui permettait le passage à pied de
-    la France à l'Angleterre et a facilité l'expansion de l'humain via le détroit
-    de Béring.
+    des mers était environ 120 m plus bas, et la France était reliée à la Grande Bretagne
+    ! Ailleurs dans le monde, ce niveau des eaux plus bas a permis le passage à pied
+    du Détroit de Bering depuis la Sibérie et l'Alaska, et ainsi permis l'arrivée
+    des humains vers les Amériques.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://www.geoglaciaire.net/index.php?option=com_content&view=article&id=284&Itemid=257
@@ -39258,7 +39260,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-06-28'
+  updated: '2022-07-13'
 - id: 1048
   text: Le climat naturel de la Terre alterne entre périodes glaciaires et périodes
     chaudes, dites "interglaciaires" (comme actuellement). Qu'est ce qui enclenche
@@ -39297,4 +39299,132 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-06-28'
+  updated: '2022-07-13'
+- id: 1049
+  text: Comme la plupart des glaciers s'écoulant à la surface de la Terre, les glaciers
+    des Alpes européennes on beaucoup fondu. En pourcentage, combien ont-ils perdu
+    de surface depuis le début du siècle dernier ?
+  hint: C'est pas rien, même s'il en reste encore
+  type: QCM
+  category: 1
+  tags:
+  - 206
+  - 225
+  - 268
+  difficulty: 1
+  language: Français
+  answer_option_a: Rien du tout
+  answer_option_b: 30%
+  answer_option_c: 50%
+  answer_option_d: 100%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Les glaciers des Alpes européennes ont donc perdu environ 50%
+    de leur surface depuis le début du siècle dernier, et cette fonte s'accélère.
+    Dans les années 2010, c'est presque 1m d'épaisseur perdue par ces glaciers en
+    moyenne annuelle.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: http://glaciers-climat.fr/Du_PAG_a_nos_jours/Du_PAG_a_nos_jours.html
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://tc.copernicus.org/articles/12/759/2018/
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-07-13'
+  updated: '2022-07-13'
+- id: 1050
+  text: Dans le cas de RCP2.6, scénario le moins émissif des scénarios du GIEC en
+    terme de gaz à effet de serre, quelle serait la perte de superficie des glaciers
+    des Alpes européennes d'ici à l'année 2100, par rapport à l'année 2017 ?
+  hint: Scénario le moins émissif, qu'ils disent ...
+  type: QCM
+  category: 1
+  tags:
+  - 22
+  - 225
+  - 268
+  difficulty: 1
+  language: Français
+  answer_option_a: 10%
+  answer_option_b: 30%
+  answer_option_c: 60%
+  answer_option_d: 100%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Il s'agit là d'un des scénarios de la 5eme série de rapports\
+    \ du GIEC. Dans le cas du RCP2.6, le recul en superficie des glaciers des Alpes\
+    \ européennes seraient en effet d'environ 60% de plus par rapport à 2017 pour\
+    \ 2100.\r\nDans le cas du scénario RCP8.5, le scénario du pire, environ 90% de\
+    \ la surface disparaîtrait d'ici à 2100.\r\nQuant à 2050, quel que soit le scénario,\
+    \ le recul en superficie serait d'environ 45%. Cela veut dire que nos actions\
+    \ d'aujourd'hui n'auront un effet sur les glaciers que dans une génération."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://tc.copernicus.org/articles/13/1125/2019/
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-07-13'
+  updated: '2022-07-13'
+- id: 1051
+  text: Quelles problématiques sont liées au recul des glaciers ?
+  hint: La perte d'un glacier n'est pas seulement un changement de paysage
+  type: QCM-RM
+  category: 1
+  tags:
+  - 37
+  - 225
+  - 268
+  difficulty: 2
+  language: Français
+  answer_option_a: Le recul des glaciers peut provoquer des catastrophes naturelles
+  answer_option_b: Le paysage montagnard est profondément affecté
+  answer_option_c: Lors des périodes de sécheresse, l'eau de fonte des glaciers permet
+    d'alimenter les rivières
+  answer_option_d: L'eau de fonte des glaciers permet de générer de l'électricité
+    durant les périodes chaudes
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: "Toutes ces réponses sont bonnes :\r\na. Les glaciers peuvent\
+    \ fondre tranquillement, mais aussi brutalement céder. C'est ce qu'il s'est passé\
+    \ en 1892 pour le glacier de Tête Rousse, au dessus de Saint Gervais dans le massif\
+    \ du Mont Blanc. La partie avale du glacier a cédé sous la pression d'une poche\
+    \ d'eau s'étant tranquillement accumulé en son sein. La catastrophe a fait près\
+    \ de 200 victimes à l'époque. Ce type d'évènement s'est reproduit dans les Dolomites\
+    \ italiennes, sur le glacier de la Marmolada, et faisant une dizaine de morts.\r\
+    \nb. Le paysage montagnard est effectivement profondément affecté par le recul\
+    \ des glaciers\r\nc. et d. Lors des périodes de sécheresse, la fonte des glaciers\
+    \ alimente toujours les rivières et permet aux centrales hydroélectriques de produire\
+    \ de l'électricité, tandis que le bas niveau des rivières durant ces périodes\
+    \ peut limiter la production d'électricité par les centrales nucléaires."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: http://glaciers-climat.fr/Catastrophes/Catastrophes.html#Le
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 34
+  validator: null
+  validation_status: Brouillon
+  visibility: PUBLIC
+  created: '2022-07-14'
+  updated: '2022-07-14'

@@ -1788,10 +1788,15 @@
     polaires.</p>
   conclusion: ''
   questions:
+  - 921
   - 1044
   - 1045
   - 1046
   - 1047
+  - 1048
+  - 1049
+  - 1050
+  - 1051
   tags:
   - 69
   - 225
@@ -1805,7 +1810,7 @@
   spotlight: false
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-06-28'
+  updated: '2022-07-14'
 - id: 86
   name: Fresque de la Renaissance Ecologique - Le quizz
   slug: fresque-de-la-renaissance-ecologique-le-quizz
