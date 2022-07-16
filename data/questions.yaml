@@ -37076,7 +37076,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000966-6981.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c7dc58ed.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37084,7 +37084,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-11-29'
-  updated: '2022-04-16'
+  updated: '2022-07-15'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -38850,7 +38850,7 @@
   answer_option_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Petrol (33%), coil (27%) and gas (23%), totalling 83% as of\
+  answer_explanation: "Petrol (33%), coal (27%) and gas (23%), totalling 83% as of\
     \ 2019.\r\nWe often talk about electricity and renewable energy, but our lives\
     \ highly rely on fossil fuels for transport, building heating and cooling, general\
     \ goods (particularly plastics), drugs, clothes, etc."
@@ -38869,17 +38869,17 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-15'
 - id: 1038
-  text: Let suppose we bring all cows in the world into one country. Which rank would
-    that country have in term of greenhouse gases emissions?
+  text: Let's imagine 'Cowland', a country where all cows of the word would live.
+    Which rank would that country have in terms of greenhouse gases emissions?
   hint: ''
   type: QCM
   category: 1
   tags:
   - 5
   - 97
-  difficulty: 1
+  difficulty: 3
   language: English
   answer_option_a: 1st
   answer_option_b: 3rd
@@ -38907,7 +38907,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-15'
 - id: 1039
   text: What happens to CO2 once it has been release by human activities?
   hint: ''
@@ -39263,8 +39263,8 @@
   updated: '2022-07-13'
 - id: 1048
   text: Le climat naturel de la Terre alterne entre périodes glaciaires et périodes
-    chaudes, dites "interglaciaires" (comme actuellement). Qu'est ce qui enclenche
-    cette alternance ?
+    chaudes, dites "interglaciaires" - nous vivons actuellement dans une période interglaciaire.
+    Qu'est ce qui enclenche cette alternance ?
   hint: Cycles de Milankovitch
   type: QCM
   category: 1
@@ -39273,8 +39273,8 @@
   difficulty: 3
   language: Français
   answer_option_a: Les variations de l'activité solaire
-  answer_option_b: De subtiles modifications des paramètres orbitaux de la Terre autour
-    du soleil
+  answer_option_b: De subtiles modifications des paramètres de l'orbite de la Terre
+    autour du soleil
   answer_option_c: L'activité volcanique de la Terre
   answer_option_d: L'élection d'Emmanuel Macron
   answer_correct: b
@@ -39299,11 +39299,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-07-13'
+  updated: '2022-07-15'
 - id: 1049
-  text: Comme la plupart des glaciers s'écoulant à la surface de la Terre, les glaciers
-    des Alpes européennes on beaucoup fondu. En pourcentage, combien ont-ils perdu
-    de surface depuis le début du siècle dernier ?
+  text: Combien les glaciers européens ont-ils perdu de surface depuis 1900 ?
   hint: C'est pas rien, même s'il en reste encore
   type: QCM
   category: 1
@@ -39313,16 +39311,14 @@
   - 268
   difficulty: 1
   language: Français
-  answer_option_a: Rien du tout
+  answer_option_a: Surface stable globlement
   answer_option_b: 30%
   answer_option_c: 50%
-  answer_option_d: 100%
+  answer_option_d: 90%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Les glaciers des Alpes européennes ont donc perdu environ 50%
-    de leur surface depuis le début du siècle dernier, et cette fonte s'accélère.
-    Dans les années 2010, c'est presque 1m d'épaisseur perdue par ces glaciers en
-    moyenne annuelle.
+  answer_explanation: Cette fonte s'accélère. Dans les années 2010, c'est presque
+    1m d'épaisseur perdue par ces glaciers en moyenne annuelle.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://glaciers-climat.fr/Du_PAG_a_nos_jours/Du_PAG_a_nos_jours.html
@@ -39338,11 +39334,13 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-07-13'
-  updated: '2022-07-13'
+  updated: '2022-07-15'
 - id: 1050
-  text: Dans le cas de RCP2.6, scénario le moins émissif des scénarios du GIEC en
-    terme de gaz à effet de serre, quelle serait la perte de superficie des glaciers
-    des Alpes européennes d'ici à l'année 2100, par rapport à l'année 2017 ?
+  text: Les scientifiques du GIEC ont dressé 5 scenarios d'évolution du climat en
+    fonction de nos émissions de gaz à effet de serre, du plus favorable (SSP 1.9)
+    au pire (SSP 8.5). Dans le cadre du scénario ambitieux SSP 2.6, quelle serait
+    la perte de superficie des glaciers des Alpes européennes d'ici à l'année 2100,
+    par rapport à l'année de référence 2017 ?
   hint: Scénario le moins émissif, qu'ils disent ...
   type: QCM
   category: 1
@@ -39350,7 +39348,7 @@
   - 22
   - 225
   - 268
-  difficulty: 1
+  difficulty: 3
   language: Français
   answer_option_a: 10%
   answer_option_b: 30%
@@ -39358,13 +39356,11 @@
   answer_option_d: 100%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Il s'agit là d'un des scénarios de la 5eme série de rapports\
-    \ du GIEC. Dans le cas du RCP2.6, le recul en superficie des glaciers des Alpes\
-    \ européennes seraient en effet d'environ 60% de plus par rapport à 2017 pour\
-    \ 2100.\r\nDans le cas du scénario RCP8.5, le scénario du pire, environ 90% de\
-    \ la surface disparaîtrait d'ici à 2100.\r\nQuant à 2050, quel que soit le scénario,\
-    \ le recul en superficie serait d'environ 45%. Cela veut dire que nos actions\
-    \ d'aujourd'hui n'auront un effet sur les glaciers que dans une génération."
+  answer_explanation: "En comparaison, dans le cas du scénario du pire SSP 8.5, 90%\
+    \ de la surface disparaîtrait d'ici à 2100.\r\nQuant à 2050, quel que soit le\
+    \ scénario, le recul en superficie serait d'environ 45%. Cela veut dire qu'il\
+    \ faudra une génération pour que nos actions aient un effet sur l'étendue des\
+    \ glaciers."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -39380,9 +39376,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-07-13'
-  updated: '2022-07-13'
+  updated: '2022-07-15'
 - id: 1051
-  text: Quelles problématiques sont liées au recul des glaciers ?
+  text: A quelles problématiques le recul des glaciers est-il lié ?
   hint: La perte d'un glacier n'est pas seulement un changement de paysage
   type: QCM-RM
   category: 1
@@ -39392,26 +39388,27 @@
   - 268
   difficulty: 2
   language: Français
-  answer_option_a: Le recul des glaciers peut provoquer des catastrophes naturelles
+  answer_option_a: Cela peut provoquer des catastrophes naturelles
   answer_option_b: Le paysage montagnard est profondément affecté
   answer_option_c: Lors des périodes de sécheresse, l'eau de fonte des glaciers permet
     d'alimenter les rivières
-  answer_option_d: L'eau de fonte des glaciers permet de générer de l'électricité
-    durant les périodes chaudes
+  answer_option_d: Le manque d'eau de fonte des glaciers met en tension la génération
+    d'électricité des barrages
   answer_correct: abcd
   has_ordered_answers: true
   answer_explanation: "Toutes ces réponses sont bonnes :\r\na. Les glaciers peuvent\
     \ fondre tranquillement, mais aussi brutalement céder. C'est ce qu'il s'est passé\
     \ en 1892 pour le glacier de Tête Rousse, au dessus de Saint Gervais dans le massif\
-    \ du Mont Blanc. La partie avale du glacier a cédé sous la pression d'une poche\
-    \ d'eau s'étant tranquillement accumulé en son sein. La catastrophe a fait près\
-    \ de 200 victimes à l'époque. Ce type d'évènement s'est reproduit dans les Dolomites\
-    \ italiennes, sur le glacier de la Marmolada, et faisant une dizaine de morts.\r\
-    \nb. Le paysage montagnard est effectivement profondément affecté par le recul\
-    \ des glaciers\r\nc. et d. Lors des périodes de sécheresse, la fonte des glaciers\
-    \ alimente toujours les rivières et permet aux centrales hydroélectriques de produire\
-    \ de l'électricité, tandis que le bas niveau des rivières durant ces périodes\
-    \ peut limiter la production d'électricité par les centrales nucléaires."
+    \ du Mont Blanc. La partie aval du glacier a cédé sous la pression d'une poche\
+    \ d'eau qui s'était créée en son sein. La catastrophe a fait près de 200 victimes\
+    \ à l'époque. Ce type d'évènement s'est reproduit dans les Dolomites italiennes,\
+    \ sur le glacier de la Marmolada, faisant une dizaine de morts.\r\nb. Le paysage\
+    \ montagnard est effectivement profondément affecté par le recul des glaciers.\
+    \ On s'en rend compte par exemple en observant le recul du glacier des Mossons\
+    \ dans la vallée de Chamonix.\r\nc. et d. Lors des périodes de sécheresse, la\
+    \ fonte des glaciers alimente toujours les rivières et permet aux centrales hydroélectriques\
+    \ de produire de l'électricité, tandis que le bas niveau des rivières durant ces\
+    \ périodes peut limiter la production d'électricité par les centrales nucléaires."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://glaciers-climat.fr/Catastrophes/Catastrophes.html#Le
@@ -39427,4 +39424,4 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-07-14'
-  updated: '2022-07-14'
+  updated: '2022-07-15'
