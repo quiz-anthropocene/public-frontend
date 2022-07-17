@@ -30430,7 +30430,8 @@
   updated: '2022-04-16'
 - id: 795
   text: L'empreinte eau est la quantité d'eau nécessaire à la fabrication d'un bien
-    ou d'un service. Selon vous, de quoi est composée cette empreinte  ?
+    ou d'un service. Selon vous, de quoi est composée cette empreinte (définition
+    du Water Footprint Network) ?
   hint: ''
   type: QCM
   category: 2
@@ -30445,22 +30446,24 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'L''empreinte eau selon la définition Water Footprint Network
-    comprend trois types d''eau. L''eau bleue est l''eau prélevée pour les usages.
-    L''eau verte est l''eau de pluie stockée dans le sol ou les plantes. L''eau grise
-    est la quantité d''eau nécessaire pour diluer les polluants émis (qui, dans les
-    faits, n''est pas forcément utilisée). L''empreinte eau est la somme de ces trois
-    sous-empreintes. Cette empreinte eau a été mise au point en 2002 par le Professeur
-    A. Y. Hoekstra de l’UNESCO-IHE. D''autres définitions prenant seulement en compte
-    l''eau prélevée mais non restituée existent. '
+  answer_explanation: L'empreinte eau selon la définition Water Footprint Network
+    comprend trois types d'eau. L'eau bleue est l'eau prélevée pour les usages. L'eau
+    verte est l'eau de pluie stockée dans le sol ou les plantes. L'eau grise est la
+    quantité d'eau nécessaire pour diluer les polluants émis (qui, dans les faits,
+    n'est pas forcément utilisée). L'empreinte eau est la somme de ces trois sous-empreintes.
+    Cette empreinte eau a été mise au point en 2002 par le Professeur A. Y. Hoekstra
+    de l’UNESCO-IHE. D'autres définitions prenant seulement en compte l'eau prélevée
+    mais non restituée existent.
   answer_audio: ''
   answer_video: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
-  answer_accessible_url: ''
+  answer_accessible_url: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
   answer_accessible_url_text: https://www.eaudyssee.org/empreinte-eau-explications/
   answer_scientific_url: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
   answer_scientific_url_text: ''
-  answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_reading_recommendation: 'Hoekstra, A.Y., Chapagain, A.K., Aldaya, M.M. and
+    Mekonnen, M.M. (2011) – “The Water Footprint Assessment Manual: Setting the Global
+    Standard”, Earthscan, London, UK.'
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5cd698af.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 49
@@ -30468,7 +30471,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-07-16'
 - id: 796
   text: Quelle est la consommation moyenne par jour d'eau du robinet d'un Français
     ?
@@ -30486,17 +30489,19 @@
   answer_option_d: 500 litres par jour
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Les principaux postes de consommation domestique sont les bains
-    et les douches (40%) et les WC (20%). Selon l'OMS, il faut 50 litres d'eau par
-    jour et par personne pour vivre décemment et 100 litres pour un réel confort.
+  answer_explanation: "Et oui l'équivalent de 150 bouteilles d'un litre d'eau !\r\n\
+    \r\nLes principaux postes de consommation domestique sont les bains et les douches\
+    \ (40%) et les WC (20%). 7% seulement de l’eau est directement utilisée pour l’alimentation\
+    \ et la boisson.\r\nSelon l'OMS, il faut 50 litres d'eau par jour et par personne\
+    \ pour vivre décemment et 100 litres pour un réel confort."
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
+  answer_accessible_url: https://www.cieau.com/le-metier-de-leau/usages-consommation-conseils/quels-sont-les-bons-gestes-pour-mieux-consommer-leau/
   answer_accessible_url_text: ''
-  answer_scientific_url: https://www.eaufrance.fr/
+  answer_scientific_url: https://www.cieau.com/le-metier-de-leau/usages-consommation-conseils/quels-sont-les-bons-gestes-pour-mieux-consommer-leau/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9ec74a75.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 49
@@ -30504,7 +30509,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-07-16'
 - id: 797
   text: Quelle est l'empreinte eau moyenne quotidienne d'un Français ?
   hint: ''
@@ -30521,17 +30526,18 @@
   answer_option_d: 6900 litres
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: Entre son alimentation, les objets achetés et les vêtements,
-    un Français a une empreinte eau de 4900L par jour (source Ercin, A.E., et al.
-    (2012) The water footprint of France, Value of Water Research Report Series No.
-    56, UNESCO-IHE). Il faut savoir que la moitié de l'empreinte eau de la France
-    dépasse de plus de deux fois la ressource prélevée sur son sol (Ministère de la
-    Transition écologique).
+  answer_explanation: "Entre son alimentation, les objets achetés et les vêtements,\
+    \ un Français a une empreinte eau de 4900L par jour \r\n 87% de cette empreinte\
+    \ eau est liée à la consommation de produits agricoles, 10% à la consommation\
+    \ de produits industriels et 3% aux usages domestiques. \r\n\r\n47% de l’empreinte\
+    \ eau d’un Français se situe dans un pays étranger. Cela signifie que la moitié\
+    \ de l'empreinte eau de la France dépasse de plus de deux fois la ressource prélevée\
+    \ sur son sol (Ministère de la Transition écologique)."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.eaudyssee.org/empreinte-eau-explications/
   answer_accessible_url_text: Explications sur le site Eau’dyssée
-  answer_scientific_url: https://waterfootprint.org/en/resources/publications/value-water-research-report-series-unesco-ihe/
+  answer_scientific_url: https://waterfootprint.org/media/downloads/Report56-WaterFootprintFrance.pdf
   answer_scientific_url_text: Ercin, A.E., Mekonnen, M.M and Hoekstra, A.Y. (2012)
     The water footprint of France, Value of Water Research Report Series No. 56, UNESCO-IHE
   answer_reading_recommendation: ''
@@ -30543,7 +30549,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-07-16'
 - id: 798
   text: 'Vrai ou faux : les produits d’originale ont en moyenne une empreinte eau
     plus élevée que les produits d’origine végétale'
@@ -30561,14 +30567,19 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Cela s’explique en particulier par la grande quantité de nourriture
-    nécessaire à l'élevage de certains animaux.
+  answer_explanation: "Cela s’explique en particulier par la grande quantité de nourriture\
+    \ nécessaire à l'élevage de certains animaux.\r\nPour un même poids de produit,\
+    \ les produits d’origine animale ont en général une empreinte eau plus grande\
+    \ que les produits d’origine végétale. La conclusion est la même pour l’empreinte\
+    \ eau rapportée au contenu en calories."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://waterfootprint.org/media/downloads/Report-48-WaterFootprint-AnimalProducts-Vol1_1.pdf
+  answer_scientific_url_text: Mekonnen, M.M. and Hoekstra, A.Y. (2010) The green,
+    blue and grey water footprint of farm animals and animal products, Value of Water
+    Research Report Series No. 48, UNESCO-IHE, Delft, the Netherlands.
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -30578,7 +30589,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-07-16'
 - id: 799
   text: Sachant que l'empreinte eau du coton est de 10.000 litres par kg, à combien
     s’élève l'empreinte eau d'un T-shirt ?
@@ -30597,15 +30608,20 @@
   answer_correct: b
   has_ordered_answers: false
   answer_explanation: Un T-Shirt est composé de 250gr de coton, son empreinte eau
-    est donc d'environ 2500L. Cela comprend l'eau qui a été utilisée pour le coton,
-    le transport, l'emballage, l'énergie utilisée par l'usine, etc. D'autres matières
-    telles que le lin ou le chanvre sont beaucoup moins consommatrices en eau.
+    est donc d'environ 2500L. Cela comprend l'eau qui a été utilisée pour produire
+    le coton, le transport, l'emballage, l'énergie utilisée par l'usine, etc. D'autres
+    matières telles que le lin ou le chanvre sont beaucoup moins consommatrices en
+    eau.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://waterfootprint.org/media/downloads/Mekonnen-Hoekstra-2011-WaterFootprintCrops.pdf
+  answer_scientific_url_text: 'A.K. Chapagain, A.Y. Hoekstra, H.H.G. Savenije, R.
+    Gautam, The water footprint of cotton consumption: An assessment of the impact
+    of worldwide consumption of cotton products on the water resources in the cotton
+    producing countries,Ecological Economics, Volume 60, Issue 1, 2006, Pages 186-203,
+    ISSN 0921-8009, https://doi.org/10.1016/j.ecolecon.2005.11.027.'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -30615,7 +30631,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2022-07-16'
 - id: 800
   text: Jusqu'à quelle vitesse peut tomber la grêle ?
   hint: ''
@@ -34300,15 +34316,21 @@
   answer_option_d: Chocolat
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: Eh oui, le chocolat, avec 17,000 l/kg dépasse la viande de bœuf
-    (15,400 l/kg) en termes d’empreinte eau, le bœuf étant le plus consommateur de
-    toutes les viandes. Suivent le coton (10.000 l/kg) et le blé (1,800 l/kg).
+  answer_explanation: "Parmi ces produits, c'est le chocolat qui a la plus grande\
+    \ empreinte eau (17 200 L pour 1 kg) ! Vient ensuite la viande de bœuf, qui est\
+    \ la viande la plus consommatrice d'eau (de l’ordre de 15 500 L), puis le coton\
+    \ (10 000 L) et le blé (1 800 L).\r\n\r\nBien sûr il faut prendre en compte que\
+    \ ces chiffres sont par kg et donc qu'une portion de chocolat de 50g aura une\
+    \ empreinte eau bien moindre qu'un steak de boeuf de 400g !"
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_accessible_url: https://www.waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf
+  answer_accessible_url_text: The water footprint of food, Professor Arjen Y. Hoekstra,
+    Twente Water Centre, University of Twente, the Netherlands.
+  answer_scientific_url: https://waterfootprint.org/media/downloads/Mekonnen-Hoekstra-2011-WaterFootprintCrops.pdf
+  answer_scientific_url_text: 'Mekonnen, M.M. and Hoekstra, A.Y. (2011) The green,
+    blue and grey water footprint of crops and derived crop products, Hydrology and
+    Earth System Sciences, 15(5): 1577-1600.'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -34318,7 +34340,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-05-06'
-  updated: '2022-05-06'
+  updated: '2022-07-16'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -34380,10 +34402,13 @@
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://waterfootprint.org/media/downloads/Report50-NationalWaterFootprints-Vol1.pdf
+  answer_scientific_url_text: 'Mekonnen, M.M. and Hoekstra, A.Y. (2011) National water
+    footprint accounts: the green, blue and grey water footprint of production and
+    consumption, Value of Water Research Report Series No. 50, UNESCO-IHE, Delft,
+    the Netherlands'
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9a152dc8.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 49
@@ -34391,7 +34416,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-05-04'
+  updated: '2022-07-16'
 - id: 897
   text: 'Classez ces réservoirs d’eau du plus grand au plus petit : A. Océans et mers
     ; B. Cours d’eau et lacs ; C. Nappes souterraines ; D. Glaciers et calottes glaciaires'
@@ -34419,8 +34444,10 @@
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.usgs.gov/special-topics/water-science-school/science/how-much-water-there-earth
+  answer_scientific_url_text: 'Igor Shiklomanov''s chapter "World fresh water resources"
+    in Peter H. Gleick (editor), 1993, Water in Crisis: A Guide to the World''s Fresh
+    Water Resources (Oxford University Press, New York).'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -34430,7 +34457,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-05-04'
+  updated: '2022-07-16'
 - id: 898
   text: A l'échelle mondiale, quel est l'usage prédominant pour les prélèvements d'eau
     ?
@@ -34447,15 +34474,16 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 70% de l'eau est prélevée pour l'agriculture, 20% pour les usages
-    industriels et 10% pour les usages domestiques. En France, l'eau est majoritairement
-    prélevée pour l'énergie, mais majoritairement consommée par l'agriculture.
+  answer_explanation: Dans le monde, 72% de l'eau est prélevée pour l'agriculture,
+    12% pour les usages industriels et 16% pour les usages domestiques et les municipalités
+    (source FAO, 2021).
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.fao.org/3/cb6241en/cb6241en.pdf
+  answer_scientific_url_text: FAO and UN Water. 2021. Progress on Level of Water Stress.
+    Global status and acceleration needs for SDG Indicator 6.4.2, 2021. Rome. https://doi.org/10.4060/cb6241en
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -34465,7 +34493,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-05-04'
+  updated: '2022-07-16'
 - id: 899
   text: Quelle proportion de la population mondiale connaît actuellement des problèmes
     d'accès à l'eau au moins une partie de l'année ?
@@ -34483,16 +34511,24 @@
   answer_option_d: 50%
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: Ce chiffre est issu du groupe de travail II du GIEC, relatif
-    aux impacts, à l'adaptation et à la vulnérabilité du changement climatique. Le
-    rapport indique que cette proportion va augmenter avec l’aggravation dérèglement
-    climatique.
+  answer_explanation: "Ce chiffre est issu du groupe de travail II du GIEC, relatif\
+    \ aux impacts, à l'adaptation et à la vulnérabilité du changement climatique.\
+    \ Près de la moitié de la population mondiale subit actuellement des pénuries\
+    \ d'eau au moins une partie de l'année en raison de facteurs climatiques et non\
+    \ climatiques.\r\nLe rapport indique que cette proportion va augmenter avec l’aggravation\
+    \ du dérèglement climatique."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/report/ar6/wg2/
+  answer_scientific_url_text: 'IPCC, 2022: Summary for Policymakers [H.-O. Pörtner,
+    D.C. Roberts, E.S. Poloczanska, K. Mintenbeck, M. Tignor, A. Alegría, M. Craig,
+    S. Langsdorf, S. Löschke, V. Möller, A. Okem (eds.)]. In: Climate Change 2022:
+    Impacts, Adaptation, and Vulnerability. Contribution of Working Group II to the
+    Sixth Assessment Report of the Intergovernmental Panel on Climate Change [H.-O.
+    Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría,
+    M. Craig, S. Langsdorf, S. Löschke, V. Möller, A.'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -34502,7 +34538,7 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-05-04'
+  updated: '2022-07-16'
 - id: 900
   text: Quel est le cout du MWh Nucléaire étendu à 20 ans en $ / MWh ?
   hint: Bas carbone donc…
@@ -37076,7 +37112,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000966-6981.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c7dc58ed.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 12
@@ -37084,7 +37120,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-11-29'
-  updated: '2022-04-16'
+  updated: '2022-07-15'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -38850,7 +38886,7 @@
   answer_option_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Petrol (33%), coil (27%) and gas (23%), totalling 83% as of\
+  answer_explanation: "Petrol (33%), coal (27%) and gas (23%), totalling 83% as of\
     \ 2019.\r\nWe often talk about electricity and renewable energy, but our lives\
     \ highly rely on fossil fuels for transport, building heating and cooling, general\
     \ goods (particularly plastics), drugs, clothes, etc."
@@ -38869,17 +38905,17 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-15'
 - id: 1038
-  text: Let suppose we bring all cows in the world into one country. Which rank would
-    that country have in term of greenhouse gases emissions?
+  text: Let's imagine 'Cowland', a country where all cows of the word would live.
+    Which rank would that country have in terms of greenhouse gases emissions?
   hint: ''
   type: QCM
   category: 1
   tags:
   - 5
   - 97
-  difficulty: 1
+  difficulty: 3
   language: English
   answer_option_a: 1st
   answer_option_b: 3rd
@@ -38907,7 +38943,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-15'
 - id: 1039
   text: What happens to CO2 once it has been release by human activities?
   hint: ''
@@ -39067,7 +39103,8 @@
   updated: '2022-07-07'
 - id: 1043
   text: In the lack of human response to mitigate climate change, how many people
-    will end up living within the next 50 years in areas warmer than the Sahara currently?
+    will live in areas with temperatures warmer than the Sahara ( currently) within
+    the next 50 years?
   hint: ''
   type: QCM
   category: 1
@@ -39102,7 +39139,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-16'
 - id: 1044
   text: Quel est la part du flux solaire directement réfléchi par la surface d’un
     glacier ?
@@ -39263,8 +39300,8 @@
   updated: '2022-07-13'
 - id: 1048
   text: Le climat naturel de la Terre alterne entre périodes glaciaires et périodes
-    chaudes, dites "interglaciaires" (comme actuellement). Qu'est ce qui enclenche
-    cette alternance ?
+    chaudes, dites "interglaciaires" - nous vivons actuellement dans une période interglaciaire.
+    Qu'est ce qui enclenche cette alternance ?
   hint: Cycles de Milankovitch
   type: QCM
   category: 1
@@ -39273,8 +39310,8 @@
   difficulty: 3
   language: Français
   answer_option_a: Les variations de l'activité solaire
-  answer_option_b: De subtiles modifications des paramètres orbitaux de la Terre autour
-    du soleil
+  answer_option_b: De subtiles modifications des paramètres de l'orbite de la Terre
+    autour du soleil
   answer_option_c: L'activité volcanique de la Terre
   answer_option_d: L'élection d'Emmanuel Macron
   answer_correct: b
@@ -39299,11 +39336,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-06-28'
-  updated: '2022-07-13'
+  updated: '2022-07-15'
 - id: 1049
-  text: Comme la plupart des glaciers s'écoulant à la surface de la Terre, les glaciers
-    des Alpes européennes on beaucoup fondu. En pourcentage, combien ont-ils perdu
-    de surface depuis le début du siècle dernier ?
+  text: Combien les glaciers européens ont-ils perdu de surface depuis 1900 ?
   hint: C'est pas rien, même s'il en reste encore
   type: QCM
   category: 1
@@ -39313,16 +39348,14 @@
   - 268
   difficulty: 1
   language: Français
-  answer_option_a: Rien du tout
+  answer_option_a: Surface stable globlement
   answer_option_b: 30%
   answer_option_c: 50%
-  answer_option_d: 100%
+  answer_option_d: 90%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Les glaciers des Alpes européennes ont donc perdu environ 50%
-    de leur surface depuis le début du siècle dernier, et cette fonte s'accélère.
-    Dans les années 2010, c'est presque 1m d'épaisseur perdue par ces glaciers en
-    moyenne annuelle.
+  answer_explanation: Cette fonte s'accélère. Dans les années 2010, c'est presque
+    1m d'épaisseur perdue par ces glaciers en moyenne annuelle.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://glaciers-climat.fr/Du_PAG_a_nos_jours/Du_PAG_a_nos_jours.html
@@ -39338,11 +39371,13 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-07-13'
-  updated: '2022-07-13'
+  updated: '2022-07-15'
 - id: 1050
-  text: Dans le cas de RCP2.6, scénario le moins émissif des scénarios du GIEC en
-    terme de gaz à effet de serre, quelle serait la perte de superficie des glaciers
-    des Alpes européennes d'ici à l'année 2100, par rapport à l'année 2017 ?
+  text: Les scientifiques du GIEC ont dressé 5 scenarios d'évolution du climat en
+    fonction de nos émissions de gaz à effet de serre, du plus favorable (SSP 1.9)
+    au pire (SSP 8.5). Dans le cadre du scénario ambitieux SSP 2.6, quelle serait
+    la perte de superficie des glaciers des Alpes européennes d'ici à l'année 2100,
+    par rapport à l'année de référence 2017 ?
   hint: Scénario le moins émissif, qu'ils disent ...
   type: QCM
   category: 1
@@ -39350,7 +39385,7 @@
   - 22
   - 225
   - 268
-  difficulty: 1
+  difficulty: 3
   language: Français
   answer_option_a: 10%
   answer_option_b: 30%
@@ -39358,13 +39393,11 @@
   answer_option_d: 100%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Il s'agit là d'un des scénarios de la 5eme série de rapports\
-    \ du GIEC. Dans le cas du RCP2.6, le recul en superficie des glaciers des Alpes\
-    \ européennes seraient en effet d'environ 60% de plus par rapport à 2017 pour\
-    \ 2100.\r\nDans le cas du scénario RCP8.5, le scénario du pire, environ 90% de\
-    \ la surface disparaîtrait d'ici à 2100.\r\nQuant à 2050, quel que soit le scénario,\
-    \ le recul en superficie serait d'environ 45%. Cela veut dire que nos actions\
-    \ d'aujourd'hui n'auront un effet sur les glaciers que dans une génération."
+  answer_explanation: "En comparaison, dans le cas du scénario du pire SSP 8.5, 90%\
+    \ de la surface disparaîtrait d'ici à 2100.\r\nQuant à 2050, quel que soit le\
+    \ scénario, le recul en superficie serait d'environ 45%. Cela veut dire qu'il\
+    \ faudra une génération pour que nos actions aient un effet sur l'étendue des\
+    \ glaciers."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -39380,9 +39413,9 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-07-13'
-  updated: '2022-07-13'
+  updated: '2022-07-15'
 - id: 1051
-  text: Quelles problématiques sont liées au recul des glaciers ?
+  text: A quelles problématiques le recul des glaciers est-il lié ?
   hint: La perte d'un glacier n'est pas seulement un changement de paysage
   type: QCM-RM
   category: 1
@@ -39392,26 +39425,27 @@
   - 268
   difficulty: 2
   language: Français
-  answer_option_a: Le recul des glaciers peut provoquer des catastrophes naturelles
+  answer_option_a: Cela peut provoquer des catastrophes naturelles
   answer_option_b: Le paysage montagnard est profondément affecté
   answer_option_c: Lors des périodes de sécheresse, l'eau de fonte des glaciers permet
     d'alimenter les rivières
-  answer_option_d: L'eau de fonte des glaciers permet de générer de l'électricité
-    durant les périodes chaudes
+  answer_option_d: Le manque d'eau de fonte des glaciers met en tension la génération
+    d'électricité des barrages
   answer_correct: abcd
   has_ordered_answers: true
   answer_explanation: "Toutes ces réponses sont bonnes :\r\na. Les glaciers peuvent\
     \ fondre tranquillement, mais aussi brutalement céder. C'est ce qu'il s'est passé\
     \ en 1892 pour le glacier de Tête Rousse, au dessus de Saint Gervais dans le massif\
-    \ du Mont Blanc. La partie avale du glacier a cédé sous la pression d'une poche\
-    \ d'eau s'étant tranquillement accumulé en son sein. La catastrophe a fait près\
-    \ de 200 victimes à l'époque. Ce type d'évènement s'est reproduit dans les Dolomites\
-    \ italiennes, sur le glacier de la Marmolada, et faisant une dizaine de morts.\r\
-    \nb. Le paysage montagnard est effectivement profondément affecté par le recul\
-    \ des glaciers\r\nc. et d. Lors des périodes de sécheresse, la fonte des glaciers\
-    \ alimente toujours les rivières et permet aux centrales hydroélectriques de produire\
-    \ de l'électricité, tandis que le bas niveau des rivières durant ces périodes\
-    \ peut limiter la production d'électricité par les centrales nucléaires."
+    \ du Mont Blanc. La partie aval du glacier a cédé sous la pression d'une poche\
+    \ d'eau qui s'était créée en son sein. La catastrophe a fait près de 200 victimes\
+    \ à l'époque. Ce type d'évènement s'est reproduit dans les Dolomites italiennes,\
+    \ sur le glacier de la Marmolada, faisant une dizaine de morts.\r\nb. Le paysage\
+    \ montagnard est effectivement profondément affecté par le recul des glaciers.\
+    \ On s'en rend compte par exemple en observant le recul du glacier des Mossons\
+    \ dans la vallée de Chamonix.\r\nc. et d. Lors des périodes de sécheresse, la\
+    \ fonte des glaciers alimente toujours les rivières et permet aux centrales hydroélectriques\
+    \ de produire de l'électricité, tandis que le bas niveau des rivières durant ces\
+    \ périodes peut limiter la production d'électricité par les centrales nucléaires."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://glaciers-climat.fr/Catastrophes/Catastrophes.html#Le
@@ -39427,4 +39461,4 @@
   validation_status: Brouillon
   visibility: PUBLIC
   created: '2022-07-14'
-  updated: '2022-07-14'
+  updated: '2022-07-15'
