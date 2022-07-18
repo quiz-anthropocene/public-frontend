@@ -1,6 +1,9 @@
 - name: Français
-  question_count: 481
+  question_count: 487
   quiz_count: 32
 - name: English
-  question_count: 29
-  quiz_count: 3
+  question_count: 36
+  quiz_count: 4
+- name: Deutsch
+  question_count: 0
+  quiz_count: 0
