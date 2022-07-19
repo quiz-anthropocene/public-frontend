@@ -30473,8 +30473,8 @@
   created: '2021-01-17'
   updated: '2022-07-18'
 - id: 796
-  text: Quelle est la consommation moyenne par jour d'eau du robinet d'un Français
-    ?
+  text: Quelle est la consommation moyenne d'eau du robinet d'un Français sur une
+    journée ?
   hint: ''
   type: QCM
   category: 2
@@ -30509,7 +30509,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 797
   text: Quelle est l'empreinte eau quotidienne d'un Français ?
   hint: ''
@@ -30530,9 +30530,8 @@
     \ qu'il achète, un Français a une empreinte eau moyenne de 4,900 litres par jour.\
     \ 87% de cette empreinte eau est liée à la consommation de produits agricoles,\
     \ 10% à la consommation de produits industriels et 3% aux usages domestiques.\
-    \ \r\n\r\n47% de l’empreinte eau d’un Français se situe dans un pays étranger.\
-    \ Cela signifie que la moitié de l'empreinte eau de la France dépasse de plus\
-    \ de deux fois la ressource prélevée sur son sol (Ministère de la Transition écologique)."
+    \ \r\nA savoir : près de la moitié de l’empreinte eau d’un Français est hors de\
+    \ nos frontières."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.eaudyssee.org/empreinte-eau-explications/
@@ -30549,7 +30548,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 798
   text: 'Vrai ou faux : les produits d’originale ont en moyenne une empreinte eau
     plus élevée que les ceux d’origine végétale'
@@ -30566,7 +30565,7 @@
   answer_option_c: ''
   answer_option_d: ''
   answer_correct: a
-  has_ordered_answers: false
+  has_ordered_answers: true
   answer_explanation: "Cela s’explique en particulier par la grande quantité de nourriture\
     \ nécessaire à l'élevage de certains animaux.\r\nPour un même poids de produit,\
     \ les produits d’origine animale ont en général une empreinte eau plus grande\
@@ -30586,12 +30585,12 @@
   answer_extra_info: ''
   author: 49
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 799
-  text: A combien s’élève l'empreinte eau d'un T-shirt en coton de 250g?
+  text: A combien s’élève l'empreinte eau d'un T-shirt ?
   hint: ''
   type: QCM
   category: 5
@@ -30606,11 +30605,11 @@
   answer_option_d: 7,500 litres
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: L'empreinte eau d'un kilo de coton est de 10, 000 L. Un T-Shirt
-    est composé d'environ 250gr de coton, son empreinte eau est donc 2,500 litres.
-    Cela comprend l'eau qui a été utilisée pour produire le coton, le transport, l'emballage,
-    l'énergie utilisée par l'usine, etc. D'autres matières telles que le lin ou le
-    chanvre sont beaucoup moins consommatrices en eau.
+  answer_explanation: "L'empreinte eau d'un kilo de coton est de 10, 000 litres. Un\
+    \ T-shirt, qui pèse environ 250 g, a donc une empreinte de 2,500 litres. Cela\
+    \ comprend l'eau qui a été utilisée pour produire le coton, le transport, l'emballage,\
+    \ l'énergie utilisée par l'usine, etc.\r\nD'autres matières telles que le lin\
+    \ ou le chanvre sont beaucoup moins consommatrices en eau."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -30627,10 +30626,10 @@
   answer_extra_info: ''
   author: 49
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-06'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 800
   text: Jusqu'à quelle vitesse peut tomber la grêle ?
   hint: ''
@@ -34318,9 +34317,8 @@
   answer_explanation: "Le chocolat présente une empreinte de 17,000 litres pour 1\
     \ kg ! Il est suivi de près par la viande de bœuf, qui est la viande la plus consommatrice\
     \ d'eau (15,500 litres). Puis le coton (10,000 litres), et loin derrière le blé\
-    \ (1,800 litres).\r\n\r\nBien sûr il faut prendre en compte que ces chiffres sont\
-    \ par kg et donc qu'une portion de chocolat de 50g aura une empreinte eau bien\
-    \ moindre qu'un steak de boeuf de 400g !"
+    \ (1,800 litres).\r\nCes chiffres sont par kg. Une portion de chocolat de 50 g\
+    \ aura donc une empreinte eau bien moindre qu'un steak de bœuf de 400 g !"
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf
@@ -34336,10 +34334,10 @@
   answer_extra_info: ''
   author: 49
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-05-06'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -34376,8 +34374,8 @@
   created: '2022-05-02'
   updated: '2022-05-02'
 - id: 896
-  text: Parmi les fleuves suivants, Quel est lequel sur lequel les Etats-Unis ont
-    la plus grosse empreinte ?
+  text: L'empreinte eau d'un pays va bien au-delà de ses frontières. Sur lequel de
+    ces fleuves les Etats Unis ont-il la plus forte empreinte ?
   hint: ''
   type: QCM
   category: 7
@@ -34415,11 +34413,10 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 897
-  text: 'Tentes de classer ces réservoirs d’eau du plus grand au plus petit : A. Océans
-    et mers ; B. Cours d’eau et lacs ; C. Nappes souterraines ; D. Glaciers et calottes
-    glaciaires'
+  text: 'Classez ces réservoirs d’eau du plus grand au plus petit : A. Océans et mers
+    ; B. Cours d’eau et lacs ; C. Nappes souterraines ; D. Glaciers et calottes glaciaires'
   hint: ''
   type: QCM
   category: 7
@@ -34459,7 +34456,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 898
   text: A l'échelle mondiale, quel est l'usage qui prélève le plus d'eau ?
   hint: ''
@@ -34486,15 +34483,15 @@
   answer_scientific_url_text: FAO and UN Water. 2021. Progress on Level of Water Stress.
     Global status and acceleration needs for SDG Indicator 6.4.2, 2021. Rome. https://doi.org/10.4060/cb6241en
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c91831db.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/42b0ec94.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 49
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 899
   text: Quelle proportion de la population mondiale connaît actuellement des problèmes
     d'accès à l'eau au moins une partie de l'année ?
@@ -34536,10 +34533,10 @@
   answer_extra_info: ''
   author: 49
   validator: null
-  validation_status: Brouillon
+  validation_status: Validée
   visibility: PUBLIC
   created: '2022-05-04'
-  updated: '2022-07-18'
+  updated: '2022-07-19'
 - id: 900
   text: Quel est le cout du MWh Nucléaire étendu à 20 ans en $ / MWh ?
   hint: Bas carbone donc…
