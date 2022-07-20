@@ -96,9 +96,10 @@
 - id: 4
   name: Les pics de ressources
   slug: les-pics-de-ressources
-  introduction: L'extraction de toute ressource finie passe par un maximum, après
-    lequel elle ne peut que décroître pour finalement tomber à 0. C'est le thème qu'explore
-    ce quiz sur les différentes ressources non-renouvelables dont nous faisons usage.
+  introduction: <p>L'extraction de toute ressource finie passe par un maximum, après
+    lequel elle ne peut que décroître pour finalement tomber s'épuiqer. C'est le thème
+    qu'explore ce quiz sur les différentes ressources non-renouvelables dont nous
+    faisons usage.</p>
   conclusion: ''
   questions:
   - 65
@@ -111,13 +112,13 @@
   difficulty_average: 2.7
   language: Français
   author: 2
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000004-ac07.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2c781bd1.png
   has_audio: false
   publish: true
   spotlight: false
   visibility: PUBLIC
   created: '2020-07-08'
-  updated: '2022-04-16'
+  updated: '2022-07-19'
 - id: 5
   name: Mon empreinte carbone
   slug: mon-empreinte-carbone
