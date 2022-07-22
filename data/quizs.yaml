@@ -16,12 +16,16 @@
   tags: []
   difficulty_average: 1.9
   language: Français
-  author: 1
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000001-1f89.png
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 1
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-04-24'
+  publish: true
+  publish_date: '2020-04-27'
+  spotlight: false
   created: '2020-04-17'
   updated: '2022-04-16'
 - id: 2
@@ -45,12 +49,16 @@
   - 1
   difficulty_average: 2.3
   language: Français
-  author: 1
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000002-ce4a.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 1
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-06-01'
+  publish: true
+  publish_date: '2020-06-04'
+  spotlight: false
   created: '2020-05-25'
   updated: '2022-04-16'
 - id: 3
@@ -85,12 +93,16 @@
   - 185
   difficulty_average: 2.2
   language: Français
-  author: 8
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000003-597d.jpg
   has_audio: true
-  publish: true
-  spotlight: true
+  author: 8
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-07-03'
+  publish: true
+  publish_date: '2020-07-06'
+  spotlight: true
   created: '2020-06-26'
   updated: '2022-04-16'
 - id: 4
@@ -111,12 +123,16 @@
   tags: []
   difficulty_average: 2.7
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2c781bd1.png
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-07-15'
+  publish: true
+  publish_date: '2020-07-18'
+  spotlight: false
   created: '2020-07-08'
   updated: '2022-07-19'
 - id: 5
@@ -142,12 +158,16 @@
   - 72
   difficulty_average: 2.1
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000005-586a.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-07-15'
+  publish: true
+  publish_date: '2020-07-18'
+  spotlight: false
   created: '2020-07-08'
   updated: '2022-04-16'
 - id: 6
@@ -175,12 +195,16 @@
   tags: []
   difficulty_average: 2.7
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000006-b5bb.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-07-15'
+  publish: true
+  publish_date: '2020-07-18'
+  spotlight: false
   created: '2020-07-08'
   updated: '2022-04-16'
 - id: 7
@@ -201,12 +225,16 @@
   - 11
   difficulty_average: 2.3
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000007-646d.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-09'
   updated: '2022-04-16'
 - id: 8
@@ -244,12 +272,16 @@
   - 142
   difficulty_average: 2.0
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000008-c302.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-14'
   updated: '2022-04-16'
 - id: 9
@@ -272,12 +304,16 @@
   tags: []
   difficulty_average: 3.3
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000009-6ade.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-07-21'
+  publish: true
+  publish_date: '2020-07-24'
+  spotlight: false
   created: '2020-07-14'
   updated: '2022-04-16'
 - id: 10
@@ -299,12 +335,16 @@
   - 11
   difficulty_average: 2.2
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000010-bdc2.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-04-16'
 - id: 11
@@ -345,12 +385,16 @@
   - 142
   difficulty_average: 1.9
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000011-6927.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-04-16'
 - id: 12
@@ -375,12 +419,16 @@
   - 142
   difficulty_average: 2.0
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000012-3533.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-04-16'
 - id: 13
@@ -402,12 +450,16 @@
   - 142
   difficulty_average: 2.7
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000013-eb5a.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-04-16'
 - id: 14
@@ -429,12 +481,16 @@
   - 142
   difficulty_average: 1.7
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000014-9b58.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-06-03'
 - id: 15
@@ -465,12 +521,16 @@
   - 142
   difficulty_average: 2.2
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000015-a68a.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-04-16'
 - id: 16
@@ -497,12 +557,16 @@
   tags: []
   difficulty_average: 2.2
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000016-1e5a.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-08-05'
+  publish: true
+  publish_date: '2020-08-08'
+  spotlight: false
   created: '2020-07-29'
   updated: '2022-04-16'
 - id: 17
@@ -526,12 +590,16 @@
   - 76
   difficulty_average: 2.5
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000017-b87e.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-08-11'
+  publish: true
+  publish_date: '2020-08-14'
+  spotlight: false
   created: '2020-08-04'
   updated: '2022-04-16'
 - id: 18
@@ -571,12 +639,16 @@
   tags: []
   difficulty_average: 2.7
   language: Français
-  author: 13
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000018-9a3f.jpg
   has_audio: true
-  publish: true
-  spotlight: true
+  author: 13
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-09-30'
+  publish: true
+  publish_date: '2020-10-03'
+  spotlight: true
   created: '2020-09-23'
   updated: '2022-04-16'
 - id: 52
@@ -607,12 +679,16 @@
   - 194
   difficulty_average: 3.0
   language: Français
-  author: 19
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000052-1e57.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 19
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-11-23'
+  publish: true
+  publish_date: '2020-11-26'
+  spotlight: false
   created: '2020-11-16'
   updated: '2022-04-16'
 - id: 53
@@ -638,12 +714,16 @@
   tags: []
   difficulty_average: 4.0
   language: Français
-  author: 5
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000053-064a.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 5
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-12-04'
+  publish: true
+  publish_date: '2020-12-07'
+  spotlight: false
   created: '2020-11-27'
   updated: '2022-04-16'
 - id: 54
@@ -681,12 +761,16 @@
   - 80
   difficulty_average: 2.6
   language: Français
-  author: 5
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000054-c005.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 5
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-12-05'
+  publish: true
+  publish_date: '2020-12-08'
+  spotlight: false
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 55
@@ -723,12 +807,16 @@
   - 62
   difficulty_average: 2.9
   language: Français
-  author: 37
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000055-63df.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 37
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-12-15'
+  publish: true
+  publish_date: '2020-12-18'
+  spotlight: false
   created: '2020-12-08'
   updated: '2022-04-16'
 - id: 56
@@ -755,12 +843,16 @@
   tags: []
   difficulty_average: 2.5
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000056-9bf6.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2020-12-20'
+  publish: true
+  publish_date: '2020-12-23'
+  spotlight: false
   created: '2020-12-13'
   updated: '2022-04-16'
 - id: 57
@@ -789,12 +881,16 @@
   - 213
   difficulty_average: 1.8
   language: Français
-  author: 1
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000057-30c2.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 1
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2020-12-31'
+  publish: true
+  publish_date: '2021-01-03'
+  spotlight: false
   created: '2020-12-24'
   updated: '2022-04-16'
 - id: 59
@@ -826,12 +922,16 @@
   - 30
   difficulty_average: 2.1
   language: Français
-  author: 18
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000059-3ba6.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 18
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-01-28'
+  publish: true
+  publish_date: '2021-01-31'
+  spotlight: true
   created: '2021-01-21'
   updated: '2022-04-16'
 - id: 60
@@ -857,12 +957,16 @@
   - 30
   difficulty_average: 2.2
   language: Français
-  author: 14
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000060-09d9.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 14
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-02-08'
+  publish: true
+  publish_date: '2021-02-11'
+  spotlight: true
   created: '2021-02-01'
   updated: '2022-04-16'
 - id: 61
@@ -911,12 +1015,16 @@
   - 255
   difficulty_average: 2.7
   language: Français
-  author: 6
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000061-582f.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 6
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-02-21'
+  publish: true
+  publish_date: '2021-02-24'
+  spotlight: true
   created: '2021-02-14'
   updated: '2022-04-16'
 - id: 62
@@ -955,12 +1063,16 @@
   - 244
   difficulty_average: 1.9
   language: Français
-  author: 15
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000062-2449.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 15
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-02-25'
+  publish: true
+  publish_date: '2021-02-28'
+  spotlight: true
   created: '2021-02-18'
   updated: '2022-04-16'
 - id: 63
@@ -988,12 +1100,16 @@
   - 30
   difficulty_average: 2.1
   language: English
-  author: 42
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000063-79b1.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 42
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-02-27'
+  publish: true
+  publish_date: '2021-03-02'
+  spotlight: true
   created: '2021-02-20'
   updated: '2022-04-16'
 - id: 64
@@ -1018,12 +1134,16 @@
   tags: []
   difficulty_average: 2.4
   language: Français
-  author: 2
   image_background_url: ''
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2021-03-05'
   updated: '2022-06-10'
 - id: 65
@@ -1053,12 +1173,16 @@
   - 11
   difficulty_average: 2.2
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000065-42f8.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2021-03-18'
+  publish: true
+  publish_date: '2021-03-21'
+  spotlight: false
   created: '2021-03-11'
   updated: '2022-04-16'
 - id: 66
@@ -1104,12 +1228,16 @@
   - 227
   difficulty_average: 3.2
   language: Français
-  author: null
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000066-3614.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: null
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-03-19'
+  publish: true
+  publish_date: '2021-03-22'
+  spotlight: false
   created: '2021-03-12'
   updated: '2021-10-24'
 - id: 67
@@ -1143,12 +1271,16 @@
   - 255
   difficulty_average: 2.4
   language: Français
-  author: 6
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000067-af09.png
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 6
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-03-30'
+  publish: true
+  publish_date: '2021-04-02'
+  spotlight: false
   created: '2021-03-23'
   updated: '2022-04-16'
 - id: 68
@@ -1188,12 +1320,16 @@
   - 255
   difficulty_average: 2.6
   language: English
-  author: 6
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000068-15c5.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 6
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-03-31'
+  publish: true
+  publish_date: '2021-04-03'
+  spotlight: true
   created: '2021-03-24'
   updated: '2022-04-16'
 - id: 69
@@ -1225,12 +1361,16 @@
   - 263
   difficulty_average: 2.2
   language: Français
-  author: 20
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000069-6de8.jpg
   has_audio: false
-  publish: true
-  spotlight: false
+  author: 20
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-04-17'
+  publish: true
+  publish_date: '2021-04-20'
+  spotlight: false
   created: '2021-04-10'
   updated: '2022-04-16'
 - id: 70
@@ -1266,12 +1406,16 @@
   - 255
   difficulty_average: 1.9
   language: Français
-  author: 6
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000070-552a.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 6
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-04-23'
+  publish: true
+  publish_date: '2021-04-26'
+  spotlight: true
   created: '2021-04-16'
   updated: '2022-04-16'
 - id: 71
@@ -1293,12 +1437,16 @@
   - 223
   difficulty_average: 2.6
   language: Français
-  author: 24
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000071-ada4.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 24
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2021-04-26'
   updated: '2022-04-16'
 - id: 73
@@ -1329,12 +1477,16 @@
   - 255
   difficulty_average: 2.6
   language: English
-  author: 6
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000073-772b.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 6
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-05-04'
+  publish: true
+  publish_date: '2021-05-07'
+  spotlight: true
   created: '2021-04-27'
   updated: '2022-04-16'
 - id: 74
@@ -1373,12 +1525,16 @@
   - 100
   difficulty_average: 2.5
   language: Français
-  author: 35
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000074-3037.png
   has_audio: true
-  publish: true
-  spotlight: true
+  author: 35
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-05-10'
+  publish: true
+  publish_date: '2021-05-13'
+  spotlight: true
   created: '2021-05-03'
   updated: '2022-04-16'
 - id: 75
@@ -1416,12 +1572,16 @@
   - 225
   difficulty_average: 2.1
   language: Français
-  author: 11
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000075-2162.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 11
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-10-10'
+  publish: true
+  publish_date: '2021-10-13'
+  spotlight: true
   created: '2021-10-03'
   updated: '2022-04-16'
 - id: 76
@@ -1459,12 +1619,16 @@
   - 72
   difficulty_average: 2.6
   language: Français
-  author: 36
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000076-26d2.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 36
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-11-23'
+  publish: true
+  publish_date: '2021-11-26'
+  spotlight: true
   created: '2021-11-16'
   updated: '2022-04-16'
 - id: 77
@@ -1506,12 +1670,16 @@
   - 248
   difficulty_average: 2.6
   language: Français
-  author: 17
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000077-7fc3.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 17
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2021-12-12'
+  publish: true
+  publish_date: '2021-12-15'
+  spotlight: true
   created: '2021-12-05'
   updated: '2022-04-16'
 - id: 78
@@ -1545,12 +1713,16 @@
   tags: []
   difficulty_average: 2.2
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000078-62a8.jpg
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 2
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2021-12-12'
   updated: '2022-04-16'
 - id: 79
@@ -1589,12 +1761,16 @@
   - 256
   difficulty_average: 1.7
   language: Français
-  author: 2
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000079-9514.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 2
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 1
+  validation_date: '2022-01-17'
+  publish: true
+  publish_date: '2022-01-20'
+  spotlight: true
   created: '2022-01-10'
   updated: '2022-06-20'
 - id: 80
@@ -1628,12 +1804,16 @@
   - 256
   difficulty_average: 0.0
   language: Français
-  author: 25
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000080-f9bb.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 25
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-02-02'
+  publish: true
+  publish_date: '2022-02-05'
+  spotlight: true
   created: '2022-01-26'
   updated: '2022-04-16'
 - id: 81
@@ -1669,12 +1849,16 @@
   - 82
   difficulty_average: 2.6
   language: Français
-  author: 46
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000081-6f88.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 46
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-05-23'
+  publish: true
+  publish_date: '2022-05-26'
+  spotlight: true
   created: '2022-05-16'
   updated: '2022-06-14'
 - id: 82
@@ -1699,12 +1883,16 @@
   - 32
   difficulty_average: 0.0
   language: Français
-  author: 55
   image_background_url: ''
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 55
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2022-05-30'
   updated: '2022-05-30'
 - id: 83
@@ -1731,12 +1919,16 @@
   - 11
   difficulty_average: 1.0
   language: Français
-  author: 57
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0470a518.png
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 57
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2022-06-08'
   updated: '2022-06-09'
 - id: 84
@@ -1774,12 +1966,16 @@
   - 256
   difficulty_average: 1.0
   language: English
-  author: 60
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 60
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-06-26'
+  publish: true
+  publish_date: '2022-06-29'
+  spotlight: true
   created: '2022-06-19'
   updated: '2022-07-09'
 - id: 85
@@ -1804,12 +2000,16 @@
   - 268
   difficulty_average: 1.8
   language: Français
-  author: 34
   image_background_url: ''
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 34
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2022-06-28'
   updated: '2022-07-14'
 - id: 86
@@ -1839,12 +2039,16 @@
   tags: []
   difficulty_average: 0.0
   language: Français
-  author: 62
   image_background_url: ''
   has_audio: false
-  publish: false
-  spotlight: false
+  author: 62
   visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
   created: '2022-07-06'
   updated: '2022-07-07'
 - id: 87
@@ -1853,7 +2057,7 @@
   introduction: "<p>Ce quiz a pour objectif de tester vos connaissances sur les ressources\
     \ en eau. Les questions abordent les ressources sur Terre, ainsi que l’impact\
     \ des activités humaines et de nos consommations sur ces ressources. A vous de\
-    \ jouer !<br />\r\nUn quiz élaboré par l’association <a href=\"http://www.eaudyssee.org)\"\
+    \ jouer !<br />\r\nUn quiz élaboré par l’association <a href=\"http://www.eaudyssee.org\"\
     >Eau’Dyssée</a></p>\r\n\r\n<p> </p>"
   conclusion: "<p>Vous souhaitez en savoir plus ? Vous pouvez participer à une Fresque\
     \ de l’Eau avec l’association <a href=\"http://www.eaudyssee.org\">Eau’Dyssée</a>.\
@@ -1879,11 +2083,15 @@
   - 97
   difficulty_average: 2.2
   language: Français
-  author: 49
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/510c77bc.png
   has_audio: false
-  publish: true
-  spotlight: true
+  author: 49
   visibility: PUBLIC
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-07-23'
+  publish: true
+  publish_date: '2022-07-26'
+  spotlight: true
   created: '2022-07-16'
-  updated: '2022-07-19'
+  updated: '2022-07-21'
