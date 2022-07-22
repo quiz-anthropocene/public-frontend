@@ -30550,8 +30550,8 @@
   created: '2021-01-17'
   updated: '2022-07-19'
 - id: 798
-  text: 'Vrai ou faux : les produits d’originale ont en moyenne une empreinte eau
-    plus élevée que les ceux d’origine végétale'
+  text: 'Vrai ou faux : les produits d’origine animale ont en moyenne une empreinte
+    eau plus élevée que ceux d’origine végétale'
   hint: ''
   type: VF
   category: 2
@@ -30588,7 +30588,7 @@
   validation_status: Validée
   visibility: PUBLIC
   created: '2021-01-17'
-  updated: '2022-07-19'
+  updated: '2022-07-21'
 - id: 799
   text: A combien s’élève l'empreinte eau d'un T-shirt ?
   hint: ''

@@ -1853,7 +1853,7 @@
   introduction: "<p>Ce quiz a pour objectif de tester vos connaissances sur les ressources\
     \ en eau. Les questions abordent les ressources sur Terre, ainsi que l’impact\
     \ des activités humaines et de nos consommations sur ces ressources. A vous de\
-    \ jouer !<br />\r\nUn quiz élaboré par l’association <a href=\"http://www.eaudyssee.org)\"\
+    \ jouer !<br />\r\nUn quiz élaboré par l’association <a href=\"http://www.eaudyssee.org\"\
     >Eau’Dyssée</a></p>\r\n\r\n<p> </p>"
   conclusion: "<p>Vous souhaitez en savoir plus ? Vous pouvez participer à une Fresque\
     \ de l’Eau avec l’association <a href=\"http://www.eaudyssee.org\">Eau’Dyssée</a>.\
@@ -1886,4 +1886,4 @@
   spotlight: true
   visibility: PUBLIC
   created: '2022-07-16'
-  updated: '2022-07-19'
+  updated: '2022-07-21'
