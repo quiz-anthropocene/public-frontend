@@ -1,7 +1,7 @@
 export default {
   DATA_LAST_UPDATED_DATETIME: '2022-07-22 17:45',
-  QUESTION_VALIDATION_STATUS_OK: 'Validée',
-  QUESTION_VALIDATION_STATUS_IN_PROGRESS: 'A valider',
+  VALIDATION_STATUS_OK: 'Validée',
+  VALIDATION_STATUS_IN_PROGRESS: 'A valider',
   QUESTION_SUCCESS_MESSAGES_FR: [
     'C\'est exact !', 'En effet !', 'Bien vu !', 'Félicitations !', 'Bravo !',
     'Très fort', 'C\'est bien ça. Coup de chance ?', 'Impressionnant',

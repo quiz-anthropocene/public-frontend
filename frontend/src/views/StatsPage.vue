@@ -164,11 +164,11 @@ export default {
       return new Date(constants.DATA_LAST_UPDATED_DATETIME).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
     },
     question_validated_count_formatted() {
-      const questionValidatedCount = this.$store.state.stats.question_per_validation_status_count ? this.$store.state.stats.question_per_validation_status_count.slice(0).find((item) => item.validation_status === constants.QUESTION_VALIDATION_STATUS_OK).total : 0;
+      const questionValidatedCount = this.$store.state.stats.question_per_validation_status_count ? this.$store.state.stats.question_per_validation_status_count.slice(0).find((item) => item.validation_status === constants.VALIDATION_STATUS_OK).total : 0;
       return Intl.NumberFormat('fr-FR').format(questionValidatedCount);
     },
     question_pending_validation_count_formatted() {
-      const questionPendingValidation = this.$store.state.stats.question_per_validation_status_count ? this.$store.state.stats.question_per_validation_status_count.slice(0).find((item) => item.validation_status === constants.QUESTION_VALIDATION_STATUS_IN_PROGRESS) : {};
+      const questionPendingValidation = this.$store.state.stats.question_per_validation_status_count ? this.$store.state.stats.question_per_validation_status_count.slice(0).find((item) => item.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS) : {};
       const questionPendingValidationCount = questionPendingValidation ? questionPendingValidation.total : 0;
       return Intl.NumberFormat('fr-FR').format(questionPendingValidationCount);
     },

@@ -86,7 +86,7 @@
       <section class="question">
         <h2>{{ $t('messages.yourScore') }} : <strong>{{ finalScore }} / {{ quiz.questions.length }}</strong></h2>
 
-        <p>
+        <p v-if="quizStats">
           📈&nbsp;{{ $t('messages.quizCompletedStats') }} <strong>{{ quizStats.answer_count }}</strong> {{ $t('words.times') }}.<br />
           {{ $t('messages.quizCompletedBetter1') }} <strong>{{ finalScoreBetterThanPercent }}%</strong> {{ $t('messages.quizCompletedBetter2') }}
           <abbr v-bind:title="'dernière mise à jour le ' + statsLastUdated">stats&nbsp;?&nbsp;</abbr>
