@@ -39809,7 +39809,7 @@
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: Français
   answer_option_a: -50 °C
   answer_option_b: -18 °C
@@ -39836,7 +39836,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-23'
 - id: 1036
   text: 21,000 years ago, it was ice age, with an average temperature on earth 5°C
     lower than today's. How long did it take to warm up up to today's temperature?
@@ -39844,7 +39844,7 @@
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: English
   answer_option_a: 1,000 years
   answer_option_b: 5,000 years
@@ -39873,7 +39873,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-23'
 - id: 1037
   text: What part of the world energy consumption do fossil fuels represent?
   hint: ''
@@ -39884,7 +39884,7 @@
   - 40
   - 41
   - 256
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: 40%
   answer_option_b: 65%
@@ -39912,7 +39912,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-15'
+  updated: '2022-07-23'
 - id: 1038
   text: Let's imagine 'Cowland', a country where all cows of the word would live.
     Which rank would that country have in terms of greenhouse gases emissions?
@@ -39922,7 +39922,7 @@
   tags:
   - 5
   - 97
-  difficulty: 3
+  difficulty: 2
   language: English
   answer_option_a: 1st
   answer_option_b: 3rd
@@ -39951,7 +39951,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-15'
+  updated: '2022-07-23'
 - id: 1039
   text: What happens to CO2 once it has been release by human activities?
   hint: ''
@@ -39960,7 +39960,7 @@
   tags:
   - 13
   - 14
-  difficulty: 1
+  difficulty: 2
   language: English
   answer_option_a: Part of it remains within the atmosphere
   answer_option_b: Part of it dissolves into the ocean
@@ -39990,14 +39990,14 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-23'
 - id: 1040
   text: The ocean acidification is a consequence of...
   hint: ''
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: English
   answer_option_a: the human-based emissions of CO2
   answer_option_b: the eutrophication (lack of oxygen)
@@ -40027,7 +40027,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-07-23'
 - id: 1041
   text: Among the following phenomena, which one do NOT result in a increase of sea
     level?
@@ -40122,7 +40122,7 @@
   category: 1
   tags:
   - 225
-  difficulty: 1
+  difficulty: 2
   language: English
   answer_option_a: 200 millions
   answer_option_b: 1 billion
@@ -40152,7 +40152,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-16'
+  updated: '2022-07-23'
 - id: 1044
   text: Quel est la part du flux solaire directement réfléchi par la surface d’un
     glacier ?
