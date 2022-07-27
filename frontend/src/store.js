@@ -178,9 +178,10 @@ const store = new Vuex.Store({
       // enrich languages with key & emoji
       languages.map((l) => {
         const currentLanguage = constants.LANGUAGE_CHOICE_LIST.find((cl) => cl.value === l.name);
+        if (!currentLanguage) return null;
         Object.assign(l, { key: currentLanguage.key }, { emoji: currentLanguage.emoji });
         return l;
-      });
+      }).filter((l) => l); // remove null values
       commit('SET_LANGUAGE_LIST', { list: languages });
     },
     /**
