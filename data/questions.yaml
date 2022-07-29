@@ -36208,7 +36208,7 @@
   answer_option_d: Il a avancé de 890 m
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Le glacier d'Aletsch a nue longueur de plus de 20 km. Il a effectivement
+  answer_explanation: Le glacier d'Aletsch a une longueur de plus de 20 km. Il a effectivement
     reculé de 1600 m depuis les années 1980. Comme pour la plupart des autres glaciers
     européens, ce recul s'accélère encore depuis les années 2000. Entre 2010 et 2020
     le front du glacier recule d'environ 100 m par an.
@@ -36228,7 +36228,7 @@
   validator: 2
   validation_date: null
   created: '2021-02-21'
-  updated: '2022-07-13'
+  updated: '2022-07-28'
 - id: 922
   text: Quel pourcentage des emballages jetés par les ménages sont des emballages
     alimentaires ?
@@ -40154,7 +40154,7 @@
   created: '2022-06-19'
   updated: '2022-07-23'
 - id: 1044
-  text: Quel est la part du flux solaire directement réfléchi par la surface d’un
+  text: Quel est la part du flux solaire directement réfléchie par la surface d’un
     glacier ?
   hint: ''
   type: QCM
@@ -40174,7 +40174,7 @@
     directement. Cette part est d'environ 85% pour de la neige fraîche, 60% pour un
     glacier, mais elle est réduite à presque 0% lorsque la surface est sombre, comme
     de la roche ou un océan. Le reste du flux solaire est absorbé par la matière,
-    ce qui a pour effet de la chauffer. Elle émet alors du rayonnement infrarouge.
+    ce qui a pour effet de la chauffer. Elle émet alors un rayonnement infrarouge.
   answer_audio: ''
   answer_video: https://www.youtube.com/watch?v=yCiT9ZuZBbw
   answer_accessible_url: https://fr.wikipedia.org/wiki/R%C3%A9troaction_glace-alb%C3%A9do
@@ -40191,7 +40191,7 @@
   validator: null
   validation_date: null
   created: '2022-06-24'
-  updated: '2022-07-14'
+  updated: '2022-07-28'
 - id: 1045
   text: Entre 2006 et 2018, le niveau des mers a augmenté de 44 mm. Quelle a été la
     contribution des glaciers de montagne à cette élévation ?
@@ -40273,10 +40273,10 @@
 - id: 1047
   text: Lors du dernier maximum glaciaire, il y a 30000 ans, la température moyenne
     à la surface de la Terre était inférieure de 6°C par rapport à aujourd'hui. La
-    ville de Grenoble était alors recouverte par un grand glacier qui s'écoulait depuis
-    les vallées de la Maurienne et de la Tarentaise. Quelle était alors l'altitude
-    de surface de ce glacier au niveau de la "capitale des Alpes" ?
-  hint: Au dessus de la tour Perret
+    ville de Grenoble était alors recouverte par un immense glacier qui s'écoulait
+    depuis les vallées de la Maurienne et de la Tarentaise. Quelle était alors l'épaisseur
+    de la glace au niveau de la future "capitale des Alpes" ?
+  hint: La surface du glacier dépassait la tour Perret
   type: QCM
   category: 1
   tags:
@@ -40287,16 +40287,15 @@
   answer_option_a: Mais non, jamais un glacier n'a recouvert Grenoble
   answer_option_b: 1 m
   answer_option_c: 300 m
-  answer_option_d: 1200 m
+  answer_option_d: 1500 m
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Oui, ça paraît important, mais l'altitude de ce glacier était
-    bien de 1200 m. À la même époque, il existait deux autres calottes polaires au
-    dessus de l'Amérique du Nord et des pays Scandinaves et les glaciers existant
+  answer_explanation: À la même époque, il existait deux autres calottes polaires
+    au dessus de l'Amérique du Nord et des pays Scandinaves et les glaciers existant
     aujourd'hui étaient alors beaucoup plus étendus. La conséquence était un niveau
-    des mers était environ 120 m plus bas, et la France était reliée à la Grande Bretagne
+    des mers d'environ 120 m plus bas, et la France était reliée à la Grande Bretagne
     ! Ailleurs dans le monde, ce niveau des eaux plus bas a permis le passage à pied
-    du Détroit de Bering depuis la Sibérie et l'Alaska, et ainsi permis l'arrivée
+    du Détroit de Béring depuis la Sibérie et l'Alaska, et ainsi permis l'arrivée
     des humains vers les Amériques.
   answer_audio: ''
   answer_video: ''
@@ -40314,7 +40313,7 @@
   validator: null
   validation_date: null
   created: '2022-06-28'
-  updated: '2022-07-13'
+  updated: '2022-07-28'
 - id: 1048
   text: Le climat naturel de la Terre alterne entre périodes glaciaires et périodes
     chaudes, dites "interglaciaires" - nous vivons actuellement dans une période interglaciaire.
@@ -40339,7 +40338,7 @@
     progressives sur le temps long favorisent dans certains cas la transition entre
     période glaciaire et interglaciaire, ou le contraire.
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=Jvh1YzJ5bTk
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: ''
@@ -40354,9 +40353,10 @@
   validator: null
   validation_date: null
   created: '2022-06-28'
-  updated: '2022-07-15'
+  updated: '2022-07-28'
 - id: 1049
-  text: Combien les glaciers européens ont-ils perdu de surface depuis 1900 ?
+  text: Quel a été la diminution de la surface de glace des glaciers européens depuis
+    1900 ?
   hint: C'est pas rien, même s'il en reste encore
   type: QCM
   category: 1
@@ -40372,8 +40372,11 @@
   answer_option_d: 90%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Cette fonte s'accélère. Dans les années 2010, c'est presque
-    1m d'épaisseur perdue par ces glaciers en moyenne annuelle.
+  answer_explanation: Et ce recul s'accélère chaque année. Dans les années 2010, ces
+    glaciers perdent en moyenne 1m d'épaisseur de glace par an. Des glaciers disparaissent
+    déjà aujourd'hui, comme le glacier de Sarennes dans le massif des Grandes Rousses
+    dont il ne reste quasiment rien. De plus en plus d'autres glaciers suivront donc
+    ce mouvement dans les années qui viennent.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://glaciers-climat.fr/Du_PAG_a_nos_jours/Du_PAG_a_nos_jours.html
@@ -40390,14 +40393,14 @@
   validator: null
   validation_date: null
   created: '2022-07-13'
-  updated: '2022-07-15'
+  updated: '2022-07-28'
 - id: 1050
   text: Les scientifiques du GIEC ont dressé 5 scenarios d'évolution du climat en
-    fonction de nos émissions de gaz à effet de serre, du plus favorable (SSP 1.9)
-    au pire (SSP 8.5). Dans le cadre du scénario ambitieux SSP 2.6, quelle serait
-    la perte de superficie des glaciers des Alpes européennes d'ici à l'année 2100,
-    par rapport à l'année de référence 2017 ?
-  hint: Scénario le moins émissif, qu'ils disent ...
+    fonction de nos émissions de gaz à effet de serre, du plus favorable (SSP1-1.9)
+    au pire (SSP5-8.5). Dans le cadre du scénario ambitieux SSP1-2.6, l'un des plus
+    vertueux, quelle serait la perte de superficie des glaciers des Alpes européennes
+    d'ici à l'année 2100, par rapport à l'année de référence 2017 ?
+  hint: L'un des scénarios le moins impactant, qu'ils disent ...
   type: QCM
   category: 1
   tags:
@@ -40412,11 +40415,10 @@
   answer_option_d: 100%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "En comparaison, dans le cas du scénario du pire SSP 8.5, 90%\
-    \ de la surface disparaîtrait d'ici à 2100.\r\nQuant à 2050, quel que soit le\
-    \ scénario, le recul en superficie serait d'environ 45%. Cela veut dire qu'il\
-    \ faudra une génération pour que nos actions aient un effet sur l'étendue des\
-    \ glaciers."
+  answer_explanation: En comparaison, dans le cas du scénario du pire SSP5-8.5, 90%
+    de la surface de ces glaciers disparaîtrait d'ici à 2100. Quant à 2050, quel que
+    soit le scénario, le recul serait d'environ 45%. Cela veut dire qu'il faudra une
+    génération pour que nos actions aient un effet sur l'étendue des glaciers.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -40433,7 +40435,7 @@
   validator: null
   validation_date: null
   created: '2022-07-13'
-  updated: '2022-07-15'
+  updated: '2022-07-28'
 - id: 1051
   text: A quelles problématiques le recul des glaciers est-il lié ?
   hint: La perte d'un glacier n'est pas seulement un changement de paysage
@@ -40450,22 +40452,23 @@
   answer_option_c: Lors des périodes de sécheresse, l'eau de fonte des glaciers permet
     d'alimenter les rivières
   answer_option_d: Le manque d'eau de fonte des glaciers met en tension la génération
-    d'électricité des barrages
+    d'électricité des barrages hydroélectriques en montagne
   answer_correct: abcd
   has_ordered_answers: true
   answer_explanation: "Toutes ces réponses sont bonnes :\r\na. Les glaciers peuvent\
     \ fondre tranquillement, mais aussi brutalement céder. C'est ce qu'il s'est passé\
-    \ en 1892 pour le glacier de Tête Rousse, au dessus de Saint Gervais dans le massif\
+    \ en 1892 pour le glacier de Tête Rousse, au dessus de Saint-Gervais dans le massif\
     \ du Mont Blanc. La partie aval du glacier a cédé sous la pression d'une poche\
     \ d'eau qui s'était créée en son sein. La catastrophe a fait près de 200 victimes\
-    \ à l'époque. Ce type d'évènement s'est reproduit dans les Dolomites italiennes,\
-    \ sur le glacier de la Marmolada, faisant une dizaine de morts.\r\nb. Le paysage\
-    \ montagnard est effectivement profondément affecté par le recul des glaciers.\
-    \ On s'en rend compte par exemple en observant le recul du glacier des Mossons\
-    \ dans la vallée de Chamonix.\r\nc. et d. Lors des périodes de sécheresse, la\
-    \ fonte des glaciers alimente toujours les rivières et permet aux centrales hydroélectriques\
-    \ de produire de l'électricité, tandis que le bas niveau des rivières durant ces\
-    \ périodes peut limiter la production d'électricité par les centrales nucléaires."
+    \ à l'époque. Ce type d'évènements s'est récemment reproduit dans les Dolomites\
+    \ italiennes, sur le glacier de la Marmolada, faisant une dizaine de morts.\r\n\
+    b. Le paysage montagnard est effectivement profondément affecté par le recul des\
+    \ glaciers. On s'en rend compte par exemple en observant le recul du glacier des\
+    \ Bossons dans la vallée de Chamonix.\r\nc. et d. Lors des périodes de sécheresse,\
+    \ la fonte des glaciers alimente toujours les rivières et permet aux centrales\
+    \ hydroélectriques de produire de l'électricité, tandis que le bas niveau des\
+    \ rivières durant ces périodes peut limiter la production d'électricité par les\
+    \ centrales nucléaires."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://glaciers-climat.fr/Catastrophes/Catastrophes.html#Le
@@ -40482,4 +40485,92 @@
   validator: null
   validation_date: null
   created: '2022-07-14'
-  updated: '2022-07-15'
+  updated: '2022-07-28'
+- id: 1052
+  text: A quelles problématiques l'agriculture urbaine répond-t-elle ?
+  hint: Parmi les réponses suivantes, vous pouvez cocher jusqu'à 6 cases !
+  type: QCM-RM
+  category: 8
+  tags:
+  - 5
+  - 17
+  - 232
+  difficulty: 2
+  language: Français
+  answer_option_a: Reconnecter les citoyens au vivant et créer du lien social
+  answer_option_b: Rendre les villes complètement autonomes dans leur production de
+    nourriture
+  answer_option_c: Améliorer l’alimentation et l’autonomie alimentaire des villes
+    et recycler les déchets, l’air et l’eau
+  answer_option_d: Redonner vie aux délaissés urbains et valoriser le foncier
+  answer_correct: acd
+  has_ordered_answers: true
+  answer_explanation: 'C’est une agriculture localisée dans la ville et à sa périphérie,
+    dont les produits sont destinés à la ville et pour laquelle il existe une alternative
+    entre usage agricole et urbain non agricole des ressources. S’inscrivant dans
+    la complexité du milieu urbain, elle est ici surtout low tech, souvent hors sols
+    et potentiellement source d’innovations. Elle remet au centre du projet de paysage
+    l’interaction entre l’homme et le vivant et répond à de nombreux enjeux et besoins
+    pour la ville : Pédagogie de la nature, aménagement, santé publique, préservation
+    de la biodiversité, production alimentaire et bienfait social.'
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://agirpourlatransition.ademe.fr/collectivites/sites/default/files/2020-10/agriculture-urbaine-comprendre.pdf
+  answer_accessible_url_text: Comprendre l'Agriculture Urbaine
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-07-28'
+  updated: '2022-07-28'
+- id: 1053
+  text: Quels sont les 3 piliers sur lesquels repose la biodiversité ?
+  hint: ''
+  type: QCM
+  category: 4
+  tags:
+  - 199
+  - 207
+  difficulty: 1
+  language: Français
+  answer_option_a: Diversité génétique au sein des espèces
+  answer_option_b: Diversité des espèces
+  answer_option_c: Diversité des écosystèmes
+  answer_option_d: ''
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: 'La biodiversité repose sur 3 piliers et sur leurs interactions
+    entre eux : diversité génétique au sein des espèces, diversité des espèces et
+    diversité des écosystèmes. Son équilibre dynamique permet le vivant et elle lui
+    fournit des services gratuits et essentiels. Ceux-ci sont à la base de toutes
+    les activités humaines, qui font cependant peser en retour de grandes pressions
+    sur la biodiversité.  Or elle est notre alliée et sa régénération est une clé
+    de réussite face aux transitions actuelles et à venir : Une biodiversité dégradée
+    entraine moins de choix enviables possibles pour notre présent et notre futur.
+    Une biodiversité régénérée, entre coexistence et interactions comme on peut le
+    voir ici en ville, en campagne, en montagne, en forêt, et c’est cet équilibre
+    dynamique du vivant et de nos sociétés qui pourra perdurer.'
+  answer_audio: ''
+  answer_video: https://www.youtube.com/watch?v=GuS9EU4iRjw
+  answer_accessible_url: https://www.ofb.gouv.fr/quest-ce-que-la-biodiversite
+  answer_accessible_url_text: Qu'est-ce que c'est la biodiversité ?
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/00732680.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-07-28'
+  updated: '2022-07-28'
