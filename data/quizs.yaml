@@ -1981,9 +1981,11 @@
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules
-  introduction: <p>Le changement climatique fait fondre les glaciers et les calottes
-    polaires.</p>
-  conclusion: ''
+  introduction: <p>Le recul actuel des glaciers est une des conséquences les plus
+    connues du changement climatique anthropique. Ce quiz aborde l’évolution des glaciers
+    et de leur impact sur l’environnement entre passé, présent et futur. Bon voyage.</p>
+  conclusion: <p>N'oubliez pas que tout n'est pas perdu, que les glaciers sont toujours
+    là. N'hésitez pas à aller leur rendre visite, en mobilité douce bien entendu.</p>
   questions:
   - 921
   - 1044
@@ -1998,20 +2000,20 @@
   - 69
   - 225
   - 268
-  difficulty_average: 1.8
+  difficulty_average: 2.0
   language: Français
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/37aedcc4.jpg
   has_audio: false
   author: 34
   visibility: PUBLIC
   validation_status: Brouillon
-  validator: null
+  validator: 2
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2022-06-28'
-  updated: '2022-07-14'
+  updated: '2022-07-29'
 - id: 86
   name: Fresque de la Renaissance Ecologique - Le quizz
   slug: fresque-de-la-renaissance-ecologique-le-quizz
