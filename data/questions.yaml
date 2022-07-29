@@ -36219,7 +36219,7 @@
   answer_scientific_url: https://tc.copernicus.org/articles/12/759/2018/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c867ec27.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dc5283c4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 34
@@ -40576,3 +40576,48 @@
   validation_date: null
   created: '2022-07-28'
   updated: '2022-07-28'
+- id: 1054
+  text: Les comportements de consommation ont-ils un impact direct sur les 4 enjeux
+    des transitions écologiques, à savoir le changement climatique, l'érosion de la
+    biodiversité, l'épuisement des ressources naturelles et les inégalités sociales.
+  hint: ''
+  type: VF
+  category: 2
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Oui
+  answer_option_b: Non
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Si la consommation est indispensable aux hommes, qui ont besoin
+    pour leur survie de se nourrir, de se vêtir et de se loger, les comportements
+    de consommation dépendent de leur libre-arbitre. Le rapport de l'homme au monde
+    a entretenu, jusqu'à la fin du XIXème siècle, l'illusion de pouvoir profiter de
+    ressources inextinguibles sans impacter l'environnement, et a engendré la création
+    de sociétés consuméristes. La finitude des ressources et la nécessaire préservation
+    des écosystèmes, conduisent aujourd'hui à repenser ces comportements et à adopter
+    des pratiques de sobriété, de réemploi et de consommation locale, afin que l'assouvissement
+    des besoins nécessaires génère le moins d'impact négatif possible sur la nature
+    et les sociétés.
+  answer_audio: ''
+  answer_video: https://youtu.be/U9xoi7RSOwo
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: Si vous voulez aller plus loin pour comprendre de quo s'agit
+    la consommation inutile, n'hésitez pas à consulter cet entretien avec l'auteur
+    Razmig Keucheyan sur les besoins artificiels et superflus.
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-07-29'
+  updated: '2022-07-29'
