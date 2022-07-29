@@ -187,7 +187,7 @@
 - id: 34
   first_name: Lionel
   last_name: Favier
-  question_count: 0
+  question_count: 9
   quiz_count: 0
   created: '2022-04-16'
 - id: 35
@@ -262,3 +262,9 @@
   question_count: 0
   quiz_count: 0
   created: '2022-07-01'
+- id: 65
+  first_name: Emmanuelle
+  last_name: Mouls
+  question_count: 0
+  quiz_count: 0
+  created: '2022-07-18'
