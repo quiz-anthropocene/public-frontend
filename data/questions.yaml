@@ -40717,3 +40717,180 @@
   validation_date: null
   created: '2022-07-29'
   updated: '2022-07-29'
+- id: 1057
+  text: Combien d'emplois la commission européenne estime t'elle que l'économie circulaire
+    pourrait créer d'ici 2030?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 150 000 emplois
+  answer_option_b: 500 000 emplois
+  answer_option_c: 700 000 emplois
+  answer_option_d: 1 millions d'emplois
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: L’industrie désigne les activités économiques qui produisent
+    des biens matériels à partir de matières premières et de l’exploitation de sources
+    d’énergie, issues ou non de la biodiversité. Son fonctionnement actuel nous impacte
+    par de nombreuses pollutions, l’épuisement des ressources et la destruction des
+    habitats naturels, et sa participation au changement climatique. Sa transformation
+    est une clé vers une réponse aux défis climatiques et sociétaux, et la régénération
+    de la biodiversité. Elle est essentielle pour fabriquer de nouveaux équipements,
+    et peut soutenir le virage vers la sobriété, la réutilisation, la réparabilité,
+    la durabilité. Cela passe par la reconversion et la création de nouvelles filières
+    dimensionnées pour chaque territoire et ses flux de matières premières.
+  answer_audio: https://www.economiecirculaire.org/articles/h/make-it-circular-des-podcasts-pour-comprendre-l-economie-circulaire.html
+  answer_video: https://www.youtube.com/watch?v=ADJvT1_lr1I
+  answer_accessible_url: https://ec.europa.eu/commission/presscorner/detail/fr/ip_20_420
+  answer_accessible_url_text: Plan D'Action Economie Circulaire par la Commission
+    Européene
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: https://livre.fnac.com/a3323385/Michael-Braungart-Cradle-to-cradle
+  answer_image_url: ''
+  answer_image_explanation: Industrie
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-01'
+  updated: '2022-08-01'
+- id: 1058
+  text: Qu'est ce qu'une forêt primaire ?
+  hint: ''
+  type: QCM
+  category: 4
+  tags:
+  - 20
+  difficulty: 1
+  language: Français
+  answer_option_a: Une forêt primaire est une forêt qui n’a été ni défrichée, ni exploitée,
+    ni modifiée de façon quelconque par l’homme
+  answer_option_b: Une forêt dont toutes les expèces sont endémiques à la région
+  answer_option_c: Une forêt qui a plus de 150 ans
+  answer_option_d: Une forêt plantée par une école primaire.
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: 'La forêt riche d’environ 60 000 milles espèces d’arbres recouvre
+    1/3 des surfaces émergées de la terre. Ici, elle est un écheveau de relation entre
+    les êtres vivants qui abrite aussi bien des champignons, bactéries, plantes et
+    animaux et reste très diverse en fonction des latitudes. Cet écosystème avec un
+    sol vivant et fertile joue un rôle majeur dans la stabilisation du climat et des
+    risques d’inondation. Elle rend d’énormes services à l’homme : production de biomasse,
+    matériaux biosourcés, espace de promenade et loisirs, lieu d’initiation et de
+    rêve, puit de carbone, réservoir d’eau et de biodiversité mais sous la condition
+    impérative d’être gérée durablement ou dans ses conditions originelles.'
+  answer_audio: ''
+  answer_video: https://www.youtube.com/watch?v=aq6XQ9ecd80
+  answer_accessible_url: https://www.foretprimaire-francishalle.org/le-projet/
+  answer_accessible_url_text: Laisser se reconstituer une forêt primaire en Europe
+    de l'Ouest
+  answer_scientific_url: http://www.vieillesforets.com/wp-content/uploads/2019/06/LA-RECHERCHE-ANNICK-SCHNITZER-LENOBLE.pdf
+  answer_scientific_url_text: En Europe, la forêt primaire
+  answer_reading_recommendation: https://www.rtbf.be/article/francis-halle-pour-recreer-une-foret-primaire-en-europe-il-ne-faut-rien-faire-juste-laisser-la-nature-travailler-par-elle-meme-10662865?id=10662865&programId=60
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: 'Vous trouverez plus d''infos sur la gestion des forêts en France
+    et la cycle de régeneration des forêts sur le site de l''Office National de Forêts
+    : https://www.onf.fr/onf/forets-et-espaces-naturels/+/1f::comprendre-la-foret.html'
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-01'
+  updated: '2022-08-01'
+- id: 1059
+  text: Combien de litres d'eau et de kilomètres sont nécessaires à la fabrication
+    et commercialisation d'un jean neuf?
+  hint: La consommation est l'équivalent de la quantité d'eau moyenne utilisé par
+    un français pendant 9 semaines !
+  type: QCM
+  category: 7
+  tags:
+  - 28
+  - 37
+  - 72
+  - 105
+  difficulty: 1
+  language: Français
+  answer_option_a: 30 litres d'eau et 1000 km pour un jean
+  answer_option_b: 5 000 litres d’eau et 30 000 km pour un jean
+  answer_option_c: 7 000 litres d’eau et 50 000 km pour un jean
+  answer_option_d: 11 000 litres d’eau et 65 000 km pour un jean
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: 'L''import/export régit les flux de denrées et de marchandises
+    entre les territoires et se base sur une indispensable collaboration et complémentarité
+    entre ceux-ci. Il est nécessaire tant ponctuellement pour répondre à des situations
+    inédites (situations de crises politiques, sociales ou climatiques privant un
+    territoire de la partie ou totalité de ses ressources) que de façon permanente
+    (achats de produits de la mer pour un territoire continental par exemple). En
+    revanche, comme le commerce ou les comportements de consommation, l''import/export
+    peut être régi par des règles permettant de limiter l''impact sur les environnements
+    : limitation de l''import/export aux produits nécessaires et inaccessibles en
+    local, sobriété, choix des sources d''approvisionnement en fonction de la distance
+    parcourue par les produits, moyens de transport utilisés les moins impactants.'
+  answer_audio: ''
+  answer_video: https://www.youtube.com/watch?v=U9xoi7RSOwo
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-01'
+  updated: '2022-08-01'
+- id: 1060
+  text: Quelle est la surface du globe recouverte par les océans ?
+  hint: C'est bien plus que la surface terrestre !
+  type: QCM
+  category: 7
+  tags:
+  - 9
+  difficulty: 1
+  language: Français
+  answer_option_a: 50 %
+  answer_option_b: 65 %
+  answer_option_c: 70 %
+  answer_option_d: 85 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: L’océan, vaste étendue d'eau salée, couvre 71% de la surface
+    du globe et regorge de ressources minérales et énergétiques. Il est un des principaux
+    réservoirs de biodiversité et contribue largement par ses ressources halieutiques
+    à la sécurité alimentaire de notre planète. Il participe à l’écosystème planétaire
+    en fournissant la moitié de l’oxygène que nous respirons et en stockant ¼ des
+    émissions de carbone anthropique déversé annuellement dans l’atmosphère. L’économie
+    bleue qu’il génère contribue à l’éradication de la pauvreté, au développement
+    économique et de l’emploi mais à condition que celle-ci soit respectueuse du climat,
+    neutre en carbone et offre un modèle de tourisme et de transport durables.
+  answer_audio: ''
+  answer_video: https://www.youtube.com/watch?v=9Jlb-wm4bEs
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-01'
+  updated: '2022-08-01'
