@@ -2012,9 +2012,9 @@
   validation_date: '2022-07-29'
   publish: true
   publish_date: '2022-07-29'
-  spotlight: false
+  spotlight: true
   created: '2022-06-28'
-  updated: '2022-07-29'
+  updated: '2022-08-01'
 - id: 86
   name: Fresque de la Renaissance Ecologique - Le quizz
   slug: fresque-de-la-renaissance-ecologique-le-quizz
