@@ -40536,7 +40536,7 @@
 - id: 1053
   text: Quels sont les 3 piliers sur lesquels repose la biodiversité ?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 4
   tags:
   - 199
@@ -40546,7 +40546,7 @@
   answer_option_a: Diversité génétique au sein des espèces
   answer_option_b: Diversité des espèces
   answer_option_c: Diversité des écosystèmes
-  answer_option_d: ''
+  answer_option_d: Diversité des sources d'alimentation
   answer_correct: abc
   has_ordered_answers: true
   answer_explanation: 'La biodiversité repose sur 3 piliers et sur leurs interactions
@@ -40576,7 +40576,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2022-07-28'
+  updated: '2022-08-02'
 - id: 1054
   text: Les comportements de consommation ont-ils un impact direct sur les 4 enjeux
     des transitions écologiques, à savoir le changement climatique, l'érosion de la
@@ -40877,8 +40877,101 @@
     bleue qu’il génère contribue à l’éradication de la pauvreté, au développement
     économique et de l’emploi mais à condition que celle-ci soit respectueuse du climat,
     neutre en carbone et offre un modèle de tourisme et de transport durables.
-  answer_audio: ''
+  answer_audio: https://www.radiofrance.fr/franceculture/podcasts/selection-sciences-12-emissions-sur-les-oceans
   answer_video: https://www.youtube.com/watch?v=9Jlb-wm4bEs
+  answer_accessible_url: https://wwz.ifremer.fr/L-ocean-pour-tous/Nos-ressources-pedagogiques/Comprendre-les-oceans/Ocean-et-climat/Dictionnaire-de-la-COP21-comprendre-les-liens-entre-oceans-et-climat
+  answer_accessible_url_text: Comprendre les liens entre les océans et le changement
+    climatique
+  answer_scientific_url: https://ocean-climate.org/resumes-des-fiches-scientifiques-ocean-et-climat/
+  answer_scientific_url_text: 17 Fiches Océan et Climat
+  answer_reading_recommendation: https://www.editions-lepommier.fr/150-questions-sur-locean-et-le-climat#anchor1
+  answer_image_url: ''
+  answer_image_explanation: Les Océans
+  answer_extra_info: "Pour aller plus loin, une article par La Fondation Surfrider\
+    \ sur le réchauffement climatique et les océans : https://surfrider.eu/wp-content/uploads/2016/04/6_le_changement_climatique_et_les_oceans.pdf\r\
+    \nIl existe aussi cette étude publiée en 2022 sur les urgences climatiques et\
+    \ les océans : https://livre.fnac.com/a16307384/Gilbert-Barnabe-Urgences-climatiques-et-ecologiques-les-solutions-de-l-Ocean#omnsearchpos=4#ficheResume"
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-01'
+  updated: '2022-08-02'
+- id: 1061
+  text: En 1977 l’Unesco et le PNUE organise la conférence de Tbilissi sur le thème
+    de l’Education à l’environnement. Le rapport indique que face à la complexité
+    du sujet l’éducation a un rôle capital à jouer. La même année une circulaire donne
+    naissance à l'éducation à l'environnement en France. En quelle année l'éducation
+    à l'environnement et au développement durable entre t’il dans le code de l’éducation
+    ?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: '1992'
+  answer_option_b: '1998'
+  answer_option_c: '2005'
+  answer_option_d: '2013'
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: L’éducation étroitement liée à la famille doit être innovante,
+    permettre de poser les base d'une société plus juste et équitable et développer
+    pleinement le potentiel, la créativité des individus et leur capacité au vivre
+    ensemble. Elle mêle les approches scientifiques, intellectuelles, sensorielles,
+    corporelles, ludiques et artistiques, le savoir être et le savoir-faire. Elle
+    doit aussi apporter les connaissances sur l’urgence climatique et sur les éléments
+    de base de l’écologie à savoir la relation des êtres vivants avec leur habitat
+    et leur environnement dès le plus jeune âge. Elle est le pilier de la transmission,
+    de l’apprentissage continu et un vrai tremplin vers les métiers du commerce, de
+    l’industrie, du bâtiment, de l’agriculture et de la finance pour parvenir au plein
+    emploi.
+  answer_audio: https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/eduquer-face-a-l-anthropocene-1784898
+  answer_video: https://www.youtube.com/watch?v=Fse7xhXwiNA
+  answer_accessible_url: https://www.education.gouv.fr/l-education-au-developpement-durable-7136
+  answer_accessible_url_text: L'Education au Développement Durable
+  answer_scientific_url: ''
+  answer_scientific_url_text: L'Education au Développement Durable
+  answer_reading_recommendation: https://livre.fnac.com/a7359819/Arnaud-Diemer-Education-au-developpement-durable
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: 'Vous trouverez des ressources pour le grand publique de L''Office
+    for Climate Education ici : https://www.oce.global/fr/ressources/grand-public'
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-02'
+  updated: '2022-08-02'
+- id: 1062
+  text: Dans quelle commune de France un système de gouvernance collégiale a été expérimenté
+    entre 2014 et 2020 ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Saillans
+  answer_option_b: Etretat
+  answer_option_c: Le Lorroux Bottereau
+  answer_option_d: Joigny
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 'Figurée par Marianne et sa bannière, la gouvernance englobe
+    et embrasse le territoire et ses vivants par sa vision claire et au service du
+    bien commun. Par cette vision, elle permet une citoyenneté consciente et impliquée.
+    Elle permet également la pérennité du vivant et de l’humanité en son sein, usant
+    de la puissance publique pour protéger si besoin, mobilisant les citoyens autour
+    des chantiers de transition écologique et sociétaux. Elle doit par exemple à la
+    fois organiser les interactions commerciales et sociales entre humains, le vivre
+    ensemble et éviter les conflits d’usage des sols, assurer une bonne gestion des
+    ressources stratégiques : l’eau, les forêts, la biodiversité, l’énergie et l’air.'
+  answer_audio: ''
+  answer_video: https://www.youtube.com/watch?v=_iWcGntwwtw
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: ''
@@ -40892,5 +40985,47 @@
   validation_status: Brouillon
   validator: null
   validation_date: null
-  created: '2022-08-01'
-  updated: '2022-08-01'
+  created: '2022-08-02'
+  updated: '2022-08-02'
+- id: 1063
+  text: Que décrit un DICRIM (Document d’Information Communal sur les Risques Majeurs)
+    ?
+  hint: ''
+  type: QCM-RM
+  category: 6
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: les risques naturels et technologiques
+  answer_option_b: les conséquences sur les personnes et les biens et les mesures
+    individuelles et collectives de prévention, de protection et de sauvegarde mises
+    en œuvre
+  answer_option_c: es événements et accidents significatifs survenus dans la commune
+    (circulaire du 20 juin 2005), et les moyens d’alerte en cas d'évènement ou de
+    danger
+  answer_option_d: ''
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: Physiquement, la sécurité est l'état d'une situation présentant
+    le minimum de risque. Psychiquement, la sécurité est l'état d’esprit d'une personne
+    qui se sent tranquille et confiante. Pour l'individu ou un groupe, c'est le sentiment
+    d'être à l'abri de tout danger et risque. Incarnée par la robustesse de la muraille
+    qui protège la ville, les échanges de flux qui y transitent se font en toute confiance
+    et sécurité
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.gouvernement.fr/risques/les-collectivites
+  answer_accessible_url_text: Prevention des Risques Collectivités
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-02'
+  updated: '2022-08-02'
