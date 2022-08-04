@@ -41029,3 +41029,131 @@
   validation_date: null
   created: '2022-08-02'
   updated: '2022-08-02'
+- id: 1064
+  text: Lesquelles des caractéristiques suivantes s'appliquent à l'agroécologie ?
+    (plusieurs réponses possibles)
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Accroît la productivité à l'échelle de la parcelle
+  answer_option_b: Accroît la pauvreté rurale
+  answer_option_c: Contribue à améliorer les qualités nutritives des aliments
+  answer_option_d: Contribue à l'adaptation au changement climatique
+  answer_correct: abd
+  has_ordered_answers: true
+  answer_explanation: C’est une nouvelle vision de l’agriculture qui regroupe diverses
+    techniques agricoles souvent traditionnelles dont le but est de permettre de nourrir
+    la population avec des aliments sains et qualitatifs (goût, maturité…), tout en
+    préservant le capital naturel planétaire (eau, sols, climat, biodiversité…) et
+    en garantissant une activité viable, vivable et résiliente pour les agriculteurs.
+    Elle intègre des pratiques corollaires telles que l’agriculture biologique et
+    régénérative, l’agroforesterie et des volets de la permaculture dans une perspective
+    de développement durable en s’appuyant sur les fonctionnalités naturelles des
+    écosystèmes.
+  answer_audio: https://fermesdavenir.org/fermes-davenir/outils/les-10-meilleurs-podcasts-sur-lagroecologie
+  answer_video: https://www.youtube.com/watch?v=_tnRhZytE8Y
+  answer_accessible_url: https://agriculture.gouv.fr/quest-ce-que-lagroecologie
+  answer_accessible_url_text: Qu'est-ce que c'est l'agroecologie ?
+  answer_scientific_url: https://hal.archives-ouvertes.fr/hal-01298955/document
+  answer_scientific_url_text: Livre sur la mise en pratique
+  answer_reading_recommendation: https://books.google.fr/books?hl=en&lr=&id=3ztKDgAAQBAJ&oi=fnd&pg=PA91&dq=agroecologie&ots=kQLdBqI6Ni&sig=7ciNB8hmxIBabzJWaRqVdUB9P7g#v=onepage&q&f=false
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-03'
+  updated: '2022-08-03'
+- id: 1065
+  text: Quelle est la part d'eau douce sur Terre ?
+  hint: ''
+  type: QCM
+  category: 7
+  tags:
+  - 37
+  - 69
+  difficulty: 1
+  language: Français
+  answer_option_a: 3 %
+  answer_option_b: 13 %
+  answer_option_c: 23 %
+  answer_option_d: 33 %
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "L'eau douce ne représente que 3 % de l'eau sur Terre. Elle\
+    \ se trouve dans les glaciers (68,7 %), les eaux souterraines (30,1 %), l'eau\
+    \ gelée dans le sol (0,8 %) et l'eau douce de surface (0,4 %).\r\nLa part d'eau\
+    \ douce accessible à l'utilisation humaine pour sa consommation ou pour les activités\
+    \ agricoles est donc inférieure à 1% (eau de surface plus une partie des eaux\
+    \ souterraines)."
+  answer_audio: https://www.wedemain.fr/podcasts/podcast-quel-avenir-pour-les-fleuves-face-au-changement-climatique/
+  answer_video: https://www.youtube.com/watch?v=Btuw6zFy-WI
+  answer_accessible_url: https://enimmersion-eau.fr/eau-et-changement-climatique/
+  answer_accessible_url_text: Eau et Changement Climatique
+  answer_scientific_url: https://read.oecd-ilibrary.org/environment/l-eau-et-adaptation-au-changement-climatique_9789264200647-fr#page5
+  answer_scientific_url_text: Guide détaillée sur les effets du réchauffement climatique
+    sur l'eau
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: 'Guide Détaillée sur les effets du réchauffement climatique sur
+    l''eau : https://read.oecd-ilibrary.org/environment/l-eau-et-adaptation-au-changement-climatique_9789264200647-fr#page5'
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-03'
+  updated: '2022-08-03'
+- id: 1066
+  text: 'Vrai ou faux : La culture n''est pas un secteur concerné par le changement
+    climatique.'
+  hint: ''
+  type: VF
+  category: 6
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Dimension vernaculaire et populaire de la culture, des chants\
+    \ des traditions, des styles vestimentaires, des modes esthétiques qui fondent\
+    \ le patrimoine et se transmettent d’une génération à l’autre.\r\nLa culture est\
+    \ un fondement de l’éducation : l’éveil au monde des nouveaux-nés commence par\
+    \ les chansons, comptines et autres comptes et légendes, hérités de nos ancêtres.\
+    \ La problématique du changement climatique étant généralement analysée au travers\r\
+    \nde secteurs tels que l’agriculture, le bâtiment, l’industrie ou les transports,\
+    \ le secteur de la culture ne se sent pas directement concerné. Pourtant, la culture,\
+    \ comme l’ensemble des activités humaines, utilise des énergies fossiles pour\
+    \ chauffer et éclairer les nombreux bâtiments culturels, pour l'alimentation et\
+    \ les déplacements des équipes artistiques et techniques, mais surtout des spectateurs.\
+    \ Elle doit donc aussi se transformer pour réduire ses émissions de GES et assurer\
+    \ sa résilience, car en cas de choc énergétique, climatique ou sanitaire, comme\
+    \ nous le voyons aujourd'hui, sa pérennité à court terme est fortement menacée."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://theshiftproject.org/wp-content/uploads/2021/11/211130-TSP-PTEF-Rapport-final-Culture-v2.pdf
+  answer_accessible_url_text: Décarboner la culture par "le Shift Project"
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-03'
+  updated: '2022-08-03'
