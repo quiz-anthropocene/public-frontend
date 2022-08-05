@@ -41157,3 +41157,284 @@
   validation_date: null
   created: '2022-08-03'
   updated: '2022-08-03'
+- id: 1067
+  text: Quel est le pourcentage des trajets domicile-travail qui sont réalisés en
+    voiture en France ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: '55'
+  answer_option_b: '69'
+  answer_option_c: '74'
+  answer_option_d: '82'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "69% des trajets domicile-travail sont réalisés en voiture (moyenne\
+    \ nationale). Les transports représentent environ 29% des émissions de gaz à effet\
+    \ de serre en France et le routier a lui seul concentre 95% des émissions du secteur\
+    \ du transport. La réduction des émissions de GES mais aussi de la pollution de\
+    \ l’air et du bruit passe par le développement de solutions de mobilité alternatives\
+    \ pour les personnes et les marchandises.\r\nLa mobilité est déjà discrètement\
+    \ visible intramuros via la marche, à l’image des déplacement de courtes distance\
+    \ rendus possibles par l’aménagement urbain et les comportements de consommation\
+    \ de proximité. Elle est plus visiblement évoquée à travers la suite de moyens\
+    \ de transport qui coexistent extra-muros : les transports de personne, de marchandises,\
+    \ mais aussi des infrastructures de transport."
+  answer_audio: ''
+  answer_video: https://www.youtube.com/watch?v=Gi3jZLCBid4
+  answer_accessible_url: https://librairie.ademe.fr/mobilite-et-transport/3859-la-mobilite-en-10-questions-9791029716126.html#/44-type_de_produit-format_electronique
+  answer_accessible_url_text: 'La Mobilité en 10 Questions: Guide fait par l''ADEME'
+  answer_scientific_url: https://journals.openedition.org/cybergeo/23531
+  answer_scientific_url_text: Pour l’atténuation du changement climatique, quelle
+    est la contribution possible de l’aménagement du territoire ?
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-04'
+  updated: '2022-08-04'
+- id: 1068
+  text: En 2000 Paul Joseph Krutzen invente le mot Anthropocène pour indiquer que
+    la Terre est entrée dans une nouvelle ère géologique. Pour bien vivre dans cette
+    nouvelle ère, la collaboration sera nécessaire. Selon le ministère de la Transition
+    Ecologique 69% des déplacements domicile-travail sont réalisés avec des véhicules
+    individuels. Quel est l'estimation du pourcentage du covoiturage?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 1%
+  answer_option_b: 3%
+  answer_option_c: 5%
+  answer_option_d: 8%
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: La collaboration exprime l’action de participer à une œuvre,
+    de poursuivre un objectif avec d’autres vivants, dans une démarche d'entraide.
+    Pour répondre aux défis climatiques, sociaux et environnementaux, de nombreux
+    objectifs et besoins communs émergent aux niveaux individuels, collectifs et sociétaux
+    ; la collaboration entre vivants apparait alors comme un maillon essentiel. Elle
+    est présente à tous les niveaux, du covoiturage entre personnes dans les sociétés,
+    aux choix complémentaires des végétaux dans l’agriculture ; des synergies entre
+    espace urbain et rural, aux échanges import/export inter-territoires. On peut
+    partager, mutualiser l’usage, œuvrer et réfléchir ensemble, développer une vision
+    commune. Elle génère de l’efficacité et se relie à de nombreux autres chantiers,
+    comme la solidarité ou la sécurité.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.ecologie.gouv.fr/covoiturage-en-france-avantages-et-reglementation-en-vigueur#:~:text=70%25%20des%20d%C3%A9placements%20domicile%2Dtravail,la%20part%20du%20covoiturage%20quotidien.
+  answer_accessible_url_text: Co-voiturage du quotidien en France
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-04'
+  updated: '2022-08-04'
+- id: 1069
+  text: L'énergie est ce qui nous permet de transformer notre monde. Dans son rapport
+    intitulé "Futur énergétique 2050" RTE indique que la France consomme aujourd'hui
+    en énergie finale 1600TWh. Dans leur scénario quelle sera la consommation d'énergie
+    finale de la France en 2050 ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 13
+  - 39
+  - 45
+  - 100
+  - 102
+  - 218
+  - 256
+  difficulty: 1
+  language: Français
+  answer_option_a: 1280 TWh (-20%)
+  answer_option_b: 930 TWh (-40%)
+  answer_option_c: 880 TWh (-55%)
+  answer_option_d: 645 TWh (-60%)
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L’énergie est présente partout et soutient les activités humaines.
+    Elle est utilisée sous forme d’électricité, mais également massivement pour nos
+    besoins de chauffage et de mobilité. La transformation vers une forme plus décarbonée,
+    moins impactante pour la biodiversité est nécessaire, pour répondre aux défis
+    climatiques et sociétaux actuels. Pour cela, il est important de penser en système.
+    Premièrement, faire évoluer nos comportements de consommation vers la sobriété.
+    Et dans un même mouvement, favoriser les productions d’énergie renouvelables (chauffage,
+    électricité), les low-techs, les mobilités douces. Ceci incite également à une
+    réflexion sur la complémentarité des usages des sols, pour la production d’énergie,
+    l'agriculture ou la construction de bâtiments en milieu urbain par exemple.
+  answer_audio: https://france.makesense.org/media/6-podcasts-a-ecouter-pour-comprendre-la-transition-energetique/
+  answer_video: https://www.youtube.com/watch?v=bp7xYtqi4LI
+  answer_accessible_url: https://transition-energetique.eco/
+  answer_accessible_url_text: La Transition Energétique
+  answer_scientific_url: https://assets.rte-france.com/prod/public/2021-12/Futurs-Energetiques-2050-principaux-resultats.pdf
+  answer_scientific_url_text: '«Futurs Énergétiques 2050» : Pourquoi, Quand, Comment
+    ?'
+  answer_reading_recommendation: https://livre.fnac.com/a5272275/Jean-Marc-Jancovici-Transition-energetique-pour-tous
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-04'
+  updated: '2022-08-04'
+- id: 1070
+  text: Que représente l'artificialisation des terres en France ?
+  hint: ''
+  type: QCM-RM
+  category: null
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: L'équivalent d'un département engloutie en 10 ans
+  answer_option_b: L'équivalent d'environ 800 000 terrains de foot en 10 ans
+  answer_option_c: L'équivalent de 10 villes de la superficie de Paris en 10 ans
+  answer_option_d: L'équivalent de une grande ville de France en 10 ans
+  answer_correct: ab
+  has_ordered_answers: true
+  answer_explanation: "L'équivalent d'un département engloutie en 10 ans ! \r\nET\r\
+    \nL'équivalent d'env 800 000 terrains de foot en 10 ans !\r\n\r\nL’équivalent\
+    \ de 596 000 ha en dix ans ont été concernés par l'artificialisation des sols\
+    \ en France : \r\nEn France comme dans d’autres pays, du fait de l'étalement de\
+    \ notre urbanisation et de nos infrastructures, l'artificialisation des sols augmente.\
+    \ Ce phénomène consiste à transformer un sol naturel, agricole ou forestier, par\
+    \ des opérations d’aménagement pouvant entraîner une imperméabilisation partielle\
+    \ ou totale, afin de les affecter notamment à des fonctions urbaines ou de transport\
+    \ (habitat, activités, commerces, infrastructures, équipements publics…). En France,\
+    \ entre 20 000 et 30 000 hectares sont artificialisés chaque année. Cette artificialisation\
+    \ augmente presque 4 fois plus vite que la population, et a des répercussions\
+    \ directes sur la qualité de vie des citoyens mais aussi sur l’environnement.\
+    \ \r\nRénover, entretenir et isoler les bâtiments existants doit donc être la\
+    \ priorité !\r\n\r\nCelle-ci est en général robuste et optimisée pour les conditions\
+    \ climatiques. Elle fait la part belle à l’entretien et à la rénovation du patrimoine\
+    \ bâti, ne réservant qu’à la construction une part mineure du total (3 à 5% de\
+    \ la surface bâtie comme le taux de renouvellement actuel). Les matériaux de construction\
+    \ privilégient les filières d’éco-matériaux : ceux-ci signifient à la fois que\
+    \ la ville apporte d’autres débouchés aux productions agricoles que les récoltes\
+    \ alimentaires et que les matériaux doivent permettre de stocker du carbone de\
+    \ manière pérenne."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://artificialisation.developpement-durable.gouv.fr/
+  answer_accessible_url_text: Guide Pratique pour Limiter l'Artificialisation des
+    Sols
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: "Renovation Energetique : \r\nPlan Climat de Paris"
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-04'
+  updated: '2022-08-04'
+- id: 1071
+  text: D'après l'OMS, combien de décès prématurés seraient imputables à la qualité
+    de l'air chaque année ?
+  hint: ''
+  type: QCM
+  category: 3
+  tags:
+  - 220
+  difficulty: 2
+  language: Français
+  answer_option_a: 1 million
+  answer_option_b: 4 millions
+  answer_option_c: 7 millions
+  answer_option_d: 9 millions
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Selon l’OMS, chaque année environ 7 millions de décès prématurés\
+    \ sont dus aux effets de la pollution de l’air, dont plus de 4 millions en lien\
+    \ avec l’air ambiant.La pollution atmosphérique constitue donc un enjeu de santé\
+    \ publique mondial.\r\nC’est une couche d’air qui unit l’ensemble de la fresque,\
+    \ c’est le résultat de ce que nous avons sur terre (concentration carbone, etc).\
+    \ C’est un bien commun partagé. Prenons conscience de la très fine pellicule qui\
+    \ nous fait vivre - BeHives - technique d’empilage de briques circulation de l’air\
+    \ -  convection circulation de l’air dans les tuyaux rafraichis - pollution de\
+    \ l’air dans les villes  - pb de santé publique majeur - respect des normes"
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.santepubliquefrance.fr/les-actualites/2021/pollution-de-l-air-l-oms-revise-ses-seuils-de-reference-pour-les-principaux-polluants-atmospheriques
+  answer_accessible_url_text: 'Pollution de l’air : l’OMS révise ses seuils de référence
+    pour les principaux polluants atmosphériques'
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-04'
+  updated: '2022-08-04'
+- id: 1072
+  text: Selon le rapport de France Stratégie sur l'artificialisation des sols, reprenant
+    l'enquête Teruti-Lucas quel pourcentage du total des sols artificialisés est du
+    aux infrastructures de transport?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 11%
+  answer_option_b: 16%
+  answer_option_c: 22%
+  answer_option_d: 28%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "La bonne réponse est 28%. \r\nHabitat 42% - Infrastructure\
+    \ de services et loisirs 16% - Foncier économique 14%\r\nCe sont l’ensemble des\
+    \ éléments servant de fondation aux ouvrages, installations, constructions ou\
+    \ équipements interconnectés permettant la réalisation d’activités économiques\
+    \ diverses qui aménagent le territoire et permettent la circulation de grands\
+    \ flux (ponts, aéroports, voies ferrées et fluviales, autoroutes). Aujourd’hui,\
+    \ leur vieillissement les rend très vulnérables aux dérèglements climatiques et\
+    \ implique de les entretenir continuellement, de les réhabiliter avec des matériaux\
+    \ écologiques, d’optimiser leur utilisation voire d’envisager leur reconversion."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-rapport-2019-artificialisation-juillet.pdf
+  answer_accessible_url_text: 'Objectif « Zéro artificialisation nette » : quels leviers
+    pour protéger les sols ?'
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-04'
+  updated: '2022-08-04'
