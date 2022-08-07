@@ -39777,7 +39777,7 @@
   answer_option_a: As likely as unlikely
   answer_option_b: Likely
   answer_option_c: Very likely
-  answer_option_d: Absolutely sure
+  answer_option_d: unequivocal
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Since the last IPCC report (AR6) issued in 2021, this is a unequivocally
@@ -39802,9 +39802,10 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-08-05'
 - id: 1035
-  text: What would be the earth surface temperature without greenhouse effect ?
+  text: What would be the average earth surface temperature without greenhouse effect
+    ?
   hint: ''
   type: QCM
   category: 1
@@ -39836,7 +39837,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-23'
+  updated: '2022-08-05'
 - id: 1036
   text: 21,000 years ago, it was ice age, with an average temperature on earth 5°C
     lower than today's. How long did it take to warm up up to today's temperature?
@@ -41438,3 +41439,122 @@
   validation_date: null
   created: '2022-08-04'
   updated: '2022-08-04'
+- id: 1073
+  text: Quel est le taux de pauvreté des familles monoparentales en France ?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 8%
+  answer_option_b: 18%
+  answer_option_c: 26%
+  answer_option_d: 34%
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Le taux de pauvreté des familles monoparentales est de 18 %,\
+    \ un taux qui est deux fois plus élevé que la moyenne nationale. Au total, plus\
+    \ d’un million de personnes, parents et enfants compris, vivent dans une famille\
+    \ monoparentale avec un niveau de  vie inférieur au seuil de pauvreté, soit avec\
+    \ au maximum 1 400 euros net par mois pour un parent et ses deux enfants.\r\n\
+    La définition d'une famille c'est une communauté de personnes réunies par les\
+    \ liens de parenté. Existant dans toutes les sociétés humaines, elle crée entre\
+    \ ses membres une obligation de solidarité morale. Elle représente l’unité de\
+    \ base de la société, mais aussi le principal lieu d’éducation et de solidarités."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-05'
+  updated: '2022-08-05'
+- id: 1074
+  text: Que signifie étymologiquement le mot "religion" ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Ce qui relie
+  answer_option_b: Ce qui régit
+  answer_option_c: Ce qui relègue
+  answer_option_d: Ce qui se fie
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 'Etymologiquement, la religion est « ce qui relie », et la spiritualité
+    s’y rattache par leurs liens à l’esprit, au monde intérieur, à plus grand que
+    soi, que l’humanité, de reliance au(x) vivant(s). Il est question de religions
+    au pluriel et de spiritualité au sens large, de coexistence et d’interactions.
+    C’est l’espace-temps des réponses, souvent individuelles, parfois partagées, aux
+    grandes questions intérieures et existentielles. Il symbolise également une source
+    d’inspiration collective, de foi, d’éthique, permettant nos transitions face aux
+    défis individuels et sociétaux. L’acceptation de la diversité y occupe une place
+    prépondérante, et soutient les humains dans leur quête de réponse à ces questions
+    : Quelle est ma part dans la construction de la cité terrestre ? Quelle est ma
+    place dans le monde des vivants ?'
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-05'
+  updated: '2022-08-05'
+- id: 1075
+  text: Combien y-a-t-il de bénévoles en France ?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 5 millions
+  answer_option_b: 12 millions
+  answer_option_c: 17 millions
+  answer_option_d: 20 millions
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: 'La solidarité est définie comme une relation entre personnes
+    qui entraîne une obligation morale d''assistance mutuelle. La scène de palabre
+    entre vieillards et jeux d’enfants évoque la solidarité, et avec elle la place
+    faite aux plus faibles (des plus jeunes aux plus anciens). Cet ensemble forme
+    toute l’organisation sociale : la famille est ainsi liée aux religions et à la
+    spiritualité, à la culture mais aussi à la finance.'
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 65
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-05'
+  updated: '2022-08-05'
