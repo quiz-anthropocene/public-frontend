@@ -1431,11 +1431,12 @@
   - 472
   - 789
   - 856
+  - 1076
   tags:
   - 9
   - 21
   - 223
-  difficulty_average: 2.6
+  difficulty_average: 2.7
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000071-ada4.jpg
   has_audio: false
@@ -1448,7 +1449,7 @@
   publish_date: null
   spotlight: false
   created: '2021-04-26'
-  updated: '2022-04-16'
+  updated: '2022-08-14'
 - id: 73
   name: Forgotten Low Techs
   slug: forgotten-low-techs

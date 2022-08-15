@@ -41558,3 +41558,77 @@
   validation_date: null
   created: '2022-08-05'
   updated: '2022-08-05'
+- id: 1076
+  text: 'La capacité thermique de l''eau est :'
+  hint: ''
+  type: QCM
+  category: 5
+  tags:
+  - 37
+  - 96
+  - 218
+  difficulty: 3
+  language: Français
+  answer_option_a: 100 fois inférieure à celle de l'air
+  answer_option_b: équivalente à celle de l'air
+  answer_option_c: 10 fois supérieure à celle de l'air
+  answer_option_d: 1000 fois supérieure à celle de l'air
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 24
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-14'
+  updated: '2022-08-14'
+- id: 1077
+  text: Aquaculture...
+  hint: ''
+  type: QCM
+  category: 7
+  tags:
+  - 5
+  - 21
+  - 223
+  difficulty: 3
+  language: Français
+  answer_option_a: Les volumes de produits consommés sont équivalents à ceux issus
+    de la pêche.
+  answer_option_b: Les volumes de produits consommés sont sensiblement supérieurs
+    à ceux issus de la pêche.
+  answer_option_c: a connu un très fort développement jusqu'aux années 2010 mais décline
+    depuis cette période.
+  answer_option_d: a connu un très fort développement qui se maintient depuis plusieurs
+    décennies.
+  answer_correct: bd
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 24
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-08-14'
+  updated: '2022-08-14'
