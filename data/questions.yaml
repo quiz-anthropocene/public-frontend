@@ -39915,7 +39915,7 @@
   created: '2022-06-19'
   updated: '2022-07-23'
 - id: 1038
-  text: Let's imagine 'Cowland', a country where all cows of the word would live.
+  text: Let's imagine 'Cowland', a country where all cows of the world would be living.
     Which rank would that country have in terms of greenhouse gases emissions?
   hint: ''
   type: QCM
@@ -39952,7 +39952,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-23'
+  updated: '2022-08-17'
 - id: 1039
   text: What happens to CO2 once it has been release by human activities?
   hint: ''
@@ -40094,8 +40094,8 @@
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: "The sea level has increased by approximately 30cm since the\
-    \ beginning of the industrial era (1850).\r\nA rise of 1m by 2100 is possible\
-    \ in some IPCC scenarios."
+    \ beginning of the industrial era (1850).\r\nIn IPCC's worst-case scenario (SSP\
+    \ 8.5), a rise of 1m by 2100 is possible."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level
@@ -40113,7 +40113,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2022-08-17'
 - id: 1043
   text: In the lack of human response to mitigate climate change, how many people
     will live in areas with temperatures warmer than the Sahara ( currently) within

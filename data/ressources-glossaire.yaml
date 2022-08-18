@@ -1,14 +1,11 @@
-- id: 1
-  name: ADEME
+- name: ADEME
   name_alternatives: ''
   definition_short: Agence de l'Environnement et de la Maîtrise de l'Energie
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Agence_de_l'environnement_et_de_la_ma%C3%AEtrise_de_l'%C3%A9nergie
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 2
-  name: Anthropocène
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Anthropocène
   name_alternatives: ''
   definition_short: Ère géologique actuelle, où les activités humaines ont un impact
     sur la terre comparable aux forces géologiques.
@@ -16,11 +13,9 @@
     de l’Anthropocène avec celui de la révolution industrielle, au XVIIIe siècle,
     succédant ainsi à l'Holocène.
   description_accessible_url: https://fr.wikipedia.org/wiki/Anthropoc%C3%A8ne
-  added: 2020-11-18
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 3
-  name: Bioénergies
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Bioénergies
   name_alternatives: ''
   definition_short: Biogaz, biomasse, déchets ménagers
   description: Le mot désigne les formes d'énergie stockées par la biomasse. Elle
@@ -28,20 +23,16 @@
     des carburants. Tant qu'elle n'est pas surexploitée, elle est considérée comme
     « renouvelable ».
   description_accessible_url: https://fr.wikipedia.org/wiki/Bio%C3%A9nergie
-  added: 2020-06-25
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 4
-  name: CGDD
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: CGDD
   name_alternatives: ''
   definition_short: Commissariat Général au Développement Durable
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Commissariat_g%C3%A9n%C3%A9ral_au_d%C3%A9veloppement_durable
-  added: 2020-06-24
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 5
-  name: CO2e
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: CO2e
   name_alternatives: eqCO2, éq. CO2, CO2-eq, CO2eq
   definition_short: équivalent CO2
   description: L'équivalent CO2 est, pour un gaz à effet de serre, la quantité de
@@ -50,11 +41,9 @@
     le cas d’un mélange de GES, l’émission en équivalent CO2 est obtenue en additionnant
     les émissions en équivalent CO2 de chacun des gaz.
   description_accessible_url: https://fr.wikipedia.org/wiki/%C3%89quivalent_CO2
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 6
-  name: COP
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: COP
   name_alternatives: COP1, COP21
   definition_short: Conference Of the Parties (conférence des parties)
   description: La Conférence des parties, également appelée Conférence des États signataires,
@@ -64,98 +53,78 @@
     internationaux pour faire face aux changements climatiques. La COP1 a eu lieu
     en 2009 à Berlin, la COP21 en 2015 à Paris.
   description_accessible_url: https://fr.wikipedia.org/wiki/Conférence_des_parties
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 7
-  name: Forçage radiatif
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Forçage radiatif
   name_alternatives: ''
   definition_short: ''
   description: La contribution instantanée au réchauffement d’un GES est fonction
     de sa concentration dans l’atmosphère (exprimé en W/m2).
   description_accessible_url: ''
-  added: 2020-06-25
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 8
-  name: GES
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: GES
   name_alternatives: ''
   definition_short: Gaz à Effet de Serre
   description: GES signifie gaz à effet de serre (vapeur d’eau, CO2, méthane, protoxyde
     d’azote, CFC, HFC, ...)
   description_accessible_url: https://fr.wikipedia.org/wiki/Gaz_à_effet_de_serre
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 9
-  name: GIEC
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: GIEC
   name_alternatives: IPCC
   definition_short: Groupe d'experts intergouvernemental sur l'évolution du climat
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Groupe_d'experts_intergouvernemental_sur_l'%C3%A9volution_du_climat
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 10
-  name: GW
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: GW
   name_alternatives: ''
   definition_short: Gigawatt
   description: Le gigawatt (GW) est une unité de puissance, correspondant à 1 milliard
     de watts
   description_accessible_url: https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_puissance#Gigawatt_(109_watts)
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 11
-  name: IEA
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: IEA
   name_alternatives: AIE
   definition_short: International Energy Agency
   description: Agence Internationale de l'Energie
   description_accessible_url: https://fr.wikipedia.org/wiki/Agence_internationale_de_l%27%C3%A9nergie
-  added: 2020-06-24
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 12
-  name: INRAE
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: INRAE
   name_alternatives: INRA, IRSTEA
   definition_short: Institut national de recherche pour l'agriculture, l'alimentation
     et l'environnement
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Institut_national_de_recherche_pour_l%27agriculture,_l%27alimentation_et_l%27environnement
-  added: 2020-06-24
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 13
-  name: IPBES
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: IPBES
   name_alternatives: ''
   definition_short: Plateforme intergouvernementale scientifique et politique sur
     la biodiversité et les services écosystémiques (« GIEC de la biodiversité »)
   description: ''
   description_accessible_url: Plateforme intergouvernementale scientifique et politique
     sur la biodiversité et les services écosystémiques
-  added: 2020-06-24
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 14
-  name: MTES
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: MTES
   name_alternatives: ''
   definition_short: Ministère de la Transition Ecologique et Solidaire
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27%C3%89cologie_(France)
-  added: 2020-06-24
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 15
-  name: ppm
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: ppm
   name_alternatives: ''
   definition_short: partie par million (0,0001%)
   description: 10,000 ppm = 1%
   description_accessible_url: https://fr.wikipedia.org/wiki/Partie_par_million
-  added: 2020-06-17
-  created: 2020-12-13
-  updated: 2020-12-13
-- id: 16
-  name: PRG
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: PRG
   name_alternatives: pouvoir de réchauffement global, potentiel de réchauffement climatique,
     PRC, global warming potential, GWP
   definition_short: Pouvoir de réchauffement global
@@ -164,6 +133,209 @@
     vers le sol), cumulé sur une durée qui est généralement fixée à 100 ans, d’une
     quantité de gaz donnée.
   description_accessible_url: https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global
-  added: 2020-06-25
-  created: 2020-12-13
-  updated: 2020-12-13
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Anthropique
+  name_alternatives: ''
+  definition_short: Dû à l'activité humaine
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Arable
+  name_alternatives: ''
+  definition_short: Qui peut être labouré
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Biocapacité
+  name_alternatives: ''
+  definition_short: Capacité pour une zone donnée à générer une offre continue en
+    ressources renouvelables et à absorber les déchets découlant de leur consommation.
+  description: "Elle peut aussi être exprimée en hectares globaux. La biocapacité\
+    \ d’une zone n’est pas figée. En effet étant plus importante dans l’ordre pour\
+    \ les champs cultivés, les forêts et enfin les pâturages, elle peut donc être\
+    \ plus ou moins grande suivant l’affectation qu'on donne à ces terrains, de la\
+    \ fertilité de ceux-ci ou encore des techniques de production utilisées.\r\nLa\
+    \ biocapacité peut être assimilée à une empreinte écologique disponible.\r\nSi\
+    \ l’empreinte écologique (demande) d’une zone est supérieure à sa biocapacité\
+    \ (offre), alors cette zone n’est pas utilisée de manière durable."
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Biodiversité
+  name_alternatives: ''
+  definition_short: Diversité des organismes vivants (écosystèmes, espèces, populations…)
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Biote
+  name_alternatives: ''
+  definition_short: Organismes vivants et micro-organismes présents dans un habitat
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Circularité
+  name_alternatives: ''
+  definition_short: Eliminer la notion de "déchets" en les réinjectant comme matière
+    première ou comme objet (ré)utilisable.
+  description: 'L''idée est de mimer la nature en éliminant la notion de "déchet"
+    : tout produit ou externalité en fin de chaîne trouve une utilité en début de
+    chaîne (matières premières), par exemple à travers un recyclage efficace. Tous
+    les maillons du processus économique sont susceptibles de devenir circulaires,
+    pour immobiliser les ressources plus longtemps (partage & réemploi d''objets,
+    réparation, remise à neuf, refabrication ...). Mais la croissance et les limites
+    physiques la rendent théoriquement inatteignable à 100%.'
+  description_accessible_url: https://fr.wikipedia.org/wiki/%C3%89conomie_circulaire
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Cryosphère
+  name_alternatives: ''
+  definition_short: Toutes les portions de la surface des mers ou terres émergées
+    où l'eau est présente à l'état solide
+  description: 'Représente les composantes du système Terre à l’état gelé, situées
+    sur et sous la surface des terres émergées et à la surface de l’océan : manteau
+    neigeux, glaciers, calottes glaciaires, plates-formes de glace, icebergs, glace
+    de mer (banquise), glace de lac et de rivière, pergélisol, sol gelé saisonnier.'
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Empreinte Carbone
+  name_alternatives: ''
+  definition_short: Quantité de gaz à effet dues à notre consommation, c'est-à-dire
+    incluant les importations.
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Empreinte environnementale
+  name_alternatives: ''
+  definition_short: Mesure les surfaces de terres et d’eau nécessaires pour produire
+    les ressources qu’une population consomme et pour absorber les déchets qu’elle
+    génère
+  description: "Cette surface est exprimée en hectares globaux (gha, abréviation de\
+    \ l'anglais \"global hectare\"), c’est à dire en hectares ayant une capacité de\
+    \ production de ressources et d'absorption de déchets correspondant à la moyenne\
+    \ mondiale. Cette surface comprend :\r\n- celle des terres cultivées, des pâturages,\
+    \ des forêts et des zones de pêche nécessaires pour produire nourriture, huiles,\
+    \ fibres textiles, bois,...\r\n- celle utilisée pour les infrastructures (routes,\
+    \ bâtiments...)\r\n- et enfin celle nécessaire pour traiter les déchets et pour\
+    \ absorber le gaz carbonique libéré par les activités humaines."
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Fermentation entérique
+  name_alternatives: ''
+  definition_short: Digestion des ruminants, qui dégage du méthane
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Hydroélectricité
+  name_alternatives: Energie hydroélectrique
+  definition_short: Energie issue de la conversion de l'énergie hydraulique en électricité.
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Inventaire National
+  name_alternatives: ''
+  definition_short: Quantité de gaz à effet de serre émise sur un territoire donné.
+    Ne prend pas en compte les émissions importées.
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Microplastique
+  name_alternatives: ''
+  definition_short: Particule de matière plastique de moins de 5 millimètres dispersées
+    dans l'environnement.
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: NOx
+  name_alternatives: Oxydes d'azote
+  definition_short: Terme générique qui englobe un groupe de gaz hautement réactifs,
+    tous contenant de l’azote et de l’oxygène dans des quantités différent
+  description: 'Les vapeurs nitreuses sont toxiques, et constituent une source croissante
+    de la pollution de l''air : elles contribuent à l''effet de serre et au dérèglement
+    climatique, et sont acidifiantes et eutrophisantes ; les NOx sont devenus la principale
+    source des pluies acides (alors que la pollution par les oxydes de soufre a régressé)
+    et de l''acidification des eaux douces.'
+  description_accessible_url: https://fr.wikipedia.org/wiki/Oxyde_d%27azote
+  created: '2020-12-13'
+  updated: '2022-07-18'
+- name: Pic pétrolier
+  name_alternatives: Pic de pétrole
+  definition_short: Moment où l'extraction de pétrole atteint son niveau maximal avant
+    de décroître inexorablement (pour un gisement ou pour une aire donnée)
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: PNUE
+  name_alternatives: UNEP
+  definition_short: Programme des Nations Unies pour l'Environnement
+  description: "Principale autorité mondiale en matière d'environnement. L'organisation\
+    \ définit le programme environnemental mondial, favorise la mise en œuvre cohérente\
+    \ de la dimension environnementale du développement durable au sein du système\
+    \ des Nations Unies et sert de défenseur de l'environnement mondial.\r\nSa mission\
+    \ est d'offrir un leadership et d'encourager les partenariats dans la prise en\
+    \ charge de l'environnement en étant exemplaire, en informant et en permettant\
+    \ aux nations et aux peuples d'améliorer leur qualité de vie sans compromettre\
+    \ celle des générations futures."
+  description_accessible_url: https://www.unep.org/fr/propos-donu-environnement
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: RPK
+  name_alternatives: RSK, voyageur-kilomètre, passager-kilomètre
+  definition_short: Unité de mesure de quantité de transport correspondant au transport
+    d'une personne sur un kilomètre.
+  description: "Ou en Français « passager-kilomètre payant »\r\nUnité de mesure de\
+    \ quantité de transport correspondant au transport d'une personne sur un kilomètre.\r\
+    \nLa somme de tous les sièges (= passagers) x km vendus dans l'année est la métrique\
+    \ qui traduit l'activité du secteur aérien."
+  description_accessible_url: https://fr.wikipedia.org/wiki/Voyageur-kilom%C3%A8tre
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Réserves prouvées
+  name_alternatives: ''
+  definition_short: Réserves d’une ressource non-renouvelable qu’il est rentable d’exploiter
+    avec les techniques disponibles
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Réserves ultimes
+  name_alternatives: ''
+  definition_short: Ensemble des réserves estimées d’une ressource non-renouvelable
+  description: A distinguer des réserves prouvées
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: Tonnes.km
+  name_alternatives: ''
+  definition_short: 1 tonne.km = 1 tonne transportée sur un km. C'est l'unité de base
+    du fret.
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: VAE
+  name_alternatives: ''
+  definition_short: Vélo à Assistance Electrique
+  description: ''
+  description_accessible_url: ''
+  created: '2020-12-13'
+  updated: '2020-12-13'
+- name: OMS
+  name_alternatives: ''
+  definition_short: Organisation Mondiale de la Santé
+  description: ''
+  description_accessible_url: ''
+  created: '2022-07-18'
+  updated: '2022-07-18'
