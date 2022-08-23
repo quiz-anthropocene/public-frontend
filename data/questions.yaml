@@ -41527,7 +41527,7 @@
   type: QCM
   category: 8
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: 5 millions
   answer_option_b: 12 millions
@@ -41543,8 +41543,9 @@
     spiritualité, à la culture mais aussi à la finance.'
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.francebenevolat.org/sites/default/files/DOCUMENTATION/ETUDE_Evol%20b%C3%A9n%C3%A9volat%20associatif%20en%202019_DEF.pdf
+  answer_accessible_url_text: L'evolution de l'engagement de bénévole associatif en
+    France
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -41557,7 +41558,7 @@
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-05'
+  updated: '2022-08-22'
 - id: 1076
   text: 'La capacité thermique de l''eau est :'
   hint: ''
