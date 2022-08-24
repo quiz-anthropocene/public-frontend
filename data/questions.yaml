@@ -40518,13 +40518,13 @@
     pour la ville : Pédagogie de la nature, aménagement, santé publique, préservation
     de la biodiversité, production alimentaire et bienfait social.'
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=WpuPO0abMVo&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA
   answer_accessible_url: https://agirpourlatransition.ademe.fr/collectivites/sites/default/files/2020-10/agriculture-urbaine-comprendre.pdf
   answer_accessible_url_text: Comprendre l'Agriculture Urbaine
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d3e959d3.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -40533,7 +40533,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2022-07-28'
+  updated: '2022-08-23'
 - id: 1053
   text: Quels sont les 3 piliers sur lesquels repose la biodiversité ?
   hint: ''
@@ -40562,13 +40562,13 @@
     voir ici en ville, en campagne, en montagne, en forêt, et c’est cet équilibre
     dynamique du vivant et de nos sociétés qui pourra perdurer.'
   answer_audio: ''
-  answer_video: https://www.youtube.com/watch?v=GuS9EU4iRjw
+  answer_video: https://www.youtube.com/watch?v=ET9HuZiofIM&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=2
   answer_accessible_url: https://www.ofb.gouv.fr/quest-ce-que-la-biodiversite
   answer_accessible_url_text: Qu'est-ce que c'est la biodiversité ?
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/00732680.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e3350d9b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -40577,7 +40577,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2022-08-02'
+  updated: '2022-08-23'
 - id: 1054
   text: Les comportements de consommation ont-ils un impact direct sur les 4 enjeux
     des transitions écologiques, à savoir le changement climatique, l'érosion de la
@@ -40611,7 +40611,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6ff0f3f2.jpg
   answer_image_explanation: ''
   answer_extra_info: Si vous voulez aller plus loin pour comprendre de quo s'agit
     la consommation inutile, n'hésitez pas à consulter cet entretien avec l'auteur
@@ -40622,7 +40622,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2022-07-29'
+  updated: '2022-08-23'
 - id: 1055
   text: Quelle a été la hausse enregistrée en France de la consommation de produits
     issus du commerce équitable entre 2013 et 2016 ?
@@ -40657,7 +40657,7 @@
   answer_scientific_url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924
   answer_scientific_url_text: La Loi Climat Résilience de 2021
   answer_reading_recommendation: https://economiemagazine.fr/actualites/10-livres-sur-le-commerce-equitable
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2c7c3638.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Vous trouverez ici une vidéo qui cible la commerce équitable
     et les effets sur la vie des femmes : https://www.youtube.com/watch?v=VtHLvAvSOCM'
@@ -40667,17 +40667,17 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2022-07-29'
+  updated: '2022-08-23'
 - id: 1056
   text: En quoi consiste la finance durable ?
   hint: ''
   type: QCM
   category: 7
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: Compenser nos achats dans la plantation d'arbres
-  answer_option_b: ontribuer de manière substancielle à au moins 1 des 6 objetifs
+  answer_option_b: Contribuer de manière substancielle à au moins 1 des 6 objetifs
     environnementaux (Atténuation et adaptation au changement climatique ; utilisation
     durable et protection des ressources aquatiques et marine ; transition vers une
     économie cirvculiare prévention et contrôle de la pollution ; protection et  restauration  de  la  biodiversité  et  des
@@ -40702,13 +40702,13 @@
     et solidaire, au sein de trois modèles : l’investissement socialement responsable,
     la finance verte et la finance solidaire (finance du social business).'
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=U7ecpRfHopY&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=19
   answer_accessible_url: https://observatoiredelafinancedurable.com/fr/presentation/la-finance-durable/
   answer_accessible_url_text: Qu'est-ce que c'est la finance durable ?
   answer_scientific_url: https://www.banque-france.fr/sites/default/files/medias/documents/taxonomie_2_publiee_20211011.pdf
   answer_scientific_url_text: La Taxonomie Verte Européene
   answer_reading_recommendation: https://bonpote.com/lillusion-de-la-finance-verte-julien-le-fournier/
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8f80eba5.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -40717,7 +40717,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2022-07-29'
+  updated: '2022-08-23'
 - id: 1057
   text: Combien d'emplois la commission européenne estime t'elle que l'économie circulaire
     pourrait créer d'ici 2030?
@@ -40751,7 +40751,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: https://livre.fnac.com/a3323385/Michael-Braungart-Cradle-to-cradle
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5da32b13.jpg
   answer_image_explanation: Industrie
   answer_extra_info: ''
   author: 65
@@ -40760,7 +40760,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-01'
+  updated: '2022-08-23'
 - id: 1058
   text: Qu'est ce qu'une forêt primaire ?
   hint: ''
@@ -40794,7 +40794,7 @@
   answer_scientific_url: http://www.vieillesforets.com/wp-content/uploads/2019/06/LA-RECHERCHE-ANNICK-SCHNITZER-LENOBLE.pdf
   answer_scientific_url_text: En Europe, la forêt primaire
   answer_reading_recommendation: https://www.rtbf.be/article/francis-halle-pour-recreer-une-foret-primaire-en-europe-il-ne-faut-rien-faire-juste-laisser-la-nature-travailler-par-elle-meme-10662865?id=10662865&programId=60
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ab736743.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Vous trouverez plus d''infos sur la gestion des forêts en France
     et la cycle de régeneration des forêts sur le site de l''Office National de Forêts
@@ -40805,7 +40805,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-01'
+  updated: '2022-08-23'
 - id: 1059
   text: Combien de litres d'eau et de kilomètres sont nécessaires à la fabrication
     et commercialisation d'un jean neuf?
@@ -40853,12 +40853,12 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-01'
+  updated: '2022-08-23'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
   type: QCM
-  category: 7
+  category: 8
   tags:
   - 9
   difficulty: 1
@@ -40879,14 +40879,14 @@
     économique et de l’emploi mais à condition que celle-ci soit respectueuse du climat,
     neutre en carbone et offre un modèle de tourisme et de transport durables.
   answer_audio: https://www.radiofrance.fr/franceculture/podcasts/selection-sciences-12-emissions-sur-les-oceans
-  answer_video: https://www.youtube.com/watch?v=9Jlb-wm4bEs
+  answer_video: https://www.youtube.com/watch?v=k4G6eQJGcRM
   answer_accessible_url: https://wwz.ifremer.fr/L-ocean-pour-tous/Nos-ressources-pedagogiques/Comprendre-les-oceans/Ocean-et-climat/Dictionnaire-de-la-COP21-comprendre-les-liens-entre-oceans-et-climat
   answer_accessible_url_text: Comprendre les liens entre les océans et le changement
     climatique
   answer_scientific_url: https://ocean-climate.org/resumes-des-fiches-scientifiques-ocean-et-climat/
   answer_scientific_url_text: 17 Fiches Océan et Climat
   answer_reading_recommendation: https://www.editions-lepommier.fr/150-questions-sur-locean-et-le-climat#anchor1
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0ed0b559.jpg
   answer_image_explanation: Les Océans
   answer_extra_info: "Pour aller plus loin, une article par La Fondation Surfrider\
     \ sur le réchauffement climatique et les océans : https://surfrider.eu/wp-content/uploads/2016/04/6_le_changement_climatique_et_les_oceans.pdf\r\
@@ -40898,7 +40898,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-02'
+  updated: '2022-08-23'
 - id: 1061
   text: En 1977 l’Unesco et le PNUE organise la conférence de Tbilissi sur le thème
     de l’Education à l’environnement. Le rapport indique que face à la complexité
@@ -40936,7 +40936,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: L'Education au Développement Durable
   answer_reading_recommendation: https://livre.fnac.com/a7359819/Arnaud-Diemer-Education-au-developpement-durable
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/608ffc2a.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Vous trouverez des ressources pour le grand publique de L''Office
     for Climate Education ici : https://www.oce.global/fr/ressources/grand-public'
@@ -40946,7 +40946,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2022-08-02'
+  updated: '2022-08-23'
 - id: 1062
   text: Dans quelle commune de France un système de gouvernance collégiale a été expérimenté
     entre 2014 et 2020 ?
@@ -40972,13 +40972,13 @@
     ensemble et éviter les conflits d’usage des sols, assurer une bonne gestion des
     ressources stratégiques : l’eau, les forêts, la biodiversité, l’énergie et l’air.'
   answer_audio: ''
-  answer_video: https://www.youtube.com/watch?v=_iWcGntwwtw
+  answer_video: https://www.youtube.com/watch?v=3MukJPrAhJ4&list=PLylaYILeDmB9SCsnGjD9-QwIO1gnyThcA&index=11
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fefc2708.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -40987,7 +40987,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2022-08-02'
+  updated: '2022-08-23'
 - id: 1063
   text: Que décrit un DICRIM (Document d’Information Communal sur les Risques Majeurs)
     ?
@@ -40998,10 +40998,9 @@
   difficulty: 1
   language: Français
   answer_option_a: les risques naturels et technologiques
-  answer_option_b: les conséquences sur les personnes et les biens et les mesures
-    individuelles et collectives de prévention, de protection et de sauvegarde mises
-    en œuvre
-  answer_option_c: es événements et accidents significatifs survenus dans la commune
+  answer_option_b: les conséquences sur les personnes, les biens, et les mesures individuelles
+    et collectives de prévention, de protection et de sauvegarde mises en œuvre
+  answer_option_c: les événements et accidents significatifs survenus dans la commune
     (circulaire du 20 juin 2005), et les moyens d’alerte en cas d'évènement ou de
     danger
   answer_option_d: ''
@@ -41020,7 +41019,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2c2af881.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41029,13 +41028,13 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2022-08-02'
+  updated: '2022-08-23'
 - id: 1064
   text: Lesquelles des caractéristiques suivantes s'appliquent à l'agroécologie ?
-    (plusieurs réponses possibles)
-  hint: ''
-  type: QCM
-  category: null
+    (
+  hint: Plusieurs réponses sont possibles !
+  type: QCM-RM
+  category: 4
   tags: []
   difficulty: 1
   language: Français
@@ -41043,7 +41042,7 @@
   answer_option_b: Accroît la pauvreté rurale
   answer_option_c: Contribue à améliorer les qualités nutritives des aliments
   answer_option_d: Contribue à l'adaptation au changement climatique
-  answer_correct: abd
+  answer_correct: acd
   has_ordered_answers: true
   answer_explanation: C’est une nouvelle vision de l’agriculture qui regroupe diverses
     techniques agricoles souvent traditionnelles dont le but est de permettre de nourrir
@@ -41061,7 +41060,7 @@
   answer_scientific_url: https://hal.archives-ouvertes.fr/hal-01298955/document
   answer_scientific_url_text: Livre sur la mise en pratique
   answer_reading_recommendation: https://books.google.fr/books?hl=en&lr=&id=3ztKDgAAQBAJ&oi=fnd&pg=PA91&dq=agroecologie&ots=kQLdBqI6Ni&sig=7ciNB8hmxIBabzJWaRqVdUB9P7g#v=onepage&q&f=false
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/292965f2.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41070,7 +41069,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2022-08-03'
+  updated: '2022-08-23'
 - id: 1065
   text: Quelle est la part d'eau douce sur Terre ?
   hint: ''
@@ -41101,7 +41100,7 @@
   answer_scientific_url_text: Guide détaillée sur les effets du réchauffement climatique
     sur l'eau
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f5437b4.jpg
   answer_image_explanation: ''
   answer_extra_info: 'Guide Détaillée sur les effets du réchauffement climatique sur
     l''eau : https://read.oecd-ilibrary.org/environment/l-eau-et-adaptation-au-changement-climatique_9789264200647-fr#page5'
@@ -41111,10 +41110,9 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2022-08-03'
+  updated: '2022-08-23'
 - id: 1066
-  text: 'Vrai ou faux : La culture n''est pas un secteur concerné par le changement
-    climatique.'
+  text: La culture n'est pas un secteur concerné par le changement climatique.
   hint: ''
   type: VF
   category: 6
@@ -41127,20 +41125,21 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Dimension vernaculaire et populaire de la culture, des chants\
-    \ des traditions, des styles vestimentaires, des modes esthétiques qui fondent\
-    \ le patrimoine et se transmettent d’une génération à l’autre.\r\nLa culture est\
-    \ un fondement de l’éducation : l’éveil au monde des nouveaux-nés commence par\
-    \ les chansons, comptines et autres comptes et légendes, hérités de nos ancêtres.\
-    \ La problématique du changement climatique étant généralement analysée au travers\r\
-    \nde secteurs tels que l’agriculture, le bâtiment, l’industrie ou les transports,\
-    \ le secteur de la culture ne se sent pas directement concerné. Pourtant, la culture,\
-    \ comme l’ensemble des activités humaines, utilise des énergies fossiles pour\
-    \ chauffer et éclairer les nombreux bâtiments culturels, pour l'alimentation et\
-    \ les déplacements des équipes artistiques et techniques, mais surtout des spectateurs.\
-    \ Elle doit donc aussi se transformer pour réduire ses émissions de GES et assurer\
-    \ sa résilience, car en cas de choc énergétique, climatique ou sanitaire, comme\
-    \ nous le voyons aujourd'hui, sa pérennité à court terme est fortement menacée."
+  answer_explanation: "Ce chantier parle de la dimension vernaculaire et populaire\
+    \ de la culture, des chants des traditions, des styles vestimentaires, des modes\
+    \ esthétiques qui fondent le patrimoine et se transmettent d’une génération à\
+    \ l’autre.\r\nLa culture est un fondement de l’éducation : l’éveil au monde des\
+    \ nouveaux-nés commence par les chansons, comptines et autres comptes et légendes,\
+    \ hérités de nos ancêtres. La problématique du changement climatique étant généralement\
+    \ analysée au travers\r\nde secteurs tels que l’agriculture, le bâtiment, l’industrie\
+    \ ou les transports, le secteur de la culture ne se sent pas directement concerné.\
+    \ Pourtant, la culture, comme l’ensemble des activités humaines, utilise des énergies\
+    \ fossiles pour chauffer et éclairer les nombreux bâtiments culturels, pour l'alimentation\
+    \ et les déplacements des équipes artistiques et techniques, mais surtout des\
+    \ spectateurs. Elle doit donc aussi se transformer pour réduire ses émissions\
+    \ de GES et assurer sa résilience, car en cas de choc énergétique, climatique\
+    \ ou sanitaire, comme nous le voyons aujourd'hui, sa pérennité à court terme est\
+    \ fortement menacée."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://theshiftproject.org/wp-content/uploads/2021/11/211130-TSP-PTEF-Rapport-final-Culture-v2.pdf
@@ -41148,7 +41147,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/98f9a1f1.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41157,13 +41156,13 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2022-08-03'
+  updated: '2022-08-23'
 - id: 1067
   text: Quel est le pourcentage des trajets domicile-travail qui sont réalisés en
     voiture en France ?
   hint: ''
   type: QCM
-  category: null
+  category: 5
   tags: []
   difficulty: 1
   language: Français
@@ -41192,7 +41191,7 @@
   answer_scientific_url_text: Pour l’atténuation du changement climatique, quelle
     est la contribution possible de l’aménagement du territoire ?
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5c8988f5.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41201,7 +41200,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-04'
+  updated: '2022-08-23'
 - id: 1068
   text: En 2000 Paul Joseph Krutzen invente le mot Anthropocène pour indiquer que
     la Terre est entrée dans une nouvelle ère géologique. Pour bien vivre dans cette
@@ -41210,7 +41209,7 @@
     individuels. Quel est l'estimation du pourcentage du covoiturage?
   hint: ''
   type: QCM
-  category: null
+  category: 3
   tags: []
   difficulty: 1
   language: Français
@@ -41232,13 +41231,13 @@
     commune. Elle génère de l’efficacité et se relie à de nombreux autres chantiers,
     comme la solidarité ou la sécurité.
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=Yu8vIHrGnA8&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=20
   answer_accessible_url: https://www.ecologie.gouv.fr/covoiturage-en-france-avantages-et-reglementation-en-vigueur#:~:text=70%25%20des%20d%C3%A9placements%20domicile%2Dtravail,la%20part%20du%20covoiturage%20quotidien.
   answer_accessible_url_text: Co-voiturage du quotidien en France
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/355bec57.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41247,7 +41246,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-04'
+  updated: '2022-08-23'
 - id: 1069
   text: L'énergie est ce qui nous permet de transformer notre monde. Dans son rapport
     intitulé "Futur énergétique 2050" RTE indique que la France consomme aujourd'hui
@@ -41290,7 +41289,7 @@
   answer_scientific_url_text: '«Futurs Énergétiques 2050» : Pourquoi, Quand, Comment
     ?'
   answer_reading_recommendation: https://livre.fnac.com/a5272275/Jean-Marc-Jancovici-Transition-energetique-pour-tous
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/63238a8b.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41299,12 +41298,12 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-04'
+  updated: '2022-08-23'
 - id: 1070
   text: Que représente l'artificialisation des terres en France ?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 4
   tags: []
   difficulty: 3
   language: Français
@@ -41336,14 +41335,14 @@
     \ alimentaires et que les matériaux doivent permettre de stocker du carbone de\
     \ manière pérenne."
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=i-Gvt5AXTpI&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=4
   answer_accessible_url: https://artificialisation.developpement-durable.gouv.fr/
   answer_accessible_url_text: Guide Pratique pour Limiter l'Artificialisation des
     Sols
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/37fcef93.jpg
   answer_image_explanation: ''
   answer_extra_info: "Renovation Energetique : \r\nPlan Climat de Paris"
   author: 65
@@ -41352,7 +41351,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-04'
+  updated: '2022-08-23'
 - id: 1071
   text: D'après l'OMS, combien de décès prématurés seraient imputables à la qualité
     de l'air chaque année ?
@@ -41372,21 +41371,19 @@
   answer_explanation: "Selon l’OMS, chaque année environ 7 millions de décès prématurés\
     \ sont dus aux effets de la pollution de l’air, dont plus de 4 millions en lien\
     \ avec l’air ambiant.La pollution atmosphérique constitue donc un enjeu de santé\
-    \ publique mondial.\r\nC’est une couche d’air qui unit l’ensemble de la fresque,\
+    \ publique mondial.\r\n\r\nC’est une couche d’air qui unit l’ensemble de la fresque,\
     \ c’est le résultat de ce que nous avons sur terre (concentration carbone, etc).\
     \ C’est un bien commun partagé. Prenons conscience de la très fine pellicule qui\
-    \ nous fait vivre - BeHives - technique d’empilage de briques circulation de l’air\
-    \ -  convection circulation de l’air dans les tuyaux rafraichis - pollution de\
-    \ l’air dans les villes  - pb de santé publique majeur - respect des normes"
+    \ nous fait vivre."
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=Qh1t8fMfMRA&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=12
   answer_accessible_url: https://www.santepubliquefrance.fr/les-actualites/2021/pollution-de-l-air-l-oms-revise-ses-seuils-de-reference-pour-les-principaux-polluants-atmospheriques
   answer_accessible_url_text: 'Pollution de l’air : l’OMS révise ses seuils de référence
     pour les principaux polluants atmosphériques'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7f6884e0.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41395,7 +41392,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-04'
+  updated: '2022-08-23'
 - id: 1072
   text: Selon le rapport de France Stratégie sur l'artificialisation des sols, reprenant
     l'enquête Teruti-Lucas quel pourcentage du total des sols artificialisés est du
@@ -41412,24 +41409,24 @@
   answer_option_d: 28%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "La bonne réponse est 28%. \r\nHabitat 42% - Infrastructure\
-    \ de services et loisirs 16% - Foncier économique 14%\r\nCe sont l’ensemble des\
-    \ éléments servant de fondation aux ouvrages, installations, constructions ou\
-    \ équipements interconnectés permettant la réalisation d’activités économiques\
+  answer_explanation: "La bonne réponse est 28%. \r\nHabitat compose 42% , l'infrastructure\
+    \ de services et loisirs 16%, et le foncier économique 14%.\r\nCe sont l’ensemble\
+    \ des éléments servant de fondation aux ouvrages, installations, constructions\
+    \ ou équipements interconnectés permettant la réalisation d’activités économiques\
     \ diverses qui aménagent le territoire et permettent la circulation de grands\
     \ flux (ponts, aéroports, voies ferrées et fluviales, autoroutes). Aujourd’hui,\
     \ leur vieillissement les rend très vulnérables aux dérèglements climatiques et\
     \ implique de les entretenir continuellement, de les réhabiliter avec des matériaux\
     \ écologiques, d’optimiser leur utilisation voire d’envisager leur reconversion."
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=bUaDOS1Yb-A&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=25
   answer_accessible_url: https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-rapport-2019-artificialisation-juillet.pdf
   answer_accessible_url_text: 'Objectif « Zéro artificialisation nette » : quels leviers
     pour protéger les sols ?'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bb37f5b4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41438,7 +41435,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-04'
+  updated: '2022-08-23'
 - id: 1073
   text: Quel est le taux de pauvreté des familles monoparentales en France ?
   hint: ''
@@ -41463,13 +41460,13 @@
     \ ses membres une obligation de solidarité morale. Elle représente l’unité de\
     \ base de la société, mais aussi le principal lieu d’éducation et de solidarités."
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=F0QqM-TI07Q&list=PLylaYILeDmB9SCsnGjD9-QwIO1gnyThcA&index=22
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/372cac0d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41478,7 +41475,7 @@
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-05'
+  updated: '2022-08-23'
 - id: 1074
   text: Que signifie étymologiquement le mot "religion" ?
   hint: ''
@@ -41505,13 +41502,13 @@
     : Quelle est ma part dans la construction de la cité terrestre ? Quelle est ma
     place dans le monde des vivants ?'
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.youtube.com/watch?v=n6quANdFLPo&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=23
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/61a44052.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
@@ -41520,7 +41517,7 @@
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-05'
+  updated: '2022-08-23'
 - id: 1075
   text: Combien y-a-t-il de bénévoles en France ?
   hint: ''
@@ -41558,7 +41555,7 @@
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-22'
+  updated: '2022-08-23'
 - id: 1076
   text: 'La capacité thermique de l''eau est :'
   hint: ''
