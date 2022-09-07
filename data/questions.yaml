@@ -41353,8 +41353,8 @@
   created: '2022-08-04'
   updated: '2022-08-23'
 - id: 1071
-  text: D'après l'OMS, combien de décès prématurés seraient imputables à la qualité
-    de l'air chaque année ?
+  text: Combien de décès prématurés seraient imputables à la qualité de l'air chaque
+    année ?
   hint: ''
   type: QCM
   category: 3
@@ -41368,13 +41368,9 @@
   answer_option_d: 9 millions
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Selon l’OMS, chaque année environ 7 millions de décès prématurés\
-    \ sont dus aux effets de la pollution de l’air, dont plus de 4 millions en lien\
-    \ avec l’air ambiant.La pollution atmosphérique constitue donc un enjeu de santé\
-    \ publique mondial.\r\n\r\nC’est une couche d’air qui unit l’ensemble de la fresque,\
-    \ c’est le résultat de ce que nous avons sur terre (concentration carbone, etc).\
-    \ C’est un bien commun partagé. Prenons conscience de la très fine pellicule qui\
-    \ nous fait vivre."
+  answer_explanation: Parmi ces 7 millions, plus de 4 millions en lien avec l’air
+    ambiant. La pollution atmosphérique constitue donc un enjeu de santé publique
+    mondial.
   answer_audio: ''
   answer_video: https://www.youtube.com/watch?v=Qh1t8fMfMRA&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=12
   answer_accessible_url: https://www.santepubliquefrance.fr/les-actualites/2021/pollution-de-l-air-l-oms-revise-ses-seuils-de-reference-pour-les-principaux-polluants-atmospheriques
@@ -41392,11 +41388,10 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-23'
+  updated: '2022-09-06'
 - id: 1072
-  text: Selon le rapport de France Stratégie sur l'artificialisation des sols, reprenant
-    l'enquête Teruti-Lucas quel pourcentage du total des sols artificialisés est du
-    aux infrastructures de transport?
+  text: Parmi les sols artificialisés, quels sont ceux occupés par les infrastructures
+    de transport ?
   hint: ''
   type: QCM
   category: 8
@@ -41409,15 +41404,15 @@
   answer_option_d: 28%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "La bonne réponse est 28%. \r\nHabitat compose 42% , l'infrastructure\
-    \ de services et loisirs 16%, et le foncier économique 14%.\r\nCe sont l’ensemble\
-    \ des éléments servant de fondation aux ouvrages, installations, constructions\
-    \ ou équipements interconnectés permettant la réalisation d’activités économiques\
-    \ diverses qui aménagent le territoire et permettent la circulation de grands\
-    \ flux (ponts, aéroports, voies ferrées et fluviales, autoroutes). Aujourd’hui,\
-    \ leur vieillissement les rend très vulnérables aux dérèglements climatiques et\
-    \ implique de les entretenir continuellement, de les réhabiliter avec des matériaux\
-    \ écologiques, d’optimiser leur utilisation voire d’envisager leur reconversion."
+  answer_explanation: "L'habitat compose 42% , l'infrastructure de services et loisirs\
+    \ 16%, et le foncier économique 14%.\r\nCe sont l’ensemble des éléments servant\
+    \ de fondation aux ouvrages, installations, constructions ou équipements interconnectés\
+    \ permettant la réalisation d’activités économiques diverses qui aménagent le\
+    \ territoire et permettent la circulation de grands flux (ponts, aéroports, voies\
+    \ ferrées et fluviales, autoroutes). Aujourd’hui, leur vieillissement les rend\
+    \ très vulnérables aux dérèglements climatiques et implique de les entretenir\
+    \ continuellement, de les réhabiliter avec des matériaux écologiques, d’optimiser\
+    \ leur utilisation voire d’envisager leur reconversion."
   answer_audio: ''
   answer_video: https://www.youtube.com/watch?v=bUaDOS1Yb-A&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=25
   answer_accessible_url: https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-rapport-2019-artificialisation-juillet.pdf
@@ -41435,7 +41430,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-23'
+  updated: '2022-09-06'
 - id: 1073
   text: Quel est le taux de pauvreté des familles monoparentales en France ?
   hint: ''
