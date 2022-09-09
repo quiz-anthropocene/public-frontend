@@ -18,7 +18,6 @@ Merci d'être là et de vouloir contribuer :)
     - [Lancer l'application](#lancer-lapplication)
   - [Lancer les tests](#lancer-les-tests)
   - [Autres commandes utiles](#autres-commandes-utiles)
-    - [Commandes Backend](#commandes-backend)
     - [Commandes Frontend](#commandes-frontend)
     - [Commandes Autres](#commandes-autres)
 
@@ -142,9 +141,9 @@ choco install nodejs-lts
 ```
 
 Erreur `UnicodeDecodeError: charmap codec can't decode byte`
-
-- Rajoutez `-X utf8`
+- Rajouter `-X utf8`
 
 #### Misc
 
 - Si vous avez nodejs > v17, il y aura un problème avec openssl, faites un downgrade à la version 16 LTS
+- Les tests échouent avec une erreur `Local Chrome version is XXX, but the installed chromedriver is for version YYY` ? Il faut mettre à jour `chromedriver` dans `package.json`, puis lancer un `yarn install`.
