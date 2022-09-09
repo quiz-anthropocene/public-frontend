@@ -1230,7 +1230,7 @@
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000066-3614.jpg
   has_audio: false
-  author: null
+  author: 10
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
