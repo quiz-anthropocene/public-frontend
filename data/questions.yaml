@@ -41248,9 +41248,9 @@
   created: '2022-08-04'
   updated: '2022-08-23'
 - id: 1069
-  text: L'énergie est ce qui nous permet de transformer notre monde. Dans son rapport
+  text: L'énergie, c'est ce qui mesure la transformation du monde. Dans son rapport
     intitulé "Futur énergétique 2050" RTE indique que la France consomme aujourd'hui
-    en énergie finale 1600TWh. Dans leur scénario quelle sera la consommation d'énergie
+    en énergie finale 1600 TWh. Dans leur scénario quelle sera la consommation d'énergie
     finale de la France en 2050 ?
   hint: ''
   type: QCM
@@ -41298,35 +41298,34 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-23'
+  updated: '2022-09-09'
 - id: 1070
-  text: Que représente l'artificialisation des terres en France ?
+  text: Il y a de plus en plus de terres artificialisées en France. En 10 ans, cela
+    représente...
   hint: ''
   type: QCM-RM
   category: 4
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: L'équivalent d'un département engloutie en 10 ans
-  answer_option_b: L'équivalent d'environ 800 000 terrains de foot en 10 ans
-  answer_option_c: L'équivalent de 10 villes de la superficie de Paris en 10 ans
-  answer_option_d: L'équivalent de une grande ville de France en 10 ans
+  answer_option_a: La surface d'un département
+  answer_option_b: L'équivalent d'environ 800 000 terrains de foot
+  answer_option_c: L'équivalent de 10 villes de la superficie de Paris
+  answer_option_d: L'équivalent de une grande ville de France
   answer_correct: ab
   has_ordered_answers: true
-  answer_explanation: "L'équivalent d'un département engloutie en 10 ans ! \r\nET\r\
-    \nL'équivalent d'env 800 000 terrains de foot en 10 ans !\r\n\r\nL’équivalent\
-    \ de 596 000 ha en dix ans ont été concernés par l'artificialisation des sols\
-    \ en France : \r\nEn France comme dans d’autres pays, du fait de l'étalement de\
-    \ notre urbanisation et de nos infrastructures, l'artificialisation des sols augmente.\
+  answer_explanation: "Ce sont 600,000 hectares qui ont été artificialisées en l'espace\
+    \ de 10 ans. En France comme dans d’autres pays, du fait de l'étalement de notre\
+    \ urbanisation et de nos infrastructures, l'artificialisation des sols augmente.\
     \ Ce phénomène consiste à transformer un sol naturel, agricole ou forestier, par\
     \ des opérations d’aménagement pouvant entraîner une imperméabilisation partielle\
     \ ou totale, afin de les affecter notamment à des fonctions urbaines ou de transport\
     \ (habitat, activités, commerces, infrastructures, équipements publics…). En France,\
     \ entre 20 000 et 30 000 hectares sont artificialisés chaque année. Cette artificialisation\
     \ augmente presque 4 fois plus vite que la population, et a des répercussions\
-    \ directes sur la qualité de vie des citoyens mais aussi sur l’environnement.\
-    \ \r\nRénover, entretenir et isoler les bâtiments existants doit donc être la\
-    \ priorité !\r\n\r\nCelle-ci est en général robuste et optimisée pour les conditions\
+    \ directes sur la qualité de vie des citoyens mais aussi sur l’environnement.\r\
+    \n\r\nRénover, entretenir et isoler les bâtiments existants doit donc être la\
+    \ priorité !\r\nCelle-ci est en général robuste et optimisée pour les conditions\
     \ climatiques. Elle fait la part belle à l’entretien et à la rénovation du patrimoine\
     \ bâti, ne réservant qu’à la construction une part mineure du total (3 à 5% de\
     \ la surface bâtie comme le taux de renouvellement actuel). Les matériaux de construction\
@@ -41351,7 +41350,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-23'
+  updated: '2022-09-09'
 - id: 1071
   text: Combien de décès prématurés seraient imputables à la qualité de l'air chaque
     année ?
