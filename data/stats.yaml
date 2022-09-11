@@ -16,15 +16,15 @@ quiz_per_publish_count:
   total: 38
 - publish: false
   total: 14
-question_answer_count: 314252
-quiz_answer_count: 25436
-question_answer_count_last_30_days: 10273
-quiz_answer_count_last_30_days: 795
+question_answer_count: 315032
+quiz_answer_count: 25494
+question_answer_count_last_30_days: 10201
+quiz_answer_count_last_30_days: 798
 category_count: 8
 tag_count: 242
-question_feedback_count: 4828
-quiz_feedback_count: 812
+question_feedback_count: 4878
+quiz_feedback_count: 815
 contribution_count: 745
-question_feedback_count_last_30_days: 118
-quiz_feedback_count_last_30_days: 21
+question_feedback_count_last_30_days: 168
+quiz_feedback_count_last_30_days: 22
 contribution_count_last_30_days: 6
