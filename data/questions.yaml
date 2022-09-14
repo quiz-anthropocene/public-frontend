@@ -29938,9 +29938,8 @@
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: Les humains ont su s’adapter à des climats très divers. Mais
-    depuis quelques années,  le climat se dérègle et notre planète est en surchauffe.
-    Il est maintenant complètement prouvé par la science du climat que cela est causé
-    par les activités humaines.
+    le climat se dérègle et notre planète est en surchauffe. Il est maintenant complètement
+    prouvé par la science du climat que cela est causé par les activités humaines.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.vikidia.org/wiki/R%C3%A9chauffement_climatique
@@ -29958,7 +29957,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-09-13'
 - id: 765
   text: Ca émet des gaz à effet de serre si tu...
   hint: ''
@@ -34207,12 +34206,14 @@
   answer_option_d: ~80%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Les industries représentent la moitié de l'énergie primaire,
-    les transports 1/4 et les bâtiments le dernier quart. En excluant les moteurs
-    des transports, on peut voir que l'industrie requiert pour 67% de la chaleur,
-    et les batiments (résidentiels et pro) environ 50% (pour le chauffage, l'eau chaude
-    ...), le reste en électricité. Au total environ la moitié de l'énergie requise
-    est sous forme de chaleur. L'électricité ne fait pas tout.
+  answer_explanation: 'Les industries représentent la moitié de l''énergie primaire
+    totale, les transports un quart et les bâtiments le dernier quart (source : rapport
+    annuel BP). En mettant de côté les moteurs pour les transports, on peut voir que
+    les besoins de l''industrie sont pour 67% de la chaleur, et 50% pour les bâtiments
+    (résidentiels et professionnel ; chauffage, eau chaude...), le reste en électricité.
+    Au total, environ la moitié de l''énergie requise est sous forme de chaleur, dont
+    l''essentiel de l''eau à température modérément élevée. Ce constat contrevient
+    à l''idée reçue que l''électricité fait tout.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://solar.lowtechmagazine.com/2011/07/solar-powered-factories.html
@@ -34232,7 +34233,7 @@
   validator: 2
   validation_date: '2021-03-05'
   created: '2021-02-26'
-  updated: '2022-04-16'
+  updated: '2022-09-13'
 - id: 871
   text: 'Faisons un exercice de pensée : demain, toute l''énergie dépensée par la
     France doit être exclusivement fournie par du travail humain. Combien de personnes
