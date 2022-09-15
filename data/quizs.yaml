@@ -19,6 +19,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000001-1f89.png
   has_audio: false
   author: 1
+  authors:
+  - 1
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -52,6 +54,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000002-ce4a.jpg
   has_audio: false
   author: 1
+  authors:
+  - 1
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -96,6 +100,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000003-597d.jpg
   has_audio: true
   author: 8
+  authors:
+  - 8
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -126,6 +132,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2c781bd1.png
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -161,6 +169,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000005-586a.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -198,6 +208,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000006-b5bb.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -228,6 +240,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000007-646d.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -275,6 +289,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000008-c302.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -307,6 +323,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000009-6ade.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -338,6 +356,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000010-bdc2.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -388,6 +408,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000011-6927.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -422,6 +444,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000012-3533.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -453,6 +477,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000013-eb5a.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -484,6 +510,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000014-9b58.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -524,6 +552,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000015-a68a.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -560,6 +590,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000016-1e5a.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -593,6 +625,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000017-b87e.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -642,6 +676,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000018-9a3f.jpg
   has_audio: true
   author: 13
+  authors:
+  - 13
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -682,6 +718,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000052-1e57.jpg
   has_audio: false
   author: 19
+  authors:
+  - 19
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -717,6 +755,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000053-064a.jpg
   has_audio: false
   author: 5
+  authors:
+  - 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -764,6 +804,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000054-c005.jpg
   has_audio: false
   author: 5
+  authors:
+  - 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -810,6 +852,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000055-63df.jpg
   has_audio: false
   author: 37
+  authors:
+  - 37
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -846,6 +890,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000056-9bf6.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -884,6 +930,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000057-30c2.jpg
   has_audio: false
   author: 1
+  authors:
+  - 1
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -925,6 +973,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000059-3ba6.png
   has_audio: false
   author: 18
+  authors:
+  - 18
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -960,6 +1010,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000060-09d9.jpg
   has_audio: false
   author: 14
+  authors:
+  - 14
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1018,6 +1070,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000061-582f.png
   has_audio: false
   author: 6
+  authors:
+  - 6
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1066,6 +1120,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000062-2449.png
   has_audio: false
   author: 15
+  authors:
+  - 15
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1103,6 +1159,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000063-79b1.png
   has_audio: false
   author: 42
+  authors:
+  - 42
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1137,6 +1195,8 @@
   image_background_url: ''
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: null
@@ -1176,6 +1236,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000065-42f8.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -1231,6 +1293,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000066-3614.jpg
   has_audio: false
   author: 10
+  authors:
+  - 10
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1274,6 +1338,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000067-af09.png
   has_audio: false
   author: 6
+  authors:
+  - 6
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1323,6 +1389,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000068-15c5.png
   has_audio: false
   author: 6
+  authors:
+  - 6
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1364,6 +1432,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000069-6de8.jpg
   has_audio: false
   author: 20
+  authors:
+  - 20
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1409,6 +1479,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000070-552a.png
   has_audio: false
   author: 6
+  authors:
+  - 6
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1441,6 +1513,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000071-ada4.jpg
   has_audio: false
   author: 24
+  authors:
+  - 24
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -1481,6 +1555,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000073-772b.png
   has_audio: false
   author: 6
+  authors:
+  - 6
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1529,6 +1605,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000074-3037.png
   has_audio: true
   author: 35
+  authors:
+  - 35
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1576,6 +1654,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000075-2162.jpg
   has_audio: false
   author: 11
+  authors:
+  - 11
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1623,6 +1703,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000076-26d2.jpg
   has_audio: false
   author: 36
+  authors:
+  - 36
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1674,6 +1756,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000077-7fc3.jpg
   has_audio: false
   author: 17
+  authors:
+  - 17
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1717,6 +1801,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000078-62a8.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -1765,6 +1851,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000079-9514.jpg
   has_audio: false
   author: 2
+  authors:
+  - 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
@@ -1808,6 +1896,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000080-f9bb.png
   has_audio: false
   author: 25
+  authors:
+  - 25
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1853,6 +1943,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000081-6f88.jpg
   has_audio: false
   author: 46
+  authors:
+  - 46
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -1887,6 +1979,8 @@
   image_background_url: ''
   has_audio: false
   author: 55
+  authors:
+  - 55
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -1923,6 +2017,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0470a518.png
   has_audio: false
   author: 57
+  authors:
+  - 57
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -1970,6 +2066,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
   has_audio: false
   author: 60
+  authors:
+  - 60
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -2007,6 +2105,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/a5474bbf.jpg
   has_audio: false
   author: 34
+  authors:
+  - 34
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -2046,6 +2146,8 @@
   image_background_url: ''
   has_audio: false
   author: 62
+  authors:
+  - 62
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -2090,6 +2192,8 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/510c77bc.png
   has_audio: false
   author: 49
+  authors:
+  - 49
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
