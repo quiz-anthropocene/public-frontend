@@ -29959,7 +29959,7 @@
   created: '2021-01-17'
   updated: '2022-09-13'
 - id: 765
-  text: Ca émet des gaz à effet de serre si tu...
+  text: Est-ce que ça créé de l'effet de serre quand je...
   hint: ''
   type: QCM-RM
   category: 2
@@ -29967,9 +29967,9 @@
   difficulty: 0
   language: Français
   answer_option_a: prends la voiture ou l’avion ?
-  answer_option_b: manges de la viande ?
-  answer_option_c: t’achètes des choses ?
-  answer_option_d: joues dans le jardin ?
+  answer_option_b: mange de la viande ?
+  answer_option_c: m’achète des choses ?
+  answer_option_d: joue dans le jardin ?
   answer_correct: abc
   has_ordered_answers: true
   answer_explanation: Par exemple, tout ce que tu achètes vient de l’industrie. Pour
@@ -29994,7 +29994,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-07-07'
+  updated: '2022-09-22'
 - id: 766
   text: 'Vrai ou faux : Tous les humains contribuent de la même manière au changement
     climatique.'
