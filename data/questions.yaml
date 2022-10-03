@@ -27912,7 +27912,7 @@
   updated: '2022-04-16'
 - id: 719
   text: "L'objectif de la COP21 à l'horizon 2050 est que chaque humain n'émette pas\
-    \ plus que 2 tonnes de CO2e par an. \nLesquelles de ces affirmations sont vraies\
+    \ plus que 2 tonnes de CO2e par an. \r\nLesquelles de ces affirmations sont vraies\
     \ : 2 tonnes, c'est ce que j'émets en..."
   hint: ''
   type: QCM-RM
@@ -27923,7 +27923,7 @@
   - 34
   difficulty: 2
   language: Français
-  answer_option_a: '...faisant 1 aller-retour Paris New York '
+  answer_option_a: '...faisant 1 aller-retour Paris New York'
   answer_option_b: '...roulant 10,000 km en Clio'
   answer_option_c: '...chauffant un appartement de 80m2 au fioul pendant un an'
   answer_option_d: '...mangeant de la viande une fois par jour'
@@ -27931,11 +27931,11 @@
   has_ordered_answers: true
   answer_explanation: "Eh oui ! Une seule de ces quatre options vous fait atteindre\
     \ votre budget carbone. 2 tonnes, c'est encore l'empreinte moyenne d'un Français...en\
-    \ 1881 !\nPour la Clio, voici un calcul de coin de table : 6l/100km x 10,000 km\
-    \ x 3kg de CO2/km = 1,8t.  \nL'empreinte moyenne d'un Français est désormais estimée\
-    \ autour de 10t, dont la moitié sont des émissions importées. Sachant que l'impact\
-    \ carbone des seuls services publics est estimé à 1,5t par habitant, cela donne\
-    \ une idée de la hauteur de la marche à descendre..."
+    \ 1881 !\r\nPour la Clio, voici un calcul de coin de table : 10,000 km *conso\
+    \ de 6l/100km  x 3kg de CO2/l = 1,8t.  \r\nL'empreinte moyenne d'un Français est\
+    \ désormais estimée autour de 10t, dont la moitié sont des émissions importées.\
+    \ Sachant que l'impact carbone des seuls services publics est estimé à 1,5t par\
+    \ habitant, cela donne une idée de la hauteur de la marche à descendre..."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.liberation.fr/checknews/2019/02/13/est-ce-qu-un-aller-retour-en-avion-a-bali-emet-autant-de-co2-qu-une-annee-de-vie-en-france_1708854
@@ -27953,7 +27953,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2022-10-01'
 - id: 720
   text: Quelle quantité d'énergie y a-t-il dans un litre de kérosène...  en kWh ?
   hint: On n'imagine pas les services pour pas très cher.
@@ -29084,8 +29084,9 @@
 - id: 745
   text: Le Col de Porte, situé à 1,325m d'altitude dans les Alpes françaises est le
     site de référence de Météo France pour l'étude de l'évolution du manteau neigeux
-    depuis 1960. Entre les périodes 1960-1990 et 1990-2019, comment a évolué la hauteur
-    de neige moyenne mesurée au col ?
+    depuis 1960. Si l'on compare entre la période 1960 à 1990 d'une part, et la période
+    1990 à 2020 d'autre part, comment a évolué la hauteur la hauteur de neige moyenne
+    mesurée au col ?
   hint: ''
   type: QCM
   category: 5
@@ -29122,7 +29123,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2022-10-01'
 - id: 746
   text: Sur la période 1986-2005, quelle a été la consommation annuelle d'eau des
     canons à neige en France ?
