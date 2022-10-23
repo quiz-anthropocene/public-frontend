@@ -41,7 +41,10 @@
               🏆&nbsp;{{ $t('messages.difficulty') }}<span class="label label-hidden"><strong>{{ quiz.difficulty_average | round(1) }} / 4</strong></span>
             </div> -->
             <div class="col" title="Auteur du quiz">
-              📝&nbsp;{{ $t('messages.author') }}<span class="label label-hidden"><strong>{{ quiz.author.first_name }} {{ quiz.author.last_name }}</strong></span>
+              📝&nbsp;{{ $t('messages.author') }}<span v-if="quiz.authors.length > 1">s</span>
+              <span v-for="(author, index) in quiz.authors" :key="author.id" class="label label-hidden">
+                <strong>{{ author.first_name }} {{ author.last_name }}{{ (index < quiz.authors.length - 1) ? ',' : '' }}</strong>
+              </span>
             </div>
             <!-- <span title="Date de création du quiz">📊&nbsp;Crée le:&nbsp;{{ new Date(quiz.created).toLocaleString() }}</span> -->
             <div v-if="quiz.tags && quiz.tags.length > 0" class="col small d-none d-sm-block" title="Mot(s) clé(s) du quiz">
