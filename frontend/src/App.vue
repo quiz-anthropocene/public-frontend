@@ -139,7 +139,7 @@ export default {
       this.$store.dispatch('GET_AUTHOR_LIST_FROM_LOCAL_YAML');
       Promise.all([
         this.$store.dispatch('GET_CATEGORY_LIST_FROM_API'),
-        this.$store.dispatch('GET_TAG_LIST_FROM_LOCAL_YAML'),
+        this.$store.dispatch('GET_TAG_LIST_FROM_API'),
       ]).then(() => {
         this.$store.dispatch('GET_QUESTION_LIST_FROM_LOCAL_YAML');
       }).then(() => {

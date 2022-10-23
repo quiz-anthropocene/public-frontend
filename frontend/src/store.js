@@ -229,6 +229,23 @@ const store = new Vuex.Store({
     GET_TAG_LIST_FROM_LOCAL_YAML: ({ commit }) => {
       return commit('SET_TAG_LIST', { list: tagsYamlData });
     },
+    GET_TAG_LIST_FROM_API: ({ commit }) => {
+      return fetch(`${process.env.VUE_APP_API_ENDPOINT}/tags/?limit=10000`, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      })
+        .then((response) => response.json())
+        // eslint-disable-next-line
+        .then(data => {
+          commit('SET_TAG_LIST', { list: data.results });
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    },
     /**
      * Get ressources: glossaire, soutiens, autres apps
      * Pre-processing ? for soutiens, append quiz tag or question author
