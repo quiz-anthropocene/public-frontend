@@ -120,7 +120,7 @@
 import { metaTagsGenerator } from '../utils';
 
 export default {
-  name: 'Contribute',
+  name: 'ContributePage',
   metaInfo() {
     const title = 'Contribuer';
     const description = 'Contribuer à l\'application pour la faire grandir !';

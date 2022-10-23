@@ -80,7 +80,7 @@ import constants from '../constants';
 import HomeLink from './HomeLink.vue';
 
 export default {
-  name: 'Footer',
+  name: 'AppFooter',
   components: {
     HomeLink,
   },

@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header />  <!-- sticky top -->
+    <AppHeader />  <!-- sticky top -->
     <section>
       <div v-show="loading" class="alert alert-primary" role="alert">Chargement...</div>
       <div v-if="error" class="alert alert-danger" role="alert">
@@ -14,13 +14,13 @@
     <main class="container-md padding-top-10">
       <router-view></router-view>
     </main>
-    <Footer />
+    <AppFooter />
   </div>
 </template>
 
 <script>
-import Header from './components/Header.vue';
-import Footer from './components/Footer.vue';
+import AppHeader from './components/AppHeader.vue';
+import AppFooter from './components/AppFooter.vue';
 
 export default {
   name: 'App',
@@ -98,8 +98,8 @@ export default {
     ],
   },
   components: {
-    Header,
-    Footer,
+    AppHeader,
+    AppFooter,
   },
 
   computed: {
