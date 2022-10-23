@@ -10,14 +10,11 @@ import statsYamlData from '../../data/stats.yaml';
 import languagesYamlData from '../../data/languages.yaml';
 import authorsYamlData from '../../data/authors.yaml';
 import difficultyLevelsYamlData from '../../data/difficulty-levels.yaml';
-import categoriesYamlData from '../../data/categories.yaml';
-import tagsYamlData from '../../data/tags.yaml';
 import questionsYamlData from '../../data/questions.yaml';
 import quizsYamlData from '../../data/quizs.yaml';
 import quizQuestionsYamlData from '../../data/quiz-questions.yaml';
 import quizRelationshipsYamlData from '../../data/quiz-relationships.yaml';
 import quizStatsYamlData from '../../data/quiz-stats.yaml';
-import ressourcesGlossaireYamlData from '../../data/ressources-glossaire.yaml';
 import ressourcesSoutiensYamlData from '../../data/ressources-soutiens.yaml';
 import ressourcesAutresAppsYamlData from '../../data/ressources-autres-apps.yaml';
 
@@ -105,14 +102,10 @@ const store = new Vuex.Store({
       commit('SET_QUESTION_VALIDATED_LIST', { list: questionsValidated });
 
       // update categories: add question_count
-      state.categories.forEach((c) => {
-        c.question_count = questionsValidated.filter((q) => q.category && q.category.name === c.name).length;
-      });
+      commit('SET_CATEGORY_QUESTION_COUNT');
 
       // update tags: add question_count
-      state.tags.forEach((t) => {
-        t.question_count = questionsValidated.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
-      });
+      commit('SET_TAG_QUESTION_COUNT');
     },
     GET_QUESTION_PENDING_VALIDATION_LIST_FROM_LOCAL_YAML: ({ commit, state }) => {
       const questionsPendingValidation = questionsYamlData.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS);
@@ -151,9 +144,7 @@ const store = new Vuex.Store({
       commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: quizsSpotlighted });
 
       // update tags: add quiz_count
-      state.tags.forEach((t) => {
-        t.quiz_count = quizsPublished.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
-      });
+      commit('SET_TAG_QUIZ_COUNT');
     },
     /**
      * Get quiz relationships
@@ -209,21 +200,78 @@ const store = new Vuex.Store({
      * Pre-processing ? None
      */
     GET_CATEGORY_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_CATEGORY_LIST', { list: categoriesYamlData });
+      import('../../data/categories.yaml').then((module) => {
+        commit('SET_CATEGORY_LIST', { list: module.default });
+      });
+    },
+    GET_CATEGORY_LIST_FROM_API: ({ commit }) => {
+      return fetch(`${process.env.VUE_APP_API_ENDPOINT}/categories/`, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      })
+        .then((response) => response.json())
+        // eslint-disable-next-line
+        .then(data => {
+          commit('SET_CATEGORY_LIST', { list: data.results });
+        })
+        .catch((error) => {
+          console.log(error);
+        });
     },
     /**
      * Get tags
      * Pre-processing ? None
      */
     GET_TAG_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_TAG_LIST', { list: tagsYamlData });
+      import('../../data/tags.yaml').then((module) => {
+        commit('SET_TAG_LIST', { list: module.default });
+      });
+    },
+    GET_TAG_LIST_FROM_API: ({ commit }) => {
+      return fetch(`${process.env.VUE_APP_API_ENDPOINT}/tags/?limit=10000`, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      })
+        .then((response) => response.json())
+        // eslint-disable-next-line
+        .then(data => {
+          commit('SET_TAG_LIST', { list: data.results });
+        })
+        .catch((error) => {
+          console.log(error);
+        });
     },
     /**
      * Get ressources: glossaire, soutiens, autres apps
      * Pre-processing ? for soutiens, append quiz tag or question author
      */
     GET_RESSOURCES_GLOSSAIRE_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: ressourcesGlossaireYamlData });
+      import('../../data/ressources-glossaire.yaml').then((module) => {
+        commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: module.default });
+      });
+    },
+    GET_RESSOURCES_GLOSSAIRE_LIST_FROM_API: ({ commit }) => {
+      fetch(`${process.env.VUE_APP_API_ENDPOINT}/glossary/`, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      })
+        .then((response) => response.json())
+        // eslint-disable-next-line
+        .then(data => {
+          commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: data.results });
+        })
+        .catch((error) => {
+          console.log(error);
+        });
     },
     GET_RESSOURCES_SOUTIENS_LIST_FROM_LOCAL_YAML: ({ commit }) => {
       commit('SET_RESSOURCES_SOUTIENS_LIST', { list: ressourcesSoutiensYamlData });
@@ -298,8 +346,33 @@ const store = new Vuex.Store({
     SET_CATEGORY_LIST: (state, { list }) => {
       state.categories = list;
     },
+    SET_CATEGORY_QUESTION_COUNT: (state) => {
+      if (state.categories.length && state.questionsValidated.length) {
+        state.categories.forEach((c, index) => {
+          const categoryQuestionCount = state.questionsValidated.filter((q) => q.category && q.category.name === c.name).length;
+          // splice? to tell Vue that the categories array has been updated
+          state.categories.splice(index, 1, Object.assign(c, { question_count: categoryQuestionCount }));
+        });
+      }
+    },
     SET_TAG_LIST: (state, { list }) => {
       state.tags = list;
+    },
+    SET_TAG_QUESTION_COUNT: (state) => {
+      if (state.tags.length && state.questionsValidated.length) {
+        state.tags.forEach((t, index) => {
+          const tagQuestionCount = state.questionsValidated.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
+          state.tags.splice(index, 1, Object.assign(t, { question_count: tagQuestionCount }));
+        });
+      }
+    },
+    SET_TAG_QUIZ_COUNT: (state) => {
+      if (state.tags.length && state.quizsPublished.length) {
+        state.tags.forEach((t, index) => {
+          const tagQuizCount = state.quizsPublished.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
+          state.tags.splice(index, 1, Object.assign(t, { quiz_count: tagQuizCount }));
+        });
+      }
     },
     SET_LANGUAGE_LIST: (state, { list }) => {
       state.languages = list;
