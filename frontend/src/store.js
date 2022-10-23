@@ -10,14 +10,11 @@ import statsYamlData from '../../data/stats.yaml';
 import languagesYamlData from '../../data/languages.yaml';
 import authorsYamlData from '../../data/authors.yaml';
 import difficultyLevelsYamlData from '../../data/difficulty-levels.yaml';
-import categoriesYamlData from '../../data/categories.yaml';
-import tagsYamlData from '../../data/tags.yaml';
 import questionsYamlData from '../../data/questions.yaml';
 import quizsYamlData from '../../data/quizs.yaml';
 import quizQuestionsYamlData from '../../data/quiz-questions.yaml';
 import quizRelationshipsYamlData from '../../data/quiz-relationships.yaml';
 import quizStatsYamlData from '../../data/quiz-stats.yaml';
-import ressourcesGlossaireYamlData from '../../data/ressources-glossaire.yaml';
 import ressourcesSoutiensYamlData from '../../data/ressources-soutiens.yaml';
 import ressourcesAutresAppsYamlData from '../../data/ressources-autres-apps.yaml';
 
@@ -203,7 +200,9 @@ const store = new Vuex.Store({
      * Pre-processing ? None
      */
     GET_CATEGORY_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_CATEGORY_LIST', { list: categoriesYamlData });
+      import('../../data/categories.yaml').then((module) => {
+        commit('SET_CATEGORY_LIST', { list: module.default });
+      });
     },
     GET_CATEGORY_LIST_FROM_API: ({ commit }) => {
       return fetch(`${process.env.VUE_APP_API_ENDPOINT}/categories/`, {
@@ -227,7 +226,9 @@ const store = new Vuex.Store({
      * Pre-processing ? None
      */
     GET_TAG_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      return commit('SET_TAG_LIST', { list: tagsYamlData });
+      import('../../data/tags.yaml').then((module) => {
+        commit('SET_TAG_LIST', { list: module.default });
+      });
     },
     GET_TAG_LIST_FROM_API: ({ commit }) => {
       return fetch(`${process.env.VUE_APP_API_ENDPOINT}/tags/?limit=10000`, {
@@ -251,7 +252,9 @@ const store = new Vuex.Store({
      * Pre-processing ? for soutiens, append quiz tag or question author
      */
     GET_RESSOURCES_GLOSSAIRE_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: ressourcesGlossaireYamlData });
+      import('../../data/ressources-glossaire.yaml').then((module) => {
+        commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: module.default });
+      });
     },
     GET_RESSOURCES_GLOSSAIRE_LIST_FROM_API: ({ commit }) => {
       fetch(`${process.env.VUE_APP_API_ENDPOINT}/glossary/`, {
