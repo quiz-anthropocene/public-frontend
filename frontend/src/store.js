@@ -135,10 +135,10 @@ const store = new Vuex.Store({
         const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
         quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
         // get quiz author & tags
-        const quizAuthor = getters.getUserById(q.author);
+        const quizAuthors = getters.getUsersByIdList(q.authors);
         const quizTags = getters.getTagsByIdList(q.tags);
         // assign
-        Object.assign(q, { questions: quizQuestions }, { author: quizAuthor }, { tags: quizTags });
+        Object.assign(q, { questions: quizQuestions }, { authors: quizAuthors }, { tags: quizTags });
         return q;
       });
       const quizsPublished = quizs.filter((q) => q.language === state.locale.value).filter((el) => el.publish === true);
@@ -189,7 +189,13 @@ const store = new Vuex.Store({
      * Pre-processing ? None
      */
     GET_AUTHOR_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_AUTHOR_LIST', { list: authorsYamlData });
+      const authors = authorsYamlData;
+      authors.map((a) => {
+        const authorFullName = `${a.first_name} ${a.last_name}`;
+        Object.assign(a, { full_name: authorFullName });
+        return a;
+      });
+      commit('SET_AUTHOR_LIST', { list: authors });
     },
     /**
      * Get difficulty-levels
@@ -330,7 +336,8 @@ const store = new Vuex.Store({
     },
   },
   getters: {
-    getUserById: (state) => (userId) => state.authors.find((c) => (c.id === ((userId && typeof userId === 'object') ? userId.id : userId))),
+    getUserById: (state) => (userId) => state.authors.find((u) => (u.id === ((userId && typeof userId === 'object') ? userId.id : userId))),
+    getUsersByIdList: (state) => (userIdList) => state.authors.filter((u) => ((userIdList && userIdList.length && typeof userIdList[0] === 'object') ? userIdList.map((user) => user.id).includes(u.id) : userIdList.includes(u.id))),
     getCategoryById: (state) => (categoryId) => state.categories.find((c) => (c.id === ((categoryId && typeof categoryId === 'object') ? categoryId.id : categoryId))),
     getTagById: (state) => (tagId) => state.tags.find((t) => (t.id === ((tagId && typeof tagId === 'object') ? tagId.id : tagId))),
     getTagsByIdList: (state) => (tagIdList) => state.tags.filter((t) => ((tagIdList && tagIdList.length && typeof tagIdList[0] === 'object') ? tagIdList.map((tag) => tag.id).includes(t.id) : tagIdList.includes(t.id))),
@@ -341,9 +348,10 @@ const store = new Vuex.Store({
     getQuestionsByCategoryName: (state) => (categoryName) => state.questions.filter((q) => (q.category.name === categoryName)),
     getQuestionsByTagName: (state) => (tagName) => state.questions.filter((q) => q.tags.map((qt) => qt.name).includes(tagName)),
     getQuestionsByAuthorName: (state) => (authorName) => state.questions.filter((q) => q.author === authorName),
-    getQuestionsValidatedByFilter: (state) => (filter) => state.questionsValidated.filter((q) => (filter.category ? (q.category.name === filter.category) : true))
+    getQuestionsValidatedByFilter: (state) => (filter) => state.questionsValidated
+      .filter((q) => (filter.category ? (q.category.name === filter.category) : true))
       .filter((q) => (filter.tag ? q.tags.map((qt) => qt.name).includes(filter.tag) : true))
-      .filter((q) => (filter.author ? (q.author.id === filter.author) : true))
+      .filter((q) => (filter.author ? (q.author.full_name === filter.author) : true))
       .filter((q) => (filter.difficulty ? (q.difficulty === parseInt(filter.difficulty, 10)) : true)),
     getCurrentQuestionIndex: (state) => (currentQuestionId) => state.questionsDisplayed.findIndex((q) => q.id === currentQuestionId),
     getNextQuestionByFilter: (state) => (currentQuestionId) => {
@@ -354,8 +362,9 @@ const store = new Vuex.Store({
     getQuizById: (state) => (quizId) => state.quizs.find((q) => (q.id === quizId)),
     getQuizBySlug: (state) => (quizId) => state.quizs.find((q) => (q.slug === quizId)),
     getQuizsByIdList: (state) => (quizIdList) => state.quizs.filter((q) => quizIdList.includes(q.id)),
-    getQuizsPublishedByFilter: (state) => (filter) => state.quizsPublished.filter((q) => (filter.tag ? q.tags.map((qt) => qt.name).includes(filter.tag) : true))
-      .filter((q) => (filter.author ? (q.author.id === filter.author) : true))
+    getQuizsPublishedByFilter: (state) => (filter) => state.quizsPublished
+      .filter((q) => (filter.tag ? q.tags.map((qt) => qt.name).includes(filter.tag) : true))
+      .filter((q) => (filter.author ? q.authors.map((qa) => qa.full_name).includes(filter.author) : true))
       .sort((a, b) => ((filter.sort === 'date_old') ? (a.created.localeCompare(b.created)) : (b.id - a.id))),
     getQuizRelationshipsById: (state) => (quizId) => state.quizRelationships.filter((qr) => (qr.from_quiz === quizId) || (qr.to_quiz === quizId)),
     getQuizStatsById: (state) => (quizId) => state.quizStats.find((q) => (q.quiz_id === quizId)),

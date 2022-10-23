@@ -54,8 +54,8 @@
     <h4>✍️&nbsp;{{ $t('messages.authors') }}</h4>
     <p>
       <span v-for="author in quizAuthors" :key="author.id">
-        <router-link class="no-decoration" :to="{ name: 'quiz-list', query: { author: author.id } }">
-          <FilterLabel :key="author.id" filterType="author" v-bind:filterValue="author.first_name + ' ' + author.last_name" v-bind:filterCount="author.quiz_count" />
+        <router-link class="no-decoration" :to="{ name: 'quiz-list', query: { author: author.full_name } }">
+          <FilterLabel :key="author.id" filterType="author" v-bind:filterValue="author.full_name" v-bind:filterCount="author.quiz_count" />
         </router-link>
       </span>
     </p>
@@ -107,8 +107,8 @@
     <h4>✍️&nbsp;{{ $t('messages.authors') }}</h4>
     <p>
       <span v-for="author in questionAuthors" :key="author.id">
-        <router-link class="no-decoration" :to="{ name: 'question-list', query: { author: author.id } }">
-          <FilterLabel :key="author.id" filterType="author" v-bind:filterValue="author.first_name + ' ' + author.last_name" v-bind:filterCount="author.question_count" />
+        <router-link class="no-decoration" :to="{ name: 'question-list', query: { author: author.full_name } }">
+          <FilterLabel :key="author.id" filterType="author" v-bind:filterValue="author.full_name" v-bind:filterCount="author.question_count" />
         </router-link>
       </span>
     </p>
