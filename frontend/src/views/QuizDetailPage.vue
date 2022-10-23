@@ -43,7 +43,7 @@
             <div class="col" title="Auteur du quiz">
               📝&nbsp;{{ $t('messages.author') }}<span v-if="quiz.authors.length > 1">s</span>
               <span v-for="(author, index) in quiz.authors" :key="author.id" class="label label-hidden">
-                <strong>{{ author.first_name }} {{ author.last_name }}{{ (index < quiz.authors.length - 1) ? ',' : '' }}</strong>
+                <strong>{{ author.full_name }}{{ (index < quiz.authors.length - 1) ? ',' : '' }}</strong>
               </span>
             </div>
             <!-- <span title="Date de création du quiz">📊&nbsp;Crée le:&nbsp;{{ new Date(quiz.created).toLocaleString() }}</span> -->
