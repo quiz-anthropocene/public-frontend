@@ -39,6 +39,7 @@
           <p v-if="categories && objectType =='question'">
             <span>{{ $t('messages.category') }}{{ $t('words.semiColon') }}&nbsp;</span>
             <select v-model="tempQuestionFilters['category']">
+              <option></option>
               <option v-for="(option, i) in tags" :key="i" :value="option.name">
                   {{ option.name }} ({{ option[objectType === 'question' ? 'question_count' : 'quiz_count'] }})
                 </option>
@@ -47,6 +48,7 @@
           <p v-if="tags">
             <span>{{ $t('messages.tag') }}{{ $t('words.semiColon') }}&nbsp;</span>
             <select v-model="tempQuestionFilters['tag']">
+              <option></option>
               <option v-for="(option, i) in tags" :key="i" :value="option.name">
                   {{ option.name }} ({{ option[objectType === 'question' ? 'question_count' : 'quiz_count'] }})
                 </option>
@@ -55,6 +57,7 @@
           <p v-if="authors">
             <span>{{ $t('messages.author') }}{{ $t('words.semiColon') }}&nbsp;</span>
             <select v-model="tempQuestionFilters['author']">
+              <option></option>
               <option v-for="(option, i) in authors" :key="i" :value="option.full_name">
                 {{ option.full_name }} ({{ option[objectType === 'question' ? 'question_count' : 'quiz_count'] }})
               </option>
@@ -63,6 +66,7 @@
           <p v-if="difficultyLevels && objectType =='question'">
             <span>{{ $t('messages.difficulty') }}{{ $t('words.semiColon') }}&nbsp;</span>
             <select v-model="tempQuestionFilters['difficulty']">
+              <option></option>
               <option v-for="(option, i) in difficultyLevels" :key="i" :value="option.name">
                 {{ option.name }} ({{ option[objectType === 'question' ? 'question_count' : 'quiz_count'] }})
               </option>
