@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-const PrerenderSpaPlugin = require('prerender-spa-plugin');
+const PrerenderSPAPlugin = require('prerender-spa-plugin-next');
 const path = require('path');
 
 module.exports = {
@@ -13,7 +13,7 @@ module.exports = {
     if (process.env.NODE_ENV !== 'production') return;
     return {
       plugins: [
-        new PrerenderSpaPlugin({
+        new PrerenderSPAPlugin({
           // Required - The path to the webpack-outputted app to prerender.
           staticDir: path.join(__dirname, 'dist'),
 
