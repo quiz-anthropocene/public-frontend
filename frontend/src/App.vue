@@ -143,7 +143,7 @@ export default {
       this.$store.dispatch('GET_QUIZ_LIST_FROM_LOCAL_YAML');
       this.$store.dispatch('UPDATE_QUIZ_FILTERS', {});
       // needed for both glossary page & abbr filter
-      this.$store.dispatch('GET_RESSOURCES_GLOSSAIRE_LIST_FROM_LOCAL_YAML');
+      this.$store.dispatch('GET_RESSOURCES_GLOSSAIRE_LIST_FROM_API');
     },
     dismissAlert() {
       this.$store.dispatch('RESET_LOADING_STATUS');

@@ -225,6 +225,23 @@ const store = new Vuex.Store({
     GET_RESSOURCES_GLOSSAIRE_LIST_FROM_LOCAL_YAML: ({ commit }) => {
       commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: ressourcesGlossaireYamlData });
     },
+    GET_RESSOURCES_GLOSSAIRE_LIST_FROM_API: ({ commit }) => {
+      fetch(`${process.env.VUE_APP_API_ENDPOINT}/glossary/`, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      })
+        .then((response) => response.json())
+        // eslint-disable-next-line
+        .then(data => {
+          commit('SET_RESSOURCES_GLOSSAIRE_LIST', { list: data.results });
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    },
     GET_RESSOURCES_SOUTIENS_LIST_FROM_LOCAL_YAML: ({ commit }) => {
       commit('SET_RESSOURCES_SOUTIENS_LIST', { list: ressourcesSoutiensYamlData });
     },
