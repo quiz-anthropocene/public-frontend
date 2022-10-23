@@ -105,14 +105,10 @@ const store = new Vuex.Store({
       commit('SET_QUESTION_VALIDATED_LIST', { list: questionsValidated });
 
       // update categories: add question_count
-      state.categories.forEach((c) => {
-        c.question_count = questionsValidated.filter((q) => q.category && q.category.name === c.name).length;
-      });
+      commit('SET_CATEGORY_QUESTION_COUNT');
 
       // update tags: add question_count
-      state.tags.forEach((t) => {
-        t.question_count = questionsValidated.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
-      });
+      commit('SET_TAG_QUESTION_COUNT');
     },
     GET_QUESTION_PENDING_VALIDATION_LIST_FROM_LOCAL_YAML: ({ commit, state }) => {
       const questionsPendingValidation = questionsYamlData.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS);
@@ -151,9 +147,7 @@ const store = new Vuex.Store({
       commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: quizsSpotlighted });
 
       // update tags: add quiz_count
-      state.tags.forEach((t) => {
-        t.quiz_count = quizsPublished.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
-      });
+      commit('SET_TAG_QUIZ_COUNT');
     },
     /**
      * Get quiz relationships
@@ -211,12 +205,29 @@ const store = new Vuex.Store({
     GET_CATEGORY_LIST_FROM_LOCAL_YAML: ({ commit }) => {
       commit('SET_CATEGORY_LIST', { list: categoriesYamlData });
     },
+    GET_CATEGORY_LIST_FROM_API: ({ commit }) => {
+      return fetch(`${process.env.VUE_APP_API_ENDPOINT}/categories/`, {
+        method: 'GET',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      })
+        .then((response) => response.json())
+        // eslint-disable-next-line
+        .then(data => {
+          commit('SET_CATEGORY_LIST', { list: data.results });
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    },
     /**
      * Get tags
      * Pre-processing ? None
      */
     GET_TAG_LIST_FROM_LOCAL_YAML: ({ commit }) => {
-      commit('SET_TAG_LIST', { list: tagsYamlData });
+      return commit('SET_TAG_LIST', { list: tagsYamlData });
     },
     /**
      * Get ressources: glossaire, soutiens, autres apps
@@ -315,8 +326,33 @@ const store = new Vuex.Store({
     SET_CATEGORY_LIST: (state, { list }) => {
       state.categories = list;
     },
+    SET_CATEGORY_QUESTION_COUNT: (state) => {
+      if (state.categories.length && state.questionsValidated.length) {
+        state.categories.forEach((c, index) => {
+          const categoryQuestionCount = state.questionsValidated.filter((q) => q.category && q.category.name === c.name).length;
+          // splice? to tell Vue that the categories array has been updated
+          state.categories.splice(index, 1, Object.assign(c, { question_count: categoryQuestionCount }));
+        });
+      }
+    },
     SET_TAG_LIST: (state, { list }) => {
       state.tags = list;
+    },
+    SET_TAG_QUESTION_COUNT: (state) => {
+      if (state.tags.length && state.questionsValidated.length) {
+        state.tags.forEach((t, index) => {
+          const tagQuestionCount = state.questionsValidated.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
+          state.tags.splice(index, 1, Object.assign(t, { question_count: tagQuestionCount }));
+        });
+      }
+    },
+    SET_TAG_QUIZ_COUNT: (state) => {
+      if (state.tags.length && state.quizsPublished.length) {
+        state.tags.forEach((t, index) => {
+          const tagQuizCount = state.quizsPublished.filter((q) => q.tags.map((qt) => qt.id).includes(t.id)).length;
+          state.tags.splice(index, 1, Object.assign(t, { quiz_count: tagQuizCount }));
+        });
+      }
     },
     SET_LANGUAGE_LIST: (state, { list }) => {
       state.languages = list;
