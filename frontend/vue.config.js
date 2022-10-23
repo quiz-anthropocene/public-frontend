@@ -7,7 +7,7 @@ module.exports = {
   // 'default' makes compilation fail in case of errors
   lintOnSave: true,
 
-  indexPath: 'index.vue.html',
+  indexPath: 'index.html',
 
   configureWebpack: (config) => {
     if (process.env.NODE_ENV !== 'production') return;
