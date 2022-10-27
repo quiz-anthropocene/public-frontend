@@ -10,3 +10,6 @@
 /contribuer /contribuer.rendered.html 200
 /glossaire /glossaire.rendered.html 200
 /quiz/57 /quiz/57.rendered.html 200
+
+# https://docs.netlify.com/routing/redirects/rewrites-proxies/#history-pushstate-and-single-page-apps
+/* /index.html 200
