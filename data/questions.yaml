@@ -39388,21 +39388,21 @@
     le volume des barils à 42 gallons américains, soit environ 159 litres.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Baril
   answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c451df49.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1024
   text: Quelle quantité de pétrole est consommée chaque jour dans le monde ?
   hint: ''
@@ -39418,7 +39418,9 @@
   answer_option_d: 150 millions de barils
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 150 millions de barils
+  answer_explanation: En 2019, avant la pandémie de Covid, la consommation mondiale
+    de pétrole s'est approchée de 100 millions de barils par jour. Cela équivaut à
+    16 milliards de litres, ou encore 6,400 piscines olympiques.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -39431,11 +39433,11 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1025
   text: Quel est le 1er pays producteur de pétrole ?
   hint: ''
@@ -39468,7 +39470,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1026
   text: Quel est le 1er pays consommateur de pétrole ?
   hint: ''
@@ -39497,11 +39499,11 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1027
   text: Quelle place occupe le pétrole dans le paysage énergétique mondial ?
   hint: ''
@@ -39536,7 +39538,8 @@
   created: '2022-06-08'
   updated: '2022-06-08'
 - id: 1028
-  text: Quel est le 1er fournisseur de pétrole de l'Union européenne ?
+  text: A date de 2019, quel est le 1er fournisseur de pétrole de l'Union européenne
+    ?
   hint: ''
   type: QCM
   category: 5
@@ -39567,7 +39570,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1029
   text: Combien les importations de pétrole brut et de produits raffinés ont-elles
     coûté à la France en 2019 ?
@@ -39628,21 +39631,21 @@
     membres, afin de faire augmenter ou baisser le prix du pétrole.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Organisation_des_pays_exportateurs_de_p%C3%A9trole
   answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a2dbffed.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1031
   text: Le transport routier est le 1er usage du pétrole dans le monde. Quel est le
     second ?
@@ -39671,7 +39674,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e50093c4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 57
@@ -39680,7 +39683,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1032
   text: Tous les pétroles extraits dans le monde ont-ils les mêmes propriétés physicochimiques
     ?
@@ -39716,7 +39719,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-10-28'
 - id: 1033
   text: Sous climats tempérés, quels sols contiennent le plus de matière organique
     par hectare ?
@@ -41626,3 +41629,35 @@
   validation_date: null
   created: '2022-08-14'
   updated: '2022-08-14'
+- id: 1078
+  text: question factice
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: a
+  answer_option_b: b
+  answer_option_c: c
+  answer_option_d: d
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-10-28'
+  updated: '2022-10-28'
