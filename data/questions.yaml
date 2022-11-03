@@ -29085,8 +29085,8 @@
   text: Le Col de Porte, situé à 1,325m d'altitude dans les Alpes françaises est le
     site de référence de Météo France pour l'étude de l'évolution du manteau neigeux
     depuis 1960. Si l'on compare entre la période 1960 à 1990 d'une part, et la période
-    1990 à 2020 d'autre part, comment a évolué la hauteur la hauteur de neige moyenne
-    mesurée au col ?
+    1990 à 2020 d'autre part, comment a évolué la hauteur de neige moyenne mesurée
+    au col ?
   hint: ''
   type: QCM
   category: 5
@@ -29123,7 +29123,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-10-01'
+  updated: '2022-11-02'
 - id: 746
   text: Sur la période 1986-2005, quelle a été la consommation annuelle d'eau des
     canons à neige en France ?
@@ -29923,7 +29923,7 @@
   created: '2021-01-17'
   updated: '2022-04-16'
 - id: 764
-  text: Vrai ou faux ? Ce sont les activités humaines qui font changer le climat depuis
+  text: Vrai ou faux ? Les activités humaines ont un impact majeur sur le climat depuis
     quelques siècles.
   hint: ''
   type: VF
@@ -29958,7 +29958,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-09-13'
+  updated: '2022-11-02'
 - id: 765
   text: Est-ce que ça créé de l'effet de serre quand je...
   hint: ''
@@ -29970,7 +29970,7 @@
   answer_option_a: prends la voiture ou l’avion ?
   answer_option_b: mange de la viande ?
   answer_option_c: m’achète des choses ?
-  answer_option_d: joue dans le jardin ?
+  answer_option_d: joue à l'extérieur ?
   answer_correct: abc
   has_ordered_answers: true
   answer_explanation: Par exemple, tout ce que tu achètes vient de l’industrie. Pour
@@ -29995,7 +29995,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-09-22'
+  updated: '2022-11-02'
 - id: 766
   text: 'Vrai ou faux : Tous les humains contribuent de la même manière au changement
     climatique.'
@@ -30728,7 +30728,7 @@
   created: '2021-01-17'
   updated: '2022-04-16'
 - id: 784
-  text: Qu’est-ce que le changement climatique va entraîner comme conséquences ?
+  text: Qu’est-ce que le changement climatique entraîne comme conséquences ?
   hint: ''
   type: QCM-RM
   category: 2
@@ -30741,17 +30741,15 @@
   answer_option_d: Plus d’inondations
   answer_correct: abcd
   has_ordered_answers: true
-  answer_explanation: 'Il fallait en effet cocher toutes les réponses pour cette dernière
-    question. Le changement climatique a de nombreux impacts. Comme la température
-    augmente, il y a plus souvent des jours où il fait trop chaud, et des sécheresses
-    car il y a de moins en moins d’eau. Lorsque l’atmosphère se réchauffe, tout est
-    perturbé : l’évaporation, la formation des nuages... Cela peut causer des pluies
-    intenses qui font déborder les rivières et inonder les terres. Ce ne sont pas
-    des bonnes nouvelles pour les hommes.
-
-    Les plantes et les animaux sont aussi affectés par tous ces changements et certaines
-    espèces disparaissent à cause de la chaleur, du manque d’eau ou de la banquise
-    qui fond.'
+  answer_explanation: "Il fallait en effet cocher toutes les réponses pour cette dernière\
+    \ question. Le changement climatique a déjà de nombreux impacts. Comme la température\
+    \ augmente, il y a plus souvent des jours où il fait trop chaud, et des sécheresses\
+    \ car il y a de moins en moins d’eau. Lorsque l’atmosphère se réchauffe, tout\
+    \ est perturbé : l’évaporation, la formation des nuages... Cela peut causer des\
+    \ pluies intenses qui font déborder les rivières et inonder les terres. Ce ne\
+    \ sont pas des bonnes nouvelles pour les hommes.\r\nLes plantes et les animaux\
+    \ sont aussi affectés par tous ces changements et certaines espèces disparaissent\
+    \ à cause de la chaleur, du manque d’eau ou de la banquise qui fond."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.vikidia.org/wiki/R%C3%A9chauffement_climatique
@@ -30769,7 +30767,7 @@
   validator: 1
   validation_date: '2021-01-30'
   created: '2021-01-23'
-  updated: '2022-04-16'
+  updated: '2022-11-02'
 - id: 785
   text: Le solaire et l’éolien ne fournissent de l’énergie que de façon intermittente.
     De combien faut-il augmenter la puissance installée pour avoir l’équivalent d’une
@@ -34974,8 +34972,9 @@
   answer_video: ''
   answer_accessible_url: https://www.oxfamfrance.org/climat-et-energie/combattre-les-inegalites-des-emissions-de-co2/
   answer_accessible_url_text: 'Oxfam : Combattre les inégalités des émissions de CO2'
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://donnees.banquemondiale.org/indicateur/EN.ATM.CO2E.PC?locations=NE
+  answer_scientific_url_text: Empreinte carbone par habitant au Niger, source Banque
+    Mondiale
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000888-b784.jpg
   answer_image_explanation: ''
@@ -34986,7 +34985,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2022-11-02'
 - id: 889
   text: Depuis 1900, les émissions de CO2 ont été multipliées par 20 alors que la
     population humaine a été multipliée par 5. Dans cet essor des émissions, quelle
@@ -38098,7 +38097,7 @@
   difficulty: 4
   language: Français
   answer_option_a: manger de la viande une fois par jour pendant un an
-  answer_option_b: faire 10,000 km en voiture seul pendant un an
+  answer_option_b: faire 10,000 km en voiture seul
   answer_option_c: chauffer un logement de 40m2 au fioul ou au gaz à 19°C le jour
     / 16°C la nuit pendant un an
   answer_option_d: acheter entre 2,000€ et 5,000€ de biens de consommation (livres,
@@ -38125,7 +38124,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-04-16'
+  updated: '2022-11-02'
 - id: 968
   text: Lesquels de ces modes de transport sont compatibles avec une vie bas carbone,
     c'est à dire avec une réduction respectant les accords de Paris à l'horizon 2050
@@ -38894,12 +38893,12 @@
     \ en 2019. C’est ce qu’indiquent les inventaires nationaux. Ils ne tiennent cependant\
     \ pas compte des transports aériens et maritimes internationaux, ni des émissions\
     \ liées à la production de l’énergie, des véhicules ou des infrastructures de\
-    \ transport. \nQuand ces émissions sont en France, elles sont indiquées dans un\
-    \ autre secteur. Quand elles sont émises à l’étranger, elles ne sont tout simplement\
-    \ pas dans notre inventaire national, comme de nombreuses émissions liées à des\
-    \ produits importés.\nCependant, si on raisonne en empreinte carbone des transports\
-    \ sur le total de l’empreinte carbone des français, l’ordre de grandeur de 30\
-    \ % des émissions liées aux transports reste valable."
+    \ transport. \r\nQuand ces émissions de production sont en France, elles sont\
+    \ indiquées dans un autre secteur. Quand elles sont émises à l’étranger, elles\
+    \ ne sont tout simplement pas dans notre inventaire national, comme de nombreuses\
+    \ émissions liées à des produits importés.\r\nCependant, si on raisonne en empreinte\
+    \ carbone des transports sur le total de l’empreinte carbone des français, l’ordre\
+    \ de grandeur de 30 % des émissions liées aux transports reste valable."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.hautconseilclimat.fr/publications/rapport-grand-public-2021/
@@ -38917,7 +38916,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2022-11-02'
 - id: 1014
   text: Aujourd'hui, 9 à 10 % du trafic de marchandises passe par le train. Quelle
     était cette proportion en 1960 ?
@@ -40332,7 +40331,7 @@
   - 225
   difficulty: 3
   language: Français
-  answer_option_a: Des légèe variations de l'activité solaire moyenne
+  answer_option_a: De légères variations de l'activité solaire moyenne
   answer_option_b: De subtiles modifications des paramètres de l'orbite de la Terre
     autour du soleil
   answer_option_c: De fortes éruptions volcaniques
@@ -40360,10 +40359,10 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-06-28'
-  updated: '2022-07-29'
+  updated: '2022-11-02'
 - id: 1049
   text: Comment a évolué la surface totale des glaciers européens depuis 1900 ?
-  hint: C'est pas rien, même s'il en reste encore
+  hint: Ce n'est pas rien, même s'il en reste encore
   type: QCM
   category: 1
   tags:
@@ -40401,7 +40400,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-07-13'
-  updated: '2022-07-29'
+  updated: '2022-11-02'
 - id: 1050
   text: Les scientifiques du GIEC ont dressé 5 scenarios d'évolution du climat en
     fonction de nos émissions de gaz à effet de serre, du plus favorable (SSP1-1.9)
