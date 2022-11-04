@@ -1951,7 +1951,9 @@
     sur le pétrole, qu'il a accepté de transposer chez Quiz de l'Anthropocène.</p>
   conclusion: '<p>Si le sujet vous a intéressé, vous pouvez aussi vous procurer l''ouvrage
     qu''il a publié : <em><a href="https://www.interforum.fr/Affiliations/accueil.do?refLivre=9791030104370&amp;refEditeur=135&amp;type=P">Energies</a>,
-    </em>publié chez Tana Editions, dans la collection <em>Fake or not</em>.</p>'
+    </em>publié chez Tana Editions, dans la collection <em>Fake or not</em>. Vous
+    pouvez également enchainer sur un <a href="https://quizanthropocene.fr/quiz/le-petrole">autre
+    quiz sur le pétrole</a>.</p>'
   questions:
   - 1023
   - 1024
@@ -1972,12 +1974,12 @@
   authors:
   - 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
+  publish: true
+  publish_date: '2022-11-04'
+  spotlight: true
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 84
@@ -2069,10 +2071,13 @@
 - id: 86
   name: Fresque de la Renaissance Ecologique - Le quizz
   slug: fresque-de-la-renaissance-ecologique-le-quizz
-  introduction: "<p>Les rapports scientifiques (GIEC, IPBES, ...) ont montré à quel\
-    \ point il était plus que nécessaire de comprendre les problématiques liées au\
-    \ changement climatique, à l’effondrement de la biodiversité, à l’épuisement des\
-    \ ressources et aux inégalités.</p>\r\n\r\n<p>​<strong>Nous devons comprendre\
+  introduction: "<p>Les derniers rapports scientifiques, notamment du GIEC sur le\
+    \ climat, et de l'IPBES sur la biodiversité nous alertent sur la dégradation que\
+    \ l'homme inflige à la planète. Dans ce contexte, la Fresque de la Renaissance\
+    \ Ecologique se donne comme objectif de comprendre et de mettre en lien ces problématiques\
+    \ à quel point il était plus que nécessaire de comprendre les problématiques liées\
+    \ au changement climatique, à l’effondrement de la biodiversité, à l’épuisement\
+    \ des ressources et aux inégalités.</p>\r\n\r\n<p>​<strong>Nous devons comprendre\
     \ et agir collectivement.</strong></p>\r\n\r\n<p>Par son approche holistique et\
     \ positive, la Renaissance Écologique traite tous les sujets sociétaux qui vont\
     \ accélérer la transformation de nos modèles et mettre en mouvement tous les acteurs.</p>\r\
@@ -2093,7 +2098,7 @@
   tags: []
   difficulty_average: 0.0
   language: Français
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/228ef3e0.jpg
   has_audio: false
   authors:
   - 62
@@ -2105,7 +2110,7 @@
   publish_date: null
   spotlight: false
   created: '2022-07-06'
-  updated: '2022-07-07'
+  updated: '2022-11-04'
 - id: 87
   name: Les ressources en eau
   slug: les-ressources-en-eau-eaudyssee

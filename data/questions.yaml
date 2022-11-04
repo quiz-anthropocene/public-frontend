@@ -38385,17 +38385,13 @@
     the export of toxic waste such as electronic waste.'
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://www.greenit.fr/2017/12/26/20-dechets-electroniques-recycles/
-  answer_accessible_url_text: Seulement 20 % des déchets électroniques recyclés -
-    Green IT
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
   answer_scientific_url: https://www.itu.int/en/ITU-D/Climate-Change/Documents/GEM%202017/Global-E-waste%20Monitor%202017%20-%20Chapter%206.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001000-7bd4.png
-  answer_image_explanation: 'Electronic waste
-
-
-    Source : Digital collage, fresquedunumerique.org'
+  answer_image_explanation: "Electronic waste\r\n\r\nSource : Digital collage, fresquedunumerique.org"
   answer_extra_info: ''
   author: 18
   visibility: PUBLIC
@@ -38403,7 +38399,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 1001
   text: What is the share of video flows in the internet traffic?
   hint: It is more that what we think...
@@ -38424,15 +38420,15 @@
     (18%)...'
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://theshiftproject.org/wp-content/uploads/2019/07/R%C3%A9sum%C3%A9-aux-d%C3%A9cideurs_FR_Linsoutenable-usage-de-la-vid%C3%A9o-en-ligne.pdf
+  answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://theshiftproject.org/wp-content/uploads/2019/07/2019-01.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001001-8266.png
-  answer_image_explanation: "Video online represents 80% of the internet traffic:\n\
-    - 20% - vod (Netflix, Amazon Prime)\n- 20% - other video (TV, videoconf)\n- 16%\
-    \ - pornography\n \nSource : Digital collage, fresquedunumerique.org"
+  answer_image_explanation: "Video online represents 80% of the internet traffic:\r\
+    \n- 20% - vod (Netflix, Amazon Prime)\r\n- 20% - other video (TV, videoconf)\r\
+    \n- 16% - pornography\r\n \r\nSource : Digital collage, fresquedunumerique.org"
   answer_extra_info: ''
   author: 18
   visibility: PUBLIC
@@ -38440,7 +38436,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 1002
   text: 'Globally, and considering all stages of the life cycle, what share does digital
     represent in our greenhouse gas emissions? (reference: 2018)'
@@ -38458,23 +38454,21 @@
   answer_option_d: 10%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'If we take into account Green house Emission (GHE) due to extraction
-    and usage (mainly electricity), the digital sector represents close to 4% of our
-    GHE, hence more than civil aviation.
-
-    To note : the portion linked to waste is not documented (probably amounts for
-    a small part, unfortunately).'
+  answer_explanation: "If we take into account Green house Emission (GHE) due to extraction\
+    \ and usage (mainly electricity), the digital sector represents close to 4% of\
+    \ our GHE, hence more than civil aviation.\r\nTo note : the portion linked to\
+    \ waste is not documented (probably amounts for a small part, unfortunately)."
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://theshiftproject.org/wp-content/uploads/2018/11/Rapport-final-v8-WEB.pdf
+  answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001002-0ec8.png
-  answer_image_explanation: "Emissions of GHG distribution\n- 40% building equipment\n\
-    - 26% usage of digital equipment \n- 16% network usage\n\nSource : Digital collage,\
-    \  fresquedunumerique.org"
+  answer_image_explanation: "Emissions of GHG distribution\r\n- 40% building equipment\r\
+    \n- 26% usage of digital equipment \r\n- 16% network usage\r\n\r\nSource : Digital\
+    \ collage,  fresquedunumerique.org"
   answer_extra_info: ''
   author: 18
   visibility: PUBLIC
@@ -38482,7 +38476,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 1003
   text: 'The digital objects are: end user devices, infrastructure devices, and data
     centers. Which family of objects consume the most electricity ?'
@@ -38546,28 +38540,24 @@
     is use. In 2019, 14 billion smartphones have been manufactured.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://www.zdnet.fr/actualites/gaz-a-effet-de-serre-les-smartphones-polluent-surtout-pendant-leur-fabrication-39846224.htm
-  answer_accessible_url_text: 'Gaz à effet de serre : les smartphones polluent surtout
-    pendant leur fabrication - ZDNet'
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
   answer_scientific_url: https://www.apple.com/euro/environment/pdf/a/generic/products/iphone/iPhone_11_PER_sept2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001004-978b.jpg
-  answer_image_explanation: "120g of smartphone contains \n70 precious and rare metals\
-    \ (or, silver, aluminium, cobalt...) and requires 70 kg of substance (difficult\
+  answer_image_explanation: "120g of smartphone contains \r\n70 precious and rare\
+    \ metals (or, silver, aluminium, cobalt...) and requires 70 kg of substance (difficult\
     \ to extract and requiring a lot of water)"
-  answer_extra_info: 'answers modified to allow to memorize the values about carbon
-    footprint of a smartphone: ~100 kg CO2eq
-
-
-    https://twitter.com/laydgeur/status/1234583035296845825'
+  answer_extra_info: "answers modified to allow to memorize the values about carbon\
+    \ footprint of a smartphone: ~100 kg CO2eq\r\n\r\nhttps://twitter.com/laydgeur/status/1234583035296845825"
   author: 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 1005
   text: How much of the world's electricity consumption is digital?
   hint: ''
@@ -38588,19 +38578,16 @@
     year.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://lejournal.cnrs.fr/articles/numerique-le-grand-gachis-energetique
-  answer_accessible_url_text: 'Numérique : le grand gâchis énergétique | CNRS Le journal'
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001005-4846.png
-  answer_image_explanation: 'Data coming from The Shift project 2017.
-
-    It represents 4% of the portion of worldwide Co2 emissions (more than civil Aviation),
-    in 2025 it will double. Same for the wordwide electric consumption (from 10 to
-    20%).
-
-    Digital footprint will increase by about 9% per year.'
+  answer_image_explanation: "Data coming from The Shift project 2017.\r\nIt represents\
+    \ 4% of the portion of worldwide Co2 emissions (more than civil Aviation), in\
+    \ 2025 it will double. Same for the wordwide electric consumption (from 10 to\
+    \ 20%).\r\nDigital footprint will increase by about 9% per year."
   answer_extra_info: ''
   author: 21
   visibility: PUBLIC
@@ -38608,7 +38595,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 1006
   text: If the Internet were a country, where would it stand in terms of electricity
     consumption?
@@ -38632,9 +38619,8 @@
     perspective with the number of users, which ranges in the billions.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://www.lefigaro.fr/secteur/high-tech/internet-un-ogre-energetique-a-l-appetit-insatiable-en-electricite-20191120
-  answer_accessible_url_text: Internet, un ogre énergétique à l’appétit insatiable
-    en électricité
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
   answer_scientific_url: https://www.nature.com/articles/d41586-018-06610-y
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -38648,7 +38634,7 @@
   validator: 1
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 1007
   text: En 2009, quelle proportion des climatologues attribuaient à l'humain la cause
     du dérèglement climatique actuel ?
@@ -39373,7 +39359,7 @@
     \nQue représente un baril de pétrole ?"
   hint: ''
   type: QCM
-  category: null
+  category: 5
   tags: []
   difficulty: 1
   language: Français
@@ -39401,9 +39387,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1024
@@ -39436,9 +39422,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1025
@@ -39470,16 +39456,16 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1026
   text: Quel est le 1er pays consommateur de pétrole ?
   hint: ''
   type: QCM
-  category: null
+  category: 5
   tags: []
   difficulty: 1
   language: Français
@@ -39503,9 +39489,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1027
@@ -39538,9 +39524,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1028
@@ -39573,9 +39559,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1029
@@ -39648,9 +39634,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1031
@@ -39686,9 +39672,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1032
@@ -39722,9 +39708,9 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-04'
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1033
