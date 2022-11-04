@@ -241,8 +241,8 @@
 - id: 57
   first_name: Maxence
   last_name: Cordiez
-  question_count: 0
-  quiz_count: 0
+  question_count: 9
+  quiz_count: 1
   created: '2022-06-08'
 - id: 59
   first_name: Romaric
