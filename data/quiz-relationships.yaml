@@ -83,3 +83,13 @@
   to_quiz: 79
   status: similaire
   created: '2022-01-27'
+- id: 19
+  from_quiz: 83
+  to_quiz: 65
+  status: similaire
+  created: '2022-11-04'
+- id: 20
+  from_quiz: 83
+  to_quiz: 56
+  status: similaire
+  created: '2022-11-04'
