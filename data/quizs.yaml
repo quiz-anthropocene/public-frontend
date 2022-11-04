@@ -1950,8 +1950,8 @@
     et le climat, en particulier sur LinkedIn. Notamment ce quiz de prise de connaissance
     sur le pétrole, qu'il a accepté de transposer chez Quiz de l'Anthropocène.</p>
   conclusion: '<p>Si le sujet vous a intéressé, vous pouvez aussi vous procurer l''ouvrage
-    qu''il a publié : <em>Energies, Fake or Not ? La transition énergétique, on y
-    est presque</em></p>'
+    qu''il a publié : <em><a href="https://www.interforum.fr/Affiliations/accueil.do?refLivre=9791030104370&amp;refEditeur=135&amp;type=P">Energies</a>,
+    </em>publié chez Tana Editions, dans la collection <em>Fake or not</em>.</p>'
   questions:
   - 1023
   - 1024
@@ -1972,14 +1972,14 @@
   authors:
   - 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 84
   name: Introduction to the Climate Fresk
   slug: introduction-to-the-climate-fresk-en
