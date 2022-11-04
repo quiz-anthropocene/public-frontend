@@ -877,7 +877,7 @@
   publish_date: '2020-12-23'
   spotlight: false
   created: '2020-12-13'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 57
   name: 2020 en chiffres
   slug: 2020-en-chiffres
@@ -1215,7 +1215,7 @@
   publish_date: '2021-03-21'
   spotlight: false
   created: '2021-03-11'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 66
   name: Un voyage sur des millions d'années
   slug: un-voyage-sur-des-millions-dannees
@@ -1951,9 +1951,7 @@
     sur le pétrole, qu'il a accepté de transposer chez Quiz de l'Anthropocène.</p>
   conclusion: '<p>Si le sujet vous a intéressé, vous pouvez aussi vous procurer l''ouvrage
     qu''il a publié : <em><a href="https://www.interforum.fr/Affiliations/accueil.do?refLivre=9791030104370&amp;refEditeur=135&amp;type=P">Energies</a>,
-    </em>publié chez Tana Editions, dans la collection <em>Fake or not</em>. Vous
-    pouvez également enchainer sur un <a href="https://quizanthropocene.fr/quiz/le-petrole">autre
-    quiz sur le pétrole</a>.</p>'
+    </em>publié chez Tana Editions, dans la collection <em>Fake or not</em>.</p>'
   questions:
   - 1023
   - 1024
@@ -1961,7 +1959,6 @@
   - 1026
   - 1027
   - 1028
-  - 1029
   - 1030
   - 1031
   - 1032
