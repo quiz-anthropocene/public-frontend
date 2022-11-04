@@ -1993,7 +1993,7 @@
   answer_accessible_url_text: 'Défense : « Il y a davantage de réfugiés climatiques
     que de réfugiés liés aux conflits dans le monde »'
   answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: PNAS - Future of the human climate niche
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -2004,7 +2004,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 50
   text: Dans le monde, l'érosion et l'épuisement des sols réduisent les surfaces arables.
     De combien d'hectares par an ?
@@ -3817,7 +3817,8 @@
   answer_accessible_url_text: 'L''INFO EN MOINS D''UNE MINUTE. Autonomie alimentaire
     : Avignon et Valence, championnes de France'
   answer_scientific_url: https://www.utopies.com/publications/autonomie-alimentaire-des-villes/
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Utopies - Note de position  #12 Autonomie alimentaire
+    des villesrapport autonomie alimentaire des villes'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000095-e965.png
   answer_image_explanation: ''
@@ -3828,7 +3829,7 @@
   validator: 5
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 96
   text: Quelle quantité d'aliments jette-t-on chaque année en France par personne
     ?
@@ -16938,7 +16939,8 @@
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=1021,1006,1018,2002,1012&yr=2016
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Global Footprint Nework - Ecological Footprint of Countries
+    2016
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000440-8a1d.jpg
   answer_image_explanation: ''
@@ -16949,7 +16951,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 441
   text: 'Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à
     celles d’un Indien ?
@@ -22126,7 +22128,7 @@
   answer_scientific_url: https://www.nationalgeographic.fr/espace/et-si-la-plus-grande-tempete-solaire-jamais-enregistree-etait-venir
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000577-d5bc.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/088e95c2.jpg
   answer_image_explanation: Eruption solaire massive
   answer_extra_info: ''
   author: 13
@@ -22135,7 +22137,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -34083,17 +34085,18 @@
   answer_option_d: 18,000 ans
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: ' La dernière fois que la Terre a connu un tel réchauffement,
+  answer_explanation: La dernière fois que la Terre a connu un tel réchauffement,
     lors de la sortie de la période glaciaire (entre il y a 21 000 et il y a 11 000
     ans), la vie a eu le temps de s’adapter puisque cela s’est produit sur... 10 000
-    ans, soit une augmentation moyenne 0,05°C par siècle. L''augmentation de la température
-    moyenne depuis le début de l''ère industrielle est déjà de 1,2°C, et selon certains
-    scenarios du GIEC, on parle de 5°C d''ici 2100 . Soit 2°C par siècle, 40 fois
-    plus rapide.'
+    ans, soit une augmentation moyenne 0,05°C par siècle. L'augmentation de la température
+    moyenne depuis le début de l'ère industrielle est déjà de 1,2°C, et selon certains
+    scenarios du GIEC, on parle de 5°C d'ici 2100 . Soit 2°C par siècle, 40 fois plus
+    rapide.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/actualites/climatologie-temperature-faisait-il-terre-durant-derniere-periode-glaciaire-82668/
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'Article Futura Science : Quelle température faisait-il
+    sur Terre durant la dernière période glaciaire ?'
   answer_scientific_url: https://www.nature.com/articles/s41586-020-2617-x
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -34106,7 +34109,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 868
   text: Quel est l'impact prévu sur les rendements agricoles d'une augmentation d'un
     degré supplémentaire sur la température mondiale ?
@@ -36467,7 +36470,7 @@
   answer_accessible_url_text: L’élevage émet plus de gaz à effet de serre que les
     transports — Le Club
   answer_scientific_url: http://www.fao.org/3/a-i6345f.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Elevage et changements climatiques - rapport de la FAO
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000927-717a.jpg
   answer_image_explanation: ''
@@ -36478,7 +36481,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2022-11-04'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -39388,10 +39391,11 @@
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Baril
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Wikipédia, définition du baril
   answer_scientific_url: ''
   answer_scientific_url_text: ''
-  answer_reading_recommendation: ''
+  answer_reading_recommendation: Or Noir, la grande histoire du pétrole, de Matthieu
+    Auzanneau, édition la Découverte
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c451df49.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
@@ -39401,7 +39405,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1024
   text: Quelle quantité de pétrole est consommée chaque jour dans le monde ?
   hint: ''
@@ -39414,7 +39418,7 @@
   answer_option_a: 100 000 barils
   answer_option_b: 10 millions de barils
   answer_option_c: 100 millions de barils
-  answer_option_d: 150 millions de barils
+  answer_option_d: 200 millions de barils
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: En 2019, avant la pandémie de Covid, la consommation mondiale
@@ -39424,11 +39428,11 @@
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+  answer_scientific_url_text: BP Statistical Review of World Energy
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d7867b40.png
-  answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
+  answer_image_explanation: BP Statistical Review of World Energy, 2021
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
@@ -39436,7 +39440,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1025
   text: Quel est le 1er pays producteur de pétrole ?
   hint: ''
@@ -39452,24 +39456,25 @@
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: Depuis 2017, les États-Unis ont retrouvé leur rang de 1er producteur
-    de pétrole au monde. Auparavant, cette place était tenue par l'Arabie saoudite.
+    de pétrole au monde, qu'ils avaient perdu en 1976 face à l'URSS. Avant 2017, cette
+    place était tenue par l'Arabie saoudite.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+  answer_scientific_url_text: BP Stastical Review
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/da1e3c45.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1026
   text: Quel est le 1er pays consommateur de pétrole ?
   hint: ''
@@ -39490,8 +39495,8 @@
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+  answer_scientific_url_text: Statistical Review of World Energy
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2f67a4fb.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
@@ -39502,7 +39507,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1027
   text: Quelle place occupe le pétrole dans le paysage énergétique mondial ?
   hint: ''
@@ -39518,12 +39523,14 @@
   answer_option_d: 4ème place
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: 'Le pétrole est la première source d''énergie utilisée dans
+    le monde, devant le charbon et le gaz. Arrivent ensuite : la biomasse, l''hydroélectricité,
+    le nucléaire, l''éolien et le solaire.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
+  answer_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f7cbc2a2.png
@@ -39531,14 +39538,13 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-11-04'
 - id: 1028
-  text: A date de 2019, quel est le 1er fournisseur de pétrole de l'Union européenne
-    ?
+  text: En 2019, quel était le 1er fournisseur de pétrole de l'Union européenne ?
   hint: ''
   type: QCM
   category: 5
@@ -39551,12 +39557,14 @@
   answer_option_c: Russie
   answer_option_d: Algérie
   answer_correct: c
-  has_ordered_answers: true
-  answer_explanation: ''
+  has_ordered_answers: false
+  answer_explanation: En 2019, la Russie était le premier fournisseur de pétrole,
+    gaz et charbon de l'Union Européenne. La situation a changé brutalement en 2022
+    avec la guerre en Ukraine.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://ec.europa.eu/eurostat/cache/infographs/energy/bloc-2a.html?etrans=fr
+  answer_accessible_url_text: D’où vient notre énergie? Eurostat
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -39565,11 +39573,11 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1029
   text: Combien les importations de pétrole brut et de produits raffinés ont-elles
     coûté à la France en 2019 ?
@@ -39604,11 +39612,11 @@
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-06-08'
+  updated: '2022-11-04'
 - id: 1030
   text: Qu'est-ce que l'OPEP ?
   hint: ''
@@ -39644,7 +39652,7 @@
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1031
   text: Le transport routier est le 1er usage du pétrole dans le monde. Quel est le
     second ?
@@ -39661,28 +39669,28 @@
   answer_option_d: La production électrique
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: La pétrochimie constitue le 2ème usage au monde du pétrole,
-    derrière le transport routier. Il s'agit de la production, à partir de pétrole,
-    des composés chimiques de base. Ces composés serviront ensuite à produire des
-    plastiques, fibres synthétiques, médicaments, cosmétiques, etc. Le secteur de
-    la pétrochimie est en forte croissance.
+  answer_explanation: Les usages non énergétiques (pétrochimie) constituent le 2ème
+    usage au monde du pétrole, derrière le transport routier. Il s'agit de la production,
+    à partir de pétrole, des composés chimiques de base. Ces composés serviront ensuite
+    à produire des plastiques, fibres synthétiques, médicaments, cosmétiques, etc.
+    Le secteur de la pétrochimie est en forte croissance.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser?country=WORLD&fuel=Oil&indicator=OilProductsConsBySector
+  answer_scientific_url_text: IAE, Energy Statistics Data Browser
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e50093c4.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1032
   text: Tous les pétroles extraits dans le monde ont-ils les mêmes propriétés physicochimiques
     ?
@@ -39704,21 +39712,21 @@
     contenir plus ou moins de soufre et d'impuretés.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Densit%C3%A9_API
+  answer_accessible_url_text: Indice API, wikipédia
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3df89e6f.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 57
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-06-08'
-  updated: '2022-10-28'
+  updated: '2022-11-04'
 - id: 1033
   text: Sous climats tempérés, quels sols contiennent le plus de matière organique
     par hectare ?
@@ -41356,8 +41364,8 @@
   created: '2022-08-04'
   updated: '2022-09-09'
 - id: 1071
-  text: Combien de décès prématurés seraient imputables à la qualité de l'air chaque
-    année ?
+  text: Combien de décès prématurés sont imputables à la qualité de l'air chaque année
+    dans le monde ?
   hint: ''
   type: QCM
   category: 3
@@ -41368,7 +41376,7 @@
   answer_option_a: 1 million
   answer_option_b: 4 millions
   answer_option_c: 7 millions
-  answer_option_d: 9 millions
+  answer_option_d: 15 millions
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Parmi ces 7 millions, plus de 4 millions en lien avec l’air
@@ -41382,16 +41390,16 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7f6884e0.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ae5f2ccb.jpeg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-09-06'
+  updated: '2022-11-04'
 - id: 1072
   text: Parmi les sols artificialisés, quels sont ceux occupés par les infrastructures
     de transport ?
@@ -41590,9 +41598,10 @@
   created: '2022-08-14'
   updated: '2022-08-14'
 - id: 1077
-  text: Aquaculture...
+  text: 'Vrai ou faux : la consommation de poissons issus de l''aquaculture dépasse
+    celle issue de la pèche en pleine mer ?'
   hint: ''
-  type: QCM
+  type: VF
   category: 7
   tags:
   - 5
@@ -41600,15 +41609,11 @@
   - 223
   difficulty: 3
   language: Français
-  answer_option_a: Les volumes de produits consommés sont équivalents à ceux issus
-    de la pêche.
-  answer_option_b: Les volumes de produits consommés sont sensiblement supérieurs
-    à ceux issus de la pêche.
-  answer_option_c: a connu un très fort développement jusqu'aux années 2010 mais décline
-    depuis cette période.
-  answer_option_d: a connu un très fort développement qui se maintient depuis plusieurs
-    décennies.
-  answer_correct: bd
+  answer_option_a: Faux
+  answer_option_b: Vrai
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
   has_ordered_answers: true
   answer_explanation: ''
   answer_audio: ''
@@ -41627,7 +41632,7 @@
   validator: null
   validation_date: null
   created: '2022-08-14'
-  updated: '2022-08-14'
+  updated: '2022-11-04'
 - id: 1078
   text: question factice
   hint: ''
