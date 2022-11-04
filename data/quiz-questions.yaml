@@ -2288,11 +2288,6 @@
   question: 1028
   order: 60
   created: '2022-06-08'
-- id: 620
-  quiz: 83
-  question: 1029
-  order: 70
-  created: '2022-06-08'
 - id: 621
   quiz: 83
   question: 1030

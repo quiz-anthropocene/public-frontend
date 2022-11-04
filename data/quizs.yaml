@@ -1946,14 +1946,15 @@
 - id: 83
   name: Le quiz de Maxence Cordiez sur le Pétrole
   slug: le-quiz-de-maxence-cordiez-sur-le-petrole
-  introduction: <p>Depuis 2017, Maxence Cordiez publie des contenus sur l'énergie
-    et le climat, en particulier sur LinkedIn. Notamment ce quiz de prise de connaissance
-    sur le pétrole, qu'il a accepté de transposer chez Quiz de l'Anthropocène.</p>
+  introduction: <p><a href="https://quizanthropocene.fr/quiz/en-etat-debriete-energetique">https://quizanthropocene.fr/quiz/en-etat-debriete-energetique</a>Depuis
+    2017, Maxence Cordiez publie des contenus sur l'énergie et le climat, en particulier
+    sur LinkedIn. Notamment ce quiz de prise de connaissance sur le pétrole, qu'il
+    a accepté de transposer chez Quiz de l'Anthropocène.</p>
   conclusion: '<p>Si le sujet vous a intéressé, vous pouvez aussi vous procurer l''ouvrage
     qu''il a publié : <em><a href="https://www.interforum.fr/Affiliations/accueil.do?refLivre=9791030104370&amp;refEditeur=135&amp;type=P">Energies</a>,
     </em>publié chez Tana Editions, dans la collection <em>Fake or not</em>. Vous
     pouvez également enchainer sur un <a href="https://quizanthropocene.fr/quiz/le-petrole">autre
-    quiz sur le pétrole</a>.</p>'
+    quiz sur le pétrole</a> et cet autre quiz sur notre dépendance à l''énergie.</p>'
   questions:
   - 1023
   - 1024
@@ -1961,7 +1962,6 @@
   - 1026
   - 1027
   - 1028
-  - 1029
   - 1030
   - 1031
   - 1032
