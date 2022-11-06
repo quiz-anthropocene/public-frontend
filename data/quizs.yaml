@@ -2153,3 +2153,37 @@
   spotlight: true
   created: '2022-07-16'
   updated: '2022-07-21'
+- id: 88
+  name: Comment fonctionne le GIEC ?
+  slug: comment-fonctionne-le-giec
+  introduction: <p>Le GIEC est le Groupement Intergouvernemental d'Experts sur l'évolution
+    du Climat. Savez-vous qui sont ces experts, comment ils fonctionnent ? Vous y
+    verrez plus clair après ce petit quiz.</p>
+  conclusion: ''
+  questions:
+  - 100
+  - 424
+  - 425
+  - 426
+  - 433
+  - 435
+  - 519
+  - 522
+  tags:
+  - 22
+  - 225
+  difficulty_average: 1.6
+  language: Français
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/5b55ee16.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2022-11-05'
+  updated: '2022-11-05'
