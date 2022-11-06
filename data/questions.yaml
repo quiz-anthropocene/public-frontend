@@ -1676,8 +1676,8 @@
   created: '2020-03-10'
   updated: '2022-04-16'
 - id: 42
-  text: Combien d'années faut-il à du CO2 émis pour commencer à être évacué de l'atmosphère
-    ?
+  text: Combien d'années faut-il à un excès de CO2 émis pour commencer à être évacué
+    de l'atmosphère ?
   hint: ''
   type: QCM
   category: 1
@@ -1694,10 +1694,10 @@
   answer_option_d: 1000 ans
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: La durée de séjour (= "demi-vie") d'une particule de CO2 dans
-    l'atmosphère est de 100 ans mais il faut plus de 10 000  ans pour toutes les évacuer.
-    C'est pourquoi les changements climatiques sont fondamentalement irréversibles
-    à l'échelle humaine.
+  answer_explanation: La durée de séjour - plus précisément, la demi-vie - d'une particule
+    de CO2 dans l'atmosphère est de 100 ans mais il faut plus de 10 000  ans pour
+    toutes les évacuer. C'est pourquoi les changements climatiques sont fondamentalement
+    irréversibles à l'échelle humaine.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://jancovici.com/changement-climatique/gaz-a-effet-de-serre-et-cycle-du-carbone/quels-sont-les-gaz-a-effet-de-serre-quels-sont-leurs-contribution-a-leffet-de-serre/
@@ -1706,20 +1706,18 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000042-3e8a.png
-  answer_image_explanation: 'Forçage radiatif résiduel, au cours du temps, et en watts
-    par mètre carré, provenant d’un million de tonnes de gaz émises à l’instant 0
-    (échelles logaritmiques).
-
-    On voit qu’il faut attendre de l’ordre du siècle avant que le CO2 ne commence
-    à être évacué de l’atmosphère de manière significative.'
+  answer_image_explanation: "Forçage radiatif résiduel, au cours du temps, et en watts\
+    \ par mètre carré, provenant d’un million de tonnes de gaz émises à l’instant\
+    \ 0 (échelles logaritmiques).\r\nOn voit qu’il faut attendre de l’ordre du siècle\
+    \ avant que le CO2 ne commence à être évacué de l’atmosphère de manière significative."
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: A valider
+  validation_status: Validée
   validator: 1
-  validation_date: null
+  validation_date: '2022-11-05'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 43
   text: Quel jour de l'année un Français atteint-il l'empreinte écologique d'un Malien
     ?
@@ -4002,8 +4000,8 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 100
-  text: La COP21 a eu lieu en 2015 à Paris. Quand et où a eu lieu la première COP
-    ?
+  text: La COP 27 a lieu en 2022 à Charm El Kheir en Egypte. Quand a eu lieu en 2015
+    à Paris. Quand et où a eu lieu la première COP ?
   hint: ''
   type: QCM
   category: 6
@@ -4031,16 +4029,16 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000100-3349.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3e5ad4d9.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: Validée
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: A valider
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 101
   text: Dans le cadre du système européen de quotas d'émission, à combien environ
     se chiffrait la tonne de CO2 en 2019 ?
@@ -16343,8 +16341,10 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: non, par contre ils négocient chaque ligne du résumé aux décideurs,
-    qui ne peut cependant pas être en contradiction avec le rapport complet
+  answer_explanation: Les gouvernements n'ont pas leur mot à dire sur la partie scientifique
+    des rapports. En revanche, certains pays négocient ligne à ligne le résumé aux
+    décideurs (30 à 50 pages). Ce résumé doit en tout état de cause rester en cohérence
+    avec la partie scientifique du rapport.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -16357,11 +16357,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: Écartée
+  validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 425
   text: 'Vrai ou faux : les opposants à la théorie du réchauffement climatique n’ont
     pas leur mot à dire dans les rapports du GIEC'
@@ -16379,9 +16379,9 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Faux. Le rapport est soumis pour avis à l’ensemble de la communauté
+  answer_explanation: Le rapport est soumis pour avis à l’ensemble de la communauté
     scientifique, qui peut faire des commentaires auxquels le GIEC est obligé de répondre
-    de manière publique
+    de manière publique.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
@@ -16399,7 +16399,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 426
   text: Vrai ou Faux ? Les travaux du GIEC ne prennent pas en compte les aspects sociaux
     du dérèglement climatique.
@@ -16420,9 +16420,9 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Le GIEC est composé de plusieurs groupes de travail, le groupe
-    de travail N°2 s’occupe des questions concernant la vulnérabilité des systèmes
-    socio-économiques et naturels aux changements climatiques, les conséquences négatives
-    et positives de ces changements et les possibilités de s’y adapter.
+    de travail N°2 s’occupe des questions de vulnérabilité des systèmes socio-économiques
+    et naturels aux changements climatiques, des conséquences de ces changements,
+    et des possibilités de s’y adapter.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
@@ -16439,7 +16439,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 427
   text: Combien sont payés par l'ONU les chercheurs qui participent aux rapports GIEC
     ?
@@ -16656,7 +16656,7 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 433
-  text: les membres du GIEC sont des politiques, pas des scientifiques
+  text: 'Vrai ou faux : Les membres du GIEC ne sont que des scientifiques'
   hint: ''
   type: VF
   category: 6
@@ -16668,10 +16668,10 @@
   answer_option_b: Faux
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: b
+  answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Faux, ce sont des experts scientifiques détachés par leurs laboratoires
-    d’accueil
+  answer_explanation: Ce sont des tous experts scientifiques détachés par leurs laboratoires
+    d’accueil.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -16688,7 +16688,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -16725,8 +16725,8 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 435
-  text: Le GIEC ne fait des modélisations que pour un seul scénario d’évolution des
-    émissions de gaz à effet de serre
+  text: 'Vrai ou faux : le GIEC établit un seul scénario d’évolution des émissions
+    de gaz à effet de serre pour le siècle à venir'
   hint: ''
   type: VF
   category: 6
@@ -16740,8 +16740,10 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Faux, il y a 4 scénarios (RCP) dans le dernier rapport d'évaluation
-    du GIEC de 2013-2014
+  answer_explanation: il y a 4 scénarios (RCP) dans le dernier rapport d'évaluation
+    du GIEC de 2013-2014. Ces scénarios sont dictés par différentes valeur du forçage
+    radiatif, c'est à dire l'accumulation d'énergie sur terre résultant de l'augmentation
+    de l'effet de serre.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -16758,7 +16760,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 436
   text: D'ici quelle année les émissions mondiales de CO2 doivent-elles tomber à zéro
     pour limiter le réchauffement climatique à +1.5°C ?
@@ -19832,49 +19834,33 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 519
-  text: Combien d’études scientifiques sont citées dans le dernier rapport d’évaluation
-    du GIEC de 2014 ?
-  hint: La mission du GIEC est de "faire la synthèse des connaissances scientifiques
-    sur le changement climatique, ses impacts, et ses moyens d'atténuation".
+  text: Combien d’études scientifiques sont citées dans les derniers rapports d’évaluation
+    du GIEC de 2021-22 ?
+  hint: ''
   type: QCM
   category: 6
   tags:
   - 22
   difficulty: 4
   language: Français
-  answer_option_a: '30'
-  answer_option_b: '300'
-  answer_option_c: 3 000
-  answer_option_d: 30 000
-  answer_correct: d
+  answer_option_a: '66'
+  answer_option_b: '660'
+  answer_option_c: 66,000
+  answer_option_d: 120,000
+  answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Un rapport du GIEC est composé de 3 volets, rédigés par 3 groupes
-    différents :
-
-    - Le groupe I traite de la science climatique (observations, modèles, physique,
-    ...)
-
-    - Le groupe II traite des impacts du changement climatiques, sur les sociétés
-    humaines, la faune et la flore, ...
-
-    - Le groupe III traite des moyens d''atténuer les risques, notamment avec les
-    actions à mettre en place par secteur d''activité
-
-
-    Le volet du groupe I s’appuie sur 9200 publications scientifiques, celui du groupe
-    II en cite plus de 12000, et le groupe III près de 10000.
-
-
-    Cela fait donc plus de 30000 études scientifiques citées dans le rapport d''évaluation
-    complet du GIEC.
-
-    On voit ici clairement la mission du GIEC : "faire la synthèse des connaissances
-    scientifiques sur le changement climatique, ses impacts, et ses moyens d''atténuation"'
+  answer_explanation: "Un rapport du GIEC est composé de 3 volets, rédigés par 3 groupes\
+    \ différents :\r\n- Le groupe I traite de la science climatique (observations,\
+    \ modèles, physique, ...)\r\n- Le groupe II traite des impacts du changement climatiques,\
+    \ sur les sociétés humaines, la faune et la flore, ...\r\n- Le groupe III traite\
+    \ des moyens d'atténuer les risques, notamment avec les actions à mettre en place\
+    \ par secteur d'activité. Ce travail de synthèse n'a pas d'équivalent dans d'autres\
+    \ disciplines scientifiques."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologie.gouv.fr/comprendre-giec
   answer_accessible_url_text: Comprendre le GIEC | Ministère de la Transition écologique
-  answer_scientific_url: https://www.ipcc.ch/report/ar5/
+  answer_scientific_url: https://www.ipcc.ch/report/ar6/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: ''
@@ -19882,11 +19868,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Écartée temporairement
+  validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 520
   text: Rêvons un peu...Avec la totalité de l’énergie consommée en France en une année,
     combien Elon Musk pourrait-il envoyer de personnes vers une station spatiale avec
@@ -19966,7 +19952,7 @@
   updated: '2022-04-16'
 - id: 522
   text: Les rapports du GIEC sont revus et commentés avant publication. Combien de
-    commentaires y a-t-il eu sur le dernier rapport d’évaluation de 2014 ?
+    commentaires y a-t-il eu sur les derniers rapports d’évaluation de 2021 ?
   hint: ''
   type: QCM
   category: null
@@ -19974,12 +19960,12 @@
   - 22
   difficulty: 1
   language: Français
-  answer_option_a: ''
-  answer_option_b: ''
-  answer_option_c: ''
-  answer_option_d: ''
-  answer_correct: ''
-  has_ordered_answers: false
+  answer_option_a: '200'
+  answer_option_b: 2,000
+  answer_option_c: 20,000
+  answer_option_d: 200,000
+  answer_correct: d
+  has_ordered_answers: true
   answer_explanation: ''
   answer_audio: ''
   answer_video: ''
@@ -19997,7 +19983,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-05'
 - id: 523
   text: Quelle est l’ordre de grandeur de la chaleur absorbée par les océans ?
   hint: ''
@@ -41366,8 +41352,8 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Parmi ces 7 millions, plus de 4 millions en lien avec l’air
-    ambiant. La pollution atmosphérique constitue donc un enjeu de santé publique
-    mondial.
+    ambiant. Soit 3 fois plus que le nombre de morts sur la route chaque année. La
+    pollution atmosphérique constitue donc un enjeu de santé publique mondial.
   answer_audio: ''
   answer_video: https://www.youtube.com/watch?v=Qh1t8fMfMRA&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=12
   answer_accessible_url: https://www.santepubliquefrance.fr/les-actualites/2021/pollution-de-l-air-l-oms-revise-ses-seuils-de-reference-pour-les-principaux-polluants-atmospheriques
@@ -41381,11 +41367,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-05'
   created: '2022-08-04'
-  updated: '2022-11-04'
+  updated: '2022-11-05'
 - id: 1072
   text: Parmi les sols artificialisés, quels sont ceux occupés par les infrastructures
     de transport ?

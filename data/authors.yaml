@@ -1,13 +1,13 @@
 - id: 1
   first_name: Raphael
   last_name: Odini
-  question_count: 37
+  question_count: 36
   quiz_count: 3
   created: '2022-04-04'
 - id: 2
   first_name: Matthieu
   last_name: Massart
-  question_count: 81
+  question_count: 82
   quiz_count: 9
   created: '2022-04-04'
 - id: 5
@@ -265,6 +265,6 @@
 - id: 65
   first_name: Emmanuelle
   last_name: Mouls
-  question_count: 0
+  question_count: 1
   quiz_count: 0
   created: '2022-07-18'
