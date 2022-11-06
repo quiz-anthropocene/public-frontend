@@ -1,16 +1,5 @@
 question_count: 1050
-question_published_count: 547
-question_per_validation_status_count:
-- validation_status: Validée
-  total: 547
-- validation_status: Écartée
-  total: 273
-- validation_status: Brouillon
-  total: 212
-- validation_status: Écartée temporairement
-  total: 17
-- validation_status: A valider
-  total: 1
+question_validated_count: 547
 question_per_language_count:
 - language: Français
   total: 1014
@@ -18,7 +7,7 @@ question_per_language_count:
   total: 36
 quiz_count: 53
 quiz_published_count: 39
-quiz_per_publish_count:
+quiz_per_language_count:
 - language: Français
   total: 49
 - language: English

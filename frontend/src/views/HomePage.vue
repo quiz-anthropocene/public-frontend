@@ -10,8 +10,8 @@
       Nous voilà entrés dans l’Anthropocène, l’ère de l’humain. L’homme est devenu la plus grande force qui façonne le monde.
     </p>
     <p class="text-align-left">
-      Ce site a vocation à vous en donner un premier aperçu. {{ questionsCount }} questions en ligne, regroupées en {{ quizsPublishedCount }} quiz thématiques, avec des explications, des liens fiables pour aller plus loin et des illustrations.
-      Déjà {{ question_answer_count_formatted }} questions jouées sur le site.
+      Ce site a vocation à vous en donner un premier aperçu. {{ questionValidatedCount }} questions en ligne, regroupées en {{ quizPublishedCount }} quiz thématiques, avec des explications, des liens fiables pour aller plus loin et des illustrations.
+      Déjà {{ questionAnswerCountFormatted }} questions jouées sur le site.
     <p class="text-align-left margin-bottom-0">
       A vous de tester, et faire tourner !
     </p>
@@ -34,7 +34,6 @@
         <router-link class="no-decoration" :to="{ name: 'quiz-list' }">
             <button id="all-quizs-btn" class="btn btn-primary btn-lg">
             🕹&nbsp;<strong>{{ $t('messages.allQuizs') }}</strong>&nbsp;
-            <small>({{ quizsPublishedCount }})</small>
           </button>
         </router-link>
       </div>
@@ -79,7 +78,7 @@
 
     <div class="alert alert-primary" role="alert">
       <i>
-        {{ $t('home.thereIsCurrently') }} <strong>{{ questionsCount }} questions</strong> {{ $t('words.et') }} <strong>{{ quizsPublishedCount }} quiz</strong>.
+        {{ $t('home.thereIsCurrently') }} <strong>{{ questionValidatedCount }} questions</strong> {{ $t('words.et') }} <strong>{{ quizPublishedCount }} quiz</strong> ({{ $t('home.inMultipleLanguages') }}).
         <router-link :to="{ name: 'about' }">{{ $t('home.helpUs') }}</router-link> {{ $t('home.toAddMore') }}{{ $t('words.exclamationMark') }}
       </i>
     </div>
@@ -146,31 +145,19 @@ export default {
   },
 
   computed: {
-    quizsPublishedCount() {
-      return this.$store.state.quizsPublished.length;
+    quizPublishedCount() {
+      return this.$store.state.stats.quiz_published_count;
     },
-    questionsCount() {
-      return this.$store.state.questionsValidated.length;
+    questionValidatedCount() {
+      return this.$store.state.stats.question_validated_count;
     },
     quizsSpotlighted() {
       return this.$store.state.quizsSpotlighted;
     },
-    question_answer_count_formatted() {
+    questionAnswerCountFormatted() {
       return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_answer_count || 250000);
     },
   },
-
-  // watch: {
-  //   questionsCount: {
-  //     immediate: true,
-  //     // eslint-disable-next-line
-  //     handler(newQuestionsCount, oldQuestionsCount) {
-  //       if (newQuestionsCount) {
-  //         this.questionSameFilterNextId = this.$store.getters.getNextQuestionByFilter().id;
-  //       }
-  //     },
-  //   },
-  // },
 
   mounted() {
     if (this.$route.query.newsletter) {

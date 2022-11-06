@@ -20,8 +20,7 @@
     <br />
     <h3>❓&nbsp;Questions</h3>
     <p>
-      <strong>{{ question_validated_count_formatted }}</strong> validées,
-      et <strong>{{ question_pending_validation_count_formatted }}</strong> en cours de validation.
+      <strong>{{ question_validated_count_formatted }}</strong> validées.
       <br />
       <strong>{{ question_answer_count_formatted }}</strong> questions répondues depuis le lancement
       (dont <strong>{{ question_answer_count_last_30_days_formatted }}</strong> durant les 30 derniers jours).
@@ -164,17 +163,10 @@ export default {
       return new Date(constants.DATA_LAST_UPDATED_DATETIME).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
     },
     question_validated_count_formatted() {
-      const questionValidatedCount = this.$store.state.stats.question_per_validation_status_count ? this.$store.state.stats.question_per_validation_status_count.slice(0).find((item) => item.validation_status === constants.VALIDATION_STATUS_OK).total : 0;
-      return Intl.NumberFormat('fr-FR').format(questionValidatedCount);
-    },
-    question_pending_validation_count_formatted() {
-      const questionPendingValidation = this.$store.state.stats.question_per_validation_status_count ? this.$store.state.stats.question_per_validation_status_count.slice(0).find((item) => item.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS) : {};
-      const questionPendingValidationCount = questionPendingValidation ? questionPendingValidation.total : 0;
-      return Intl.NumberFormat('fr-FR').format(questionPendingValidationCount);
+      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_validated_count);
     },
     quiz_published_count_formatted() {
-      const quizPublishedCount = this.$store.state.stats.quiz_per_publish_count ? this.$store.state.stats.quiz_per_publish_count.slice(0).find((item) => item.publish === true).total : 0;
-      return Intl.NumberFormat('fr-FR').format(quizPublishedCount);
+      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.quiz_published_count);
     },
     question_answer_count_formatted() {
       return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_answer_count);
@@ -226,7 +218,7 @@ export default {
   },
 
   mounted() {
-    this.$store.dispatch('GET_STATS_DICT_FROM_LOCAL_YAML');
+    // this.$store.dispatch('GET_STATS_DICT_FROM_LOCAL_YAML');  // done in App.vue
   },
 
   methods: {

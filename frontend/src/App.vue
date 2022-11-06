@@ -152,6 +152,9 @@ export default {
       // needed for both glossary page & abbr filter
       // this.$store.dispatch('GET_RESSOURCES_GLOSSAIRE_LIST_FROM_LOCAL_YAML');
       this.$store.dispatch('GET_RESSOURCES_GLOSSAIRE_LIST_FROM_API');
+
+      // stats
+      this.$store.dispatch('GET_STATS_DICT_FROM_LOCAL_YAML');
     },
     dismissAlert() {
       this.$store.dispatch('RESET_LOADING_STATUS');
