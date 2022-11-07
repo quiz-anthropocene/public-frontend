@@ -2162,6 +2162,8 @@
   conclusion: ''
   questions:
   - 100
+  - 105
+  - 271
   - 424
   - 425
   - 426
@@ -2186,4 +2188,4 @@
   publish_date: null
   spotlight: false
   created: '2022-11-05'
-  updated: '2022-11-05'
+  updated: '2022-11-06'
