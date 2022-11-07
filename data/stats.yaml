@@ -1,5 +1,5 @@
 question_count: 1050
-question_validated_count: 547
+question_published_count: 547
 question_per_language_count:
 - language: Français
   total: 1014
@@ -12,10 +12,10 @@ quiz_per_language_count:
   total: 49
 - language: English
   total: 4
-question_answer_count: 342012
-quiz_answer_count: 27615
-question_answer_count_last_30_days: 14804
-quiz_answer_count_last_30_days: 1190
+question_answer_count: 342136
+quiz_answer_count: 27624
+question_answer_count_last_30_days: 14374
+quiz_answer_count_last_30_days: 1157
 category_count: 8
 tag_count: 242
 question_feedback_count: 5032
