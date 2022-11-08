@@ -2161,18 +2161,21 @@
     verrez plus clair après ce petit quiz.</p>
   conclusion: ''
   questions:
-  - 100
+  - 105
+  - 271
   - 424
   - 425
   - 426
   - 433
   - 435
   - 519
-  - 522
+  - 1079
+  - 1080
+  - 1081
   tags:
   - 22
   - 225
-  difficulty_average: 1.6
+  difficulty_average: 1.2
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/5b55ee16.png
   has_audio: false
@@ -2186,4 +2189,4 @@
   publish_date: null
   spotlight: false
   created: '2022-11-05'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
