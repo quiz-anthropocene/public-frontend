@@ -1703,7 +1703,7 @@
   answer_accessible_url: https://jancovici.com/changement-climatique/gaz-a-effet-de-serre-et-cycle-du-carbone/quels-sont-les-gaz-a-effet-de-serre-quels-sont-leurs-contribution-a-leffet-de-serre/
   answer_accessible_url_text: Quels sont les gaz à effet de serre ? – Jean-Marc Jancovici
   answer_scientific_url: https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Wikipedia, Potentiel de réchaufement global (PRG)
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000042-3e8a.png
   answer_image_explanation: "Forçage radiatif résiduel, au cours du temps, et en watts\
@@ -1717,7 +1717,7 @@
   validator: 1
   validation_date: '2022-11-05'
   created: '2020-03-10'
-  updated: '2022-11-05'
+  updated: '2022-11-06'
 - id: 43
   text: Quel jour de l'année un Français atteint-il l'empreinte écologique d'un Malien
     ?
@@ -4000,8 +4000,8 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 100
-  text: La COP 27 a lieu en 2022 à Charm El Kheir en Egypte. Quand a eu lieu en 2015
-    à Paris. Quand et où a eu lieu la première COP ?
+  text: La COP 27 a lieu en 2022 à Charm El cheikh en Egypte. Quand et où a eu lieu
+    la première COP ?
   hint: ''
   type: QCM
   category: 6
@@ -4038,7 +4038,7 @@
   validator: null
   validation_date: null
   created: '2020-04-26'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 101
   text: Dans le cadre du système européen de quotas d'émission, à combien environ
     se chiffrait la tonne de CO2 en 2019 ?
@@ -4197,8 +4197,7 @@
   created: '2019-01-08'
   updated: '2022-04-16'
 - id: 105
-  text: En quelle année a été créé le GIEC (groupe d’experts intergouvernemental sur
-    l’évolution du climat) ?
+  text: En quelle année a été créé le GIEC ?
   hint: ''
   type: QCM
   category: 6
@@ -4214,18 +4213,18 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'le GIEC a été créé en 1988 par l''Organisation Météorologique
-    Mondiale et le Programme des Nations Unies pour l''Environnement.
-
-
+    Mondiale et le Programme des Nations Unies pour l''Environnement, dans le but
+    de fournir des évaluations détaillées de l’état des connaissances scientifiques,
+    techniques et socio-économiques sur les changements climatiques, leurs causes,
+    leurs répercussions potentielles et les stratégies d''atténuation et d''adaptation.
     Le premier rapport d''évaluation du GIEC sur le changement climatique a été publié
-    en 1990. Quatre autres rapports ont suivis (1995, 2001, 2007, 2014). Un 6ème rapport
-    d''évaluation est en cours de rédaction et devrait paraitre en 2021/2022.'
+    en 1990. Cinq autres rapports ont suivi : 1995, 2001, 2007, 2014 et 2021-22.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologie.gouv.fr/comprendre-giec
   answer_accessible_url_text: Comprendre le GIEC | Ministère de la Transition écologique
   answer_scientific_url: https://www.ipcc.ch/about/history/
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Histoire du GIEC (en anglais)
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000105-f5a3.png
   answer_image_explanation: ''
@@ -4236,7 +4235,7 @@
   validator: 2
   validation_date: '2019-01-16'
   created: '2019-01-09'
-  updated: '2022-04-16'
+  updated: '2022-11-07'
 - id: 106
   text: Quelle est la première source d'énergie primaire dans le monde ?
   hint: ''
@@ -10451,14 +10450,13 @@
   - 22
   difficulty: 1
   language: Français
-  answer_option_a: '29'
+  answer_option_a: '8'
   answer_option_b: '37'
   answer_option_c: '103'
   answer_option_d: '195'
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 195 pays sont membres du GIEC, soit la quasi totalité des pays
-    reconnus par l’ONU.
+  answer_explanation: Soit la quasi totalité des pays reconnus par l’ONU.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -10468,14 +10466,14 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000271-6941.jpg
   answer_image_explanation: ''
-  answer_extra_info: https://twitter.com/laydgeur/status/1165706416797233158
+  answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Écartée
+  validation_status: Brouillon
   validator: 1
   validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2022-11-06'
 - id: 272
   text: Quelle est la première énergie renouvelable consommée en France ?
   hint: ''
@@ -16327,7 +16325,8 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 424
-  text: Les gouvernements peuvent ils modifier les rapports du GIEC ?
+  text: Vrai ou faux ? Les gouvernements peuvent influencer le contenu des rapports
+    du GIEC ?
   hint: ''
   type: QCM
   category: 6
@@ -16341,10 +16340,10 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Les gouvernements n'ont pas leur mot à dire sur la partie scientifique
-    des rapports. En revanche, certains pays négocient ligne à ligne le résumé aux
-    décideurs (30 à 50 pages). Ce résumé doit en tout état de cause rester en cohérence
-    avec la partie scientifique du rapport.
+  answer_explanation: Les gouvernements n'ont absolument pas leur mot à dire sur la
+    partie scientifique des rapports. En revanche, la formulation du résumé aux décideurs
+    (30 à 50 pages) est l'enjeu d'âpres négociations entre les pays. Ce résumé doit
+    en tout état de cause rester en cohérence avec la partie scientifique du rapport.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -16361,7 +16360,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 425
   text: 'Vrai ou faux : les opposants à la théorie du réchauffement climatique n’ont
     pas leur mot à dire dans les rapports du GIEC'
@@ -16379,9 +16378,11 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Le rapport est soumis pour avis à l’ensemble de la communauté
+  answer_explanation: 'Le rapport est soumis pour avis à l’ensemble de la communauté
     scientifique, qui peut faire des commentaires auxquels le GIEC est obligé de répondre
-    de manière publique.
+    de manière publique. Il est important de préciser que le GIEC ne produit pas de
+    travaux de recherche : c''est un organisme qui produit de l''évaluation de travaux
+    de recherche produits dans le monde entier.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
@@ -16399,9 +16400,9 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 426
-  text: Vrai ou Faux ? Les travaux du GIEC ne prennent pas en compte les aspects sociaux
+  text: Vrai ou Faux ? Les travaux du GIEC prennent en compte les aspects sociaux
     du dérèglement climatique.
   hint: Le GIEC est composé de plusieurs groupes de travail, sur les aspects scientifiques
     du climat mais aussi sur l’adaptation et l’atténuation des risques
@@ -16411,13 +16412,13 @@
   - 22
   - 31
   - 79
-  difficulty: 2
+  difficulty: 1
   language: Français
   answer_option_a: Vrai
   answer_option_b: Faux
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: b
+  answer_correct: a
   has_ordered_answers: true
   answer_explanation: Le GIEC est composé de plusieurs groupes de travail, le groupe
     de travail N°2 s’occupe des questions de vulnérabilité des systèmes socio-économiques
@@ -16439,7 +16440,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 427
   text: Combien sont payés par l'ONU les chercheurs qui participent aux rapports GIEC
     ?
@@ -16688,7 +16689,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-06'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -16725,7 +16726,7 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 435
-  text: 'Vrai ou faux : le GIEC établit un seul scénario d’évolution des émissions
+  text: 'Vrai ou faux : le GIEC établit plusieurs scénarios d’évolution des émissions
     de gaz à effet de serre pour le siècle à venir'
   hint: ''
   type: VF
@@ -16738,10 +16739,10 @@
   answer_option_b: Faux
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: b
+  answer_correct: a
   has_ordered_answers: true
   answer_explanation: il y a 4 scénarios (RCP) dans le dernier rapport d'évaluation
-    du GIEC de 2013-2014. Ces scénarios sont dictés par différentes valeur du forçage
+    du GIEC de 2021-22. Ces scénarios sont dictés par différentes valeur du forçage
     radiatif, c'est à dire l'accumulation d'énergie sur terre résultant de l'augmentation
     de l'effet de serre.
   answer_audio: ''
@@ -16760,7 +16761,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 436
   text: D'ici quelle année les émissions mondiales de CO2 doivent-elles tomber à zéro
     pour limiter le réchauffement climatique à +1.5°C ?
@@ -19841,7 +19842,7 @@
   category: 6
   tags:
   - 22
-  difficulty: 4
+  difficulty: 2
   language: Français
   answer_option_a: '66'
   answer_option_b: '660'
@@ -19872,7 +19873,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 520
   text: Rêvons un peu...Avec la totalité de l’énergie consommée en France en une année,
     combien Elon Musk pourrait-il envoyer de personnes vers une station spatiale avec
@@ -19958,7 +19959,7 @@
   category: null
   tags:
   - 22
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: '200'
   answer_option_b: 2,000
@@ -19983,7 +19984,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-05'
+  updated: '2022-11-07'
 - id: 523
   text: Quelle est l’ordre de grandeur de la chaleur absorbée par les océans ?
   hint: ''
@@ -41637,3 +41638,121 @@
   validation_date: null
   created: '2022-10-28'
   updated: '2022-10-28'
+- id: 1079
+  text: Vrai ou faux ? Le GIEC reçoit des financements privés
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: Le budget annuel du GIEC est de quelques millions d’euros. Il
+    est intégralement financé les Etats membres de l’ONU.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/
+  answer_accessible_url_text: 'Article de Bon Pote : Peut-on vraiment faire confiance
+    au GIEC ?'
+  answer_scientific_url: https://fr.wikipedia.org/wiki/Groupe_d%27experts_intergouvernemental_sur_l%27%C3%A9volution_du_climat
+  answer_scientific_url_text: Wikipedia GIEC
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/16cc7280.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-07'
+  updated: '2022-11-07'
+- id: 1080
+  text: 'Vrai ou faux : les contributeurs aux rapports du GIEC sont rémunérés pour
+    leur travail'
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Aucun auteur ni aucun membre du bureau du GIEC n’est rémunéré
+    pour son travail. Ceci en dépit de l’investissement parfois important que représente
+    l’écriture d’un rapport aussi détaillé et volumineux. Les seules personnes rémunérées
+    sont celles des unités d’appui technique qui existent dans chaque groupe de travail
+    et aident auteurs et coordinateurs.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/
+  answer_accessible_url_text: 'Article de Bon Pote : Peut-on vraiment faire confiance
+    au GIEC ?'
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dbfb9488.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-07'
+  updated: '2022-11-07'
+- id: 1081
+  text: Le GIEC comporte essentiellement 3 groupes de travail. Quels sont-ils
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: L’atténuation du changement climatique
+  answer_option_b: L'acceptation sociale des changements requis
+  answer_option_c: Conséquences, adaptation et vulnérabilité
+  answer_option_d: Les fondements physiques du changement climatique
+  answer_correct: abd
+  has_ordered_answers: true
+  answer_explanation: "Chacun des trois volets du rapport se compose de trois documents\
+    \ :\r\n. un résumé à l’intention des décideurs (summary for policymakers ou SPM).\
+    \ Ce document est toujours validé point par point par les représentants de tous\
+    \ les gouvernements membres ;\r\n. un résumé technique (technical summary ou TS)\
+    \ ;\r\n. le rapport complet (full report ou FR).\r\nLe premier volet du sixième\
+    \ rapport, rédigé par le groupe I et intitulé Changement climatique 2021 : les\
+    \ éléments scientifiques, a été publié le 9 août 2021 (au lieu d'avril 2021, en\
+    \ raison de la pandémie de COVID-19). Il synthétise les résultats d'environ 14\
+    \ 000 articles scientifiques (publiés ou acceptés pour publication avant le 31\
+    \ janvier 2021). Ses 234 « principaux » auteurs ont répondu à 78 007 commentaires\
+    \ des gouvernements et d’experts avant la rédaction finale.\r\nLe second volet\
+    \ du sixième rapport, rédigé par le groupe II et intitulé Impacts, adaptation\
+    \ et vulnérabilité, a été publié le 28 février 2022.\r\nLe troisième volet, rédigé\
+    \ par le groupe III et nommé Atténuation du changement climatique, a été publié\
+    \ le 4 avril 2022."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Sixi%C3%A8me_rapport_d%27%C3%A9valuation_du_GIEC
+  answer_accessible_url_text: Wikipedia, Sixième rapport d'évaluation du GIEC
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/548c4c63.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-07'
+  updated: '2022-11-07'
