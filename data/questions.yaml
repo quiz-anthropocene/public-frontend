@@ -990,13 +990,13 @@
   answer_option_d: 99%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Le GIEC avance que, pour conserver 50% de chance de rester
-    sous la barre des 2°C de hausse par rapport à la période préindustrielle, les
-    émissions mondiales de CO2 ne devront pas dépasser, entre 2011 et 2050, une fourchette
-    allant de 860 à 1 180 milliards de tonnes. Cela nécessite de ne pas toucher à
-    80% des réserves de charbon ET 30% des réserves de pétrole ET 50% de celles de
-    gaz. , ceci afin de conserver 50% de chances pour contenir la hausse des températures
-    d''ici la fin du siècle '
+  answer_explanation: Le GIEC avance que, pour conserver 50% de chance de rester sous
+    la barre des 2°C de hausse par rapport à la période préindustrielle, les émissions
+    mondiales de CO2 ne devront pas dépasser, entre 2011 et 2050, une fourchette allant
+    de 860 à 1 180 milliards de tonnes. Cela nécessite de ne pas toucher à 80% des
+    réserves de charbon ET 30% des réserves de pétrole ET 50% de celles de gaz. ,
+    ceci afin de conserver 50% de chances pour contenir la hausse des températures
+    d'ici la fin du siècle
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.lemonde.fr/planete/article/2015/01/07/pour-limiter-le-rechauffement-a-2-c-combien-de-petrole-gaz-et-charbon-en-moins_4550929_3244.html
@@ -1004,22 +1004,18 @@
   answer_scientific_url: https://www.nature.com/articles/nature14016
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000025-8808.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fc8869ea.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'la question initiale faisait mention de 80% de pétrole.
-
-    autres articles:
-
-    https://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves
-
-    https://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says'
+  answer_extra_info: "la question initiale faisait mention de 80% de pétrole.\r\n\
+    autres articles:\r\nhttps://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves\r\
+    \nhttps://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says"
   author: 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 26
   text: Lors de la dernière déglaciation, la Terre s'est réchauffée d'environ 5°C.
     En combien d'années ?
@@ -3182,7 +3178,7 @@
   validator: 1
   validation_date: '2020-03-18'
   created: '2020-03-11'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 80
   text: Quelle est la durée approximative d'une entrée en glaciation ?
   hint: ''
@@ -3901,7 +3897,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 98
   text: 'Les microplastiques sont des fines particules rejetées par l''usure des pneus,
     le lavage de vêtements synthétiques, les peintures, ...
@@ -7592,7 +7588,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 195
   text: 'Quelle est la concentration actuelle en méthane dans l’atmosphère ? (en ppb
     : partie par milliard)'
@@ -11340,7 +11336,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -22570,7 +22566,7 @@
   validator: 2
   validation_date: '2020-09-29'
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 590
   text: Parmi ces régions, lesquelles ont connu des gigantesques feux de forêt entre
     le 1er juillet 2019 et le 1er juillet 2020 ?
@@ -28854,7 +28850,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 740
   text: Connaissez-vous le nom du programme de réduction des émissions de transport
     AÉRIEN -- TA ?
@@ -29296,7 +29292,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 750
   text: Quelle part de la population mondiale voyage en avion ?
   hint: ''
@@ -30558,7 +30554,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 780
   text: Quelle est la part des bio-carburants (SAF – Sustainable Aviation Fuel) dans
     le TA ?
@@ -31253,7 +31249,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-07-18'
+  updated: '2022-11-08'
 - id: 796
   text: Quelle est la consommation moyenne d'eau du robinet d'un Français sur une
     journée ?
@@ -31292,7 +31288,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 797
   text: Quelle est l'empreinte eau quotidienne d'un Français ?
   hint: ''
@@ -31332,7 +31328,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 798
   text: 'Vrai ou faux : les produits d’origine animale ont en moyenne une empreinte
     eau plus élevée que ceux d’origine végétale'
@@ -31373,7 +31369,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-07-21'
+  updated: '2022-11-08'
 - id: 799
   text: A combien s’élève l'empreinte eau d'un T-shirt ?
   hint: ''
@@ -31415,7 +31411,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 800
   text: Jusqu'à quelle vitesse peut tomber la grêle ?
   hint: ''
@@ -35222,7 +35218,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -35344,7 +35340,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 898
   text: A l'échelle mondiale, quel est l'usage qui prélève le plus d'eau ?
   hint: ''
@@ -35380,7 +35376,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 899
   text: Quelle proportion de la population mondiale connaît actuellement des problèmes
     d'accès à l'eau au moins une partie de l'année ?
@@ -35426,7 +35422,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-07-19'
+  updated: '2022-11-08'
 - id: 900
   text: Quel est le cout du MWh Nucléaire étendu à 20 ans en $ / MWh ?
   hint: Bas carbone donc…
@@ -38195,8 +38191,8 @@
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: https://www.ecologie.gouv.fr/diagnostic-performance-energetique-dpe
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.ecologie.gouv.fr/diagnostic-performance-energetique
+  answer_scientific_url_text: Le diagnostic de performance énergétique
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000969-27a4.jpg
   answer_image_explanation: ''
@@ -38207,7 +38203,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-04-16'
+  updated: '2022-11-08'
 - id: 970
   text: Qu'est-ce qu'on pourra faire plus dans un monde bas carbone ?
   hint: ''
