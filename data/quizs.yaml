@@ -2190,3 +2190,42 @@
   spotlight: false
   created: '2022-11-05'
   updated: '2022-11-07'
+- id: 89
+  name: Festival Nature et Environnement Isère 2022
+  slug: festival-nature-et-environnement-isere-2022
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 79
+  - 97
+  - 194
+  - 294
+  - 589
+  - 739
+  - 749
+  - 779
+  - 795
+  - 796
+  - 797
+  - 798
+  - 799
+  - 894
+  - 897
+  - 898
+  - 899
+  tags: []
+  difficulty_average: 2.0
+  language: Français
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/bbb5303f.jpg
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2022-11-08'
+  updated: '2022-11-08'
