@@ -39382,7 +39382,7 @@
   category: 5
   tags:
   - 11
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: 100 000 barils
   answer_option_b: 10 millions de barils
@@ -39409,14 +39409,14 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2022-11-10'
 - id: 1025
   text: Quel est le 1er pays producteur de pétrole ?
   hint: ''
   type: QCM
   category: 5
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: États-Unis d'Amérique
   answer_option_b: Arabie saoudite
@@ -39443,14 +39443,14 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2022-11-10'
 - id: 1026
   text: Quel est le 1er pays consommateur de pétrole ?
   hint: ''
   type: QCM
   category: 5
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: Chine
   answer_option_b: Etats-Unis
@@ -39476,7 +39476,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2022-11-10'
 - id: 1027
   text: Quelle place occupe le pétrole dans le paysage énergétique mondial ?
   hint: ''
@@ -39519,7 +39519,7 @@
   category: 5
   tags:
   - 11
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: Norvège
   answer_option_b: États-Unis d'Amérique
@@ -39546,7 +39546,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2022-11-10'
 - id: 1029
   text: Combien les importations de pétrole brut et de produits raffinés ont-elles
     coûté à la France en 2019 ?
@@ -39593,7 +39593,7 @@
   category: 5
   tags:
   - 11
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: Une agence des Nations Unies
   answer_option_b: Un cartel
@@ -39621,7 +39621,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2022-11-10'
 - id: 1031
   text: Le transport routier est le 1er usage du pétrole dans le monde. Quel est le
     second ?
@@ -39630,7 +39630,7 @@
   category: 5
   tags:
   - 11
-  difficulty: 1
+  difficulty: 3
   language: Français
   answer_option_a: Le transport maritime
   answer_option_b: Le transport aérien
@@ -39659,7 +39659,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2022-11-10'
 - id: 1032
   text: Tous les pétroles extraits dans le monde ont-ils les mêmes propriétés physicochimiques
     ?
