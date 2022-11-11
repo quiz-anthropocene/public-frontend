@@ -28,7 +28,7 @@ const store = new Vuex.Store({
     loading: false,
     error: null,
     configuration: {},
-    locale: {},
+    locale: constants.LANGUAGE_CHOICE_FRENCH, // default
     questions: [],
     questionsValidated: [],
     questionsDisplayed: [],
@@ -41,10 +41,12 @@ const store = new Vuex.Store({
     },
     questionsPendingValidation: [],
     quizs: [],
+    quizsLastFetchedDate: null,
     quizsPublished: [],
     quizsDisplayed: [],
     quizsToSpotlight: 5,
     quizsSpotlighted: [],
+    quizsSpotlightedLastFetchedDate: null,
     quizFilters: {
       tag: null,
       author: null,
@@ -87,7 +89,7 @@ const store = new Vuex.Store({
      * - keep only validated questions
      * - enrich with categories, tags
      */
-    GET_QUESTION_LIST_FROM_LOCAL_YAML: ({ commit, state, getters }) => {
+    GET_QUESTION_LIST_FROM_LOCAL_YAML: ({ commit, getters }) => {
       const questions = questionsYamlData;
       // questions: get author, category & tags objects
       questions.map((q) => {
@@ -97,9 +99,8 @@ const store = new Vuex.Store({
         Object.assign(q, { author: questionAuthor, category: questionCategory }, { tags: questionTags });
         return q;
       });
-      const questionsValidated = questions.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_OK);
       commit('SET_QUESTION_LIST', { list: questions });
-      commit('SET_QUESTION_VALIDATED_LIST', { list: questionsValidated });
+      commit('SET_QUESTION_VALIDATED_LIST', { list: questions });
 
       // update categories: add question_count
       commit('SET_CATEGORY_QUESTION_COUNT');
@@ -107,8 +108,8 @@ const store = new Vuex.Store({
       // update tags: add question_count
       commit('SET_TAG_QUESTION_COUNT');
     },
-    GET_QUESTION_PENDING_VALIDATION_LIST_FROM_LOCAL_YAML: ({ commit, state }) => {
-      const questionsPendingValidation = questionsYamlData.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS);
+    GET_QUESTION_PENDING_VALIDATION_LIST_FROM_LOCAL_YAML: ({ commit, getters }) => {
+      const questionsPendingValidation = questionsYamlData.filter((q) => q.language === getters.getLocale().value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS);
       commit('SET_QUESTION_PENDING_VALIDATION_LIST', { list: questionsPendingValidation });
     },
     /**
@@ -118,33 +119,50 @@ const store = new Vuex.Store({
      * - enrich with questions, tags
      */
     GET_QUIZ_LIST_FROM_LOCAL_YAML: ({ commit, state, getters }) => {
-      const quizs = quizsYamlData;
-      // quiz: get question and tag objects
-      quizs.map((q) => {
-        // get quiz questions (in the right order)
-        const quizQuestionsList = quizQuestionsYamlData.filter((qq) => qq.quiz === q.id);
-        quizQuestionsList.sort((a, b) => a.order - b.order);
-        const quizQuestionsIdList = quizQuestionsList.map((qq) => qq.question);
-        const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
-        quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
-        // get quiz author & tags
-        const quizAuthors = getters.getUsersByIdList(q.authors);
-        const quizTags = getters.getTagsByIdList(q.tags);
-        // assign
-        Object.assign(q, { questions: quizQuestions }, { authors: quizAuthors }, { tags: quizTags });
-        return q;
-      });
-      const quizsPublished = quizs.filter((q) => q.language === state.locale.value).filter((el) => el.publish === true);
-      commit('SET_QUIZ_LIST', { list: quizs });
-      commit('SET_QUIZ_PUBLISHED_LIST', { list: quizsPublished });
-      const quizsSpotlighted = quizsPublished
-        .filter((q) => q.spotlight) // only display spotlighted quizs
-        .sort((a, b) => b.id - a.id) // biggest/latest id first
-        .slice(0, state.quizsToSpotlight);
-      commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: quizsSpotlighted });
-
+      if (!state.quizsLastFetchedDate) {
+        const quizs = quizsYamlData;
+        // quiz: get question and tag objects
+        quizs.map((q) => {
+          // get quiz questions (in the right order)
+          const quizQuestionsList = quizQuestionsYamlData.filter((qq) => qq.quiz === q.id);
+          quizQuestionsList.sort((a, b) => a.order - b.order);
+          const quizQuestionsIdList = quizQuestionsList.map((qq) => qq.question);
+          const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
+          quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
+          // get quiz author & tags
+          const quizAuthors = getters.getUsersByIdList(q.authors);
+          const quizTags = getters.getTagsByIdList(q.tags);
+          // assign
+          Object.assign(q, { question_count: q.questions.length }, { questions: quizQuestions }, { authors: quizAuthors }, { tags: quizTags });
+          return q;
+        });
+        commit('SET_QUIZ_LIST', { list: quizs });
+        commit('SET_QUIZ_PUBLISHED_LIST', { list: quizs });
+        commit('SET_QUIZ_DISPLAYED_LIST', { list: quizs, filter: {} });
+        commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: null });
+      }
       // update tags: add quiz_count
       commit('SET_TAG_QUIZ_COUNT');
+    },
+    GET_QUIZ_SPOTLIGHTED_LIST_FROM_API: ({ commit, state }) => {
+      if (!state.quizsSpotlightedLastFetchedDate) {
+        return fetch(`${process.env.VUE_APP_API_ENDPOINT}/quizs/?spotlight=true&limit=5&order=-publish_date`, {
+          method: 'GET',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+        })
+          .then((response) => response.json())
+          // eslint-disable-next-line
+          .then(data => {
+            commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: data.results });
+          })
+          .catch((error) => {
+            console.log(error);
+          });
+      }
+      return commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: state.quizsSpotlighted });
     },
     /**
      * Get quiz relationships
@@ -296,13 +314,13 @@ const store = new Vuex.Store({
       commit('SET_QUESTION_FILTERS', { object: currentQuestionFilters });
       commit('SET_QUESTIONS_DISPLAYED_LIST', { list: questionsDisplayed });
     },
-    UPDATE_QUIZ_FILTERS: ({ commit, state, getters }, filterObject) => {
+    UPDATE_QUIZ_FILTERS: ({ commit, state }, filterObject) => {
       const currentQuizFilters = filterObject || state.quizFilters;
-      const quizsDisplayed = getters.getQuizsPublishedByFilter(currentQuizFilters);
+      // const quizsDisplayed = getters.getQuizsPublishedByFilter(currentQuizFilters);
       commit('SET_QUESTION_FILTERS', { object: currentQuizFilters });
       // We are not using the quizFilterVairable anymore
       // commit('SET_QUIZ_FILTERS', { object: currentQuizFilters });
-      commit('SET_QUIZS_DISPLAYED_LIST', { list: quizsDisplayed });
+      commit('SET_QUIZ_DISPLAYED_LIST', { list: state.quizsDisplayed, filter: currentQuizFilters });
     },
   },
   mutations: {
@@ -322,20 +340,31 @@ const store = new Vuex.Store({
       state.questions = list;
     },
     SET_QUESTION_VALIDATED_LIST: (state, { list }) => {
-      state.questionsValidated = list;
-      state.questionsDisplayed = list;
+      const questionsValidated = list.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_OK);
+      state.questionsValidated = questionsValidated;
+      state.questionsDisplayed = questionsValidated;
     },
     SET_QUESTION_PENDING_VALIDATION_LIST: (state, { list }) => {
       state.questionsPendingValidation = list;
     },
     SET_QUIZ_LIST: (state, { list }) => {
+      state.quizsLastFetchedDate = new Date();
       state.quizs = list;
     },
     SET_QUIZ_PUBLISHED_LIST: (state, { list }) => {
-      state.quizsPublished = list;
+      const quizsPublished = list.filter((q) => q.language === state.locale.value).filter((q) => q.publish === true);
+      state.quizsPublished = quizsPublished;
     },
     SET_QUIZ_SPOTLIGHTED_LIST: (state, { list }) => {
-      state.quizsSpotlighted = list;
+      state.quizsSpotlightedLastFetchedDate = new Date();
+      if (list) {
+        state.quizsSpotlighted = list;
+      } else {
+        state.quizsSpotlighted = state.quizsPublished
+          .filter((q) => q.spotlight) // only display spotlighted quizs
+          .sort((a, b) => b.id - a.id) // biggest/latest id first
+          .slice(0, state.quizsToSpotlight);
+      }
     },
     SET_QUIZ_RELATIONSHIP_LIST: (state, { list }) => {
       state.quizRelationships = list;
@@ -401,14 +430,19 @@ const store = new Vuex.Store({
     SET_QUESTIONS_DISPLAYED_LIST: (state, { list }) => {
       state.questionsDisplayed = list;
     },
-    SET_QUIZS_DISPLAYED_LIST: (state, { list }) => {
-      state.quizsDisplayed = list;
+    SET_QUIZ_DISPLAYED_LIST: (state, { list, filter }) => {
+      state.quizsDisplayed = list
+        .filter((q) => q.language === state.locale.value).filter((q) => q.publish === true) // quizsPublished
+        .filter((q) => (filter.tag ? q.tags.map((qt) => qt.name).includes(filter.tag) : true))
+        .filter((q) => (filter.author ? q.authors.map((qa) => qa.full_name).includes(filter.author) : true))
+        .sort((a, b) => ((filter.sort === 'date_old') ? (a.created.localeCompare(b.created)) : (b.id - a.id)));
     },
     SET_STATS_DICT: (state, { dict }) => {
       state.stats = dict;
     },
   },
   getters: {
+    getLocale: (state) => () => state.locale,
     getUserById: (state) => (userId) => state.authors.find((u) => (u.id === ((userId && typeof userId === 'object') ? userId.id : userId))),
     getUsersByIdList: (state) => (userIdList) => state.authors.filter((u) => ((userIdList && userIdList.length && typeof userIdList[0] === 'object') ? userIdList.map((user) => user.id).includes(u.id) : userIdList.includes(u.id))),
     getCategoryById: (state) => (categoryId) => state.categories.find((c) => (c.id === ((categoryId && typeof categoryId === 'object') ? categoryId.id : categoryId))),
@@ -435,10 +469,7 @@ const store = new Vuex.Store({
     getQuizById: (state) => (quizId) => state.quizs.find((q) => (q.id === quizId)),
     getQuizBySlug: (state) => (quizId) => state.quizs.find((q) => (q.slug === quizId)),
     getQuizsByIdList: (state) => (quizIdList) => state.quizs.filter((q) => quizIdList.includes(q.id)),
-    getQuizsPublishedByFilter: (state) => (filter) => state.quizsPublished
-      .filter((q) => (filter.tag ? q.tags.map((qt) => qt.name).includes(filter.tag) : true))
-      .filter((q) => (filter.author ? q.authors.map((qa) => qa.full_name).includes(filter.author) : true))
-      .sort((a, b) => ((filter.sort === 'date_old') ? (a.created.localeCompare(b.created)) : (b.id - a.id))),
+    getQuizsDisplayed: (state) => () => state.quizsDisplayed,
     getQuizRelationshipsById: (state) => (quizId) => state.quizRelationships.filter((qr) => (qr.from_quiz === quizId) || (qr.to_quiz === quizId)),
     getQuizStatsById: (state) => (quizId) => state.quizStats.find((q) => (q.quiz_id === quizId)),
   },

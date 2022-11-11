@@ -219,9 +219,13 @@ export default {
 
   mounted() {
     // this.$store.dispatch('GET_STATS_DICT_FROM_LOCAL_YAML');  // done in App.vue
+    this.initData();
   },
 
   methods: {
+    initData() {
+      this.$store.dispatch('GET_QUIZ_LIST_FROM_LOCAL_YAML');
+    },
     toggleAllQuestionTags() {
       this.showAllQuestionTags = !this.showAllQuestionTags;
     },
