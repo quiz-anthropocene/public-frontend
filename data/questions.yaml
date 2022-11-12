@@ -10444,7 +10444,7 @@
   category: 1
   tags:
   - 22
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: '8'
   answer_option_b: '37'
@@ -10465,11 +10465,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: 1
   validation_date: null
   created: '2020-05-20'
-  updated: '2022-11-06'
+  updated: '2022-11-12'
 - id: 272
   text: Quelle est la première énergie renouvelable consommée en France ?
   hint: ''
@@ -16322,7 +16322,7 @@
   updated: '2022-04-16'
 - id: 424
   text: Vrai ou faux ? Les gouvernements peuvent influencer le contenu des rapports
-    du GIEC ?
+    du GIEC
   hint: ''
   type: QCM
   category: 6
@@ -16335,34 +16335,35 @@
   answer_option_c: Oui, beaucoup
   answer_option_d: ''
   answer_correct: b
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: Les gouvernements n'ont absolument pas leur mot à dire sur la
     partie scientifique des rapports. En revanche, la formulation du résumé aux décideurs
     (30 à 50 pages) est l'enjeu d'âpres négociations entre les pays. Ce résumé doit
     en tout état de cause rester en cohérence avec la partie scientifique du rapport.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/
+  answer_accessible_url_text: 'Article de Bon Pote : Peut-on vraiment faire confiance
+    au GIEC ?'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/322508c0.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 425
   text: 'Vrai ou faux : les opposants à la théorie du réchauffement climatique n’ont
     pas leur mot à dire dans les rapports du GIEC'
   hint: Les rapports du GIEC sont relus et vérifiés par des scientifiques volontaires
   type: VF
-  category: 6
+  category: 1
   tags:
   - 22
   - 142
@@ -16374,11 +16375,14 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Le rapport est soumis pour avis à l’ensemble de la communauté
-    scientifique, qui peut faire des commentaires auxquels le GIEC est obligé de répondre
-    de manière publique. Il est important de préciser que le GIEC ne produit pas de
-    travaux de recherche : c''est un organisme qui produit de l''évaluation de travaux
-    de recherche produits dans le monde entier.'
+  answer_explanation: 'Le GIEC prend en compte tous les travaux, y compris les travaux
+    qui pourraient tenter de remettre en cause l’influence de l’homme sur le climat.
+    Bien sûr, il faut que ces travaux aient été validés et publiés dans des revues
+    scientifiques à comité de lecture (peer review). Le rapport est soumis pour avis
+    à l’ensemble de la communauté scientifique, qui peut faire des commentaires auxquels
+    le GIEC est obligé de répondre de manière publique. Il est important de préciser
+    que le GIEC ne produit pas de travaux de recherche : c''est un organisme qui produit
+    de l''évaluation de travaux de recherche produits dans le monde entier.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
@@ -16396,19 +16400,19 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 426
   text: Vrai ou Faux ? Les travaux du GIEC prennent en compte les aspects sociaux
     du dérèglement climatique.
   hint: Le GIEC est composé de plusieurs groupes de travail, sur les aspects scientifiques
-    du climat mais aussi sur l’adaptation et l’atténuation des risques
+    du climat mais aussi sur l’atténuation des risques et l'adaptation à ces derniers
   type: VF
   category: 1
   tags:
   - 22
   - 31
   - 79
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: Vrai
   answer_option_b: Faux
@@ -16416,10 +16420,9 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Le GIEC est composé de plusieurs groupes de travail, le groupe
-    de travail N°2 s’occupe des questions de vulnérabilité des systèmes socio-économiques
-    et naturels aux changements climatiques, des conséquences de ces changements,
-    et des possibilités de s’y adapter.
+  answer_explanation: Le groupe de travail n°2 s’occupe des questions de vulnérabilité
+    des systèmes socio-économiques et naturels aux changements climatiques, des conséquences
+    de ces changements, et des possibilités de s’y adapter. Il touche
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
@@ -16436,7 +16439,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 427
   text: Combien sont payés par l'ONU les chercheurs qui participent aux rapports GIEC
     ?
@@ -16667,25 +16670,48 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Ce sont des tous experts scientifiques détachés par leurs laboratoires
-    d’accueil.
+  answer_explanation: "Des centaines d’experts éminents, spécialistes des divers domaines\
+    \ traités dans les rapports du GIEC,\r\nconsacrent du temps à établir des évaluations\
+    \ en tant qu’auteurs coordonnateurs principaux et auteurs\r\nprincipaux. Des centaines\
+    \ d’autres experts apportent des contributions ponctuelles en qualité d’auteurs\r\
+    \ncollaborateurs et formulent des observations sur les chapitres en qualité d’examinateurs1.\r\
+    \nLa sélection s’effectue comme suit: un appel à candidatures est d’abord lancé\
+    \ auprès des gouvernements\r\net des organisations ayant le statut d’observateur\
+    \ auprès du GIEC; des curriculum vitae détaillés sont\r\nensuite remis et les\
+    \ auteurs sont sélectionnés en fonction de leurs compétences. Le GIEC s’efforce\
+    \ de réunir\r\ndes équipes d’auteurs représentatives de la diversité des points\
+    \ de vue et des qualifications scientifiques,\r\ntechniques et socio-économiques.\
+    \ Afin de parvenir à des rapports d’évaluation exhaustifs, c’est-à-dire qui\r\n\
+    ne favorisent pas un pays ou un groupe de pays mais tiennent compte des problématiques\
+    \ de chaque\r\nrégion, les équipes sont constituées d’une variété d’auteurs provenant\
+    \ de diverses régions et de pays\r\ndéveloppés comme de pays en développement.\
+    \ \r\ntravailler sur des rapports du Groupe d’experts et ceux qui n’ont pas cette\
+    \ expérience, notamment les\r\njeunes chercheurs. Des experts du secteur industriel\
+    \ et d’organisations à but non lucratif, qui apportent une\r\nperspective utile\
+    \ à l’évaluation, peuvent également faire partie des équipes. Le GIEC recherche\
+    \ aussi la parité hommes-femmes et un équilibre entre ceux qui ont l’habitude\
+    \ de travailler sur des rapports du Groupe d’experts et ceux qui n’ont pas cette\
+    \ expérience, notamment les jeunes chercheurs. Des experts du secteur industriel\
+    \ et d’organisations à but non lucratif.\r\nperspective utile à l’évaluation,\
+    \ peuvent également faire partie des"
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
-  answer_scientific_url: ''
+  answer_accessible_url: https://www.futura-sciences.com/planete/questions-reponses/giec-giec-sont-experts-redigent-ils-leurs-rapports-15877/
+  answer_accessible_url_text: 'Futura - Giec : qui sont les experts et comment rédigent-ils
+    leurs rapports ?'
+  answer_scientific_url: https://www.ipcc.ch/about/structure/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0743e45a.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: Écartée
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-06'
+  updated: '2022-11-12'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -16737,27 +16763,27 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: il y a 4 scénarios (RCP) dans le dernier rapport d'évaluation
+  answer_explanation: 'il y a 5 scénarios (SSP) dans le dernier rapport d''évaluation
     du GIEC de 2021-22. Ces scénarios sont dictés par différentes valeur du forçage
-    radiatif, c'est à dire l'accumulation d'énergie sur terre résultant de l'augmentation
-    de l'effet de serre.
+    radiatif. Le rapport documente ses conséquences : température, phénomènes extrêmes,
+    etc. Il est à noter que ce sont des projections et non des recommandations.'
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.i4ce.org/dou-viennent-les-cinq-nouveaux-scenarios-du-giec-climat/
+  answer_accessible_url_text: I4CE - D'où viennent les 4 scénarios du GIEC
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/28b225b7.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: Écartée
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 436
   text: D'ici quelle année les émissions mondiales de CO2 doivent-elles tomber à zéro
     pour limiter le réchauffement climatique à +1.5°C ?
@@ -19869,7 +19895,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 520
   text: Rêvons un peu...Avec la totalité de l’énergie consommée en France en une année,
     combien Elon Musk pourrait-il envoyer de personnes vers une station spatiale avec
@@ -41667,7 +41693,7 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 1080
   text: 'Vrai ou faux : les contributeurs aux rapports du GIEC sont rémunérés pour
     leur travail'
@@ -41705,7 +41731,7 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-07'
+  updated: '2022-11-12'
 - id: 1081
   text: Le GIEC comporte essentiellement 3 groupes de travail. Quels sont-ils
   hint: ''
@@ -41751,4 +41777,4 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-07'
+  updated: '2022-11-12'

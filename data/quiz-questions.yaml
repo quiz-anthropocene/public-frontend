@@ -2458,11 +2458,6 @@
   question: 1076
   order: 6
   created: '2022-08-14'
-- id: 657
-  quiz: 88
-  question: 519
-  order: 15
-  created: '2022-11-05'
 - id: 658
   quiz: 88
   question: 435
@@ -2501,17 +2496,17 @@
 - id: 665
   quiz: 88
   question: 1079
-  order: 9
+  order: 10
   created: '2022-11-07'
 - id: 666
   quiz: 88
   question: 1080
-  order: 10
+  order: 11
   created: '2022-11-07'
 - id: 667
   quiz: 88
   question: 1081
-  order: 12
+  order: 9
   created: '2022-11-07'
 - id: 668
   quiz: 89
