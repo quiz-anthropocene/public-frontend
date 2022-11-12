@@ -1,26 +1,26 @@
-question_count: 1050
-question_validated_count: 547
+question_count: 1053
+question_published_count: 547
 question_per_language_count:
 - language: Français
-  total: 1014
+  total: 1017
 - language: English
   total: 36
-quiz_count: 53
+quiz_count: 54
 quiz_published_count: 39
 quiz_per_language_count:
 - language: Français
-  total: 49
+  total: 50
 - language: English
   total: 4
-question_answer_count: 342012
-quiz_answer_count: 27615
-question_answer_count_last_30_days: 14804
-quiz_answer_count_last_30_days: 1190
+question_answer_count: 346386
+quiz_answer_count: 27980
+question_answer_count_last_30_days: 16701
+quiz_answer_count_last_30_days: 1382
 category_count: 8
 tag_count: 242
-question_feedback_count: 5032
-quiz_feedback_count: 858
-contribution_count: 758
-question_feedback_count_last_30_days: 58
-quiz_feedback_count_last_30_days: 22
-contribution_count_last_30_days: 4
+question_feedback_count: 5083
+quiz_feedback_count: 871
+contribution_count: 760
+question_feedback_count_last_30_days: 109
+quiz_feedback_count_last_30_days: 33
+contribution_count_last_30_days: 6
