@@ -56,13 +56,17 @@
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Forçage radiatif
-  name_alternatives: ''
-  definition_short: ''
-  description: La contribution instantanée au réchauffement d’un GES est fonction
-    de sa concentration dans l’atmosphère (exprimé en W/m2).
-  description_accessible_url: ''
+  name_alternatives: Radiative Forcing
+  definition_short: Différence entre la puissance de radiation reçue et radiation
+    émise par un système climatique donné sur terre
+  description: Le forçage radiatif est un terme de climatologie qui désigne un phénomène
+    de perturbation de l'équilibre d'un système climatique par des facteurs externes
+    au climat proprement dit. Cette perturbation concerne le différentiel entre les
+    énergies radiatives (rayonnement) reçues et émises par ce système climatique.
+    Il est exprimé en W/m2.
+  description_accessible_url: https://fr.wikipedia.org/wiki/For%C3%A7age_radiatif
   created: '2020-12-13'
-  updated: '2020-12-13'
+  updated: '2022-11-12'
 - name: GES
   name_alternatives: ''
   definition_short: Gaz à Effet de Serre
@@ -339,3 +343,13 @@
   description_accessible_url: ''
   created: '2022-07-18'
   updated: '2022-07-18'
+- name: SSP
+  name_alternatives: RCP
+  definition_short: Shared Socioeconomic Pathway
+  description: Tajectoires socio-économiques de référence choisies par la communauté
+    scientifique afin de créer un cadre de réflexion commun sur les enjeux liés aux
+    changements climatiques. Cinq narratifs décrivant les évolutions sociales, économiques,
+    politiques et technologiques possibles d’ici la fin du siècle ont été développés.
+  description_accessible_url: ''
+  created: '2022-11-12'
+  updated: '2022-11-12'
