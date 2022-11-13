@@ -1817,7 +1817,7 @@
   publish_date: '2022-01-20'
   spotlight: true
   created: '2022-01-10'
-  updated: '2022-06-20'
+  updated: '2022-11-12'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -2156,10 +2156,15 @@
 - id: 88
   name: Comment fonctionne le GIEC ?
   slug: comment-fonctionne-le-giec
-  introduction: <p>Le GIEC est le Groupement Intergouvernemental d'Experts sur l'évolution
-    du Climat. Savez-vous qui sont ces experts, comment ils fonctionnent ? Vous y
-    verrez plus clair après ce petit quiz.</p>
-  conclusion: ''
+  introduction: '<p>Le GIEC, vous connaissez ? C''est le Groupement Intergouvernemental
+    d''Experts sur l''évolution du Climat. Mais encore : savez-vous qui sont ces experts,
+    comment ils fonctionnent ? Vous y verrez plus clair après ce petit quiz.<a href="https://bonpote.com/les-infographies-du-6eme-rapport-du-giec/">https://bonpote.com/les-infographies-du-6eme-rapport-du-giec/</a></p>'
+  conclusion: <p>Vous devriez y voir plus clair désormais. Merci à Bonpote pour son
+    article <em><a href="https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/">Peut-on
+    faire confiance au GIEC</a>, </em>dont nous sommes inspirés pour l'élaboration
+    de ce quiz. Pour aller plus loin, vous pouvez consulter ses infographies éclairantes.
+    Ou mieux encore, lire les <a href="https://www.ipcc.ch/languages-2/francais/">résumés
+    à l'intention des décideurs</a>, disponibles en français.</p>
   questions:
   - 105
   - 271
@@ -2181,7 +2186,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   publish: false
