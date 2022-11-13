@@ -10459,7 +10459,7 @@
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2019/02/ipcc_members.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Liste des pays membres du GIEC
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000271-6941.jpg
   answer_image_explanation: ''
@@ -10470,7 +10470,7 @@
   validator: 1
   validation_date: null
   created: '2020-05-20'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
 - id: 272
   text: Quelle est la première énergie renouvelable consommée en France ?
   hint: ''
@@ -16343,9 +16343,8 @@
     en tout état de cause rester en cohérence avec la partie scientifique du rapport.
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/
-  answer_accessible_url_text: 'Article de Bon Pote : Peut-on vraiment faire confiance
-    au GIEC ?'
+  answer_accessible_url: https://lejournal.cnrs.fr/articles/le-giec-en-quatre-questions
+  answer_accessible_url_text: GIEC - le GIEC en 4 questions
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -16358,11 +16357,11 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
 - id: 425
-  text: 'Vrai ou faux : les opposants à la théorie du réchauffement climatique n’ont
-    pas leur mot à dire dans les rapports du GIEC'
-  hint: Les rapports du GIEC sont relus et vérifiés par des scientifiques volontaires
+  text: Vrai ou faux ? Les opposants à la thèse de la responsabilité humaine sur le
+    dérèglement climatique n’ont pas leur mot à dire dans les rapports du GIEC
+  hint: ''
   type: VF
   category: 1
   tags:
@@ -16389,7 +16388,7 @@
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
   answer_accessible_url_text: Comprendre le GIEC | Ministère de la Transition écologique
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/04/FS_review_process_fr.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: GIEC - process de validation d'un rapport (en anglais)
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000425-0f56.jpg
   answer_image_explanation: Description de l’écriture et de la revue des rapports
@@ -16401,7 +16400,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
 - id: 426
   text: Vrai ou Faux ? Les travaux du GIEC prennent en compte les aspects sociaux
     du dérèglement climatique.
@@ -16661,7 +16660,7 @@
   text: 'Vrai ou faux : Les membres du GIEC ne sont que des scientifiques'
   hint: ''
   type: VF
-  category: 6
+  category: 1
   tags:
   - 22
   difficulty: 1
@@ -16672,19 +16671,17 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Des centaines d’experts consacrent du temps à établir des évaluations\
-    \ en tant qu’auteurs coordonnateurs principaux et auteurs principaux. Des centaines\
-    \ d’autres experts apportent des contributions ponctuelles en qualité d’auteurs\r\
-    \ncollaborateurs et formulent des observations sur les chapitres en qualité d’examinateurs.\
-    \ \r\nLe GIEC s’efforce de réunir des équipes d’auteurs représentatives de la\
-    \ diversité des points de vue et des qualifications scientifiques, techniques\
-    \ et socio-économiques. Afin de parvenir à des rapports d’évaluation exhaustifs,\
-    \ c’est-à-dire qui ne favorisent pas un pays ou un groupe de pays mais tiennent\
-    \ compte des problématiques de chaque\r\nrégion, les équipes sont constituées\
-    \ d’une variété d’auteurs provenant de diverses régions et de pays développés\
-    \ comme de pays en développement. Des experts du secteur industriel et d’organisations\
-    \ à but non lucratif, qui apportent une perspective utile à l’évaluation, peuvent\
-    \ également faire partie des équipes."
+  answer_explanation: Des centaines d’experts consacrent du temps à établir des évaluations
+    en tant qu’auteurs coordonnateurs principaux et auteurs principaux et formulent
+    des observations sur les chapitres en qualité d’examinateurs. Le GIEC réunit des
+    équipes d’auteurs représentatives de la diversité des points de vue et des qualifications
+    scientifiques, techniques et socio-économiques. Afin de parvenir à des rapports
+    d’évaluation exhaustifs, c’est-à-dire qui ne favorisent pas un pays ou un groupe
+    de pays mais tiennent compte des problématiques de chaque région, les équipes
+    sont constituées d’une variété d’auteurs provenant de diverses régions et de pays
+    développés comme de pays en développement. Des experts du secteur industriel et
+    d’organisations à but non lucratif, qui apportent une perspective utile à l’évaluation,
+    peuvent également faire partie des équipes.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/questions-reponses/giec-giec-sont-experts-redigent-ils-leurs-rapports-15877/
@@ -16702,7 +16699,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -41670,8 +41667,8 @@
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/
-  answer_accessible_url_text: 'Article de Bon Pote : Peut-on vraiment faire confiance
-    au GIEC ?'
+  answer_accessible_url_text: 'Bon Pote : Peut-on vraiment faire confiance au GIEC
+    ?'
   answer_scientific_url: https://fr.wikipedia.org/wiki/Groupe_d%27experts_intergouvernemental_sur_l%27%C3%A9volution_du_climat
   answer_scientific_url_text: Wikipedia GIEC
   answer_reading_recommendation: ''
@@ -41684,7 +41681,7 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
 - id: 1080
   text: 'Vrai ou faux : les contributeurs aux rapports du GIEC sont rémunérés pour
     leur travail'
@@ -41708,8 +41705,8 @@
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/
-  answer_accessible_url_text: 'Article de Bon Pote : Peut-on vraiment faire confiance
-    au GIEC ?'
+  answer_accessible_url_text: 'Bon Pote : Peut-on vraiment faire confiance au GIEC
+    ?'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -41722,7 +41719,7 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
 - id: 1081
   text: Le GIEC comporte essentiellement 3 groupes de travail. Quels sont-ils
   hint: ''
@@ -41735,7 +41732,7 @@
   answer_option_b: L'acceptation sociale des changements requis
   answer_option_c: Conséquences, adaptation et vulnérabilité
   answer_option_d: Les fondements physiques du changement climatique
-  answer_correct: abd
+  answer_correct: acd
   has_ordered_answers: true
   answer_explanation: "Chacun des trois volets du rapport se compose de trois documents\
     \ :\r\n. un résumé à l’intention des décideurs (summary for policymakers ou SPM).\
@@ -41755,7 +41752,7 @@
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Sixi%C3%A8me_rapport_d%27%C3%A9valuation_du_GIEC
-  answer_accessible_url_text: Wikipedia, Sixième rapport d'évaluation du GIEC
+  answer_accessible_url_text: Wikipedia, sixième rapport d'évaluation du GIEC
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -41768,4 +41765,4 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-12'
+  updated: '2022-11-13'
