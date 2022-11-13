@@ -26,7 +26,7 @@
           <span v-if="quiz.has_audio" class="label small" style="vertical-align:top">🔉{{ $t('messages.audioComments') }}</span>
         </h2>
 
-        <section v-if="(quizStep === 0) || (quizStep > quiz.questions.length)">
+        <section v-if="(quizStep === 0) || (quizStep > quiz.question_count)">
           <div class="row no-gutters justify-content-center card-subtitle">
             <div class="col-md-10 col-lg-8" v-html="quiz.introduction" title="Introduction du quiz"></div>
           </div>
@@ -35,7 +35,7 @@
 
           <div class="row no-gutters small">
             <div class="col" title="Nombre de questions">
-              <span class="label label-hidden"><strong>{{ quiz.questions.length }}</strong></span>Questions
+              <span class="label label-hidden"><strong>{{ quiz.question_count }}</strong></span>Questions
             </div>
             <!-- <div class="col" v-bind:title="$t('messages.difficulty')">
               🏆&nbsp;{{ $t('messages.difficulty') }}<span class="label label-hidden"><strong>{{ quiz.difficulty_average | round(1) }} / 4</strong></span>
@@ -75,19 +75,19 @@
     <div id="scroll-to-question" class="scroll-to-fix" style="height:0px"></div>
 
     <section v-if="quiz && (quizStep > 0) && quiz.questions[quizStep-1]">
-      <QuestionAnswerCards v-bind:question="quiz.questions[quizStep-1]" v-bind:context="{ question_number: quizStep+' / '+quiz.questions.length, source: 'quiz', quiz: quiz }" @answer-submitted="onAnswerSubmitted" />
-      <button v-if="showNextButton && (quizStep < quiz.questions.length)" class="btn" :class="emphasisNextButton ? 'btn-primary' : 'btn-outline-primary'" @click="incrementStep()">⏩&nbsp;{{ $t('messages.nextQuestion') }}</button>
-      <button v-if="showNextButton && (quizStep === quiz.questions.length)" class="btn btn-lg btn-primary" @click="incrementStep()">⏩&nbsp;{{ $t('messages.endQuiz') }}</button>
+      <QuestionAnswerCards v-bind:question="quiz.questions[quizStep-1]" v-bind:context="{ question_number: quizStep+' / '+quiz.question_count, source: 'quiz', quiz: quiz }" @answer-submitted="onAnswerSubmitted" />
+      <button v-if="showNextButton && (quizStep < quiz.question_count)" class="btn" :class="emphasisNextButton ? 'btn-primary' : 'btn-outline-primary'" @click="incrementStep()">⏩&nbsp;{{ $t('messages.nextQuestion') }}</button>
+      <button v-if="showNextButton && (quizStep === quiz.question_count)" class="btn btn-lg btn-primary" @click="incrementStep()">⏩&nbsp;{{ $t('messages.endQuiz') }}</button>
     </section>
 
     <!-- Quiz terminé -->
 
     <div id="scroll-to-results" class="scroll-to-fix" style="height:0px"></div>
 
-    <section v-if="quiz && (quizStep > quiz.questions.length)">
+    <section v-if="quiz && (quizStep > quiz.question_count)">
 
       <section class="question">
-        <h2>{{ $t('messages.yourScore') }} : <strong>{{ finalScore }} / {{ quiz.questions.length }}</strong></h2>
+        <h2>{{ $t('messages.yourScore') }} : <strong>{{ finalScore }} / {{ quiz.question_count }}</strong></h2>
 
         <p v-if="quizStats">
           📈&nbsp;{{ $t('messages.quizCompletedStats') }} <strong>{{ quizStats.answer_count }}</strong> {{ $t('words.times') }}.<br />
@@ -98,7 +98,7 @@
         <div v-if="quiz.conclusion" v-html="quiz.conclusion" title="Conclusion du quiz"></div>
       </section>
 
-      <ShareBox type="quiz" :quizName="quiz.name" :score="finalScore + '/' + quiz.questions.length" />
+      <ShareBox type="quiz" :quizName="quiz.name" :score="finalScore + '/' + quiz.question_count" />
 
       <FeedbackCard v-bind:context="{ source: 'quiz', item: quiz }" />
 
@@ -175,6 +175,7 @@ export default {
       if (!quiz) {
         quiz = this.$store.getters.getQuizBySlug(this.$route.params.quizId);
       }
+      console.log('computed quiz', quiz ? quiz.questions : quiz);
       return quiz;
     },
     quizStats() {
@@ -246,6 +247,7 @@ export default {
   },
 
   mounted() {
+    this.initQuizData();
     this.initQuiz();
   },
 
@@ -254,6 +256,15 @@ export default {
       if (this.quiz && this.$store.state.locale && this.quiz.language !== this.$store.state.locale.value) {
         this.$i18n.locale = constants.LANGUAGE_CHOICE_LIST.find((l) => l.value === this.quiz.language).key;
       }
+    },
+    initQuizData() {
+      Promise.all([
+        this.$store.dispatch('GET_QUIZ_FROM_LOCAL_YAML', this.$route.params.quizId),
+        // this.$store.dispatch('GET_QUIZ_FROM_API', this.$route.params.quizId)
+      ]).then(() => {
+        this.$store.dispatch('GET_QUIZ_QUESTIONS_FROM_LOCAL_YAML', this.$route.params.quizId);
+        // this.$store.dispatch('GET_QUIZ_QUESTIONS_FROM_API', this.$route.params.quizId);
+      });
     },
     initQuiz() {
       this.quizStep = 0;

@@ -90,6 +90,7 @@ const store = new Vuex.Store({
      * - enrich with categories, tags
      */
     GET_QUESTION_LIST_FROM_LOCAL_YAML: ({ commit, getters }) => {
+      console.log('GET_QUESTION_LIST_FROM_LOCAL_YAML');
       const questions = questionsYamlData;
       // questions: get author, category & tags objects
       questions.map((q) => {
@@ -121,17 +122,7 @@ const store = new Vuex.Store({
     GET_QUIZ_LIST_FROM_LOCAL_YAML: ({ commit, state, getters }) => {
       if (!state.quizsLastFetchedDate) {
         const quizs = quizsYamlData;
-        // quiz: get question and tag objects
         quizs.map((q) => {
-          if (q.questions) {
-            // get quiz questions (in the right order)
-            const quizQuestionsList = quizQuestionsYamlData.filter((qq) => qq.quiz === q.id);
-            quizQuestionsList.sort((a, b) => a.order - b.order);
-            const quizQuestionsIdList = quizQuestionsList.map((qq) => qq.question);
-            const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
-            quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
-            Object.assign(q, { question_count: q.questions.length }, { questions: quizQuestions });
-          }
           // get quiz author & tags
           const quizAuthors = getters.getUsersByIdList(q.authors);
           const quizTags = getters.getTagsByIdList(q.tags);
@@ -147,7 +138,39 @@ const store = new Vuex.Store({
       // update tags: add quiz_count
       commit('SET_TAG_QUIZ_COUNT');
     },
-    GET_QUIZ_SPOTLIGHTED_LIST_FROM_API: ({ commit, state }) => {
+    GET_QUIZ_LIST_FROM_API: ({ commit, state, getters }) => {
+      if (!state.quizsLastFetchedDate) {
+        return fetch(`${process.env.VUE_APP_API_ENDPOINT}/quizs/`, {
+          method: 'GET',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+        })
+          .then((response) => response.json())
+          // eslint-disable-next-line
+          .then(data => {
+            const quizs = data.results;
+            quizs.map((q) => {
+              // get quiz author & tags
+              const quizAuthors = getters.getUsersByIdList(q.authors);
+              const quizTags = getters.getTagsByIdList(q.tags);
+              // assign
+              Object.assign(q, { authors: quizAuthors }, { tags: quizTags });
+              return q;
+            });
+            commit('SET_QUIZ_LIST', { list: quizs });
+            commit('SET_QUIZ_PUBLISHED_LIST', { list: quizs });
+            commit('SET_QUIZ_DISPLAYED_LIST', { list: quizs, filter: {} });
+            commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: null });
+          })
+          .catch((error) => {
+            console.log(error);
+          });
+      }
+      return commit('SET_QUIZ_LIST', { list: state.quizs });
+    },
+    GET_QUIZ_SPOTLIGHTED_LIST_FROM_API: ({ commit, state, getters }) => {
       if (!state.quizsSpotlightedLastFetchedDate) {
         return fetch(`${process.env.VUE_APP_API_ENDPOINT}/quizs/?spotlight=true&limit=5&order=-publish_date`, {
           method: 'GET',
@@ -159,13 +182,49 @@ const store = new Vuex.Store({
           .then((response) => response.json())
           // eslint-disable-next-line
           .then(data => {
-            commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: data.results });
+            const quizs = data.results;
+            quizs.map((q) => {
+              // get quiz author & tags
+              const quizAuthors = getters.getUsersByIdList(q.authors);
+              const quizTags = getters.getTagsByIdList(q.tags);
+              // assign
+              Object.assign(q, { authors: quizAuthors }, { tags: quizTags });
+              return q;
+            });
+            return commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: quizs });
           })
           .catch((error) => {
             console.log(error);
           });
       }
       return commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: state.quizsSpotlighted });
+    },
+    GET_QUIZ_FROM_LOCAL_YAML: ({ commit, getters }, quizSlug) => {
+      console.log('GET_QUIZ_FROM_LOCAL_YAML');
+      let quiz = getters.getQuizBySlug(quizSlug);
+      if (quiz) return quiz;
+      quiz = quizsYamlData.find((q) => q.slug === quizSlug);
+      const quizAuthors = getters.getUsersByIdList(quiz.authors);
+      const quizTags = getters.getTagsByIdList(quiz.tags);
+      // assign
+      Object.assign(quiz, { authors: quizAuthors }, { tags: quizTags });
+      return commit('SET_QUIZ', { quiz });
+    },
+    GET_QUIZ_QUESTIONS_FROM_LOCAL_YAML: ({ commit, getters }, quizId) => {
+      console.log('GET_QUIZ_QUESTIONS_FROM_LOCAL_YAML');
+      const quiz = getters.getQuizBySlug(quizId);
+      console.log('GET_QUIZ_QUESTIONS_FROM_LOCAL_YAML', quiz.id);
+      // get quiz questions (in the right order)
+      const quizQuestionsList = quizQuestionsYamlData.filter((qq) => qq.quiz === quiz.id);
+      quizQuestionsList.sort((a, b) => a.order - b.order);
+      console.log('GET_QUIZ_QUESTIONS_FROM_LOCAL_YAML', quizQuestionsList.length);
+      const quizQuestionsIdList = quizQuestionsList.map((qq) => qq.question);
+      // const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
+      const quizQuestions = questionsYamlData.filter((q) => quizQuestionsIdList.includes(q.id));
+      quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
+      console.log('GET_QUIZ_QUESTIONS_FROM_LOCAL_YAML', quizQuestions.length);
+      Object.assign(quiz, { question_count: quizQuestions.length }, { questions: quizQuestions });
+      commit('SET_QUIZ', { quiz });
     },
     /**
      * Get quiz relationships
@@ -368,12 +427,25 @@ const store = new Vuex.Store({
           .sort((a, b) => b.id - a.id) // biggest/latest id first
           .slice(0, state.quizsToSpotlight);
       }
+      if (!state.quizs.length) {
+        state.quizs = list;
+      }
     },
     SET_QUIZ_RELATIONSHIP_LIST: (state, { list }) => {
       state.quizRelationships = list;
     },
     SET_QUIZ_STATS_LIST: (state, { list }) => {
       state.quizStats = list;
+    },
+    SET_QUIZ: (state, { quiz }) => {
+      console.log('SET_QUIZ', quiz);
+      const quizListIndex = state.quizs.findIndex((q) => q.id === quiz.id);
+      if (quizListIndex) {
+        // splice? to tell Vue that the categories array has been updated
+        state.quizs.splice(quizListIndex, 1, quiz);
+      } else {
+        state.quizs.push(quiz);
+      }
     },
     SET_CATEGORY_LIST: (state, { list }) => {
       state.categories = list;

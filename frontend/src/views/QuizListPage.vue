@@ -60,7 +60,7 @@ export default {
 
   methods: {
     initQuizListData() {
-      this.$store.dispatch('GET_QUIZ_LIST_FROM_LOCAL_YAML');
+      this.$store.dispatch('GET_QUIZ_LIST_FROM_API');
     },
   },
 };
