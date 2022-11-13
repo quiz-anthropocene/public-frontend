@@ -93,3 +93,8 @@
   to_quiz: 56
   status: similaire
   created: '2022-11-04'
+- id: 21
+  from_quiz: 88
+  to_quiz: 79
+  status: similaire
+  created: '2022-11-12'

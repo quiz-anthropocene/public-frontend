@@ -10452,7 +10452,8 @@
   answer_option_d: '195'
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Soit la quasi totalité des pays reconnus par l’ONU.
+  answer_explanation: En 2021, il regroupe 195 États, soit la quasi totalité des pays
+    reconnus par l’ONU.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
@@ -16405,7 +16406,7 @@
   text: Vrai ou Faux ? Les travaux du GIEC prennent en compte les aspects sociaux
     du dérèglement climatique.
   hint: Le GIEC est composé de plusieurs groupes de travail, sur les aspects scientifiques
-    du climat mais aussi sur l’atténuation des risques et l'adaptation à ces derniers
+    du climat mais aussi sur l’atténuation des risques et l'adaptation à ces derniers.
   type: VF
   category: 1
   tags:
@@ -16422,7 +16423,8 @@
   has_ordered_answers: true
   answer_explanation: Le groupe de travail n°2 s’occupe des questions de vulnérabilité
     des systèmes socio-économiques et naturels aux changements climatiques, des conséquences
-    de ces changements, et des possibilités de s’y adapter. Il touche
+    de ces changements, et des possibilités de s’y adapter. Il aborde des sujets comme
+    les inégalités sociales ou l'impact de la colonisation.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
@@ -16670,30 +16672,19 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Des centaines d’experts éminents, spécialistes des divers domaines\
-    \ traités dans les rapports du GIEC,\r\nconsacrent du temps à établir des évaluations\
-    \ en tant qu’auteurs coordonnateurs principaux et auteurs\r\nprincipaux. Des centaines\
+  answer_explanation: "Des centaines d’experts consacrent du temps à établir des évaluations\
+    \ en tant qu’auteurs coordonnateurs principaux et auteurs principaux. Des centaines\
     \ d’autres experts apportent des contributions ponctuelles en qualité d’auteurs\r\
-    \ncollaborateurs et formulent des observations sur les chapitres en qualité d’examinateurs1.\r\
-    \nLa sélection s’effectue comme suit: un appel à candidatures est d’abord lancé\
-    \ auprès des gouvernements\r\net des organisations ayant le statut d’observateur\
-    \ auprès du GIEC; des curriculum vitae détaillés sont\r\nensuite remis et les\
-    \ auteurs sont sélectionnés en fonction de leurs compétences. Le GIEC s’efforce\
-    \ de réunir\r\ndes équipes d’auteurs représentatives de la diversité des points\
-    \ de vue et des qualifications scientifiques,\r\ntechniques et socio-économiques.\
-    \ Afin de parvenir à des rapports d’évaluation exhaustifs, c’est-à-dire qui\r\n\
-    ne favorisent pas un pays ou un groupe de pays mais tiennent compte des problématiques\
-    \ de chaque\r\nrégion, les équipes sont constituées d’une variété d’auteurs provenant\
-    \ de diverses régions et de pays\r\ndéveloppés comme de pays en développement.\
-    \ \r\ntravailler sur des rapports du Groupe d’experts et ceux qui n’ont pas cette\
-    \ expérience, notamment les\r\njeunes chercheurs. Des experts du secteur industriel\
-    \ et d’organisations à but non lucratif, qui apportent une\r\nperspective utile\
-    \ à l’évaluation, peuvent également faire partie des équipes. Le GIEC recherche\
-    \ aussi la parité hommes-femmes et un équilibre entre ceux qui ont l’habitude\
-    \ de travailler sur des rapports du Groupe d’experts et ceux qui n’ont pas cette\
-    \ expérience, notamment les jeunes chercheurs. Des experts du secteur industriel\
-    \ et d’organisations à but non lucratif.\r\nperspective utile à l’évaluation,\
-    \ peuvent également faire partie des"
+    \ncollaborateurs et formulent des observations sur les chapitres en qualité d’examinateurs.\
+    \ \r\nLe GIEC s’efforce de réunir des équipes d’auteurs représentatives de la\
+    \ diversité des points de vue et des qualifications scientifiques, techniques\
+    \ et socio-économiques. Afin de parvenir à des rapports d’évaluation exhaustifs,\
+    \ c’est-à-dire qui ne favorisent pas un pays ou un groupe de pays mais tiennent\
+    \ compte des problématiques de chaque\r\nrégion, les équipes sont constituées\
+    \ d’une variété d’auteurs provenant de diverses régions et de pays développés\
+    \ comme de pays en développement. Des experts du secteur industriel et d’organisations\
+    \ à but non lucratif, qui apportent une perspective utile à l’évaluation, peuvent\
+    \ également faire partie des équipes."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/questions-reponses/giec-giec-sont-experts-redigent-ils-leurs-rapports-15877/
@@ -16770,7 +16761,7 @@
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.i4ce.org/dou-viennent-les-cinq-nouveaux-scenarios-du-giec-climat/
-  answer_accessible_url_text: I4CE - D'où viennent les 4 scénarios du GIEC
+  answer_accessible_url_text: I4CE - D'où viennent les scénarios du GIEC
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
