@@ -123,17 +123,20 @@ const store = new Vuex.Store({
         const quizs = quizsYamlData;
         // quiz: get question and tag objects
         quizs.map((q) => {
-          // get quiz questions (in the right order)
-          const quizQuestionsList = quizQuestionsYamlData.filter((qq) => qq.quiz === q.id);
-          quizQuestionsList.sort((a, b) => a.order - b.order);
-          const quizQuestionsIdList = quizQuestionsList.map((qq) => qq.question);
-          const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
-          quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
+          if (q.questions) {
+            // get quiz questions (in the right order)
+            const quizQuestionsList = quizQuestionsYamlData.filter((qq) => qq.quiz === q.id);
+            quizQuestionsList.sort((a, b) => a.order - b.order);
+            const quizQuestionsIdList = quizQuestionsList.map((qq) => qq.question);
+            const quizQuestions = getters.getQuestionsByIdList(quizQuestionsIdList);
+            quizQuestions.sort((a, b) => quizQuestionsIdList.indexOf(a.id) - quizQuestionsIdList.indexOf(b.id));
+            Object.assign(q, { question_count: q.questions.length }, { questions: quizQuestions });
+          }
           // get quiz author & tags
           const quizAuthors = getters.getUsersByIdList(q.authors);
           const quizTags = getters.getTagsByIdList(q.tags);
           // assign
-          Object.assign(q, { question_count: q.questions.length }, { questions: quizQuestions }, { authors: quizAuthors }, { tags: quizTags });
+          Object.assign(q, { authors: quizAuthors }, { tags: quizTags });
           return q;
         });
         commit('SET_QUIZ_LIST', { list: quizs });

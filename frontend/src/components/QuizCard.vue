@@ -7,7 +7,7 @@
         <span v-if="quiz.has_audio" class="label small" style="vertical-align:top">🔉Audio</span>
       </h3>
       <p class="card-text text-center d-none d-sm-block">
-        <strong>{{ quiz.question_count || quiz.questions.length }}</strong> question<span v-if="quiz.questions.length > 1">s</span>
+        <strong>{{ quiz.question_count }}</strong> question<span v-if="quiz.question_count > 1">s</span>
         <!-- <button class="btn btn-outline-primary btn-sm margin-0 margin-left-20">{{ $t('messages.discover') }}</button> -->
       </p>
     </div>
