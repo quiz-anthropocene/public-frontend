@@ -2241,14 +2241,14 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  validation_status: Validée
+  validator: 55
+  validation_date: '2022-11-15'
+  publish: true
+  publish_date: '2022-11-15'
+  spotlight: true
   created: '2022-11-05'
-  updated: '2022-11-14'
+  updated: '2022-11-15'
 - id: 89
   name: Festival Nature et Environnement Isère 2022
   slug: festival-nature-et-environnement-isere-2022
