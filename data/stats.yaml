@@ -6,21 +6,21 @@ question_per_language_count:
 - language: English
   total: 36
 quiz_count: 54
-quiz_published_count: 39
+quiz_published_count: 40
 quiz_per_language_count:
 - language: Français
   total: 50
 - language: English
   total: 4
-question_answer_count: 347847
-quiz_answer_count: 28112
-question_answer_count_last_30_days: 16351
-quiz_answer_count_last_30_days: 1359
+question_answer_count: 348476
+quiz_answer_count: 28168
+question_answer_count_last_30_days: 16444
+quiz_answer_count_last_30_days: 1373
 category_count: 8
 tag_count: 242
-question_feedback_count: 5087
+question_feedback_count: 5090
 quiz_feedback_count: 876
 contribution_count: 760
-question_feedback_count_last_30_days: 109
+question_feedback_count_last_30_days: 112
 quiz_feedback_count_last_30_days: 34
 contribution_count_last_30_days: 6
