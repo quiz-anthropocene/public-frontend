@@ -4209,16 +4209,19 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'le GIEC a été créé en 1988 par l''Organisation Météorologique
-    Mondiale et le Programme des Nations Unies pour l''Environnement, dans le but
-    de fournir des évaluations détaillées de l’état des connaissances scientifiques,
-    techniques et socio-économiques sur les changements climatiques, leurs causes,
-    leurs répercussions potentielles et les stratégies d''atténuation et d''adaptation.
-    Le premier rapport d''évaluation du GIEC sur le changement climatique a été publié
-    en 1990. Cinq autres rapports ont suivi : 1995, 2001, 2007, 2014 et 2021-22.'
+    Mondiale et le Programme des Nations Unies. En fait, sur proposition du G7, et
+    en particulier de Ronald Reagan et Margareth Thatcher, pour des raisons très différentes
+    l''un et l''autre. Il a pour but de fournir des évaluations détaillées de l’état
+    des connaissances scientifiques, techniques et socio-économiques sur les changements
+    climatique, leurs causes, leurs répercussions potentielles et les stratégies d''atténuation
+    et d''adaptation. Le premier rapport d''évaluation du GIEC sur le changement climatique
+    a été publié en 1990. Cinq autres rapports ont suivi : 1995, 2001, 2007, 2014
+    et 2021-22.'
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://www.ecologie.gouv.fr/comprendre-giec
-  answer_accessible_url_text: Comprendre le GIEC | Ministère de la Transition écologique
+  answer_accessible_url: https://www.novethic.fr/actualite/environnement/climat/isr-rse/a-l-origine-quand-margareth-thatcher-et-ronald-regan-ont-cree-le-giec-148067.html
+  answer_accessible_url_text: Novethic - quand Margareth Thatcher et Ronald Reagan
+    ont créé le GIEC
   answer_scientific_url: https://www.ipcc.ch/about/history/
   answer_scientific_url_text: Histoire du GIEC (en anglais)
   answer_reading_recommendation: ''
@@ -4231,7 +4234,7 @@
   validator: 2
   validation_date: '2019-01-16'
   created: '2019-01-09'
-  updated: '2022-11-07'
+  updated: '2022-11-14'
 - id: 106
   text: Quelle est la première source d'énergie primaire dans le monde ?
   hint: ''
@@ -10466,11 +10469,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: A valider
-  validator: 1
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-14'
   created: '2020-05-20'
-  updated: '2022-11-13'
+  updated: '2022-11-14'
 - id: 272
   text: Quelle est la première énergie renouvelable consommée en France ?
   hint: ''
@@ -16353,11 +16356,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-13'
+  updated: '2022-11-14'
 - id: 425
   text: Vrai ou faux ? Les opposants à la thèse de la responsabilité humaine sur le
     dérèglement climatique n’ont pas leur mot à dire dans les rapports du GIEC
@@ -16695,11 +16698,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-13'
+  updated: '2022-11-14'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -16767,11 +16770,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-12'
+  updated: '2022-11-14'
 - id: 436
   text: D'ici quelle année les émissions mondiales de CO2 doivent-elles tomber à zéro
     pour limiter le réchauffement climatique à +1.5°C ?
