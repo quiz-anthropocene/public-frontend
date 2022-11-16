@@ -2220,6 +2220,7 @@
     à l'intention des décideurs</a>, disponibles en français.</p>
   questions:
   - 105
+  - 145
   - 271
   - 424
   - 425
@@ -2229,11 +2230,11 @@
   - 1079
   - 1080
   - 1081
-  question_count: 10
+  question_count: 11
   tags:
   - 22
   - 225
-  difficulty_average: 1.3
+  difficulty_average: 1.5
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/5b55ee16.png
   has_audio: false
@@ -2247,7 +2248,7 @@
   publish_date: '2022-11-15'
   spotlight: true
   created: '2022-11-05'
-  updated: '2022-11-15'
+  updated: '2022-11-16'
 - id: 89
   name: Festival Nature et Environnement Isère 2022
   slug: festival-nature-et-environnement-isere-2022

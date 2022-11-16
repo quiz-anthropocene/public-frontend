@@ -5709,9 +5709,9 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 145
-  text: Pour leurs rapports d'évaluation de 2021, à combien de commentaires les scientifiques
-    ont-ils du répondre ?
-  hint: ''
+  text: Pour leurs derniers rapports, à combien de commentaires les scientifiques
+    du GIEC ont-ils répondu ?
+  hint: Un nombre certain !
   type: QCM
   category: 8
   tags:
@@ -5724,10 +5724,11 @@
   answer_option_d: 136,000
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "A titre d'illustration, pour le seul groupe de travail 1, sur\
-    \ les fondements physiques du dérèglement climatique : \r\n234 auteurs,78,000\
-    \ commentaires, 14,000 publications passées en revue, pour un rapport de 3949\
-    \ pages."
+  answer_explanation: '136,000 commentaires au total pour les 3 rapports publiés en
+    2021-22. Si l''on zoome sur le groupe de travail 1, celui sur les fondements physiques
+    du dérèglement climatique, voici quelques chiffres pour se donner une idée du
+    travail que cela représente : 234 auteurs,78,000 commentaires, 14,000 publications
+    passées en revue, pour un rapport de 3,949 pages.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://pour-un-reveil-ecologique.org/fr/articles/6e-rapport-du-giec-kit-pratique-1er-volet/
@@ -5736,15 +5737,15 @@
   answer_scientific_url_text: IPCC Sixth Assessment Report, Authors
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000145-9515.jpg
-  answer_image_explanation: Exemples d'un rapport du GIEC listant les références des
-    études scientifiques sur lequel il s'est appuyé. Il y a des centaines de pages
-    comme celles-ci.
+  answer_image_explanation: 'Extrait d''un rapport : liste des références des études
+    scientifiques sur lequel il s''est appuyé. Il y a des centaines de pages comme
+    celles-ci.'
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Validée
   validator: 2
-  validation_date: null
+  validation_date: '2022-11-16'
   created: '2020-04-26'
   updated: '2022-11-16'
 - id: 146
@@ -10469,7 +10470,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-05-20'
-  updated: '2022-11-14'
+  updated: '2022-11-16'
 - id: 272
   text: Quelle est la première énergie renouvelable consommée en France ?
   hint: ''
@@ -16356,7 +16357,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-14'
+  updated: '2022-11-16'
 - id: 425
   text: Vrai ou faux ? Les opposants à la thèse de la responsabilité humaine sur le
     dérèglement climatique n’ont pas leur mot à dire dans les rapports du GIEC
@@ -16390,7 +16391,7 @@
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/04/FS_review_process_fr.pdf
   answer_scientific_url_text: GIEC - process de validation d'un rapport (en anglais)
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000425-0f56.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/663409cf.jpg
   answer_image_explanation: Description de l’écriture et de la revue des rapports
     du GIEC
   answer_extra_info: ''
@@ -16440,7 +16441,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-12'
+  updated: '2022-11-16'
 - id: 427
   text: Combien sont payés par l'ONU les chercheurs qui participent aux rapports GIEC
     ?
@@ -16771,7 +16772,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-14'
+  updated: '2022-11-16'
 - id: 436
   text: D'ici quelle année les émissions mondiales de CO2 doivent-elles tomber à zéro
     pour limiter le réchauffement climatique à +1.5°C ?
@@ -41681,7 +41682,7 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-13'
+  updated: '2022-11-16'
 - id: 1080
   text: 'Vrai ou faux : les contributeurs aux rapports du GIEC sont rémunérés pour
     leur travail'
@@ -41719,7 +41720,7 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-13'
+  updated: '2022-11-16'
 - id: 1081
   text: Le GIEC comporte essentiellement 3 groupes de travail. Quels sont-ils
   hint: ''
