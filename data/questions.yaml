@@ -4209,14 +4209,14 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'le GIEC a été créé en 1988 par l''Organisation Météorologique
-    Mondiale et le Programme des Nations Unies. En fait, sur proposition du G7, et
-    en particulier de Ronald Reagan et Margareth Thatcher, pour des raisons très différentes
-    l''un et l''autre. Il a pour but de fournir des évaluations détaillées de l’état
-    des connaissances scientifiques, techniques et socio-économiques sur les changements
-    climatique, leurs causes, leurs répercussions potentielles et les stratégies d''atténuation
-    et d''adaptation. Le premier rapport d''évaluation du GIEC sur le changement climatique
-    a été publié en 1990. Cinq autres rapports ont suivi : 1995, 2001, 2007, 2014
-    et 2021-22.'
+    Mondiale (OMM) et le Programme des Nations Unies pour l''Environnement (PNUE).
+    En fait, sur proposition du G7, et en particulier de Ronald Reagan et Margareth
+    Thatcher, pour des raisons très différentes l''un et l''autre. Il a pour but de
+    fournir des évaluations détaillées de l’état des connaissances scientifiques,
+    techniques et socio-économiques sur les changements climatique, leurs causes,
+    leurs répercussions potentielles et les stratégies d''atténuation et d''adaptation.
+    Le premier rapport d''évaluation du GIEC sur le changement climatique a été publié
+    en 1990. Cinq autres rapports ont suivi : 1995, 2001, 2007, 2014 et 2021-22.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.novethic.fr/actualite/environnement/climat/isr-rse/a-l-origine-quand-margareth-thatcher-et-ronald-regan-ont-cree-le-giec-148067.html
@@ -4234,7 +4234,7 @@
   validator: 2
   validation_date: '2019-01-16'
   created: '2019-01-09'
-  updated: '2022-11-15'
+  updated: '2022-11-16'
 - id: 106
   text: Quelle est la première source d'énergie primaire dans le monde ?
   hint: ''
@@ -5709,8 +5709,8 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 145
-  text: Combien de publications scientifiques sont référencées dans le dernier rapport
-    d’évaluation du GIEC de 2014 ?
+  text: Pour leurs rapports d'évaluation de 2021, à combien de commentaires les scientifiques
+    ont-ils du répondre ?
   hint: ''
   type: QCM
   category: 8
@@ -5718,26 +5718,22 @@
   - 22
   difficulty: 3
   language: Français
-  answer_option_a: 3 000
-  answer_option_b: 9 000
-  answer_option_c: 17 000
-  answer_option_d: 31 000
+  answer_option_a: '136'
+  answer_option_b: 1,360
+  answer_option_c: 13,600
+  answer_option_d: 136,000
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Le dernier rapport d’évaluation du GIEC de 2014 fait référence
-    à environ 31000 publications scientifiques.
-
-    9200 dans le groupe I
-
-    12000 dans le groupe II
-
-    10000 dans le groupe III'
+  answer_explanation: "A titre d'illustration, pour le seul groupe de travail 1, sur\
+    \ les fondements physiques du dérèglement climatique : \r\n234 auteurs,78,000\
+    \ commentaires, 14,000 publications passées en revue, pour un rapport de 3949\
+    \ pages."
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
-  answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/03/WGIII_AR5_FactSheet-1.pdf
-  answer_scientific_url_text: ''
+  answer_accessible_url: https://pour-un-reveil-ecologique.org/fr/articles/6e-rapport-du-giec-kit-pratique-1er-volet/
+  answer_accessible_url_text: Pour un réveil écologique, kit pratique GT 1
+  answer_scientific_url: https://www.ipcc.ch/report/ar6/wg1/about/authors/
+  answer_scientific_url_text: IPCC Sixth Assessment Report, Authors
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000145-9515.jpg
   answer_image_explanation: Exemples d'un rapport du GIEC listant les références des
@@ -5746,11 +5742,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Écartée
+  validation_status: Brouillon
   validator: 2
   validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2022-11-16'
 - id: 146
   text: En France, combien y a-t’il d’installations de remontées mécaniques (télésièges,
     téléskis, téléphériques, télécabines) ?
@@ -16388,8 +16384,9 @@
     de l''évaluation de travaux de recherche produits dans le monde entier.'
   answer_audio: ''
   answer_video: ''
-  answer_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
-  answer_accessible_url_text: Comprendre le GIEC | Ministère de la Transition écologique
+  answer_accessible_url: https://www.lemonde.fr/les-decodeurs/article/2019/08/02/dereglement-climatique-les-cinq-critiques-recurrentes-adressees-au-giec_5495740_4355770.html
+  answer_accessible_url_text: 'Le Monde : les 5 critiques récurrentes adressées au
+    GIEC'
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/04/FS_review_process_fr.pdf
   answer_scientific_url_text: GIEC - process de validation d'un rapport (en anglais)
   answer_reading_recommendation: ''
@@ -16403,7 +16400,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-13'
+  updated: '2022-11-16'
 - id: 426
   text: Vrai ou Faux ? Les travaux du GIEC prennent en compte les aspects sociaux
     du dérèglement climatique.
@@ -16660,7 +16657,7 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 433
-  text: 'Vrai ou faux : Les membres du GIEC ne sont que des scientifiques'
+  text: 'Vrai ou faux : Les contributeurs aux rapports du GIEC ne sont que des scientifiques'
   hint: ''
   type: VF
   category: 1
@@ -16702,7 +16699,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-14'
+  updated: '2022-11-16'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -41753,7 +41750,7 @@
     \ par le groupe III et nommé Atténuation du changement climatique, a été publié\
     \ le 4 avril 2022."
   answer_audio: ''
-  answer_video: ''
+  answer_video: https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/
   answer_accessible_url: https://fr.wikipedia.org/wiki/Sixi%C3%A8me_rapport_d%27%C3%A9valuation_du_GIEC
   answer_accessible_url_text: Wikipedia, sixième rapport d'évaluation du GIEC
   answer_scientific_url: ''
@@ -41768,4 +41765,4 @@
   validator: null
   validation_date: null
   created: '2022-11-07'
-  updated: '2022-11-13'
+  updated: '2022-11-16'
