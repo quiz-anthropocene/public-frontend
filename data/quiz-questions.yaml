@@ -683,11 +683,6 @@
   question: 14
   order: 20
   created: '2021-01-12'
-- id: 218
-  quiz: 15
-  question: 425
-  order: 7
-  created: '2021-01-12'
 - id: 219
   quiz: 15
   question: 348

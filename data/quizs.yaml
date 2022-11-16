@@ -541,14 +541,13 @@
   - 264
   - 348
   - 362
-  - 425
   - 428
   - 453
   - 460
-  question_count: 11
+  question_count: 10
   tags:
   - 142
-  difficulty_average: 2.2
+  difficulty_average: 2.3
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000015-a68a.jpg
   has_audio: false
@@ -562,7 +561,7 @@
   publish_date: null
   spotlight: false
   created: '2020-07-29'
-  updated: '2022-04-16'
+  updated: '2022-11-16'
 - id: 16
   name: Introduction à l'anthropocène - Partie 2
   slug: introduction-a-lanthropocene-partie-2
