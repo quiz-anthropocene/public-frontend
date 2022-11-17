@@ -16737,7 +16737,7 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 435
-  text: 'Vrai ou faux : le GIEC établit plusieurs scénarios d’évolution des émissions
+  text: 'Vrai ou faux : le GIEC utilise plusieurs scénarios d’évolution des émissions
     de gaz à effet de serre pour le siècle à venir'
   hint: ''
   type: VF
@@ -16908,7 +16908,7 @@
   answer_explanation: L’empreinte écologique globale des Etats-Unis est d’environ
     20% de la capacité de la terre, alors que leur population est d’un peu plus de
     4% de la population mondiale. Si tous les êtres humains vivaient comme eux, il
-    faudrait environ 5 planètes terre.
+    faudrait environ 5 planètes Terre.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Liste_des_pays_par_empreinte_%C3%A9cologique
@@ -16926,7 +16926,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-11-16'
 - id: 440
   text: Si tous les humains vivaient avec le niveau de vie des Français, combien de
     planètes Terre nous faudrait-il ?
@@ -35412,7 +35412,7 @@
   answer_explanation: Près de la moitié de la population mondiale subit actuellement
     des pénuries d'eau au moins une partie de l'année en raison de facteurs climatiques
     et non climatiques. Ce chiffre est issu du groupe de travail II du GIEC AR 6 de
-    2021, relatif aux impacts, à l'adaptation et à la vulnérabilité du changement
+    2022, relatif aux impacts, à l'adaptation et à la vulnérabilité du changement
     climatique. Le rapport indique en outre que cette proportion va augmenter avec
     l’aggravation du dérèglement climatique.
   answer_audio: ''
@@ -35437,7 +35437,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-11-08'
+  updated: '2022-11-16'
 - id: 900
   text: Quel est le cout du MWh Nucléaire étendu à 20 ans en $ / MWh ?
   hint: Bas carbone donc…
