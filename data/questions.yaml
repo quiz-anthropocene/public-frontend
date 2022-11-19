@@ -5718,17 +5718,17 @@
   - 22
   difficulty: 3
   language: Français
-  answer_option_a: '199'
-  answer_option_b: 1,990
-  answer_option_c: 19,900
-  answer_option_d: 199,000
+  answer_option_a: '200'
+  answer_option_b: 2,000
+  answer_option_c: 20,000
+  answer_option_d: 200,000
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: '199,000 commentaires au total pour les 3 rapports publiés en
     2021-22. Si l''on zoome sur le groupe de travail 1, celui sur les fondements physiques
     du dérèglement climatique, voici quelques chiffres pour se donner une idée du
     travail que cela représente : 234 auteurs,78,000 commentaires, 14,000 publications
-    passées en revue, pour un rapport de 3,949 pages.'
+    passées en revue, pour un rapport de près de 4,000 pages.'
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://pour-un-reveil-ecologique.org/fr/articles/6e-rapport-du-giec-kit-pratique-1er-volet/
@@ -5749,7 +5749,7 @@
   validator: 2
   validation_date: '2022-11-16'
   created: '2020-04-26'
-  updated: '2022-11-17'
+  updated: '2022-11-18'
 - id: 146
   text: En France, combien y a-t’il d’installations de remontées mécaniques (télésièges,
     téléskis, téléphériques, télécabines) ?
@@ -41770,37 +41770,35 @@
   created: '2022-11-07'
   updated: '2022-11-17'
 - id: 1082
-  text: A votre avis, quelles sont les règles que doivent respecter les experts du
-    GIEC ?
+  text: Concrètement, que font les experts qui contribuent aux travaux du GIEC ?
   hint: rigueur et confiance obligent
   type: QCM-RM
   category: 1
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: Les experts du GIEC réalisent des recommandations politiques en
-    amont des COPs (Conférences des Parties)
-  answer_option_b: Le GIEC adopte le principe rigoureux d'une triple lecture de leurs
-    publications (en mode "peer review" ou relecture des pairs)
-  answer_option_c: Les experts scientifiques du GIEC produisent des articles scientifiques
-    relus par d'autres scientifiques
-  answer_option_d: Les experts du GIEC rédigent des rapports et des synthèses de travaux
-    scientifiques les plus récents de leurs pairs
+  answer_option_a: Ils émettent des recommandations politiques en amont des COPs (Conférences
+    des Parties)
+  answer_option_b: Ils donnent à relire leur contribution par 3 de leurs pairs avant
+    intégration dans les rapports
+  answer_option_c: Ils produisent de nouveaux articles scientifiques qui sont relus
+    par d'autres scientifiques
+  answer_option_d: Ils rédigent des rapports et des synthèses des travaux scientifiques
+    les plus récents de leurs pairs
   answer_correct: bd
-  has_ordered_answers: true
-  answer_explanation: Contrairement à ce que l'on lit souvent, le GIEC ne doit faire
-    aucune recommandation politique. Cependant, il ne doit traiter que de sujets pertinents
-    pour les décideurs et le contenu des rapports du GIEC doit être pertinent politiquement,
-    mais non prescriptif ! Les auteurs du GIEC ne produisent aucun article scientifique,
-    le GIEC n'est pas un laboratoire de recherche. Raison pour laquelle on observe
-    un renouvellement important d'une partie de leur effectif d'un rapport à l'autre,
-    a minima 50% !
+  has_ordered_answers: false
+  answer_explanation: "Contrairement à ce que l'on lit souvent, le GIEC n'a pas mandat\
+    \ à formuler des recommandations aux décideurs politiques. Le contenu de leurs\
+    \ rapports est descriptif, non prescriptif. \r\nLe GIEC n'est pas un laboratoire\
+    \ de recherche, et les auteurs ne produisent donc aucun article scientifique.\
+    \ Raison pour laquelle on observe un renouvellement important d'une partie de\
+    \ leur effectif d'un rapport à l'autre, a minima 50% !"
   answer_audio: ''
   answer_video: https://www.youtube.com/watch?v=C_UTlTiVQ_0
   answer_accessible_url: https://argonautes.club/comment-fonctionne-le-giec-ipcc.html
   answer_accessible_url_text: FAQ GIEC par Michel Petit
   answer_scientific_url: https://twitter.com/valmasdel/status/1143865085892472832
-  answer_scientific_url_text: éclairage de Valérie Masson Delmotte co-présidente du
+  answer_scientific_url_text: Eclairage de Valérie Masson Delmotte co-présidente du
     GT1, Groupe de Travail n°1 du GIEC
   answer_reading_recommendation: https://www.cairn.info/giec--9782724638707.htm
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/aeaf7208.jpg
@@ -41808,8 +41806,8 @@
   answer_extra_info: ''
   author: 14
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-11-17'
-  updated: '2022-11-17'
+  updated: '2022-11-18'
