@@ -39750,17 +39750,14 @@
     d'altitude, sont a préservés en priorité de la mise en culture pour préserver
     leur stock de matière organique. Au contraire, les sols cultivés dégradés peuvent
     être régénéré par des couverts végétaux ("engrais verts") associés avec du pâturage.
-  answer_extra_info: Au contraire, une foret nourrit le sol principalement via la
-    chute des feuilles, ce qui limite la couche humifère à 30-40cm d’épaisseur. La
-    forêt compense bien sur par un stock élevé dans sa biomasse « vivante », stock
-    qui est plus fragile au aléas (feux, tempêtes...)
+  answer_extra_info: ''
   author: 59
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2022-06-15'
-  updated: '2022-06-16'
+  updated: '2022-11-25'
 - id: 1034
   text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
     that the current climate change is caused by human activities?
@@ -41811,3 +41808,243 @@
   validation_date: null
   created: '2022-11-17'
   updated: '2022-11-18'
+- id: 1083
+  text: Les sols de la planètes contiennent
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: autant de carbone que dans l’atmosphère
+  answer_option_b: autant de carbone que dans les organismes vivants (végétaux, animaux,
+    microbes...)
+  answer_option_c: trois fois plus de carbone que dans l’atmosphère
+  answer_option_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Il y a environ :\r\n- 760 giga-tonnes de carbone dans l’atmosphère\r\
+    \n- 610 giga-tonnes de carbones dans le vivant\r\n- 2000 giga-tonnes de carbone\
+    \ dans les sols\r\n\r\nLa gestion des sols est donc un levier d’action de fort\
+    \ potentiel comme puits de carbone sur le long terme."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: http://acces.ens-lyon.fr/acces/thematiques/CCCIC/ressources/litho_point6
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: https://www.pearson.com/en-gb/subject-catalog/p/Weil-The-Nature-and-Properties-of-Soils-Global-Edition-15th-Edition/P200000005713/9781292162249
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ac422189.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-25'
+- id: 1084
+  text: Depuis le début de l’ère industrielle, le changement d’affectation des sols,
+    et notamment le passage à l’agriculture, représentent
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: moins de 10 % des émissions de CO2 anthropiques
+  answer_option_b: entre 10 et 25 %
+  answer_option_c: entre 25 et 40 %
+  answer_option_d: plus de 40%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Les émissions de CO2 due au changement d’affectation des sols
+    représente environ 1/3 des émissions totales de CO2 dues à l’action de l’Homme.
+    Ces émissions comprennent la déforestation mais aussi la réduction du taux de
+    matière organique des sols dégradés. Avant 1900, la majeur partie des émissions
+    de CO2 anthropiques venaient de ce changement d’usage des sols. Cette dégradation
+    des sols a commencé bien avant la période industrielle, et notamment les civilisations
+    sumériennes, grecques et romaines avaient suffisamment dégradés les terres méditerranéennes
+    pour engendrer les paysages peu fertiles d’aujourd’hui. La culture à grande échelle
+    de l’olivier ou de la vigne, des plantes très rustiques, sont des marqueurs de
+    la perte de fertilité de ces sols.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://eduscol.education.fr/document/25465/download
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://bg.copernicus.org/articles/17/4075/2020/
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c1760751.png
+  answer_image_explanation: Source GIEC
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-25'
+- id: 1085
+  text: Quels sont les principales fonctions de la matière organique pour les sols
+    ?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Elle structure un sol aéré favorable à l’implantation des végétaux
+  answer_option_b: Elle augmente la réserve d’eau contenue dans le sol
+  answer_option_c: Elle nourrit la vie du sol (vers de terres, mycorhizes...)
+  answer_option_d: Ellerégule la fourniture de nutriments aux plantes
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: La matière organique forment avec les argiles du sol une structure
+    grumeleuse bien aérée favorable à la croissance des plantes. Un sol bien structuré
+    peut stocker jusqu’à 20 % de sont volume en eau, et donc un sol de 1m de profondeur
+    pourra fournir jusqu’à l’équivalent de 200mm de pluie lors d’une longue sécheresse.
+    Cette matière organique sert d’énergie à la vie du sol, et cette dernière va réguler
+    la fourniture d’éléments essentiels à la croissance des plantes, comme l’azote
+    et le phosphore. Plus le sol contient de matière organique, plus il est fertile
+    pour l’agriculture… et plus il stocke de carbone !
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://agriculture.gouv.fr/recherche-le-gis-sol-observe-comment-les-sols-attenuent-les-effets-du-changement-climatique
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://anr.fr/fileadmin/documents/2015/ANR_Plaquette_SOLS.pdf
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-25'
+- id: 1086
+  text: Quelles sont les raisons du dépassement des limites planétaires des cycles
+    de l’azote et du phosphore ?
+  hint: ''
+  type: QCM
+  category: 3
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: les animaux d’élevage
+  answer_option_b: l’utilisation d’engrais de source fossile pour la production végétale
+  answer_option_c: la spécialisation des régions agricoles
+  answer_option_d: la mécanisation agricole
+  answer_correct: bc
+  has_ordered_answers: true
+  answer_explanation: Le développement des engrais « fossiles » a permis la spécialisation
+    des régions agricoles. De grandes régions comme la Bretagne et le Benelux se sont
+    spécialisées dans l’élevage et l’agroalimentaire pour des raisons industrielles
+    (main d’œuvres, infrastructures de transports mondiaux…). En miroir, l’élevage
+    a disparut des plaines céréalières. Ces dernières exportent donc beaucoup de nutriments
+    vers les régions d’élevage, et compensent la perte de ces nutriments par des engrais
+    d’origine fossile. A l’autre bout de la chaîne, les régions d’élevage se retrouvent
+    avec des excédents qui finissent tôt ou tard dans les rivières et dans la mer.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Eutrophisation
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/873c1eb1.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-25'
+- id: 1087
+  text: 'L''apparition des bovidés (vaches, bisons, antilopes...) au cours de l’évolution
+    est corrélée à :'
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 4
+  language: Français
+  answer_option_a: un réchauffement climatique de 5°C
+  answer_option_b: un réchauffement climatique de 1°C
+  answer_option_c: un refroidissement climatique de 1°C
+  answer_option_d: un reffroidissement climatique de 5°C
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Les bovidés, qui sont des grands ruminants, sont apparus il
+    y a environ 17-18millions d’années, au début du Miocène. L’extension des ruminants
+    corrèle avec le refroidissement climatique de 5°C qui a eus lieux entre le milieu
+    du Miocène et la fin du Pliocène, avant que les cycles de glaciations ne se mettent
+    en place. Ceci est sans doute lié au développement des sols de prairies et steppes
+    qui sont profonds et riches en carbone, et constituent les sols les plus fertiles.
+    Les grands herbivores maintiennent en équilibre en évitant l’évolution vers la
+    forêt. Mais si la logique est là, il manque encore le lien de causalité, sujet
+    scientifique à suivre donc !
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.researchgate.net/profile/Gregory-Retallack/publication/234145893_Global_Cooling_by_Grassland_Soils_of_the_Geological_Past_and_Near_Future/links/53d012040cf2f7e53cfae778/Global-Cooling-by-Grassland-Soils-of-the-Geological-Past-and-Near-Future.pdf?origin=publication_detail
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/47d2b629.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-25'
+- id: 1088
+  text: Quelle est le principal coût énergétique de la production et de la vente d’un
+    kilogramme de pomme produit et acheté à la campagne?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: le déplacement foyer - magasin pour faire ses achats
+  answer_option_b: les engrais de synthèse
+  answer_option_c: les gros tracteurs
+  answer_option_d: les transports à longue distance
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: La production et approvisionnement d’un kilogramme de pomme
+    du Limousin en Limousin a un bilan gaz à effet de serre d’environ 200geCO2. Le
+    facteur principale d’émission est le « dernier kilomètre », qui est plus long
+    dans les zones rurales comme dans le Limousin. En Ile de France, ce dernier kilomètre
+    est plus court avec un tissue dense de magasins, et même si le bilan du transport
+    logistique est plus élevé, le bilan total est étonnamment plus faible que dans
+    la région de production.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.researchgate.net/profile/Jacques-Leonardi/publication/233495989_Emissions_de_gaz_a_effet_de_serre_des_chaines_logistiques/links/55f145af08aedecb68ffe322/Emissions-de-gaz-a-effet-de-serre-des-chaines-logistiques.pdf?origin=publication_detail
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: Émissions des chaînes logistiques d’un kilogramme
+    de pomme vendus en supermarché
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e71e4311.png
+  answer_image_explanation: ''
+  answer_extra_info: 'Note : si cette pomme viens de Nouvelle Zélande, le transport
+    maritime augmente énormément le bilan'
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-25'

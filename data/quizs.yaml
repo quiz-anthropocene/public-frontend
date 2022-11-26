@@ -2289,3 +2289,32 @@
   spotlight: false
   created: '2022-11-08'
   updated: '2022-11-08'
+- id: 90
+  name: Les sols
+  slug: les-sols
+  introduction: <p>Comme le titre Marc-André Selosse, les sols sont « l’origine du
+    monde ». Pourtant, ignorant la nature ce que nous avons sous les pieds, l’activité
+    humaine a souvent dégradé fortement le fonctionnement des sols, notamment par
+    son agriculture. Cette dégradation des sols a accompagné jadis l’effondrement
+    de plusieurs empires ainsi que la formation de déserts. Nous poursuivons cette
+    dégradation des sols agricoles maintenant à l’échelle mondiale... sauront-nous
+    arrêter cette hémorragie ? Est-ce possible de régénérer les sols agricoles dégradés ?</p>
+  conclusion: ''
+  questions: []
+  question_count: 0
+  tags: []
+  difficulty_average: 0.0
+  language: Français
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2022-11-25'
+  updated: '2022-11-25'
