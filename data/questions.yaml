@@ -31234,7 +31234,8 @@
   difficulty: 2
   language: Français
   answer_option_a: L'eau de pluie utilisée, l'eau prélevée dans les milieux pour la
-    fabrication et l'eau nécessaire à la dilution des polluants émis
+    fabrication et l'eau nécessaire à la dilution des polluants émis pour atteindre
+    un niveau acceptable
   answer_option_b: 'L''eau non restituée aux milieux après qu''elle a été prélevée
     pour cet usage (ex: l''agriculture)'
   answer_option_c: L'eau prélevée dans les milieux pour cet usage
@@ -31244,15 +31245,18 @@
   answer_explanation: "L'empreinte eau selon la définition Water Footprint Network\
     \ comprend trois types d'eau :\r\n- L'eau bleue est l'eau prélevée pour les usages.\
     \ \r\n- L'eau verte est l'eau de pluie stockée dans le sol ou les plantes. \r\n\
-    - L'eau grise est la quantité d'eau nécessaire pour diluer les polluants émis\
-    \ (qui, dans les faits, n'est pas forcément utilisée). L'empreinte eau est la\
-    \ somme de ces trois sous-empreintes. Cet indicateur a été élaboré en 2002 par\
-    \ le Professeur A. Y. Hoekstra de l’UNESCO-IHE."
+    - L'eau grise est plutôt un indicateur de pollution de l'eau et mesure la quantité\
+    \ d'eau théoriquement nécessaire pour diluer les polluants émis afin de retrouver\
+    \ l'état initial de l'eau avant  utilisation. Cela donne un ordre de grandeur\
+    \ de l'eau requise pour passer sous le seuil d'une concentration de polluants\
+    \ acceptable. Donc moins l'eau est polluée, moins l'indicateur eau grise est élevé.\
+    \ L'empreinte eau est la somme de ces trois sous-empreintes. Cet indicateur a\
+    \ été élaboré en 2002 par le Professeur A. Y. Hoekstra."
   answer_audio: ''
   answer_video: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
   answer_accessible_url: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
   answer_accessible_url_text: https://www.eaudyssee.org/empreinte-eau-explications/
-  answer_scientific_url: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
+  answer_scientific_url: https://waterfootprint.org/en/resources/publications/water-footprint-assessment-manual/
   answer_scientific_url_text: ''
   answer_reading_recommendation: 'Hoekstra, A.Y., Chapagain, A.K., Aldaya, M.M. and
     Mekonnen, M.M. (2011) – “The Water Footprint Assessment Manual: Setting the Global
@@ -31266,7 +31270,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-08'
+  updated: '2022-11-26'
 - id: 796
   text: Quelle est la consommation moyenne d'eau du robinet d'un Français sur une
     journée ?
@@ -39714,8 +39718,8 @@
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1033
-  text: Sous climats tempérés, quels sols contiennent le plus de matière organique
-    par hectare ?
+  text: Sous climat tempéré, quels sols contiennent le plus de matière organique par
+    hectare ?
   hint: ''
   type: QCM
   category: null
@@ -39725,18 +39729,17 @@
   answer_option_a: les sols de forêts
   answer_option_b: les prairies d'élevage
   answer_option_c: les champs de céréales
-  answer_option_d: les vergers/vignes
+  answer_option_d: les vergers et les vignes
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: "Plus exactement, ce sont les prairies permanentes pâturées\
     \ qui ont les plus grosses réserves de matières organiques. La raison en est triple :\r\
-    \n1) le sol n’est pas travaillé, ce qui limite la dégradation de la matière organique.\r\
-    \n2) les sols de prairies reçoivent quasiment toute la production de matières\
-    \ organiques aérienne via les déjections des herbivores.\r\n3) les herbes nourrissent\
-    \ le sol principalement par leurs racines, sous forme d’exsudation racinaire,\
-    \ ce qui permet d’augmenter le taux de matière organique sur toute la profondeur\
-    \ du système racinaire (jusqu’à 2m!) et de former des sols épais riches en matière\
-    \ organique."
+    \n1) le sol n’est pas travaillé. Cela limite la dégradation de la matière organique.\r\
+    \n2) le sol reçoit quasiment toute la production de matières organiques aérienne\
+    \ via les déjections des herbivores.\r\n3) les herbes nourrissent le sol principalement\
+    \ par leurs racines, ce qui permet d’augmenter le taux de matière organique sur\
+    \ toute la profondeur du système racinaire, jusqu’à 2m de profondeur, et de former\
+    \ des sols épais, riches en matière organique."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.territoires-climat.ademe.fr/actualite/etude-de-linra-stocker-du-carbone-dans-les-sols-francais-quel-potentiel-au-regard-de-lobjectif-4-pour-1000-et-a-quel-cout
@@ -39757,7 +39760,7 @@
   validator: null
   validation_date: null
   created: '2022-06-15'
-  updated: '2022-11-25'
+  updated: '2022-11-26'
 - id: 1034
   text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
     that the current climate change is caused by human activities?
@@ -41809,9 +41812,9 @@
   created: '2022-11-17'
   updated: '2022-11-18'
 - id: 1083
-  text: Les sols de la planètes contiennent
+  text: Parlons stockage du carbone. Il y a dans les sols...
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 1
   tags: []
   difficulty: 3
@@ -41823,10 +41826,10 @@
   answer_option_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Il y a environ :\r\n- 760 giga-tonnes de carbone dans l’atmosphère\r\
-    \n- 610 giga-tonnes de carbones dans le vivant\r\n- 2000 giga-tonnes de carbone\
-    \ dans les sols\r\n\r\nLa gestion des sols est donc un levier d’action de fort\
-    \ potentiel comme puits de carbone sur le long terme."
+  answer_explanation: "Il y a environ :\r\n- 760 gigatonnes de carbone dans l’atmosphère\r\
+    \n- 610 gigatonnes de carbones dans le vivant\r\n- 2000 gigatonnes de carbone\
+    \ dans les sols.\r\nLa gestion des sols est donc un levier d’action de fort potentiel\
+    \ comme puits de carbone sur le long terme."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: http://acces.ens-lyon.fr/acces/thematiques/CCCIC/ressources/litho_point6
@@ -41839,14 +41842,15 @@
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-25'
+  updated: '2022-11-26'
 - id: 1084
-  text: Depuis le début de l’ère industrielle, le changement d’affectation des sols,
-    et notamment le passage à l’agriculture, représentent
+  text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation.
+    Notamment, des sols transformés en terres agricoles. En termes d''impact sur le
+    climat, cette transformation représente :'
   hint: ''
   type: QCM
   category: 1
@@ -41861,60 +41865,66 @@
   has_ordered_answers: true
   answer_explanation: Les émissions de CO2 due au changement d’affectation des sols
     représente environ 1/3 des émissions totales de CO2 dues à l’action de l’Homme.
-    Ces émissions comprennent la déforestation mais aussi la réduction du taux de
-    matière organique des sols dégradés. Avant 1900, la majeur partie des émissions
-    de CO2 anthropiques venaient de ce changement d’usage des sols. Cette dégradation
-    des sols a commencé bien avant la période industrielle, et notamment les civilisations
-    sumériennes, grecques et romaines avaient suffisamment dégradés les terres méditerranéennes
-    pour engendrer les paysages peu fertiles d’aujourd’hui. La culture à grande échelle
-    de l’olivier ou de la vigne, des plantes très rustiques, sont des marqueurs de
-    la perte de fertilité de ces sols.
+    Ces émissions comprennent la déforestation - induite par les besoins croissants
+    en champs - mais aussi la réduction du taux de matière organique des sols dégradés.
+    Avant 1900, la majeur partie des émissions de CO2 anthropiques venaient de ce
+    changement d’usage des sols. Cette dégradation des sols a commencé bien avant
+    la période industrielle, et notamment les civilisations sumériennes, grecques
+    et romaines avaient déjà dégradé les terres méditerranéennes au point de les transformer
+    en les paysages peu fertiles d’aujourd’hui. La culture à grande échelle de l’olivier
+    ou de la vigne, des plantes très rustiques, sont des marqueurs de la perte de
+    fertilité de ces sols.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://eduscol.education.fr/document/25465/download
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Concentration de CO2 atmosphérique et émissions anthropiques,
+    Eduscol, classe de terminale
   answer_scientific_url: https://bg.copernicus.org/articles/17/4075/2020/
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Historical CO2 emissions from land use and land cover
+    change and their uncertainty, Biogeosciences 2020
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c1760751.png
   answer_image_explanation: Source GIEC
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-25'
+  updated: '2022-11-26'
 - id: 1085
-  text: Quels sont les principales fonctions de la matière organique pour les sols
-    ?
+  text: La matière organique est la matière fabriquée par les êtres vivants (végétaux,
+    animaux, champignons, micro-organismes du sol). Quels sont les principales fonctions
+    de la matière organique pour les sols ?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 7
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: Elle structure un sol aéré favorable à l’implantation des végétaux
+  answer_option_a: Elle structure le sol et l'aère, favorisant l’implantation des
+    végétaux
   answer_option_b: Elle augmente la réserve d’eau contenue dans le sol
   answer_option_c: Elle nourrit la vie du sol (vers de terres, mycorhizes...)
-  answer_option_d: Ellerégule la fourniture de nutriments aux plantes
+  answer_option_d: Elle régule la fourniture de nutriments aux plantes
   answer_correct: abcd
-  has_ordered_answers: true
-  answer_explanation: La matière organique forment avec les argiles du sol une structure
-    grumeleuse bien aérée favorable à la croissance des plantes. Un sol bien structuré
-    peut stocker jusqu’à 20 % de sont volume en eau, et donc un sol de 1m de profondeur
-    pourra fournir jusqu’à l’équivalent de 200mm de pluie lors d’une longue sécheresse.
-    Cette matière organique sert d’énergie à la vie du sol, et cette dernière va réguler
-    la fourniture d’éléments essentiels à la croissance des plantes, comme l’azote
-    et le phosphore. Plus le sol contient de matière organique, plus il est fertile
-    pour l’agriculture… et plus il stocke de carbone !
+  has_ordered_answers: false
+  answer_explanation: La matière organique forme avec les argiles du sol une structure
+    grumeleuse aérée favorable à la croissance des plantes. Un sol bien structuré
+    peut stocker jusqu’à 20 % de son volume en eau. Un sol de 1m de profondeur pourra
+    fournir jusqu’à l’équivalent de 200mm de pluie lors d’une longue sécheresse. Cette
+    matière organique sert également d’énergie à la vie du sol, et va réguler la fourniture
+    d’éléments essentiels à la croissance des plantes, comme l’azote et le phosphore.
+    Plus le sol contient de matière organique, plus il est fertile pour l’agriculture.
+    Enfin, il stocke du carbone, qui ne contribue ainsi pas au réchauffement climatique.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://agriculture.gouv.fr/recherche-le-gis-sol-observe-comment-les-sols-attenuent-les-effets-du-changement-climatique
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Ministère de l'agriculture - comment les sols atténuent
+    les effets du changement climatique
   answer_scientific_url: https://anr.fr/fileadmin/documents/2015/ANR_Plaquette_SOLS.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Plaquette Sols, ANR, 2015
   answer_reading_recommendation: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
   answer_image_url: ''
   answer_image_explanation: ''
@@ -41925,10 +41935,11 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-25'
+  updated: '2022-11-26'
 - id: 1086
-  text: Quelles sont les raisons du dépassement des limites planétaires des cycles
-    de l’azote et du phosphore ?
+  text: Parmi les limites planétaires évoquées par les scientifiques, on trouve les
+    cycles de l’azote et du phosphore, pour lesquels les seuils sont dépassés. Quelles
+    en sont les raisons ?
   hint: ''
   type: QCM
   category: 3
@@ -41940,15 +41951,16 @@
   answer_option_c: la spécialisation des régions agricoles
   answer_option_d: la mécanisation agricole
   answer_correct: bc
-  has_ordered_answers: true
-  answer_explanation: Le développement des engrais « fossiles » a permis la spécialisation
-    des régions agricoles. De grandes régions comme la Bretagne et le Benelux se sont
+  has_ordered_answers: false
+  answer_explanation: Le développement des engrais industriels a permis la spécialisation
+    des régions agricoles. De grandes régions comme la Bretagne ou le Bénélux se sont
     spécialisées dans l’élevage et l’agroalimentaire pour des raisons industrielles
-    (main d’œuvres, infrastructures de transports mondiaux…). En miroir, l’élevage
-    a disparut des plaines céréalières. Ces dernières exportent donc beaucoup de nutriments
-    vers les régions d’élevage, et compensent la perte de ces nutriments par des engrais
+    (main d’œuvre, infrastructures de transports…). En miroir, l’élevage a disparu
+    des plaines céréalières. Ces dernières exportent donc beaucoup de nutriments vers
+    les régions d’élevage, et compensent la perte de ces nutriments par des engrais
     d’origine fossile. A l’autre bout de la chaîne, les régions d’élevage se retrouvent
-    avec des excédents qui finissent tôt ou tard dans les rivières et dans la mer.
+    avec des excédents de produits azotés ou phosphatés qui finissent tôt ou tard
+    dans les rivières et dans la mer.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Eutrophisation
@@ -41965,86 +41977,129 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-25'
+  updated: '2022-11-26'
 - id: 1087
-  text: 'L''apparition des bovidés (vaches, bisons, antilopes...) au cours de l’évolution
-    est corrélée à :'
+  text: Les bovidés regroupent des animaux comme les vaches, les bisons ou les antilopes
+    A quelle évolution climatique leur apparition est-elle corrélée ?
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 4
   language: Français
-  answer_option_a: un réchauffement climatique de 5°C
-  answer_option_b: un réchauffement climatique de 1°C
-  answer_option_c: un refroidissement climatique de 1°C
-  answer_option_d: un reffroidissement climatique de 5°C
+  answer_option_a: un réchauffement de 5°C
+  answer_option_b: un réchauffement de 1°C
+  answer_option_c: un refroidissement de 1°C
+  answer_option_d: un reffroidissement de 5°C
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Les bovidés, qui sont des grands ruminants, sont apparus il
-    y a environ 17-18millions d’années, au début du Miocène. L’extension des ruminants
-    corrèle avec le refroidissement climatique de 5°C qui a eus lieux entre le milieu
-    du Miocène et la fin du Pliocène, avant que les cycles de glaciations ne se mettent
-    en place. Ceci est sans doute lié au développement des sols de prairies et steppes
-    qui sont profonds et riches en carbone, et constituent les sols les plus fertiles.
-    Les grands herbivores maintiennent en équilibre en évitant l’évolution vers la
-    forêt. Mais si la logique est là, il manque encore le lien de causalité, sujet
-    scientifique à suivre donc !
+    y a environ 17-18millions d’années, au début du miocène. Leur extension est corrélée
+    avec un refroidissement  de la température moyenne de 5°C, qui a eu lieu entre
+    le milieu du Miocène et la fin du Pliocène, avant que ne surviennent des cycles
+    de glaciation - déglaciation. Une cause avancée est le développement de sols de
+    prairies et steppes, profonds et riches en carbone et donc fertiles. Les grands
+    herbivores les maintiennent en équilibre en évitant une évolution vers la forêt.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://www.researchgate.net/profile/Gregory-Retallack/publication/234145893_Global_Cooling_by_Grassland_Soils_of_the_Geological_Past_and_Near_Future/links/53d012040cf2f7e53cfae778/Global-Cooling-by-Grassland-Soils-of-the-Geological-Past-and-Near-Future.pdf?origin=publication_detail
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Global Cooling by Grassland Soils of the Geological
+    Past and Near Future, in Annual Review of Earth and Planetary Sciences · May 2012
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/47d2b629.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-25'
+  updated: '2022-11-26'
 - id: 1088
-  text: Quelle est le principal coût énergétique de la production et de la vente d’un
-    kilogramme de pomme produit et acheté à la campagne?
+  text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
+    plus émetteur en gas à effet de serre ?
   hint: ''
   type: QCM
   category: 2
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: le déplacement foyer - magasin pour faire ses achats
+  answer_option_a: le trajet vers le magasin
   answer_option_b: les engrais de synthèse
   answer_option_c: les gros tracteurs
-  answer_option_d: les transports à longue distance
+  answer_option_d: l'acheminement des pommes vers le magasin
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: La production et approvisionnement d’un kilogramme de pomme
-    du Limousin en Limousin a un bilan gaz à effet de serre d’environ 200geCO2. Le
-    facteur principale d’émission est le « dernier kilomètre », qui est plus long
-    dans les zones rurales comme dans le Limousin. En Ile de France, ce dernier kilomètre
-    est plus court avec un tissue dense de magasins, et même si le bilan du transport
-    logistique est plus élevé, le bilan total est étonnamment plus faible que dans
-    la région de production.
+  answer_explanation: "La production et l'approvisionnement d’un kilogramme de pomme\
+    \ du Limousin en Limousin a un bilan gaz à effet de serre d’environ 200g CO2e.\
+    \ Le facteur principal d’émission est le « dernier kilomètre ». Il est plus long\
+    \ dans les zones rurales comme dans le Limousin qu'en Ile de France par exemple,\
+    \ où on trouve un tissu dense de magasins. Même si le bilan du transport logistique\
+    \ est plus élevé, le bilan total est paradoxalement plus faible que dans la région\
+    \ de production. \r\nSi ce kg de pommes pomme provient de Nouvelle Zélande, le\
+    \ transport maritime augmente énormément le bilan."
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://www.researchgate.net/profile/Jacques-Leonardi/publication/233495989_Emissions_de_gaz_a_effet_de_serre_des_chaines_logistiques/links/55f145af08aedecb68ffe322/Emissions-de-gaz-a-effet-de-serre-des-chaines-logistiques.pdf?origin=publication_detail
-  answer_scientific_url_text: ''
-  answer_reading_recommendation: Émissions des chaînes logistiques d’un kilogramme
-    de pomme vendus en supermarché
+  answer_scientific_url_text: 'Santé et Systémique · november 2010 : Émissions des
+    chaînes logistiques d’un kilogramme de pomme vendus en supermarché'
+  answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e71e4311.png
   answer_image_explanation: ''
-  answer_extra_info: 'Note : si cette pomme viens de Nouvelle Zélande, le transport
-    maritime augmente énormément le bilan'
+  answer_extra_info: ''
   author: 59
+  visibility: PUBLIC
+  validation_status: A valider
+  validator: null
+  validation_date: null
+  created: '2022-11-25'
+  updated: '2022-11-26'
+- id: 1089
+  text: Combien de micro-particules de plastiques une baleine ingère-t-elle en une
+    journée ?
+  hint: ''
+  type: QCM
+  category: 3
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 100,000
+  answer_option_b: 1 million
+  answer_option_c: 10 millions
+  answer_option_d: 100,000 millions
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Selon une étude de 2022, les baleines qui se nourrissent par\
+    \ filtration consomment chaque jour des millions de particules de pollution microplastique,\
+    \ ce qui fait d'eux les plus grands consommateurs de déchets plastiques de la\
+    \ planète. Le poids du plastique consommé au cours d'une saison est estimé entre\
+    \ 230 kg et 4 tonnes par individu.\r\nElle a révélé que la quasi-totalité des\
+    \ microplastiques consommés se trouvent dans le krill et le poisson que les baleines\
+    \ mangent, plutôt que dans l'eau. Il va sans dire que les microplastiques et les\
+    \ produits chimiques toxiques qu'ils transportent pourraient nuire aux baleines.\
+    \ Cette pollution s'ajoute à d'autres impacts d'origine humaine, tels que le bruit\
+    \ et les collisions avec les navires."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.theguardian.com/environment/2022/nov/01/whales-ingest-millions-of-microplastic-particles-a-day-study-finds
+  answer_accessible_url_text: 'Article du Guardian : Whales ingest millions of microplastic
+    particles a day, study finds'
+  answer_scientific_url: https://www.nature.com/articles/s41467-022-33334-5
+  answer_scientific_url_text: Field measurements reveal exposure risk to microplastic
+    ingestion by filter-feeding megafauna
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1737dbf2.png
+  answer_image_explanation: Baleine à bosse
+  answer_extra_info: ''
+  author: 2
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
-  created: '2022-11-25'
-  updated: '2022-11-25'
+  created: '2022-11-26'
+  updated: '2022-11-26'
