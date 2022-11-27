@@ -42103,3 +42103,49 @@
   validation_date: null
   created: '2022-11-26'
   updated: '2022-11-26'
+- id: 1090
+  text: Qu'appelle-t-on le plastiglomérat ?
+  hint: ''
+  type: QCM
+  category: 3
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: une roche composée de plastique fondu, de débris marins et de lave
+    volcanique
+  answer_option_b: Une conglomérat de producteurs de plasturgie
+  answer_option_c: Un produit de décoration d'issu de plastiques de couleurs variées
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: "Il s'agit en effet d'un nouveau type de roche qui a été découvert\
+    \ sur des plages à Hawaï. Il est possible que le lieu de découverte résulte d'un\
+    \ point de circulation des détritus dans les océans. On a également découvert\
+    \ du plasticrust, ou 'rouille de plastique', un nouveau type de pollution plastique\
+    \ sous forme de débris plastiques d'épaisseur et de couleurs variées, qui se nichent\
+    \ dans les interstices de roches de rivages exposés aux marées. \r\nLe plastiglomérat\
+    \ est ainsi un composé hybride de polymères synthétiques et de composés organiques.\
+    \ Le plastique n'a que cent ans d'existence, mais ces roches hawaïennes montrent\
+    \ comment il peut s'amalgamer avec d'autres matériaux sous l'effet des forces\
+    \ géologiques, quasiment en temps réel par rapport aux échelles de temps géologiques.\
+    \ Les plastiglomérats feront partie des reliques que nos civilisations industrielles\
+    \ lègueront à la postérité."
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://le1hebdo.fr/journal/alerte-le-plastique-serial-killer-des-oceans/13/article/le-plastiglomrat-une-nouvelle-roche-261.html
+  answer_accessible_url_text: 'Le "plastiglomérat" : un nouvelle roche, le un hebdo,
+    Juin 2014'
+  answer_scientific_url: https://doi.org/10.1130/GSAT-G198A.1
+  answer_scientific_url_text: An anthropogenic marker horizon in the future rock record,
+    the Geological Society of America, 2014
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2d14864f.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-11-26'
+  updated: '2022-11-26'
