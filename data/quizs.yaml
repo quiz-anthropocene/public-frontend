@@ -2325,3 +2325,32 @@
   spotlight: false
   created: '2022-11-25'
   updated: '2022-11-26'
+- id: 91
+  name: Un bestiaire de l'Anthropocène
+  slug: un-bestiaire-de-lanthropocene
+  introduction: <p>Plastiglomérats, chiens robots de surveillance, fordite, gazon
+    artificiel, arbres à antennes, Sars-Covid-2, montagnes décapitées, aigles anti-drones,
+    bananes standardisées...L'ouvrage 'A Bestiary of the Anthropocène' nous invite
+    à observer, naviguer et à nous orienter dans le tissu de plus en plus artificiel
+    du monde. Partons ensemble à la découverte de ce bestaire d'êtres et objets à
+    la fois insolites et inquiétants, emblématiques de cette <em>ère de l'humain</em>.</p>
+  conclusion: ''
+  questions:
+  - 1090
+  question_count: 1
+  tags: []
+  difficulty_average: 2.0
+  language: Français
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/4580f767.jpg
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2022-11-27'
+  updated: '2022-11-27'
