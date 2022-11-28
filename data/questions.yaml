@@ -3897,7 +3897,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-11-08'
+  updated: '2022-11-28'
 - id: 98
   text: 'Les microplastiques sont des fines particules rejetées par l''usure des pneus,
     le lavage de vêtements synthétiques, les peintures, ...
@@ -11339,7 +11339,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-11-08'
+  updated: '2022-11-28'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -30572,7 +30572,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-08'
+  updated: '2022-11-28'
 - id: 780
   text: Quelle est la part des bio-carburants (SAF – Sustainable Aviation Fuel) dans
     le TA ?
@@ -42112,23 +42112,22 @@
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: une roche comportant des fragments de plastique
+  answer_option_a: Une roche comportant des fragments de plastique
   answer_option_b: Un conglomérat de producteurs de plastique
   answer_option_c: Un matériau de construction à base de plastique recyclé
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: false
   answer_explanation: Il s'agit en effet d'un nouveau type de roche qui a été découvert
-    sur des plages à Hawaï. Issu de feux de camp, on trouve dans leur composition
-    du plastique fondu, des débris marins et du basalt. Le plastiglomérat est ainsi
-    un composé hybride de polymères synthétiques et de composés organiques. Ailleurs
-    sur terre, on a également repéré du 'plasticrust', un nouveau type de pollution
-    plastique sous forme de débris plastiques qui se nichent dans les interstices
-    des roches exposées aux marées. Le plastique n'a que cent ans d'existence, mais
-    ces roches illustrent comment il peut s'amalgamer avec d'autres matériaux sous
-    l'effet des forces géologiques, quasiment en temps réel par rapport aux échelles
-    géologiques. Ce sont des reliques que nos civilisations industrielles lèguent
-    à la postérité.
+    sur des plages à Hawaï. On trouve dans sa composition du plastique fondu, des
+    débris marins et du basalt. Il est issu de la combustion de plastique lors de
+    feux de camp. Ailleurs sur terre, on a également repéré du 'plasticrust', un nouveau
+    type de pollution plastique sous forme de débris plastiques qui se nichent dans
+    les anfractuosités des roches exposées aux marées. Le plastique n'a que cent ans
+    d'existence, mais ces roches illustrent comment il peut s'amalgamer avec d'autres
+    éléments naturels, quasiment en temps réel par rapport aux échelles géologiques.
+    On peut les voir comme des reliques que nos civilisations industrielles lèguent
+    aux archéologues du futur.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://le1hebdo.fr/journal/alerte-le-plastique-serial-killer-des-oceans/13/article/le-plastiglomrat-une-nouvelle-roche-261.html
@@ -42147,4 +42146,4 @@
   validator: null
   validation_date: null
   created: '2022-11-26'
-  updated: '2022-11-27'
+  updated: '2022-11-28'
