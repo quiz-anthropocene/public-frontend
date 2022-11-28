@@ -2293,9 +2293,9 @@
   - 2
   visibility: PUBLIC
   validation_status: Validée
-  validator: null
+  validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
   spotlight: false
   created: '2022-11-08'
