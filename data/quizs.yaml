@@ -2251,18 +2251,18 @@
   created: '2022-11-05'
   updated: '2022-11-16'
 - id: 89
-  name: Festival Nature et Environnement Isère 2022
+  name: Festival Nature et Environnement Isère
   slug: festival-nature-et-environnement-isere-2022
-  introduction: "<p>Ce quiz reprend des questions de deux autres quiz publiés sur\
-    \ le site : 'les ressources en eau' et 'le cycle de l'eau dans tous ses états'.<br\
-    \ />\r\nIl a été concocté spécifiquement et temporairement à l'occasion du <a\
-    \ href=\"https://www.festivalfilmfneisere.org/\">Festival du Cinéma Nature et\
-    \ Environnement</a>, oganisé par l'association <a href=\"https://www.festivalfilmfneisere.org/\"\
-    >France Nature et Environnement Isère</a>, du 25 novembre au 4 décembre 2022 à\
-    \ Grenoble. Plus particulièrement, pour la journée du 29 novembre consacrée à\
-    \ la montée des eaux, pour accompagner le débat après la projection du film <a\
-    \ href=\"https://www.festivalfilmfneisere.org/montee-eaux-fcne2022\">AYA</a>,\
-    \ réalisé par Simon Coulibaly Gillard.</p>"
+  introduction: '<p>Ce quiz reprend des questions de deux autres quiz publiés sur
+    le site : ''les ressources en eau'' et ''le cycle de l''eau dans tous ses états''.
+    Il a été concocté spécifiquement pour le <a href="https://www.festivalfilmfneisere.org/">Festival
+    du Cinéma Nature et Environnement</a>, oganisé par l''association <a href="https://www.fne-aura.org/isere/">France
+    Nature et Environnement Isère</a>, du 25 novembre au 3 décembre 2022 à Grenoble.
+    Plus particulièrement, pour la journée du 29 novembre avec la projection du film
+    <a href="https://www.festivalfilmfneisere.org/montee-eaux-fcne2022">AYA</a>, réalisé
+    par Simon Coulibaly Gillard, sur la question de la montée des eaux. Le présent
+    quiz servira de support à un échange avec le public. A vous de vous jeter à l''eau
+    pour tester vos connaissances.</p>'
   conclusion: ''
   questions:
   - 79

@@ -31243,20 +31243,20 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: "L'empreinte eau selon la définition Water Footprint Network\
-    \ comprend trois types d'eau :\r\n- L'eau bleue est l'eau prélevée pour les usages.\
-    \ \r\n- L'eau verte est l'eau de pluie stockée dans le sol ou les plantes. \r\n\
-    - L'eau grise est plutôt un indicateur de pollution de l'eau et mesure la quantité\
-    \ d'eau théoriquement nécessaire pour diluer les polluants émis afin de retrouver\
-    \ l'état initial de l'eau avant  utilisation. Cela donne un ordre de grandeur\
-    \ de l'eau requise pour passer sous le seuil d'une concentration de polluants\
-    \ acceptable. Donc moins l'eau est polluée, moins l'indicateur eau grise est élevé.\
-    \ L'empreinte eau est la somme de ces trois sous-empreintes. Cet indicateur a\
-    \ été élaboré en 2002 par le Professeur A. Y. Hoekstra."
+  answer_explanation: "selon la définition Water Footprint Network, l'empreinte eau\
+    \ k comprend trois types d'eau :\r\n- L'eau bleue. C'est l'eau prélevée pour les\
+    \ usages. \r\n- L'eau verte. C'est l'eau de pluie stockée dans le sol ou les plantes.\
+    \ \r\n- L'eau grise. Cela mesure la quantité d'eau théoriquement nécessaire pour\
+    \ diluer les polluants émis afin de retrouver l'état initial de l'eau avant  utilisation.\
+    \ Cela donne un ordre de grandeur de l'eau requise pour passer sous le seuil d'une\
+    \ concentration de polluants acceptable. Donc moins l'eau est polluée, moins l'indicateur\
+    \ eau grise est élevé. L'empreinte eau est la somme de ces trois types d'empreintes.\
+    \ Cet indicateur a été élaboré en 2002 par le Professeur A. Y. Hoekstra."
   answer_audio: ''
-  answer_video: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
-  answer_accessible_url: https://waterfootprint.org/en/water-footprint/what-is-water-footprint/
-  answer_accessible_url_text: https://www.eaudyssee.org/empreinte-eau-explications/
+  answer_video: ''
+  answer_accessible_url: https://www.eaudyssee.org/empreinte-eau-explications/
+  answer_accessible_url_text: Explications de l'association Eau'Dissey sur l'empreinte
+    eau
   answer_scientific_url: https://waterfootprint.org/en/resources/publications/water-footprint-assessment-manual/
   answer_scientific_url_text: ''
   answer_reading_recommendation: 'Hoekstra, A.Y., Chapagain, A.K., Aldaya, M.M. and
@@ -31271,7 +31271,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-26'
+  updated: '2022-11-28'
 - id: 796
   text: Quelle est la consommation moyenne d'eau du robinet d'un Français sur une
     journée ?
