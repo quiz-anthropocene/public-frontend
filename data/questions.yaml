@@ -34403,8 +34403,8 @@
   created: '2021-03-23'
   updated: '2022-04-16'
 - id: 875
-  text: Aux voitures de quelle époque peut-on comparer l'autonomie des voitures électriques
-    (VE) actuelles (Nissan Leaf ou Mitsubishi i-MiEV)... ?
+  text: Prenons une voiture électrique actuelle, comme une Nissan Leaf. A-t-on déjà
+    atteint une telle autonomie par le passé ?
   hint: ''
   type: QCM
   category: 2
@@ -34412,18 +34412,16 @@
   - 60
   difficulty: 3
   language: Français
-  answer_option_a: avant 1900
-  answer_option_b: 1900-1920
-  answer_option_c: 1950-1960
-  answer_option_d: Elles ont une autonomie bien supérieure aux voitures du début/milieu
-    XXe siècle
+  answer_option_a: Oui, dès avant 1900
+  answer_option_b: Oui, vers 1900-1920
+  answer_option_c: Oui, vers1950-1960
+  answer_option_d: Non, les voitures électriques actuelles ont une autonomie bien
+    supérieure
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: De nos jours les VE sont en revanche plus lourdes (la Fritchle
-    de 1908 pesait 950kg), et 10 fois plus puissantes (>100 CV, contre 10 CV pour
-    la Fritchle 1908). Comme la consommation d'énergie augmente avec le carré de la
-    vitesse, le bridage à 40km/h permettait une autonomie confortable, de 144km pour
-    la Fritchle 1908, avec une batterie pourtant très sommaire !
+  answer_explanation: La Fritchle de 1908 ne pesait que 950kg, et était 10 fois moins
+    puissante que la Leaf. Avec un bridage de la vitesse à 40km/h, elle affichait
+    une autonomie de 144km, avec une batterie pourtant très sommaire !
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://solar.lowtechmagazine.com/fr/2010/05/the-status-quo-of-electric-cars-better-batteries-same-range.html
@@ -34441,7 +34439,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2022-04-16'
+  updated: '2022-12-03'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
