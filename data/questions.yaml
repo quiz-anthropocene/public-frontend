@@ -15101,20 +15101,17 @@
   answer_scientific_url: https://www.apple.com/euro/environment/pdf/a/generic/products/iphone/iPhone_11_PER_sept2019.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000392-42ee.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5b7db2f1.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'Réponses modifiées pour permettre de mémoriser l’ordre de grandeur
-    de l’empreinte carbone d’un smartphone: ~100 kg CO2eq
-
-
-    https://twitter.com/laydgeur/status/1234583035296845825'
+  answer_extra_info: "Réponses modifiées pour permettre de mémoriser l’ordre de grandeur\
+    \ de l’empreinte carbone d’un smartphone: ~100 kg CO2eq\r\n\r\nhttps://twitter.com/laydgeur/status/1234583035296845825"
   author: 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2022-12-04'
 - id: 393
   text: En France, quel secteur dépasse 30% du total des émissions de gaz à effet
     de serre ?
@@ -17646,8 +17643,8 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 460
-  text: Laquelle de ces catastrophes ne peut pas devenir plus probable avec le réchauffement
-    climatique ?
+  text: Lequel des phénomènes suivants n'est pas impacté par le dérèglement climatique
+    ?
   hint: ''
   type: QCM
   category: 1
@@ -17682,7 +17679,7 @@
   validator: 40
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2022-12-04'
 - id: 461
   text: Si le réchauffement climatique est de 2°C au lieu de 1,5°C à l'horizon 2050,  quelles
     seront les conséquences sur Terre ?
@@ -42141,3 +42138,46 @@
   validation_date: null
   created: '2022-11-26'
   updated: '2022-11-28'
+- id: 1091
+  text: Halobates Sericeus, ou patineur d'eau, est un cousin de nos araignées d'eau,
+    qui vit à la surface des océans. Sa population s'est largement développée au niveau
+    de la 'grande plaque d'ordure du pacifique'. Pour quelle raison ?
+  hint: ''
+  type: QCM
+  category: 3
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Les microplastiques flottants offrent un nouveau support pour la
+    ponte de leurs oeufs
+  answer_option_b: Les patineurs se nourissent des micro-plastiques
+  answer_option_c: Les micro-plastiques empoisonnent ses prédateurs
+  answer_option_d: Les microplastiques lui fournissent des abris contre ses prédateurs
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Cette plaque d'ordures est grande comme 5 fois la France (chiffres
+    de 2012), 30 mètres de profondeur maxi 3,5 millions de tonnes de plastiques. Les
+    patineurs pondent normalement leurs oeufs sur des débris coquillages ou des plumes
+    d'oiseaux. Ces débris plastiques offrent ainsi un nouvel habitat pour leurs oeufs.
+    L'explosion démographique des patineurs d'eau pourrait donc profondément perturber
+    l'ensemble de l'écosystème marin concerné en fragilisant sa base.
+  answer_audio: ''
+  answer_video: ''
+  answer_accessible_url: https://www.futura-sciences.com/planete/actualites/oceanographie-pacifique-continent-dechets-plastiques-insecte-38623/
+  answer_accessible_url_text: 'Futura : Dans le Pacifique, un continent de déchets
+    plastiques… et un insecte'
+  answer_scientific_url: https://royalsocietypublishing.org/doi/10.1098/rsbl.2012.0298
+  answer_scientific_url_text: Marine biology Increased oceanic microplastic debris
+    enhances oviposition in an endemic pelagic insect, Miriam C. Goldstein , Marci
+    Rosenberg and Lanna Cheng. Published 09 May 2012
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2cf807f2.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-04'
+  updated: '2022-12-04'
