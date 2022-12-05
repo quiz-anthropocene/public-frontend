@@ -42149,18 +42149,19 @@
   difficulty: 3
   language: Français
   answer_option_a: Les microplastiques flottants offrent un nouveau support pour la
-    ponte de leurs oeufs
-  answer_option_b: Les patineurs se nourissent des micro-plastiques
+    ponte de ses oeufs
+  answer_option_b: Le patineur se nourissent des micro-plastiques
   answer_option_c: Les micro-plastiques empoisonnent ses prédateurs
   answer_option_d: Les microplastiques lui fournissent des abris contre ses prédateurs
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Cette plaque d'ordures est grande comme 5 fois la France (chiffres
-    de 2012), 30 mètres de profondeur maxi 3,5 millions de tonnes de plastiques. Les
-    patineurs pondent normalement leurs oeufs sur des débris coquillages ou des plumes
-    d'oiseaux. Ces débris plastiques offrent ainsi un nouvel habitat pour leurs oeufs.
-    L'explosion démographique des patineurs d'eau pourrait donc profondément perturber
-    l'ensemble de l'écosystème marin concerné en fragilisant sa base.
+  answer_explanation: Le 'vortex de plastique' est un immense espace marin dans le
+    pacifique. Sa surface était estimée en 2012 à 5 fois la France en superficie,
+    30 mètres de profondeur maxi, pour 3,5 millions de tonnes de plastiques. Les patineurs
+    pondent normalement leurs œufs sur des débris coquillages ou des plumes d'oiseaux
+    ; ces débris plastiques offrent un nouvel habitat pour la ponte. L'explosion démographique
+    des patineurs d'eau pourrait donc profondément perturber l'ensemble de l'écosystème
+    marin concerné en fragilisant sa base.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/actualites/oceanographie-pacifique-continent-dechets-plastiques-insecte-38623/
@@ -42180,4 +42181,4 @@
   validator: null
   validation_date: null
   created: '2022-12-04'
-  updated: '2022-12-04'
+  updated: '2022-12-05'
