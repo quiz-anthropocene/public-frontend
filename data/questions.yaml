@@ -42064,18 +42064,19 @@
   answer_option_b: 100kg
   answer_option_c: 1 tonne
   answer_option_d: 10 tonnes
-  answer_correct: b
+  answer_correct: c
   has_ordered_answers: true
   answer_explanation: Selon une étude de 2022, les baleines qui se nourrissent par
     filtration consomment chaque jour des millions de particules de pollution microplastique,
     ce qui fait d'eux les plus grands consommateurs de déchets plastiques de la planète.
-    Le poids du plastique consommé au cours d'une saison de 3 à 4 mois est estimé
-    entre 230 kg et 4 tonnes par individu (les baleines jeûnent le reste de l'année).
-    La quasi-totalité des microplastiques ingérés se trouvent dans le krill et le
-    poisson que les baleines mangent plutôt que dans l'eau. Il va sans dire que les
-    microplastiques et les produits chimiques toxiques qu'ils transportent pourraient
-    nuire aux baleines. Cette pollution s'ajoute à d'autres impacts d'origine humaine,
-    tels que le bruit et les collisions avec les navires.
+    Le poids du plastique consommé au cours d'une saison est estimé entre 230 kg et
+    4 tonnes par individu. La saison d'alimentation des baleines dure 3 à 4 mois,
+    elles jeûnent le reste de l'année. La quasi-totalité des microplastiques ingérés
+    se trouvent dans le krill (plancton des mers froides) et le poisson que les baleines
+    mangent, plutôt que dans l'eau. Il va sans dire que les microplastiques et les
+    produits chimiques toxiques qu'ils transportent pourraient nuire aux baleines.
+    Cette pollution s'ajoute à d'autres impacts d'origine humaine, tels que le bruit
+    et les collisions avec les navires.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.theguardian.com/environment/2022/nov/01/whales-ingest-millions-of-microplastic-particles-a-day-study-finds
@@ -42094,7 +42095,7 @@
   validator: null
   validation_date: null
   created: '2022-11-26'
-  updated: '2022-11-27'
+  updated: '2022-12-07'
 - id: 1090
   text: Qu'appelle-t-on le plastiglomérat ?
   hint: ''
@@ -42104,9 +42105,9 @@
   difficulty: 2
   language: Français
   answer_option_a: Une roche comportant des fragments de plastique
-  answer_option_b: Un conglomérat de producteurs de plastique
+  answer_option_b: L'ensemble des acteurs industriels du plastique
   answer_option_c: Un matériau de construction à base de plastique recyclé
-  answer_option_d: ''
+  answer_option_d: Le continent de débris plastiques flottant sur l'océan Pacifique
   answer_correct: a
   has_ordered_answers: false
   answer_explanation: Il s'agit en effet d'un nouveau type de roche qui a été découvert
@@ -42137,7 +42138,7 @@
   validator: null
   validation_date: null
   created: '2022-11-26'
-  updated: '2022-11-28'
+  updated: '2022-12-07'
 - id: 1091
   text: Halobates Sericeus, ou patineur d'eau, est un cousin de nos araignées d'eau,
     qui vit à la surface des océans. Sa population s'est largement développée au niveau
@@ -42148,20 +42149,21 @@
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: Les microplastiques flottants offrent un nouveau support pour la
-    ponte de ses oeufs
-  answer_option_b: Le patineur se nourissent des micro-plastiques
+  answer_option_a: Les microplastiques flottants lui offrent un nouveau support pour
+    la ponte de ses oeufs
+  answer_option_b: Le patineur se nourrit des micro-plastiques
   answer_option_c: Les micro-plastiques empoisonnent ses prédateurs
   answer_option_d: Les microplastiques lui fournissent des abris contre ses prédateurs
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Le 'vortex de plastique' est un immense espace marin dans le
-    pacifique. Sa surface était estimée en 2012 à 5 fois la France en superficie,
-    30 mètres de profondeur maxi, pour 3,5 millions de tonnes de plastiques. Les patineurs
-    pondent normalement leurs œufs sur des débris coquillages ou des plumes d'oiseaux
-    ; ces débris plastiques offrent un nouvel habitat pour la ponte. L'explosion démographique
-    des patineurs d'eau pourrait donc profondément perturber l'ensemble de l'écosystème
-    marin concerné en fragilisant sa base.
+  answer_explanation: Le patineur d'eau se développe en effet à la surface du 'vortex
+    de plastique', qui est un immense espace marin dans le Pacifique. Sa surface était
+    estimée en 2012 à 5 fois la France, 30 mètres de profondeur maxi, pour 3,5 millions
+    de tonnes de plastiques. Les patineurs pondent normalement leurs œufs sur des
+    débris de coquillages ou des plumes d'oiseaux. Ces débris plastiques offrent un
+    nouvel habitat pour la ponte. L'explosion démographique des patineurs d'eau pourrait
+    donc profondément perturber l'ensemble de l'écosystème marin concerné en fragilisant
+    sa base.
   answer_audio: ''
   answer_video: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/actualites/oceanographie-pacifique-continent-dechets-plastiques-insecte-38623/
@@ -42171,7 +42173,7 @@
   answer_scientific_url_text: Marine biology Increased oceanic microplastic debris
     enhances oviposition in an endemic pelagic insect, Miriam C. Goldstein , Marci
     Rosenberg and Lanna Cheng. Published 09 May 2012
-  answer_reading_recommendation: ''
+  answer_reading_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2cf807f2.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
@@ -42181,4 +42183,4 @@
   validator: null
   validation_date: null
   created: '2022-12-04'
-  updated: '2022-12-05'
+  updated: '2022-12-07'
