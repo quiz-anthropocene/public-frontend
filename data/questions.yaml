@@ -42091,9 +42091,9 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2022-12-07'
   created: '2022-11-26'
   updated: '2022-12-07'
 - id: 1090
@@ -42134,9 +42134,9 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2022-12-07'
   created: '2022-11-26'
   updated: '2022-12-07'
 - id: 1091
@@ -42179,8 +42179,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2022-12-07'
   created: '2022-12-04'
   updated: '2022-12-07'
