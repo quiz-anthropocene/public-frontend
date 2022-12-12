@@ -42141,8 +42141,8 @@
   updated: '2022-12-07'
 - id: 1091
   text: Halobates Sericeus, ou patineur d'eau, est un cousin de nos araignées d'eau,
-    qui vit à la surface des océans. Sa population s'est largement développée au niveau
-    de la 'grande plaque d'ordure du pacifique'. Pour quelle raison ?
+    qui vit à la surface des océans. Avec l'accumulation de microplastiques à la surface,
+    sa population s'est largement développée. Pour quelle raison ?
   hint: ''
   type: QCM
   category: 3
@@ -42157,12 +42157,12 @@
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: Le patineur d'eau se développe en effet à la surface du 'vortex
-    de plastique', qui est un immense espace marin dans le Pacifique. Sa surface était
-    estimée en 2012 à 5 fois la France, 30 mètres de profondeur maxi, pour 3,5 millions
-    de tonnes de plastiques. Les patineurs pondent normalement leurs œufs sur des
-    débris de coquillages ou des plumes d'oiseaux. Ces débris plastiques offrent un
-    nouvel habitat pour la ponte. L'explosion démographique des patineurs d'eau pourrait
-    donc profondément perturber l'ensemble de l'écosystème marin concerné en fragilisant
+    de plastique'. Il s'agit d'un immense espace marin dans le Pacifique, d'une surface
+    estimée en 2012 à 5 fois la France, de 30 mètres de profondeur maxi, et qui contient
+    plusieurs millions de tonnes de plastique. Le patineur pond normalement ses œufs
+    sur des débris de coquillages ou des plumes d'oiseaux. Les microplastique plastiques
+    lui offre un nouvel habitat pour la ponte. Son explosion démographique pourrait
+    profondément perturber l'ensemble de l'écosystème marin concerné en fragilisant
     sa base.
   answer_audio_url: ''
   answer_video_url: ''
@@ -42183,4 +42183,4 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-12-04'
-  updated: '2022-12-07'
+  updated: '2022-12-09'
