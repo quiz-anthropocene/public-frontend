@@ -360,3 +360,10 @@
   description_accessible_url: ''
   created: '2022-11-16'
   updated: '2022-11-16'
+- name: gigatonnes
+  name_alternatives: ''
+  definition_short: milliards de tonnes
+  description: ''
+  description_accessible_url: ''
+  created: '2022-12-09'
+  updated: '2022-12-09'
