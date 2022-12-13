@@ -167,7 +167,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 5
   text: Les hydrates de méthane sont une forme de glace au fond des océans. Ils peuvent
     devenir instables et libérer du méthane...
@@ -285,7 +285,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
@@ -1670,7 +1670,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 42
   text: Combien d'années faut-il à un excès de CO2 émis pour commencer à être évacué
     de l'atmosphère ?
@@ -1792,7 +1792,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 45
   text: Quelle quantité de métaux lourds, solvants, boues toxiques et autres déchets
     industriels est déversée dans les eaux du monde chaque jour ?
@@ -2371,7 +2371,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 60
   text: Parmi les familles suivantes, quelle est celle dont la proportion d'espèces
     menacées est la plus forte ?
@@ -2407,7 +2407,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 61
   text: On connaît la dernière grande extinction d'espèces, celle des dinosaures il
     y a 66 millions d'année. Les scientifiques disent qu'une 6ème extinction est en
@@ -2446,7 +2446,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -2678,7 +2678,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 68
   text: Les découvertes de pétrole, ce sont des ressources de pétrole nouvellement
     découvertes et économiquement viables. A-t-on atteint le pic des découvertes de
@@ -42095,7 +42095,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-11-26'
-  updated: '2022-12-07'
+  updated: '2022-12-12'
 - id: 1090
   text: Qu'appelle-t-on le plastiglomérat ?
   hint: ''

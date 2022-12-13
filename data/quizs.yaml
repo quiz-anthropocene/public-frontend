@@ -603,8 +603,8 @@
 - id: 17
   name: Une biodiversité qui s'anéantit
   slug: une-biodiversite-qui-saneantit
-  introduction: <p>Quel impact l'homme a-t-il sur les autres espèces ? Un premier
-    aperçu via ces quelques questions.</p>
+  introduction: <p>Quel impact les activités humaines ont-elles sur les autres espèces
+    ? Un premier aperçu via ces quelques questions.</p>
   conclusion: ''
   questions:
   - 4
@@ -615,12 +615,13 @@
   - 60
   - 61
   - 67
-  question_count: 8
+  - 1089
+  question_count: 9
   tags:
   - 6
   - 49
   - 76
-  difficulty_average: 2.5
+  difficulty_average: 2.6
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000017-b87e.jpg
   has_audio: false
@@ -634,7 +635,7 @@
   publish_date: '2020-08-14'
   spotlight: false
   created: '2020-08-04'
-  updated: '2022-04-16'
+  updated: '2022-12-12'
 - id: 18
   name: Le quiz de Laurent Testot
   slug: le-quiz-de-laurent-testot
