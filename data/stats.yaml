@@ -12,10 +12,10 @@ quiz_per_language_count:
   total: 52
 - language: English
   total: 4
-question_answer_count: 370616
-quiz_answer_count: 29916
-question_answer_count_last_30_days: 18709
-quiz_answer_count_last_30_days: 1486
+question_answer_count: 370820
+quiz_answer_count: 29930
+question_answer_count_last_30_days: 18913
+quiz_answer_count_last_30_days: 1500
 category_count: 8
 tag_count: 242
 question_feedback_count: 5321
