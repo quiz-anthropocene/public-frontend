@@ -41838,7 +41838,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2022-12-22'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation.
     Notamment, des sols transformés en terres agricoles. En termes d''impact sur le
@@ -41886,9 +41886,10 @@
   created: '2022-11-25'
   updated: '2022-11-26'
 - id: 1085
-  text: La matière organique est la matière fabriquée par les êtres vivants (végétaux,
-    animaux, champignons, micro-organismes du sol). Quels sont les principales fonctions
-    de la matière organique pour les sols ?
+  text: La matière organique est la matière composant les êtres vivants (végétaux,
+    animaux, champignons, micro-organismes du sol), et se retrouve dans le sol à plusieurs
+    stades de décomposition. Quels sont les principales fonctions de la matière organique
+    pour les sols ?
   hint: ''
   type: QCM-RM
   category: 7
@@ -41909,7 +41910,7 @@
     matière organique sert également d’énergie à la vie du sol, et va réguler la fourniture
     d’éléments essentiels à la croissance des plantes, comme l’azote et le phosphore.
     Plus le sol contient de matière organique, plus il est fertile pour l’agriculture.
-    Enfin, il stocke du carbone, qui ne contribue ainsi pas au réchauffement climatique.
+    Enfin, il stocke du carbone, qui ne contribue ainsi pas à l'effet de serre.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://agriculture.gouv.fr/recherche-le-gis-sol-observe-comment-les-sols-attenuent-les-effets-du-changement-climatique
@@ -41918,7 +41919,7 @@
   answer_scientific_url: https://anr.fr/fileadmin/documents/2015/ANR_Plaquette_SOLS.pdf
   answer_scientific_url_text: Plaquette Sols, ANR, 2015
   answer_reading_recommendation: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c97ec05e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 59
@@ -41927,10 +41928,10 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2022-12-22'
 - id: 1086
-  text: Parmi les limites planétaires évoquées par les scientifiques, on trouve les
-    cycles de l’azote et du phosphore, pour lesquels les seuils sont dépassés. Quelles
+  text: Parmi les limites planétaires évoquées par les scientifiques, on trouve le
+    cycle de l’azote  pour lequel le seuil d'alerte est largement dépassé. Quelles
     en sont les raisons ?
   hint: ''
   type: QCM
@@ -41969,7 +41970,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2022-12-22'
 - id: 1087
   text: Les bovidés regroupent des animaux comme les vaches, les bisons ou les antilopes
     A quelle évolution climatique leur apparition est-elle corrélée ?
@@ -42000,8 +42001,11 @@
   answer_scientific_url_text: Global Cooling by Grassland Soils of the Geological
     Past and Near Future, in Annual Review of Earth and Planetary Sciences · May 2012
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/47d2b629.png
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cc9d07d8.png
+  answer_image_explanation: La période de la "rampe du miocène" entre -15 et -7 millions
+    d'année a vus un refroidissement climatique d'environ 5°C. Cette période a vus
+    en parallèle l’extension des biomes de steppes-prairies, qui sont un équilibre
+    entre la végétation herbacée et les herbivores.
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
@@ -42009,7 +42013,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2022-12-22'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
     plus émetteur en gas à effet de serre ?
@@ -42050,7 +42054,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2022-12-22'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42184,3 +42188,132 @@
   validation_date: '2022-12-07'
   created: '2022-12-04'
   updated: '2022-12-09'
+- id: 1092
+  text: 'Pour produire la même quantité de récolte, le maïs utilise:'
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 3 fois plus d’eau que du blé
+  answer_option_b: la même quantité d’eau que le blé
+  answer_option_c: 3 fois moins d’eau que le blé
+  answer_option_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Le blé a une photosynthèse de type C3, alors que le maïs fait
+    parties des plantes a photosynthèse de type C4. Cette dernière a évoluée pendant
+    la période de l'oligocène, pour compenser la chute du taux de CO2 dans l'atmosphère.
+    La photosynthèse de type C4 est 3 fois plus efficaces par rapport à l’usage de
+    l’eau que la photosynthèse C3. Elle demande en contrepartie plus de chaleur. Le
+    maïs consomme au final la même quantité d’eau par hectare que le blé, et produit
+    3 fois plus de biomasse. Ceci est très intéressant pour plusieurs points agri-environnementaux !
+    Par contre le maïs a besoin de cette eau en été, reste à savoir si le sol et les
+    réseaux hydriques sont capable de fournir cette eau de manière renouvelable.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: http://botarela.fr/Poaceae/Famille/Photosynthese-3.html
+  answer_scientific_url: https://www.cell.com/current-biology/fulltext/S0960-9822(07)02344-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982207023445%3Fshowall%3Dtrue
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a6e0254c.png
+  answer_image_explanation: ''
+  answer_extra_info: 'La photosynthèse de type C4 (celle du maïs) est apparue lors
+    de la chute du taux de CO2 dans l''atmosphère de la période -40 à -30 millions
+    d''années. Elle est apparus en premier chez les graminées, et domine souvent la
+    végétation des biomes de prairies a été chauds comme les savanes africaines et
+    prairies nord-américaines (source: James Rae)'
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-22'
+  updated: '2022-12-22'
+- id: 1093
+  text: Parmi ces phénomènes, lesquels constituent des causes majeurs de dégradation
+    des sols ?
+  hint: ''
+  type: QCM-RM
+  category: null
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: le travail du sol, et notamment le labour
+  answer_option_b: la salinisation des sols par irrigation mal contrôlée
+  answer_option_c: un système de pâturage mal adapté
+  answer_option_d: les sols laissés à nu entre deux cultures
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: "R1 : Le labour rends compacte les sols et les rends sensibles\
+    \ à l’érosion, tout en massacrant une forte partie de la faune du sol.\r\nR2 :\
+    \ l’usage d’eau salée pour l’irrigation, même très peu salée, peu engendrer une\
+    \ couche salée en surface qui rends le sol impropre aux plantes\r\nR3 : sans couverture,\
+    \ les sols sont soumis à une forte érosion et à des températures extrêmes néfastes\
+    \ à la faune du sol et à conservation de l’eau \r\nR4 : un surpâturage, c’est\
+    \ à dire un pâturage où les animaux broutent les herbes sur un cycle trop court\
+    \ pour permettre aux herbes de faire des réserves, est une cause majeure de désertification.\r\
+    \n\r\nPasser de ces pratiques destructives à des pratiques régénérant les sols\
+    \ est ce que l’on appelle l’agriculture de régénération de sols."
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/%C3%89rosion_des_sols
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.sciencedirect.com/science/article/pii/S2211912420300584?via%3Dihub
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/29bc479c.jpg
+  answer_image_explanation: Carte de l'état de dégradation des sols dans le monde,
+    publié en 2017 par la FAO (Organisation de l'Alimentation et de l'Agriculture
+    des Nations Unis)
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-22'
+  updated: '2022-12-22'
+- id: 1094
+  text: Pour un gestionnaire de l’eau, l’eau verte c’est
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: du greenwashing
+  answer_option_b: l’eau stockée dans les sols
+  answer_option_c: l’eau d’une rivière polluée par une algue verte
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L’eau verte est l’eau stockée dans les sols et disponible pour
+    la pousse des plantes. L’eau bleue est elle l’eau pluie indisponible pour les
+    plantes, celle des nappes phréatique, rivières et lacs. Tout déficit en eau verte
+    entraîne un état de stress hydrique pour les plantes, autrement dis une sécheresse.
+    La quantité d’eau verte est impactée par les capacité de stockage du sol en eau,
+    et de manière cruciale la capacité du sol à absorber les précipitations. L’eau
+    qui ruisselle à la surface d’un sol compacté ne servira pas à la pousse des plantes,
+    ce qui aboutira à un écosystème moins vigoureux. La gestion des sols agricoles
+    a un impact immense sur la capacité des sols à imprégner l’eau de pluie, et peut
+    provoquer un état de sécheresse même dans des régions pourtant bien arrosées.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://appgeodb.nancy.inra.fr/biljou/fr/fiche/eau-verte-eau-bleue
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://ascelibrary.org/doi/10.1061/%28ASCE%290733-9496%282006%29132%3A3%28129%29
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8d8a1d43.jpg
+  answer_image_explanation: Les trois formes écologiques de l'eau
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-22'
+  updated: '2022-12-22'
