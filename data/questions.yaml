@@ -41983,16 +41983,21 @@
   answer_option_a: un réchauffement de 5°C
   answer_option_b: un réchauffement de 1°C
   answer_option_c: un refroidissement de 1°C
-  answer_option_d: un reffroidissement de 5°C
+  answer_option_d: un refroidissement de 5°C
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Les bovidés, qui sont des grands ruminants, sont apparus il
-    y a environ 17-18millions d’années, au début du miocène. Leur extension est corrélée
-    avec un refroidissement  de la température moyenne de 5°C, qui a eu lieu entre
-    le milieu du Miocène et la fin du Pliocène, avant que ne surviennent des cycles
-    de glaciation - déglaciation. Une cause avancée est le développement de sols de
-    prairies et steppes, profonds et riches en carbone et donc fertiles. Les grands
-    herbivores les maintiennent en équilibre en évitant une évolution vers la forêt.
+  answer_explanation: "Les bovidés, qui sont des grands ruminants, sont apparus il\
+    \ y a environ 17 millions d’années, au début de l'ère géologique de l'on appelle\
+    \ miocène. Leur extension est corrélée avec un refroidissement  de la température\
+    \ moyenne de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène,\
+    \ avant que ne surviennent des cycles de glaciation - déglaciation. Une cause\
+    \ avancée est le développement de sols de prairies et steppes, profonds et riches\
+    \ en carbone et donc fertiles. Les grands herbivores les maintiennent en équilibre\
+    \ en évitant une évolution vers la forêt.\r\nLe bilan environnemental catastrophique\
+    \ actuel de l'élevage vient de ce que l'homme en a fait, pas des espèces elles-mêmes.\
+    \ De fait, les animaux que l'on élève sont les descendants d'animaux qui ont participé\
+    \ à la construction des sols les plus fertiles qui soient, bien plus que les sols\
+    \ de forêt."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42013,7 +42018,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-12-22'
+  updated: '2022-12-25'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
     plus émetteur en gas à effet de serre ?
@@ -42189,7 +42194,7 @@
   created: '2022-12-04'
   updated: '2022-12-09'
 - id: 1092
-  text: 'Pour produire la même quantité de récolte, le maïs utilise:'
+  text: Pour produire la même quantité de récolte, le maïs nécessite...
   hint: ''
   type: QCM
   category: 1
@@ -42202,15 +42207,13 @@
   answer_option_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Le blé a une photosynthèse de type C3, alors que le maïs fait
-    parties des plantes a photosynthèse de type C4. Cette dernière a évoluée pendant
-    la période de l'oligocène, pour compenser la chute du taux de CO2 dans l'atmosphère.
-    La photosynthèse de type C4 est 3 fois plus efficaces par rapport à l’usage de
-    l’eau que la photosynthèse C3. Elle demande en contrepartie plus de chaleur. Le
-    maïs consomme au final la même quantité d’eau par hectare que le blé, et produit
-    3 fois plus de biomasse. Ceci est très intéressant pour plusieurs points agri-environnementaux !
-    Par contre le maïs a besoin de cette eau en été, reste à savoir si le sol et les
-    réseaux hydriques sont capable de fournir cette eau de manière renouvelable.
+  answer_explanation: "Le mécanisme de photosynthèse du maïs est différent de celui\
+    \ du blé, et est 3 fois plus efficace sur l'usage de l'eau.\r\nElle demande en\
+    \ contrepartie plus de chaleur. Globalement, le maïs consomme la même quantité\
+    \ d’eau par hectare que le blé, et produit 3 fois plus de biomasse. Ceci est très\
+    \ intéressant pour plusieurs points agri-environnementaux ! En revanche, le maïs\
+    \ a besoin de cette eau en été ; reste à savoir si le sol et les réseaux hydriques\
+    \ seront capables de fournir cette eau de manière soutenable."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42231,7 +42234,7 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2022-12-22'
+  updated: '2022-12-25'
 - id: 1093
   text: Parmi ces phénomènes, lesquels constituent des causes majeurs de dégradation
     des sols ?
@@ -42243,20 +42246,21 @@
   language: Français
   answer_option_a: le travail du sol, et notamment le labour
   answer_option_b: la salinisation des sols par irrigation mal contrôlée
-  answer_option_c: un système de pâturage mal adapté
+  answer_option_c: Le pâturage mal adapté
   answer_option_d: les sols laissés à nu entre deux cultures
   answer_correct: abcd
   has_ordered_answers: true
-  answer_explanation: "R1 : Le labour rends compacte les sols et les rends sensibles\
-    \ à l’érosion, tout en massacrant une forte partie de la faune du sol.\r\nR2 :\
-    \ l’usage d’eau salée pour l’irrigation, même très peu salée, peu engendrer une\
-    \ couche salée en surface qui rends le sol impropre aux plantes\r\nR3 : sans couverture,\
-    \ les sols sont soumis à une forte érosion et à des températures extrêmes néfastes\
-    \ à la faune du sol et à conservation de l’eau \r\nR4 : un surpâturage, c’est\
-    \ à dire un pâturage où les animaux broutent les herbes sur un cycle trop court\
-    \ pour permettre aux herbes de faire des réserves, est une cause majeure de désertification.\r\
-    \n\r\nPasser de ces pratiques destructives à des pratiques régénérant les sols\
-    \ est ce que l’on appelle l’agriculture de régénération de sols."
+  answer_explanation: "Chacun de ces mécanismes dégrade les sols.\r\n. Le labour rends\
+    \ compacte les sols et les rends sensibles à l’érosion, tout en massacrant une\
+    \ forte partie de la faune du sol.\r\n. L’usage d’eau même très peu salée pour\
+    \ l’irrigation peut former une couche salée en surface qui rends le sol impropre\
+    \ aux plantes.\r\n. Sans couverture, les sols sont soumis à une forte érosion\
+    \ et à des températures extrêmes néfastes à la faune du sol et à la conservation\
+    \ de l’eau \r\n. Le surpâturage, c’est à dire un pâturage où les animaux broutent\
+    \ les herbes sur un cycle trop court pour permettre aux herbes de faire des réserves,\
+    \ est une cause majeure de désertification.\r\n\r\nPasser de ces pratiques destructives\
+    \ à des pratiques régénérant les sols est ce que l’on appelle l’agriculture de\
+    \ régénération de sols."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/%C3%89rosion_des_sols
@@ -42275,7 +42279,7 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2022-12-22'
+  updated: '2022-12-25'
 - id: 1094
   text: Pour un gestionnaire de l’eau, l’eau verte c’est
   hint: ''
