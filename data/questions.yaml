@@ -42321,3 +42321,274 @@
   validation_date: null
   created: '2022-12-22'
   updated: '2022-12-22'
+- id: 1095
+  text: Pourquoi la biodiversité locale est-elle négativement impactée par le grand
+    festival de musique de Glastonbury ?
+  hint: Fumer fait tousser
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Les festivaliers et les musiciens font trop de bruits, ce qui perturbe
+    les écosystèmes
+  answer_option_b: Le festival n'a pas organisé le tri des déchets et ceux-ci se retrouvent
+    dans la nature
+  answer_option_c: Les ondes électro-magnétiques des amplis et des antennes relais
+    perturbent le vivant
+  answer_option_d: Les festivaliers se droguent et font pipi n'importe où
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le festival a mis en place depuis de nombreuses années des mesures
+    pour limiter son impact sur la biodiversité locale, et notamment la mise en place
+    d'un tri des déchets afin de rendre le site en l'état, mais de récentes études
+    ont confirmé que les espèces aquatiques vivant à proximité dans la rivière Whitelake
+    sont complètement droguées. Les festivaliers ne respectent pas les consignes qui
+    les invitent à uriner dans des zones adaptées, permettant un retraitement des
+    urines. Les résidus de Mdma et de cocaïne viennent alors perturber les cycles
+    de reproduction d'une espèce d'anguille rare et protégée en aval du festival.
+    Organiser un évènement festif n'est pas neutre du point de vue environnemental
+    et il faut donc en mesurer les conséquences, parfois inattendues !
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.francetvinfo.fr/culture/musique/au-festival-de-glastonbury-la-drogue-contenue-dans-l-urine-des-festivaliers-menace-les-anguilles_4787219.html
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-26'
+  updated: '2022-12-26'
+- id: 1096
+  text: Quelle quantité de matière est utilisée pour la fabrication des décors de
+    l'Opéra Bastille à Paris ?
+  hint: Quand on aime, on ne compte pas
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Par décor neuf, l'équivalent de cinq à sept camions poids-lourds
+    par décor, qui sillonnent ensuite les routes européennes
+  answer_option_b: En cumulé depuis 30 ans, l'équivalent d'environ 1500 conteneurs
+    de déchets qui sont actuellement stockés en Picardie
+  answer_option_c: Environ 120 tonnes de matière chaque année qui pourrait être potentiellement
+    revalorisée
+  answer_option_d: ''
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-26'
+  updated: '2022-12-26'
+- id: 1097
+  text: Quelle est la principale source d'émission de gaz à effet de serre d'une salle
+    de cinéma en France ?
+  hint: Je suis également un film d'animation réalisé par Pixar en 2006
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Le chauffage (et la climatisation) des salles de cinéma
+  answer_option_b: Les confiseries
+  answer_option_c: Le déplacement des spectateurs pour venir en salle
+  answer_option_d: La production et le tournage des films
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Près de 90% de l'impact carbone d'une salle de cinéma en France
+    est lié au seul déplacement des publics. Si les chiffres peuvent varier pour les
+    salles de cinéma encore présentes en centres urbains, c'est le résultat d'une
+    implantation systématiques de grands multiplexes en zones péri-urbaines, pour
+    lesquels la voiture est indispensable. Loin derrière, le chauffage et la climatisation
+    représentent moins de 4% des émissions en moyenne, malgré un poids économique
+    très important pour la gestion des salles. Très importante source de revenus pour
+    les salles de cinéma, les boissons et confiseries ont un impact carbone inférieurs
+    à 2,5% mais posent de grands enjeux en matière de santé publique et d'approvisionnements
+    en circuit-court ou respectueux de l'environnement. Mieux manger au cinéma reste
+    un enjeu environnemental fort. Les impacts du modèle soda/pop-corn en matière
+    de pollutions restent à évaluer. Enfin, la production et le tournage des films,
+    bien que parfois spectaculaire en matière d'impacts est mutualisée à l'échelle
+    des salles de cinéma. Quand 30 millions d'euros de voitures neuves sont détruites
+    pour produire l'avant-dernier James Bond, sa très large diffusion induit une quote-part
+    d'impact très faible à l'échelle d'une salle, il s'agit donc d'aller regarder
+    l'impact spécifique des tournages, comme le propose le plan Action ! du Centre
+    National du Cinéma qui propose de rendre obligatoire l'évaluation du poids carbone
+    des films d'ici 2024.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-26'
+  updated: '2022-12-26'
+- id: 1098
+  text: 'La conservation des grandes œuvres de l''humanité a un impact environnemental
+    significatif :'
+  hint: Les Tournesols, de Vincent Van Gogh, ne vivent pas de soupe et d'eau fraîche
+  type: VF
+  category: 5
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Les règles de conservation des grandes œuvres de l'humanité
+    sont drastiques de façon à garantir leur bonne préservation. La température de
+    conservation recommandée est de 20 degrés toute l'année, avec des taux d'humidité
+    stables autour de 55%. Elle n'est possible qu'au prix d'une consommation énergétique
+    importante. Par ailleurs, les œuvres d'art anciennes ou des sculptures contemporaines
+    nécessitent parfois de recourir à des ressources problématiques, qu'il s'agisse
+    de matière naturelle telles que l'ivoire (actuellement prélevée sur les stocks
+    de contrebande saisis par les douanes) ou des technologies obsolètes (lampe à
+    incandescence par exemple). L'entretien et la préservation des grandes œuvres
+    de l'humanité est donc un défi technique et énergétique à l'ère des limites planétaires.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-26'
+  updated: '2022-12-26'
+- id: 1099
+  text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
+    ?
+  hint: Some like it hot
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Le risque géopolitique, comme en témoigne la destruction des Bouddhas
+    de Bamiyan par les Talibans
+  answer_option_b: Le risque économique, il devient difficile d'entretenir la plupart
+    des sites classés au patrimoine mondial
+  answer_option_c: Le temps qui passe, l'usure des sites patrimoniaux rend très complexe
+    leur préservation et leur restauration
+  answer_option_d: Le risque environnemental, les sites classés sont aujourd'hui mis
+    en difficulté par les conséquences du dérèglement climatique
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Quoique les autres réponses puissent avoir leur pertinence et
+    témoigner d'enjeux forts pour la préservation du patrimoine mondial de l'UNESCO,
+    ce sont les conséquences environnementales qui posent aujourd'hui les plus grands
+    défis en matière de préservation. Ainsi, la mosquée Djinguereber, sur le site
+    classé de Tombouctou est davantage menacée par l'avancée du désert que par les
+    luttes armées qui l'entoure. Les forts et châteaux de Volta et d'Accra au Ghana
+    sont menacés par la montée des océans. Les grandes inondations de 2022 ont endommagé
+    les ruines archéologiques de Mohenjo Daro et le site historique de Makli au Pakistan.
+    En France, l'inventaire des risques n'est pas fait, ni en matière de recul du
+    trait de côte, ni en matière de risques nouveaux (incendies, inondations), ni
+    en matière de retrait/gonflement des sols argileux. Et bien sûr, l'essentiel des
+    sites naturels classés au patrimoine de l'humanité par l'UNESCO sont aujourd'hui
+    en danger de mort ou condamnés, comme la plupart des glaciers en zone tempéré
+    ou la grande barrière de Corail !
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-26'
+  updated: '2022-12-26'
+- id: 1100
+  text: Pour quelle raison la fête du court-métrage a-t-elle décidé de mettre à disposition
+    les films pour enfant en streaming plutôt qu'en téléchargement, et l'inverse pour
+    les autres films, lors de son édition 2021 (spéciale coronavirus) ?
+  hint: Eat Sleep Rave Repeat
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Pour des questions de droits d'auteur, les contraintes législatives
+    sont différentes pour les films pour enfants
+  answer_option_b: Parce que les courts-métrages pour enfants sont en moyenne plus
+    longs que les courts-métrages pour adultes
+  answer_option_c: Parce que les films d'animation génèrent plus de données numériques
+    que les films standards
+  answer_option_d: Parce que les enfants ne regardent pas tout à fait les films comme
+    les adultes
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: 'Aucune différence en matière de droits d''auteur ou de durée,
+    les films sont aujourd''hui entièrement diffusés sur des supports numérisés. Il
+    n''y a donc pas de différences entre courts métrages adultes et courts métrages
+    enfants. En revanche, les enfants ne regardent pas du tout les films comme les
+    adultes, et ils aiment regarder leur film préféré en boucle. Ainsi, les courts-métrages
+    adultes ne sont regardés qu''une seule fois et la bonne pratique environnementale
+    consiste donc à les proposer en streaming pour ne générer qu''un seul et unique
+    flux, sans susciter de stockages locaux. Pour les films pour enfant, il vaut mieux
+    proposer l''inverse : un seul et unique téléchargement puis la possibilité de
+    revisionner inlassablement le film en local jusqu''à l''heure du dodo!'
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-26'
+  updated: '2022-12-26'
