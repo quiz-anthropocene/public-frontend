@@ -42322,18 +42322,18 @@
   created: '2022-12-22'
   updated: '2022-12-22'
 - id: 1095
-  text: Pourquoi la biodiversité locale est-elle négativement impactée par le grand
-    festival de musique de Glastonbury ?
+  text: La ville de Glastonbury héberge un grand festival de musique. Quel est en
+    l'impact le plus préoccupant sur la biodiversité ?
   hint: Fumer fait tousser
   type: QCM
   category: 4
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: Les festivaliers et les musiciens font trop de bruits, ce qui perturbe
-    les écosystèmes
+  answer_option_a: Les festivaliers et les musiciens font trop de bruit, ce qui perturbe
+    la faune
   answer_option_b: Le festival n'a pas organisé le tri des déchets et ceux-ci se retrouvent
-    dans la nature
+    dispersés dans la nature
   answer_option_c: Les ondes électro-magnétiques des amplis et des antennes relais
     perturbent le vivant
   answer_option_d: Les festivaliers se droguent et font pipi n'importe où
@@ -42365,7 +42365,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-26'
+  updated: '2022-12-28'
 - id: 1096
   text: Quelle quantité de matière est utilisée pour la fabrication des décors de
     l'Opéra Bastille à Paris ?
@@ -42375,12 +42375,10 @@
   tags: []
   difficulty: 1
   language: Français
-  answer_option_a: Par décor neuf, l'équivalent de cinq à sept camions poids-lourds
-    par décor, qui sillonnent ensuite les routes européennes
+  answer_option_a: Pour un décor neuf, l'équivalent de cinq à sept camions poids-lourds
   answer_option_b: En cumulé depuis 30 ans, l'équivalent d'environ 1500 conteneurs
-    de déchets qui sont actuellement stockés en Picardie
-  answer_option_c: Environ 120 tonnes de matière chaque année qui pourrait être potentiellement
-    revalorisée
+    de déchets
+  answer_option_c: Environ 120 tonnes de matière chaque année
   answer_option_d: ''
   answer_correct: abc
   has_ordered_answers: true
@@ -42401,9 +42399,9 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-26'
+  updated: '2022-12-28'
 - id: 1097
-  text: Quelle est la principale source d'émission de gaz à effet de serre d'une salle
+  text: Quelle est la principale cause d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
   hint: Je suis également un film d'animation réalisé par Pixar en 2006
   type: QCM
@@ -42411,31 +42409,29 @@
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: Le chauffage (et la climatisation) des salles de cinéma
-  answer_option_b: Les confiseries
-  answer_option_c: Le déplacement des spectateurs pour venir en salle
+  answer_option_a: Le chauffage et la climatisation
+  answer_option_b: La vente de confiseries
+  answer_option_c: Le déplacement des spectateurs
   answer_option_d: La production et le tournage des films
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Près de 90% de l'impact carbone d'une salle de cinéma en France
-    est lié au seul déplacement des publics. Si les chiffres peuvent varier pour les
-    salles de cinéma encore présentes en centres urbains, c'est le résultat d'une
-    implantation systématiques de grands multiplexes en zones péri-urbaines, pour
-    lesquels la voiture est indispensable. Loin derrière, le chauffage et la climatisation
-    représentent moins de 4% des émissions en moyenne, malgré un poids économique
-    très important pour la gestion des salles. Très importante source de revenus pour
-    les salles de cinéma, les boissons et confiseries ont un impact carbone inférieurs
-    à 2,5% mais posent de grands enjeux en matière de santé publique et d'approvisionnements
-    en circuit-court ou respectueux de l'environnement. Mieux manger au cinéma reste
-    un enjeu environnemental fort. Les impacts du modèle soda/pop-corn en matière
-    de pollutions restent à évaluer. Enfin, la production et le tournage des films,
-    bien que parfois spectaculaire en matière d'impacts est mutualisée à l'échelle
-    des salles de cinéma. Quand 30 millions d'euros de voitures neuves sont détruites
-    pour produire l'avant-dernier James Bond, sa très large diffusion induit une quote-part
-    d'impact très faible à l'échelle d'une salle, il s'agit donc d'aller regarder
-    l'impact spécifique des tournages, comme le propose le plan Action ! du Centre
-    National du Cinéma qui propose de rendre obligatoire l'évaluation du poids carbone
-    des films d'ici 2024.
+    provient du déplacement du public. C'est le résultat d'une implantation systématiques
+    de grands multiplexes en zones péri-urbaines pour lesquels la voiture est indispensable.
+    Loin derrière, le chauffage et la climatisation représentent moins de 4% des émissions
+    en moyenne, malgré un poids économique très important pour la gestion des salles.
+    Très importante source de revenus pour les salles de cinéma, les boissons et confiseries
+    ont un impact carbone inférieurs à 2,5% mais posent de grands enjeux en matière
+    de santé publique et d'approvisionnements en circuit-court ou respectueux de l'environnement.
+    Mieux manger au cinéma reste un enjeu environnemental fort. Les impacts du modèle
+    soda/pop-corn en matière de pollutions restent à évaluer. Enfin, la production
+    et le tournage des films, bien que parfois spectaculaire en matière d'impacts
+    est mutualisée à l'échelle des salles de cinéma qui les diffusent. Quand des voitures
+    neuves sont détruites à hauteur de 30 millions d'euros sont détruites pour produire
+    l'avant-dernier James Bond, sa très large diffusion induit une quote-part d'impact
+    très faible à l'échelle d'une salle. Une piste face à ces impacts consisterait
+    à rendre obligatoire l'évaluation du poids carbone des films, comme le propose
+    le plan Action ! du Centre National du Cinéma.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42452,10 +42448,10 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-26'
+  updated: '2022-12-28'
 - id: 1098
-  text: 'La conservation des grandes œuvres de l''humanité a un impact environnemental
-    significatif :'
+  text: Vrai ou faux ? La conservation des grandes œuvres de l'humanité a un impact
+    environnemental significatif.
   hint: Les Tournesols, de Vincent Van Gogh, ne vivent pas de soupe et d'eau fraîche
   type: VF
   category: 5
@@ -42468,16 +42464,16 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Les règles de conservation des grandes œuvres de l'humanité
-    sont drastiques de façon à garantir leur bonne préservation. La température de
-    conservation recommandée est de 20 degrés toute l'année, avec des taux d'humidité
-    stables autour de 55%. Elle n'est possible qu'au prix d'une consommation énergétique
-    importante. Par ailleurs, les œuvres d'art anciennes ou des sculptures contemporaines
-    nécessitent parfois de recourir à des ressources problématiques, qu'il s'agisse
-    de matière naturelle telles que l'ivoire (actuellement prélevée sur les stocks
-    de contrebande saisis par les douanes) ou des technologies obsolètes (lampe à
-    incandescence par exemple). L'entretien et la préservation des grandes œuvres
-    de l'humanité est donc un défi technique et énergétique à l'ère des limites planétaires.
+  answer_explanation: 'Pour garantir la bonne préservation des œuvres, les règles
+    de conservation des grandes œuvres de l''humanité sont drastiques : la température
+    de 20 degrés, taux d''humidité de 55%... Elle n''est possible qu''au prix d''une
+    consommation énergétique importante. Par ailleurs, les œuvres d''art anciennes
+    ou des sculptures contemporaines nécessitent parfois de recourir à des ressources
+    problématiques, qu''il s''agisse de matière naturelle telles que l''ivoire (actuellement
+    prélevée sur les stocks de contrebande saisis par les douanes) ou des technologies
+    obsolètes (lampe à incandescence par exemple). L''entretien et la préservation
+    des grandes œuvres de l''humanité est donc un défi technique et énergétique à
+    l''ère des limites planétaires.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42494,7 +42490,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-26'
+  updated: '2022-12-28'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
@@ -42504,30 +42500,27 @@
   tags: []
   difficulty: 1
   language: Français
-  answer_option_a: Le risque géopolitique, comme en témoigne la destruction des Bouddhas
-    de Bamiyan par les Talibans
-  answer_option_b: Le risque économique, il devient difficile d'entretenir la plupart
-    des sites classés au patrimoine mondial
-  answer_option_c: Le temps qui passe, l'usure des sites patrimoniaux rend très complexe
-    leur préservation et leur restauration
-  answer_option_d: Le risque environnemental, les sites classés sont aujourd'hui mis
-    en difficulté par les conséquences du dérèglement climatique
+  answer_option_a: Le risque géopolitique - par exemple, la destruction de grands
+    Bouddhas par les Talibans en Afghanistan
+  answer_option_b: Le risque économique - coût d'entretien des sites classés au patrimoine
+    mondial
+  answer_option_c: La préservation et la restauration de sites
+  answer_option_d: Le risque environnemental - en particulier les conséquences du
+    dérèglement climatique
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Quoique les autres réponses puissent avoir leur pertinence et
-    témoigner d'enjeux forts pour la préservation du patrimoine mondial de l'UNESCO,
-    ce sont les conséquences environnementales qui posent aujourd'hui les plus grands
-    défis en matière de préservation. Ainsi, la mosquée Djinguereber, sur le site
-    classé de Tombouctou est davantage menacée par l'avancée du désert que par les
-    luttes armées qui l'entoure. Les forts et châteaux de Volta et d'Accra au Ghana
-    sont menacés par la montée des océans. Les grandes inondations de 2022 ont endommagé
-    les ruines archéologiques de Mohenjo Daro et le site historique de Makli au Pakistan.
-    En France, l'inventaire des risques n'est pas fait, ni en matière de recul du
-    trait de côte, ni en matière de risques nouveaux (incendies, inondations), ni
-    en matière de retrait/gonflement des sols argileux. Et bien sûr, l'essentiel des
-    sites naturels classés au patrimoine de l'humanité par l'UNESCO sont aujourd'hui
-    en danger de mort ou condamnés, comme la plupart des glaciers en zone tempéré
-    ou la grande barrière de Corail !
+  answer_explanation: Les autres risques mentionnés sont également importants. Cependant,
+    pour l'UNESCO, ce sont les conséquences environnementales qui posent aujourd'hui
+    les plus grands défis en matière de préservation. Ainsi, la mosquée Djinguereber,
+    sur le site classé de Tombouctou est davantage menacée par l'avancée du désert
+    que par les luttes armées qui l'entourent ; les forts et châteaux de Volta et
+    d'Accra au Ghana sont menacés par la montée des océans ; les grandes inondations
+    de 2022 ont endommagé les ruines archéologiques de Mohenjo Daro et le site historique
+    de Makli au Pakistan. En France, l'inventaire des risques n'est pas fait, ni en
+    matière de recul du trait de côte, ni de risques nouveaux (incendies, inondations),
+    ni de retrait/gonflement des sols argileux. A l'instar des glaciers ou de la Grande
+    barrière de corail, de nombreux sites naturels classés au patrimoine de l'humanité
+    sont aujourd'hui en danger de mort ou condamnés.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42544,11 +42537,11 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-26'
+  updated: '2022-12-28'
 - id: 1100
-  text: Pour quelle raison la fête du court-métrage a-t-elle décidé de mettre à disposition
-    les films pour enfant en streaming plutôt qu'en téléchargement, et l'inverse pour
-    les autres films, lors de son édition 2021 (spéciale coronavirus) ?
+  text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
+    de mettre à disposition les films pour enfant en streaming plutôt qu'en téléchargement,
+    et l'inverse pour les autres films. Pour quelle raison ?
   hint: Eat Sleep Rave Repeat
   type: QCM
   category: 2
@@ -42556,12 +42549,12 @@
   difficulty: 2
   language: Français
   answer_option_a: Pour des questions de droits d'auteur, les contraintes législatives
-    sont différentes pour les films pour enfants
+    étant différentes pour les films pour enfants
   answer_option_b: Parce que les courts-métrages pour enfants sont en moyenne plus
-    longs que les courts-métrages pour adultes
+    longs que ceux pour adultes
   answer_option_c: Parce que les films d'animation génèrent plus de données numériques
     que les films standards
-  answer_option_d: Parce que les enfants ne regardent pas tout à fait les films comme
+  answer_option_d: Parce que les enfants ne visionnent pas tout à fait les films comme
     les adultes
   answer_correct: d
   has_ordered_answers: true
@@ -42569,12 +42562,12 @@
     les films sont aujourd''hui entièrement diffusés sur des supports numérisés. Il
     n''y a donc pas de différences entre courts métrages adultes et courts métrages
     enfants. En revanche, les enfants ne regardent pas du tout les films comme les
-    adultes, et ils aiment regarder leur film préféré en boucle. Ainsi, les courts-métrages
-    adultes ne sont regardés qu''une seule fois et la bonne pratique environnementale
-    consiste donc à les proposer en streaming pour ne générer qu''un seul et unique
-    flux, sans susciter de stockages locaux. Pour les films pour enfant, il vaut mieux
-    proposer l''inverse : un seul et unique téléchargement puis la possibilité de
-    revisionner inlassablement le film en local jusqu''à l''heure du dodo!'
+    adultes : ils aiment regarder leur film préféré en boucle, alors que les adultes
+    ne les visionnent qu''une fois. Pour ces derniers, il est plus avantageux en matière
+    d''émissions de les proposer en streaming pour ne générer qu''un seul et unique
+    flux. Alors que our les films pour enfant, il vaut mieux proposer l''inverse :
+    un seul et unique téléchargement puis la possibilité de revisionner inlassablement
+    le film en local jusqu''à l''heure du dodo!'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42591,4 +42584,182 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-26'
+  updated: '2022-12-28'
+- id: 1101
+  text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
+    en bibliothèque est...
+  hint: Le bonheur est dans le pré
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: '...nettement supérieur car il est difficile de chauffer les grands
+    volumes des bibliothèques'
+  answer_option_b: '...un peu supérieur car les réseaux de diffusion privés des libraires
+    sont mieux organisés pour optimiser la diffusion'
+  answer_option_c: '...un peu inférieur car les réseaux de diffusion publics des libraires
+    sont mieux organisés pour mutualiser la diffusion'
+  answer_option_d: '...nettement inférieur, en bibliothèque, car un livre est lu de
+    très nombreuses fois'
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le principal impact carbone d'un livre est lié à sa production,
+    notamment à cause de la production du papier qui a un coût énergétique important
+    et génère parfois des changements d'usage de sols. Grâce aux logiques de mutualisation
+    d'une bibliothèque - des logiques qui s'inscrivent dans la définition même de
+    ce qu'on appelle l'économie de la fonctionnalité, Le Shift Project estime que
+    l'impact carbone d'un ouvrage prêté en bibliothèque est quatre fois moindre que
+    vendu en librairie. L'impact comparatif de la vente d'ouvrages en ligne n'a pas
+    été estimé. Pour ce qui est d'un e-book, l'impact carbone n'est inférieur que
+    si on oublie de prendre en compte l'impact environnemental de la production de
+    la liseuse. Et bien sûr, il ne faut pas l'oublier !
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-28'
+  updated: '2022-12-28'
+- id: 1102
+  text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
+    plusieurs orchestres à des milliers de kilomètres de distance'
+  hint: Voyage au bout de la nuit
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: C'est vrai. Les grandes stars internationales cumulent les postes
+    et vivent d'ailleurs souvent très loin du lieu principal des répétitions, ce qui
+    les force à prendre l'avion régulièrement. C’est le cas du chef vénézuélien Gustavo
+    Dudamel, qui cumule les fonctions de directeur musical de l’Opéra de Paris et
+    de directeur artistique de l’Orchestre Philharmonique de Los Angeles. Gustavo
+    Gimeno, à la fois engagé à l’Orchestre philharmonique du Luxembourg et à l’Orchestre
+    symphonique de Toronto multiplie les allers-retours entre l’Europe et le Canada.
+    Klaus Mäkelä, chef d’orchestre principal de l’Orchestre philharmonique d’Oslo
+    est aussi directeur musical de l’Orchestre de Paris et de l'Orchestre royal du
+    Concertgebouw d’Amsterdam. Même hypermobilité pour son compatriote Esa-Pekka Salonen
+    avec un bilan global de 8,6 tonnes pour ses seuls déplacements professionnels
+    connus. Marin Alsop est engagée à l’Orchestre symphonique de l’État de São Paulo
+    et cheffe d’orchestre en chef de l’Orchestre symphonique de la radio de Vienne.
+    Existerait-il un droit inaliénable des grands artistes à émettre des quantités
+    déraisonnables de gaz à effet de serre, au nom de la grande musique ? Nous ne
+    le pensons pas !
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.radiofrance.fr/francemusique/podcasts/reportage/co2-enquete-sur-les-trajets-pas-tres-ecolo-des-chefs-d-orchestre-3365073
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-28'
+  updated: '2022-12-28'
+- id: 1103
+  text: 'L''empreinte carbone moyenne d''un dj en tournée est :'
+  hint: Last night a dj took a flight
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 5 fois supérieure à l'empreinte carbone recommandée par l'Accord
+    de Paris
+  answer_option_b: 7 fois supérieure à l'empreinte carbone moyenne recommandée par
+    l'Accord de Paris
+  answer_option_c: 10 fois supérieure à l'empreinte carbone moyenne recommandée par
+    l'Accord de Paris
+  answer_option_d: 17 fois supérieure à l'empreinte carbone moyenne recommandée par
+    l'Accord de Paris
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Selon l'étude réalisée par Clean Scene intitulée "last night
+    a dj took a flight", l'empreinte carbone moyenne des Djs de métier en tournée
+    est environ 17 fois supérieure à l'empreinte carbone moyenne recommandée par l'Accord
+    de Paris. Cette moyenne cache de fortes disparités. Les Djs stars ayant une empreinte
+    carbone beaucoup plus importante. Certaines et certains réalisant même parfois
+    des sets le même soir (c'est le cas par exemple d'Amélie Lens lors du réveillon
+    2018) dans des villes situées à des milliers de kilomètres de distance, grâce
+    au recours massif aux jets privés. Le top 1000 des Djs mondiaux a fait l'équivalent
+    de 117 millions de kilomètres et pris 51000 vols lors de l'année 2019. Ce sont
+    les 1% des Djs les plus reconnus qui sont majoritairement responsables de cette
+    empreinte "moyenne".
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-28'
+  updated: '2022-12-28'
+- id: 1104
+  text: En moyenne, un spectacle dans une Scène Nationale en France est joué
+  hint: Obsolescence programmée
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: environ 5 fois
+  answer_option_b: plus de 7 fois
+  answer_option_c: à peine plus d'une fois
+  answer_option_d: environ deux fois
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Les spectacles programmés en France dans les Scènes Nationales
+    font très peu l'objet de séries. Ils sont joués en moyenne 2,3 fois. Soit, selon
+    le rapport de la cour des comptes de 2022, 4259 spectacles différents proposés
+    pour 9821 représentations. Cela induit une grande mobilité des équipes et une
+    grande fragilité des propositions artistiques, qui tournent globalement très peu
+    après avoir été produites. La création culturelle est malheureusement victime
+    d'une très grande et très rapide obsolescence des productions.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ccomptes.fr/system/files/2022-07/20220530-rapport-soutien-Etat-spectacle-vivant.pdf
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 67
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2022-12-28'
+  updated: '2022-12-28'
