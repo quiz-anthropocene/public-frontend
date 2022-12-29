@@ -367,3 +367,11 @@
   description_accessible_url: ''
   created: '2022-12-09'
   updated: '2022-12-09'
+- name: UNESCO
+  name_alternatives: ''
+  definition_short: Organisation des Nations Unies pour l'éducation, la science et
+    la culture
+  description: ''
+  description_accessible_url: https://www.un.org/youthenvoy/fr/2013/08/unesco-organisation-nations-unies-leducation-science-culture/
+  created: '2022-12-28'
+  updated: '2022-12-28'
