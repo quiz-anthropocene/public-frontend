@@ -2369,23 +2369,22 @@
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
-  introduction: <p>L'art et les activités culturelles tiennent une part essentielles
-    de nos sociétés. Elles sont le témoin indispensable d'une vie libre et désirable.
-    Pour autant, elles ne sont pas neutres du point de vue environnemental. A quoi
-    ressemblent nos anthopo(s)cène ? Une meilleure connaissance des enjeux peut permettre
-    de réduire les impacts négatifs de ces activités tout en stimulant leurs aspects
-    positifs, tels que la convivialité, le vivre-ensemble, l'exercice de libertés
-    de toute sorte. Ce quiz a vocation à vous aider à identifier les enjeux environnementaux
-    qui se cachent derrière nos festivals, nos opéras, nos films, nos pièces de théâtre,
+  introduction: <p>Témoins d'une vie libre et désiralbes, les activités culturelles
+    et artistiques tiennent une part essentielle dans nos sociétés. Pour autant, elles
+    ne sont pas neutres du point de vue environnemental. A quoi ressemblent nos anthopo(s)cène
+    ? Ce quiz a vocation à vous aider à identifier les enjeux environnementaux qui
+    se cachent derrière nos festivals, nos opéras, nos films, nos pièces de théâtre,
     nos livres, afin d'en atténuer les conséquences fâcheuses. Et nous permettre de
     continuer à profiter, demain, de toute la diversité et de toutes les richesses
-    que procurent les activités artistiques et culturelles.</p>
+    qu'ils nous procurent.</p>
   conclusion: <p>Les impacts environnementaux de la culture sont divers, toujours
-    liés à des contextes particuliers. Si la culture n'est pas l'industrie lourde,
-    elle ne peut pas minorer ses propres impacts environnementaux et doit faire sa
-    juste part dans la survenue d'un monde soutenable. Elle pourrait alors contribuer
-    à nous aider à forger de nouveaux imaginaires et déplacer nos façons de voir le
-    monde ! </p>
+    liés à des contextes particuliers. Une meilleure connaissance des enjeux peut
+    permettre de réduire les impacts négatifs de ces activités tout en stimulant leurs
+    aspects positifs, tels que la convivialité, le vivre-ensemble, l'exercice de libertés
+    de toute sorte. Si la culture n'est pas l'industrie lourde, elle ne peut pas minorer
+    ses propres impacts environnementaux et doit faire sa juste part dans la survenue
+    d'un monde soutenable. Elle pourrait alors contribuer à nous aider à forger de
+    nouveaux imaginaires et déplacer nos façons de voir le monde !</p>
   questions:
   - 1095
   - 1096
@@ -2413,4 +2412,4 @@
   publish_date: null
   spotlight: false
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2022-12-29'

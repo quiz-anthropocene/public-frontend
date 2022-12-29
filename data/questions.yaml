@@ -42701,13 +42701,11 @@
     a dj took a flight", l'empreinte carbone moyenne des Djs de métier en tournée
     est environ 17 fois supérieure à l'empreinte carbone moyenne recommandée par l'Accord
     de Paris. Cette moyenne cache de fortes disparités. Les Djs stars ayant une empreinte
-    carbone beaucoup plus importante. Certaines et certains réalisant même parfois
-    des sets le même soir (c'est le cas par exemple d'Amélie Lens lors du réveillon
-    2018) dans des villes situées à des milliers de kilomètres de distance, grâce
-    au recours massif aux jets privés. Le top 1000 des Djs mondiaux a fait l'équivalent
-    de 117 millions de kilomètres et pris 51000 vols lors de l'année 2019. Ce sont
-    les 1% des Djs les plus reconnus qui sont majoritairement responsables de cette
-    empreinte "moyenne".
+    carbone beaucoup plus importante,  certaines réalisant même parfois des sets le
+    même soir sur des lieux distants de milliers de km, qu'ils rejoignent via des
+    jets privés. Le top 1000 des Djs mondiaux a parcouru l'équivalent de 117 millions
+    de kilomètres et pris 51,000 vols lors de l'année 2019. Ce sont les 1% des Djs
+    les plus reconnus qui sont majoritairement responsables de cette empreinte "moyenne".
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42724,28 +42722,28 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2022-12-28'
+  updated: '2022-12-29'
 - id: 1104
-  text: En moyenne, un spectacle dans une Scène Nationale en France est joué
+  text: Dans une Scène Nationale en France, un spectacle est joué en moyenne...
   hint: Obsolescence programmée
   type: QCM
   category: 2
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: environ 5 fois
-  answer_option_b: plus de 7 fois
-  answer_option_c: à peine plus d'une fois
-  answer_option_d: environ deux fois
-  answer_correct: d
+  answer_option_a: à peine plus d'une fois
+  answer_option_b: deux fois
+  answer_option_c: environ 5 fois
+  answer_option_d: plus de 7 fois
+  answer_correct: b
   has_ordered_answers: true
   answer_explanation: Les spectacles programmés en France dans les Scènes Nationales
     font très peu l'objet de séries. Ils sont joués en moyenne 2,3 fois. Soit, selon
     le rapport de la cour des comptes de 2022, 4259 spectacles différents proposés
     pour 9821 représentations. Cela induit une grande mobilité des équipes et une
     grande fragilité des propositions artistiques, qui tournent globalement très peu
-    après avoir été produites. La création culturelle est malheureusement victime
-    d'une très grande et très rapide obsolescence des productions.
+    après avoir été produites. La création culturelle est victime d'une très grande
+    et très rapide obsolescence des productions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42762,4 +42760,4 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2022-12-28'
+  updated: '2022-12-29'
