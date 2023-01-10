@@ -210,8 +210,8 @@
   created: '2020-03-07'
   updated: '2022-04-16'
 - id: 6
-  text: L'effet de serre additionnel créé par l'homme emprisonne de l'énergie. Quelle
-    proportion de celle-ci se retrouve absorbée par les océans ?
+  text: L'effet de serre additionnel créé par les activités humaines emprisonne de
+    l'énergie. Quelle proportion de celle-ci se retrouve absorbée par les océans ?
   hint: ''
   type: QCM
   category: 1
@@ -245,7 +245,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2022-04-16'
+  updated: '2023-01-09'
 - id: 7
   text: Des scientifiques ont suivi la taille des populations de 30,000 espèces de
     vertébrés sur 40 ans. Qu'ont-ils observé ?
@@ -306,7 +306,7 @@
   answer_option_d: 100 000 ans
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Même dans cet exercice de pensée irréaliste, l'homme a d'ores
+  answer_explanation: Même dans cet exercice de pensée irréaliste, l'humain a d'ores
     et déjà induit des modifications irréversibles et la planète ne pourra pas revenir
     à son état antérieur. On ne parle ici que des durées de résidence des gaz à effet
     de serre dans l'atmosphère.
@@ -328,7 +328,7 @@
   validator: 39
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2022-04-16'
+  updated: '2023-01-09'
 - id: 9
   text: Entre 2011 et 2013, la Chine a consommé autant de ciment que les États-Unis
     en...
@@ -1108,7 +1108,7 @@
   - 166
   difficulty: 2
   language: Français
-  answer_option_a: des émissions de CO2 par l'homme
+  answer_option_a: des émissions de CO2 par les activités humaines
   answer_option_b: de l'eutrophisation (manque d'oxygène)
   answer_option_c: de la photosynthèse
   answer_option_d: du réchauffement de l'air
@@ -1137,7 +1137,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-01-09'
 - id: 29
   text: Quel est l'effet des particules fines sur le climat ?
   hint: ''
@@ -1731,7 +1731,7 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: L'empreinte écologique caractérise la surface de la Terre utilisée
-    par l'Homme pour pêcher, élever, cultiver, déboiser, construire et brûler des
+    par les hommes pour pêcher, élever, cultiver, déboiser, construire et brûler des
     énergies fossiles. La biocapacité, quant à elle, représente la surface de la planète
     nécessaire pour faire face à ces pressions. Si ça peut vous consoler, ce serait
     le 14 mars si vous étiez un Américain. En moyenne mondiale, le 1er août.
@@ -1751,7 +1751,7 @@
   validator: 39
   validation_date: null
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-01-09'
 - id: 44
   text: Quel sera l'impact d'une hausse de 2 °C de la température de l'air (depuis
     le début de l'ère pré-industrielle) sur les massifs de coraux ?
@@ -3015,9 +3015,9 @@
 - id: 76
   text: "Imaginez une balance titanesque. Sur le plateau de gauche, toute la matière\
     \ vivante actuellement sur terre. Sur le plateau de droite, tout ce qui a été\
-    \ construit depuis l'origine par l'homme. \nDe quel côté va pencher la balance\
+    \ construit depuis l'origine par les hommes. \r\nDe quel côté va pencher la balance\
     \ ?"
-  hint: 'Il faut compter tout ce qui a été construit par l’homme : bâtiments, infrastructures
+  hint: 'Il faut compter tout ce qui a été construit : bâtiments, infrastructures
     (routes, ponts), habitations, industries, systèmes mobiles (voitures, trains,
     avions), ...'
   type: QCM
@@ -3056,7 +3056,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-01-09'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
