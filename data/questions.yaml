@@ -42036,12 +42036,13 @@
   has_ordered_answers: true
   answer_explanation: "La production et l'approvisionnement d’un kilogramme de pomme\
     \ du Limousin en Limousin a un bilan gaz à effet de serre d’environ 200g CO2e.\
-    \ Le facteur principal d’émission est le « dernier kilomètre ». Il est plus long\
-    \ dans les zones rurales comme dans le Limousin qu'en Ile de France par exemple,\
-    \ où on trouve un tissu dense de magasins. Même si le bilan du transport logistique\
-    \ est plus élevé, le bilan total est paradoxalement plus faible que dans la région\
-    \ de production. \r\nSi ce kg de pommes pomme provient de Nouvelle Zélande, le\
-    \ transport maritime augmente énormément le bilan."
+    \ Le facteur principal d’émission est le « dernier kilomètre », qui est le trajet\
+    \ effectué pour faire ses courses. Il est plus long dans les zones rurales comme\
+    \ dans le Limousin qu'en Ile de France par exemple, où on trouve un tissu dense\
+    \ de magasins. Même si le bilan du transport logistique est plus élevé, le bilan\
+    \ total est paradoxalement plus faible que dans la région de production. \r\n\
+    Note: Si ce kg de pommes provient de Nouvelle Zélande, le transport maritime augmente\
+    \ énormément le bilan."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42059,7 +42060,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-12-22'
+  updated: '2023-01-11'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42213,7 +42214,7 @@
     \ d’eau par hectare que le blé, et produit 3 fois plus de biomasse. Ceci est très\
     \ intéressant pour plusieurs points agri-environnementaux ! En revanche, le maïs\
     \ a besoin de cette eau en été ; reste à savoir si le sol et les réseaux hydriques\
-    \ seront capables de fournir cette eau de manière soutenable."
+    \ sont capables de fournir cette eau de manière soutenable."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42234,7 +42235,7 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2022-12-25'
+  updated: '2023-01-11'
 - id: 1093
   text: Parmi ces phénomènes, lesquels constituent des causes majeurs de dégradation
     des sols ?
