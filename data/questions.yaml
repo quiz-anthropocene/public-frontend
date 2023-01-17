@@ -42282,38 +42282,39 @@
   created: '2022-12-22'
   updated: '2022-12-25'
 - id: 1094
-  text: Pour un gestionnaire de l’eau, l’eau verte c’est
+  text: Une irrigation accrue est le seul moyen de compenser des sécheresses de plus
+    en plus marquées
   hint: ''
-  type: QCM
+  type: VF
   category: null
   tags: []
   difficulty: 1
   language: Français
-  answer_option_a: du greenwashing
-  answer_option_b: l’eau stockée dans les sols
-  answer_option_c: l’eau d’une rivière polluée par une algue verte
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: L’eau verte est l’eau stockée dans les sols et disponible pour
-    la pousse des plantes. L’eau bleue est elle l’eau pluie indisponible pour les
-    plantes, celle des nappes phréatique, rivières et lacs. Tout déficit en eau verte
-    entraîne un état de stress hydrique pour les plantes, autrement dis une sécheresse.
-    La quantité d’eau verte est impactée par les capacité de stockage du sol en eau,
-    et de manière cruciale la capacité du sol à absorber les précipitations. L’eau
-    qui ruisselle à la surface d’un sol compacté ne servira pas à la pousse des plantes,
-    ce qui aboutira à un écosystème moins vigoureux. La gestion des sols agricoles
-    a un impact immense sur la capacité des sols à imprégner l’eau de pluie, et peut
-    provoquer un état de sécheresse même dans des régions pourtant bien arrosées.
+  answer_explanation: Un sol dégradé par des pratiques agricole mal-adaptées perds
+    ses capacités à stocker de l'eau (=> l’eau verte). Un sol humique bien structuré
+    peut stocker 20-30% d'eau utilisable par les plantes, et ainsi un sol profond
+    d'un mètre peut contenir assez d'eau pour la réussite d'une culture de maïs, même
+    avec une pluviométrie défaillante. Bien évidement, ce stock d'eau énorme devra
+    être rechargé à un moment ou à un autre par des pluies équivalentes. Si l'eau
+    ruisselle à la surface en lieu de s'imprégner (=> érosion), cela peut provoquer
+    un état de sécheresse même dans des régions pourtant bien arrosées. Les pratiques
+    agricoles sont ainsi souvent à l'origine des sécheresses qui affectent la production
+    agricole.
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: https://appgeodb.nancy.inra.fr/biljou/fr/fiche/eau-verte-eau-bleue
+  answer_accessible_url: https://dordogne.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/099_Inst-Dordogne/Documents/Agronomie-Agroecologie/Agreau_LaDemarche.pdf
   answer_accessible_url_text: ''
-  answer_scientific_url: https://ascelibrary.org/doi/10.1061/%28ASCE%290733-9496%282006%29132%3A3%28129%29
+  answer_scientific_url: https://esdac.jrc.ec.europa.eu/projects/SOCO/FactSheets/EN%20Fact%20Sheet.pdf
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8d8a1d43.jpg
-  answer_image_explanation: Les trois formes écologiques de l'eau
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/49a97f3e.gif
+  answer_image_explanation: Le cycle de l'eau verte (www.coursgeologie.com)
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
@@ -42321,7 +42322,7 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2022-12-22'
+  updated: '2023-01-16'
 - id: 1095
   text: La ville de Glastonbury héberge un grand festival de musique. Quel est en
     l'impact le plus préoccupant sur la biodiversité ?
@@ -42762,3 +42763,115 @@
   validation_date: null
   created: '2022-12-28'
   updated: '2022-12-29'
+- id: 1105
+  text: Les prairies peuvent devenir un puits de carbone non négligeable
+  hint: ''
+  type: VF
+  category: null
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: La mise en culture et le surpâturage d’une prairie provoque
+    la dégradation du sol. Les deux causes effectives sont le travail mécanique du
+    sol et la réduction des apports de matière organique, ce qui accélère la dégradation
+    de la matière organique du sol et les processus d’érosion. Cela se traduit par
+    des sols dégradés, dont le niveau de dégradation dépends de l’intensité des pratiques
+    agricoles et de la fragilité des sols. Quand son taux de matière organique descend
+    en dessous de 1 %, un sol devient impropre à l’agriculture. Cela est le cas de
+    beaucoup de sols dans le monde, et ce n’est pas un phénomène nouveau car cela
+    a accompagné le déclin de nombreuses civilisation comme dans le croissant fertile,
+    berceau de l’agriculture devenus désert. Cela n’est pas irréversible, et la restauration
+    d’une prairie avec un usage agricole raisonné (ex. pâturage adapté) permet d’augmenter
+    le capital de carbone d’une prairie de 0.5 à 1 tonne par an et par hectare. A
+    l’échelle de la planète, cela aurait le potentiel de stocker entre 8 et 25 % des
+    émission des CO2 de l’année 2021 (36GTeqCO2). Il est a noté que le levier principale
+    serait la restauration de la biodiversité végétale des prairies, ce qui indique
+    que climat et biodiversité sont intimement liés. Mais attention, cela ne compense
+    en aucun cas les émissions liées aux énergies fossiles, cela ne fait que compenser
+    les émissions liées aux dégradations des sols passées.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.encyclopediapratensis.eu/product/guide-paturage/des-prairies-pour-stocker-du-carbone/
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.science.org/doi/10.1126/science.abo2380
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a966b071.jpeg
+  answer_image_explanation: La teneur en carbone d’un sol de prairie mise en culture
+    diminue fortement avec le temps de culture, pour se stabiliser à un niveau dépendant
+    des pratiques agricoles. Cette situation n’est pas irréversible, et la restauration
+    écologique d’une prairie permet de régénérer la capacité aux prairies d’être des
+    puits de carbone. (adapté de Gleixner et al., Organic Geochemistry 33(3) 2002)
+  answer_extra_info: 'Note : les connaissances actuelles ne permettent pas de modéliser
+    l’effet des exsudats racinaires des plantes (le carbone « liquide ») sur la construction
+    des sols. Le taux de captation de carbone des prairies est donc sous-estimé, et
+    possiblement largement sous-estimé comme le montre des études sur prairies monospécifique
+    de luzerne et miscanthus où des taux de 3-4 tonnes de carbone par hectare et pas
+    ans sont stockés par ces prairies, soit jusqu’à 5 fois supérieurs au résultats
+    trouvés actuellement par simulation où seul les matières carbonées « solides »
+    sont prises en compte'
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-16'
+  updated: '2023-01-16'
+- id: 1106
+  text: la forêt est l’écosystème qui constitue le plus sur moyen de retirer le CO2
+    de l’atmosphère
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: Cela dépends
+  answer_option_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Si l’on additionne le carbone stocké dans le sol plus celui
+    contenu dans la biomasse, un sol de prairie mature contient autant de carbone
+    qu’une forêt tropicale, et légèrement plus qu’une forêt tempérée. Mais une forêt
+    peut brûler de manière incontrôlée, comme l’ont démontrés les récents méga-feux
+    nord-Américains, Australiens, et même Français en 2022. La moitié du stock de
+    carbone part alors en fumée et met des décennie à se reconstituer, alors qu’un
+    feu de brousse ne brûle qu’une petite quantité du carbone de la praire, qui se
+    reconstituera aux prochaines pluies. Comme souvent  avec des systèmes complexe,
+    tout ceci est à étudier en fonction du contexte. Ainsi, des études ont montré
+    que dans le contexte climatique Californien, l’écosystème de prairie est une réserve
+    carbone bien plus stable que la forêt, et au final un puits de carbone plus conséquent
+    sur le long terme. Ce raisonnement n’est pas valable sous climat équatorial, car
+    une humidité constante associée à une température élevée rends impossible la formation
+    de sol profonds. Alors le stock de carbone contenus dans les arbres domine largement
+    le total, et est plus stable car les feux sont moins probables sous une humidité
+    élevée.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/aacb39/pdf
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f22b317.jpeg
+  answer_image_explanation: Si l'on additionne le carbone contenue dans la biomasse
+    (demi-cercle vert clair) au carbone contenu dans le sol (demi-cercle vert foncé),
+    les écosystèmes de prairies tempérés (« Grasslands ») contiennent autant de carbone
+    par unité de surface que les forêts tropicales ("tropical forest"), et même un
+    peu plus que les forêts tempérées ("temperate forest").
+  answer_extra_info: ''
+  author: 59
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-16'
+  updated: '2023-01-16'
