@@ -2304,13 +2304,15 @@
 - id: 90
   name: Les sols
   slug: les-sols
-  introduction: <p>Selon l'expression de l'auteur Marc-André Selosse, les sols sont
-    <em>l’origine du monde</em>. Pourtant, ignorant la nature de ce que nous avons
-    sous les pieds, les hommes ont souvent fortement dégradé le fonctionnement des
-    sols. Notamment via les pratiques agricoles. Cette dégradation des sols a accompagné
-    jadis l’effondrement de vénérables empires ainsi que la formation de déserts.
-    Le quiz qui suit vous fera découvrir les mécanismes derrière cette dégradation,
-    son ampleur, mais aussi qui permettent de régénérer des sols agricoles dégradés.</p>
+  introduction: "<p>Selon l'expression de l'auteur Marc-André Selosse, les sols sont\
+    \ <em>l’origine du monde</em>. Pourtant, ignorant la nature de ce que nous avons\
+    \ sous les pieds, les hommes ont souvent fortement dégradé le fonctionnement des\
+    \ sols. Notamment via les pratiques agricoles. Cette dégradation des sols a accompagné\
+    \ jadis l’effondrement de vénérables empires ainsi que la formation de déserts.\
+    \ Le quiz qui suit vous fera découvrir les mécanismes derrière cette dégradation,\
+    \ son ampleur, mais aussi qui permettent de régénérer des sols agricoles dégradés.<br\
+    \ />\r\nUn quiz élaboré par Romaric Vincent, agronome agroforestier et passionné\
+    \ des sols.</p>"
   conclusion: ''
   questions:
   - 1033
@@ -2320,9 +2322,14 @@
   - 1086
   - 1087
   - 1088
-  question_count: 7
+  - 1092
+  - 1093
+  - 1094
+  - 1105
+  - 1106
+  question_count: 12
   tags: []
-  difficulty_average: 2.6
+  difficulty_average: 2.2
   language: Français
   image_background_url: ''
   has_audio: false
@@ -2336,7 +2343,7 @@
   publish_date: null
   spotlight: false
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2023-01-17'
 - id: 91
   name: Un bestiaire de l'Anthropocène
   slug: un-bestiaire-de-lanthropocene

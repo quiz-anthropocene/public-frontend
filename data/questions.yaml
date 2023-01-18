@@ -16372,7 +16372,7 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'Le GIEC prend en compte tous les travaux, y compris les travaux
-    qui pourraient tenter de remettre en cause l’influence de l’homme sur le climat.
+    qui pourraient tenter de remettre en cause l’influence des humains sur le climat.
     Bien sûr, il faut que ces travaux aient été validés et publiés dans des revues
     scientifiques à comité de lecture (peer review). Le rapport est soumis pour avis
     à l’ensemble de la communauté scientifique, qui peut faire des commentaires auxquels
@@ -16397,7 +16397,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-16'
+  updated: '2023-01-17'
 - id: 426
   text: Vrai ou Faux ? Les travaux du GIEC prennent en compte les aspects sociaux
     du dérèglement climatique.
@@ -39739,7 +39739,8 @@
   answer_accessible_url_text: Pratiques agricoles pour stocker du carbone dans les
     sols français
   answer_scientific_url: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Article INRAE : Stocker 4 pour 1 000 de carbone dans
+    les sols : le potentiel en France'
   answer_reading_recommendation: https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/lorigine-du-monde
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/281c9125.png
   answer_image_explanation: Les sols de prairies d'élevage, et notamment des prairies
@@ -39753,7 +39754,7 @@
   validator: null
   validation_date: null
   created: '2022-06-15'
-  updated: '2022-11-26'
+  updated: '2023-01-17'
 - id: 1034
   text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
     that the current climate change is caused by human activities?
@@ -41806,7 +41807,7 @@
 - id: 1083
   text: Parlons stockage du carbone. Il y a dans les sols...
   hint: ''
-  type: QCM-RM
+  type: QCM
   category: 1
   tags: []
   difficulty: 3
@@ -41824,10 +41825,10 @@
     \ comme puits de carbone sur le long terme."
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: http://acces.ens-lyon.fr/acces/thematiques/CCCIC/ressources/litho_point6
-  answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_accessible_url: https://lejournal.cnrs.fr/billets/le-sol-cet-inconnu-quon-pietine
+  answer_accessible_url_text: Billet du professeur Marc-André Selosse dans Libération
+  answer_scientific_url: http://acces.ens-lyon.fr/acces/thematiques/CCCIC/ressources/litho_point6
+  answer_scientific_url_text: 'Cours de l''ENS : Cycle du carbone et effet de serre'
   answer_reading_recommendation: https://www.pearson.com/en-gb/subject-catalog/p/Weil-The-Nature-and-Properties-of-Soils-Global-Edition-15th-Edition/P200000005713/9781292162249
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ac422189.png
   answer_image_explanation: ''
@@ -41838,7 +41839,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-12-22'
+  updated: '2023-01-17'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation.
     Notamment, des sols transformés en terres agricoles. En termes d''impact sur le
@@ -41934,7 +41935,7 @@
     cycle de l’azote  pour lequel le seuil d'alerte est largement dépassé. Quelles
     en sont les raisons ?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 3
   tags: []
   difficulty: 1
@@ -41970,7 +41971,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-12-22'
+  updated: '2023-01-17'
 - id: 1087
   text: Les bovidés regroupent des animaux comme les vaches, les bisons ou les antilopes
     A quelle évolution climatique leur apparition est-elle corrélée ?
@@ -41983,7 +41984,7 @@
   answer_option_a: un réchauffement de 5°C
   answer_option_b: un réchauffement de 1°C
   answer_option_c: un refroidissement de 1°C
-  answer_option_d: un refroidissement de 5°C
+  answer_option_d: ''
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Les bovidés, qui sont des grands ruminants, sont apparus il\
@@ -42008,7 +42009,8 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cc9d07d8.png
   answer_image_explanation: La période de la "rampe du miocène" entre -15 et -7 millions
-    d'année a vus un refroidissement climatique d'environ 5°C. Cette période a vus
+    d'année a vus un refroidissement climatique d'environ 5°C. La courbe du milieu
+    représente la moyenne, les deux autres les marges d'erreur. Cette période a vus
     en parallèle l’extension des biomes de steppes-prairies, qui sont un équilibre
     entre la végétation herbacée et les herbivores.
   answer_extra_info: ''
@@ -42018,7 +42020,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2022-12-25'
+  updated: '2023-01-17'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
     plus émetteur en gas à effet de serre ?
@@ -42028,21 +42030,21 @@
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: le trajet vers le magasin
+  answer_option_a: le trajet du client vers le magasin
   answer_option_b: les engrais de synthèse
   answer_option_c: les gros tracteurs
   answer_option_d: l'acheminement des pommes vers le magasin
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "La production et l'approvisionnement d’un kilogramme de pomme\
-    \ du Limousin en Limousin a un bilan gaz à effet de serre d’environ 200g CO2e.\
-    \ Le facteur principal d’émission est le « dernier kilomètre », qui est le trajet\
-    \ effectué pour faire ses courses. Il est plus long dans les zones rurales comme\
-    \ dans le Limousin qu'en Ile de France par exemple, où on trouve un tissu dense\
-    \ de magasins. Même si le bilan du transport logistique est plus élevé, le bilan\
-    \ total est paradoxalement plus faible que dans la région de production. \r\n\
-    Note: Si ce kg de pommes provient de Nouvelle Zélande, le transport maritime augmente\
-    \ énormément le bilan."
+  answer_explanation: "Prenons l'exemple de pommes produites et achetée dans le Limousin.\
+    \ La production et l'approvisionnement d’un kilogramme de pomme a un bilan gaz\
+    \ à effet de serre d’environ 200g CO2e. Le facteur principal d’émission est le\
+    \ « dernier kilomètre », qui est le trajet effectué pour faire ses courses. Il\
+    \ est plus long dans les zones rurales comme dans le Limousin qu'en Ile de France\
+    \ par exemple, où on trouve un tissu dense de magasins. Même si le bilan du transport\
+    \ logistique est plus élevé, le bilan total est paradoxalement plus faible que\
+    \ dans la région de production. \r\nNote: Si ce kg de pommes provient de Nouvelle\
+    \ Zélande, le transport maritime augmente énormément le bilan."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42060,7 +42062,7 @@
   validator: null
   validation_date: null
   created: '2022-11-25'
-  updated: '2023-01-11'
+  updated: '2023-01-17'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42235,9 +42237,9 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2023-01-11'
+  updated: '2023-01-17'
 - id: 1093
-  text: Parmi ces phénomènes, lesquels constituent des causes majeurs de dégradation
+  text: Parmi ces phénomènes, lesquels constituent des causes majeures de dégradation
     des sols ?
   hint: ''
   type: QCM-RM
@@ -42280,32 +42282,31 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2022-12-25'
+  updated: '2023-01-17'
 - id: 1094
-  text: Une irrigation accrue est le seul moyen de compenser des sécheresses de plus
-    en plus marquées
+  text: Quelles sont les causes d'une sécheresse agricole?
   hint: ''
-  type: VF
+  type: QCM-RM
   category: null
   tags: []
   difficulty: 1
   language: Français
-  answer_option_a: Vrai
-  answer_option_b: Faux
-  answer_option_c: ''
+  answer_option_a: Une absence prolongée de pluviométrie
+  answer_option_b: C'est quand l'agriculteur n'arrose pas assez ses champs
+  answer_option_c: Quand le sol n'arrive plus à fournir assez d'eau aux plantes
   answer_option_d: ''
-  answer_correct: b
+  answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Un sol dégradé par des pratiques agricole mal-adaptées perds
+  answer_explanation: Un sol dégradé par des pratiques agricole mal adaptées perd
     ses capacités à stocker de l'eau (=> l’eau verte). Un sol humique bien structuré
-    peut stocker 20-30% d'eau utilisable par les plantes, et ainsi un sol profond
-    d'un mètre peut contenir assez d'eau pour la réussite d'une culture de maïs, même
-    avec une pluviométrie défaillante. Bien évidement, ce stock d'eau énorme devra
-    être rechargé à un moment ou à un autre par des pluies équivalentes. Si l'eau
-    ruisselle à la surface en lieu de s'imprégner (=> érosion), cela peut provoquer
-    un état de sécheresse même dans des régions pourtant bien arrosées. Les pratiques
-    agricoles sont ainsi souvent à l'origine des sécheresses qui affectent la production
-    agricole.
+    peut stocker jusqu'à 20% de son volume en eau. Cela représente 2000m^3 d'eau par
+    hectare, et ainsi un sol profond d'un mètre contient quasiment assez d'eau pour
+    la réussite d'une culture de céréale, même sans aucune pluie pendant la culture.
+    Bien évidement, ce stock d'eau énorme devra être rechargé par les pluies afin
+    de permettre une prochaine culture. Si l'eau ruisselle à la surface en lieu de
+    s'imprégner (=> érosion), cela peut provoquer un état de sécheresse même dans
+    des régions pourtant bien arrosées. Les pratiques agricoles sont ainsi souvent
+    à l'origine des sécheresses qui affectent la production agricole.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://dordogne.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/099_Inst-Dordogne/Documents/Agronomie-Agroecologie/Agreau_LaDemarche.pdf
@@ -42322,7 +42323,7 @@
   validator: null
   validation_date: null
   created: '2022-12-22'
-  updated: '2023-01-16'
+  updated: '2023-01-17'
 - id: 1095
   text: La ville de Glastonbury héberge un grand festival de musique. Quel est en
     l'impact le plus préoccupant sur la biodiversité ?
@@ -42764,7 +42765,7 @@
   created: '2022-12-28'
   updated: '2022-12-29'
 - id: 1105
-  text: Les prairies peuvent devenir un puits de carbone non négligeable
+  text: Les prairies peuvent devenir un puits de carbone important
   hint: ''
   type: VF
   category: null
@@ -42779,22 +42780,21 @@
   has_ordered_answers: true
   answer_explanation: La mise en culture et le surpâturage d’une prairie provoque
     la dégradation du sol. Les deux causes effectives sont le travail mécanique du
-    sol et la réduction des apports de matière organique, ce qui accélère la dégradation
-    de la matière organique du sol et les processus d’érosion. Cela se traduit par
-    des sols dégradés, dont le niveau de dégradation dépends de l’intensité des pratiques
-    agricoles et de la fragilité des sols. Quand son taux de matière organique descend
+    sol et la réduction des apports de matière organique, ce qui accélère les processus
+    d’érosion. Le niveau de dégradation dépends de l’intensité des pratiques agricoles
+    et de la fragilité intrinsèque des sols. Si le taux de matière organique descend
     en dessous de 1 %, un sol devient impropre à l’agriculture. Cela est le cas de
     beaucoup de sols dans le monde, et ce n’est pas un phénomène nouveau car cela
     a accompagné le déclin de nombreuses civilisation comme dans le croissant fertile,
-    berceau de l’agriculture devenus désert. Cela n’est pas irréversible, et la restauration
-    d’une prairie avec un usage agricole raisonné (ex. pâturage adapté) permet d’augmenter
+    berceau de l’agriculture. Cela n’est pas irréversible, et la restauration d’écosystèmes
+    de prairie avec un usage agricole raisonné (ex. pâturage adapté) permet d’augmenter
     le capital de carbone d’une prairie de 0.5 à 1 tonne par an et par hectare. A
     l’échelle de la planète, cela aurait le potentiel de stocker entre 8 et 25 % des
-    émission des CO2 de l’année 2021 (36GTeqCO2). Il est a noté que le levier principale
+    émission des CO2 de l’année 2021 (36GTeqCO2). Il est a noter que le levier principale
     serait la restauration de la biodiversité végétale des prairies, ce qui indique
-    que climat et biodiversité sont intimement liés. Mais attention, cela ne compense
-    en aucun cas les émissions liées aux énergies fossiles, cela ne fait que compenser
-    les émissions liées aux dégradations des sols passées.
+    bien que climat et biodiversité sont intimement liés. Mais attention, cela ne
+    compense en aucun cas les émissions liées aux énergies fossiles, cela ne fait
+    que compenser les émissions liées aux dégradations passées des sols.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.encyclopediapratensis.eu/product/guide-paturage/des-prairies-pour-stocker-du-carbone/
@@ -42806,25 +42806,26 @@
   answer_image_explanation: La teneur en carbone d’un sol de prairie mise en culture
     diminue fortement avec le temps de culture, pour se stabiliser à un niveau dépendant
     des pratiques agricoles. Cette situation n’est pas irréversible, et la restauration
-    écologique d’une prairie permet de régénérer la capacité aux prairies d’être des
+    écologique d’une prairie permet de régénérer la capacité des prairies à être des
     puits de carbone. (adapté de Gleixner et al., Organic Geochemistry 33(3) 2002)
   answer_extra_info: 'Note : les connaissances actuelles ne permettent pas de modéliser
     l’effet des exsudats racinaires des plantes (le carbone « liquide ») sur la construction
     des sols. Le taux de captation de carbone des prairies est donc sous-estimé, et
     possiblement largement sous-estimé comme le montre des études sur prairies monospécifique
-    de luzerne et miscanthus où des taux de 3-4 tonnes de carbone par hectare et pas
-    ans sont stockés par ces prairies, soit jusqu’à 5 fois supérieurs au résultats
-    trouvés actuellement par simulation où seul les matières carbonées « solides »
-    sont prises en compte'
+    de luzerne et miscanthus où des taux de 3-4 tonnes de carbone par hectare et par
+    année sont stockés par ces prairies, soit jusqu’à plusieurs fois supérieurs au
+    résultats trouvés actuellement par simulation où seul les matières carbonées « solides »
+    sont prises en compte. Ce stockage ne sera pas infini et saturera sans doute à
+    un certain équilibre dépendant du contexte sol-climat.'
   author: 59
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2023-01-16'
-  updated: '2023-01-16'
+  updated: '2023-01-17'
 - id: 1106
-  text: la forêt est l’écosystème qui constitue le plus sur moyen de retirer le CO2
+  text: La forêt est l’écosystème qui constitue le plus sûr moyen de retirer le CO2
     de l’atmosphère
   hint: ''
   type: QCM
@@ -42834,26 +42835,24 @@
   language: Français
   answer_option_a: Vrai
   answer_option_b: Faux
-  answer_option_c: Cela dépends
+  answer_option_c: C'est plus compliqué que cela
   answer_option_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Si l’on additionne le carbone stocké dans le sol plus celui
-    contenu dans la biomasse, un sol de prairie mature contient autant de carbone
-    qu’une forêt tropicale, et légèrement plus qu’une forêt tempérée. Mais une forêt
-    peut brûler de manière incontrôlée, comme l’ont démontrés les récents méga-feux
-    nord-Américains, Australiens, et même Français en 2022. La moitié du stock de
-    carbone part alors en fumée et met des décennie à se reconstituer, alors qu’un
-    feu de brousse ne brûle qu’une petite quantité du carbone de la praire, qui se
-    reconstituera aux prochaines pluies. Comme souvent  avec des systèmes complexe,
+  answer_explanation: Si l’on considère le carbone stocké dans le sol et dans la biomasse,
+    une prairie mature contient autant de carbone qu’une forêt tropicale, et légèrement
+    plus qu’une forêt tempérée. Mais une forêt peut brûler de manière incontrôlée,
+    comme l’ont démontré les récents méga-feux en Amérique du Nord, en Australie et
+    même en France, sous un climat pourtant relativement humide. La moitié du stock
+    de carbone part alors en fumée et met des décennies à se reconstituer. Au contraire,
+    un feu de brousse ne brûle qu’une petite quantité du carbone de la prairie, qui
+    se reconstituera aux prochaines pluies. Comme souvent avec des systèmes complexes,
     tout ceci est à étudier en fonction du contexte. Ainsi, des études ont montré
     que dans le contexte climatique Californien, l’écosystème de prairie est une réserve
     carbone bien plus stable que la forêt, et au final un puits de carbone plus conséquent
-    sur le long terme. Ce raisonnement n’est pas valable sous climat équatorial, car
-    une humidité constante associée à une température élevée rends impossible la formation
-    de sol profonds. Alors le stock de carbone contenus dans les arbres domine largement
-    le total, et est plus stable car les feux sont moins probables sous une humidité
-    élevée.
+    sur le long terme. Ce raisonnement n’est pas valable sous climat équatorial !
+    En effet, l'humidité constante associée à une température élevée rend impossible
+    la formation de sol humifères profond, et les feux sont rendus moins probables.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42874,4 +42873,4 @@
   validator: null
   validation_date: null
   created: '2023-01-16'
-  updated: '2023-01-16'
+  updated: '2023-01-17'
