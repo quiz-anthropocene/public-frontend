@@ -247,8 +247,8 @@
 - id: 59
   first_name: Romaric
   last_name: Vincent
-  question_count: 0
-  quiz_count: 0
+  question_count: 12
+  quiz_count: 1
   created: '2022-06-13'
 - id: 60
   first_name: Geoffroy
