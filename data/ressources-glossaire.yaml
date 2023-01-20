@@ -375,3 +375,20 @@
   description_accessible_url: https://www.un.org/youthenvoy/fr/2013/08/unesco-organisation-nations-unies-leducation-science-culture/
   created: '2022-12-28'
   updated: '2022-12-28'
+- name: Afforestation
+  name_alternatives: ''
+  definition_short: Plantation par l'homme d'arbres dans le but de repeupler une surface
+    longtemps restée déboisée, ou n'ayant jamais été connue comme telle.
+  description: ''
+  description_accessible_url: ''
+  created: '2023-01-19'
+  updated: '2023-01-19'
+- name: humique
+  name_alternatives: ''
+  definition_short: Qui a rapport avec l'humus, c'est à dire l'ensemble des matières
+    organiques issues de la décomposition des végétaux se trouvant dans la couche
+    superfi
+  description: ''
+  description_accessible_url: ''
+  created: '2023-01-20'
+  updated: '2023-01-20'
