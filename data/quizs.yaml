@@ -2304,7 +2304,7 @@
 - id: 90
   name: Les sols
   slug: les-sols
-  introduction: "<p>Selon l'expression de l'auteur Marc-André Selosse, les sols sont\
+  introduction: "<p>Comme le titre le professeur Marc-André Selosse, les sols sont\
     \ <em>l’origine du monde</em>. Pourtant, ignorant la nature de ce que nous avons\
     \ sous les pieds, les hommes ont souvent fortement dégradé le fonctionnement des\
     \ sols. Notamment via les pratiques agricoles. Cette dégradation des sols a accompagné\
@@ -2313,7 +2313,17 @@
     \ son ampleur, mais aussi qui permettent de régénérer des sols agricoles dégradés.<br\
     \ />\r\nUn quiz élaboré par Romaric Vincent, agronome agroforestier et passionné\
     \ des sols.</p>"
-  conclusion: ''
+  conclusion: <p>Les sols n'ont pas fini de nous surprendre. Dans cette science de
+    la complexité, le contexte local prime sur le général. Une meilleure gestion des
+    sols, et notament des sols agricoles, ne peut pas s'affranchir des contextes climatique
+    et socio-économique. En ceci, l'expérience qu'a l'agriculteur de ses sol est irremplacable
+    dans la mise en place de pratiques agricoles vertueuses, avec comme buts de protéger
+    et même à régénérer les sols tout en préservant la capacité nourricière de l'agriculture.
+    Plus que jamais, l'agricuture fait partie des problèmes. Mais si l'on remet la
+    science des sols au coeur des décisions agronomiques, l'agriculture est porteuse
+    de solutions. Comment construire une économie prenans en compte ce constat, afin
+    de donner aux agriculteurs les moyens de répondre aux grandes crises environnementales
+    de notre temps?</p>
   questions:
   - 1033
   - 1083
@@ -2331,7 +2341,7 @@
   tags: []
   difficulty_average: 2.2
   language: Français
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b64c7eb2.png
   has_audio: false
   authors:
   - 59
@@ -2343,7 +2353,7 @@
   publish_date: null
   spotlight: false
   created: '2022-11-25'
-  updated: '2023-01-17'
+  updated: '2023-01-19'
 - id: 91
   name: Un bestiaire de l'Anthropocène
   slug: un-bestiaire-de-lanthropocene
