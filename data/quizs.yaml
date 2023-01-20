@@ -2302,18 +2302,26 @@
   created: '2022-11-08'
   updated: '2022-12-15'
 - id: 90
-  name: Les sols
+  name: La clef des sols
   slug: les-sols
-  introduction: "<p>Selon l'expression de l'auteur Marc-André Selosse, les sols sont\
-    \ <em>l’origine du monde</em>. Pourtant, ignorant la nature de ce que nous avons\
-    \ sous les pieds, les hommes ont souvent fortement dégradé le fonctionnement des\
-    \ sols. Notamment via les pratiques agricoles. Cette dégradation des sols a accompagné\
-    \ jadis l’effondrement de vénérables empires ainsi que la formation de déserts.\
-    \ Le quiz qui suit vous fera découvrir les mécanismes derrière cette dégradation,\
-    \ son ampleur, mais aussi qui permettent de régénérer des sols agricoles dégradés.<br\
-    \ />\r\nUn quiz élaboré par Romaric Vincent, agronome agroforestier et passionné\
-    \ des sols.</p>"
-  conclusion: ''
+  introduction: "<p>Pour reprendre le titre d'un livre phare sur le sujet, les sols\
+    \ sont <em>l’<a href=\"https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/lorigine-du-monde\"\
+    >origine du monde</a>.</em> Pourtant, ignorants de leur nature et de leur richesse,\
+    \ les hommes ont souvent fortement dégradé leur fonctionnement, notamment via\
+    \ leurs pratiques agricoles. Le quiz qui suit va vous emmener à la découverte\
+    \ des mécanismes qui font la vie, la dégadation, mais aussi la régénération des\
+    \ sols.</p>\r\n\r\n<p>Un quiz élaboré par Romaric Vincent, agronome agroforestier\
+    \ et passionné des sols</p>"
+  conclusion: <p>Les sols n'ont pas fini de nous surprendre. Dans cette science de
+    la complexité, le contexte local prime sur le général. Une meilleure gestion des
+    sols, en particulier agricoles, ne peut pas s'affranchir des contextes climatique
+    et socio-économique. En ceci, l'expérience qu'a l'agriculteur de ses sol est irremplacable
+    dans la mise en place de pratiques agricoles vertueuses, avec comme buts de protéger
+    et même régénérer les sols tout en préservant la capacité nourricière de l'agriculture.
+    L'agricuture fait partie des problèmes, mais aussi des solutions si l'on remet
+    la science des sols au coeur des décisions agronomiques. Comment construire une
+    économie prenans en compte ce constat, afin de donner aux agriculteurs les moyens
+    de répondre aux grandes crises environnementales de notre temps ?</p>
   questions:
   - 1033
   - 1083
@@ -2331,7 +2339,7 @@
   tags: []
   difficulty_average: 2.2
   language: Français
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b64c7eb2.png
   has_audio: false
   authors:
   - 59
@@ -2339,11 +2347,11 @@
   validation_status: Brouillon
   validator: null
   validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  publish: true
+  publish_date: '2023-01-20'
+  spotlight: true
   created: '2022-11-25'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 91
   name: Un bestiaire de l'Anthropocène
   slug: un-bestiaire-de-lanthropocene

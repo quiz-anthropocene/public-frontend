@@ -1000,11 +1000,13 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.lemonde.fr/planete/article/2015/01/07/pour-limiter-le-rechauffement-a-2-c-combien-de-petrole-gaz-et-charbon-en-moins_4550929_3244.html
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'Le Monde, 2015 : Pour limiter le réchauffement à 2°
+    C, combien de pétrole, gaz et charbon en moins ?'
   answer_scientific_url: https://www.nature.com/articles/nature14016
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Nature, 2015 : The geographical distribution of fossil
+    fuels unused when limiting global warming to 2 °C'
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fc8869ea.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0c087efe.jpg
   answer_image_explanation: ''
   answer_extra_info: "la question initiale faisait mention de 80% de pétrole.\r\n\
     autres articles:\r\nhttps://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves\r\
@@ -1015,7 +1017,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-11-08'
+  updated: '2023-01-20'
 - id: 26
   text: Lors de la dernière déglaciation, la Terre s'est réchauffée d'environ 5°C.
     En combien d'années ?
@@ -1643,21 +1645,21 @@
   - 216
   difficulty: 2
   language: Français
-  answer_option_a: '2025'
+  answer_option_a: '2030'
   answer_option_b: '2050'
   answer_option_c: '2100'
   answer_option_d: Jamais, il en restera toujours assez pour s'en nourrir
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: C'est ce qui ressort d'une étude canadienne de 200. Le déclin
+  answer_explanation: C'est ce qui ressort d'une étude canadienne de 2006. Le déclin
     de la biodiversité s’accélère et rythme il n’y aura presque plus d’espèces de
     poissons ou de fruits de mer à consommer en 2048. A l’heure actuelle, 29% de ces
     espèces se sont effondrées, c'est à dire que leurs prises ont chuté de 90%.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://aquaculture-aquablog.blogspot.com/2017/10/surpeche-2048-plus-de-poisson-dans-les-oceans.html
-  answer_accessible_url_text: En 2048, il n'y aura plus de poisson dans les océans
-    !
+  answer_accessible_url_text: 'Aquablog : En 2048, il n''y aura plus de poisson dans
+    les océans !'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -1670,7 +1672,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-12-12'
+  updated: '2023-01-20'
 - id: 42
   text: Combien d'années faut-il à un excès de CO2 émis pour commencer à être évacué
     de l'atmosphère ?
@@ -1984,12 +1986,12 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.lemonde.fr/idees/article/2018/03/27/defense-il-y-a-davantage-de-refugies-climatiques-que-de-refugies-lies-aux-conflits-dans-le-monde_5277061_3232.html
-  answer_accessible_url_text: 'Défense : « Il y a davantage de réfugiés climatiques
-    que de réfugiés liés aux conflits dans le monde »'
-  answer_scientific_url: ''
-  answer_scientific_url_text: PNAS - Future of the human climate niche
+  answer_accessible_url_text: 'Tribune Le Monde 2018 : « Il y a davantage de réfugiés
+    climatiques que de réfugiés liés aux conflits dans le monde »'
+  answer_scientific_url: https://www.pnas.org/doi/10.1073/pnas.1910114117
+  answer_scientific_url_text: PNAS, Mai 2020 - Future of the human climate niche
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5fa3a137.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -1998,7 +2000,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-11-04'
+  updated: '2023-01-20'
 - id: 50
   text: Dans le monde, l'érosion et l'épuisement des sols réduisent les surfaces arables.
     De combien d'hectares par an ?
@@ -3042,10 +3044,11 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/actualites/environnement-pese-tout-ce-homme-pu-fabriquer-65435/
-  answer_accessible_url_text: Le poids de tout ce que l'Homme a fabriqué dépasse désormais
-    celui de tous les êtres vivants sur Terre !
+  answer_accessible_url_text: Futura Science - Le poids de tout ce que l'humain a
+    fabriqué dépasse désormais celui de tous les êtres vivants sur Terre !
   answer_scientific_url: https://journals.sagepub.com/doi/10.1177/2053019616677743
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Scale and diversity of the physical technosphere: A
+    geological perspective, Sage Journals, 2016'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000076-545a.jpg
   answer_image_explanation: ''
@@ -3056,7 +3059,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-09'
+  updated: '2023-01-20'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -11322,21 +11325,21 @@
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/3/2020/07/SROCC_SPM_fr.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Rapport à télécharger : L’océan et la cryosphère dans
+    le contexte du changement climatique - Rapport spécial du GIEC, Résumé à l’intention
+    des décideurs'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000294-7c2f.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/178.jpg
-
-
-    https://twitter.com/laydgeur/status/1176947315720040448'
+  answer_extra_info: "image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/178.jpg\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1176947315720040448"
   author: 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-11-29'
+  updated: '2023-01-20'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -22120,8 +22123,9 @@
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: https://www.nationalgeographic.fr/espace/et-si-la-plus-grande-tempete-solaire-jamais-enregistree-etait-venir
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.futura-sciences.com/sciences/definitions/astronomie-evenement-carrington-11686/
+  answer_scientific_url_text: 'Futura - Événement de Carrington : qu''est-ce que c''est
+    ?'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/088e95c2.jpg
   answer_image_explanation: Eruption solaire massive
@@ -22132,7 +22136,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-11-04'
+  updated: '2023-01-20'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -24935,10 +24939,11 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.nationalgeographic.fr/environnement/2020/09/biodiversite-68-des-populations-de-vertebres-ont-disparu-en-moins-de-50-ans
-  answer_accessible_url_text: 'BiodiversitÃ© : 68 % des populations de vertÃ©brÃ©s
-    ont disparu en moins de 50 ans | National Geographic'
+  answer_accessible_url_text: 'National Geographic, sept 2020 : Biodiversité : 68
+    % des populations de vertébrés ont disparu en moins de 50 ans'
   answer_scientific_url: https://www.wwf.fr/sites/default/files/doc-2020-09/20200910_Synthese_Rapport-Planete-Vivante-2020_WWF-min.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Rapport téléchargeable : Synthès du rapport Planete
+    Vivante-2020 WWF'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000649-9ebb.webp
   answer_image_explanation: ''
@@ -24949,7 +24954,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-06-10'
+  updated: '2023-01-20'
 - id: 650
   text: Sur les 20 plus grands incendies depuis 90 ans en Californie, combien ont
     eu lieu après l'an 2000 ?
@@ -34097,7 +34102,8 @@
   answer_accessible_url_text: 'Article Futura Science : Quelle température faisait-il
     sur Terre durant la dernière période glaciaire ?'
   answer_scientific_url: https://www.nature.com/articles/s41586-020-2617-x
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Nature, Sept 2020 - Glacial cooling and climate sensitivity
+    revisited
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000867-17ce.png
   answer_image_explanation: ''
@@ -34108,7 +34114,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-11-04'
+  updated: '2023-01-20'
 - id: 868
   text: Quel est l'impact prévu sur les rendements agricoles d'une augmentation d'un
     degré supplémentaire sur la température mondiale ?
@@ -38633,8 +38639,8 @@
   created: '2021-02-21'
   updated: '2022-11-04'
 - id: 1007
-  text: En 2009, quelle proportion des climatologues attribuaient à l'humain la cause
-    du dérèglement climatique actuel ?
+  text: En 2021, quelle proportion des scientifiques du GIEC attribue à l'humain la
+    cause du dérèglement climatique actuel ?
   hint: ''
   type: QCM
   category: 1
@@ -38646,12 +38652,12 @@
   answer_option_b: 65%
   answer_option_c: 97%
   answer_option_d: 100%
-  answer_correct: c
+  answer_correct: d
   has_ordered_answers: true
   answer_explanation: Mais ce qui est surtout intéressant de noter dans ce sondage,
-    c'est que ce chiffre tombait à 47% pour les géologues. Attention à l'ultracrépidarianisme
-    !  C'est à dire le fait de donner son avis sur des sujets pour lesquels on n'a
-    pas de compétence avérée.
+    c'est que ce chiffre tombait à 47% pour les géologues 2009. Attention à l'ultracrépidarianisme,
+    c'est à dire le fait de donner son avis sur des sujets pour lesquels on n'est
+    pas compétent. Un mal de notre époque.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.usinenouvelle.com/blogs/julien-fosse/au-parlement-le-lent-verdissement-des-esprits.N1041164
@@ -38669,7 +38675,7 @@
   validator: 2
   validation_date: '2021-03-05'
   created: '2021-02-26'
-  updated: '2022-04-16'
+  updated: '2023-01-20'
 - id: 1008
   text: Depuis quelle période l'influence humaine a-t-elle clairement fait sortir
     le climat de la Terre de sa variabilité naturelle ?
@@ -39711,11 +39717,11 @@
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1033
-  text: Sous climat tempéré, quels sols contiennent le plus de matière organique par
-    hectare ?
+  text: Sous un climat tempéré, quels sols contiennent le plus de matière organique
+    ?
   hint: ''
   type: QCM
-  category: null
+  category: 8
   tags: []
   difficulty: 3
   language: Français
@@ -39726,13 +39732,13 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: "Plus exactement, ce sont les prairies permanentes pâturées\
-    \ qui ont les plus grosses réserves de matières organiques. La raison en est triple :\r\
-    \n1) le sol n’est pas travaillé. Cela limite la dégradation de la matière organique.\r\
-    \n2) le sol reçoit quasiment toute la production de matières organiques aérienne\
-    \ via les déjections des herbivores.\r\n3) les herbes nourrissent le sol principalement\
-    \ par leurs racines, ce qui permet d’augmenter le taux de matière organique sur\
-    \ toute la profondeur du système racinaire, jusqu’à 2m de profondeur, et de former\
-    \ des sols épais, riches en matière organique."
+    \ qui ont les plus grosses réserves de matières organiques par hectare. La raison\
+    \ en est triple :\r\n1) le sol n’est pas travaillé. Cela limite la dégradation\
+    \ de la matière organique.\r\n2) le sol reçoit quasiment toute la production de\
+    \ matières organiques aérienne via les déjections des herbivores.\r\n3) les herbes\
+    \ nourrissent le sol principalement par leurs racines, ce qui permet d’augmenter\
+    \ le taux de matière organique sur toute la profondeur du système racinaire, jusqu’à\
+    \ 2m de profondeur, et de former des sols épais, riches en matière organique."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.territoires-climat.ademe.fr/actualite/etude-de-linra-stocker-du-carbone-dans-les-sols-francais-quel-potentiel-au-regard-de-lobjectif-4-pour-1000-et-a-quel-cout
@@ -39741,20 +39747,22 @@
   answer_scientific_url: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
   answer_scientific_url_text: 'Article INRAE : Stocker 4 pour 1 000 de carbone dans
     les sols : le potentiel en France'
-  answer_reading_recommendation: https://www.actes-sud.fr/catalogue/sciences-humaines-et-sociales-sciences/lorigine-du-monde
+  answer_reading_recommendation: "L'origine du monde\r\nSous-titre\r\nUne histoire\
+    \ naturelle du sol à l'intention de ceux qui le piétinent, par Marc-André SELOSSE,\
+    \ Actes Sud, 2021"
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/281c9125.png
   answer_image_explanation: Les sols de prairies d'élevage, et notamment des prairies
-    d'altitude, sont a préservés en priorité de la mise en culture pour préserver
+    d'altitude, sont a préserver en priorité de la mise en culture pour préserver
     leur stock de matière organique. Au contraire, les sols cultivés dégradés peuvent
-    être régénéré par des couverts végétaux ("engrais verts") associés avec du pâturage.
+    être régénéré par des couverts végétaux ("engrais verts") associés avec du pâturage
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-06-15'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1034
   text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
     that the current climate change is caused by human activities?
@@ -41819,8 +41827,8 @@
   answer_option_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Il y a environ :\r\n- 760 gigatonnes de carbone dans l’atmosphère\r\
-    \n- 610 gigatonnes de carbones dans le vivant\r\n- 2000 gigatonnes de carbone\
+  answer_explanation: "Il y a environ :\r\n- 760 gigatonnes de carbone dans l’atmosphère\
+    \ ;\r\n- 610 gigatonnes de carbones dans le vivant ;\r\n- 2000 gigatonnes de carbone\
     \ dans les sols.\r\nLa gestion des sols est donc un levier d’action de fort potentiel\
     \ comme puits de carbone sur le long terme."
   answer_audio_url: ''
@@ -41835,11 +41843,11 @@
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-17'
+  updated: '2023-01-19'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation.
     Notamment, des sols transformés en terres agricoles. En termes d''impact sur le
@@ -41856,22 +41864,21 @@
   answer_option_d: plus de 40%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Les émissions de CO2 due au changement d’affectation des sols
-    représente environ 1/3 des émissions totales de CO2 dues à l’action de l’Homme.
+  answer_explanation: 'Les émissions de CO2 dues au changement d’affectation des sols
+    représentent environ 1/3 des émissions totales de CO2 dues à l’action humaine.
     Ces émissions comprennent la déforestation - induite par les besoins croissants
     en champs - mais aussi la réduction du taux de matière organique des sols dégradés.
-    Avant 1900, la majeur partie des émissions de CO2 anthropiques venaient de ce
+    Avant 1900, la majeure partie des émissions de CO2 anthropiques venaient de ce
     changement d’usage des sols. Cette dégradation des sols a commencé bien avant
-    la période industrielle, et notamment les civilisations sumériennes, grecques
-    et romaines avaient déjà dégradé les terres méditerranéennes au point de les transformer
-    en les paysages peu fertiles d’aujourd’hui. La culture à grande échelle de l’olivier
-    ou de la vigne, des plantes très rustiques, sont des marqueurs de la perte de
-    fertilité de ces sols.
+    la période industrielle : les civilisations sumériennes, grecques et romaines
+    notamment avaient déjà dégradé les terres méditerranéennes. La culture à grande
+    échelle de l’olivier ou de la vigne, des plantes très rustiques, sont des marqueurs
+    de la perte de fertilité de ces sols.'
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: https://eduscol.education.fr/document/25465/download
-  answer_accessible_url_text: Concentration de CO2 atmosphérique et émissions anthropiques,
-    Eduscol, classe de terminale
+  answer_accessible_url: https://www.inrae.fr/actualites/changements-daffectation-sols-incontournables-levaluation-environnementale-agriculture-amenagement-du-territoire
+  answer_accessible_url_text: Page INRAe sur les différentes implication de changements
+    d'affectation des sols
   answer_scientific_url: https://bg.copernicus.org/articles/17/4075/2020/
   answer_scientific_url_text: Historical CO2 emissions from land use and land cover
     change and their uncertainty, Biogeosciences 2020
@@ -41881,26 +41888,25 @@
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2022-11-26'
+  updated: '2023-01-19'
 - id: 1085
-  text: La matière organique est la matière composant les êtres vivants (végétaux,
-    animaux, champignons, micro-organismes du sol), et se retrouve dans le sol à plusieurs
-    stades de décomposition. Quels sont les principales fonctions de la matière organique
-    pour les sols ?
+  text: 'La matière organique est ce dont se composent les êtres vivants : végétaux,
+    animaux, champignons, micro-organismes du sol. Elle se retrouve dans le sol à
+    plusieurs stades de décomposition. Quels sont les principales fonctions de la
+    matière organique pour les sols ?'
   hint: ''
   type: QCM-RM
   category: 7
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: Elle structure le sol et l'aère, favorisant l’implantation des
-    végétaux
-  answer_option_b: Elle augmente la réserve d’eau contenue dans le sol
-  answer_option_c: Elle nourrit la vie du sol (vers de terres, mycorhizes...)
+  answer_option_a: Elle structure et aère le sol
+  answer_option_b: Elle augmente la capacité du sol à retenir l'eau
+  answer_option_c: Elle nourrit la vie du sol
   answer_option_d: Elle régule la fourniture de nutriments aux plantes
   answer_correct: abcd
   has_ordered_answers: false
@@ -41911,37 +41917,37 @@
     matière organique sert également d’énergie à la vie du sol, et va réguler la fourniture
     d’éléments essentiels à la croissance des plantes, comme l’azote et le phosphore.
     Plus le sol contient de matière organique, plus il est fertile pour l’agriculture.
-    Enfin, il stocke du carbone, qui ne contribue ainsi pas à l'effet de serre.
+    Enfin, il stocke du carbone, réduisant ainsi l'effet de serre.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://agriculture.gouv.fr/recherche-le-gis-sol-observe-comment-les-sols-attenuent-les-effets-du-changement-climatique
   answer_accessible_url_text: Ministère de l'agriculture - comment les sols atténuent
     les effets du changement climatique
-  answer_scientific_url: https://anr.fr/fileadmin/documents/2015/ANR_Plaquette_SOLS.pdf
-  answer_scientific_url_text: Plaquette Sols, ANR, 2015
+  answer_scientific_url: https://link.springer.com/article/10.1007/s11104-020-04651-9
+  answer_scientific_url_text: Article "Eco-functionality of organic matter in soils"
+    de Hoffland et al., Plant and Soil 2020
   answer_reading_recommendation: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c97ec05e.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2022-12-22'
+  updated: '2023-01-19'
 - id: 1086
-  text: Parmi les limites planétaires évoquées par les scientifiques, on trouve le
-    cycle de l’azote  pour lequel le seuil d'alerte est largement dépassé. Quelles
-    en sont les raisons ?
+  text: Le cycle de l'azote fait partie des limites planétaires évoquées par les scientifiques,
+    et le seuil d'alerte a été largement dépassé. Pour quelles raisons ?
   hint: ''
   type: QCM-RM
   category: 3
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: les animaux d’élevage
-  answer_option_b: l’utilisation d’engrais de source fossile pour la production végétale
+  answer_option_b: l’utilisation d’engrais industriels pour la production végétale
   answer_option_c: la spécialisation des régions agricoles
   answer_option_d: la mécanisation agricole
   answer_correct: bc
@@ -41958,22 +41964,22 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Eutrophisation
-  answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_accessible_url_text: Page Wikipedia sur l'eutrophisation
+  answer_scientific_url: https://www.eea.europa.eu/data-and-maps/indicators/agriculture-nitrogen-balance-1/assessment
+  answer_scientific_url_text: Données des flux d'azote entre pays d'Europe
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/873c1eb1.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-17'
+  updated: '2023-01-19'
 - id: 1087
-  text: Les bovidés regroupent des animaux comme les vaches, les bisons ou les antilopes
+  text: Les bovidés regroupent des animaux comme les vaches, les bisons ou les antilopes.
     A quelle évolution climatique leur apparition est-elle corrélée ?
   hint: ''
   type: QCM
@@ -41984,12 +41990,12 @@
   answer_option_a: un réchauffement de 5°C
   answer_option_b: un réchauffement de 1°C
   answer_option_c: un refroidissement de 1°C
-  answer_option_d: ''
+  answer_option_d: un refroidissement de 5°C
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Les bovidés, qui sont des grands ruminants, sont apparus il\
     \ y a environ 17 millions d’années, au début de l'ère géologique de l'on appelle\
-    \ miocène. Leur extension est corrélée avec un refroidissement  de la température\
+    \ le miocène. Leur extension est corrélée avec un refroidissement  de la température\
     \ moyenne de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène,\
     \ avant que ne surviennent des cycles de glaciation - déglaciation. Une cause\
     \ avancée est le développement de sols de prairies et steppes, profonds et riches\
@@ -42016,14 +42022,14 @@
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
-    plus émetteur en gas à effet de serre ?
+    plus émetteur en gaz à effet de serre ?
   hint: ''
   type: QCM
   category: 2
@@ -42031,20 +42037,18 @@
   difficulty: 2
   language: Français
   answer_option_a: le trajet du client vers le magasin
-  answer_option_b: les engrais de synthèse
-  answer_option_c: les gros tracteurs
+  answer_option_b: l'utilisation d'engrais de synthèse
+  answer_option_c: l'utilisation des tracteurs
   answer_option_d: l'acheminement des pommes vers le magasin
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Prenons l'exemple de pommes produites et achetée dans le Limousin.\
-    \ La production et l'approvisionnement d’un kilogramme de pomme a un bilan gaz\
-    \ à effet de serre d’environ 200g CO2e. Le facteur principal d’émission est le\
-    \ « dernier kilomètre », qui est le trajet effectué pour faire ses courses. Il\
-    \ est plus long dans les zones rurales comme dans le Limousin qu'en Ile de France\
-    \ par exemple, où on trouve un tissu dense de magasins. Même si le bilan du transport\
-    \ logistique est plus élevé, le bilan total est paradoxalement plus faible que\
-    \ dans la région de production. \r\nNote: Si ce kg de pommes provient de Nouvelle\
-    \ Zélande, le transport maritime augmente énormément le bilan."
+  answer_explanation: Prenons l'exemple d'un kg de pommes produites et achetée dans
+    le Limousin. Leur production et approvisionnement a un bilan gaz à effet de serre
+    d’environ 200g CO2e. Le facteur principal d’émission est le « dernier kilomètre »,
+    qui est le trajet effectué pour faire ses courses. Il est plus long dans les zones
+    rurales comme dans le Limousin qu'en Ile de France par exemple, où on trouve un
+    tissu dense de magasins. Même si le bilan du transport logistique est plus élevé,
+    le bilan total est paradoxalement plus faible que dans la région de production.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42053,16 +42057,30 @@
   answer_scientific_url_text: 'Santé et Systémique · november 2010 : Émissions des
     chaînes logistiques d’un kilogramme de pomme vendus en supermarché'
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e71e4311.png
-  answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fe7cee56.png
+  answer_image_explanation: Bilan carbone d'un kilogramme de pomme, en fonction des
+    lieux de production et des lieux d'achat du consommateur final. On remarque notamment
+    qu'un consommateur du limousin  qui achète 1kg de pomme du limousin (cercle bleu)
+    aboutit à un bilan carbone plus élevé qu'un consommateur d'Ile de France qui achète
+    ce même kg de pomme (cercle rouge). Ce résultat contre intuitif s'explique par
+    le bilan carbone du "dernier kilomètre", celui du trajet du consommateur pour
+    aller faire les courses. En milieu ultra-rural comme majoritaire dans le Limousin,
+    un consommateur doit utiliser la voiture rejoindre un commerce distant, et ainsi
+    déplacer une tonne de métal pour ramener à la maison peut être 10kgs de nourriture.
+    En comparaison, le transport par camion de 20tonnes de pommes jusqu'à Paris est
+    bien plus efficace.
+  answer_extra_info: Dans le cadre de transport à l'international comme par exemple
+    pour des pommes produites en Nouvelle Zélande, le transport prends alors une part
+    très dominante. Même si le bateau est le moyen le plus efficace de transporter
+    du poids, la distance parcourue fait exploser le bilan carbone du kg de pomme
+    venant de l'autre bout de la planète.
   author: 59
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42197,7 +42215,7 @@
   created: '2022-12-04'
   updated: '2022-12-09'
 - id: 1092
-  text: Pour produire la même quantité de récolte, le maïs nécessite...
+  text: Pour produire une quantité donnée de végétal, le maïs nécessite...
   hint: ''
   type: QCM
   category: 1
@@ -42205,27 +42223,34 @@
   difficulty: 2
   language: Français
   answer_option_a: 3 fois plus d’eau que du blé
-  answer_option_b: la même quantité d’eau que le blé
+  answer_option_b: autant d'eau que le blé
   answer_option_c: 3 fois moins d’eau que le blé
   answer_option_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Le mécanisme de photosynthèse du maïs est différent de celui\
-    \ du blé, et est 3 fois plus efficace sur l'usage de l'eau.\r\nElle demande en\
-    \ contrepartie plus de chaleur. Globalement, le maïs consomme la même quantité\
-    \ d’eau par hectare que le blé, et produit 3 fois plus de biomasse. Ceci est très\
-    \ intéressant pour plusieurs points agri-environnementaux ! En revanche, le maïs\
-    \ a besoin de cette eau en été ; reste à savoir si le sol et les réseaux hydriques\
-    \ sont capables de fournir cette eau de manière soutenable."
+  answer_explanation: Le mécanisme de photosynthèse du maïs est différent de celui
+    du blé, et est 3 fois plus efficace sur l'usage de l'eau - mais demande en contrepartie
+    plus de chaleur. Globalement, le maïs consomme la même quantité d’eau par hectare
+    que le blé, et produit 3 fois plus de biomasse. Ceci est très intéressant pour
+    plusieurs points agri-environnementaux ! En revanche, le maïs a besoin de cette
+    eau en été. Reste à savoir si le sol et les réseaux hydriques sont capables de
+    fournir cette eau de manière soutenable.
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: http://botarela.fr/Poaceae/Famille/Photosynthese-3.html
+  answer_accessible_url: https://www.plantes-et-eau.fr/documentation/etats-et-transferts-hydriques-dans-et-a-travers-la-plante/27-l-eau-et-le-metabolisme-carbone-c3-c4-cam-efficience-de-l-eau/73-efficacite-d-utilisation-de-l-eau-par-les-plantes-en-fonction-de-leur-metabolisme-photosynthetique
+  answer_accessible_url_text: Description des différents types de photosynthèse et
+    leurs efficacité par rapport à l'usage de l'eau
   answer_scientific_url: https://www.cell.com/current-biology/fulltext/S0960-9822(07)02344-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982207023445%3Fshowall%3Dtrue
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Article "Oligocene CO2 Decline Promoted C4 Photosynthesis
+    in Grasses" decrivant l'évolution de la photosynthèse C4 dans un contexte de decroissance
+    du taux de CO2 lors de l'oligocène
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a6e0254c.png
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2e31da9f.png
+  answer_image_explanation: Ce champ de maïs fait presque 4m de hauteur, et a produit
+    environ 40 tonnes/hectare de biomasse sèche (environ 15 tonnes de grain et 25
+    tonnes de paille). Cette culture n'aura pas utilisé plus d'eau qu'un blé à haut
+    rendement, qui aura produit environ 13 tonnes/hectare (10 tonnes de grain plus
+    3 tonnes de paille).
   answer_extra_info: 'La photosynthèse de type C4 (celle du maïs) est apparue lors
     de la chute du taux de CO2 dans l''atmosphère de la période -40 à -30 millions
     d''années. Elle est apparus en premier chez les graminées, et domine souvent la
@@ -42233,33 +42258,31 @@
     prairies nord-américaines (source: James Rae)'
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-12-22'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1093
   text: Parmi ces phénomènes, lesquels constituent des causes majeures de dégradation
     des sols ?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 7
   tags: []
   difficulty: 2
   language: Français
   answer_option_a: le travail du sol, et notamment le labour
   answer_option_b: la salinisation des sols par irrigation mal contrôlée
-  answer_option_c: Le pâturage mal adapté
-  answer_option_d: les sols laissés à nu entre deux cultures
-  answer_correct: abcd
+  answer_option_c: une sécheresse prolongée
+  answer_option_d: un pâturage mal adapté
+  answer_correct: abd
   has_ordered_answers: true
-  answer_explanation: "Chacun de ces mécanismes dégrade les sols.\r\n. Le labour rends\
-    \ compacte les sols et les rends sensibles à l’érosion, tout en massacrant une\
-    \ forte partie de la faune du sol.\r\n. L’usage d’eau même très peu salée pour\
-    \ l’irrigation peut former une couche salée en surface qui rends le sol impropre\
-    \ aux plantes.\r\n. Sans couverture, les sols sont soumis à une forte érosion\
-    \ et à des températures extrêmes néfastes à la faune du sol et à la conservation\
-    \ de l’eau \r\n. Le surpâturage, c’est à dire un pâturage où les animaux broutent\
+  answer_explanation: "Les 3 causes majeurs de dégradation des sols sont:\r\n1) Le\
+    \ labour rends compacte les sols et les rends sensibles à l’érosion, tout en massacrant\
+    \ une forte partie de la faune du sol.\r\n2) L’usage d’eau même très peu salée\
+    \ pour l’irrigation peut former une couche salée en surface qui rends le sol impropre\
+    \ aux plantes.\r\n3) Le surpâturage, c’est à dire un pâturage où les animaux broutent\
     \ les herbes sur un cycle trop court pour permettre aux herbes de faire des réserves,\
     \ est une cause majeure de désertification.\r\n\r\nPasser de ces pratiques destructives\
     \ à des pratiques régénérant les sols est ce que l’on appelle l’agriculture de\
@@ -42267,9 +42290,10 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/%C3%89rosion_des_sols
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Page Wikipédia sur l'érosion des sols
   answer_scientific_url: https://www.sciencedirect.com/science/article/pii/S2211912420300584?via%3Dihub
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Article scientifique définisant l'agriculture de régénération
+    comme une agriculture inversant les phénomènes d'érosion.
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/29bc479c.jpg
   answer_image_explanation: Carte de l'état de dégradation des sols dans le monde,
@@ -42278,52 +42302,54 @@
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2022-12-22'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1094
-  text: Quelles sont les causes d'une sécheresse agricole?
+  text: Quel est le premier facteur d'une sécheresse agricole ?
   hint: ''
-  type: QCM-RM
-  category: null
+  type: QCM
+  category: 7
   tags: []
   difficulty: 1
   language: Français
-  answer_option_a: Une absence prolongée de pluviométrie
-  answer_option_b: C'est quand l'agriculteur n'arrose pas assez ses champs
-  answer_option_c: Quand le sol n'arrive plus à fournir assez d'eau aux plantes
+  answer_option_a: Une absence prolongée de pluie
+  answer_option_b: Un manque d'arrosage
+  answer_option_c: Un sol qui n'arrive plus à fournir assez d'eau aux plantes
   answer_option_d: ''
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Un sol dégradé par des pratiques agricole mal adaptées perd
-    ses capacités à stocker de l'eau (=> l’eau verte). Un sol humique bien structuré
-    peut stocker jusqu'à 20% de son volume en eau. Cela représente 2000m^3 d'eau par
-    hectare, et ainsi un sol profond d'un mètre contient quasiment assez d'eau pour
-    la réussite d'une culture de céréale, même sans aucune pluie pendant la culture.
-    Bien évidement, ce stock d'eau énorme devra être rechargé par les pluies afin
-    de permettre une prochaine culture. Si l'eau ruisselle à la surface en lieu de
-    s'imprégner (=> érosion), cela peut provoquer un état de sécheresse même dans
-    des régions pourtant bien arrosées. Les pratiques agricoles sont ainsi souvent
-    à l'origine des sécheresses qui affectent la production agricole.
+    ses capacités à stocker de l'eau - cette eau invisible qu'on appelle l’eau verte.
+    Un sol humique bien structuré peut stocker jusqu'à 20% de son volume en eau. Pour
+    un sol d'un mètre de profondeur, cela représente 2000m^3 d'eau par hectare. Ceci
+    représente quasiment assez d'eau pour la réussite d'une culture de céréale, même
+    sans aucune pluie pendant la saison de culture. Bien évidement, ce stock d'eau
+    énorme devra être rechargé par les pluies afin de permettre une prochaine culture.
+    Si l'eau ruisselle à la surface en lieu de s'imprégner (érosion), cela peut provoquer
+    un état de sécheresse même dans des régions pourtant bien arrosées. Les pratiques
+    agricoles sont ainsi souvent à l'origine des sécheresses qui affectent la production
+    agricole.
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: https://dordogne.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/099_Inst-Dordogne/Documents/Agronomie-Agroecologie/Agreau_LaDemarche.pdf
-  answer_accessible_url_text: ''
-  answer_scientific_url: https://esdac.jrc.ec.europa.eu/projects/SOCO/FactSheets/EN%20Fact%20Sheet.pdf
-  answer_scientific_url_text: ''
+  answer_accessible_url: https://www.ouest-france.fr/economie/agriculture/agriculture-les-sols-reservoirs-prioritaires-pour-stocker-l-eau-fa1e82e2-3a76-11ed-b21b-a9a4fa94aa00
+  answer_accessible_url_text: Article "Agriculture. Les sols, réservoirs prioritaires
+    pour stocker l’eau"  publié dans Ouest France
+  answer_scientific_url: https://www.fao.org/3/r4082e/r4082e03.htm
+  answer_scientific_url_text: Page FAO sur la réserve hydrique des sols agricoles
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/49a97f3e.gif
   answer_image_explanation: Le cycle de l'eau verte (www.coursgeologie.com)
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-20'
   created: '2022-12-22'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1095
   text: La ville de Glastonbury héberge un grand festival de musique. Quel est en
     l'impact le plus préoccupant sur la biodiversité ?
@@ -42683,7 +42709,7 @@
   created: '2022-12-28'
   updated: '2022-12-28'
 - id: 1103
-  text: 'L''empreinte carbone moyenne d''un dj en tournée est :'
+  text: 'L''empreinte carbone moyenne d''un DJ en tournée est :'
   hint: Last night a dj took a flight
   type: QCM
   category: 1
@@ -42725,7 +42751,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2022-12-29'
+  updated: '2023-01-19'
 - id: 1104
   text: Dans une Scène Nationale en France, un spectacle est joué en moyenne...
   hint: Obsolescence programmée
@@ -42765,10 +42791,10 @@
   created: '2022-12-28'
   updated: '2022-12-29'
 - id: 1105
-  text: Les prairies peuvent devenir un puits de carbone important
+  text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
   type: VF
-  category: null
+  category: 1
   tags: []
   difficulty: 2
   language: Français
@@ -42778,29 +42804,32 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: La mise en culture et le surpâturage d’une prairie provoque
-    la dégradation du sol. Les deux causes effectives sont le travail mécanique du
-    sol et la réduction des apports de matière organique, ce qui accélère les processus
-    d’érosion. Le niveau de dégradation dépends de l’intensité des pratiques agricoles
-    et de la fragilité intrinsèque des sols. Si le taux de matière organique descend
-    en dessous de 1 %, un sol devient impropre à l’agriculture. Cela est le cas de
-    beaucoup de sols dans le monde, et ce n’est pas un phénomène nouveau car cela
-    a accompagné le déclin de nombreuses civilisation comme dans le croissant fertile,
-    berceau de l’agriculture. Cela n’est pas irréversible, et la restauration d’écosystèmes
-    de prairie avec un usage agricole raisonné (ex. pâturage adapté) permet d’augmenter
-    le capital de carbone d’une prairie de 0.5 à 1 tonne par an et par hectare. A
-    l’échelle de la planète, cela aurait le potentiel de stocker entre 8 et 25 % des
-    émission des CO2 de l’année 2021 (36GTeqCO2). Il est a noter que le levier principale
-    serait la restauration de la biodiversité végétale des prairies, ce qui indique
-    bien que climat et biodiversité sont intimement liés. Mais attention, cela ne
-    compense en aucun cas les émissions liées aux énergies fossiles, cela ne fait
-    que compenser les émissions liées aux dégradations passées des sols.
+  answer_explanation: "La mise en culture et le surpâturage d’une prairie provoque\
+    \ la dégradation du sol. Deux raisons à cela : le travail mécanique du sol et\
+    \ la réduction des apports de matière organique. Cela accélère les processus d’érosion.\
+    \ Cette dégradation dépend de l’intensité des pratiques agricoles, mais également\
+    \ de la fragilité innée du sol en question. Quand le taux de matière organique\
+    \ descend en dessous de 1 %, un sol devient impropre à l’agriculture, ce qui est\
+    \ le cas de beaucoup de sols dans le monde. Ce n’est pas un phénomène nouveau\
+    \ car cela a accompagné le déclin de nombreuses civilisations, comme le Croissant\
+    \ Fertile au Proche Orient, berceau de l’agriculture.\r\nCe processus n'est pourtant\
+    \ pas irréversible. La restauration d’écosystèmes de prairie avec un usage agricole\
+    \ raisonné, tel qu'un pâturage adapté, permet d’augmenter le capital de carbone\
+    \ d’une prairie de 0.5 à 1 tonne par an et par hectare. A l’échelle de la planète,\
+    \ cela aurait le potentiel de stocker entre 8 et 25 % des émission des CO2 de\
+    \ l’année 2021 (36 gigatonnes de CO2e). Il est à noter que le levier principal\
+    \ serait la restauration de la biodiversité végétale des prairies, ce qui indique\
+    \ bien que climat et biodiversité sont intimement liés. Mais attention, cela ne\
+    \ compense en aucun cas les émissions liées aux énergies fossiles, cela ne fait\
+    \ que compenser les émissions liées aux dégradations passées des sols."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.encyclopediapratensis.eu/product/guide-paturage/des-prairies-pour-stocker-du-carbone/
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Des prairies pour stocker du carbone (Encyclopedie européenne
+    des prairies)
   answer_scientific_url: https://www.science.org/doi/10.1126/science.abo2380
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Article de la revue Science "Grassland soil carbon
+    sequestration: Current understanding, challenges, and solutions"'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a966b071.jpeg
   answer_image_explanation: La teneur en carbone d’un sol de prairie mise en culture
@@ -42812,24 +42841,23 @@
     l’effet des exsudats racinaires des plantes (le carbone « liquide ») sur la construction
     des sols. Le taux de captation de carbone des prairies est donc sous-estimé, et
     possiblement largement sous-estimé comme le montre des études sur prairies monospécifique
-    de luzerne et miscanthus où des taux de 3-4 tonnes de carbone par hectare et par
-    année sont stockés par ces prairies, soit jusqu’à plusieurs fois supérieurs au
-    résultats trouvés actuellement par simulation où seul les matières carbonées « solides »
-    sont prises en compte. Ce stockage ne sera pas infini et saturera sans doute à
-    un certain équilibre dépendant du contexte sol-climat.'
+    de luzerne et de miscanthus.  Des taux de 3-4 tonnes de carbone par hectare et
+    par année sont stockés par ces prairies, soit des taux plusieurs fois supérieurs
+    au résultats trouvés actuellement par simulation où seul les matières carbonées
+    « solides » sont prises en compte. Ce stockage ne sera pas infini et saturera
+    certainement à un certain équilibre dépendant du contexte sol-climat.'
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2023-01-16'
-  updated: '2023-01-17'
+  updated: '2023-01-20'
 - id: 1106
-  text: La forêt est l’écosystème qui constitue le plus sûr moyen de retirer le CO2
-    de l’atmosphère
+  text: Vrai ou faux ? L'afforestation est le moyen le plus sûr de stocker du carbone
   hint: ''
   type: QCM
-  category: null
+  category: 1
   tags: []
   difficulty: 1
   language: Français
@@ -42850,15 +42878,17 @@
     tout ceci est à étudier en fonction du contexte. Ainsi, des études ont montré
     que dans le contexte climatique Californien, l’écosystème de prairie est une réserve
     carbone bien plus stable que la forêt, et au final un puits de carbone plus conséquent
-    sur le long terme. Ce raisonnement n’est pas valable sous climat équatorial !
-    En effet, l'humidité constante associée à une température élevée rend impossible
-    la formation de sol humifères profond, et les feux sont rendus moins probables.
+    sur le long terme. Mais attention, ce raisonnement n’est pas valable sous climat
+    équatorial ! En effet, l'humidité constante associée à une température élevée
+    rend impossible la formation de sol humifères profond, et les feux sont rendus
+    moins probables.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/aacb39/pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/aacb39/meta
+  answer_scientific_url_text: Grasslands may be more reliable carbon sinks than forests
+    in California, Environmental Reseach Letters, 2018
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f22b317.jpeg
   answer_image_explanation: Si l'on additionne le carbone contenue dans la biomasse
@@ -42869,8 +42899,8 @@
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-19'
   created: '2023-01-16'
-  updated: '2023-01-17'
+  updated: '2023-01-19'
