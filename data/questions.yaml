@@ -39717,7 +39717,7 @@
   created: '2022-06-08'
   updated: '2022-11-04'
 - id: 1033
-  text: Sous un climat tempéré, quels sols contiennent le plus de matière organique
+  text: Sous un climat tempéré, quels sont les sols les plus riches en matière organique
     ?
   hint: ''
   type: QCM
@@ -39762,7 +39762,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-06-15'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1034
   text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
     that the current climate change is caused by human activities?
@@ -41813,7 +41813,7 @@
   created: '2022-11-17'
   updated: '2022-11-18'
 - id: 1083
-  text: Parlons stockage du carbone. Il y a dans les sols...
+  text: Parlons stockage du carbone. Les sols contiennent au total...
   hint: ''
   type: QCM
   category: 1
@@ -41847,18 +41847,18 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-19'
+  updated: '2023-01-21'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation.
     Notamment, des sols transformés en terres agricoles. En termes d''impact sur le
-    climat, cette transformation représente :'
+    climat, cette transformation représente en cumulé :'
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: moins de 10 % des émissions de CO2 anthropiques
+  answer_option_a: moins de 10 % des émissions de CO2 humaines
   answer_option_b: entre 10 et 25 %
   answer_option_c: entre 25 et 40 %
   answer_option_d: plus de 40%
@@ -41892,12 +41892,10 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-19'
+  updated: '2023-01-21'
 - id: 1085
-  text: 'La matière organique est ce dont se composent les êtres vivants : végétaux,
-    animaux, champignons, micro-organismes du sol. Elle se retrouve dans le sol à
-    plusieurs stades de décomposition. Quels sont les principales fonctions de la
-    matière organique pour les sols ?'
+  text: Quelles sont les principales fonctions de la matière organique pour les sols
+    ?
   hint: ''
   type: QCM-RM
   category: 7
@@ -41927,7 +41925,7 @@
   answer_scientific_url_text: Article "Eco-functionality of organic matter in soils"
     de Hoffland et al., Plant and Soil 2020
   answer_reading_recommendation: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c97ec05e.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/42f9898d.jpg
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 59
@@ -41936,7 +41934,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-19'
+  updated: '2023-01-21'
 - id: 1086
   text: Le cycle de l'azote fait partie des limites planétaires évoquées par les scientifiques,
     et le seuil d'alerte a été largement dépassé. Pour quelles raisons ?
@@ -42059,16 +42057,16 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fe7cee56.png
   answer_image_explanation: Bilan carbone d'un kilogramme de pomme, en fonction des
-    lieux de production et des lieux d'achat du consommateur final. On remarque notamment
-    qu'un consommateur du limousin  qui achète 1kg de pomme du limousin (cercle bleu)
-    aboutit à un bilan carbone plus élevé qu'un consommateur d'Ile de France qui achète
-    ce même kg de pomme (cercle rouge). Ce résultat contre intuitif s'explique par
-    le bilan carbone du "dernier kilomètre", celui du trajet du consommateur pour
-    aller faire les courses. En milieu ultra-rural comme majoritaire dans le Limousin,
-    un consommateur doit utiliser la voiture rejoindre un commerce distant, et ainsi
-    déplacer une tonne de métal pour ramener à la maison peut être 10kgs de nourriture.
-    En comparaison, le transport par camion de 20tonnes de pommes jusqu'à Paris est
-    bien plus efficace.
+    lieux de production et des lieux d'achat du consommateur final. N.Z = Nouvelle-Zélande.
+    On remarque notamment qu'un consommateur du limousin  qui achète 1kg de pomme
+    du limousin (cercle bleu) aboutit à un bilan carbone plus élevé qu'un consommateur
+    d'Ile de France qui achète ce même kg de pomme (cercle rouge). Ce résultat contre
+    intuitif s'explique par le bilan carbone du "dernier kilomètre", celui du trajet
+    du consommateur pour aller faire les courses. En milieu ultra-rural comme majoritaire
+    dans le Limousin, un consommateur doit utiliser la voiture rejoindre un commerce
+    distant, et ainsi déplacer une tonne de métal pour ramener à la maison peut être
+    10kgs de nourriture. En comparaison, le transport par camion de 20tonnes de pommes
+    jusqu'à Paris est bien plus efficace.
   answer_extra_info: Dans le cadre de transport à l'international comme par exemple
     pour des pommes produites en Nouvelle Zélande, le transport prends alors une part
     très dominante. Même si le bateau est le moyen le plus efficace de transporter
@@ -42080,7 +42078,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42308,7 +42306,7 @@
   created: '2022-12-22'
   updated: '2023-01-20'
 - id: 1094
-  text: Quel est le premier facteur d'une sécheresse agricole ?
+  text: Comment définit-on une sécheresse agricole ?
   hint: ''
   type: QCM
   category: 7
@@ -42349,7 +42347,7 @@
   validator: 2
   validation_date: '2023-01-20'
   created: '2022-12-22'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1095
   text: La ville de Glastonbury héberge un grand festival de musique. En termes de
     biodiversité, quel en est l'impact le plus difficile à traiter ?
@@ -42386,8 +42384,9 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/77c075ea.JPG
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42395,11 +42394,11 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1096
   text: Quelle quantité de matière requiert la fabrication des décors de l'Opéra Bastille
     à Paris ?
-  hint: Quand on aime, on ne compte pas
+  hint: Living in a material world
   type: QCM-RM
   category: 7
   tags: []
@@ -42409,19 +42408,28 @@
   answer_option_b: En cumulé depuis 30 ans, l'équivalent d'environ 1500 conteneurs
     de déchets
   answer_option_c: Sur une année, environ 120 tonnes de matière
-  answer_option_d: ''
-  answer_correct: abc
+  answer_option_d: Cela dépend des choix artistiques et du travail éventuel d'éco-conception
+  answer_correct: abcd
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: L'ensemble des réponses sont exactes ! Actuellement, les décors
+    de l'opéra sont souvent fait à partir de matière neuve. On estime en moyenne qu'il
+    correspond à cinq à sept camions poids-lourds en moyenne, pour des décors dont
+    la durée de vie reste faible (de trois semaines à quelques mois au mieux), ce
+    qui représente en moyenne 120 tonnes de matière par an. Ces déchets s'accumulent
+    et correspondent aujourd'hui à 1500 conteneurs de déchets, dont certains sont
+    stockés dans des docks dédiés. Cette quantité de matière utilisée est directement
+    dépendante des choix artistiques et d'éventuels processus d'éco-conception qui
+    commencent à se développer dans les milieux de l'opéra !
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.librairieforumdulivre.fr/ebook/9782364851399/biopera-un-futur-pour-lopera--sebastien-gueze-symetrie
+  answer_accessible_url_text: L'ouvrage de référence en matière d'opéra
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/64577ffd.JPG
+  answer_image_explanation: Cette illustration libre de droits a été réalisée via
+    le logiciel Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42429,7 +42437,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1097
   text: Quelle est la principale cause d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
@@ -42468,8 +42476,9 @@
   answer_scientific_url_text: '« Décarbonons la Culture ! » : le rapport du Shift
     Project, 2021'
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fbdb9d15.JPG
+  answer_image_explanation: Cette illustration libre de droits a été réalisée par
+    le logiciel Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42477,7 +42486,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1098
   text: Vrai ou faux ? La conservation des grandes œuvres de l'humanité a un impact
     environnemental négligeable.
@@ -42501,17 +42510,19 @@
     problématiques, qu''il s''agisse de matière naturelle telles que l''ivoire (actuellement
     prélevée sur les stocks de contrebande saisis par les douanes) ou des technologies
     obsolètes (lampe à incandescence par exemple). L''entretien et la préservation
-    des grandes œuvres de l''humanité est donc un défi technique et énergétique à
-    l''ère des limites planétaires.'
+    des grandes œuvres de l''humanité est donc un défi technique et énergétique majeur
+    à l''ère des limites planétaires.'
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.culture.gouv.fr/Thematiques/Musees/Pour-les-professionnels/Conserver-et-gerer-les-collections/Gerer-les-collections/Conserver-les-collections-des-musees-de-France
+  answer_accessible_url_text: Les enjeux de la conservation des œuvres expliqués par
+    le Ministère de la Culture
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dfc9b934.JPG
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42519,7 +42530,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
@@ -42553,10 +42564,10 @@
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://whc.unesco.org/fr/changementclimatique/
+  answer_scientific_url_text: Les études de l'UNESCO sur le changement climatique
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d782733b.JPG
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 67
@@ -42565,7 +42576,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
     de mettre à disposition les films pour enfant en streaming plutôt qu'en téléchargement,
@@ -42604,7 +42615,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5652748a.JPG
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 67
@@ -42613,7 +42624,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
@@ -42640,17 +42651,16 @@
     ce qu'on appelle l'économie de la fonctionnalité, Le Shift Project estime que
     l'impact carbone d'un ouvrage prêté en bibliothèque est quatre fois moindre que
     vendu en librairie. L'impact comparatif de la vente d'ouvrages en ligne n'a pas
-    été estimé. Pour ce qui est d'un e-book, l'impact carbone n'est inférieur que
-    si on oublie de prendre en compte l'impact environnemental de la production de
-    la liseuse. Et bien sûr, il ne faut pas l'oublier !
+    été estimé.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://theshiftproject.org/article/decarboner-culture-rapport-2021/
+  answer_scientific_url_text: Le rapport du Shift Project "décarbonons la culture"
+    paru en 2021
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/485cc1ee.JPG
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 67
@@ -42659,7 +42669,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1102
   text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
     plusieurs orchestres à des milliers de kilomètres de distance'
@@ -42679,25 +42689,19 @@
     et vivent d'ailleurs souvent très loin du lieu principal des répétitions, ce qui
     les force à prendre l'avion régulièrement. C’est le cas du chef vénézuélien Gustavo
     Dudamel, qui cumule les fonctions de directeur musical de l’Opéra de Paris et
-    de directeur artistique de l’Orchestre Philharmonique de Los Angeles. Gustavo
-    Gimeno, à la fois engagé à l’Orchestre philharmonique du Luxembourg et à l’Orchestre
-    symphonique de Toronto multiplie les allers-retours entre l’Europe et le Canada.
-    Klaus Mäkelä, chef d’orchestre principal de l’Orchestre philharmonique d’Oslo
-    est aussi directeur musical de l’Orchestre de Paris et de l'Orchestre royal du
-    Concertgebouw d’Amsterdam. Même hypermobilité pour son compatriote Esa-Pekka Salonen
-    avec un bilan global de 8,6 tonnes pour ses seuls déplacements professionnels
-    connus. Marin Alsop est engagée à l’Orchestre symphonique de l’État de São Paulo
-    et cheffe d’orchestre en chef de l’Orchestre symphonique de la radio de Vienne.
-    Existerait-il un droit inaliénable des grands artistes à émettre des quantités
-    déraisonnables de gaz à effet de serre, au nom de la grande musique ?
+    de directeur artistique de l’Orchestre Philharmonique de Los Angeles et c'est
+    pratiquement la règle pour toutes les grandes têtes d'affiche. Difficile de demander
+    ensuite aux musiciens et aux équipes de faire leur juste part et de venir aux
+    représentations en train ou à vélo, par exemple !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.radiofrance.fr/francemusique/podcasts/reportage/co2-enquete-sur-les-trajets-pas-tres-ecolo-des-chefs-d-orchestre-3365073
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Les trajets peu écolos des chefs d'orchestre vus par
+    France Musique
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ab197ec5.JPG
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 67
@@ -42706,7 +42710,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1103
   text: 'L''empreinte carbone moyenne d''un DJ en tournée est :'
   hint: Last night a dj took a flight
@@ -42736,12 +42740,13 @@
     les plus reconnus qui sont majoritairement responsables de cette empreinte "moyenne".
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://electro-news.eu/etude-100-djs-co2-foyers-un-an-2021/
+  answer_accessible_url_text: Un article de presse qui parle de l'étude de Clean Scene
+    "last night a dj took a flight"
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6b02b3b5.JPG
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 67
@@ -42750,9 +42755,9 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1104
-  text: Dans les 77 Scènes Nationales en France - un label accordé au théâtre public
+  text: Dans les 77 Scènes Nationales en France - un label accordé aux théâtres publics
     français - un spectacle est joué en moyenne...
   hint: Obsolescence programmée
   type: QCM
@@ -42780,7 +42785,7 @@
   answer_scientific_url_text: 'Rapport de la Cour des Comptes : Soutien de l''Etat
     au spectacle vivant, 2022'
   answer_reading_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1e5a7ab2.JPG
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 67
@@ -42789,7 +42794,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-20'
+  updated: '2023-01-21'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
@@ -42874,14 +42879,12 @@
     même en France, sous un climat pourtant relativement humide. La moitié du stock
     de carbone part alors en fumée et met des décennies à se reconstituer. Au contraire,
     un feu de brousse ne brûle qu’une petite quantité du carbone de la prairie, qui
-    se reconstituera aux prochaines pluies. Comme souvent avec des systèmes complexes,
-    tout ceci est à étudier en fonction du contexte. Ainsi, des études ont montré
-    que dans le contexte climatique Californien, l’écosystème de prairie est une réserve
-    carbone bien plus stable que la forêt, et au final un puits de carbone plus conséquent
-    sur le long terme. Mais attention, ce raisonnement n’est pas valable sous climat
-    équatorial ! En effet, l'humidité constante associée à une température élevée
-    rend impossible la formation de sol humifères profond, et les feux sont rendus
-    moins probables.
+    se reconstituera aux prochaines pluies. Tout ceci est à étudier en fonction du
+    contexte. Dans le contexte climatique californien par exemple, l’écosystème de
+    prairie est une réserve carbone bien plus stable que la forêt, et ainsi un puits
+    de carbone plus important sur le long terme. Mais sous un climat équatorial, l'humidité
+    constante associée à une température élevée rend impossible la formation de sol
+    humifères profond, et les feux sont rendus moins probables.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42891,11 +42894,12 @@
     in California, Environmental Reseach Letters, 2018
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f22b317.jpeg
-  answer_image_explanation: Si l'on additionne le carbone contenue dans la biomasse
-    (demi-cercle vert clair) au carbone contenu dans le sol (demi-cercle vert foncé),
-    les écosystèmes de prairies tempérés (« Grasslands ») contiennent autant de carbone
-    par unité de surface que les forêts tropicales ("tropical forest"), et même un
-    peu plus que les forêts tempérées ("temperate forest").
+  answer_image_explanation: Ce schéma donne les quantités de carbone contenues dans
+    la biomasse d'une part - demi-cercle vert clair supérieur - et dans le sol d'autre
+    part - demi-cercle vert foncé inférieur. Les écosystèmes de prairies tempérés
+    (« Grasslands ») contiennent autant de carbone par unité de surface que les forêts
+    tropicales ("tropical forest"), et même un peu plus que les forêts tempérées ("temperate
+    forest").
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
@@ -42903,4 +42907,4 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2023-01-16'
-  updated: '2023-01-19'
+  updated: '2023-01-21'

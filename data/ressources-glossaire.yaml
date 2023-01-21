@@ -140,12 +140,12 @@
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Anthropique
-  name_alternatives: ''
+  name_alternatives: anthropiques
   definition_short: Dû à l'activité humaine
   description: ''
   description_accessible_url: ''
   created: '2020-12-13'
-  updated: '2020-12-13'
+  updated: '2023-01-21'
 - name: Arable
   name_alternatives: ''
   definition_short: Qui peut être labouré
@@ -392,3 +392,19 @@
   description_accessible_url: ''
   created: '2023-01-20'
   updated: '2023-01-20'
+- name: matière organique
+  name_alternatives: ''
+  definition_short: Les organismes vivants, les résidus de végétaux et d’animaux et
+    de produits en décomposition dans le sol
+  description: végétaux, animaux, champignons, micro-organismes du sol...
+  description_accessible_url: ''
+  created: '2023-01-21'
+  updated: '2023-01-21'
+- name: puits de carbone
+  name_alternatives: ''
+  definition_short: système (forêt, océan, etc.) qui absorbe naturellement une partie
+    du CO2 émis.
+  description: ''
+  description_accessible_url: ''
+  created: '2023-01-21'
+  updated: '2023-01-21'
