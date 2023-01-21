@@ -38639,7 +38639,7 @@
   created: '2021-02-21'
   updated: '2022-11-04'
 - id: 1007
-  text: En 2021, quelle proportion des scientifiques du GIEC attribue à l'humain la
+  text: En 2022, quelle proportion des scientifiques du GIEC attribue à l'humain la
     cause du dérèglement climatique actuel ?
   hint: ''
   type: QCM
@@ -42351,8 +42351,8 @@
   created: '2022-12-22'
   updated: '2023-01-20'
 - id: 1095
-  text: La ville de Glastonbury héberge un grand festival de musique. Quel est en
-    l'impact le plus préoccupant sur la biodiversité ?
+  text: La ville de Glastonbury héberge un grand festival de musique. En termes de
+    biodiversité, quel en est l'impact le plus difficile à traiter ?
   hint: Fumer fait tousser
   type: QCM
   category: 4
@@ -42365,7 +42365,7 @@
     dispersés dans la nature
   answer_option_c: Les ondes électro-magnétiques des amplis et des antennes relais
     perturbent le vivant
-  answer_option_d: Les festivaliers se droguent et font pipi n'importe où
+  answer_option_d: Les festivaliers se droguent puis font pipi n'importe où
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Le festival a mis en place depuis de nombreuses années des mesures
@@ -42381,7 +42381,8 @@
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.francetvinfo.fr/culture/musique/au-festival-de-glastonbury-la-drogue-contenue-dans-l-urine-des-festivaliers-menace-les-anguilles_4787219.html
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'Franceinfo Culture, 2021 : Au festival de Glastonbury,
+    la drogue contenue dans l''urine des festivaliers menace les anguilles'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -42394,12 +42395,12 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1096
-  text: Quelle quantité de matière est utilisée pour la fabrication des décors de
-    l'Opéra Bastille à Paris ?
+  text: Quelle quantité de matière requiert la fabrication des décors de l'Opéra Bastille
+    à Paris ?
   hint: Quand on aime, on ne compte pas
-  type: QCM
+  type: QCM-RM
   category: 7
   tags: []
   difficulty: 1
@@ -42407,7 +42408,7 @@
   answer_option_a: Pour un décor neuf, l'équivalent de cinq à sept camions poids-lourds
   answer_option_b: En cumulé depuis 30 ans, l'équivalent d'environ 1500 conteneurs
     de déchets
-  answer_option_c: Environ 120 tonnes de matière chaque année
+  answer_option_c: Sur une année, environ 120 tonnes de matière
   answer_option_d: ''
   answer_correct: abc
   has_ordered_answers: true
@@ -42428,7 +42429,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1097
   text: Quelle est la principale cause d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
@@ -42452,21 +42453,20 @@
     Très importante source de revenus pour les salles de cinéma, les boissons et confiseries
     ont un impact carbone inférieurs à 2,5% mais posent de grands enjeux en matière
     de santé publique et d'approvisionnements en circuit-court ou respectueux de l'environnement.
-    Mieux manger au cinéma reste un enjeu environnemental fort. Les impacts du modèle
-    soda/pop-corn en matière de pollutions restent à évaluer. Enfin, la production
-    et le tournage des films, bien que parfois spectaculaire en matière d'impacts
-    est mutualisée à l'échelle des salles de cinéma qui les diffusent. Quand des voitures
-    neuves sont détruites à hauteur de 30 millions d'euros sont détruites pour produire
-    l'avant-dernier James Bond, sa très large diffusion induit une quote-part d'impact
-    très faible à l'échelle d'une salle. Une piste face à ces impacts consisterait
-    à rendre obligatoire l'évaluation du poids carbone des films, comme le propose
-    le plan Action ! du Centre National du Cinéma.
+    Enfin, la production et le tournage des films, bien que parfois spectaculaire
+    en matière d'impacts est mutualisée à l'échelle des salles de cinéma qui les diffusent.
+    Quand des voitures neuves sont détruites à hauteur de 30 millions d'euros sont
+    détruites pour produire l'avant-dernier James Bond, sa très large diffusion induit
+    une quote-part d'impact très faible à l'échelle d'une salle. Une piste face à
+    ces impacts consisterait à rendre obligatoire l'évaluation du poids carbone des
+    films, comme le propose le plan Action ! du Centre National du Cinéma.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://theshiftproject.org/article/decarboner-culture-rapport-2021/
+  answer_scientific_url_text: '« Décarbonons la Culture ! » : le rapport du Shift
+    Project, 2021'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -42477,10 +42477,10 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1098
   text: Vrai ou faux ? La conservation des grandes œuvres de l'humanité a un impact
-    environnemental significatif.
+    environnemental négligeable.
   hint: Les Tournesols, de Vincent Van Gogh, ne vivent pas de soupe et d'eau fraîche
   type: VF
   category: 5
@@ -42491,7 +42491,7 @@
   answer_option_b: Faux
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: a
+  answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'Pour garantir la bonne préservation des œuvres, les règles
     de conservation des grandes œuvres de l''humanité sont drastiques : la température
@@ -42519,7 +42519,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
@@ -42542,12 +42542,11 @@
     pour l'UNESCO, ce sont les conséquences environnementales qui posent aujourd'hui
     les plus grands défis en matière de préservation. Ainsi, la mosquée Djinguereber,
     sur le site classé de Tombouctou est davantage menacée par l'avancée du désert
-    que par les luttes armées qui l'entourent ; les forts et châteaux de Volta et
-    d'Accra au Ghana sont menacés par la montée des océans ; les grandes inondations
-    de 2022 ont endommagé les ruines archéologiques de Mohenjo Daro et le site historique
-    de Makli au Pakistan. En France, l'inventaire des risques n'est pas fait, ni en
-    matière de recul du trait de côte, ni de risques nouveaux (incendies, inondations),
-    ni de retrait/gonflement des sols argileux. A l'instar des glaciers ou de la Grande
+    que par les luttes armées qui l'entourent ; les grandes inondations de 2022 ont
+    endommagé les ruines archéologiques de Mohenjo Daro et le site historique de Makli
+    au Pakistan. En France, l'inventaire des risques n'est pas fait, ni en matière
+    de recul du trait de côte, ni de risques nouveaux (incendies, inondations), ni
+    de retrait/gonflement des sols argileux. A l'instar des glaciers ou de la Grande
     barrière de corail, de nombreux sites naturels classés au patrimoine de l'humanité
     sont aujourd'hui en danger de mort ou condamnés.
   answer_audio_url: ''
@@ -42566,7 +42565,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
     de mettre à disposition les films pour enfant en streaming plutôt qu'en téléchargement,
@@ -42588,15 +42587,16 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: 'Aucune différence en matière de droits d''auteur ou de durée,
-    les films sont aujourd''hui entièrement diffusés sur des supports numérisés. Il
-    n''y a donc pas de différences entre courts métrages adultes et courts métrages
-    enfants. En revanche, les enfants ne regardent pas du tout les films comme les
-    adultes : ils aiment regarder leur film préféré en boucle, alors que les adultes
-    ne les visionnent qu''une fois. Pour ces derniers, il est plus avantageux en matière
-    d''émissions de les proposer en streaming pour ne générer qu''un seul et unique
-    flux. Alors que our les films pour enfant, il vaut mieux proposer l''inverse :
-    un seul et unique téléchargement puis la possibilité de revisionner inlassablement
-    le film en local jusqu''à l''heure du dodo!'
+    et peu de différence d''impact CO2. Les films sont aujourd''hui entièrement diffusés
+    sur des supports numérisés. Il n''y a donc pas de différences entre courts métrages
+    adultes et courts métrages enfants. En revanche, les enfants ne regardent pas
+    du tout les films comme les adultes : ils aiment regarder leur film préféré en
+    boucle, alors que les adultes ne les visionnent qu''une fois. Pour ces derniers,
+    il est plus avantageux en matière d''émissions de les proposer en streaming pour
+    ne générer qu''un seul et unique flux. Alors que pour les films pour enfant, du
+    point de vue environnemental, il vaut mieux proposer l''inverse : un seul et unique
+    téléchargement puis la possibilité de revisionner inlassablement le film en local
+    jusqu''à l''heure du dodo !'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42613,7 +42613,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
@@ -42659,7 +42659,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1102
   text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
     plusieurs orchestres à des milliers de kilomètres de distance'
@@ -42689,8 +42689,7 @@
     connus. Marin Alsop est engagée à l’Orchestre symphonique de l’État de São Paulo
     et cheffe d’orchestre en chef de l’Orchestre symphonique de la radio de Vienne.
     Existerait-il un droit inaliénable des grands artistes à émettre des quantités
-    déraisonnables de gaz à effet de serre, au nom de la grande musique ? Nous ne
-    le pensons pas !
+    déraisonnables de gaz à effet de serre, au nom de la grande musique ?
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.radiofrance.fr/francemusique/podcasts/reportage/co2-enquete-sur-les-trajets-pas-tres-ecolo-des-chefs-d-orchestre-3365073
@@ -42707,7 +42706,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2022-12-28'
+  updated: '2023-01-20'
 - id: 1103
   text: 'L''empreinte carbone moyenne d''un DJ en tournée est :'
   hint: Last night a dj took a flight
@@ -42727,7 +42726,7 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Selon l'étude réalisée par Clean Scene intitulée "last night
-    a dj took a flight", l'empreinte carbone moyenne des Djs de métier en tournée
+    a DJ took a flight", l'empreinte carbone moyenne des Djs de métier en tournée
     est environ 17 fois supérieure à l'empreinte carbone moyenne recommandée par l'Accord
     de Paris. Cette moyenne cache de fortes disparités. Les Djs stars ayant une empreinte
     carbone beaucoup plus importante,  certaines réalisant même parfois des sets le
@@ -42751,9 +42750,10 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-19'
+  updated: '2023-01-20'
 - id: 1104
-  text: Dans une Scène Nationale en France, un spectacle est joué en moyenne...
+  text: Dans les 77 Scènes Nationales en France - un label accordé au théâtre public
+    français - un spectacle est joué en moyenne...
   hint: Obsolescence programmée
   type: QCM
   category: 2
@@ -42766,19 +42766,19 @@
   answer_option_d: plus de 7 fois
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Les spectacles programmés en France dans les Scènes Nationales
-    font très peu l'objet de séries. Ils sont joués en moyenne 2,3 fois. Soit, selon
-    le rapport de la cour des comptes de 2022, 4259 spectacles différents proposés
-    pour 9821 représentations. Cela induit une grande mobilité des équipes et une
-    grande fragilité des propositions artistiques, qui tournent globalement très peu
-    après avoir été produites. La création culturelle est victime d'une très grande
-    et très rapide obsolescence des productions.
+  answer_explanation: Selon un rapport de la Cour des Comptes, 4,259 spectacles ont
+    donné lieu à un total de 9,821 représentations. Soit une moyenne de 2,3 représentations
+    par spectacle. Peu de spectacles donne lieu à des séries. Cela induit une grande
+    mobilité des équipes et une grande fragilité des propositions artistiques, qui
+    tournent globalement très peu après avoir été produites. La création culturelle
+    est victime d'une très grande et très rapide obsolescence des productions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://www.ccomptes.fr/system/files/2022-07/20220530-rapport-soutien-Etat-spectacle-vivant.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Rapport de la Cour des Comptes : Soutien de l''Etat
+    au spectacle vivant, 2022'
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
@@ -42789,7 +42789,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2022-12-29'
+  updated: '2023-01-20'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''

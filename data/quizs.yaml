@@ -1769,7 +1769,7 @@
   created: '2021-12-05'
   updated: '2022-04-16'
 - id: 78
-  name: Burger Quiz de l'Anthropocene
+  name: Burger Quiz de l'Anthropocène
   slug: burger-quiz-de-lanthropocene
   introduction: "<p>Bienvenue au Burger Quiz de l'Anthropocène !<br />\r\nLes questions\
     \ qui suivent vont aborder, dans l'ordre : une introduction à l'anthropocène,\
@@ -1798,7 +1798,7 @@
   - 1007
   question_count: 19
   tags: []
-  difficulty_average: 2.2
+  difficulty_average: 2.1
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000078-62a8.jpg
   has_audio: false
@@ -1812,7 +1812,7 @@
   publish_date: null
   spotlight: false
   created: '2021-12-12'
-  updated: '2022-04-16'
+  updated: '2023-01-20'
 - id: 79
   name: Introduction à la Fresque du Climat
   slug: introduction-a-la-fresque-du-climat
@@ -2238,7 +2238,7 @@
   - 225
   difficulty_average: 1.5
   language: Français
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/5b55ee16.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0e65b8fd.jpg
   has_audio: false
   authors:
   - 2
@@ -2250,7 +2250,7 @@
   publish_date: '2022-11-15'
   spotlight: true
   created: '2022-11-05'
-  updated: '2022-11-16'
+  updated: '2023-01-20'
 - id: 89
   name: Festival Nature et Environnement Isère
   slug: festival-nature-et-environnement-isere-2022
@@ -2384,22 +2384,24 @@
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
-  introduction: <p>Témoins d'une vie libre et désiralbes, les activités culturelles
-    et artistiques tiennent une part essentielle dans nos sociétés. Pour autant, elles
-    ne sont pas neutres du point de vue environnemental. A quoi ressemblent nos anthopo(s)cène
-    ? Ce quiz a vocation à vous aider à identifier les enjeux environnementaux qui
-    se cachent derrière nos festivals, nos opéras, nos films, nos pièces de théâtre,
-    nos livres, afin d'en atténuer les conséquences fâcheuses. Et nous permettre de
-    continuer à profiter, demain, de toute la diversité et de toutes les richesses
-    qu'ils nous procurent.</p>
-  conclusion: <p>Les impacts environnementaux de la culture sont divers, toujours
-    liés à des contextes particuliers. Une meilleure connaissance des enjeux peut
-    permettre de réduire les impacts négatifs de ces activités tout en stimulant leurs
-    aspects positifs, tels que la convivialité, le vivre-ensemble, l'exercice de libertés
-    de toute sorte. Si la culture n'est pas l'industrie lourde, elle ne peut pas minorer
-    ses propres impacts environnementaux et doit faire sa juste part dans la survenue
-    d'un monde soutenable. Elle pourrait alors contribuer à nous aider à forger de
-    nouveaux imaginaires et déplacer nos façons de voir le monde !</p>
+  introduction: <p>Les activités culturelles et artistiques tiennent une part essentielle
+    dans nos sociétés. Pour autant, elles ne sont pas neutres du point de vue environnemental.
+    A quoi ressemblent nos anthopo(s)cènes? Ce quiz a vocation à vous aider à identifier
+    les enjeux environnementaux qui se cachent derrière nos festivals, nos opéras,
+    nos films, nos pièces de théâtre, nos livres, afin d'en atténuer les conséquences
+    fâcheuses. Et nous permettre de continuer à profiter, demain, de toute la diversité
+    et de toutes les richesses qu'ils nous procurent.</p>
+  conclusion: "<p>Les impacts environnementaux de la culture sont divers, toujours\
+    \ liés à des contextes particuliers. Une meilleure connaissance des enjeux peut\
+    \ permettre de réduire les impacts négatifs de ces activités tout en stimulant\
+    \ leurs aspects positifs, tels que la convivialité, le vivre-ensemble, l'exercice\
+    \ de libertés de toute sorte. Si la culture n'est pas l'industrie lourde, elle\
+    \ ne peut pas minorer ses propres impacts environnementaux et doit faire sa juste\
+    \ part dans la survenue d'un monde soutenable. Elle pourrait alors contribuer\
+    \ à nous aider à forger de nouveaux imaginaires et déplacer nos façons de voir\
+    \ le monde !<br />\r\nPour aller plus loin, l'ouvrage dont David est le coauteur\
+    \ : <a href=\"https://www.pug.fr/produit/1954/9782706149702/decarboner-la-culture\"\
+    >Décarboner la Culture</a></p>"
   questions:
   - 1095
   - 1096
@@ -2427,4 +2429,4 @@
   publish_date: null
   spotlight: false
   created: '2022-12-26'
-  updated: '2022-12-29'
+  updated: '2023-01-20'
