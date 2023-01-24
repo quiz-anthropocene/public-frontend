@@ -12,15 +12,15 @@ quiz_per_language_count:
   total: 53
 - language: English
   total: 4
-question_answer_count: 381001
-quiz_answer_count: 30769
-question_answer_count_last_30_days: 9760
-quiz_answer_count_last_30_days: 804
+question_answer_count: 381795
+quiz_answer_count: 30841
+question_answer_count_last_30_days: 10425
+quiz_answer_count_last_30_days: 867
 category_count: 8
 tag_count: 242
-question_feedback_count: 5452
-quiz_feedback_count: 925
-contribution_count: 772
-question_feedback_count_last_30_days: 131
-quiz_feedback_count_last_30_days: 21
-contribution_count_last_30_days: 3
+question_feedback_count: 5464
+quiz_feedback_count: 927
+contribution_count: 776
+question_feedback_count_last_30_days: 143
+quiz_feedback_count_last_30_days: 23
+contribution_count_last_30_days: 7
