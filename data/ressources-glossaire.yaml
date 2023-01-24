@@ -408,3 +408,13 @@
   description_accessible_url: ''
   created: '2023-01-21'
   updated: '2023-01-21'
+- name: biome
+  name_alternatives: biomes
+  definition_short: ensemble d'écosystèmes caractéristique d'une aire à partir de
+    la végétation et des espèces animales qui y prédominent
+  description: "Les biomes terrestres peuvent être regroupés en sept groupes généraux\
+    \ :\r\n    La toundra.\r\n    La taïga.\r\n    La forêt tempérée.\r\n    La prairie\
+    \ tempérée.\r\n    La savane tropicale.\r\n    Le désert.\r\n    La forêt tropicale."
+  description_accessible_url: ''
+  created: '2023-01-23'
+  updated: '2023-01-23'

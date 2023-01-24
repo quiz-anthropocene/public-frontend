@@ -41950,15 +41950,21 @@
   answer_option_d: la mécanisation agricole
   answer_correct: bc
   has_ordered_answers: false
-  answer_explanation: Le développement des engrais industriels a permis la spécialisation
-    des régions agricoles. De grandes régions comme la Bretagne ou le Bénélux se sont
-    spécialisées dans l’élevage et l’agroalimentaire pour des raisons industrielles
-    (main d’œuvre, infrastructures de transports…). En miroir, l’élevage a disparu
-    des plaines céréalières. Ces dernières exportent donc beaucoup de nutriments vers
-    les régions d’élevage, et compensent la perte de ces nutriments par des engrais
-    d’origine fossile. A l’autre bout de la chaîne, les régions d’élevage se retrouvent
-    avec des excédents de produits azotés ou phosphatés qui finissent tôt ou tard
-    dans les rivières et dans la mer.
+  answer_explanation: "Le cycle de l'azote est déséquilibré quand des sources anthropiques\
+    \ finissent par déstabiliser fortement des écosystèmes. Un exemple bien connue\
+    \ est l'eutrophisation qui provoque des explosions d'algues, ce qui finit par\
+    \ asphyxier des écosystèmes côtiers entiers. A l'échelle planétaire, la limite\
+    \ est placée à 62 millions de tonnes d'azote \"de synthèse\", alors que l'activité\
+    \ humaine en relâche entre 150 et 180 millions de tonnes.\r\n\r\nUne cause majeur\
+    \ est le développement des engrais industriels qui a permis la spécialisation\
+    \ des régions agricoles. De grandes régions comme la Bretagne ou le Bénélux se\
+    \ sont spécialisées dans l’élevage et l’agroalimentaire pour des raisons industrielles\
+    \ (main d’œuvre, infrastructures de transports…). En miroir, l’élevage a disparu\
+    \ des plaines céréalières. Ces dernières exportent donc beaucoup de nutriments\
+    \ vers les régions d’élevage, et compensent la perte de ces nutriments par des\
+    \ engrais d’origine fossile. A l’autre bout de la chaîne, les régions d’élevage\
+    \ se retrouvent avec des excédents de produits azotés ou phosphatés qui finissent\
+    \ tôt ou tard dans les rivières et dans la mer."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Eutrophisation
@@ -41975,34 +41981,34 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-19'
+  updated: '2023-01-23'
 - id: 1087
-  text: Les bovidés regroupent des animaux comme les vaches, les bisons ou les antilopes.
-    A quelle évolution climatique leur apparition est-elle corrélée ?
+  text: Entre -15 millions et -7 millions d’années, la terre s’est refroidie de 5°C.
+    Quelle est l’explication la plus probable à ce jour pour l’expliquer ?
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 4
   language: Français
-  answer_option_a: un réchauffement de 5°C
-  answer_option_b: un réchauffement de 1°C
-  answer_option_c: un refroidissement de 1°C
-  answer_option_d: un refroidissement de 5°C
-  answer_correct: d
+  answer_option_a: un cycle de glaciation
+  answer_option_b: le succès évolutif des grands ruminants
+  answer_option_c: une activité volcanique durable
+  answer_option_d: ''
+  answer_correct: b
   has_ordered_answers: true
   answer_explanation: "Les bovidés, qui sont des grands ruminants, sont apparus il\
     \ y a environ 17 millions d’années, au début de l'ère géologique de l'on appelle\
-    \ le miocène. Leur extension est corrélée avec un refroidissement  de la température\
+    \ le miocène. Leur extension est corrélée avec un refroidissement de la température\
     \ moyenne de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène,\
     \ avant que ne surviennent des cycles de glaciation - déglaciation. Une cause\
     \ avancée est le développement de sols de prairies et steppes, profonds et riches\
-    \ en carbone et donc fertiles. Les grands herbivores les maintiennent en équilibre\
-    \ en évitant une évolution vers la forêt.\r\nLe bilan environnemental catastrophique\
-    \ actuel de l'élevage vient de ce que l'homme en a fait, pas des espèces elles-mêmes.\
-    \ De fait, les animaux que l'on élève sont les descendants d'animaux qui ont participé\
-    \ à la construction des sols les plus fertiles qui soient, bien plus que les sols\
-    \ de forêt."
+    \ en carbone et donc fertiles. Les grands herbivores les auraient maintenus en\
+    \ équilibre en évitant une évolution vers la forêt.\r\nLe bilan environnemental\
+    \ catastrophique actuel de l'élevage vient clairement de la gestion de l'homme\
+    \ et non des espèces elles-mêmes. De fait, les animaux que l'on élève sont les\
+    \ descendants d'animaux qui ont participé à la construction des sols les plus\
+    \ fertiles qui soient."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42013,8 +42019,8 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cc9d07d8.png
   answer_image_explanation: La période de la "rampe du miocène" entre -15 et -7 millions
-    d'année a vus un refroidissement climatique d'environ 5°C. La courbe du milieu
-    représente la moyenne, les deux autres les marges d'erreur. Cette période a vus
+    d'année a vu un refroidissement climatique d'environ 5°C. La courbe du milieu
+    représente la moyenne, les deux autres les marges d'erreur. Cette période a vu
     en parallèle l’extension des biomes de steppes-prairies, qui sont un équilibre
     entre la végétation herbacée et les herbivores.
   answer_extra_info: ''
@@ -42024,7 +42030,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-20'
+  updated: '2023-01-23'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
     plus émetteur en gaz à effet de serre ?
@@ -42040,13 +42046,18 @@
   answer_option_d: l'acheminement des pommes vers le magasin
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Prenons l'exemple d'un kg de pommes produites et achetée dans
-    le Limousin. Leur production et approvisionnement a un bilan gaz à effet de serre
-    d’environ 200g CO2e. Le facteur principal d’émission est le « dernier kilomètre »,
-    qui est le trajet effectué pour faire ses courses. Il est plus long dans les zones
-    rurales comme dans le Limousin qu'en Ile de France par exemple, où on trouve un
-    tissu dense de magasins. Même si le bilan du transport logistique est plus élevé,
-    le bilan total est paradoxalement plus faible que dans la région de production.
+  answer_explanation: "Prenons l'exemple d'un kg de pommes produites et achetée dans\
+    \ le Limousin. Leur production et approvisionnement a un bilan gaz à effet de\
+    \ serre d’environ 200g CO2e. Le facteur principal d’émission est le « dernier\
+    \ kilomètre », qui est le trajet effectué pour faire ses courses. Il est plus\
+    \ long dans les zones rurales comme dans le Limousin qu'en Ile de France par exemple,\
+    \ où on trouve un tissu dense de magasins. Même si le bilan du transport logistique\
+    \ est plus élevé, le bilan total est paradoxalement plus faible que dans la région\
+    \ de production.\r\n\r\nNote: Dans le cadre de transport à l'international comme\
+    \ par exemple pour des pommes produites en Nouvelle Zélande, le transport prends\
+    \ alors une part très dominante. Même si le bateau est le moyen le plus efficace\
+    \ de transporter du poids, la distance parcourue fait exploser le bilan carbone\
+    \ du kg de pomme venant de l'autre bout de la planète."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42078,7 +42089,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-21'
+  updated: '2023-01-23'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42579,8 +42590,8 @@
   updated: '2023-01-21'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
-    de mettre à disposition les films pour enfant en streaming plutôt qu'en téléchargement,
-    et l'inverse pour les autres films. Pour quelle raison ?
+    de mettre à disposition les films pour enfants en téléchargement, et en streaming
+    pour les films pour adultes. Pour quelle raison ?
   hint: Eat Sleep Rave Repeat
   type: QCM
   category: 2
@@ -42624,7 +42635,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-23'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
@@ -42757,8 +42768,8 @@
   created: '2022-12-28'
   updated: '2023-01-21'
 - id: 1104
-  text: Dans les 77 Scènes Nationales en France - un label accordé aux théâtres publics
-    français - un spectacle est joué en moyenne...
+  text: Les Scènes Nationales sont des théâtres publics français.  Sur l'ensemble
+    de ces scènes, une pièce de spectacle est jouée en moyenne...
   hint: Obsolescence programmée
   type: QCM
   category: 2
@@ -42794,7 +42805,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-21'
+  updated: '2023-01-23'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
