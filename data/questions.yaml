@@ -41934,7 +41934,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-21'
+  updated: '2023-01-25'
 - id: 1086
   text: Le cycle de l'azote fait partie des limites planétaires évoquées par les scientifiques,
     et le seuil d'alerte a été largement dépassé. Pour quelles raisons ?
@@ -41981,7 +41981,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-23'
+  updated: '2023-01-25'
 - id: 1087
   text: Entre -15 millions et -7 millions d’années, la terre s’est refroidie de 5°C.
     Quelle est l’explication la plus probable à ce jour pour l’expliquer ?
@@ -42030,7 +42030,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-23'
+  updated: '2023-01-25'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
     plus émetteur en gaz à effet de serre ?
@@ -42089,7 +42089,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-23'
+  updated: '2023-01-25'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -42271,7 +42271,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-12-22'
-  updated: '2023-01-20'
+  updated: '2023-01-25'
 - id: 1093
   text: Parmi ces phénomènes, lesquels constituent des causes majeures de dégradation
     des sols ?
@@ -42358,11 +42358,11 @@
   validator: 2
   validation_date: '2023-01-20'
   created: '2022-12-22'
-  updated: '2023-01-21'
+  updated: '2023-01-25'
 - id: 1095
   text: La ville de Glastonbury héberge un grand festival de musique. En termes de
     biodiversité, quel en est l'impact le plus difficile à traiter ?
-  hint: Fumer fait tousser
+  hint: Les impacts ne nous sautent pas aux yeux
   type: QCM
   category: 4
   tags: []
@@ -42370,10 +42370,10 @@
   language: Français
   answer_option_a: Les festivaliers et les musiciens font trop de bruit, ce qui perturbe
     la faune
-  answer_option_b: Le festival n'a pas organisé le tri des déchets et ceux-ci se retrouvent
-    dispersés dans la nature
-  answer_option_c: Les ondes électro-magnétiques des amplis et des antennes relais
-    perturbent le vivant
+  answer_option_b: Le festival ne fait pas suffisamment d'efforts sur le tri des déchets
+    et ils se retrouvent dispersés dans la nature
+  answer_option_c: Les ondes électro-magnétiques des amplis et des antennes perturbent
+    le vivant
   answer_option_d: Les festivaliers se droguent puis font pipi n'importe où
   answer_correct: d
   has_ordered_answers: true
@@ -42401,14 +42401,14 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1096
-  text: Quelle quantité de matière requiert la fabrication des décors de l'Opéra Bastille
-    à Paris ?
+  text: Quelle quantité de matière la fabrication des décors de l'Opéra Bastille requiert-elle
+    ?
   hint: Living in a material world
   type: QCM-RM
   category: 7
@@ -42420,28 +42420,27 @@
     de déchets
   answer_option_c: Sur une année, environ 120 tonnes de matière
   answer_option_d: Les décors d'opéra sont désormais essentiellement des projections
-    vidéo et n'utilisent pas de matière
+    vidéo et utilisent peu de matière
   answer_correct: abc
-  has_ordered_answers: true
-  answer_explanation: Les trois premières réponses sont exactes ! Actuellement, les
-    décors de l'opéra sont souvent fait à partir de matière neuve. On estime en moyenne
-    qu'il correspond à cinq à sept camions poids-lourds en moyenne, pour des décors
-    dont la durée de vie reste faible (de trois semaines à quelques mois au mieux),
-    ce qui représente en moyenne 120 tonnes de matière par an. Ces déchets s'accumulent
-    et correspondent aujourd'hui à 1500 conteneurs de déchets, dont certains sont
-    stockés dans des docks dédiés. Cette quantité de matière utilisée est directement
-    dépendante des choix artistiques et d'éventuels processus d'éco-conception qui
-    commencent à se développer dans les milieux de l'opéra ! Quant au recours aux
-    projections vidéos ou numériques, des expérimentations existent à la marge, mais
-    il faudra bien sûr prendre en compte leur impact environnemental qui ne sera pas
-    nul.
+  has_ordered_answers: false
+  answer_explanation: Les décors de l'opéra sont le plus souvent réalisés à partir
+    de matériaux neufs. On estime en moyenne qu'il correspond à cinq à sept camions
+    poids-lourds en moyenne, pour des décors dont la durée de vie reste faible (de
+    trois semaines à quelques mois au mieux), ce qui représente en moyenne 120 tonnes
+    de matière par an. Ces déchets s'accumulent et correspondent aujourd'hui à 1500
+    conteneurs de déchets, dont certains sont stockés dans des docks dédiés. Cette
+    quantité de matière utilisée est directement dépendante des choix artistiques.
+    Le concept d'écoconception des décours fait doucement son chemin dans les milieux
+    de l'opéra. Quant au recours aux projections vidéos ou numériques, des expérimentations
+    existent à la marge ; leur impact environnemental sera à estimer.
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: https://www.librairieforumdulivre.fr/ebook/9782364851399/biopera-un-futur-pour-lopera--sebastien-gueze-symetrie
-  answer_accessible_url_text: L'ouvrage de référence en matière d'opéra
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
   answer_scientific_url: ''
   answer_scientific_url_text: ''
-  answer_reading_recommendation: ''
+  answer_reading_recommendation: Biopéra, Un futur pour l’opéra ? Par Sébastien Guèze,
+    e-book. L'ouvrage de référence en matière d'opéra
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/64577ffd.JPG
   answer_image_explanation: Cette illustration libre de droits a été réalisée via
     le logiciel Midjourney
@@ -42452,11 +42451,11 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1097
-  text: Quelle est la principale cause d'émission de gaz à effet de serre d'une salle
+  text: Quelle est le principal facteur d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
-  hint: Je suis également un film d'animation réalisé par Pixar en 2006
+  hint: ''
   type: QCM
   category: 1
   tags: []
@@ -42498,14 +42497,14 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1098
-  text: Vrai ou faux ? La conservation des grandes œuvres de l'humanité a un impact
-    environnemental négligeable.
+  text: Vrai ou faux ? Conserver les grandes œuvres de l'humanité a un impact environnemental
+    faible
   hint: Les Tournesols, de Vincent Van Gogh, ne vivent pas de soupe et d'eau fraîche
   type: VF
   category: 5
@@ -42544,11 +42543,11 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
@@ -42567,17 +42566,17 @@
     dérèglement climatique
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Les autres risques mentionnés sont également importants. Cependant,
-    pour l'UNESCO, ce sont les conséquences environnementales qui posent aujourd'hui
-    les plus grands défis en matière de préservation. Ainsi, la mosquée Djinguereber,
-    sur le site classé de Tombouctou est davantage menacée par l'avancée du désert
-    que par les luttes armées qui l'entourent ; les grandes inondations de 2022 ont
-    endommagé les ruines archéologiques de Mohenjo Daro et le site historique de Makli
-    au Pakistan. En France, l'inventaire des risques n'est pas fait, ni en matière
-    de recul du trait de côte, ni de risques nouveaux (incendies, inondations), ni
-    de retrait/gonflement des sols argileux. A l'instar des glaciers ou de la Grande
-    barrière de corail, de nombreux sites naturels classés au patrimoine de l'humanité
-    sont aujourd'hui en danger de mort ou condamnés.
+  answer_explanation: "Les autres risques proposés en réponse sont également considérés\
+    \ comme importants, cependant, pour l'UNESCO, ce sont les conséquences environnementales\
+    \ qui posent aujourd'hui les plus grands défis en matière de préservation. A l'instar\
+    \ des glaciers ou de la grande barrière de corail, de nombreux sites naturels\
+    \ classés au patrimoine de l'humanité sont aujourd'hui en danger de mort ou condamnés.\
+    \ Ainsi, la mosquée Djinguereber, sur le site classé de Tombouctou est davantage\
+    \ menacée par l'avancée du désert que par les luttes armées qui l'entourent ;\
+    \ Au Pakistan, les grandes inondations de 2022 ont endommagé les ruines archéologiques\
+    \ de Mohenjo Daro et le site historique de Makli. \r\nEn France, l'inventaire\
+    \ des risques n'est pas fait, ni en matière de recul du trait de côte, ni de risques\
+    \ nouveaux (incendies, inondations), ni de retrait/gonflement des sols argileux."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42591,11 +42590,11 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
     de mettre à disposition les films pour enfants en téléchargement, et en streaming
@@ -42612,21 +42611,18 @@
     longs que ceux pour adultes
   answer_option_c: Parce que les films d'animation génèrent plus de données numériques
     que les films standards
-  answer_option_d: Parce que les enfants ne visionnent pas tout à fait les films comme
-    les adultes
+  answer_option_d: Parce que les enfants ont un usage différents des vidéos
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: 'Aucune différence en matière de droits d''auteur ou de durée,
     et peu de différence d''impact CO2. Les films sont aujourd''hui entièrement diffusés
     sur des supports numérisés. Il n''y a donc pas de différences entre courts métrages
     adultes et courts métrages enfants. En revanche, les enfants ne regardent pas
-    du tout les films comme les adultes : ils aiment regarder leur film préféré en
-    boucle, alors que les adultes ne les visionnent qu''une fois. Pour ces derniers,
-    il est plus avantageux en matière d''émissions de les proposer en streaming pour
-    ne générer qu''un seul et unique flux. Alors que pour les films pour enfant, du
-    point de vue environnemental, il vaut mieux proposer l''inverse : un seul et unique
-    téléchargement puis la possibilité de revisionner inlassablement le film en local
-    jusqu''à l''heure du dodo !'
+    du tout les films comme les adultes : là où des adultes ne vont visionner le film
+    qu''une fois, les enfants vont souvent le regarder en boucle. Pour ces derniers,
+    l''option la moins émissive consiste donc à leur proposer en téléchargement pour
+    ne générer qu''un seul et unique flux. Ce type de considération commence à ainsi
+    être intégré par les acteurs du milieu.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42644,7 +42640,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
@@ -42664,16 +42660,15 @@
     très nombreuses fois'
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Le principal impact carbone d'un livre est lié à sa production,
-    notamment à cause de la production du papier qui a un coût énergétique important
-    et génère parfois des changements d'usage de sols. Grâce aux logiques de mutualisation
-    d'une bibliothèque - des logiques qui s'inscrivent dans la définition même de
-    ce qu'on appelle l'économie de la fonctionnalité, Le Shift Project estime que
-    l'impact carbone d'un ouvrage prêté en bibliothèque est quatre fois moindre que
-    vendu en librairie. L'impact comparatif de la vente d'ouvrages en ligne n'a pas
-    été estimé. Bien sûr, ce n'est pas une raison pour ne pas soutenir vos libraires
-    de proximité, mais n'oubliez pas de partager et prêter vos livres autour de vous
-    !
+  answer_explanation: Le principal impact carbone d'un livre provient de sa production.
+    Ceci en particulier cause du papier qui a un coût énergétique important et génère
+    parfois des changements d'usage de sols. Du fait de la mutualisation - un logique
+    qui s'inscrit dans ce qu'on appelle l'économie de la fonctionnalité - le Shift
+    Project estime que l'impact carbone d'un ouvrage prêté en bibliothèque est quatre
+    fois moindre que celui vendu en librairie. L'impact comparatif de la vente d'ouvrages
+    en ligne n'a pas été estimé. Bien sûr, ce n'est pas une raison pour ne pas soutenir
+    vos libraires de proximité, vous pouvez aussi partager vos livres coup de cœur
+    autour de vous !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42688,11 +42683,11 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   created: '2022-12-28'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1102
   text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
     plusieurs orchestres à des milliers de kilomètres de distance'
@@ -42708,14 +42703,14 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: C'est vrai. Les grandes stars internationales cumulent les postes
-    et vivent d'ailleurs souvent très loin du lieu principal des répétitions, ce qui
-    les force à prendre l'avion régulièrement. C’est le cas du chef vénézuélien Gustavo
-    Dudamel, qui cumule les fonctions de directeur musical de l’Opéra de Paris et
-    de directeur artistique de l’Orchestre Philharmonique de Los Angeles et c'est
-    pratiquement la règle pour toutes les grandes têtes d'affiche. Difficile de demander
-    ensuite aux musiciens et aux équipes de faire leur juste part et de venir aux
-    représentations en train ou à vélo, par exemple !
+  answer_explanation: Les grandes stars internationales cumulent les postes et vivent
+    souvent très loin du lieu principal des répétitions, ce qui les amène à prendre
+    l'avion régulièrement. On peut citer l'exemple du chef vénézuélien Gustavo Dudamel,
+    qui cumule les fonctions de directeur musical de l’Opéra de Paris et de directeur
+    artistique de l’Orchestre Philharmonique de Los Angeles. C'est la pratique pour
+    quasiment toutes les grandes têtes d'affiche. Difficile de demander ensuite aux
+    musiciens et aux équipes de faire leur juste part et de venir aux représentations
+    en train ou à vélo, par exemple !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.radiofrance.fr/francemusique/podcasts/reportage/co2-enquete-sur-les-trajets-pas-tres-ecolo-des-chefs-d-orchestre-3365073
@@ -42730,11 +42725,11 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   created: '2022-12-28'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1103
   text: 'L''empreinte carbone moyenne d''un DJ en tournée est :'
   hint: Last night a dj took a flight
@@ -42745,23 +42740,21 @@
   language: Français
   answer_option_a: 5 fois supérieure à l'empreinte carbone recommandée par l'Accord
     de Paris
-  answer_option_b: 7 fois supérieure à l'empreinte carbone moyenne recommandée par
-    l'Accord de Paris
-  answer_option_c: 10 fois supérieure à l'empreinte carbone moyenne recommandée par
-    l'Accord de Paris
-  answer_option_d: 17 fois supérieure à l'empreinte carbone moyenne recommandée par
-    l'Accord de Paris
+  answer_option_b: 7 fois supérieure
+  answer_option_c: 10 fois supérieure
+  answer_option_d: 17 fois supérieure
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Selon l'étude réalisée par Clean Scene intitulée "last night
     a DJ took a flight", l'empreinte carbone moyenne des Djs de métier en tournée
     est environ 17 fois supérieure à l'empreinte carbone moyenne recommandée par l'Accord
-    de Paris. Cette moyenne cache de fortes disparités. Les Djs stars ayant une empreinte
-    carbone beaucoup plus importante,  certaines réalisant même parfois des sets le
-    même soir sur des lieux distants de milliers de km, qu'ils rejoignent via des
-    jets privés. Le top 1000 des Djs mondiaux a parcouru l'équivalent de 117 millions
-    de kilomètres et pris 51,000 vols lors de l'année 2019. Ce sont les 1% des Djs
-    les plus reconnus qui sont majoritairement responsables de cette empreinte "moyenne".
+    de Paris (2 tonne de CO2e par habitant et par an). Cette moyenne cache de fortes
+    disparités. Les DJs stars ont une empreinte carbone beaucoup plus importante,  certaines
+    réalisant même parfois plusieurs sets le même soir à des lieux distants de milliers
+    de km, qu'ils rejoignent via des jets privés. Le top 1000 des Djs mondiaux a parcouru
+    l'équivalent de 117 millions de kilomètres et pris 51,000 vols lors de l'année
+    2019. Ce sont les 1% des Jjs les plus reconnus qui sont majoritairement responsables
+    de cette empreinte.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://electro-news.eu/etude-100-djs-co2-foyers-un-an-2021/
@@ -42780,7 +42773,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 1104
   text: Les Scènes Nationales sont des théâtres publics français.  Sur l'ensemble
     de ces scènes, une pièce est jouée en moyenne...
@@ -42934,4 +42927,4 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2023-01-16'
-  updated: '2023-01-21'
+  updated: '2023-01-25'

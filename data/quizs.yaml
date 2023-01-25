@@ -2085,11 +2085,11 @@
     \ glaciers et de leur impact sur l’environnement entre passé, présent et futur.\
     \ Chaussez vos crampons, empoignez votre piolet et c'est à vous de jouer !</p>\r\
     \n\r\n<p>Un quiz concocté par Lionel Favier, glaciologue et éducateur du changement\
-    \ climatique.</p>"
+    \ climatique pour l'<a href=\"https://neveasso.fr/\">association Névé</a>.</p>"
   conclusion: "<p>N'oubliez pas que tout n'est pas perdu, que les glaciers sont toujours\
     \ là. N'hésitez pas à aller leur rendre visite, en mobilité douce bien entendu.</p>\r\
-    \n\r\n<p>Ce quiz a été réalisé au nom de l'association <a href=\"https://neveasso.fr/\"\
-    >Névé</a>, dont l'objet est de sensibiliser au changement climatique, d'accompagner\
+    \n\r\n<p>Ce quiz a été réalisé au nom de l'<a href=\"https://neveasso.fr/\">association\
+    \ Névé</a>, dont l'objet est de sensibiliser au changement climatique, d'accompagner\
     \ la prise de conscience et de favoriser l'action.</p>"
   questions:
   - 921
@@ -2120,7 +2120,7 @@
   publish_date: '2022-07-29'
   spotlight: true
   created: '2022-06-28'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
 - id: 86
   name: Fresque de la Renaissance Ecologique - Le quizz
   slug: fresque-de-la-renaissance-ecologique-le-quizz
@@ -2349,14 +2349,14 @@
   authors:
   - 59
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-25'
   publish: true
   publish_date: '2023-01-20'
   spotlight: true
   created: '2022-11-25'
-  updated: '2023-01-20'
+  updated: '2023-01-25'
 - id: 91
   name: Un bestiaire de l'Anthropocène
   slug: un-bestiaire-de-lanthropocene
