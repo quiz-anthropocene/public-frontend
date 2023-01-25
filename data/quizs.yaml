@@ -724,11 +724,11 @@
   validation_status: Validée
   validator: 2
   validation_date: '2020-11-23'
-  publish: true
+  publish: false
   publish_date: '2020-11-26'
   spotlight: false
   created: '2020-11-16'
-  updated: '2022-04-16'
+  updated: '2023-01-24'
 - id: 53
   name: Les 10 questions les plus difficiles
   slug: les-10-questions-les-plus-difficiles
@@ -2080,12 +2080,17 @@
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules
-  introduction: <p>Le recul actuel des glaciers est une des conséquences les plus
-    connues du changement climatique anthropique. Ce quiz aborde l’évolution des glaciers
-    et de leur impact sur l’environnement entre passé, présent et futur. Chaussez
-    vos crampons, empoignez votre piolet et c'est à vous de jouer !</p>
-  conclusion: <p>N'oubliez pas que tout n'est pas perdu, que les glaciers sont toujours
-    là. N'hésitez pas à aller leur rendre visite, en mobilité douce bien entendu.</p>
+  introduction: "<p>Le recul actuel des glaciers est une des conséquences les plus\
+    \ connues du changement climatique anthropique. Ce quiz aborde l’évolution des\
+    \ glaciers et de leur impact sur l’environnement entre passé, présent et futur.\
+    \ Chaussez vos crampons, empoignez votre piolet et c'est à vous de jouer !</p>\r\
+    \n\r\n<p>Un quiz concocté par Lionel Favier, glaciologue et éducateur du changement\
+    \ climatique.</p>"
+  conclusion: "<p>N'oubliez pas que tout n'est pas perdu, que les glaciers sont toujours\
+    \ là. N'hésitez pas à aller leur rendre visite, en mobilité douce bien entendu.</p>\r\
+    \n\r\n<p>Ce quiz a été réalisé au nom de l'association <a href=\"https://neveasso.fr/\"\
+    >Névé</a>, dont l'objet est de sensibiliser au changement climatique, d'accompagner\
+    \ la prise de conscience et de favoriser l'action.</p>"
   questions:
   - 921
   - 1044
@@ -2115,7 +2120,7 @@
   publish_date: '2022-07-29'
   spotlight: true
   created: '2022-06-28'
-  updated: '2022-08-01'
+  updated: '2023-01-24'
 - id: 86
   name: Fresque de la Renaissance Ecologique - Le quizz
   slug: fresque-de-la-renaissance-ecologique-le-quizz
@@ -2384,26 +2389,25 @@
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
-  introduction: <p>Les activités culturelles et artistiques tiennent une part essentielle
-    dans nos sociétés. Pour autant, elles ne sont pas neutres du point de vue environnemental.
-    A quoi ressemblent nos anthopo(s)cènes? Ce quiz a vocation à vous aider à identifier
-    les enjeux environnementaux qui se cachent derrière nos festivals, nos opéras,
-    nos films, nos pièces de théâtre, nos livres, afin d'en atténuer les conséquences
-    fâcheuses. Et nous permettre de continuer à profiter, demain, de toute la diversité
-    et de toutes les richesses qu'ils nous procurent.</p>
-  conclusion: "<p>Les impacts environnementaux de la culture sont divers, toujours\
-    \ liés à des contextes particuliers. Une meilleure connaissance des enjeux peut\
-    \ permettre de réduire les impacts négatifs de ces activités tout en stimulant\
-    \ leurs aspects positifs, tels que la convivialité, le vivre-ensemble, l'exercice\
-    \ de libertés de toute sorte. Si la culture n'est pas l'industrie lourde, elle\
-    \ ne peut pas minorer ses propres impacts environnementaux et doit faire sa juste\
-    \ part dans la survenue d'un monde soutenable. Elle pourrait alors contribuer\
-    \ à nous aider à forger de nouveaux imaginaires et déplacer nos façons de voir\
-    \ le monde ! Aujourd'hui, l'ensemble des thèmes évoqués lors de ce quizz donnent\
-    \ lieu à d'importants débats dans les milieux des professionnelles et des professionnels\
-    \ de la culture.<br />\r\nPour aller plus loin, l'ouvrage dont David est le coauteur\
-    \ : <a href=\"https://www.pug.fr/produit/1954/9782706149702/decarboner-la-culture\"\
-    >Décarboner la Culture</a></p>"
+  introduction: "<p>Presse, édition, audiovisuel, spectacle vivant, patrimoine, architecture\
+    \ ou encore jeux vidéo...Les activités artistiques et culturelles tiennent une\
+    \ part et jouent un rôle essentiels dans nos sociétés. Pour autant, elles ne sont\
+    \ pas neutres du point de vue environnemental. A quoi ressemblent nos anthopo(s)cènes?\
+    \ Saurons-nous nous organiser pour continuer à profiter, demain de toute la diversité\
+    \ et de toutes les richesses qu'ells nous procurent, d'une façon soutenable ?\
+    \ Ce quiz met le doigt sur quelques enjeux environnementaux qui se cachent derrière\
+    \ elle. A vous de rentrer en scène !<br />\r\n<br />\r\nUn quiz créé par David\
+    \ Irle. David accompagne les professionnels de la culture et notamment du spectacle\
+    \ vivant vers un modèle d'organisation bas carbone, inclusif et soutenable.</p>"
+  conclusion: '<p> Les impacts environnementaux de la culture sont divers et liés
+    à des contextes particuliers. Bonne nouvelle : ils donnent actuellement lieu à
+    de vifs débats parmi ses professionnels. Une meilleure connaissance des enjeux
+    permet d''en réduire les impacts, tout en stimulant ses apports, tels que la convivialité,
+    le vivre-ensemble, l''exercice de nos libertés, ou encore sa capacité inégalée
+    à nous forger de nouveaux imaginaires et à déplacer nos façons de voir le monde
+    ! Pour aller plus loin, l''ouvrage dont David est le coauteur : <a href="https://www.pug.fr/produit/1954/9782706149702/decarboner-la-culture">Décarboner
+    la Culture</a>. Voir aussi l''<a href="https://bonpote.com/peut-on-separer-le-bilan-carbone-de-lartiste/">article
+    </a>du blogueur Bonpote sur le bilan carbone d''un artiste.</p>'
   questions:
   - 1095
   - 1096
@@ -2431,4 +2435,4 @@
   publish_date: null
   spotlight: false
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-24'

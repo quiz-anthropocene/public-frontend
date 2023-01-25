@@ -42405,7 +42405,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1096
   text: Quelle quantité de matière requiert la fabrication des décors de l'Opéra Bastille
     à Paris ?
@@ -42419,18 +42419,22 @@
   answer_option_b: En cumulé depuis 30 ans, l'équivalent d'environ 1500 conteneurs
     de déchets
   answer_option_c: Sur une année, environ 120 tonnes de matière
-  answer_option_d: Cela dépend des choix artistiques et du travail éventuel d'éco-conception
-  answer_correct: abcd
+  answer_option_d: Les décors d'opéra sont désormais essentiellement des projections
+    vidéo et n'utilisent pas de matière
+  answer_correct: abc
   has_ordered_answers: true
-  answer_explanation: L'ensemble des réponses sont exactes ! Actuellement, les décors
-    de l'opéra sont souvent fait à partir de matière neuve. On estime en moyenne qu'il
-    correspond à cinq à sept camions poids-lourds en moyenne, pour des décors dont
-    la durée de vie reste faible (de trois semaines à quelques mois au mieux), ce
-    qui représente en moyenne 120 tonnes de matière par an. Ces déchets s'accumulent
+  answer_explanation: Les trois premières réponses sont exactes ! Actuellement, les
+    décors de l'opéra sont souvent fait à partir de matière neuve. On estime en moyenne
+    qu'il correspond à cinq à sept camions poids-lourds en moyenne, pour des décors
+    dont la durée de vie reste faible (de trois semaines à quelques mois au mieux),
+    ce qui représente en moyenne 120 tonnes de matière par an. Ces déchets s'accumulent
     et correspondent aujourd'hui à 1500 conteneurs de déchets, dont certains sont
     stockés dans des docks dédiés. Cette quantité de matière utilisée est directement
     dépendante des choix artistiques et d'éventuels processus d'éco-conception qui
-    commencent à se développer dans les milieux de l'opéra !
+    commencent à se développer dans les milieux de l'opéra ! Quant au recours aux
+    projections vidéos ou numériques, des expérimentations existent à la marge, mais
+    il faudra bien sûr prendre en compte leur impact environnemental qui ne sera pas
+    nul.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.librairieforumdulivre.fr/ebook/9782364851399/biopera-un-futur-pour-lopera--sebastien-gueze-symetrie
@@ -42448,7 +42452,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1097
   text: Quelle est la principale cause d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
@@ -42464,21 +42468,22 @@
   answer_option_d: La production et le tournage des films
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Près de 90% de l'impact carbone d'une salle de cinéma en France
-    provient du déplacement du public. C'est le résultat d'une implantation systématiques
-    de grands multiplexes en zones péri-urbaines pour lesquels la voiture est indispensable.
-    Loin derrière, le chauffage et la climatisation représentent moins de 4% des émissions
-    en moyenne, malgré un poids économique très important pour la gestion des salles.
-    Très importante source de revenus pour les salles de cinéma, les boissons et confiseries
-    ont un impact carbone inférieurs à 2,5% mais posent de grands enjeux en matière
-    de santé publique et d'approvisionnements en circuit-court ou respectueux de l'environnement.
+  answer_explanation: 'Près de 90% de l''impact carbone d''une salle de cinéma en
+    France provient du déplacement du public : près d’un million de tonnes CO2e sur
+    une année. C''est le résultat d''une implantation systématiques de grands multiplexes
+    en zones péri-urbaines pour lesquels la voiture est indispensable. Loin derrière,
+    le chauffage et la climatisation représentent moins de 4% des émissions en moyenne,
+    malgré un poids économique très important pour la gestion des salles. Très importante
+    source de revenus pour les salles de cinéma, les boissons et confiseries ont un
+    impact carbone inférieurs à 2,5% mais posent de grands enjeux en matière de santé
+    publique et d''approvisionnements en circuit-court ou respectueux de l''environnement.
     Enfin, la production et le tournage des films, bien que parfois spectaculaire
-    en matière d'impacts est mutualisée à l'échelle des salles de cinéma qui les diffusent.
-    Quand des voitures neuves sont détruites à hauteur de 30 millions d'euros sont
-    détruites pour produire l'avant-dernier James Bond, sa très large diffusion induit
-    une quote-part d'impact très faible à l'échelle d'une salle. Une piste face à
-    ces impacts consisterait à rendre obligatoire l'évaluation du poids carbone des
-    films, comme le propose le plan Action ! du Centre National du Cinéma.
+    en matière d''impacts est mutualisée à l''échelle des salles de cinéma qui les
+    diffusent. Quand des voitures neuves sont détruites à hauteur de 30 millions d''euros
+    sont détruites pour produire l''avant-dernier James Bond, sa très large diffusion
+    induit une quote-part d''impact très faible à l''échelle d''une salle. Une piste
+    face à ces impacts consisterait à rendre obligatoire l''évaluation du poids carbone
+    des films, comme le propose le plan Action ! du Centre National du Cinéma.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42497,7 +42502,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1098
   text: Vrai ou faux ? La conservation des grandes œuvres de l'humanité a un impact
     environnemental négligeable.
@@ -42522,7 +42527,9 @@
     prélevée sur les stocks de contrebande saisis par les douanes) ou des technologies
     obsolètes (lampe à incandescence par exemple). L''entretien et la préservation
     des grandes œuvres de l''humanité est donc un défi technique et énergétique majeur
-    à l''ère des limites planétaires.'
+    à l''ère des limites planétaires qui pourrait malheureusement nous obliger à faire
+    des choix et à repenser notre relation à la vie, et la fin de vie, des œuvres
+    d''art.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.culture.gouv.fr/Thematiques/Musees/Pour-les-professionnels/Conserver-et-gerer-les-collections/Gerer-les-collections/Conserver-les-collections-des-musees-de-France
@@ -42541,7 +42548,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
@@ -42579,7 +42586,8 @@
   answer_scientific_url_text: Les études de l'UNESCO sur le changement climatique
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d782733b.JPG
-  answer_image_explanation: ''
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42587,7 +42595,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
     de mettre à disposition les films pour enfants en téléchargement, et en streaming
@@ -42627,7 +42635,8 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5652748a.JPG
-  answer_image_explanation: ''
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42635,7 +42644,7 @@
   validator: null
   validation_date: null
   created: '2022-12-26'
-  updated: '2023-01-23'
+  updated: '2023-01-24'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
@@ -42662,7 +42671,9 @@
     ce qu'on appelle l'économie de la fonctionnalité, Le Shift Project estime que
     l'impact carbone d'un ouvrage prêté en bibliothèque est quatre fois moindre que
     vendu en librairie. L'impact comparatif de la vente d'ouvrages en ligne n'a pas
-    été estimé.
+    été estimé. Bien sûr, ce n'est pas une raison pour ne pas soutenir vos libraires
+    de proximité, mais n'oubliez pas de partager et prêter vos livres autour de vous
+    !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42672,7 +42683,8 @@
     paru en 2021
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/485cc1ee.JPG
-  answer_image_explanation: ''
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42680,7 +42692,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1102
   text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
     plusieurs orchestres à des milliers de kilomètres de distance'
@@ -42713,7 +42725,8 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ab197ec5.JPG
-  answer_image_explanation: ''
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42721,7 +42734,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1103
   text: 'L''empreinte carbone moyenne d''un DJ en tournée est :'
   hint: Last night a dj took a flight
@@ -42758,7 +42771,8 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6b02b3b5.JPG
-  answer_image_explanation: ''
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42766,10 +42780,10 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-21'
+  updated: '2023-01-24'
 - id: 1104
   text: Les Scènes Nationales sont des théâtres publics français.  Sur l'ensemble
-    de ces scènes, une pièce de spectacle est jouée en moyenne...
+    de ces scènes, une pièce est jouée en moyenne...
   hint: Obsolescence programmée
   type: QCM
   category: 2
@@ -42777,17 +42791,18 @@
   difficulty: 3
   language: Français
   answer_option_a: à peine plus d'une fois
-  answer_option_b: deux fois
+  answer_option_b: environ deux fois
   answer_option_c: environ 5 fois
   answer_option_d: plus de 7 fois
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Selon un rapport de la Cour des Comptes, 4,259 spectacles ont
-    donné lieu à un total de 9,821 représentations. Soit une moyenne de 2,3 représentations
-    par spectacle. Peu de spectacles donne lieu à des séries. Cela induit une grande
-    mobilité des équipes et une grande fragilité des propositions artistiques, qui
-    tournent globalement très peu après avoir été produites. La création culturelle
-    est victime d'une très grande et très rapide obsolescence des productions.
+  answer_explanation: Selon un rapport de la Cour des Comptes, 4,259 spectacles différents
+    ont donné lieu à un total de 9,821 représentations de ces spectacles. Soit une
+    moyenne de 2,3 représentations par spectacle. Peu de spectacles donne lieu à des
+    séries. Cela induit une grande mobilité des équipes et une grande fragilité des
+    propositions artistiques, qui tournent globalement très peu après avoir été produites.
+    La création culturelle est victime d'une très grande et très rapide obsolescence
+    des productions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42797,7 +42812,8 @@
     au spectacle vivant, 2022'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1e5a7ab2.JPG
-  answer_image_explanation: ''
+  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
+    par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42805,7 +42821,7 @@
   validator: null
   validation_date: null
   created: '2022-12-28'
-  updated: '2023-01-23'
+  updated: '2023-01-24'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
