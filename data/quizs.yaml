@@ -2393,20 +2393,18 @@
     \ ou encore jeux vidéo...Les activités artistiques et culturelles tiennent une\
     \ part et jouent un rôle essentiels dans nos sociétés. Pour autant, elles ne sont\
     \ pas neutres du point de vue environnemental. A quoi ressemblent nos anthopo(s)cènes?\
-    \ Saurons-nous nous organiser pour continuer à profiter, demain de toute la diversité\
-    \ et de toutes les richesses qu'ells nous procurent, d'une façon soutenable ?\
     \ Ce quiz met le doigt sur quelques enjeux environnementaux qui se cachent derrière\
-    \ elle. A vous de rentrer en scène !<br />\r\n<br />\r\nUn quiz créé par David\
-    \ Irle. David accompagne les professionnels de la culture et notamment du spectacle\
-    \ vivant vers un modèle d'organisation bas carbone, inclusif et soutenable.</p>"
+    \ elle. Et de pistes d'action. En scène !<br />\r\n<br />\r\nUn quiz créé par\
+    \ David Irle. David accompagne les professionnels de la culture et notamment du\
+    \ spectacle vivant vers un modèle d'organisation bas carbone, inclusif et soutenable.</p>"
   conclusion: '<p> Les impacts environnementaux de la culture sont divers et liés
     à des contextes particuliers. Bonne nouvelle : ils donnent actuellement lieu à
     de vifs débats parmi ses professionnels. Une meilleure connaissance des enjeux
     permet d''en réduire les impacts, tout en stimulant ses apports, tels que la convivialité,
     le vivre-ensemble, l''exercice de nos libertés, ou encore sa capacité inégalée
-    à nous forger de nouveaux imaginaires et à déplacer nos façons de voir le monde
-    ! Pour aller plus loin, l''ouvrage dont David est le coauteur : <a href="https://www.pug.fr/produit/1954/9782706149702/decarboner-la-culture">Décarboner
-    la Culture</a>. Voir aussi l''<a href="https://bonpote.com/peut-on-separer-le-bilan-carbone-de-lartiste/">article
+    à nous forger de nouveaux imaginaires et à déplacer nos façons de voir le monde.
+    Pour aller plus loin, voici l''ouvrage dont David est le coauteur : <a href="https://www.pug.fr/produit/1954/9782706149702/decarboner-la-culture">Décarboner
+    la Culture</a>. Voir aussi cet <a href="https://bonpote.com/peut-on-separer-le-bilan-carbone-de-lartiste/">article
     </a>du blogueur Bonpote sur le bilan carbone d''un artiste.</p>'
   questions:
   - 1095
@@ -2428,11 +2426,11 @@
   authors:
   - 67
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2022-12-26'
-  updated: '2023-01-24'
+  updated: '2023-01-25'
