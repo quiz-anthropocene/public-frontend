@@ -41849,9 +41849,9 @@
   created: '2022-11-25'
   updated: '2023-01-21'
 - id: 1084
-  text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation.
-    Notamment, des sols transformés en terres agricoles. En termes d''impact sur le
-    climat, cette transformation représente en cumulé :'
+  text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation,
+    notamment, en étant transformés en terres agricoles. En termes d''impact sur le
+    climat, ce changement a représente en cumulé :'
   hint: ''
   type: QCM
   category: 1
@@ -41892,7 +41892,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-21'
+  updated: '2023-01-25'
 - id: 1085
   text: Quelles sont les principales fonctions de la matière organique pour les sols
     ?
@@ -41997,18 +41997,19 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Les bovidés, qui sont des grands ruminants, sont apparus il\
-    \ y a environ 17 millions d’années, au début de l'ère géologique de l'on appelle\
-    \ le miocène. Leur extension est corrélée avec un refroidissement de la température\
-    \ moyenne de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène,\
-    \ avant que ne surviennent des cycles de glaciation - déglaciation. Une cause\
-    \ avancée est le développement de sols de prairies et steppes, profonds et riches\
-    \ en carbone et donc fertiles. Les grands herbivores les auraient maintenus en\
-    \ équilibre en évitant une évolution vers la forêt.\r\nLe bilan environnemental\
-    \ catastrophique actuel de l'élevage vient clairement de la gestion de l'homme\
-    \ et non des espèces elles-mêmes. De fait, les animaux que l'on élève sont les\
-    \ descendants d'animaux qui ont participé à la construction des sols les plus\
-    \ fertiles qui soient."
+  answer_explanation: Les bovidés, qui sont des grands ruminants, sont apparus il
+    y a environ 17 millions d’années, au début de l'ère géologique de l'on appelle
+    le miocène. Leur extension est corrélée avec un refroidissement de la température
+    moyenne de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène,
+    avant que ne surviennent des cycles de glaciation - déglaciation. Une cause avancée
+    est le développement de sols de prairies et steppes, profonds et riches en carbone
+    et donc fertiles. Car qui dit plus de carbone dans le sol, dit moins de CO2 dans
+    l'atmosphère, donc un climat qui se refroidit. Les grands herbivores auraient
+    maintenus ces sols en équilibre en évitant une évolution vers la forêt. Le bilan
+    environnemental catastrophique actuel de l'élevage vient clairement de la gestion
+    de l'homme et non des espèces elles-mêmes. De fait, les animaux que l'on élève
+    sont les descendants d'animaux qui ont participé à la construction des sols les
+    plus fertiles qui soient.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42396,8 +42397,13 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/77c075ea.JPG
-  answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
-    par le logiciel d'intelligence artificielle Midjourney
+  answer_image_explanation: Les réponses à ce quiz sont illustrées par des images
+    - libres de droits - réalisées avec le logiciel d'intelligence artificielle Midjourney.
+    Nous avons fait ce choix pour témoigner d'une évolution majeure de la filière
+    culturelle, qui n'est pas sans poser des questions éthiques ou écologiques. Les
+    logiciels d'intelligence artificielle sont aujourd'hui de plus en plus capables
+    de créer des images ou des musiques originales, ce qui n'est pas sans poser question
+    sur la place et le rôle des artistes, demain !
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
@@ -42437,8 +42443,9 @@
   answer_video_url: ''
   answer_accessible_url: ''
   answer_accessible_url_text: ''
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://theshiftproject.org/article/decarboner-culture-rapport-2021/
+  answer_scientific_url_text: Le rapport du Shift Project " Décarbonons la culture
+    ! ", paru en octobre 2021
   answer_reading_recommendation: Biopéra, Un futur pour l’opéra ? Par Sébastien Guèze,
     e-book. L'ouvrage de référence en matière d'opéra
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/64577ffd.JPG
@@ -42625,8 +42632,8 @@
     être intégré par les acteurs du milieu.'
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.lafeteducourt.com/la-fete--la-maison-2020.html
+  answer_accessible_url_text: La fête du court métrage en 2020
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -42763,7 +42770,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6b02b3b5.JPG
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6434b5c9.JPG
   answer_image_explanation: Cette illustration est libre de droits. Elle a été réalisée
     par le logiciel d'intelligence artificielle Midjourney
   answer_extra_info: ''
@@ -42904,7 +42911,8 @@
     prairie est une réserve carbone bien plus stable que la forêt, et ainsi un puits
     de carbone plus important sur le long terme. Mais sous un climat équatorial, l'humidité
     constante associée à une température élevée rend impossible la formation de sol
-    humifères profond, et les feux sont rendus moins probables.
+    humifères profond, et les feux sont rendus moins probables. C'est donc un climat
+    moins propice au stockage du carbone dans les prairies.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''

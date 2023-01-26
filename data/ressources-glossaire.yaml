@@ -376,13 +376,12 @@
   created: '2022-12-28'
   updated: '2022-12-28'
 - name: Afforestation
-  name_alternatives: ''
-  definition_short: Plantation par l'homme d'arbres dans le but de repeupler une surface
-    longtemps restée déboisée, ou n'ayant jamais été connue comme telle.
+  name_alternatives: afforestation, l'afforestation
+  definition_short: Plantation d'arbres sur une surface non boisée
   description: ''
   description_accessible_url: ''
   created: '2023-01-19'
-  updated: '2023-01-19'
+  updated: '2023-01-25'
 - name: humique
   name_alternatives: ''
   definition_short: Qui a rapport avec l'humus, c'est à dire l'ensemble des matières
