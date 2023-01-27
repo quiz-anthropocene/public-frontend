@@ -128,6 +128,12 @@ export default {
     }
     // load data
     this.initData();
+    // add linkClick listener
+    document.addEventListener('click', this.onClick);
+  },
+
+  beforeDestroy() {
+    document.removeEventListener('click', this.onClick);
   },
 
   methods: {
@@ -158,6 +164,33 @@ export default {
     },
     dismissAlert() {
       this.$store.dispatch('RESET_LOADING_STATUS');
+    },
+    onClick(event) {
+      if (event.target instanceof HTMLAnchorElement) {
+        if (event.target.href.startsWith('http')) {
+          if (!event.target.href.includes(process.env.VUE_APP_DOMAIN_URL)) {
+            // stats
+            fetch(`${process.env.VUE_APP_STATS_ENDPOINT}/link-click-event/`, {
+              method: 'POST',
+              headers: {
+                Accept: 'application/json',
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({
+                link_url: event.target.href,
+              }),
+            })
+              .then((response) => response.json())
+            // eslint-disable-next-line
+            .then(data => {
+              // console.log(data);
+              })
+              .catch((error) => {
+                console.log(error);
+              });
+          }
+        }
+      }
     },
   },
 };
