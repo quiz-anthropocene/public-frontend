@@ -1,3 +1,5 @@
+const LANGUAGE_CHOICE_FRENCH = { key: 'fr', value: 'Français', emoji: '🇫🇷' };
+
 export default {
   DATA_LAST_UPDATED_DATETIME: '2023-01-27 04:33',
   VALIDATION_STATUS_OK: 'Validée',
@@ -33,8 +35,9 @@ export default {
     { key: 'date_new', value: 'Plus récents' },
     { key: 'date_old', value: 'Plus anciens' },
   ],
+  LANGUAGE_CHOICE_FRENCH,
   LANGUAGE_CHOICE_LIST: [
-    { key: 'fr', value: 'Français', emoji: '🇫🇷' },
+    LANGUAGE_CHOICE_FRENCH,
     { key: 'en', value: 'English', emoji: '🇬🇧' },
   ],
   // DEFAULT_BACKGROUND_IMAGE_NAME: 'https://quizanthropocene.fr/showyourstripes_globe_1850-2019.png'

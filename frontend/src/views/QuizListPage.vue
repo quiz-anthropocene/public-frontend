@@ -47,7 +47,7 @@ export default {
 
   computed: {
     quizsDisplayed() {
-      return this.$store.state.quizsDisplayed;
+      return this.$store.getters.getQuizsDisplayed();
     },
   },
 
@@ -55,9 +55,13 @@ export default {
   },
 
   mounted() {
+    this.initQuizListData();
   },
 
   methods: {
+    initQuizListData() {
+      this.$store.dispatch('GET_QUIZ_LIST_FROM_API');
+    },
   },
 };
 </script>

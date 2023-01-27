@@ -160,12 +160,17 @@ export default {
   },
 
   mounted() {
+    this.initQuizSpotlightedData();
+    // newsletter callback
     if (this.$route.query.newsletter) {
       this.newsletterRegistrationCallback = true;
     }
   },
 
   methods: {
+    initQuizSpotlightedData() {
+      this.$store.dispatch('GET_QUIZ_SPOTLIGHTED_LIST_FROM_API');
+    },
     submitNewsletterRegistration() {
       this.newsletterRegistrationLoading = true;
       fetch(`${process.env.VUE_APP_API_ENDPOINT}/newsletter/`, {
