@@ -2680,7 +2680,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-12-12'
+  updated: '2023-01-26'
 - id: 68
   text: Les découvertes de pétrole, ce sont des ressources de pétrole nouvellement
     découvertes et économiquement viables. A-t-on atteint le pic des découvertes de
@@ -41944,7 +41944,7 @@
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: les animaux d’élevage
+  answer_option_a: L'élevage
   answer_option_b: l’utilisation d’engrais industriels pour la production végétale
   answer_option_c: la spécialisation des régions agricoles
   answer_option_d: la mécanisation agricole
@@ -41955,8 +41955,8 @@
     \ est l'eutrophisation qui provoque des explosions d'algues, ce qui finit par\
     \ asphyxier des écosystèmes côtiers entiers. A l'échelle planétaire, la limite\
     \ est placée à 62 millions de tonnes d'azote \"de synthèse\", alors que l'activité\
-    \ humaine en relâche entre 150 et 180 millions de tonnes.\r\n\r\nUne cause majeur\
-    \ est le développement des engrais industriels qui a permis la spécialisation\
+    \ humaine en relâche entre 150 et 180 millions de tonnes.\r\nUne cause majeure\
+    \ en est le développement des engrais industriels qui a permis la spécialisation\
     \ des régions agricoles. De grandes régions comme la Bretagne ou le Bénélux se\
     \ sont spécialisées dans l’élevage et l’agroalimentaire pour des raisons industrielles\
     \ (main d’œuvre, infrastructures de transports…). En miroir, l’élevage a disparu\
@@ -41981,7 +41981,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-25'
+  updated: '2023-01-26'
 - id: 1087
   text: Entre -15 millions et -7 millions d’années, la terre s’est refroidie de 5°C.
     Quelle est l’explication la plus probable à ce jour pour l’expliquer ?

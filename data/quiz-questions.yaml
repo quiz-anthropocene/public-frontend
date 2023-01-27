@@ -623,11 +623,6 @@
   question: 225
   order: 2
   created: '2021-01-12'
-- id: 204
-  quiz: 16
-  question: 67
-  order: 3
-  created: '2021-01-12'
 - id: 205
   quiz: 16
   question: 294
@@ -702,11 +697,6 @@
   quiz: 14
   question: 229
   order: 3
-  created: '2021-01-12'
-- id: 223
-  quiz: 17
-  question: 67
-  order: 10
   created: '2021-01-12'
 - id: 224
   quiz: 17
