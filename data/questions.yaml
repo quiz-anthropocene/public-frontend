@@ -42510,7 +42510,7 @@
   created: '2022-12-26'
   updated: '2023-01-25'
 - id: 1098
-  text: Vrai ou faux ? Conserver les grandes œuvres de l'humanité a un impact environnemental
+  text: Vrai ou faux ? Conserver les grandes peintures de l'humanité a un impact environnemental
     faible
   hint: Les Tournesols, de Vincent Van Gogh, ne vivent pas de soupe et d'eau fraîche
   type: VF
@@ -42524,7 +42524,7 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Pour garantir la bonne préservation des œuvres, les règles
+  answer_explanation: 'Pour garantir la bonne préservation des peintures, les règles
     de conservation des grandes œuvres de l''humanité sont drastiques : la température
     de 20 degrés, taux d''humidité de 55%... Elle n''est possible qu''au prix d''une
     consommation énergétique importante. Par ailleurs, les œuvres d''art anciennes
@@ -42534,8 +42534,7 @@
     obsolètes (lampe à incandescence par exemple). L''entretien et la préservation
     des grandes œuvres de l''humanité est donc un défi technique et énergétique majeur
     à l''ère des limites planétaires qui pourrait malheureusement nous obliger à faire
-    des choix et à repenser notre relation à la vie, et la fin de vie, des œuvres
-    d''art.'
+    des choix et à repenser notre relation à la vie, et la fin de vie des œuvres d''art.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.culture.gouv.fr/Thematiques/Musees/Pour-les-professionnels/Conserver-et-gerer-les-collections/Gerer-les-collections/Conserver-les-collections-des-musees-de-France
@@ -42554,7 +42553,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-01-28'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
