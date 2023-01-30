@@ -41807,11 +41807,11 @@
   answer_extra_info: ''
   author: 14
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-30'
   created: '2022-11-17'
-  updated: '2022-11-18'
+  updated: '2023-01-30'
 - id: 1083
   text: Parlons stockage du carbone. Les sols contiennent au total...
   hint: ''
@@ -42429,15 +42429,15 @@
     vidéo et utilisent peu de matière
   answer_correct: abc
   has_ordered_answers: false
-  answer_explanation: Les décors de l'opéra sont le plus souvent réalisés à partir
-    de matériaux neufs. On estime en moyenne qu'il correspond à cinq à sept camions
-    poids-lourds en moyenne, pour des décors dont la durée de vie reste faible (de
-    trois semaines à quelques mois au mieux), ce qui représente en moyenne 120 tonnes
-    de matière par an. Ces déchets s'accumulent et correspondent aujourd'hui à 1500
+  answer_explanation: Les décors d'un spectacle de l'Opéra sont réalisés le plus souvent
+    à partir de matériaux neufs. On estime que cela correspond en moyenne au contenu
+    de cinq à sept camions poids-lourds. Ceci, pour des spectacles restant en scène
+    entre trois semaines à quelques mois. Ceci représente en moyenne 120 tonnes de
+    matière par an. Ces déchets s'accumulent et correspondent aujourd'hui à 1,500
     conteneurs de déchets, dont certains sont stockés dans des docks dédiés. Cette
-    quantité de matière utilisée est directement dépendante des choix artistiques.
-    Le concept d'écoconception des décours fait doucement son chemin dans les milieux
-    de l'opéra. Quant au recours aux projections vidéos ou numériques, des expérimentations
+    quantité de matière pour le décors découle des choix artistiques. Le concept d'écoconception
+    des décours fait doucement son chemin dans les milieux de l'opéra. Quant au recours
+    aux projections vidéos ou numériques à la place de décors physiques, des expérimentations
     existent à la marge ; leur impact environnemental sera à estimer.
   answer_audio_url: ''
   answer_video_url: ''
@@ -42445,7 +42445,7 @@
   answer_accessible_url_text: ''
   answer_scientific_url: https://theshiftproject.org/article/decarboner-culture-rapport-2021/
   answer_scientific_url_text: Le rapport du Shift Project " Décarbonons la culture
-    ! ", paru en octobre 2021
+    ! ", octobre 2021
   answer_reading_recommendation: Biopéra, Un futur pour l’opéra ? Par Sébastien Guèze,
     e-book. L'ouvrage de référence en matière d'opéra
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/64577ffd.JPG
@@ -42454,11 +42454,11 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-30'
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-01-30'
 - id: 1097
   text: Quelle est le principal facteur d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
@@ -42511,7 +42511,7 @@
   updated: '2023-01-25'
 - id: 1098
   text: Vrai ou faux ? Conserver les grandes peintures de l'humanité a un impact environnemental
-    faible
+    faible.
   hint: Les Tournesols, de Vincent Van Gogh, ne vivent pas de soupe et d'eau fraîche
   type: VF
   category: 5
@@ -42524,17 +42524,17 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Pour garantir la bonne préservation des peintures, les règles
-    de conservation des grandes œuvres de l''humanité sont drastiques : la température
-    de 20 degrés, taux d''humidité de 55%... Elle n''est possible qu''au prix d''une
-    consommation énergétique importante. Par ailleurs, les œuvres d''art anciennes
-    ou des sculptures contemporaines nécessitent parfois de recourir à des ressources
-    problématiques, qu''il s''agisse de matière naturelle telles que l''ivoire (actuellement
-    prélevée sur les stocks de contrebande saisis par les douanes) ou des technologies
-    obsolètes (lampe à incandescence par exemple). L''entretien et la préservation
-    des grandes œuvres de l''humanité est donc un défi technique et énergétique majeur
-    à l''ère des limites planétaires qui pourrait malheureusement nous obliger à faire
-    des choix et à repenser notre relation à la vie, et la fin de vie des œuvres d''art.'
+  answer_explanation: "Pas de chiffres ici pour caractériser ce qu'on entend par 'impact\
+    \ faible' ; cette question met en lumière que pour garantir la bonne préservation\
+    \ des peintures nécessite des règles de conservation drastiques et consommatrices\
+    \ en énergie : température de 20 degrés, taux d'humidité de 55%... \r\nOn peut\
+    \ noter aussi que les œuvres d'art anciennes ou certaines sculptures contemporaines\
+    \ nécessitent parfois de recourir à des ressources problématiques - telle que\
+    \ l'ivoire, prélevée sur les stocks de contrebande saisis par les douanes, ou\
+    \ de recourir à des technologies obsolètes, comme la lampe à incandescence. L'entretien\
+    \ et la préservation des grandes œuvres de l'humanité représente donc un défi\
+    \ technique et énergétique certain. Cela pourrait nous obliger à opérer des choix\
+    \ et à penser la fin de vie de certaines œuvres d'art."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.culture.gouv.fr/Thematiques/Musees/Pour-les-professionnels/Conserver-et-gerer-les-collections/Gerer-les-collections/Conserver-les-collections-des-musees-de-France
@@ -42553,7 +42553,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-28'
+  updated: '2023-01-30'
 - id: 1099
   text: Quel est le risque principal qui pèse sur le patrimoine mondial de l'UNESCO
     ?
@@ -42602,33 +42602,31 @@
   created: '2022-12-26'
   updated: '2023-01-25'
 - id: 1100
-  text: Pour son édition de 2021 en plein COVID, la fête du court-métrage a décidé
-    de mettre à disposition les films pour enfants en téléchargement, et en streaming
-    pour les films pour adultes. Pour quelle raison ?
+  text: Pour son édition de 2021 en plein COVID, la Fête du Court-Métrage a décidé
+    de proposer les films pour enfants en téléchargement, et les films pour adultes
+    en streaming. Pour quelle raison ?
   hint: Eat Sleep Rave Repeat
   type: QCM
   category: 2
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: Pour des questions de droits d'auteur, les contraintes législatives
-    étant différentes pour les films pour enfants
-  answer_option_b: Parce que les courts-métrages pour enfants sont en moyenne plus
-    longs que ceux pour adultes
-  answer_option_c: Parce que les films d'animation génèrent plus de données numériques
-    que les films standards
-  answer_option_d: Parce que les enfants ont un usage différents des vidéos
+  answer_option_a: En raison de questions de droits d'auteur, les contraintes législatives
+    étant spécifiques pour les films pour enfants
+  answer_option_b: Parce que les courts-métrages pour enfants sont généralement plus
+    longs
+  answer_option_c: Parce que les films pour enfant sont souvent des films d'animation,
+    qui génèrent plus de données numériques
+  answer_option_d: Parce que les enfants ont un rapport différent aux vidéos
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Aucune différence en matière de droits d''auteur ou de durée,
-    et peu de différence d''impact CO2. Les films sont aujourd''hui entièrement diffusés
-    sur des supports numérisés. Il n''y a donc pas de différences entre courts métrages
-    adultes et courts métrages enfants. En revanche, les enfants ne regardent pas
-    du tout les films comme les adultes : là où des adultes ne vont visionner le film
-    qu''une fois, les enfants vont souvent le regarder en boucle. Pour ces derniers,
-    l''option la moins émissive consiste donc à leur proposer en téléchargement pour
-    ne générer qu''un seul et unique flux. Ce type de considération commence à ainsi
-    être intégré par les acteurs du milieu.'
+  answer_explanation: Aucune différence en matière en ce qui concernent les droits
+    d'auteur, la durée ou de technologie. La différence tient au mode de visionnage.  Là
+    où des adultes ne vont visionner une film qu'une seule fois, les enfants vont
+    souvent le regarder en boucle. L'option la moins émissive consiste donc à leur
+    proposer le film en téléchargement pour ne générer qu'un seul et unique flux.
+    Même si la différence d'émission globale est faible, ce type de considération
+    commence à ainsi être intégré par les acteurs du milieu.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.lafeteducourt.com/la-fete--la-maison-2020.html
@@ -42642,19 +42640,19 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-30'
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-01-30'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
-  hint: Le bonheur est dans le pré
+  hint: Les livres circulent
   type: QCM
   category: 2
   tags: []
-  difficulty: 3
+  difficulty: 1
   language: Français
   answer_option_a: '...nettement supérieur car il est difficile de chauffer les grands
     volumes des bibliothèques'
@@ -42662,19 +42660,18 @@
     sont mieux organisés pour optimiser la diffusion'
   answer_option_c: '...un peu inférieur car les réseaux de diffusion publics des libraires
     sont mieux organisés pour mutualiser la diffusion'
-  answer_option_d: '...nettement inférieur, en bibliothèque, car un livre est lu de
-    très nombreuses fois'
+  answer_option_d: '...nettement inférieur, car un livre en bibliothèque est lu par
+    plus de lecteurs'
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Le principal impact carbone d'un livre provient de sa production.
     Ceci en particulier cause du papier qui a un coût énergétique important et génère
-    parfois des changements d'usage de sols. Du fait de la mutualisation - un logique
-    qui s'inscrit dans ce qu'on appelle l'économie de la fonctionnalité - le Shift
-    Project estime que l'impact carbone d'un ouvrage prêté en bibliothèque est quatre
-    fois moindre que celui vendu en librairie. L'impact comparatif de la vente d'ouvrages
-    en ligne n'a pas été estimé. Bien sûr, ce n'est pas une raison pour ne pas soutenir
-    vos libraires de proximité, vous pouvez aussi partager vos livres coup de cœur
-    autour de vous !
+    parfois des changements d'usage de sols. Le Shift Project estime ainsi que, du
+    fait de la mutualisation, l'impact carbone d'un ouvrage prêté en bibliothèque
+    est quatre fois moindre que s'il est vendu en librairie. L'impact comparatif de
+    la vente d'ouvrages en ligne est encore une autre question. Bien sûr, ce n'est
+    pas une raison pour ne pas soutenir vos libraires de proximité, vous pouvez aussi
+    partager vos livres coup de cœur autour de vous !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42693,7 +42690,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-28'
-  updated: '2023-01-25'
+  updated: '2023-01-30'
 - id: 1102
   text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
     plusieurs orchestres à des milliers de kilomètres de distance'
@@ -42751,16 +42748,15 @@
   answer_option_d: 17 fois supérieure
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Selon l'étude réalisée par Clean Scene intitulée "last night
-    a DJ took a flight", l'empreinte carbone moyenne des Djs de métier en tournée
-    est environ 17 fois supérieure à l'empreinte carbone moyenne recommandée par l'Accord
-    de Paris (2 tonne de CO2e par habitant et par an). Cette moyenne cache de fortes
-    disparités. Les DJs stars ont une empreinte carbone beaucoup plus importante,  certaines
-    réalisant même parfois plusieurs sets le même soir à des lieux distants de milliers
-    de km, qu'ils rejoignent via des jets privés. Le top 1000 des Djs mondiaux a parcouru
-    l'équivalent de 117 millions de kilomètres et pris 51,000 vols lors de l'année
-    2019. Ce sont les 1% des Jjs les plus reconnus qui sont majoritairement responsables
-    de cette empreinte.
+  answer_explanation: 'C''est ce qui ressort de l''étude réalisée par Clean Scene
+    intitulée "last night a DJ took a flight" : 34 tonnes CO2e, soit 17 fois que les
+    2t par personne et par an demandés par les accords de Paris d''ici 2050. Les DJs
+    stars ont une empreinte carbone beaucoup plus importante,  certains réalisant
+    même parfois plusieurs sets le même soir à des lieux distants de milliers de km,
+    qu''ils relient via des jets privés. Le top 1000 des Djs mondiaux a parcouru l''équivalent
+    de 117 millions de kilomètres et pris 51,000 vols lors de l''année 2019. Ce sont
+    les 1% des DJs les plus reconnus qui sont majoritairement responsables de cette
+    empreinte.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://electro-news.eu/etude-100-djs-co2-foyers-un-an-2021/
@@ -42775,14 +42771,14 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-01-25'
+  updated: '2023-01-30'
 - id: 1104
-  text: Les Scènes Nationales sont des théâtres publics français.  Sur l'ensemble
-    de ces scènes, une pièce est jouée en moyenne...
+  text: Les Scènes Nationales sont des théâtres publics français labellisés. Sur l'ensemble
+    de ces 77 scènes, une pièce est jouée en moyenne...
   hint: Obsolescence programmée
   type: QCM
   category: 2
@@ -42800,8 +42796,7 @@
     moyenne de 2,3 représentations par spectacle. Peu de spectacles donne lieu à des
     séries. Cela induit une grande mobilité des équipes et une grande fragilité des
     propositions artistiques, qui tournent globalement très peu après avoir été produites.
-    La création culturelle est victime d'une très grande et très rapide obsolescence
-    des productions.
+    La création culturelle est ainsi elle aussi d'une forte et rapide de ses productions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42816,11 +42811,11 @@
   answer_extra_info: ''
   author: 67
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-01-24'
+  updated: '2023-01-30'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''

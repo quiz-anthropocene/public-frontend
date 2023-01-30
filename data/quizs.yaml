@@ -2417,18 +2417,18 @@
   - 1104
   question_count: 10
   tags: []
-  difficulty_average: 2.0
+  difficulty_average: 1.8
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2bc39d90.png
   has_audio: true
   authors:
   - 67
   visibility: PUBLIC
-  validation_status: A valider
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-01-30'
+  publish: true
+  publish_date: '2023-01-30'
+  spotlight: true
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-01-30'

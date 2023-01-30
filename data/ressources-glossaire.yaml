@@ -425,3 +425,18 @@
   description_accessible_url: ''
   created: '2023-01-26'
   updated: '2023-01-26'
+- name: obsolescence
+  name_alternatives: ''
+  definition_short: être ou devenir périmé, déprécié
+  description: ''
+  description_accessible_url: ''
+  created: '2023-01-30'
+  updated: '2023-01-30'
+- name: Shift Project
+  name_alternatives: ''
+  definition_short: think tank qui oeuvre en faveur d'une économie libérée de la contrainte
+    carbone
+  description: ''
+  description_accessible_url: https://theshiftproject.org/
+  created: '2023-01-30'
+  updated: '2023-01-30'
