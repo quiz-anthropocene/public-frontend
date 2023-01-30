@@ -67,7 +67,7 @@
 - id: 14
   first_name: Alain
   last_name: Servigne
-  question_count: 9
+  question_count: 10
   quiz_count: 1
   created: '2022-04-16'
 - id: 15
@@ -271,6 +271,6 @@
 - id: 67
   first_name: David
   last_name: Irle
-  question_count: 6
-  quiz_count: 0
+  question_count: 10
+  quiz_count: 1
   created: '2022-09-15'
