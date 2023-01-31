@@ -1909,11 +1909,13 @@
 - id: 81
   name: Population et surpopulation
   slug: population-et-surpopulation
-  introduction: <p>La croissance de la population mondiale est un facteur important
-    de la crise écologique. En est-elle la principale responsable ? Et peut-on agir
-    sur elle ? Pour quel résultats et à quelle échéance ? Dans ce quiz nous allons
-    revenir sur les chiffres les plus marquants sur cette question épineuse, et peut-être
-    questionner quelques idées reçues.</p>
+  introduction: "<p>La croissance de la population mondiale est un facteur important\
+    \ de la crise écologique. En est-elle la principale responsable ? Et peut-on agir\
+    \ sur elle ? Pour quel résultats et à quelle échéance ? Dans ce quiz nous allons\
+    \ revenir sur les chiffres les plus marquants sur cette question épineuse, et\
+    \ peut-être questionner quelques idées reçues.<br />\r\n<br />\r\nUn quiz élaboré\
+    \ par Emmanuel Pont, auteur de l'ouvrage <a href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
+    >Faut-il arrêter de faire des enfants pour sauver la planète ?</a></p>"
   conclusion: <p>Ces questions ambitionnent d'apporter une vision plus nuancée du
     débat la surpopulation. Si l'augmentation de la population humaine est un facteur
     de l'empreinte humaine sur la planète, ce n'est pas un levier d'action très efficace,
@@ -1952,7 +1954,7 @@
   publish_date: '2022-05-26'
   spotlight: true
   created: '2022-05-16'
-  updated: '2022-06-14'
+  updated: '2023-01-31'
 - id: 82
   name: Le design au service du monde de demain
   slug: le-design-au-service-du-monde-de-demain
@@ -2432,3 +2434,49 @@
   spotlight: true
   created: '2022-12-26'
   updated: '2023-01-30'
+- id: 93
+  name: Population and Overpopulation
+  slug: population-and-overpopulation
+  introduction: "<p>The growth of the world population is a major factor in the ecological\
+    \ crisis. Is it its main cause? And can we do something about it? What are the\
+    \ results and when will they be achieved? Through this quizz, we will look at\
+    \ the most important figures on this thorny issue, and perhaps challenge a few\
+    \ preconceived ideas.<br />\r\n<br />\r\nA quiz by Emmanuel Pont, author of <a\
+    \ href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
+    >Faut-il arrêter de faire des enfants pour sauver la planète ?</a> (<em>Should\
+    \ we stop making babies to save the Planet,</em> not translated)</p>"
+  conclusion: <p>These questions aim to provide a more nuanced view on the debate
+    on population and overpopulation. While the increase in human population is a
+    factor in the human footprint on the planet, it is not a very effective lever
+    for action. It is indeed difficult to reduce the birth rate, and its inertia is
+    strong. The "maximum population" depends on how we live and how our societies
+    function. Similarly, on an individual scale, having a child has a much lower ecological
+    weight than the figures that may be circulating, and which may be even more limited
+    depending on how that child will be living.</p>
+  questions:
+  - 1107
+  - 1108
+  - 1109
+  - 1110
+  - 1111
+  - 1112
+  - 1113
+  - 1114
+  - 1115
+  question_count: 9
+  tags: []
+  difficulty_average: 2.4
+  language: English
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/3093d323.jpg
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-01-31'
+  updated: '2023-01-31'
