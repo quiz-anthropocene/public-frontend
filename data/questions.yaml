@@ -34810,25 +34810,25 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: La population humaine en 1900 est estimée autour de 1,6 milliards.
-    En 2022 nous approchons les 8 milliards.
+    En 2023, elle a dépassé les 8 milliards.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Population_mondiale
   answer_accessible_url_text: 'Wikipédia : La population mondiale'
-  answer_scientific_url: ''
+  answer_scientific_url: https://ourworldindata.org/grapher/population
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000884-a4fd.jpg
   answer_image_explanation: C'est encore plus important quand on regarde depuis les
     débuts de l'Histoire !
-  answer_extra_info: La population mondiale, par continent et par pays sur https://ourworldindata.org/grapher/population
+  answer_extra_info: ''
   author: 46
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
   validation_date: '2022-04-16'
   created: '2022-04-09'
-  updated: '2022-06-15'
+  updated: '2023-01-31'
 - id: 885
   text: Parmi ces projections de population à l’horizon 2100, lesquelles sont jugées
     réalistes par les démographes ?
@@ -34858,8 +34858,8 @@
   answer_accessible_url_text: 'Futura Sciences : Jusqu''où va grimper la population
     mondiale ?'
   answer_scientific_url: https://www.nature.com/articles/d41586-021-02522-6
-  answer_scientific_url_text: 'Nature : How far will global population rise? Researchers
-    can’t agree'
+  answer_scientific_url_text: 'Nature, sept 21: How far will global population rise?
+    Researchers can’t agree'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000885-046d.jpg
   answer_image_explanation: Les trajectoires estimées pour les 3 principaux organismes
@@ -34871,7 +34871,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2023-01-31'
 - id: 886
   text: L’Inde devrait bientôt devenir le pays le plus peuplé au monde. Quel y est
     le nombre moyen d’enfants par femme ?
@@ -34910,7 +34910,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2023-01-31'
 - id: 887
   text: Aujourd'hui l'humanité utilise 50% de la surface terrestre habitable, dont
     la grande majorité pour l'agriculture. Quelle part de cette surface agricole est
@@ -34938,8 +34938,8 @@
   answer_accessible_url: https://fr.wikipedia.org/wiki/Impact_environnemental_de_l%27%C3%A9levage#Utilisation_des_terres
   answer_accessible_url_text: 'Wikipédia : Organisation de l''assolement mondial'
   answer_scientific_url: https://www.researchgate.net/publication/325532198_Reducing_food%27s_environmental_impacts_through_producers_and_consumers
-  answer_scientific_url_text: 'Science : Reducing food''s environmental impacts through
-    producers and consumers'
+  answer_scientific_url_text: 'Science, June 2018: Reducing food''s environmental
+    impacts through producers and consumers'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000887-1f6e.jpg
   answer_image_explanation: "Ligne 1 : surface terrestre globale.\r\nLigne 2 : surface\
@@ -34952,7 +34952,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2023-01-31'
 - id: 888
   text: Comment se comparent les émissions annuelles de CO2 d’un Français par rapport
     à celles d’un Nigérien ?
@@ -34991,7 +34991,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-11-02'
+  updated: '2023-01-31'
 - id: 889
   text: Depuis 1900, les émissions de CO2 ont été multipliées par 20 alors que la
     population humaine a été multipliée par 5. Dans cet essor des émissions, quelle
@@ -35031,7 +35031,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-07-07'
+  updated: '2023-01-31'
 - id: 890
   text: Peut-on estimer une population humaine maximale qui serait soutenable sur
     terre ?
@@ -35072,7 +35072,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2023-01-31'
 - id: 891
   text: Imaginons qu’on parvienne (progressivement !) à réduire la population par
     deux. Quel serait l’effet sur les émissions de gaz à effet de serre ? Elles seraient...
@@ -35156,7 +35156,7 @@
   validator: 2
   validation_date: '2022-04-13'
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2023-01-31'
 - id: 893
   text: A quelle empreinte carbone conduit le fait de mettre au monde un enfant ?
   hint: ''
@@ -39454,7 +39454,7 @@
   answer_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
   answer_scientific_url_text: BP Stastical Review
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/da1e3c45.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/29c89171.png
   answer_image_explanation: 'Source : BP Statistical Review of World Energy, 2021'
   answer_extra_info: ''
   author: 57
@@ -39463,7 +39463,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-10'
+  updated: '2023-01-31'
 - id: 1026
   text: Quel est le 1er pays consommateur de pétrole ?
   hint: ''
@@ -42460,7 +42460,7 @@
   created: '2022-12-26'
   updated: '2023-01-30'
 - id: 1097
-  text: Quelle est le principal facteur d'émission de gaz à effet de serre d'une salle
+  text: Quel est le principal facteur d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
   hint: ''
   type: QCM
@@ -42474,22 +42474,23 @@
   answer_option_d: La production et le tournage des films
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Près de 90% de l''impact carbone d''une salle de cinéma en
-    France provient du déplacement du public : près d’un million de tonnes CO2e sur
-    une année. C''est le résultat d''une implantation systématiques de grands multiplexes
-    en zones péri-urbaines pour lesquels la voiture est indispensable. Loin derrière,
-    le chauffage et la climatisation représentent moins de 4% des émissions en moyenne,
-    malgré un poids économique très important pour la gestion des salles. Très importante
-    source de revenus pour les salles de cinéma, les boissons et confiseries ont un
-    impact carbone inférieurs à 2,5% mais posent de grands enjeux en matière de santé
-    publique et d''approvisionnements en circuit-court ou respectueux de l''environnement.
-    Enfin, la production et le tournage des films, bien que parfois spectaculaire
-    en matière d''impacts est mutualisée à l''échelle des salles de cinéma qui les
-    diffusent. Quand des voitures neuves sont détruites à hauteur de 30 millions d''euros
-    sont détruites pour produire l''avant-dernier James Bond, sa très large diffusion
-    induit une quote-part d''impact très faible à l''échelle d''une salle. Une piste
-    face à ces impacts consisterait à rendre obligatoire l''évaluation du poids carbone
-    des films, comme le propose le plan Action ! du Centre National du Cinéma.'
+  answer_explanation: 'En moyenne, près de 90% de l''impact carbone d''une salle de
+    cinéma en France provient du déplacement du public : près d’un million de tonnes
+    CO2e sur une année. C''est le résultat d''une implantation systématiques de grands
+    multiplexes en zones péri-urbaines pour lesquels la voiture est indispensable.
+    Loin derrière, le chauffage et la climatisation représentent moins de 4% des émissions
+    en moyenne, malgré un poids économique très important pour la gestion des salles.
+    Très importante source de revenus pour les salles de cinéma, les boissons et confiseries
+    ont un impact carbone inférieurs à 2,5% mais posent de grands enjeux en matière
+    de santé publique et d''approvisionnements en circuit-court ou respectueux de
+    l''environnement. Enfin, la production et le tournage des films, bien que parfois
+    spectaculaire en matière d''impacts est mutualisée à l''échelle des salles de
+    cinéma qui les diffusent. Quand des voitures neuves sont détruites à hauteur de
+    30 millions d''euros sont détruites pour produire l''avant-dernier James Bond,
+    sa très large diffusion induit une quote-part d''impact très faible à l''échelle
+    d''une salle. Une piste face à ces impacts consisterait à rendre obligatoire l''évaluation
+    du poids carbone des films, comme le propose le plan Action ! du Centre National
+    du Cinéma.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42508,7 +42509,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-01-31'
 - id: 1098
   text: Vrai ou faux ? Conserver les grandes peintures de l'humanité a un impact environnemental
     faible.
@@ -42567,7 +42568,8 @@
     Bouddhas par les Talibans en Afghanistan
   answer_option_b: Le risque économique - coût d'entretien des sites classés au patrimoine
     mondial
-  answer_option_c: La préservation et la restauration de sites
+  answer_option_c: Le risque technique - la difficulté à préserver et restaurer les
+    sites
   answer_option_d: Le risque environnemental - en particulier les conséquences du
     dérèglement climatique
   answer_correct: d
@@ -42600,7 +42602,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-01-31'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la Fête du Court-Métrage a décidé
     de proposer les films pour enfants en téléchargement, et les films pour adultes
@@ -42692,8 +42694,9 @@
   created: '2022-12-28'
   updated: '2023-01-30'
 - id: 1102
-  text: 'Vrai ou faux : les grands chefs d''orchestre dirigent souvent en même temps
-    plusieurs orchestres à des milliers de kilomètres de distance'
+  text: 'Vrai ou faux : les grands chefs d''orchestre peuvent être responsables de
+    plusieurs grands orchestres à la fois, même distants de plusieurs milliers de
+    kilomètres'
   hint: Voyage au bout de la nuit
   type: VF
   category: 1
@@ -42732,9 +42735,9 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-28'
-  updated: '2023-01-25'
+  updated: '2023-01-31'
 - id: 1103
-  text: 'L''empreinte carbone moyenne d''un DJ en tournée est :'
+  text: 'L''empreinte carbone moyenne d''un DJ professionnel en tournée est :'
   hint: Last night a dj took a flight
   type: QCM
   category: 1
@@ -42775,10 +42778,10 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-01-30'
+  updated: '2023-01-31'
 - id: 1104
   text: Les Scènes Nationales sont des théâtres publics français labellisés. Sur l'ensemble
-    de ces 77 scènes, une pièce est jouée en moyenne...
+    de ces 77 scènes, un même spectacle est joué en moyenne...
   hint: Obsolescence programmée
   type: QCM
   category: 2
@@ -42815,7 +42818,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-01-30'
+  updated: '2023-01-31'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
@@ -42930,3 +42933,341 @@
   validation_date: '2023-01-19'
   created: '2023-01-16'
   updated: '2023-01-25'
+- id: 1107
+  text: How much has the human population increased since 1900?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: It doubled
+  answer_option_b: It has increased fivefold
+  answer_option_c: It has increased tenfold
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: The human population in 1900 is estimated to be around 1.6 billion.
+    In 2023, it exceeded 8 billion.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://en.wikipedia.org/wiki/World_population
+  answer_accessible_url_text: Wikipedia, World population
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d60f21cc.png
+  answer_image_explanation: This is even more impressing when looking back at the
+    beginning of history!
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1108
+  text: Among the following population projections to 2100, which ones are considered
+    realistic by demographers?
+  hint: The spectrum is wide!
+  type: QCM-RM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 9 billion
+  answer_option_b: 10 billion
+  answer_option_c: 11 billion
+  answer_option_d: 12 billion
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: Despite the significant demograpic inertia (for example, the
+    majority of people who will be alive in 2050 are already born), there is no crystal
+    ball for the future population. The first $64,000 question is; how fast will the
+    birth rate decline in countries where it is high (most of Africa). The second
+    is whether the birth rate will continue to plummet in rich countries, where the
+    fertility rate is already below 2 children per woman.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.futura-sciences.com/planete/actualites/population-mondiale-jusquou-va-grimper-population-mondiale-39860/
+  answer_accessible_url_text: 'Futura Sciences : Jusqu''où va grimper la population
+    mondiale ? (in French)'
+  answer_scientific_url: https://www.nature.com/articles/d41586-021-02522-6
+  answer_scientific_url_text: 'Nature, sept 21: How far will global population rise?
+    Researchers can’t agree'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8e740b4c.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1109
+  text: India is set to become the most populated country in the world. What is the
+    average number of children per woman in there?
+  hint: Maybe less that you would think
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: '2.0'
+  answer_option_b: '2.5'
+  answer_option_c: '3.0'
+  answer_option_d: '3.5'
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: India has recently fallen below 2.1 children per woman, the
+    rate that ensures long-term population stability. This howeve hids significant
+    differences across states, and between urban and rural areas.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.rts.ch/info/monde/medias/12671445-linde-passe-pour-la-premiere-fois-sous-le-seuil-de-21-enfants-par-femm
+  answer_accessible_url_text: 'RTS : L''Inde passe pour la première fois sous le seuil
+    de 2,1 enfants par femme (in French)'
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/189f7fb4.jpg
+  answer_image_explanation: By iashris.com - https://indiainpixels.xyz, CC BY-SA 4.0,
+    https://commons.wikimedia.org/w/index.php?curid=112844699
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1110
+  text: Today, humanity use 50% of the earth's habitable surface, the vast majority
+    of which is used for agriculture. How much of this agricultural land is used for
+    livestock production?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: 25%
+  answer_option_b: 50%
+  answer_option_c: 75%
+  answer_option_d: 90%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: On the one hand, livestock farming occupies large areas of pastureland
+    (about 2/3 of the total agricultural area), but it also consumes half of the cereals
+    produced by humanity. If humanity stopped consuming animal products tomorrow,
+    this would free up 3/4 of the land occupied by agriculture.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://en.wikipedia.org/wiki/Livestock#Environmental_impact
+  answer_accessible_url_text: Wikipedia, livestock environmental impact
+  answer_scientific_url: https://www.researchgate.net/publication/325532198_Reducing_food%27s_environmental_impacts_through_producers_and_consumers
+  answer_scientific_url_text: 'Science, June 2018: Reducing food''s environmental
+    impacts through producers and consumers'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fc6efb36.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1111
+  text: How does the annual CO2 footprint of a French person compare to the one of
+    a Nigerian?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: 10 times higher
+  answer_option_b: 30 times higher
+  answer_option_c: 50 times higher
+  answer_option_d: 100 times higher
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: CO2 emissions are very low in Niger, because very little fossil
+    fuel is used. Moreover, this gap is not really closing. This is also true on a
+    global scale, with the poorest 50% of the world's population being responsible
+    for only 10% of the emissions linked to human consumption.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.oxfam.org/en/5-things-you-need-know-about-carbon-inequality
+  answer_accessible_url_text: Oxfam International, 5 things you need to know about
+    carbon inequality
+  answer_scientific_url: https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?locations=NE
+  answer_scientific_url_text: 'Carbon footprint per capita in Niger. Source: World
+    Bank'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b4dc3d4c.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1112
+  text: Since 1900, CO2 emissions have increased twentyfold and the human population
+    fivefold. How much of this increase in emissions is due to population growth?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: It affords for 25%
+  answer_option_b: It affords for 50%
+  answer_option_c: The question does not really make sense
+  answer_option_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'It will make very little sense to assess this. It mixes population
+    growth in countries with low emissions with emissions growth in countries with
+    stable populations. It is also unclear what would have happened if the population
+    had grown more slowly: would less fossil fuel really have been burnt?'
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2d2f3d86.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1113
+  text: Is it possible to estimate a maximum human population that would be sustainable
+    on Earth?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: yes, 100 million
+  answer_option_b: yes, 2 billion
+  answer_option_c: yes, 10 billion
+  answer_option_d: No, the question is poorly put
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: It all depends on what we are aiming for as a way of life and
+    as an ecological state considered sustainable. For example, there are many ways
+    to feed 10 billion people in a sustainable way in 2050. What seems hardly sustainable,
+    however, is a 10 billion population with the current western lifestyle.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.cirad.fr/espace-presse/communiques-de-presse/2020/repenser-nos-modeles-agricoles
+  answer_accessible_url_text: 'Agrimonde-Terra : un jeu de scénarios pour explorer
+    le futur de la sécurité alimentaire et l’usage des terres (in French)'
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/30d7b08f.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1114
+  text: Let us suppose that we (gradually) manage to halve the world population. What
+    would be the effect on carbon footprint?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Halved
+  answer_option_b: Reduced by one third
+  answer_option_c: No change
+  answer_option_d: Difficult to say
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "Many other things need to be factored in:\r\n- if the demand\
+    \ for fossil fuel falls, its price will plummet too, and demand will rise again\r\
+    \n- the world becomes less dense and therefore less efficient\r\n- this is one\
+    \ more political reason to postpone difficult political decisions\r\nIn any case,\
+    \ global warming is a a result of cumulative emissions, so emitting the same amount\
+    \ more slowly is just putting off the problem."
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8300fa6f.jpeg
+  answer_image_explanation: Thanos, the Avengers villain who wanted to halve the population
+    to save the environment.
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
+- id: 1115
+  text: Let us suppose now that, along the lines of China, a one-child policy is launched
+    tomorrow in France. How much could the French population be reduced by 2100?
+  hint: ''
+  type: QCM-RM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: 25%
+  answer_option_b: 50%
+  answer_option_c: 75%
+  answer_option_d: ''
+  answer_correct: ab
+  has_ordered_answers: true
+  answer_explanation: "It all depends on what we mean by \"one child as in China\"\
+    . The Chinese one-child policy has resulted in fertility rates between 2.5 children\
+    \ per woman (at the beginning) and 1.6 (recently).\r\nReducing the fertility rate\
+    \ to 1.6 in France would reduce the population by a quarter in 2100 compared to\
+    \ the scenario where the birth rate remains stable (which also corresponds to\
+    \ current projections). For instance, with a 'hard' single child policy (1.1 fertility\
+    \ rate), the population would be halved in 2100."
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.ined.fr/fr/tout-savoir-population/jeux/population-demain/
+  answer_accessible_url_text: 'INED : Imaginez la population de demain (in French)'
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b4bcff00.jpg
+  answer_image_explanation: Calculations by Emmanuel Pont
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-01-31'
+  updated: '2023-01-31'
