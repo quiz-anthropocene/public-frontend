@@ -108,3 +108,18 @@
   to_quiz: 84
   status: traduction
   created: '2022-09-01'
+- id: 24
+  from_quiz: 94
+  to_quiz: 84
+  status: suivant
+  created: '2023-02-02'
+- id: 25
+  from_quiz: 94
+  to_quiz: 83
+  status: jumeau
+  created: '2023-02-02'
+- id: 26
+  from_quiz: 94
+  to_quiz: 79
+  status: suivant
+  created: '2023-02-02'

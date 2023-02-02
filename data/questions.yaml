@@ -43270,3 +43270,398 @@
   validation_date: null
   created: '2023-01-31'
   updated: '2023-01-31'
+- id: 1116
+  text: Laquelle de ces phrases décrit le mieux l'effet de serre de l'atmosphère ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Sous l'action des rayons du soleil, certains gaz présents dans
+    l'atmosphère se désintègrent en dégageant de la chaleur
+  answer_option_b: Certains gaz présents dans l'atmosphère captent les rayons infrarouges
+    émis par le Soleil et les réemmettent vers le sol
+  answer_option_c: Certains gaz présents dans l'atmosphère captent les rayons infrarouges
+    émis par la Terre et les réemmettent vers le sol
+  answer_option_d: ''
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: Les rayons solaires éclairent la Terre. Une partie de ces rayons
+    est réfléchie vers l'espace, une autre est absorbée par l'atmosphère et une autre
+    l'est par le sol. Pour évacuer l'énergie absorbée, ce dernier rayonne à son tour
+    dans le domaine infrarouge. Sans l'effet de serre, la totalité des rayons infrarouges
+    émis par le sol irait directement se perdre dans l'espace. Cependant, certains
+    gaz dits « à effet de serre » ont la capacité d'absorber ces infrarouges, ce qui
+    entraîne une augmentation de leur température. Ils éliminent ensuite l'énergie
+    ainsi emmagasinée en émettant à leur tour des rayons infrarouges dans toutes les
+    directions, y compris vers le sol
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Effet_de_serre
+  answer_accessible_url_text: Wikipedia, l'effet de serre
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/95012fd5.png
+  answer_image_explanation: Une représentation schématique et simplifiée des échanges
+    d'énergie entre l'espace, l'atmosphère terrestre et la surface de la Terre.
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1117
+  text: Vrai ou faux ? Il y avait un effet de serre sur Terre avant que l'humanité
+    ne commence à exploiter les combustibles fossiles à large échelle.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Les principaux gaz à effet de serre présents aujourd'hui dans
+    l'atmosphère l'étaient déjà avant l'ère industrielle. L'effet de serre n'est donc
+    pas un phénomène nouveau. Sans lui, la vie n'aurait d'ailleurs pas pu se développer.
+    Ce qui a changé ces dernières décennies, c'est l'augmentation de la concentration
+    de certains de ces gaz.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Effet_de_serre
+  answer_accessible_url_text: Wikipedia, l'effet de serre
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a54f99b0.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1118
+  text: Quelle serait la température moyenne sur Terre sans l'effet de serre ?
+  hint: Si vous avez fait attention, vous aurez noté que la réponse à cette question
+    se trouvait sur le schéma d'explication de la question 1 !
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: -273,15° (zéro absolu)
+  answer_option_b: -196 °C
+  answer_option_c: -18°C
+  answer_option_d: 0°C
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Sans effet de serre, la température moyenne sur Terre serait
+    environ de -18°C si on considère l'albédo (part des rayonnements solaires renvoyés
+    vers l'espace) constant. Cependant, la faiblesse des températures entraînerait
+    une glaciation poussée et la glace (blanche) reflète la lumière du soleil. L'albédo
+    serait donc renforcé et la température se stabiliserait probablement au-dessous
+    de -50°C.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://fr.wikipedia.org/wiki/Effet_de_serre#Effets_des_activit%C3%A9s_humaines
+  answer_accessible_url_text: Wikipedia, l'effet de serre
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e8211515.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1119
+  text: Dans l'ordre, quels sont les trois gaz participant le plus à l'effet de serre
+    dans l'atmosphère ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: 1. Vapeur d'eau 2. Dioxyde de carbone 3. Méthane
+  answer_option_b: 1. Dioxyde de carbone 2. Méthane 3. Protoxyde d'azote
+  answer_option_c: 1. Dioxyde de carbone 2. Vapeur d'eau 3. Ozone
+  answer_option_d: 1. Dioxyde de carbone 2. Méthane 3. Ozone
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Cette question contenait un petit piège. Il n'y était pas question
+    du renforcement de l'effet de serre (réchauffement climatique), mais de l'effet
+    de serre dans sa totalité (d'origine naturelle et anthropique). Ainsi, la vapeur
+    d'eau arrive en tête. Sa contribution à l'effet de serre est entre 2 et 3 fois
+    supérieure à celle du dioxyde de carbone (CO2), lui-même devant le méthane.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/report/ar5/wg1/
+  answer_scientific_url_text: 'IPCC, Climate Change 2013: The Physical Science Basis,
+    5th Assessment Report, 1st Working Group, Chapter 8'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c2c73fdb.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1120
+  text: Vrai ou faux ? La vapeur d'eau émise par les activités humaines au niveau
+    du sol (c'est à dire sans compter celle émise par les avions dans la haute atmosphère)
+    contribue au réchauffement climatique.
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: 'Contrairement au dioxyde de carbone et au méthane, la vapeur
+    d''eau ne s''accumule pas dans l''atmosphère. Sa concentration y est principalement
+    régulée par la température : si celle-ci augmente, de l''eau liquide s''évapore
+    et la concentration en vapeur d''eau augmente. Si au contraire la température
+    de l''air diminue, l''eau passe sous forme liquide ou solide et de la pluie, de
+    la rosée, de la grêle ou de la neige se forme. Le temps de séjour de la vapeur
+    d''eau dans l''atmosphère est donc faible et les émissions humaines de vapeur
+    d''eau (hors cas de la haute atmosphère) ne jouent donc pas sur le réchauffement
+    climatique.'
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/report/ar5/wg1/
+  answer_scientific_url_text: 'IPCC, Climate Change 2013: The Physical Science Basis,
+    5th Assessment Report, 1st Working Group, Chapter 8'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/80f49e17.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1121
+  text: Vrai ou faux ? La vapeur d'eau joue un rôle important dans le réchauffement
+    climatique.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Plus l'air est chaud, plus il contient de vapeur d'eau. Or nous
+    avons vu que la vapeur d'eau est un gaz à effet de serre. En se réchauffant par
+    effet de serre lié à l'accumulation de dioxyde de carbone, méthane, etc. l'atmosphère
+    contient davantage de vapeur d'eau, ce qui augmente l'effet de serre... donc son
+    réchauffement. La vapeur d'eau aggrave donc significativement le réchauffement
+    climatique par un effet de rétroaction positive. Contrairement au CO2, ce ne sont
+    pas les émissions humaines de vapeur d'eau qui jouent sur le climat, mais le réchauffement
+    de l'atmosphère qui entraîne la hausse de sa concentration en vapeur d'eau.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/report/ar5/wg1/
+  answer_scientific_url_text: 'IPCC, Climate Change 2013: The Physical Science Basis,
+    5th Assessment Report, 1st Working Group, Chapter 8'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a61c58a9.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1122
+  text: Pendant laquelle de ces dernières décennies les émissions mondiales de gaz
+    à effet de serre ont-elles le plus augmenté ?
+  hint: Pensez au développement de la Chine
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Années 80
+  answer_option_b: Années 90
+  answer_option_c: Années 2000
+  answer_option_d: Années 2010
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: C'est de 2000 à 2009 que les émissions mondiales de gaz à effet
+    de serre ont le plus augmenté, du fait principalement du rôle du charbon dans
+    l'essor de l'économie chinoise
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/report/ar6/wg3/
+  answer_scientific_url_text: 'Source : IPCC, Climate Change 2022, Mitigation of Climate
+    Change, Summary for Policymakers'
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3be51b38.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1123
+  text: Vrai ou faux ? Tous les gaz à effet de serre ont la même durée de vie dans
+    l'atmosphère
+  hint: Ca serait trop simple !
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Chaque gaz présente un effet de serre et un temps de séjour
+    dans l'atmosphère différents. Ce dernier paramètre dépend de la stabilité chimique
+    du gaz et de la capacité des écosystèmes à l'absorber. Le méthane présente par
+    exemple un effet de serre plus important que le dioxyde de carbone, tout en ayant
+    une temps de séjour dans l'atmosphère inférieur à ce dernier.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://jancovici.com/changement-climatique/gaz-a-effet-de-serre-et-cycle-du-carbone/quels-sont-les-gaz-a-effet-de-serre-quels-sont-leurs-contribution-a-leffet-de-serre/
+  answer_accessible_url_text: Quels sont les gaz à effet de serre ? Blog de Jean-Marc
+    Jancovi, 2007
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5e22aef5.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1124
+  text: Il y a 22 000 ans se terminait la dernière ère glaciaire ; le niveau des mers
+    était 120 m plus bas qu'aujourd'hui et le nord de l'Europe était recouvert de
+    plusieurs km de glace. Quel est l'écart de température moyenne mondiale entre
+    cette période et la température moyenne préindustrielle ?
+  hint: Cela paraît peu
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: -15°C
+  answer_option_b: -10°C
+  answer_option_c: -6°C
+  answer_option_d: -3°C
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La température moyenne lors du maximum de la dernière ère glaciaire
+    était environ de 6-7°C inférieure à la température moyenne préindustrielle (début
+    du XIXème siècle). La déglaciation s'est ensuite déroulée pendant environ 12000
+    ans puis la température moyenne est restée relativement stable jusqu'à la période
+    préindustrielle, c'est-à-dire il y a 200 ans. Depuis, sous l'effet des gaz à effet
+    de serre émis par l'humanité, la température de la basse atmosphère s'est encore
+    réchauffée de 1,1°C.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://pubmed.ncbi.nlm.nih.gov/34759364/
+  answer_scientific_url_text: M. B. Osman et al, Globally resolved surface temperatures
+    since the Last Glacial Maximum, Nature, 599, pages 239–244 (2021)
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d41765eb.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
+- id: 1125
+  text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
+    atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
+    années.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: À aucun moment pendant les 800 000 dernières années, la concentration
+    atmosphérique en dioxyde de carbone n'a été plus élevée qu'aujourd'hui. Cela est
+    dû principalement aux combustibles fossiles (charbon, pétrole et gaz) brûlés par
+    l'humanité.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f0c3e59.png
+  answer_image_explanation: Concentration atmosphérique globale du CO2, mesurée en
+    ppm, estimée à partir de carottages glaciaires
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-02'
+  updated: '2023-02-02'
