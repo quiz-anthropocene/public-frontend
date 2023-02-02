@@ -1860,7 +1860,7 @@
   publish_date: '2022-01-20'
   spotlight: true
   created: '2022-01-10'
-  updated: '2023-02-01'
+  updated: '2023-02-02'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -2013,7 +2013,7 @@
   question_count: 9
   tags:
   - 11
-  difficulty_average: 1.0
+  difficulty_average: 1.8
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/37979b71.png
   has_audio: false
@@ -2027,7 +2027,7 @@
   publish_date: '2022-11-04'
   spotlight: true
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2023-02-02'
 - id: 84
   name: Introduction to the Climate Fresk
   slug: introduction-to-the-climate-fresk-en
@@ -2076,7 +2076,7 @@
   publish_date: '2022-06-29'
   spotlight: true
   created: '2022-06-19'
-  updated: '2023-02-01'
+  updated: '2023-02-02'
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules
@@ -2481,3 +2481,46 @@
   spotlight: false
   created: '2023-01-31'
   updated: '2023-02-01'
+- id: 94
+  name: L'effet de serre
+  slug: leffet-de-serre
+  introduction: <p>Depuis 2017, Maxence Cordiez publie des contenus sur l'énergie
+    et le climat, en particulier sur <a href="https://www.linkedin.com/in/maxence-cordiez/">LinkedIn</a>.
+    Il nous avait déjà partagé un quiz sur le pétrole. Le voici de retour avec cette
+    autre bouquet de 10 questions, qui vont vous rendrent incollable sur l'effet de
+    serre. Vous pouvez aussi participer à un atelier la <a href="http://fresqueduclimat.org">Fresque
+    du Climat</a>.</p>
+  conclusion: '<p>Si vous avez fait des erreurs ou que vous souhaitez en apprendre
+    davantage sur l''énergie, vous pouvez découvrir l''ouvrage de Maxence Cordiez
+    : <a href="https://www.connaissancedesenergies.org/en-librairie-energies-fake-or-not-extraits-220415">Énergies
+    - Fake or not ?</a></p>'
+  questions:
+  - 1116
+  - 1117
+  - 1118
+  - 1119
+  - 1120
+  - 1121
+  - 1122
+  - 1123
+  - 1124
+  - 1125
+  question_count: 10
+  tags:
+  - 98
+  - 100
+  difficulty_average: 2.1
+  language: Français
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/60802a94.png
+  has_audio: false
+  authors:
+  - 57
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-02-02'
+  updated: '2023-02-02'
