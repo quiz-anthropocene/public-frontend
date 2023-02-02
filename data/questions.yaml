@@ -42428,15 +42428,15 @@
   answer_option_d: Les décors d'opéra sont désormais essentiellement des projections
     vidéo et utilisent peu de matière
   answer_correct: abc
-  has_ordered_answers: false
+  has_ordered_answers: true
   answer_explanation: Les décors d'un spectacle de l'Opéra sont réalisés le plus souvent
     à partir de matériaux neufs. On estime que cela correspond en moyenne au contenu
     de cinq à sept camions poids-lourds. Ceci, pour des spectacles restant en scène
     entre trois semaines à quelques mois. Ceci représente en moyenne 120 tonnes de
-    matière par an. Ces déchets s'accumulent et correspondent aujourd'hui à 1,500
-    conteneurs de déchets, dont certains sont stockés dans des docks dédiés. Cette
-    quantité de matière pour le décors découle des choix artistiques. Le concept d'écoconception
-    des décours fait doucement son chemin dans les milieux de l'opéra. Quant au recours
+    matière par an. Ces déchets s'accumulent et remplissent aujourd'hui à 1,500 conteneurs
+    de déchets, dont certains sont stockés dans des docks dédiés. Cette quantité de
+    matière pour le décors découle des choix artistiques. Le concept d'écoconception
+    des décors fait doucement son chemin dans les milieux de l'opéra. Quant au recours
     aux projections vidéos ou numériques à la place de décors physiques, des expérimentations
     existent à la marge ; leur impact environnemental sera à estimer.
   answer_audio_url: ''
@@ -42458,7 +42458,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-26'
-  updated: '2023-01-30'
+  updated: '2023-02-01'
 - id: 1097
   text: Quel est le principal facteur d'émission de gaz à effet de serre d'une salle
     de cinéma en France ?
@@ -42694,9 +42694,8 @@
   created: '2022-12-28'
   updated: '2023-01-30'
 - id: 1102
-  text: 'Vrai ou faux : les grands chefs d''orchestre peuvent être responsables de
-    plusieurs grands orchestres à la fois, même distants de plusieurs milliers de
-    kilomètres'
+  text: 'Vrai ou faux : les grands chefs d''orchestre peuvent travailler avec plusieurs
+    orchestres à la fois, même distants de plusieurs milliers de kilomètres'
   hint: Voyage au bout de la nuit
   type: VF
   category: 1
@@ -42711,12 +42710,12 @@
   has_ordered_answers: true
   answer_explanation: Les grandes stars internationales cumulent les postes et vivent
     souvent très loin du lieu principal des répétitions, ce qui les amène à prendre
-    l'avion régulièrement. On peut citer l'exemple du chef vénézuélien Gustavo Dudamel,
-    qui cumule les fonctions de directeur musical de l’Opéra de Paris et de directeur
-    artistique de l’Orchestre Philharmonique de Los Angeles. C'est la pratique pour
-    quasiment toutes les grandes têtes d'affiche. Difficile de demander ensuite aux
-    musiciens et aux équipes de faire leur juste part et de venir aux représentations
-    en train ou à vélo, par exemple !
+    l'avion régulièrement. Le chef vénézuélien Gustavo Dudamel cumule ainsi les fonctions
+    de directeur musical de l’Opéra de Paris avec celles de directeur artistique de
+    l’Orchestre Philharmonique de Los Angeles. C'est la pratique pour quasiment toutes
+    les grandes têtes d'affiche. Difficile de demander ensuite aux musiciens et aux
+    équipes de faire leur juste part et de venir aux représentations en train ou à
+    vélo !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.radiofrance.fr/francemusique/podcasts/reportage/co2-enquete-sur-les-trajets-pas-tres-ecolo-des-chefs-d-orchestre-3365073
@@ -42735,7 +42734,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-28'
-  updated: '2023-01-31'
+  updated: '2023-02-01'
 - id: 1103
   text: 'L''empreinte carbone moyenne d''un DJ professionnel en tournée est :'
   hint: Last night a dj took a flight
