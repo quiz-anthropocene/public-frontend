@@ -98,3 +98,13 @@
   to_quiz: 79
   status: similaire
   created: '2022-11-12'
+- id: 22
+  from_quiz: 81
+  to_quiz: 93
+  status: traduction
+  created: '2023-02-01'
+- id: 23
+  from_quiz: 79
+  to_quiz: 84
+  status: traduction
+  created: '2022-09-01'

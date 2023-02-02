@@ -1860,7 +1860,7 @@
   publish_date: '2022-01-20'
   spotlight: true
   created: '2022-01-10'
-  updated: '2022-11-12'
+  updated: '2023-02-01'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -1954,7 +1954,7 @@
   publish_date: '2022-05-26'
   spotlight: true
   created: '2022-05-16'
-  updated: '2023-01-31'
+  updated: '2023-02-01'
 - id: 82
   name: Le design au service du monde de demain
   slug: le-design-au-service-du-monde-de-demain
@@ -2062,7 +2062,7 @@
   - 98
   - 225
   - 256
-  difficulty_average: 1.0
+  difficulty_average: 1.8
   language: English
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
   has_audio: false
@@ -2076,7 +2076,7 @@
   publish_date: '2022-06-29'
   spotlight: true
   created: '2022-06-19'
-  updated: '2022-07-09'
+  updated: '2023-02-01'
 - id: 85
   name: Les Glaciers Chamboulés
   slug: les-glaciers-chamboules
@@ -2464,13 +2464,14 @@
   - 1114
   - 1115
   question_count: 9
-  tags: []
+  tags:
+  - 27
   difficulty_average: 2.4
   language: English
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/3093d323.jpg
   has_audio: false
   authors:
-  - 2
+  - 46
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
@@ -2479,4 +2480,4 @@
   publish_date: null
   spotlight: false
   created: '2023-01-31'
-  updated: '2023-01-31'
+  updated: '2023-02-01'
