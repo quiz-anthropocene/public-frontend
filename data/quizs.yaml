@@ -1942,7 +1942,7 @@
   - 82
   difficulty_average: 2.6
   language: Français
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000081-6f88.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/83e176cd.png
   has_audio: false
   authors:
   - 46
@@ -1954,7 +1954,7 @@
   publish_date: '2022-05-26'
   spotlight: true
   created: '2022-05-16'
-  updated: '2023-02-01'
+  updated: '2023-02-03'
 - id: 82
   name: Le design au service du monde de demain
   slug: le-design-au-service-du-monde-de-demain
@@ -2437,22 +2437,22 @@
 - id: 93
   name: Population and Overpopulation
   slug: population-and-overpopulation
-  introduction: "<p>The growth of the world population is a major factor in the ecological\
-    \ crisis. Is it its main cause? And can we do something about it? What are the\
-    \ results and when will they be achieved? Through this quizz, we will look at\
-    \ the most important figures on this thorny issue, and perhaps challenge a few\
-    \ preconceived ideas.<br />\r\n<br />\r\nA quiz by Emmanuel Pont, author of <a\
-    \ href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
+  introduction: "<p>The growth of the world population is widely seen as a major factor\
+    \ in the ecological crisis. Is it its main cause? Is there something we can do\
+    \ about it? What will be the results and when? On this thorny issue, this quizz\
+    \ will take you through some of key figures, challenge a few preconceived ideas.\
+    \ In a nutshell, provide a more nuanced view on the debate on population and overpopulation.<br\
+    \ />\r\n<br />\r\nThis quizz was created by Emmanuel Pont. Emmanuel authored the\
+    \ book <a href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
     >Faut-il arrêter de faire des enfants pour sauver la planète ?</a> (<em>Should\
-    \ we stop making babies to save the Planet,</em> not translated)</p>"
-  conclusion: <p>These questions aim to provide a more nuanced view on the debate
-    on population and overpopulation. While the increase in human population is a
-    factor in the human footprint on the planet, it is not a very effective lever
-    for action. It is indeed difficult to reduce the birth rate, and its inertia is
-    strong. The "maximum population" depends on how we live and how our societies
-    function. Similarly, on an individual scale, having a child has a much lower ecological
-    weight than the figures that may be circulating, and which may be even more limited
-    depending on how that child will be living.</p>
+    \ we stop making babies to save the Planet?,</em> not translated)</p>"
+  conclusion: <p>While the increase in human population is a factor in the human footprint
+    on the planet, it is not a very effective lever for action. It is indeed difficult
+    to reduce the birth rate, and the demographical inertia is strong. Defining the
+    <em>maximum population</em> depends on how we live and how our societies function.
+    At the individual scale, having a child has a much lower ecological weight than
+    the figures that may be circulating, and which may be even more limited depending
+    on how that child will be living.</p>
   questions:
   - 1107
   - 1108
@@ -2468,7 +2468,7 @@
   - 27
   difficulty_average: 2.4
   language: English
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/3093d323.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/4c37af02.png
   has_audio: false
   authors:
   - 46
@@ -2480,7 +2480,7 @@
   publish_date: null
   spotlight: false
   created: '2023-01-31'
-  updated: '2023-02-01'
+  updated: '2023-02-03'
 - id: 94
   name: L'effet de serre
   slug: leffet-de-serre
