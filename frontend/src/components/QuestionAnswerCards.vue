@@ -86,23 +86,25 @@
             <span>🔈&nbsp;</span>
             <audio controls>
               <source v-bind:src="question.answer_audio_url" type="audio/mpeg">
-              Votre navigateur ne supporte par le HTML5 audio. Voici un <a href="question.answer_audio_url">lien pour télécharger le fichier audio</a>.
+              Votre navigateur ne supporte par le HTML5 audio. Voici un <a v-bind:href="question.answer_audio_url">lien pour télécharger le fichier audio</a>.
             </audio>
           </p>
           <p v-if="question.answer_video_url" title="Explication au format vidéo">
             <span>📺&nbsp;</span>
             <video v-if="question.answer_video_url.endsWith('.mp4')" controls height="250" type="video/mp4">
               <source v-bind:src="question.answer_video_url">
-              Votre navigateur ne supporte par le HTML5 vidéo. Voici un <a href="question.answer_video_url">lien pour télécharger le fichier vidéo</a>.
+              Votre navigateur ne supporte par le HTML5 vidéo. Voici un <a v-bind:href="question.answer_video_url">lien pour télécharger le fichier vidéo</a>.
             </video>
             <!-- <object v-if="!question.answer_video_url.endsWith('.mp4')" :data="question.answer_video_url" height="250"></object> -->
-            <a v-bind:href="question.answer_video_url" target="_blank">{{ question.answer_video_url }}</a>
+            <a v-bind:href="question.answer_video_url" target="_blank">
+              {{ question.answer_video_url }}
+            </a>
           </p>
         </div>
       </div>
       <!-- Answer image -->
       <p v-if="question.answer_image_url" class="answer-image" title="Une image pour illustrer la réponse">
-        <a v-bind:href="question.answer_image_url" target="_blank">
+        <a v-bind:href="question.answer_image_url" target="_blank" @click="logClick($event, 'answer_image_url')" @contextmenu="logClick($event, 'answer_image_url')">
           <img v-bind:src="question.answer_image_url" alt="Une image pour illustrer la réponse" />
         </a>
       </p>
@@ -111,10 +113,16 @@
       <div class="row no-gutters text-align-left">
         <div class="col-sm-auto">
           <p class="answer-link" v-if="question.answer_accessible_url" title="Lien accessible pour aller plus loin">
-            🔗&nbsp;<a v-bind:href="question.answer_accessible_url" target="_blank" v-bind:title="question.answer_accessible_url" @click="logClick($event)" @contextmenu="logClick($event)">{{ question.answer_accessible_url_text ? question.answer_accessible_url_text : question.answer_accessible_url }}</a>
+            <span>🔗</span>
+            <a v-bind:href="question.answer_accessible_url" target="_blank" v-bind:title="question.answer_accessible_url" @click="logClick($event, 'answer_accessible_url')" @contextmenu="logClick($event, 'answer_accessible_url')">
+              {{ question.answer_accessible_url_text ? question.answer_accessible_url_text : question.answer_accessible_url }}
+            </a>
           </p>
           <p class="answer-link" v-if="question.answer_scientific_url" title="Lien scientifique pour creuser la source">
-            🔗🧬&nbsp;<a v-bind:href="question.answer_scientific_url" target="_blank" v-bind:title="question.answer_scientific_url" @click="logClick($event)" @contextmenu="logClick($event)">{{ question.answer_scientific_url_text ? question.answer_scientific_url_text : question.answer_scientific_url }}</a>
+            <span>🔗🧬</span>
+            <a v-bind:href="question.answer_scientific_url" target="_blank" v-bind:title="question.answer_scientific_url" @click="logClick($event, 'answer_scientific_url')" @contextmenu="logClick($event, 'answer_scientific_url')">
+              {{ question.answer_scientific_url_text ? question.answer_scientific_url_text : question.answer_scientific_url }}
+            </a>
           </p>
           <p v-if="question.answer_reading_recommendation" title="Un livre pour aller plus loin">
             📚&nbsp;{{ question.answer_reading_recommendation }}
@@ -264,9 +272,9 @@ export default {
           console.log(error);
         });
     },
-    logClick(event) {
+    logClick(event, fieldName) {
       const quizId = this.context.quiz ? this.context.quiz.id : null;
-      postLinkClickEvent(event, quizId, this.question.id);
+      postLinkClickEvent(event, quizId, this.question.id, fieldName);
     },
   },
 };
