@@ -43537,7 +43537,7 @@
     Change, Summary for Policymakers'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3be51b38.png
-  answer_image_explanation: ''
+  answer_image_explanation: Évolution des émissions anthropiques des principaux GES
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -43545,7 +43545,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-03'
 - id: 1123
   text: Vrai ou faux ? Tous les gaz à effet de serre ont la même durée de vie dans
     l'atmosphère
