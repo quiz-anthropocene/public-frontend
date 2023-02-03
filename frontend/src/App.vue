@@ -166,10 +166,12 @@ export default {
       this.$store.dispatch('RESET_LOADING_STATUS');
     },
     onClick(event) {
+      console.log(event);
       if ([1, 3].includes(event.which)) { // ['Left click', 'Right click']
         if (event.target instanceof HTMLAnchorElement) {
           if (event.target.href.startsWith('http')) {
             if (!event.target.href.includes(process.env.VUE_APP_DOMAIN_URL)) {
+              console.log(event.target.href);
               // stats
               fetch(`${process.env.VUE_APP_STATS_ENDPOINT}/link-click-event/`, {
                 method: 'POST',
