@@ -44,9 +44,15 @@
       <!-- Second row: social, license, language -->
       <div class="row">
         <div class="col-sm" title="Social">
-          <a class="no-after" v-bind:href="configuration.application_linkedin_url" target="_blank"><img height="30px" src="/openmoji_linkedin_E046.svg" alt="Linkedin" title="Linkedin" /></a>
-          <a class="no-after" v-bind:href="configuration.application_twitter_url" target="_blank"><img height="30px" src="/openmoji_twitter_E040.svg" alt="Twitter" title="Twitter" /></a>
-          <a class="no-after" v-bind:href="configuration.application_facebook_url" target="_blank"><img height="30px" src="/openmoji_facebook_E042.svg" alt="Facebook" title="Facebook" /></a>
+          <a class="no-after" v-bind:href="configuration.application_linkedin_url" target="_blank" @click="logClick($event)" @contextmenu="logClick($event)">
+            <img height="30px" src="/openmoji_linkedin_E046.svg" alt="Linkedin" title="Linkedin" />
+          </a>
+          <a class="no-after" v-bind:href="configuration.application_twitter_url" target="_blank" @click="logClick($event)" @contextmenu="logClick($event)">
+            <img height="30px" src="/openmoji_twitter_E040.svg" alt="Twitter" title="Twitter" />
+          </a>
+          <a class="no-after" v-bind:href="configuration.application_facebook_url" target="_blank" @click="logClick($event)" @contextmenu="logClick($event)">
+            <img height="30px" src="/openmoji_facebook_E042.svg" alt="Facebook" title="Facebook" />
+          </a>
         </div>
         <div class="col-sm" title="Licence">
           <router-link :to="{ name: 'license' }">
@@ -77,6 +83,7 @@
 
 <script>
 import constants from '../constants';
+import { postLinkClickEvent } from '../services/StatService';
 import HomeLink from './HomeLink.vue';
 
 export default {
@@ -99,6 +106,12 @@ export default {
     },
     configuration() {
       return this.$store.state.configuration;
+    },
+  },
+
+  methods: {
+    logClick(event) {
+      postLinkClickEvent(event);
     },
   },
 };
