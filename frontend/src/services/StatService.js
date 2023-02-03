@@ -1,6 +1,6 @@
 /* eslint-disable import/prefer-default-export */
 
-function postLinkClickEvent(event) {
+function postLinkClickEvent(event, quizId = null, questionId = null) {
   if ([1, 3].includes(event.which)) { // ['Left click', 'Right click']
     if (event.currentTarget instanceof HTMLAnchorElement) {
       if (event.currentTarget.href.startsWith('http')) {
@@ -14,6 +14,8 @@ function postLinkClickEvent(event) {
             },
             body: JSON.stringify({
               link_url: event.currentTarget.href,
+              quiz: quizId,
+              question: questionId,
             }),
           })
             .then((response) => response.json())
