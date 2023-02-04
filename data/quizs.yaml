@@ -2489,11 +2489,11 @@
     Il nous avait déjà partagé un quiz sur le pétrole. Le voici de retour avec cette
     autre bouquet de 10 questions, qui vont vous rendrent incollable sur l'effet de
     serre.</p>
-  conclusion: '<p>Si vous avez fait des erreurs ou que vous souhaitez en apprendre
-    davantage sur l''énergie, vous pouvez découvrir l''ouvrage de Maxence Cordiez
-    : <a href="https://www.connaissancedesenergies.org/en-librairie-energies-fake-or-not-extraits-220415">Énergies
+  conclusion: '<p>Vous pouvez retrouver le quiz initial de Maxence <a href="https://view.genial.ly/62671f7e41c8fd0011c76eea/interactive-content-002-quiz-gaz-a-effet-de-serre-difficile">ici</a>.
+    Si vous avez fait des erreurs ou que vous souhaitez en apprendre davantage sur
+    l''énergie, vous pouvez découvrir son ouvrage : <a href="https://www.connaissancedesenergies.org/en-librairie-energies-fake-or-not-extraits-220415">Énergies
     - Fake or not ?</a>. Vous pouvez aussi participer à un atelier la <a href="http://fresqueduclimat.org">Fresque
-    du Climat</a>.</p>'
+    du Climat</a> pour aller plus loin.</p>'
   questions:
   - 1116
   - 1117
@@ -2523,4 +2523,4 @@
   publish_date: null
   spotlight: false
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-03'

@@ -43585,10 +43585,10 @@
   created: '2023-02-02'
   updated: '2023-02-02'
 - id: 1124
-  text: Il y a 22 000 ans se terminait la dernière ère glaciaire ; le niveau des mers
-    était 120 m plus bas qu'aujourd'hui et le nord de l'Europe était recouvert de
-    plusieurs km de glace. Quel est l'écart de température moyenne mondiale entre
-    cette période et la température moyenne préindustrielle ?
+  text: Lorsque, il y a 22,000 ans, la dernière dernière ère glaciaire a pris fin,
+    le niveau des mers était 120 m plus bas qu'aujourd'hui et le nord de l'Europe
+    était recouvert de plusieurs km de glace. Quel est l'écart de température moyenne
+    mondiale entre cette période et la température moyenne préindustrielle ?
   hint: Cela paraît peu
   type: QCM
   category: 1
@@ -43603,7 +43603,7 @@
   has_ordered_answers: true
   answer_explanation: La température moyenne lors du maximum de la dernière ère glaciaire
     était environ de 6-7°C inférieure à la température moyenne préindustrielle (début
-    du XIXème siècle). La déglaciation s'est ensuite déroulée pendant environ 12000
+    du XIXème siècle). La déglaciation s'est ensuite déroulée pendant environ 12,000
     ans puis la température moyenne est restée relativement stable jusqu'à la période
     préindustrielle, c'est-à-dire il y a 200 ans. Depuis, sous l'effet des gaz à effet
     de serre émis par l'humanité, la température de la basse atmosphère s'est encore
@@ -43625,7 +43625,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-03'
 - id: 1125
   text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
     atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
@@ -43664,3 +43664,111 @@
   validation_date: null
   created: '2023-02-02'
   updated: '2023-02-02'
+- id: 1126
+  text: D'après le GIEC, quels sont les effets déjà observés du changement climatique
+    sur l'agriculture ?
+  hint: Il n'y en a pas qu'un
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: Un effet positif pour les cultures dans les hautes latitudes
+  answer_option_b: Un effet négatif pour les cultures dans les basses latitudes
+  answer_option_c: Une diminution des taux de croissance des animaux et de la productivité
+    des systèmes pastoraux en Afrique
+  answer_option_d: Des modifications chez les ravageurs et des maladies
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: Les périodes favorables à la pousse des végétaux augmentent
+    dans les hautes latitudes alors que la désertification s'étend dans les basses
+    latitudes, et les ravageurs et maladies s'adaptent déjà au changement climatique
+    entraînant des effets positifs ou négatifs selon les régions
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/srccl/chapter/summary-for-policymakers/
+  answer_scientific_url_text: §A.2.8, page 10, du rapport du GIEC "Climate Change
+    and Land"
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d16fd8e5.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-03'
+  updated: '2023-02-03'
+- id: 1127
+  text: D'après le GIEC , à partir de quel seuil de réchauffement bascule t-on vers
+    un risque de danger hautement probable d'instabilité, de rupture de la production
+    de nourriture ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Entre +0,5°C et +1,5°C de réchauffement global moyen
+  answer_option_b: Entre 1,5°C et 2,5°C
+  answer_option_c: Entre +2,5°C et +3,5°C
+  answer_option_d: Entre +3,5°C et +5°C
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://www.ipcc.ch/srccl/chapter/summary-for-policymakers
+  answer_scientific_url_text: page 16 à 18 du rapport du GIEC "Climate Change and
+    Landé
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/51262ffe.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-03'
+  updated: '2023-02-03'
+- id: 1128
+  text: Quel est le temps d'adaptation nécessaire à un système agricole (élevage,
+    cultures pérennes) face au changement climatique ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: 5 à 10 ans
+  answer_option_b: 10 à 20 ans
+  answer_option_c: 20 à 50 ans
+  answer_option_d: Plus de 50 ans
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: la modification des caractéristiques d'un troupeau ou d'un verger
+    / d'une vigne nécessite une anticipation de 10 à 20 ans. Pour une forêt, c'est
+    50 ans.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-03'
+  updated: '2023-02-03'
