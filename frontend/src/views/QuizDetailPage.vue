@@ -1,7 +1,7 @@
 <template>
   <section>
 
-    <section v-if="!quiz">
+    <section v-if="quizNotFound">
       <div class="alert alert-warning" role="alert">
         {{ $t('messages.quizNotFound') }}
       </div>
@@ -156,6 +156,7 @@ export default {
   data() {
     return {
       // quiz: null,
+      quizNotFound: false,
       quizStep: 0,
       showNextButton: true,
       emphasisNextButton: false,
@@ -175,6 +176,9 @@ export default {
       if (!quiz) {
         quiz = this.$store.getters.getQuizBySlug(this.$route.params.quizId);
       }
+      // if (!quiz) {
+      //   this.quizNotFound = true;
+      // }
       return quiz;
     },
     quizStats() {
@@ -256,6 +260,7 @@ export default {
       }
     },
     initQuiz() {
+      this.quizNotFound = false;
       this.quizStep = 0;
       this.showQuizQuestions = false;
     },

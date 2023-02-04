@@ -64,6 +64,12 @@ const store = new Vuex.Store({
     stats: {},
   },
   actions: {
+    START_LOADING: ({ commit }) => {
+      commit('UPDATE_LOADING_STATUS', true);
+    },
+    STOP_LOADING: ({ commit }) => {
+      commit('UPDATE_LOADING_STATUS', false);
+    },
     RESET_LOADING_STATUS: ({ commit }) => {
       commit('UPDATE_LOADING_STATUS', false);
       commit('UPDATE_ERROR', null);
