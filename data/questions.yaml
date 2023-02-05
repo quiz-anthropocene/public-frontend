@@ -19782,8 +19782,8 @@
   language: Français
   answer_option_a: Conference of the parties
   answer_option_b: Council of presidents
-  answer_option_c: Community for environmental protection
-  answer_option_d: Climate observation program
+  answer_option_c: Community for Environmental Protection
+  answer_option_d: Climate Observation Program
   answer_correct: a
   has_ordered_answers: false
   answer_explanation: Le United Nations Framework Convention on Climate Change (UNFCCC)
@@ -19806,11 +19806,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Écartée temporairement
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-02-04'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-04'
 - id: 518
   text: Quelle quantité de carbone est absorbée et rejetée chaque année par l’ensemble
     de la vie sur terre ?
@@ -41299,16 +41299,16 @@
   created: '2022-08-04'
   updated: '2022-09-09'
 - id: 1070
-  text: Il y a de plus en plus de terres artificialisées en France. En 10 ans, cela
-    représente...
+  text: L'augmentation des terres artificialisées en France, cela représente en 10
+    ans...
   hint: ''
   type: QCM-RM
-  category: 4
+  category: 8
   tags: []
   difficulty: 3
   language: Français
   answer_option_a: La surface d'un département
-  answer_option_b: L'équivalent d'environ 800 000 terrains de foot
+  answer_option_b: L'équivalent d'environ 800,000 terrains de foot
   answer_option_c: L'équivalent de 10 villes de la superficie de Paris
   answer_option_d: L'équivalent de une grande ville de France
   answer_correct: ab
@@ -41320,18 +41320,11 @@
     \ des opérations d’aménagement pouvant entraîner une imperméabilisation partielle\
     \ ou totale, afin de les affecter notamment à des fonctions urbaines ou de transport\
     \ (habitat, activités, commerces, infrastructures, équipements publics…). En France,\
-    \ entre 20 000 et 30 000 hectares sont artificialisés chaque année. Cette artificialisation\
+    \ entre 20,000 et 30,000 hectares sont artificialisées chaque année. Cette artificialisation\
     \ augmente presque 4 fois plus vite que la population, et a des répercussions\
     \ directes sur la qualité de vie des citoyens mais aussi sur l’environnement.\r\
-    \n\r\nRénover, entretenir et isoler les bâtiments existants doit donc être la\
-    \ priorité !\r\nCelle-ci est en général robuste et optimisée pour les conditions\
-    \ climatiques. Elle fait la part belle à l’entretien et à la rénovation du patrimoine\
-    \ bâti, ne réservant qu’à la construction une part mineure du total (3 à 5% de\
-    \ la surface bâtie comme le taux de renouvellement actuel). Les matériaux de construction\
-    \ privilégient les filières d’éco-matériaux : ceux-ci signifient à la fois que\
-    \ la ville apporte d’autres débouchés aux productions agricoles que les récoltes\
-    \ alimentaires et que les matériaux doivent permettre de stocker du carbone de\
-    \ manière pérenne."
+    \nRénover, entretenir et isoler les bâtiments existants doit donc être la priorité\
+    \ !"
   answer_audio_url: ''
   answer_video_url: https://www.youtube.com/watch?v=i-Gvt5AXTpI&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=4
   answer_accessible_url: https://artificialisation.developpement-durable.gouv.fr/
@@ -41340,7 +41333,7 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/37fcef93.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b6a6811e.jpg
   answer_image_explanation: ''
   answer_extra_info: "Renovation Energetique : \r\nPlan Climat de Paris"
   author: 65
@@ -41349,7 +41342,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-09-09'
+  updated: '2023-02-04'
 - id: 1071
   text: Combien de décès prématurés sont imputables à la qualité de l'air chaque année
     dans le monde ?
@@ -42107,16 +42100,16 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Selon une étude de 2022, les baleines qui se nourrissent par
-    filtration consomment chaque jour des millions de particules de pollution microplastique,
-    ce qui fait d'eux les plus grands consommateurs de déchets plastiques de la planète.
+    filtration consomment chaque jour des millions de particules de pollution microplastique.
+    Cela fait d'eux les plus grands consommateurs de déchets plastiques de la planète.
     Le poids du plastique consommé au cours d'une saison est estimé entre 230 kg et
     4 tonnes par individu. La saison d'alimentation des baleines dure 3 à 4 mois,
     elles jeûnent le reste de l'année. La quasi-totalité des microplastiques ingérés
-    se trouvent dans le krill (plancton des mers froides) et le poisson que les baleines
-    mangent, plutôt que dans l'eau. Il va sans dire que les microplastiques et les
-    produits chimiques toxiques qu'ils transportent pourraient nuire aux baleines.
-    Cette pollution s'ajoute à d'autres impacts d'origine humaine, tels que le bruit
-    et les collisions avec les navires.
+    se trouvent dans le krill et le poisson que les baleines mangent, plutôt que dans
+    l'eau. Il va sans dire que les microplastiques et les produits chimiques toxiques
+    qu'ils transportent pourraient nuire aux baleines. Cette pollution s'ajoute à
+    d'autres impacts d'origine humaine, tels que le bruit et les collisions avec les
+    navires.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.theguardian.com/environment/2022/nov/01/whales-ingest-millions-of-microplastic-particles-a-day-study-finds
@@ -42135,7 +42128,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-11-26'
-  updated: '2022-12-12'
+  updated: '2023-02-04'
 - id: 1090
   text: Qu'appelle-t-on le plastiglomérat ?
   hint: ''
@@ -43772,3 +43765,198 @@
   validation_date: null
   created: '2023-02-03'
   updated: '2023-02-03'
+- id: 1129
+  text: Quels sont les paramètres de Milanković ?
+  hint: ''
+  type: QCM-RM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: L’obliquité de la Terre
+  answer_option_b: L’excentricité de la Terre
+  answer_option_c: La précession des équinoxes
+  answer_option_d: Les cycles solaires
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: "L'obliquité est l'inclinaison de l’axe de rotation de la Terre\
+    \ par rapport à l’écliptique, son plan de rotation.\r\nL'excentricité mesure l'écart\
+    \ de forme de l’orbite terrestre avec un cercle parfait.\r\nLa précession des\
+    \ équinoxes caractérise le mouvement conique de l’axe de rotation de la Terre\
+    \ par rapport à la perpendiculaire à l’écliptique.\r\nCes 3 paramètres naturels\
+    \ sont bien les facteurs majeurs de modification du climat....mais à une échelle\
+    \ de plusieurs dizaines de milliers d'année ! C'est ainsi leurs variations qui\
+    \ sont à l'origine des variations entre périodes glaciaires et interglaciaires\
+    \ pendant l'ère quaternaire. En revanche, leur influence est nulle sur le dérèglement\
+    \ du climatique enclenché depuis deux siècles. Quant aux cycles solaires, ils\
+    \ suivent une période de 11 ans et n'ont qu'un impact limité sur la température\
+    \ moyenne du globe (environ +/-0.1°C)."
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://planet-terre.ens-lyon.fr/article/milankovitch.xml
+  answer_accessible_url_text: Cycles de Milankovitch et variations climatiques, Planet
+    Terre ENS Lyon 2004
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: Une brève histoire du climat de la Terre, par Gilles
+    Ramstein
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-04'
+  updated: '2023-02-04'
+- id: 1130
+  text: Vrai ou faux ? Les éruptions volcaniques peuvent refroidir le climat
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: En 1991, l'éruption du volcan Pinatubo a ainsi provoqué un refroidissement
+    planétaire à cause des émissions de souffre d’environ 0,4°C. Cet impact a été
+    très ponctuel (de quelques mois à moins de 3 ans).
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.notre-planete.info/actualites/2862-emissions-CO2-volcans-changement-climatique
+  answer_accessible_url_text: Quel est l'impact des volcans sur les émissions de dioxyde
+    de carbone et le changement climatique ? Notre Planète-info, 2022
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: ''
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-04'
+  updated: '2023-02-04'
+- id: 1131
+  text: Vrai ou faux ? Les éruptions volcaniques peuvent réchauffer le climat
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 3
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Lors des éruptions volcaniques, du CO2 est émis dans l’atmosphère
+    ce qui peut réchauffer le climat. Il y a 252 millions d’années, d’intenses éruptions
+    volcaniques ont créé un effet de serre important, pour partie responsable de l’extinction
+    massive des espèces du permien. Mais aujourd’hui, les émissions humaines sont
+    150 fois supérieures aux émissions des volcans.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4968fdc0.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-04'
+  updated: '2023-02-04'
+- id: 1132
+  text: 'Adopté à l’issue de la COP21, l''accord de Paris (2015) a pour objectif de
+    :'
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: limiter la hausse de la température moyenne en dessous de 1°C à
+    l'horizon 2030
+  answer_option_b: limiter la hausse de la température moyenne en dessous de 2°C à
+    l'horizon 2100
+  answer_option_c: limiter la hausse de la température moyenne à 3°C à l'horizon 2070
+  answer_option_d: Limiter les émissions de CO2 à 2 tonnes par personne et par an
+    d'ici 2050
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'accord de Paris de 2015 a pour objectif principal de contenir
+    la hausse de la température moyenne bien en deça de 2°C, et la limiter autant
+    que possible à 1,5°C, d'ici 2100. Il vise également au renforcement des capacités
+    d’adaptation et de résilience face aux effets du changement climatique, ainsi
+    qu’à la mise en œuvre de flux financiers adaptés à ces objectifs. Il se traduit
+    par un budget carbone global à ne pas dépasser.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://onu.delegfrance.org/Accord-de-Paris#Qu-est-ce-que-l-accord-de-Paris
+  answer_accessible_url_text: ''
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2066a7cd.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-04'
+  updated: '2023-02-04'
+- id: 1133
+  text: En 2018, quelle part de la surface de la France métropolitaine est artificialisée
+    ?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 1%
+  answer_option_b: 5%
+  answer_option_c: 9%
+  answer_option_d: 15%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: L'urbanisation progresse partout dans le monde car de plus en
+    plus de personnes habitent en ville. Mais l'artificialisation des terres progresse
+    plus vite encore que l'augmentation de la population car les villes ont besoin
+    d'infrastuctures très consommatrices d'espace (centres commerciaux, parkings,
+    etc) et la surface habitable par personne dans les logement est en augmentation.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: ''
+  answer_accessible_url_text: ''
+  answer_scientific_url: https://agreste.agriculture.gouv.fr/agreste-web/disaron/Chd2211/detail/
+  answer_scientific_url_text: Agreste, L'utilisation du territoire en 2018 - Enquêtes
+    Teruti 2017-2018-2019
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c52b84fe.jpg
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-04'
+  updated: '2023-02-04'

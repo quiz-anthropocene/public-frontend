@@ -54,7 +54,7 @@
     en 2009 à Berlin, la COP21 en 2015 à Paris.
   description_accessible_url: https://fr.wikipedia.org/wiki/Conférence_des_parties
   created: '2020-12-13'
-  updated: '2020-12-13'
+  updated: '2023-02-04'
 - name: Forçage radiatif
   name_alternatives: Radiative Forcing
   definition_short: Différence entre la puissance de radiation reçue et radiation
@@ -440,3 +440,10 @@
   description_accessible_url: https://theshiftproject.org/
   created: '2023-01-30'
   updated: '2023-01-30'
+- name: Krill
+  name_alternatives: ''
+  definition_short: plancton des mers froides
+  description: ''
+  description_accessible_url: ''
+  created: '2023-02-04'
+  updated: '2023-02-04'
