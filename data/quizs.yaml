@@ -2219,10 +2219,10 @@
     comment ils fonctionnent ? Les conclusions peuvent-elles être biaisées ? Vous
     y verrez plus clair après ces quelques questions.</p>'
   conclusion: <p>Merci au passage au twito <a href="https://twitter.com/laydgeur">Laydgeur</a>
-    au blogueur <a href="https://bonpote.com/">Bonpote </a>pour son article <em><a
-    href="https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/">Peut-on
-    faire confiance au GIEC</a>, </em>qui ont fourni de la matière pour l'élaboration
-    de ce quiz. Pour aller plus loin, vous pouvez consulter ses <a href="https://bonpote.com/les-infographies-du-6eme-rapport-du-giec/">infographies
+    pour son apport, et au blogueur <a href="https://bonpote.com/">Bonpote </a>pour
+    son article <em><a href="https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/">Peut-on
+    faire confiance au GIEC</a></em> - pour aller plus loin, vous pouvez consulter
+    ses <a href="https://bonpote.com/les-infographies-du-6eme-rapport-du-giec/">infographies
     </a>éclairantes. Ou mieux encore, aller à la souce lire les <a href="https://www.ipcc.ch/languages-2/francais/">résumés
     à l'intention des décideurs</a>, disponibles en français.</p>
   questions:
@@ -2234,14 +2234,15 @@
   - 426
   - 433
   - 435
+  - 517
   - 1079
   - 1080
   - 1081
-  question_count: 11
+  question_count: 12
   tags:
   - 22
   - 225
-  difficulty_average: 1.5
+  difficulty_average: 1.4
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0e65b8fd.jpg
   has_audio: false
@@ -2255,7 +2256,7 @@
   publish_date: '2022-11-15'
   spotlight: true
   created: '2022-11-05'
-  updated: '2023-01-20'
+  updated: '2023-02-04'
 - id: 89
   name: Festival Nature et Environnement Isère
   slug: festival-nature-et-environnement-isere-2022
