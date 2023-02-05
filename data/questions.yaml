@@ -99,23 +99,22 @@
     ressource, plus on en consomme au total
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'Exemple : les voitures sont de plus en plus économes, mais
-    la consommation globale d’essence ne fait qu’augmenter, par effet d’aubaine.
-
-    Idem pour l''aviation (billets moins chers donc on voyage plus souvent, ou plus
-    loin).'
+  answer_explanation: "Exemple : les voitures sont de plus en plus économes, mais\
+    \ la consommation globale d’essence ne fait qu’augmenter, par effet d’aubaine.\r\
+    \nIdem pour l'aviation (billets moins chers donc on voyage plus souvent, ou plus\
+    \ loin)."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.lafabriqueecologique.fr/transition-energetique-le-role-incontournable-de-leffet-rebond/
   answer_accessible_url_text: 'Transition énergétique : le rôle incontournable de
     l’effet rebond - La fabrique écologique'
-  answer_scientific_url: http://www.decroissance.qc.ca/sites/default/files/journal/Schneider_l_Ecologiste.pdf
+  answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000003-c4dd.png
   answer_image_explanation: "Effet rebond lié au covoiturage (dans le cas d’un scénario\
     \ de covoiturage volontariste (hausse de 25 % du taux d’occupation moyen des véhicules\
-    \ en Île-de-France. \nSource de l'image : Viguié et Coulombel, à partir de Coulombel\
+    \ en Île-de-France. \r\nSource de l'image : Viguié et Coulombel, à partir de Coulombel\
     \ et al. (2019)"
   answer_extra_info: ''
   author: 2
@@ -124,7 +123,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 4
   text: A Porto Rico, sur les 35 dernières années, quelle a été l'évolution de la
     population des insectes ?
@@ -627,14 +626,14 @@
   language: Français
   answer_option_a: +0,1°C
   answer_option_b: +0,5°C
-  answer_option_c: +1°C
+  answer_option_c: +1,1°C
   answer_option_d: +2°C
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: +1,2°C pour être exact. Selon les scénarios du GIEC, elle aura
-    augmenté de 2°C à 5°C d'ici 2100. Or, lors de la dernière période glaciaire il
-    y a 20,000 ans, elle était seulement 5°C plus basse qu'aujourd'hui...et la déglaciation
-    a duré 10,000 ans.
+  answer_explanation: Selon les scénarios du GIEC, elle aura augmenté de 2°C à 5°C
+    d'ici 2100. Or, lors de la dernière période glaciaire il y a 20,000 ans, elle
+    était seulement 5°C plus basse qu'aujourd'hui...et la déglaciation a duré 10,000
+    ans.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: http://www.meteofrance.fr/climat-passe-et-futur/le-rechauffement-observe-a-l-echelle-du-globe-et-en-france
@@ -651,7 +650,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 17
   text: A combien se sont élevées les émissions mondiales de gaz à effet de serre
     en 2015 ? (en équivalent CO2)
@@ -839,21 +838,20 @@
   answer_accessible_url_text: 'COP 25 : les six chiffres qui ont fait mal à la planète
     en 2019 | Les Echos'
   answer_scientific_url: https://scripps.ucsd.edu/programs/keelingcurve/
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: The Keeling curve, suivi de la concentration atmosphérique
+    de CO2 à l'observatoire Mauna Loa de Hawaï
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000021-644d.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'https://ourworldindata.org/grapher/global-co-concentration-ppm
-
-
-    https://dr-petrole-mr-carbone.com/concentration-record-de-co2-la-barre-des-415-ppm-franchie-a-mauna-loa/'
+  answer_extra_info: "https://ourworldindata.org/grapher/global-co-concentration-ppm\r\
+    \n\r\nhttps://dr-petrole-mr-carbone.com/concentration-record-de-co2-la-barre-des-415-ppm-franchie-a-mauna-loa/"
   author: 2
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 22
   text: Quelle quantité de carbone émet-on chaque année dans l'atmosphère ?
   hint: ''
@@ -1941,11 +1939,13 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: La surface de la Terre est recouverte à 70 % par les océans,
-    les 30 % restants étant les terres.
+    les 30 % restants étant les terres, et le réchauffement est plus fort sur les
+    terres émergées que sur les océans.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.notre-planete.info/terre/climatologie_meteo/changement-climatique-donnees.php
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'Notre-planet.info, 2020 : Changement climatique, des
+    données alarmantes'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -1958,7 +1958,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 49
   text: Un réfugié climatique est une personne contrainte de se relocaliser pour des
     raisons environnementales. Leur nombre actuel (2016) est estimé à 25 millions
@@ -2361,7 +2361,7 @@
   answer_accessible_url: https://www.futura-sciences.com/planete/actualites/developpement-durable-biodiversite-plus-60-animaux-sauvages-ont-disparu-depuis-1970-55431/
   answer_accessible_url_text: 'Extinction des espèces : les Hommes sont plus dangereux
     que le réchauffement climatique'
-  answer_scientific_url: https://www.wwf.fr/rapport-planete-vivante-2018
+  answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000059-13aa.png
@@ -2373,7 +2373,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-12-12'
+  updated: '2023-02-05'
 - id: 60
   text: Parmi les familles suivantes, quelle est celle dont la proportion d'espèces
     menacées est la plus forte ?
@@ -2791,12 +2791,10 @@
   answer_option_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Pétrole (33%), Charbon (27%), Gaz (23%)
-
-    Et oui ! On parle beaucoup d’électricité et d’énergie renouvelable. Mais notre
-    mode de vie est très largement dépendant de l’usage des énergies fossiles. Que
-    ce soit pour nos transports, nos objets (le plastique), nos médicaments, nos vêtements,
-    notre chauffage...'
+  answer_explanation: "Pétrole (33%), Charbon (27%), Gaz (23%)\r\nOn parle beaucoup\
+    \ d’électricité et d’énergies renouvelables, mais notre mode de vie est très largement\
+    \ dépendant de l’usage des énergies fossiles. Que ce soit pour nos transports,\
+    \ nos objets (le plastique), nos médicaments, nos vêtements, notre chauffage..."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.connaissancedesenergies.org/fiche-pedagogique/chiffres-cles-production-d-energie
@@ -2815,7 +2813,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 71
   text: A combien s'élève l'empreinte carbone d'un français (2018, en équivalent CO2)
     ?
@@ -2836,16 +2834,16 @@
   answer_explanation: Elle est globalement stable depuis 2000. L'objectif de la COP21
     est de 2 tonnes par an par habitant au niveau mondial, soit une réduction par
     un facteur 5 à 6. Près de 50% de cette empreinte est dû aux émissions qui sont
-    « importées », donc si vous voyez le chiffre de 4,5 tonnes pour les « émissions
-    de CO2 par habitant », c'est que cela cache une bonne partie de nos émissions
-    réelles.
+    importées. Si vous voyez passer un chiffre plus faible, il y a fort à parier que
+    l'on ne parle implicitement que des émissions provenant du territoire français.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.lesechos.fr/politique-societe/societe/lempreinte-carbone-des-menages-ne-depend-pas-seulement-de-leurs-revenus-1161358
   answer_accessible_url_text: 'Climat : l''empreinte carbone des ménages ne dépend
     pas seulement de leurs revenus | Les Echos'
   answer_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2019/09/hcc_rapport_annuel_grand_public_2019.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Haut Conseil pour le Climat, rapport 2019 pour le grand
+    public
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000071-c59a.png
   answer_image_explanation: ''
@@ -2856,7 +2854,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 72
   text: En émissions sur le territoire national, lequel de ces secteurs émet le plus
     de gaz à effet de serre en France ?
@@ -2977,8 +2975,8 @@
   created: '2020-03-10'
   updated: '2022-04-16'
 - id: 75
-  text: Quelle proportion des gaz à effet de serre les 10% les plus riches de la planète
-    émettent-ils ?
+  text: Quelle proportion du CO2 les 10% les plus riches de la planète émettent-ils
+    ?
   hint: ''
   type: QCM
   category: 6
@@ -3013,7 +3011,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 76
   text: "Imaginez une balance titanesque. Sur le plateau de gauche, toute la matière\
     \ vivante actuellement sur terre. Sur le plateau de droite, tout ce qui a été\
@@ -3338,9 +3336,9 @@
   answer_accessible_url_text: Les plus gros pays émetteurs de CO2 au monde | Forum
     Économique Mondial
   answer_scientific_url: http://www.globalcarbonatlas.org/fr/CO2-emissions
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Our Word in Data, Per Capita Emissions
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000083-2bf0.svg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/db60f337.png
   answer_image_explanation: Émissions de CO2 par personne dans le monde, mesurées
     en tonnes équivalent CO2. On parle ici d'émissions sur le territoire et non d'empreinte
     carbone
@@ -3351,7 +3349,7 @@
   validator: 1
   validation_date: '2020-03-18'
   created: '2020-03-11'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 84
   text: Quelle proportion des émissions françaises de gaz à effet de serre les forêts
     françaises absorbent-elles ?
@@ -42772,26 +42770,27 @@
   created: '2022-12-28'
   updated: '2023-01-31'
 - id: 1104
-  text: Les Scènes Nationales sont des théâtres publics français labellisés. Sur l'ensemble
-    de ces 77 scènes, un même spectacle est joué en moyenne...
+  text: Les Scènes Nationales sont des théâtres publics français labellisés. A combien
+    de représentations un spectacle donne-t-il lieu en moyenne ?
   hint: Obsolescence programmée
   type: QCM
   category: 2
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: à peine plus d'une fois
-  answer_option_b: environ deux fois
-  answer_option_c: environ 5 fois
-  answer_option_d: plus de 7 fois
+  answer_option_a: à peine plus d'un
+  answer_option_b: environ deux
+  answer_option_c: environ 5
+  answer_option_d: plus de 7
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Selon un rapport de la Cour des Comptes, 4,259 spectacles différents
     ont donné lieu à un total de 9,821 représentations de ces spectacles. Soit une
-    moyenne de 2,3 représentations par spectacle. Peu de spectacles donne lieu à des
-    séries. Cela induit une grande mobilité des équipes et une grande fragilité des
-    propositions artistiques, qui tournent globalement très peu après avoir été produites.
-    La création culturelle est ainsi elle aussi d'une forte et rapide de ses productions.
+    moyenne de 2,3 représentations par spectacle. Peu de spectacles donnent lieu à
+    des séries. Cela induit une grande mobilité des équipes et une grande fragilité
+    des propositions artistiques, qui tournent globalement très peu après avoir été
+    produites. La création culturelle est ainsi elle aussi d'une forte et rapide de
+    ses productions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -42810,7 +42809,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-01-31'
+  updated: '2023-02-05'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
@@ -43621,8 +43620,8 @@
   updated: '2023-02-03'
 - id: 1125
   text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
-    atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
-    années.
+    atteint un niveau égal ou supérieur à son niveau actuel au cours des 3 derniers
+    millions d'années
   hint: ''
   type: VF
   category: 1
@@ -43635,14 +43634,14 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: À aucun moment pendant les 800 000 dernières années, la concentration
+  answer_explanation: À aucun moment pendant les 800,000 dernières années, la concentration
     atmosphérique en dioxyde de carbone n'a été plus élevée qu'aujourd'hui. Cela est
     dû principalement aux combustibles fossiles (charbon, pétrole et gaz) brûlés par
     l'humanité.
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://claudegrandpeyvolcansetglaciers.com/tag/quaternaire/
+  answer_accessible_url_text: 'Claude Grandpey : Volcans et Glaciers, 2019'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -43656,7 +43655,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-05'
 - id: 1126
   text: D'après le GIEC, quels sont les effets déjà observés du changement climatique
     sur l'agriculture ?
@@ -43696,9 +43695,8 @@
   created: '2023-02-03'
   updated: '2023-02-03'
 - id: 1127
-  text: D'après le GIEC , à partir de quel seuil de réchauffement bascule t-on vers
-    un risque de danger hautement probable d'instabilité, de rupture de la production
-    de nourriture ?
+  text: D'après le GIEC , à partir de quel seuil de réchauffement y a-t-il un risque
+    de bascule vers des risques de rupture de la production alimentaire ?
   hint: ''
   type: QCM
   category: 1
@@ -43711,7 +43709,9 @@
   answer_option_d: Entre +3,5°C et +5°C
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: Ce niveau de risque dépend à la fois du niveau de réchauffement
+    et de l'évolution de facteurs tels que la population, la consommation, le développement
+    technologique, la gestion de l'occupation des sols.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43729,15 +43729,15 @@
   validator: null
   validation_date: null
   created: '2023-02-03'
-  updated: '2023-02-03'
+  updated: '2023-02-05'
 - id: 1128
-  text: Quel est le temps d'adaptation nécessaire à un système agricole (élevage,
-    cultures pérennes) face au changement climatique ?
+  text: Combien de temps faut-il à un système agricole (élevage, cultures pérennes)
+    pour faire face au changement climatique ?
   hint: ''
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: Français
   answer_option_a: 5 à 10 ans
   answer_option_b: 10 à 20 ans
@@ -43755,8 +43755,9 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9b822a9d.jpg
+  answer_image_explanation: Adaptation pour une agriculture plus résiliente, poster
+    Life AgriAdapt
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -43764,14 +43765,14 @@
   validator: null
   validation_date: null
   created: '2023-02-03'
-  updated: '2023-02-03'
+  updated: '2023-02-05'
 - id: 1129
-  text: Quels sont les paramètres de Milanković ?
+  text: Que désignent les paramètres de Milankovitch ?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 1
   tags: []
-  difficulty: 1
+  difficulty: 4
   language: Français
   answer_option_a: L’obliquité de la Terre
   answer_option_b: L’excentricité de la Terre
@@ -43779,18 +43780,21 @@
   answer_option_d: Les cycles solaires
   answer_correct: abc
   has_ordered_answers: true
-  answer_explanation: "L'obliquité est l'inclinaison de l’axe de rotation de la Terre\
-    \ par rapport à l’écliptique, son plan de rotation.\r\nL'excentricité mesure l'écart\
-    \ de forme de l’orbite terrestre avec un cercle parfait.\r\nLa précession des\
-    \ équinoxes caractérise le mouvement conique de l’axe de rotation de la Terre\
-    \ par rapport à la perpendiculaire à l’écliptique.\r\nCes 3 paramètres naturels\
-    \ sont bien les facteurs majeurs de modification du climat....mais à une échelle\
-    \ de plusieurs dizaines de milliers d'année ! C'est ainsi leurs variations qui\
-    \ sont à l'origine des variations entre périodes glaciaires et interglaciaires\
-    \ pendant l'ère quaternaire. En revanche, leur influence est nulle sur le dérèglement\
-    \ du climatique enclenché depuis deux siècles. Quant aux cycles solaires, ils\
-    \ suivent une période de 11 ans et n'ont qu'un impact limité sur la température\
-    \ moyenne du globe (environ +/-0.1°C)."
+  answer_explanation: "Les paramètres de Milankovitch sont les paramètres astronomiques\
+    \ qui engendrent des variations cycliques du climat terrestre, les cycles de Milankovitch.\
+    \ Ces paramètres sont l'excentricité, l'obliquité et la précession des équinoxes.\r\
+    \nL'obliquité est l'inclinaison de l’axe de rotation de la Terre par rapport à\
+    \ l’écliptique, son plan de rotation.\r\nL'excentricité mesure l'écart de forme\
+    \ de l’orbite terrestre avec un cercle parfait.\r\nLa précession des équinoxes\
+    \ caractérise le mouvement conique de l’axe de rotation de la Terre par rapport\
+    \ à la perpendiculaire à l’écliptique. Ils sont illustrés dans le schéma ci-dessous.\
+    \ \r\nCes 3 paramètres naturels sont bien les facteurs majeurs de modification\
+    \ du climat....mais à une échelle de plusieurs dizaines ou centaines de milliers\
+    \ d'année ! C'est ainsi leurs variations qui sont à l'origine des variations entre\
+    \ périodes glaciaires et interglaciaires pendant l'ère quaternaire. En revanche,\
+    \ leur influence est nulle sur le dérèglement du climatique enclenché depuis deux\
+    \ siècles. Quant aux cycles solaires, ils suivent une période de 11 ans et n'ont\
+    \ qu'un impact limité sur la température moyenne du globe (environ +/-0.1°C)."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://planet-terre.ens-lyon.fr/article/milankovitch.xml
@@ -43800,8 +43804,8 @@
   answer_scientific_url_text: ''
   answer_reading_recommendation: Une brève histoire du climat de la Terre, par Gilles
     Ramstein
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40694ef7.jpg
+  answer_image_explanation: Cycles de Milankovitch. ka = millier d'années
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -43809,7 +43813,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-04'
+  updated: '2023-02-05'
 - id: 1130
   text: Vrai ou faux ? Les éruptions volcaniques peuvent refroidir le climat
   hint: ''
@@ -43823,7 +43827,7 @@
   answer_option_c: ''
   answer_option_d: ''
   answer_correct: a
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: En 1991, l'éruption du volcan Pinatubo a ainsi provoqué un refroidissement
     planétaire à cause des émissions de souffre d’environ 0,4°C. Cet impact a été
     très ponctuel (de quelques mois à moins de 3 ans).
@@ -43835,8 +43839,9 @@
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1fca500b.jpg
+  answer_image_explanation: Panache volcanique s'élevant au-dessus du Pinatubo lors
+    de son éruption de 1991
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -43844,7 +43849,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-04'
+  updated: '2023-02-05'
 - id: 1131
   text: Vrai ou faux ? Les éruptions volcaniques peuvent réchauffer le climat
   hint: ''
@@ -43866,12 +43871,12 @@
     150 fois supérieures aux émissions des volcans.
   answer_audio_url: ''
   answer_video_url: ''
-  answer_accessible_url: ''
-  answer_accessible_url_text: ''
+  answer_accessible_url: https://www.futura-sciences.com/planete/actualites/paleontologie-plus-grande-extinction-masse-histoire-aurait-commence-hiver-volcanique-5390/
+  answer_accessible_url_text: Article Futura Science, 2021
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4968fdc0.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a6c2e830.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -43880,7 +43885,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-04'
+  updated: '2023-02-05'
 - id: 1132
   text: 'Adopté à l’issue de la COP21, l''accord de Paris (2015) a pour objectif de
     :'
@@ -43960,3 +43965,83 @@
   validation_date: null
   created: '2023-02-04'
   updated: '2023-02-04'
+- id: 1134
+  text: Selon une étude de l’ADEME, laquelle de ces actions permet d'éviter le plus
+    de déchets ménagers ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Composter ses déchets
+  answer_option_b: Utiliser du verre consigné
+  answer_option_c: Apposer un autocollant Stop Pub sur sa boîte aux lettres
+  answer_option_d: Boire de l’eau du robinet plutôt que de l’eau en bouteille
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Selon une étude de l'ADEME de 2016, la gestion domestique des
+    biodéchets arrive loin devant (161kg/hab/an). Ils composent en effet la plus grande
+    partie de notre poubelle grise (33%). Viennent ensuite la consigne pour réemploi
+    du verre, les autocollants stop-pub et enfin l'utilisation de l'eau du robinet
+    plutôt qu'en bouteille.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://librairie.ademe.fr/dechets-economie-circulaire/5417-dechets-chiffres-cles-l-essentiel-2021-9791029719622.html
+  answer_accessible_url_text: Les déchets, chiffres clefs 2021, ADEME
+  answer_scientific_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj0x9_CrP78AhWrWaQEHVO7AQoQFnoECBMQAQ&url=https%3A%2F%2Fwww.zerodechettouraine.org%2Ffiles%2F2017-04%2Fademe-gisements-potentielsreduc-impactsenvtx-2016.pdf&usg=AOvVaw2XLE4Ad7Zc0z5yXTlf45A3
+  answer_scientific_url_text: Etude d'évaluation des gisements d'évitement des potentiels
+    de réduction de déchets et des impacts environnementaux évités, ADEME 2016
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a896b989.png
+  answer_image_explanation: Données nationales des gisements d'évitement des biodéchets
+  answer_extra_info: 'Source : Fichier Shifters Perceval ligne 812, auteur Maxime
+    Bru'
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-05'
+  updated: '2023-02-05'
+- id: 1135
+  text: Votre dernière heure est bientôt venue...et vous voulez minimiser l'empreinte
+    carbone de votre passage dans l'au-delà. Que choisissez-vous ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: La crémation
+  answer_option_b: L'inhumation en pleine terre
+  answer_option_c: L'inhumation en caveau
+  answer_option_d: L'humusation (le compostage du corps)
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Selon une étude des services funéraires de la ville de Paris,
+    une inhumation en pleine terre, sans monument, a un impact écologique un peu inférieur
+    à celui de la crémation. Plusieurs autres pistes émergent, comme l'humusation,
+    qui consiste à laisser le corps se composter naturellement dans le sol. Cette
+    pratique est interdite en Europe - au stade de l'expérimentation en Belgique -
+    mais a été légalisée dans l'état de New York. L'empreinte est alors nulle - ou
+    même négative, mais soulève d'autres questions.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.nouvelobs.com/planete/20171006.OBS5665/cremation-ou-inhumation-vous-pouvez-mourir-ecolo.html
+  answer_accessible_url_text: Crémation ou inhumation ? Vous pouvez mourir écolo !
+    L'Obs, 2017
+  answer_scientific_url: https://lnkd.in/eHg3ZEFz
+  answer_scientific_url_text: Etude sur l’empreinte environnementale des rites funéraires,
+    Services funéraires de Paris, 2017
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ca255ff0.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-05'
+  updated: '2023-02-05'

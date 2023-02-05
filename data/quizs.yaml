@@ -1,8 +1,11 @@
 - id: 1
   name: Quelques chiffres clés
   slug: quelques-chiffres-cles
-  introduction: <p>Quelques chiffres pour se mettre en jambes.</p>
-  conclusion: ''
+  introduction: "<p>C'est le quiz historique du site ! Quelques chiffres pour prendre\
+    \ la mesure de l'anthropocène.<br />\r\n<br />\r\nUn quiz créé par <a href=\"\
+    https://www.linkedin.com/in/raphaelodini\">Raphaël Odini</a>. Raphaël est développeur\
+    \ pour le service public ; il a codé l'ensemble de ce site.</p>"
+  conclusion: <p>Vous voici prêts à découvrir les autres contenus du site.</p>
   questions:
   - 3
   - 16
@@ -17,7 +20,7 @@
   tags: []
   difficulty_average: 1.9
   language: Français
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000001-1f89.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/4ad76eda.png
   has_audio: false
   authors:
   - 1
@@ -29,7 +32,7 @@
   publish_date: '2020-04-27'
   spotlight: false
   created: '2020-04-17'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 2
   name: L'énergie en France 🇫🇷
   slug: lenergie-en-france
@@ -598,7 +601,7 @@
   publish_date: '2020-08-08'
   spotlight: false
   created: '2020-07-29'
-  updated: '2023-01-26'
+  updated: '2023-02-05'
 - id: 17
   name: Une biodiversité qui s'anéantit
   slug: une-biodiversite-qui-saneantit
@@ -633,7 +636,7 @@
   publish_date: '2020-08-14'
   spotlight: false
   created: '2020-08-04'
-  updated: '2023-01-26'
+  updated: '2023-02-05'
 - id: 18
   name: Le quiz de Laurent Testot
   slug: le-quiz-de-laurent-testot
