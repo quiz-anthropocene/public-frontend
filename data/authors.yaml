@@ -2,7 +2,7 @@
   first_name: Raphael
   last_name: Odini
   question_count: 36
-  quiz_count: 3
+  quiz_count: 2
   created: '2022-04-04'
 - id: 2
   first_name: Matthieu
@@ -14,7 +14,7 @@
   first_name: laydgeur
   last_name: ''
   question_count: 169
-  quiz_count: 2
+  quiz_count: 3
   created: '2022-04-16'
 - id: 6
   first_name: Max

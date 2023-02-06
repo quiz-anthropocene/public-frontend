@@ -5216,14 +5216,13 @@
   difficulty: 2
   language: Français
   answer_option_a: 800 tonnes
-  answer_option_b: 8 000 tonnes
-  answer_option_c: 80 000 tonnes
-  answer_option_d: 800 000 tonnes
+  answer_option_b: 8,000 tonnes
+  answer_option_c: 80,000 tonnes
+  answer_option_d: 800,000 tonnes
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'La France produit du pétrole sur son territoire, et pas qu’un
-    peu : 800 000 tonnes en 2017 en métropole ! Cette production permet seulement
-    de couvrir 1% de ses besoins en pétrole.'
+  answer_explanation: Et oui, la France produit du pétrole sur son territoire ! Cette
+    production ne couvre que 1% de ses besoins.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.la-croix.com/Sciences-et-ethique/Environnement/Ou-trouve-petrole-France-2017-11-07-1200890170
@@ -5240,7 +5239,7 @@
   validator: 1
   validation_date: '2019-02-22'
   created: '2019-02-15'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 133
   text: Quel est en France la part des poids lourds (>5t) dans le parc des véhicules
     routiers ?
@@ -5331,7 +5330,9 @@
   has_ordered_answers: false
   answer_explanation: La première énergie renouvelable produite en France est la biomasse
     (bois, résidus agricoles, ...) avec plus de 40% du total. L'hydroélectricité est
-    2ème, suivi par les biocarburants et l'éolien.
+    2ème, suivi par les biocarburants et l'éolien. Si vous avez répondu à côté, c'est
+    probablement que vous avez pensé que la question portait sur l'électricité, auquel
+    cas la bonne réponse aurait été l'hydroélectricité.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.capital.fr/economie-politique/energies-renouvelables-ou-en-est-la-france-1343976
@@ -5341,19 +5342,15 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000135-1802.png
   answer_image_explanation: ''
-  answer_extra_info: 'https://twitter.com/laydgeur/status/1098348146135044097
-
-    https://twitter.com/laydgeur/status/1166071796682149888
-
-
-    https://www.linkedin.com/feed/update/urn:li:activity:6531245430238519296/'
+  answer_extra_info: "https://twitter.com/laydgeur/status/1098348146135044097\r\n\
+    https://twitter.com/laydgeur/status/1166071796682149888\r\n\r\nhttps://www.linkedin.com/feed/update/urn:li:activity:6531245430238519296/"
   author: 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 136
   text: Dans les transports intérieurs de voyageurs en France, quelle est la part
     du transport ferré (train+métro+RER) ?
@@ -9997,10 +9994,10 @@
   - 40
   difficulty: 2
   language: Français
-  answer_option_a: 15 000 tonnes
-  answer_option_b: 150 000 tonnes
-  answer_option_c: 1,5 million tonnes
-  answer_option_d: 15 millions tonnes
+  answer_option_a: 15,000 tonnes, soit 200g par Français
+  answer_option_b: 150,000 tonnes, soit 2kg par Français
+  answer_option_c: 1,5 million tonnes, soit 20kg par Français
+  answer_option_d: 15 millions de tonnes, soit 200kg par Français
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: En 2017, la France a consommé 9,4 millions de tonnes-équivalent-pétrole
@@ -10012,21 +10009,20 @@
   answer_accessible_url_text: 'Consommation de charbon : les bons et mauvais élèves
     dans le monde'
   answer_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: Statistiques développement durable, chiffres clefs de
+    l'énergie 2018
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000259-18f1.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'https://twitter.com/laydgeur/status/1156643243368603648
-
-
-    https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?pci_et_masse_volumique.htm'
+  answer_extra_info: "https://twitter.com/laydgeur/status/1156643243368603648\r\n\r\
+    \nhttps://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?pci_et_masse_volumique.htm"
   author: 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 260
   text: En 2017, combien de passagers ont été transportés en France par les TGV, Intercités
     et TER ?
