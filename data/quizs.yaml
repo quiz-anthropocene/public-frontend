@@ -53,12 +53,13 @@
   question_count: 10
   tags:
   - 1
+  - 218
   difficulty_average: 2.3
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000002-ce4a.jpg
   has_audio: false
   authors:
-  - 1
+  - 5
   visibility: PUBLIC
   validation_status: Validée
   validator: 2
@@ -67,7 +68,7 @@
   publish_date: '2020-06-04'
   spotlight: false
   created: '2020-05-25'
-  updated: '2022-04-16'
+  updated: '2023-02-05'
 - id: 3
   name: Le quiz de Vincent Mignerot
   slug: le-quiz-de-vincent-mignerot
@@ -2374,7 +2375,9 @@
   questions:
   - 1090
   question_count: 1
-  tags: []
+  tags:
+  - 26
+  - 32
   difficulty_average: 2.0
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/84e6d9a7.jpg
@@ -2389,7 +2392,7 @@
   publish_date: null
   spotlight: false
   created: '2022-11-27'
-  updated: '2022-11-27'
+  updated: '2023-02-05'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
