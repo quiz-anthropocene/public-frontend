@@ -42647,7 +42647,7 @@
     volumes des bibliothèques'
   answer_option_b: '...un peu supérieur car les réseaux de diffusion privés des libraires
     sont mieux organisés pour optimiser la diffusion'
-  answer_option_c: '...un peu inférieur car les réseaux de diffusion publics des libraires
+  answer_option_c: '...un peu inférieur car les réseaux de diffusion publics des bibliothèques
     sont mieux organisés pour mutualiser la diffusion'
   answer_option_d: '...nettement inférieur, car un livre en bibliothèque est lu par
     plus de lecteurs'
@@ -42679,7 +42679,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-28'
-  updated: '2023-01-30'
+  updated: '2023-02-06'
 - id: 1102
   text: 'Vrai ou faux : les grands chefs d''orchestre peuvent travailler avec plusieurs
     orchestres à la fois, même distants de plusieurs milliers de kilomètres'
@@ -43616,8 +43616,8 @@
   updated: '2023-02-03'
 - id: 1125
   text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
-    atteint un niveau égal ou supérieur à son niveau actuel au cours des 3 derniers
-    millions d'années
+    atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
+    années
   hint: ''
   type: VF
   category: 1
@@ -43651,7 +43651,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-05'
+  updated: '2023-02-06'
 - id: 1126
   text: D'après le GIEC, quels sont les effets déjà observés du changement climatique
     sur l'agriculture ?
@@ -43699,10 +43699,10 @@
   tags: []
   difficulty: 3
   language: Français
-  answer_option_a: Entre +0,5°C et +1,5°C de réchauffement global moyen
-  answer_option_b: Entre 1,5°C et 2,5°C
-  answer_option_c: Entre +2,5°C et +3,5°C
-  answer_option_d: Entre +3,5°C et +5°C
+  answer_option_a: Dès 0,5°C de réchauffement global moyen
+  answer_option_b: Dès 1,5°C
+  answer_option_c: Dès 2,5°C
+  answer_option_d: Dès 3,5°C
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Ce niveau de risque dépend à la fois du niveau de réchauffement
@@ -43714,9 +43714,9 @@
   answer_accessible_url_text: ''
   answer_scientific_url: https://www.ipcc.ch/srccl/chapter/summary-for-policymakers
   answer_scientific_url_text: page 16 à 18 du rapport du GIEC "Climate Change and
-    Landé
+    Land"
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/51262ffe.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4431b8c6.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -43725,7 +43725,7 @@
   validator: null
   validation_date: null
   created: '2023-02-03'
-  updated: '2023-02-05'
+  updated: '2023-02-06'
 - id: 1128
   text: Combien de temps faut-il à un système agricole (élevage, cultures pérennes)
     pour faire face au changement climatique ?
@@ -43763,7 +43763,7 @@
   created: '2023-02-03'
   updated: '2023-02-05'
 - id: 1129
-  text: Que désignent les paramètres de Milankovitch ?
+  text: 'Parlons science : que désignent les paramètres de Milankovitch ?'
   hint: ''
   type: QCM-RM
   category: 1
@@ -43809,7 +43809,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-05'
+  updated: '2023-02-06'
 - id: 1130
   text: Vrai ou faux ? Les éruptions volcaniques peuvent refroidir le climat
   hint: ''
@@ -43824,9 +43824,14 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: En 1991, l'éruption du volcan Pinatubo a ainsi provoqué un refroidissement
-    planétaire à cause des émissions de souffre d’environ 0,4°C. Cet impact a été
-    très ponctuel (de quelques mois à moins de 3 ans).
+  answer_explanation: 'Les éruptions volcaniques rejettent dans l''atmosphère des
+    cendres, des poussières et des gaz : soufre (SO2, H2S), halogènes (Hcl, Hbr) et
+    vapeur d''eau. Les émissions de soufre et de cendres agissent sur le climat en
+    réduisant le rayonnement solaire, en réchauffant la stratosphère, en altérant
+    la création d''ozone, en diminuant la température moyenne de surface. En 1991,
+    l''éruption du volcan Pinatubo aux Philippines a ainsi provoqué un refroidissement
+    planétaire d’environ 0,4°C. Cet impact a néanmoins été très ponctuel : de quelques
+    mois à moins de 3 ans.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.notre-planete.info/actualites/2862-emissions-CO2-volcans-changement-climatique
@@ -43845,7 +43850,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-05'
+  updated: '2023-02-06'
 - id: 1131
   text: Vrai ou faux ? Les éruptions volcaniques peuvent réchauffer le climat
   hint: ''
@@ -43860,11 +43865,12 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Lors des éruptions volcaniques, du CO2 est émis dans l’atmosphère
+  answer_explanation: Les éruptions volcaniques émettent des cendres et des aérosols
+    qui refroidissent le climat à court-terme. Mais elles émettent également du CO2,
     ce qui peut réchauffer le climat. Il y a 252 millions d’années, d’intenses éruptions
-    volcaniques ont créé un effet de serre important, pour partie responsable de l’extinction
-    massive des espèces du permien. Mais aujourd’hui, les émissions humaines sont
-    150 fois supérieures aux émissions des volcans.
+    volcaniques ont ainsi créé un effet de serre important, pour partie responsable
+    de l’extinction massive des espèces du permien. Mais aujourd’hui, les émissions
+    humaines sont 150 fois supérieures aux émissions des volcans.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.futura-sciences.com/planete/actualites/paleontologie-plus-grande-extinction-masse-histoire-aurait-commence-hiver-volcanique-5390/
@@ -43881,35 +43887,39 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-05'
+  updated: '2023-02-06'
 - id: 1132
-  text: 'Adopté à l’issue de la COP21, l''accord de Paris (2015) a pour objectif de
-    :'
+  text: 'Adopté à l’issue de la COP21, l''Accord de Paris (2015) fixe comme objectif
+    de :'
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 1
   language: Français
-  answer_option_a: limiter la hausse de la température moyenne en dessous de 1°C à
-    l'horizon 2030
-  answer_option_b: limiter la hausse de la température moyenne en dessous de 2°C à
-    l'horizon 2100
-  answer_option_c: limiter la hausse de la température moyenne à 3°C à l'horizon 2070
-  answer_option_d: Limiter les émissions de CO2 à 2 tonnes par personne et par an
-    d'ici 2050
+  answer_option_a: limiter la hausse de la température moyenne à moins de 1°C à l'horizon
+    2030
+  answer_option_b: limiter la hausse de la température moyenne à moins de 2°C à l'horizon
+    2100
+  answer_option_c: limiter la hausse de la température moyenne à moins de 3°C à l'horizon
+    2070
+  answer_option_d: Limiter les émissions de CO2 à moins de 2 tonnes par personne et
+    par an d'ici 2050
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: L'accord de Paris de 2015 a pour objectif principal de contenir
-    la hausse de la température moyenne bien en deça de 2°C, et la limiter autant
-    que possible à 1,5°C, d'ici 2100. Il vise également au renforcement des capacités
-    d’adaptation et de résilience face aux effets du changement climatique, ainsi
-    qu’à la mise en œuvre de flux financiers adaptés à ces objectifs. Il se traduit
-    par un budget carbone global à ne pas dépasser.
+  answer_explanation: L'accord de Paris de 2015 a fixé comme objectif principal de
+    contenir la hausse de la température moyenne bien en deça de 2°C, et à faire le
+    maximum pour se rapprocher de 1,5°C, d'ici 2100. Il vise également au renforcement
+    des capacités d’adaptation et de résilience face aux effets du changement climatique,
+    ainsi qu’à la mise en œuvre de flux financiers adaptés à ces objectifs. Cet objectif
+    de limitation de la hausse de la température se traduit effectivement par une
+    notion de budget carbone global, et l'ordre de grandeur de 2 tonnes par an et
+    par habitant d'ici 2050 est souvent donné - mais ce n'est pas en ces termes que
+    l'accord a été défini.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://onu.delegfrance.org/Accord-de-Paris#Qu-est-ce-que-l-accord-de-Paris
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'ONU : Qu''est-ce que l''Accord de Paris ?'
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -43922,7 +43932,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-04'
+  updated: '2023-02-06'
 - id: 1133
   text: En 2018, quelle part de la surface de la France métropolitaine est artificialisée
     ?
@@ -43942,7 +43952,7 @@
     plus de personnes habitent en ville. Mais l'artificialisation des terres progresse
     plus vite encore que l'augmentation de la population car les villes ont besoin
     d'infrastuctures très consommatrices d'espace (centres commerciaux, parkings,
-    etc) et la surface habitable par personne dans les logement est en augmentation.
+    etc) et la surface habitable par personne dans les logements est en augmentation.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43960,7 +43970,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-04'
+  updated: '2023-02-06'
 - id: 1134
   text: Selon une étude de l’ADEME, laquelle de ces actions permet d'éviter le plus
     de déchets ménagers ?
@@ -44010,18 +44020,17 @@
   difficulty: 1
   language: Français
   answer_option_a: La crémation
-  answer_option_b: L'inhumation en pleine terre
+  answer_option_b: L'inhumation (cercueil) en pleine terre
   answer_option_c: L'inhumation en caveau
   answer_option_d: L'humusation (le compostage du corps)
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Selon une étude des services funéraires de la ville de Paris,
     une inhumation en pleine terre, sans monument, a un impact écologique un peu inférieur
-    à celui de la crémation. Plusieurs autres pistes émergent, comme l'humusation,
-    qui consiste à laisser le corps se composter naturellement dans le sol. Cette
-    pratique est interdite en Europe - au stade de l'expérimentation en Belgique -
-    mais a été légalisée dans l'état de New York. L'empreinte est alors nulle - ou
-    même négative, mais soulève d'autres questions.
+    à celui de la crémation. L'humusation, qui consiste à laisser le corps se composter
+    naturellement dans le sol, est interdite en Europe - elle est au stade de l'expérimentation
+    en Belgique. L'empreinte est alors nulle - ou même négative, mais soulève d'autres
+    questions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.nouvelobs.com/planete/20171006.OBS5665/cremation-ou-inhumation-vous-pouvez-mourir-ecolo.html
@@ -44040,4 +44049,42 @@
   validator: null
   validation_date: null
   created: '2023-02-05'
-  updated: '2023-02-05'
+  updated: '2023-02-06'
+- id: 1136
+  text: Vrai ou faux ? La pollution de l'air empêche les champions d'échecs de se
+    concentrer
+  hint: ''
+  type: QCM
+  category: 3
+  tags: []
+  difficulty: 1
+  language: Français
+  answer_option_a: Vrai
+  answer_option_b: Faux
+  answer_option_c: ''
+  answer_option_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Les grands joueurs d’échecs commettent davantage d’erreurs lorsque
+    la pollution de l’air est élevée. Une étude montre qu'une modeste hausse du taux
+    de particules fines augmente la probabilité pour les joueurs de faire une erreur
+    de 2,1 % et l’importance de ces erreurs de 10,8 %”. Une augmentation de 10 microgrammes
+    de particules fines par mètre cube suffit pour augmenter le taux d’erreurs.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.courrierinternational.com/article/competition-la-pollution-de-l-air-empeche-les-joueurs-d-echecs-de-se-concentrer
+  answer_accessible_url_text: Courrier International, février 2023 - La pollution
+    de l’air empêche les joueurs d’échecs de se concentrer
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/55081c9a.png
+  answer_image_explanation: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-06'
+  updated: '2023-02-06'
