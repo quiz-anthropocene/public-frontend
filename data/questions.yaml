@@ -4104,7 +4104,8 @@
   answer_accessible_url_text: Votre chien pollue plus qu'un 4x4 (sauf si vous le mangez)
     | Slate.fr
   answer_scientific_url: https://www.newscientist.com/article/mg20427311-600-how-green-is-your-pet/
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: New Scientist, How green is your pet? New Scientist,
+    2009
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000102-5540.jpg
   answer_image_explanation: ''
@@ -34162,7 +34163,8 @@
   answer_accessible_url_text: Le vrai poumon du monde est océanique, et il brûle sans
     faire de vague
   answer_scientific_url: https://www.imf.org/external/pubs/ft/fandd/2019/12/natures-solution-to-climate-change-chami.htm
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: A strategy to protect whales can limit greenhouse gases
+    and global warming, IMF
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000869-fe8f.jpg
   answer_image_explanation: ''
@@ -43016,7 +43018,7 @@
   created: '2023-01-31'
   updated: '2023-01-31'
 - id: 1110
-  text: Today, humanity use 50% of the earth's habitable surface, the vast majority
+  text: Today, humanity uses 50% of the earth's livable surface, the vast majority
     of which is used for agriculture. How much of this agricultural land is used for
     livestock production?
   hint: ''
@@ -43052,7 +43054,7 @@
   validator: null
   validation_date: null
   created: '2023-01-31'
-  updated: '2023-01-31'
+  updated: '2023-02-07'
 - id: 1111
   text: How does the annual CO2 footprint of a French person compare to the one of
     a Nigerian?
@@ -43520,7 +43522,7 @@
   updated: '2023-02-03'
 - id: 1123
   text: Vrai ou faux ? Tous les gaz à effet de serre ont la même durée de vie dans
-    l'atmosphère
+    l'atmosphère.
   hint: Ca serait trop simple !
   type: VF
   category: 1
@@ -43551,17 +43553,18 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-07'
 - id: 1124
   text: Lorsque, il y a 22,000 ans, la dernière dernière ère glaciaire a pris fin,
-    le niveau des mers était 120 m plus bas qu'aujourd'hui et le nord de l'Europe
-    était recouvert de plusieurs km de glace. Quel est l'écart de température moyenne
-    mondiale entre cette période et la température moyenne préindustrielle ?
-  hint: Cela paraît peu
+    le niveau des mers était 120 mètres plus bas qu'aujourd'hui et le nord de l'Europe
+    était recouvert de plusieurs kilomètres de glace. Quel est l'écart de température
+    moyenne mondiale entre cette période et la température moyenne préindustrielle
+    ?
+  hint: Cela paraît peu.
   type: QCM
   category: 1
   tags: []
@@ -43593,11 +43596,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-02'
-  updated: '2023-02-03'
+  updated: '2023-02-07'
 - id: 1125
   text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
     atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
@@ -44019,16 +44022,16 @@
   answer_explanation: 'Selon une étude des services funéraires de la ville de Paris,
     c''est l''inhumation en pleine terre qui est la moins émettrice, avec un impact
     écologique légèrement inférieur à celui de la crémation. Condition pour cela :
-    pas monument, une tombe simplement gazonnée, dans un cercueil fabriqué en France
+    pas de monument, une tombe simplement gazonnée, dans un cercueil fabriqué en France
     avec le moins de vernis et de poignées possible. En moyenne cependant, une inhumation
-    dégage 869 kg de CO2, c’est-à-dire 3,7 fois plus que la crémation. Car est comptabilisés
+    dégage 869 kg de CO2, c’est-à-dire 3,7 fois plus que la crémation. Car est comptabilisé
     l’ensemble des opérations : le creusement de la terre, la fabrication du cercueil
     et du monument, le transport du défunt. Peut-on faire mieux ? potentiellement
     oui, avec l''humusation, qui consiste à laisser le corps se composter naturellement
-    dans le sol. Cette pratiquement est cependant interdite en Europe - elle est au
-    stade de l''expérimentation en Belgique et vient d''être légalisée dans l''état
-    de New York. L''empreinte est alors nulle - ou même négative, mais soulève d''autres
-    questions.'
+    dans le sol. Cette pratiquement est cependant pour l''instant interdite en Europe.
+    Elle est au stade de l''expérimentation en Belgique et vient d''être légalisée
+    dans l''état de New York. L''empreinte est alors très faible. Mais elle soulève
+    d''autres questions.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.nouvelobs.com/planete/20171006.OBS5665/cremation-ou-inhumation-vous-pouvez-mourir-ecolo.html
@@ -44073,7 +44076,7 @@
   answer_accessible_url_text: Courrier International, février 2023 - La pollution
     de l’air empêche les joueurs d’échecs de se concentrer
   answer_scientific_url: https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4643
-  answer_scientific_url_text: Indoor Air Quality and Str,ategic Decision Making, Management
+  answer_scientific_url_text: Indoor Air Quality and Strategic Decision Making, Management
     Science, Janvier 2023
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ed779f62.png
@@ -44085,4 +44088,39 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-06'
+  updated: '2023-02-07'
+- id: 1137
+  text: Quel pourcentage de la déforestation mondiale est liée à l’agriculture ?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 2
+  language: Français
+  answer_option_a: 25%
+  answer_option_b: 50%
+  answer_option_c: 66%
+  answer_option_d: 80%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: On estime que 80% de la déforestation globale est la conséquence
+    directe des pratiques agricoles. Les subventions agricoles, estimées à  200 milliards
+    de dollars par an sont souvent le facteur sous-jacent principal de ces destructions
+    de forêts.
+  answer_audio_url: ''
+  answer_video_url: ''
+  answer_accessible_url: https://www.un.org/sustainabledevelopment/blog/tag/deforestation/
+  answer_accessible_url_text: Brochure ONU sur les objectifs de développement durable
+  answer_scientific_url: ''
+  answer_scientific_url_text: ''
+  answer_reading_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d0a9935b.png
+  answer_image_explanation: Our World in Data - principaux leviers de la déforestation
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  created: '2023-02-07'
   updated: '2023-02-07'

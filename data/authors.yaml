@@ -7,7 +7,7 @@
 - id: 2
   first_name: Matthieu
   last_name: Massart
-  question_count: 96
+  question_count: 98
   quiz_count: 10
   created: '2022-04-04'
 - id: 5
@@ -224,7 +224,7 @@
   first_name: Emmanuel
   last_name: Pont
   question_count: 10
-  quiz_count: 1
+  quiz_count: 2
   created: '2022-04-16'
 - id: 49
   first_name: Mylène
@@ -242,7 +242,7 @@
   first_name: Maxence
   last_name: Cordiez
   question_count: 9
-  quiz_count: 1
+  quiz_count: 2
   created: '2022-06-08'
 - id: 59
   first_name: Romaric
