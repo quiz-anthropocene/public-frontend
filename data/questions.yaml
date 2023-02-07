@@ -80,7 +80,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
@@ -763,7 +763,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 20
   text: En 2018, quelle proportion de l'énergie consommée dans le monde l'a été sous
     forme d'électricité ?
@@ -3057,7 +3057,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-20'
+  updated: '2023-02-07'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -3701,7 +3701,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 93
   text: DOUBLON 392 - Quelle quantité de matières est extraite du sol pour la fabrication
     d'un smartphone ?
@@ -4115,7 +4115,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -5432,8 +5432,8 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 138
-  text: Depuis sa création en 1988, combien de rapports d'évaluation ont été publiés
-    par le GIEC ?
+  text: Depuis sa création, combien de rapports d'évaluation ont été publiés par le
+    GIEC ?
   hint: ''
   type: QCM
   category: 6
@@ -5441,27 +5441,14 @@
   - 22
   difficulty: 2
   language: Français
-  answer_option_a: '2'
-  answer_option_b: '3'
-  answer_option_c: '5'
-  answer_option_d: '7'
-  answer_correct: c
+  answer_option_a: '4'
+  answer_option_b: '6'
+  answer_option_c: '8'
+  answer_option_d: '10'
+  answer_correct: b
   has_ordered_answers: true
-  answer_explanation: '5 rapports d’évaluation (Assessment Report) ont été publiés
-    par le GIEC depuis sa création.
-
-
-    En 1990, FAR (First Assessment Report).
-
-    En 1995, SAR (Second AR).
-
-    En 2001, TAR (Third AR).
-
-    En 2007, AR4 (4th AR).
-
-    En 2014, AR5 (5th AR).
-
-    Le 6ème rapport est prévu pour 2022.'
+  answer_explanation: En 1990, 1995, 2001, 2007, 2014, AR5 et enfin le dernier AR6,
+    en 2021-22.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://fr.wikipedia.org/wiki/Groupe_d%27experts_intergouvernemental_sur_l%27%C3%A9volution_du_climat#Rapports_d'%C3%A9valuation
@@ -5470,7 +5457,7 @@
   answer_scientific_url: https://www.ipcc.ch/reports/
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000138-8738.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7a549002.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 5
@@ -5479,7 +5466,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 139
   text: Lequel de ces gaz contribue le plus à l’effet de serre ?
   hint: ''
@@ -7246,10 +7233,9 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 186
-  text: 'Il vous faudra environ 7 secondes pour lire cette question.
-
-    Pendant ce laps de temps, quelle quantité de CO2 aura été émise dans le monde
-    par les activités humaines ?'
+  text: "Il vous faudra environ 7 secondes pour lire cette question.\r\nPendant ce\
+    \ laps de temps, quelle quantité de CO2 aura été émise dans le monde par les activités\
+    \ humaines ?"
   hint: ''
   type: QCM
   category: 2
@@ -7260,7 +7246,7 @@
   answer_option_a: 8 tonnes (bulle de 20m de diamètre)
   answer_option_b: 80 tonnes (bulle de 40m de diamètre)
   answer_option_c: 800 tonnes (bulle de 90m de diamètre)
-  answer_option_d: 8 000 tonnes (bulle de 200m de diamètre)
+  answer_option_d: 8,000 tonnes (bulle de 200m de diamètre)
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: En 2017 les activités humaines ont rejetées 36 milliards de
@@ -7282,7 +7268,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 187
   text: Combien y a-t-il d’arbres en Amazonie ?
   hint: ''
@@ -8964,7 +8950,7 @@
   validator: 5
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 232
   text: 'Quelle personnalité française a dit en 2017 « Pas besoin de faire de catastrophisme
     : la situation est catastrophique » ?'
@@ -20719,14 +20705,14 @@
   - 98
   difficulty: 3
   language: Français
-  answer_option_a: 1 600 fois plus (~1 bombe par minute)
-  answer_option_b: 16 000  fois plus  (~10 par minute)
-  answer_option_c: 160 000  fois plus (~2 par seconde)
-  answer_option_d: 1 600 000 Hiroshima par jour (~20 par seconde)
+  answer_option_a: 1 bombe d'Hiroshima par minute
+  answer_option_b: 10 par minute
+  answer_option_c: 2 par seconde
+  answer_option_d: 20 par seconde
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: L'énergie dégagée par la bombe atomique d'Hiroshima est estimée
-    à 15 000 tonnes de TNT, soit 63 000 milliards de Joule. La puissance du forçage
+    à 15,000 tonnes de TNT, soit 63,000 milliards de Joule. La puissance du forçage
     radiatif des gaz à effet de serre d'origine humaine (2.3 W/m²) sur la surface
     de la terre est d'environ 1,7 millions de milliards de watts, ce qui fait une
     énergie journalière d'environ 100 milliards de milliards de Joule. Soit la même
@@ -20747,7 +20733,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 542
   text: En quelle année a-ton émis le plus de CO2 sur le territoire français ?
   hint: ''
@@ -22130,7 +22116,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-01-20'
+  updated: '2023-02-07'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -22209,7 +22195,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 580
   text: J'ai inventé un processus permettant de transformer le pétrole en essence
     et mis au point la synthèse de l’ammoniac, un processus qui va permettre la fabrication
@@ -22290,8 +22276,8 @@
   created: '2020-09-14'
   updated: '2022-04-16'
 - id: 582
-  text: En pédalant sur un vélo muni d'une dynamo, peut-on faire griller une tartine
-    dans un grille-pain ?
+  text: En pédalant sur un vélo muni d'une dynamo, un cycliste lambda peut-il réussir
+    à faire griller une tartine dans un grille-pain ?
   hint: ''
   type: VF
   category: 2
@@ -22306,11 +22292,9 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: La réponse est non...à moins d'être un champion olympique et
-    de finir les cuisses en feu ! Un tel champion olympique a tenté l'expérience,
-    voyez le résultat dans la vidéo ci-dessous. Autrement dit, les publicités qui
-    vous promettent d'alimenter un foyer avec un appareil sur lequel vous pédaleriez
-    quelques heures par jour est un mythe.
+  answer_explanation: A moins d'être un champion olympique et de finir les cuisses
+    en feu, c'est hors de votre porte ! Un tel champion a tenté l'expérience, voyez
+    le résultat dans la vidéo ci-dessous.
   answer_audio_url: ''
   answer_video_url: https://www.youtube.com/embed/S4O5voOCqAQ
   answer_accessible_url: ''
@@ -22329,7 +22313,7 @@
   validator: 1
   validation_date: '2020-09-25'
   created: '2020-09-18'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 583
   text: 'La population mondiale a été multipliée par 8 en :'
   hint: ''
@@ -29035,7 +29019,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 744
   text: Si tous les logements ajustaient leur température moyenne au niveau recommandé
     en France, de combien diminuerait-on la consommation de chauffage ?
@@ -34189,7 +34173,7 @@
   validator: 38
   validation_date: '2021-03-02'
   created: '2021-02-23'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 870
   text: De toute l'énergie utile que l'humanité utilise actuellement, quelle est la
     part d'énergie thermique (chaleur) ?
@@ -34436,7 +34420,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2022-12-03'
+  updated: '2023-02-07'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
@@ -36478,7 +36462,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-11-04'
+  updated: '2023-02-07'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -38084,7 +38068,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-07-15'
+  updated: '2023-02-07'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -38173,7 +38157,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 969
   text: De combien diminue-t-on les émissions d'un logement en passant de la classe
     E à la classe A ?
@@ -38217,7 +38201,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-11-08'
+  updated: '2023-02-07'
 - id: 970
   text: Qu'est-ce qu'on pourra faire plus dans un monde bas carbone ?
   hint: ''
@@ -38303,7 +38287,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-04-16'
+  updated: '2023-02-07'
 - id: 999
   text: 'Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
     a émis plus de carbone qu''elle n''en a capté. '
@@ -42398,7 +42382,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-25'
+  updated: '2023-02-07'
 - id: 1096
   text: Quelle quantité de matière la fabrication des décors de l'Opéra Bastille requiert-elle
     ?
@@ -43655,7 +43639,7 @@
 - id: 1126
   text: D'après le GIEC, quels sont les effets déjà observés du changement climatique
     sur l'agriculture ?
-  hint: Il n'y en a pas qu'un
+  hint: Il n'y en a pas qu'un.
   type: QCM-RM
   category: 1
   tags: []
@@ -43671,7 +43655,7 @@
   answer_explanation: Les périodes favorables à la pousse des végétaux augmentent
     dans les hautes latitudes alors que la désertification s'étend dans les basses
     latitudes, et les ravageurs et maladies s'adaptent déjà au changement climatique
-    entraînant des effets positifs ou négatifs selon les régions
+    entraînant des effets positifs ou négatifs selon les régions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43685,11 +43669,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-03'
-  updated: '2023-02-03'
+  updated: '2023-02-07'
 - id: 1127
   text: D'après le GIEC , à partir de quel seuil de réchauffement y a-t-il un risque
     de bascule vers des risques de rupture de la production alimentaire ?
@@ -43707,7 +43691,7 @@
   has_ordered_answers: true
   answer_explanation: Ce niveau de risque dépend à la fois du niveau de réchauffement
     et de l'évolution de facteurs tels que la population, la consommation, le développement
-    technologique, la gestion de l'occupation des sols.
+    technologique ou la gestion de l'occupation des sols.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43721,11 +43705,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-03'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
 - id: 1128
   text: Combien de temps faut-il à un système agricole (élevage, cultures pérennes)
     pour faire face au changement climatique ?
@@ -43741,9 +43725,9 @@
   answer_option_d: Plus de 50 ans
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: la modification des caractéristiques d'un troupeau ou d'un verger
-    / d'une vigne nécessite une anticipation de 10 à 20 ans. Pour une forêt, c'est
-    50 ans.
+  answer_explanation: La modification des caractéristiques d'un troupeau ou d'un verger
+    / d'une vigne nécessite une anticipation de 10 à 20 ans. Pour une forêt, il est
+    plutôt question d'une cinquantaine d'années.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43757,11 +43741,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2023-02-03'
-  updated: '2023-02-05'
+  updated: '2023-02-07'
 - id: 1129
   text: 'Parlons science : que désignent les paramètres de Milankovitch ?'
   hint: ''
@@ -43805,11 +43789,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-04'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
 - id: 1130
   text: Vrai ou faux ? Les éruptions volcaniques peuvent refroidir le climat
   hint: ''
@@ -43842,7 +43826,7 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1fca500b.jpg
   answer_image_explanation: Panache volcanique s'élevant au-dessus du Pinatubo lors
-    de son éruption de 1991
+    de son éruption de 1991.
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -43850,7 +43834,7 @@
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
 - id: 1131
   text: Vrai ou faux ? Les éruptions volcaniques peuvent réchauffer le climat
   hint: ''
@@ -43928,11 +43912,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-04'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
 - id: 1133
   text: En 2018, quelle part de la surface de la France métropolitaine est artificialisée
     ?
@@ -43948,11 +43932,18 @@
   answer_option_d: 15%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: L'urbanisation progresse partout dans le monde car de plus en
-    plus de personnes habitent en ville. Mais l'artificialisation des terres progresse
-    plus vite encore que l'augmentation de la population car les villes ont besoin
-    d'infrastuctures très consommatrices d'espace (centres commerciaux, parkings,
-    etc) et la surface habitable par personne dans les logements est en augmentation.
+  answer_explanation: Notons pour commencer que le terme d’artificialisation n’a pas
+    de définition scientifique internationale. Au niveau mondial sont surtout utilisées
+    les notions d’urbanisation, d’imperméabilisation, de dégradation des sols. Notons
+    ensuite que tous les sols artificialisés ne se valent pas en termes de dégradation
+    écologique. Presque la moitié d'entre sont imperméables, c’est la forme qui détruit
+    le plus les fonctions du sol et sa biodiversité. A l'inverse, un sol n’a pas besoin
+    d’être artificialisé pour voir ses fonctions écologiques être altérées. Cela étant
+    précise, l'urbanisation progresse partout dans le monde car de plus en plus de
+    personnes habitent en ville. Mais l'artificialisation des terres progresse plus
+    vite encore que l'augmentation de la population car les villes ont besoin d'infrastructures
+    très consommatrices d'espace (centres commerciaux, parkings, etc) et la surface
+    habitable par personne dans les logements est en augmentation.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43966,31 +43957,31 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-04'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
 - id: 1134
   text: Selon une étude de l’ADEME, laquelle de ces actions permet d'éviter le plus
     de déchets ménagers ?
   hint: ''
   type: QCM
-  category: null
+  category: 2
   tags: []
   difficulty: 1
   language: Français
   answer_option_a: Composter ses déchets
-  answer_option_b: Utiliser du verre consigné
+  answer_option_b: Utiliser du verre consigné pour réemploi
   answer_option_c: Apposer un autocollant Stop Pub sur sa boîte aux lettres
-  answer_option_d: Boire de l’eau du robinet plutôt que de l’eau en bouteille
+  answer_option_d: Passer de l’eau en bouteille à l'eau du robinet
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Selon une étude de l'ADEME de 2016, la gestion domestique des
-    biodéchets arrive loin devant (161kg/hab/an). Ils composent en effet la plus grande
-    partie de notre poubelle grise (33%). Viennent ensuite la consigne pour réemploi
-    du verre, les autocollants stop-pub et enfin l'utilisation de l'eau du robinet
-    plutôt qu'en bouteille.
+  answer_explanation: Selon une étude datant de 2016, la gestion domestique des biodéchets
+    arrive loin devant (161kg/hab/an). Ils composent en effet la plus grande partie
+    de notre poubelle grise (33%). Viennent ensuite la consigne pour réemploi du verre,
+    les autocollants stop-pub et enfin l'utilisation de l'eau du robinet plutôt qu'en
+    bouteille.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://librairie.ademe.fr/dechets-economie-circulaire/5417-dechets-chiffres-cles-l-essentiel-2021-9791029719622.html
@@ -44005,17 +43996,17 @@
     Bru'
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2023-02-05'
+  updated: '2023-02-07'
 - id: 1135
   text: Votre dernière heure est bientôt venue...et vous voulez minimiser l'empreinte
     carbone de votre passage dans l'au-delà. Que choisissez-vous ?
   hint: ''
   type: QCM
-  category: null
+  category: 2
   tags: []
   difficulty: 1
   language: Français
@@ -44025,12 +44016,19 @@
   answer_option_d: L'humusation (le compostage du corps)
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Selon une étude des services funéraires de la ville de Paris,
-    une inhumation en pleine terre, sans monument, a un impact écologique un peu inférieur
-    à celui de la crémation. L'humusation, qui consiste à laisser le corps se composter
-    naturellement dans le sol, est interdite en Europe - elle est au stade de l'expérimentation
-    en Belgique. L'empreinte est alors nulle - ou même négative, mais soulève d'autres
-    questions.
+  answer_explanation: 'Selon une étude des services funéraires de la ville de Paris,
+    c''est l''inhumation en pleine terre qui est la moins émettrice, avec un impact
+    écologique légèrement inférieur à celui de la crémation. Condition pour cela :
+    pas monument, une tombe simplement gazonnée, dans un cercueil fabriqué en France
+    avec le moins de vernis et de poignées possible. En moyenne cependant, une inhumation
+    dégage 869 kg de CO2, c’est-à-dire 3,7 fois plus que la crémation. Car est comptabilisés
+    l’ensemble des opérations : le creusement de la terre, la fabrication du cercueil
+    et du monument, le transport du défunt. Peut-on faire mieux ? potentiellement
+    oui, avec l''humusation, qui consiste à laisser le corps se composter naturellement
+    dans le sol. Cette pratiquement est cependant interdite en Europe - elle est au
+    stade de l''expérimentation en Belgique et vient d''être légalisée dans l''état
+    de New York. L''empreinte est alors nulle - ou même négative, mais soulève d''autres
+    questions.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.nouvelobs.com/planete/20171006.OBS5665/cremation-ou-inhumation-vous-pouvez-mourir-ecolo.html
@@ -44045,19 +44043,18 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
 - id: 1136
-  text: Vrai ou faux ? La pollution de l'air empêche les champions d'échecs de se
-    concentrer
+  text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
   type: QCM
   category: 3
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: Français
   answer_option_a: Vrai
   answer_option_b: Faux
@@ -44065,26 +44062,27 @@
   answer_option_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Les grands joueurs d’échecs commettent davantage d’erreurs lorsque
-    la pollution de l’air est élevée. Une étude montre qu'une modeste hausse du taux
-    de particules fines augmente la probabilité pour les joueurs de faire une erreur
-    de 2,1 % et l’importance de ces erreurs de 10,8 %”. Une augmentation de 10 microgrammes
-    de particules fines par mètre cube suffit pour augmenter le taux d’erreurs.
+  answer_explanation: Les joueurs d’échecs professionnels commettent davantage d’erreurs
+    lorsque la pollution de l’air est élevée. Une étude montre qu'une modeste hausse
+    du taux de particules fines augmente la probabilité pour les joueurs de faire
+    une erreur de 2,1 % et l’importance de ces erreurs de 10,8 %. Une augmentation
+    de 10 microgrammes de particules fines par mètre cube suffit.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.courrierinternational.com/article/competition-la-pollution-de-l-air-empeche-les-joueurs-d-echecs-de-se-concentrer
   answer_accessible_url_text: Courrier International, février 2023 - La pollution
     de l’air empêche les joueurs d’échecs de se concentrer
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4643
+  answer_scientific_url_text: Indoor Air Quality and Str,ategic Decision Making, Management
+    Science, Janvier 2023
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/55081c9a.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ed779f62.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
   created: '2023-02-06'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
