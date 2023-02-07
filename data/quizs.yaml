@@ -2449,19 +2449,19 @@
   introduction: "<p>The growth of the world population is widely seen as a major factor\
     \ in the ecological crisis. Is it its main cause? Is there something we can do\
     \ about it? What will be the results and when? On this thorny issue, this quizz\
-    \ will take you through some of key figures, challenge a few preconceived ideas.\
-    \ In a nutshell, provide a more nuanced view on the debate on population and overpopulation.<br\
-    \ />\r\n<br />\r\nThis quizz was created by Emmanuel Pont. Emmanuel authored the\
-    \ book <a href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
+    \ will take you through some of the key figures, challenge a few preconceived\
+    \ ideas. In a nutshell, provide a more nuanced view on the debate on population\
+    \ and overpopulation.<br />\r\n<br />\r\nThis quizz was created by Emmanuel Pont.\
+    \ Emmanuel authored the book <a href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
     >Faut-il arrêter de faire des enfants pour sauver la planète ?</a> (<em>Should\
     \ we stop making babies to save the Planet?,</em> not translated)</p>"
   conclusion: <p>While the increase in human population is a factor in the human footprint
     on the planet, it is not a very effective lever for action. It is indeed difficult
     to reduce the birth rate, and the demographical inertia is strong. Defining the
-    <em>maximum population</em> depends on how we live and how our societies function.
+    <em>maximum population</em> depends on how we live and how our societies work.
     At the individual scale, having a child has a much lower ecological weight than
     the figures that may be circulating, and which may be even more limited depending
-    on how that child will be living.</p>
+    on how that child would be living.</p>
   questions:
   - 1107
   - 1108
@@ -2482,14 +2482,14 @@
   authors:
   - 46
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
+  publish: true
+  publish_date: '2023-02-07'
+  spotlight: true
   created: '2023-01-31'
-  updated: '2023-02-03'
+  updated: '2023-02-07'
 - id: 94
   name: L'effet de serre
   slug: leffet-de-serre
@@ -2497,7 +2497,7 @@
     et le climat, en particulier sur <a href="https://www.linkedin.com/in/maxence-cordiez/">LinkedIn</a>.
     Il nous avait déjà partagé un <a href="https://quizanthropocene.fr/quiz/le-quiz-de-maxence-cordiez-sur-le-petrole">quiz
     sur le pétrole</a>. Le voici de retour avec cet autre bouquet de 10 questions.
-    Vont-elles vous rendrent incollable sur l'effet de serre ? Rendez-vous dans quelques
+    Vont-elles vous rendre incollable sur l'effet de serre ? Rendez-vous dans quelques
     minutes...</p>
   conclusion: '<p>Si vous avez fait des erreurs ou que vous souhaitez en apprendre
     davantage sur l''énergie, vous pouvez découvrir l''ouvrage de Maxence Cordiez
@@ -2529,11 +2529,11 @@
   authors:
   - 57
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-07'
+  publish: true
+  publish_date: '2023-02-07'
   spotlight: true
   created: '2023-02-02'
   updated: '2023-02-07'
