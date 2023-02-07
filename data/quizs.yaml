@@ -1716,7 +1716,7 @@
   publish_date: '2021-11-26'
   spotlight: true
   created: '2021-11-16'
-  updated: '2022-11-28'
+  updated: '2023-02-07'
 - id: 77
   name: Archipel du Vivant
   slug: archipel-du-vivant
@@ -2231,7 +2231,9 @@
     à l'intention des décideurs</a>, disponibles en français.</p>
   questions:
   - 105
+  - 138
   - 145
+  - 231
   - 271
   - 424
   - 425
@@ -2242,7 +2244,7 @@
   - 1079
   - 1080
   - 1081
-  question_count: 12
+  question_count: 14
   tags:
   - 22
   - 225
@@ -2260,7 +2262,7 @@
   publish_date: '2022-11-15'
   spotlight: true
   created: '2022-11-05'
-  updated: '2023-02-04'
+  updated: '2023-02-07'
 - id: 89
   name: Festival Nature et Environnement Isère
   slug: festival-nature-et-environnement-isere-2022
@@ -2493,16 +2495,18 @@
   slug: leffet-de-serre
   introduction: <p>Depuis 2017, Maxence Cordiez publie des contenus sur l'énergie
     et le climat, en particulier sur <a href="https://www.linkedin.com/in/maxence-cordiez/">LinkedIn</a>.
-    Il nous avait déjà partagé un quiz sur le pétrole. Le voici de retour avec cette
-    autre bouquet de 10 questions, qui vont vous rendrent incollable sur l'effet de
-    serre.</p>
-  conclusion: '<p>Vous pouvez retrouver le quiz initial de Maxence <a href="https://view.genial.ly/62671f7e41c8fd0011c76eea/interactive-content-002-quiz-gaz-a-effet-de-serre-difficile">ici</a>.
-    Si vous avez fait des erreurs ou que vous souhaitez en apprendre davantage sur
-    l''énergie, vous pouvez découvrir son ouvrage : <a href="https://www.connaissancedesenergies.org/en-librairie-energies-fake-or-not-extraits-220415">Énergies
-    - Fake or not ?</a>. Si vous avez 35 minutes devant vous, nous vous conseillons
-    cette <a href="https://www.youtube.com/watch?v=rXlEcth5Gxc">vidéo </a>très détaillée
-    du youtubeur le Réveilleur sur l''effet de serre. Vous pouvez aussi participer
-    à un atelier la <a href="http://fresqueduclimat.org">Fresque du Climat</a>.</p>'
+    Il nous avait déjà partagé un <a href="https://quizanthropocene.fr/quiz/le-quiz-de-maxence-cordiez-sur-le-petrole">quiz
+    sur le pétrole</a>. Le voici de retour avec cet autre bouquet de 10 questions.
+    Vont-elles vous rendrent incollable sur l'effet de serre ? Rendez-vous dans quelques
+    minutes...</p>
+  conclusion: '<p>Si vous avez fait des erreurs ou que vous souhaitez en apprendre
+    davantage sur l''énergie, vous pouvez découvrir l''ouvrage de Maxence Cordiez
+    : <a href="https://www.connaissancedesenergies.org/en-librairie-energies-fake-or-not-extraits-220415">Énergies
+    - Fake or not ?</a> Si vous voulez aller plus loin sur l''effet de serre et que
+    vous avez 35 minutes devant vous, nous vous conseillons cette <a href="https://www.youtube.com/watch?v=rXlEcth5Gxc">vidéo
+    </a>très détaillée du youtubeur le Réveilleur sur l''effet de serre. Et pour une
+    compréhension plus globale du dérèglement climatique la <a href="http://fresqueduclimat.org">Fresque
+    du Climat</a> ou <a href="https://www.nosviesbascarbone.org/">Nos Vies Bas Carbone</a>.</p>'
   questions:
   - 1116
   - 1117
@@ -2530,6 +2534,76 @@
   validation_date: null
   publish: false
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2023-02-02'
-  updated: '2023-02-06'
+  updated: '2023-02-07'
+- id: 95
+  name: Les questions les plus insolites
+  slug: questions-insolites
+  introduction: <p>C'est vrai qu'il fait sérieux ce site. Parfois, rien que pour comprendre
+    la question, il faut se concentrer ! Et puis, les faits exposés peuvent vous mettre
+    le moral dans les chaussettes...Alors, pour prendre une pause, voici un pot-pourri
+    des questions le plus insolites.</p>
+  conclusion: <p>Voilà, la récréation est terminée, vous pouvez retourner vous frotter
+    aux quiz sérieux !</p>
+  questions:
+  - 2
+  - 102
+  - 186
+  - 541
+  - 577
+  - 582
+  - 869
+  - 875
+  - 927
+  - 1095
+  - 1135
+  - 1136
+  question_count: 12
+  tags: []
+  difficulty_average: 2.1
+  language: Français
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/dcf1e99b.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-02-07'
+  updated: '2023-02-07'
+- id: 96
+  name: Actions individuelles
+  slug: actions-individuelles
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 19
+  - 76
+  - 743
+  - 966
+  - 968
+  - 969
+  - 971
+  - 1134
+  question_count: 8
+  tags: []
+  difficulty_average: 1.9
+  language: Français
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: Brouillon
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-02-07'
+  updated: '2023-02-07'
