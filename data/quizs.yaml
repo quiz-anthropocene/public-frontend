@@ -1822,9 +1822,9 @@
     créatif sur le changement climatique. Il est basé sur l’intelligence collective
     et est extrêmement pédagogique. En 3 heures, vous découvrez les mécanismes du
     climat et les conséquences de son dérèglement, vous débattez entre vous et élaborez
-    des pistes d'action pour le limiter et s'y adapter. Déjà plus de 400,000 personnes
-    y ont participé à travers le monde et 20,000 sont devenues animateurs. A vous
-    de tester vos connaissances !</p>
+    des pistes d'action pour le limiter et s'y adapter. Déjà plus de 800,000 personnes
+    y ont participé à travers le monde et 40,000 sont devenues animateurs et animatrices.
+    A vous de tester vos connaissances !</p>
   conclusion: <p>Ca vous a plu ? Des points qui vous étaient inconnus ? Alors n'hésitez
     plus, inscrivez-vous à un atelier de la <a href="http://fresqueduclimat.org">Fresque
     du Climat</a>. Vous pourrez même rapidement devenir animateur à votre tour.</p>
@@ -1864,7 +1864,7 @@
   publish_date: '2022-01-20'
   spotlight: true
   created: '2022-01-10'
-  updated: '2023-02-02'
+  updated: '2023-02-06'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -2499,8 +2499,10 @@
   conclusion: '<p>Vous pouvez retrouver le quiz initial de Maxence <a href="https://view.genial.ly/62671f7e41c8fd0011c76eea/interactive-content-002-quiz-gaz-a-effet-de-serre-difficile">ici</a>.
     Si vous avez fait des erreurs ou que vous souhaitez en apprendre davantage sur
     l''énergie, vous pouvez découvrir son ouvrage : <a href="https://www.connaissancedesenergies.org/en-librairie-energies-fake-or-not-extraits-220415">Énergies
-    - Fake or not ?</a>. Vous pouvez aussi participer à un atelier la <a href="http://fresqueduclimat.org">Fresque
-    du Climat</a> pour aller plus loin.</p>'
+    - Fake or not ?</a>. Si vous avez 35 minutes devant vous, nous vous conseillons
+    cette <a href="https://www.youtube.com/watch?v=rXlEcth5Gxc">vidéo </a>très détaillée
+    du youtubeur le Réveilleur sur l''effet de serre. Vous pouvez aussi participer
+    à un atelier la <a href="http://fresqueduclimat.org">Fresque du Climat</a>.</p>'
   questions:
   - 1116
   - 1117
@@ -2530,4 +2532,4 @@
   publish_date: null
   spotlight: false
   created: '2023-02-02'
-  updated: '2023-02-03'
+  updated: '2023-02-06'
