@@ -43414,7 +43414,7 @@
   answer_option_b: Faux
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: a
+  answer_correct: b
   has_ordered_answers: false
   answer_explanation: 'Contrairement au dioxyde de carbone et au méthane, la vapeur
     d''eau ne s''accumule pas dans l''atmosphère. Sa concentration y est principalement
@@ -43442,7 +43442,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-08'
 - id: 1121
   text: Vrai ou faux ? La vapeur d'eau joue un rôle important dans le réchauffement
     climatique.
