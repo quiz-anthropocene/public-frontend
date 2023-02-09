@@ -2447,21 +2447,24 @@
   name: Population and Overpopulation
   slug: population-and-overpopulation
   introduction: "<p>The growth of the world population is widely seen as a major factor\
-    \ in the ecological crisis. Is it its main cause? Is there something we can do\
-    \ about it? What will be the results and when? On this thorny issue, this quizz\
+    \ in the current ecological crisis. Is it its main cause? Is there something we\
+    \ can do about it? What would be the results and when? On this thorny issue, we\
     \ will take you through some of the key figures, challenge a few preconceived\
-    \ ideas. In a nutshell, provide a more nuanced view on the debate on population\
+    \ ideas and, hopefully, provide a more nuanced view on the debate over population\
     \ and overpopulation.<br />\r\n<br />\r\nThis quizz was created by Emmanuel Pont.\
     \ Emmanuel authored the book <a href=\"https://www.payot-rivages.fr/payot/livre/faut-il-arr%C3%AAter-de-faire-des-enfants-pour-sauver-la-plan%C3%A8te-9782228929684\"\
     >Faut-il arrêter de faire des enfants pour sauver la planète ?</a> (<em>Should\
     \ we stop making babies to save the Planet?,</em> not translated)</p>"
-  conclusion: <p>While the increase in human population is a factor in the human footprint
-    on the planet, it is not a very effective lever for action. It is indeed difficult
-    to reduce the birth rate, and the demographical inertia is strong. Defining the
-    <em>maximum population</em> depends on how we live and how our societies work.
-    At the individual scale, having a child has a much lower ecological weight than
-    the figures that may be circulating, and which may be even more limited depending
-    on how that child would be living.</p>
+  conclusion: "<p>While the human population size is a factor in the human footprint\
+    \ on the planet, working on it is not very effective lever. It is indeed difficult\
+    \ to reduce the birth rate, and the demographical inertia is strong. Defining\
+    \ the <em>maximum population</em> depends on how we live and how our societies\
+    \ function. At the individual scale, having a child has a much lower ecological\
+    \ weight than the figures that may be circulating, and which may be even more\
+    \ limited depending on how that child would be living.</p>\r\n\r\n<p>Some more\
+    \ interesting reading : <a href=\"https://www.vox.com/energy-and-environment/2017/9/26/16356524/the-population-question\"\
+    >I’m an environmental journalist, but I never write about overpopulation. Here’s\
+    \ why</a></p>"
   questions:
   - 1107
   - 1108
@@ -2489,7 +2492,7 @@
   publish_date: '2023-02-07'
   spotlight: true
   created: '2023-01-31'
-  updated: '2023-02-07'
+  updated: '2023-02-09'
 - id: 94
   name: L'effet de serre
   slug: leffet-de-serre

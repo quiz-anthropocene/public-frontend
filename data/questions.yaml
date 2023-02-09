@@ -27090,7 +27090,7 @@
   created: '2021-01-06'
   updated: '2022-04-16'
 - id: 701
-  text: 'Quelle est la part de l''aviation dans le réchauffement climatique ? '
+  text: Quelle est la part de l'aviation dans le réchauffement climatique ?
   hint: Un train peu en cacher un autre
   type: QCM
   category: 1
@@ -27106,39 +27106,20 @@
   answer_option_d: 15 %
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: 'Cette question est essentielle.
-
-    Les autorités du TA ne communiquent que sur les émissions de CO2.
-
-    Depuis une trentaine d’années les scientifiques étudient les effets "non CO2"
-    des émissions en haute altitude entre 8000 et 13000 m.
-
-    Il concerne les trainées de condensation, Les oxydes d’azote Nox, les aérosols
-    (Suies et sulfures)
-
-    Le tout dernier rapport sur le sujet date de début sept 2020.
-
-    « La contribution de l''aviation mondiale au forçage climatique anthropique de
-    2000 à 2018 »
-
-    Ses conclusions :
-
-    « Les émissions équivalentes au réchauffement du CO2 basées sur le potentiel de
-    réchauffement planétaire (méthode GWP *) indiquent que les émissions de l''aviation
-    réchauffent actuellement le climat à environ trois fois le taux associé aux émissions
-    de CO2 de l''aviation uniquement. »
-
-    Traduction :
-
-    En termes de réchauffement climatique (RC), l’approche CO2 est très incomplète
-    :
-
-    CO2 = > 1/3 de l’impact sur le RC vs
-
-    Effets "non CO2" => 2/3.
-
-    PS : les rapports précédents donnaient une fourchette entre 2 et 3 et la plupart
-    des pays dont la France ADEME retenait un facteur 2.'
+  answer_explanation: "Les autorités du TA ne communiquent que sur les émissions de\
+    \ CO2. Depuis une trentaine d’années, les scientifiques étudient les effets \"\
+    non CO2\" des émissions en haute altitude entre 8 000 et 13 000 m.\r\nIl concerne\
+    \ les trainées de condensation, Les oxydes d’azote Nox, les aérosols (Suies et\
+    \ sulfures)\r\nLe tout dernier rapport sur le sujet date de début sept 2020.\r\
+    \n« La contribution de l'aviation mondiale au forçage climatique anthropique de\
+    \ 2000 à 2018 »\r\nSes conclusions :\r\n« Les émissions équivalentes au réchauffement\
+    \ du CO2 basées sur le potentiel de réchauffement planétaire (méthode GWP *) indiquent\
+    \ que les émissions de l'aviation réchauffent actuellement le climat à environ\
+    \ trois fois le taux associé aux émissions de CO2 de l'aviation uniquement. »\r\
+    \nTraduction :\r\nEn termes de réchauffement climatique (RC), l’approche CO2 est\
+    \ très incomplète :\r\nCO2 = > 1/3 de l’impact sur le RC vs\r\nEffets \"non CO2\"\
+    \ => 2/3.\r\nPS : les rapports précédents donnaient une fourchette entre 2 et\
+    \ 3 et la plupart des pays dont la France ADEME retenait un facteur 2."
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.sciencedirect.com/science/article/pii/S1352231020305689
@@ -27156,7 +27137,7 @@
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-09'
 - id: 702
   text: 'Quel est le poids d''un A380 au décollage ? '
   hint: 'MTOW : Max Take Off Weight'
@@ -43402,8 +43383,8 @@
   updated: '2023-02-02'
 - id: 1120
   text: Vrai ou faux ? La vapeur d'eau émise par les activités humaines au niveau
-    du sol (c'est à dire sans compter celle émise par les avions dans la haute atmosphère)
-    contribue au réchauffement climatique.
+    du sol (hors émission par les avions dans la haute atmosphère) contribue au réchauffement
+    climatique.
   hint: ''
   type: QCM
   category: 1
@@ -43416,15 +43397,15 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: 'Contrairement au dioxyde de carbone et au méthane, la vapeur
-    d''eau ne s''accumule pas dans l''atmosphère. Sa concentration y est principalement
-    régulée par la température : si celle-ci augmente, de l''eau liquide s''évapore
-    et la concentration en vapeur d''eau augmente. Si au contraire la température
-    de l''air diminue, l''eau passe sous forme liquide ou solide et de la pluie, de
-    la rosée, de la grêle ou de la neige se forme. Le temps de séjour de la vapeur
-    d''eau dans l''atmosphère est donc faible et les émissions humaines de vapeur
-    d''eau (hors cas de la haute atmosphère) ne jouent donc pas sur le réchauffement
-    climatique.'
+  answer_explanation: Contrairement au dioxyde de carbone et au méthane, la vapeur
+    d'eau ne s'accumule pas dans l'atmosphère et sa concentration y est principalement
+    régulée par la température. Si celle-ci augmente, de l'eau liquide s'évapore et
+    la concentration en vapeur d'eau augmente. Si au contraire la température de l'air
+    diminue, l'eau passe sous forme liquide ou solide et de la pluie, de la rosée,
+    de la grêle ou de la neige se forme. Le temps de séjour de la vapeur d'eau dans
+    l'atmosphère est donc faible et les émissions humaines de vapeur d'eau ne jouent
+    donc pas sur le réchauffement climatique. Le cas des émissions dans la haute atmosphère
+    est différent.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -43442,7 +43423,7 @@
   validator: 55
   validation_date: '2023-02-08'
   created: '2023-02-02'
-  updated: '2023-02-08'
+  updated: '2023-02-09'
 - id: 1121
   text: Vrai ou faux ? La vapeur d'eau joue un rôle important dans le réchauffement
     climatique.
@@ -43483,7 +43464,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-02'
+  updated: '2023-02-09'
 - id: 1122
   text: Pendant laquelle de ces dernières décennies les émissions mondiales de gaz
     à effet de serre ont-elles le plus augmenté ?
@@ -43601,9 +43582,9 @@
   created: '2023-02-02'
   updated: '2023-02-08'
 - id: 1125
-  text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
-    atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
-    années
+  text: Vrai ou faux ? Au cours des 800 000 dernières années, la terre a déjà connu
+    un niveau de concentration de dioxyde de carbone dans l'atmosphère égal ou supérieur
+    à la concentration actuelle
   hint: ''
   type: VF
   category: 1
@@ -43616,7 +43597,7 @@
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: À aucun moment pendant les 800,000 dernières années, la concentration
+  answer_explanation: À aucun moment pendant les 800 000 dernières années, la concentration
     atmosphérique en dioxyde de carbone n'a été plus élevée qu'aujourd'hui. Cela est
     dû principalement aux combustibles fossiles (charbon, pétrole et gaz) brûlés par
     l'humanité.
@@ -43637,7 +43618,7 @@
   validator: null
   validation_date: null
   created: '2023-02-02'
-  updated: '2023-02-06'
+  updated: '2023-02-09'
 - id: 1126
   text: D'après le GIEC, quels sont les effets déjà observés du changement climatique
     sur l'agriculture ?
