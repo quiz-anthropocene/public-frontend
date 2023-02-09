@@ -42976,9 +42976,9 @@
   answer_option_d: '3.5'
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: India has recently fallen below 2.1 children per woman, the
-    rate that ensures long-term population stability. This howeve hids significant
-    differences across states, and between urban and rural areas.
+  answer_explanation: India's fertility rate has recently fallen below 2.1 children
+    per woman, the rate that ensures long-term population stability. This however
+    hides significant differences across states, and between urban and rural areas.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.rts.ch/info/monde/medias/12671445-linde-passe-pour-la-premiere-fois-sous-le-seuil-de-21-enfants-par-femm
@@ -42997,7 +42997,7 @@
   validator: null
   validation_date: null
   created: '2023-01-31'
-  updated: '2023-01-31'
+  updated: '2023-02-09'
 - id: 1110
   text: Today, humanity uses 50% of the earth's livable surface, the vast majority
     of which is used for agriculture. How much of this agricultural land is used for
@@ -43064,7 +43064,7 @@
   answer_scientific_url_text: 'Carbon footprint per capita in Niger. Source: World
     Bank'
   answer_reading_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b4dc3d4c.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/23ac6eeb.png
   answer_image_explanation: ''
   answer_extra_info: ''
   author: 2
@@ -43073,7 +43073,7 @@
   validator: null
   validation_date: null
   created: '2023-01-31'
-  updated: '2023-01-31'
+  updated: '2023-02-09'
 - id: 1112
   text: Since 1900, CO2 emissions have increased twentyfold and the human population
     fivefold. How much of this increase in emissions is due to population growth?
