@@ -43438,9 +43438,9 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-08'
   created: '2023-02-02'
   updated: '2023-02-08'
 - id: 1121
@@ -43559,11 +43559,10 @@
   created: '2023-02-02'
   updated: '2023-02-07'
 - id: 1124
-  text: Lorsque, il y a 22,000 ans, la dernière dernière ère glaciaire a pris fin,
-    le niveau des mers était 120 mètres plus bas qu'aujourd'hui et le nord de l'Europe
-    était recouvert de plusieurs kilomètres de glace. Quel est l'écart de température
-    moyenne mondiale entre cette période et la température moyenne préindustrielle
-    ?
+  text: Lorsque, il y a 22 000 ans, la dernière ère glaciaire a pris fin, le niveau
+    des mers était 120 mètres plus bas qu'aujourd'hui et le nord de l'Europe était
+    recouvert de plusieurs kilomètres de glace. Quel est l'écart de température moyenne
+    mondiale entre cette période et la température moyenne préindustrielle ?
   hint: Cela paraît peu.
   type: QCM
   category: 1
@@ -43578,7 +43577,7 @@
   has_ordered_answers: true
   answer_explanation: La température moyenne lors du maximum de la dernière ère glaciaire
     était environ de 6-7°C inférieure à la température moyenne préindustrielle (début
-    du XIXème siècle). La déglaciation s'est ensuite déroulée pendant environ 12,000
+    du XIXème siècle). La déglaciation s'est ensuite déroulée pendant environ 12 000
     ans puis la température moyenne est restée relativement stable jusqu'à la période
     préindustrielle, c'est-à-dire il y a 200 ans. Depuis, sous l'effet des gaz à effet
     de serre émis par l'humanité, la température de la basse atmosphère s'est encore
@@ -43600,7 +43599,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-02'
-  updated: '2023-02-07'
+  updated: '2023-02-08'
 - id: 1125
   text: Vrai ou faux ? La concentration atmosphérique de dioxyde de carbone a déjà
     atteint un niveau égal ou supérieur à son niveau actuel au cours des 800,000 dernières
