@@ -40,10 +40,10 @@
   created: '2020-03-07'
   updated: '2022-05-13'
 - id: 2
-  text: Supposons que  demain, toute l'énergie consommée en France par des machines
+  text: 'Imaginons : demain, toute l''énergie consommée en France par des machines
     doive être alimentée par des hommes qui pédalent 8h par jour. Combien faudrait-il
     en moyenne de travailleurs au service de chaque français pour continuer à vivre
-    comme aujourd’hui ?
+    comme aujourd’hui ?'
   hint: ''
   type: QCM
   category: 5
@@ -60,10 +60,10 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: On peut estimer qu'en un journée, un humain consomme en nourriture
-    environ 5 kWh dont il peut restituer en puissance mécanique 0,05 à 0,5 kWh (bras
-    ou jambes). Jean-Marc Jancovici a popularisé pour illustrer ces chiffres la notion
-    "d'esclave énergétique" à notre service pour nous fournir le niveau de vie dont
-    nous jouissons.
+    environ 5 kWh dont il peut restituer en puissance mécanique 0,05 à 0,5 kWh selon
+    qu'il utilise ses bras ou ses jambes. Jean-Marc Jancovici a popularisé pour illustrer
+    ces chiffres la notion "d'esclave énergétique" à notre service pour nous fournir
+    le niveau de vie dont nous jouissons.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://jancovici.com/transition-energetique/l-energie-et-nous/combien-suis-je-un-esclavagiste/
@@ -80,7 +80,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
@@ -7244,15 +7244,15 @@
   - 13
   difficulty: 3
   language: Français
-  answer_option_a: 8 tonnes (bulle de 20m de diamètre)
-  answer_option_b: 80 tonnes (bulle de 40m de diamètre)
-  answer_option_c: 800 tonnes (bulle de 90m de diamètre)
-  answer_option_d: 8,000 tonnes (bulle de 200m de diamètre)
+  answer_option_a: 8 tonnes - soit une bulle de 20m de diamètre
+  answer_option_b: 80 tonnes - soit une bulle de 40m de diamètre
+  answer_option_c: 800 tonnes - soit une bulle de 90m de diamètre
+  answer_option_d: 8,000 tonnes - soit une bulle de 200m de diamètre
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: En 2017 les activités humaines ont rejetées 36 milliards de
-    tonnes de CO2, ce qui fait environ 1100 tonnes (~600 millions de litres, soit
-    une bulle de 100m de diamètre) par seconde.
+    tonnes de CO2, ce qui fait environ 1100 tonnes (~600 millions de litres sur l'année.
+    Soit une bulle de 200m de diamètre à la pression ambiante en 7 secondes.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: ''
@@ -7269,7 +7269,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 187
   text: Combien y a-t-il d’arbres en Amazonie ?
   hint: ''
@@ -20697,7 +20697,7 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 541
-  text: Considérons toute l'énergie retenue en une année par l'effet de serre d'origine
+  text: Considérons toute l'énergie capturée chaque seconde par l'effet de serre d'origine
     humaine et comparons-la à l’énergie libérée par la bombe nucléaire d’Hiroshima,c’est...
   hint: ''
   type: QCM
@@ -20712,12 +20712,12 @@
   answer_option_d: 20 par seconde
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: L'énergie dégagée par la bombe atomique d'Hiroshima est estimée
-    à 15,000 tonnes de TNT, soit 63,000 milliards de Joule. La puissance du forçage
-    radiatif des gaz à effet de serre d'origine humaine (2.3 W/m²) sur la surface
-    de la terre est d'environ 1,7 millions de milliards de watts, ce qui fait une
-    énergie journalière d'environ 100 milliards de milliards de Joule. Soit la même
-    énergie que 1,6 millions de bombes nucléaires d'Hiroshima par jour (18 par seconde).
+  answer_explanation: 'L''énergie dégagée par la bombe atomique d''Hiroshima est estimée
+    à 15,000 tonnes de TNT, soit 63,000 milliards de joules. La puissance du forçage
+    radiatif des gaz à effet de serre d''origine humaine (2.3 W/m²), répartie sur
+    la surface de terre, 510 millions de km2. Faites le calcul : l''énergie globale
+    retenue sur l''ensemble de la surface de la terre du fait de l''effet de serre
+    additionnel équivaut à 20 bombes d''Hiroshima, chaque seconde.'
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SPM_brochure_fr.pdf
@@ -20734,7 +20734,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 542
   text: En quelle année a-ton émis le plus de CO2 sur le territoire français ?
   hint: ''
@@ -22079,8 +22079,8 @@
   updated: '2022-04-16'
 - id: 577
   text: En 1859, le savant Carrington documente un phénomène exceptionnel, susceptible
-    de détruire les circuits électriques. Quelle est cette menace hors-norme, dite
-    « événement de Carrington », qui planerait toujours sur nos têtes ?
+    de détruire les circuits électriques. En quoi consiste cette menace hors-norme,
+    dite « Evénement de Carrington », qui planerait toujours sur nos têtes ?
   hint: ''
   type: QCM
   category: 6
@@ -22102,11 +22102,11 @@
     telle tempête, imprévisible, aurait des effets catastrophiques.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000577-70d9.mp3
   answer_video_url: ''
-  answer_accessible_url: ''
+  answer_accessible_url: https://www.nationalgeographic.fr/espace/et-si-la-plus-grande-tempete-solaire-jamais-enregistree-etait-a-venir
   answer_accessible_url_text: ''
-  answer_scientific_url: https://www.futura-sciences.com/sciences/definitions/astronomie-evenement-carrington-11686/
-  answer_scientific_url_text: 'Futura - Événement de Carrington : qu''est-ce que c''est
-    ?'
+  answer_scientific_url: ''
+  answer_scientific_url_text: National Geographic - Et si la plus grande tempête solaire
+    jamais enregistrée était à venir ?
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/088e95c2.jpg
   answer_image_explanation: Eruption solaire massive
@@ -22117,7 +22117,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -22277,8 +22277,8 @@
   created: '2020-09-14'
   updated: '2022-04-16'
 - id: 582
-  text: En pédalant sur un vélo muni d'une dynamo, un cycliste lambda peut-il réussir
-    à faire griller une tartine dans un grille-pain ?
+  text: 'Imaginez : vous enfourchez un vélo muni d''une dynamo qui alimente un grille-pain
+    d''une puissance de 700W. Arriverez-vous à faire griller une tartine de pain ?'
   hint: ''
   type: VF
   category: 2
@@ -22287,15 +22287,15 @@
   - 197
   difficulty: 1
   language: Français
-  answer_option_a: Oui
-  answer_option_b: Non
+  answer_option_a: Oui, ça me semble faisable
+  answer_option_b: Non, je n'aurai pas la puissance musculaire
   answer_option_c: ''
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: A moins d'être un champion olympique et de finir les cuisses
-    en feu, c'est hors de votre porte ! Un tel champion a tenté l'expérience, voyez
-    le résultat dans la vidéo ci-dessous.
+  answer_explanation: A moins d'être un champion et de finir les cuisses en feu, il
+    est à craindre que cela soit hors de votre portée ! Voyez l'expérience menée dans
+    la vidéo ci-dessous avec Robert Förstemann, champion du monde de sprint sur piste.
   answer_audio_url: ''
   answer_video_url: https://www.youtube.com/embed/S4O5voOCqAQ
   answer_accessible_url: ''
@@ -22314,7 +22314,7 @@
   validator: 1
   validation_date: '2020-09-25'
   created: '2020-09-18'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 583
   text: 'La population mondiale a été multipliée par 8 en :'
   hint: ''
@@ -34115,7 +34115,7 @@
   created: '2021-02-22'
   updated: '2022-04-16'
 - id: 869
-  text: Qu'est-ce qui absorbe le plus de carbone ?
+  text: Globalement, qu'est-ce qui absorbe le plus de carbone ?
   hint: ''
   type: QCM
   category: 1
@@ -34156,7 +34156,7 @@
   validator: 38
   validation_date: '2021-03-02'
   created: '2021-02-23'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 870
   text: De toute l'énergie utile que l'humanité utilise actuellement, quelle est la
     part d'énergie thermique (chaleur) ?
@@ -34367,8 +34367,9 @@
   created: '2021-03-23'
   updated: '2022-04-16'
 - id: 875
-  text: Prenons une voiture électrique actuelle, comme une Nissan Leaf. A-t-on déjà
-    atteint une telle autonomie par le passé ?
+  text: Prenons une voiture électrique actuelle, disons la Renault Zoé, dont l'autonomie
+    est de l'ordre de 250km. A-t-on déjà atteint une telle autonomie par le passé
+    ?
   hint: ''
   type: QCM
   category: 2
@@ -34383,15 +34384,16 @@
     supérieure
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: La Fritchle de 1908 ne pesait que 950kg, et était 10 fois moins
-    puissante que la Leaf. Avec un bridage de la vitesse à 40km/h, elle affichait
-    une autonomie de 144km, avec une batterie pourtant très sommaire !
+  answer_explanation: Et oui ! La vénérable Fritchle de 1908 ne pesait que 950kg,
+    et était 10 fois moins puissante que la Leaf. Avec un bridage de la vitesse à
+    40km/h, elle affichait une autonomie de 150 km, avec une batterie pourtant très
+    sommaire !
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://solar.lowtechmagazine.com/fr/2010/05/the-status-quo-of-electric-cars-better-batteries-same-range.html
   answer_accessible_url_text: 'L’immobilisme de l’automobile électrique : meilleures
     batteries, même autonomie | LOW←TECH MAGAZINE'
-  answer_scientific_url: http://cnum.cnam.fr/CGI/fpage.cgi?BSPI.154/186/100/420/0/0
+  answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000875-6fc3.png
@@ -34403,7 +34405,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
@@ -43985,8 +43987,9 @@
   created: '2023-02-05'
   updated: '2023-02-07'
 - id: 1135
-  text: Votre dernière heure est bientôt venue...et vous voulez minimiser l'empreinte
-    carbone de votre passage dans l'au-delà. Que choisissez-vous ?
+  text: Votre dernière heure est bientôt venue...et vous souhaitez minimiser l'empreinte
+    carbone de votre passage dans l'au-delà dans le respect de la loi. Que choisissez-vous
+    ?
   hint: ''
   type: QCM
   category: 2
@@ -43999,19 +44002,19 @@
   answer_option_d: L'humusation (le compostage du corps)
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Selon une étude des services funéraires de la ville de Paris,
-    c''est l''inhumation en pleine terre qui est la moins émettrice, avec un impact
-    écologique légèrement inférieur à celui de la crémation. Condition pour cela :
-    pas de monument, une tombe simplement gazonnée, dans un cercueil fabriqué en France
-    avec le moins de vernis et de poignées possible. En moyenne cependant, une inhumation
-    dégage 869 kg de CO2, c’est-à-dire 3,7 fois plus que la crémation. Car est comptabilisé
-    l’ensemble des opérations : le creusement de la terre, la fabrication du cercueil
-    et du monument, le transport du défunt. Peut-on faire mieux ? potentiellement
-    oui, avec l''humusation, qui consiste à laisser le corps se composter naturellement
-    dans le sol. Cette pratiquement est cependant pour l''instant interdite en Europe.
-    Elle est au stade de l''expérimentation en Belgique et vient d''être légalisée
-    dans l''état de New York. L''empreinte est alors très faible. Mais elle soulève
-    d''autres questions.'
+  answer_explanation: Selon une étude des services funéraires de la Ville de Paris,
+    c'est l'inhumation en pleine terre qui est la moins émettrice, avec un impact
+    écologique légèrement inférieur à celui de la crémation. Attention, cela ne vaut
+    que si vous choisissez une tombe simplement gazonnée, sans bâtiment, avec un cercueil
+    fabriqué en France avec le moins de vernis et de poignées possibles. En moyenne
+    cependant, le 'cycle de vie' (si l'on puis dire...creusement de la terre, fabrication
+    du cercueil et du monument, transport du défunt) d'une inhumation dégage 869 kg
+    de CO2, c’est-à-dire 3,7 fois plus que la crémation. Peut-on faire moins ? Potentiellement
+    oui, avec notamment l'humusation, qui consiste à laisser le corps se composter
+    naturellement dans le sol. Cette pratiquement est cependant pour l'instant interdite
+    en Europe. Elle est au stade de l'expérimentation en Belgique et vient d'être
+    légalisée dans l'état de New York. L'empreinte est alors très faible. Mais elle
+    soulève d'autres questions.
   answer_audio_url: ''
   answer_video_url: ''
   answer_accessible_url: https://www.nouvelobs.com/planete/20171006.OBS5665/cremation-ou-inhumation-vous-pouvez-mourir-ecolo.html
@@ -44030,7 +44033,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -44060,7 +44063,7 @@
     Science, Janvier 2023
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ed779f62.png
-  answer_image_explanation: ''
+  answer_image_explanation: Magnus Carlsen, champion du monde d'échecs
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -44068,7 +44071,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-06'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 1137
   text: Quel pourcentage de la déforestation mondiale est liée à l’agriculture ?
   hint: ''

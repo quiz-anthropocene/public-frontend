@@ -2545,12 +2545,12 @@
 - id: 95
   name: Les questions les plus insolites
   slug: questions-insolites
-  introduction: <p>C'est vrai qu'il fait sérieux ce site. Parfois, rien que pour comprendre
-    la question, il faut se concentrer ! Et puis, les faits exposés peuvent vous mettre
-    le moral dans les chaussettes...Alors, pour prendre une pause, voici un pot-pourri
-    des questions le plus insolites.</p>
+  introduction: <p>C'est vrai qu'il fait sérieux, ce site... parfois, rien que pour
+    comprendre la question, il faut s'accrocher. Et puis, les faits exposés peuvent
+    vous mettre le moral dans les chaussettes...Alors, pour prendre une pause, nous
+    vous proposons un pot-pourri des questions les plus insolites.</p>
   conclusion: <p>Voilà, la récréation est terminée, vous pouvez retourner vous frotter
-    aux quiz sérieux !</p>
+    aux quiz plus sérieux !</p>
   questions:
   - 2
   - 102
@@ -2580,7 +2580,7 @@
   publish_date: null
   spotlight: false
   created: '2023-02-07'
-  updated: '2023-02-07'
+  updated: '2023-02-10'
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles
