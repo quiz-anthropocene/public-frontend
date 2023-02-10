@@ -37902,11 +37902,11 @@
   tags: []
   difficulty: 2
   language: Français
-  answer_option_a: ''
-  answer_option_b: ''
+  answer_option_a: 1 bombe d'Hiroshima par minute
+  answer_option_b: Dès 1,5°C
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: ''
+  answer_correct: a
   has_ordered_answers: false
   answer_explanation: ''
   answer_audio_url: ''
@@ -37921,11 +37921,11 @@
   answer_extra_info: ''
   author: 24
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-05-03'
-  updated: '2022-04-16'
+  updated: '2023-02-09'
 - id: 964
   text: 'Une prise accessoire, c''est un animal marin qui est tué et rejeté par dessus
     bord. Pour une crevette pêchée, combien de prises accessoires ? '
