@@ -2576,9 +2576,9 @@
   validation_status: Brouillon
   validator: null
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2023-02-07'
   updated: '2023-02-10'
 - id: 96
