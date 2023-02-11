@@ -2573,9 +2573,9 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 55
+  validation_date: '2023-02-10'
   publish: true
   publish_date: null
   spotlight: true
