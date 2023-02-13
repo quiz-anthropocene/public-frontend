@@ -2568,7 +2568,7 @@
   tags: []
   difficulty_average: 2.1
   language: Français
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/dcf1e99b.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b4413624.png
   has_audio: false
   authors:
   - 2
@@ -2580,7 +2580,7 @@
   publish_date: null
   spotlight: true
   created: '2023-02-07'
-  updated: '2023-02-10'
+  updated: '2023-02-13'
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles

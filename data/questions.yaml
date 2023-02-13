@@ -21803,7 +21803,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: https://www.ipcc.ch/site/assets/uploads/2018/03/WG1AR5_SPM_brochure_fr.pdf
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: Rapport du GIEC AR5 WG1 2018, version française
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: ''
@@ -21816,7 +21816,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2023-02-10'
+  updated: '2023-02-13'
 - id: 542
   text: En quelle année a-ton émis le plus de CO2 sur le territoire français ?
   hint: ''
@@ -22959,7 +22959,7 @@
 - id: 571
   text: La première domestication animale, bien avant le néolithique, a été celle
     du chien. Comment nos ancêtres ont-ils réussi à transformer des loups gris en
-    caniches et chihuahuas en 15,000 ans de sélection seulement ?
+    caniches et chihuahuas en 15 000 ans de sélection seulement ?
   hint: ''
   type: QCM
   category: 6
@@ -22983,7 +22983,7 @@
     du chien : Homo Canis, Une histoire des chiens et de l’humanité, Laurent Testot,
     Paris, Payot, 2018.'
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000571-ec8c.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23000,7 +23000,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 572
   text: Le brûlis parcellaire consiste à brûler régulièrement les milieux pour favoriser
     la croissance de végétaux comestibles et la présence du petit gibier. Depuis combien
@@ -23013,21 +23013,21 @@
   - 107
   difficulty: 4
   language: Français
-  answer_option_a: 5,000 ans, à l’arrivée du dingo sur le sous-continent
-  answer_option_b: 40,000 ans, à la disparition de la mégafaune d’Australie
-  answer_option_c: 70,000 ans, au débarquement des humains en Australie
+  answer_option_a: 5 000 ans, à l’arrivée du dingo sur le sous-continent
+  answer_option_b: 40 000 ans, à la disparition de la mégafaune d’Australie
+  answer_option_c: 70 000 ans, au débarquement des humains en Australie
   answer_option_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Après un choc temporaire, les écosystèmes s’adaptent à un brûlis
+  answer_explanation: Après un choc temporaire, les écosystèmes s’adaptent à un brûlis
     parcellaire. Si la pratique est maintenue longtemps (comme en Australie, en Afrique
     australe ou dans les Amériques), les écosystèmes ont besoin de cette intervention
-    de l''homme pour se maintenir. En Australie, le brûlis parcellaire s’est interrompu
+    de l'homme pour se maintenir. En Australie, le brûlis parcellaire s’est interrompu
     aux 19ème et 20ème siècles suite au génocide subi par les Aborigènes face aux
     colons. Comme d’autres pratiques autochtones, il est aujourd’hui redécouvert pour
-    lutter contre les méga-feux. '
+    lutter contre les méga-feux.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000572-e8a2.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23044,7 +23044,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 573
   text: Le Petit Âge Glaciaire est une période de refroidissement planétaire qui court
     de la fin du XIIIe siècle au début du XIXe siècle. Quelle est la cause majeure
@@ -23073,7 +23073,7 @@
     (Huaynaputina, Pérou), 1815 (Tambora, Indonésie), et ont eu des conséquences planétaires
     durables, sur les écosystèmes, les cultures comme sur la géopolitique.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000573-e71b.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23090,7 +23090,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 574
   text: Depuis quand l'humain utilise-t-il des céréales pour son alimentation ?
   hint: ''
@@ -23171,10 +23171,8 @@
   created: '2020-09-14'
   updated: '2022-04-16'
 - id: 576
-  text: 'En 1492, Christophe Colomb accoste en Amérique. Ce faisant, il initie un
-    processus qu''on a appelé "échange colombien".
-
-    C''est-à-dire : '
+  text: "En 1492, Christophe Colomb accoste en Amérique. Ce faisant, il initie un\
+    \ processus qu'on a appelé \"échange colombien\".\r\nC'est-à-dire :"
   hint: ''
   type: QCM-RM
   category: 6
@@ -23209,7 +23207,7 @@
     les deux hémisphères, ce qui bouleversa les patrimoines biologiques et culturels
     de part et d'autre.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000576-2641.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23228,7 +23226,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 577
   text: En 1859, le savant Carrington documente un phénomène exceptionnel, susceptible
     de détruire les circuits électriques. En quoi consiste cette menace hors-norme,
@@ -23253,11 +23251,12 @@
     à cette date-là, seuls des télégraphes furent mis hors service. Aujourd'hui, une
     telle tempête, imprévisible, aurait des effets catastrophiques.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000577-70d9.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: https://www.nationalgeographic.fr/espace/et-si-la-plus-grande-tempete-solaire-jamais-enregistree-etait-a-venir
-  answer_accessible_url_text: ''
+  answer_accessible_url_text: 'National Geographic : Es si la plus grande tempête
+    solaire était à venir ?'
   answer_scientific_url: ''
   answer_scientific_url_text: National Geographic - Et si la plus grande tempête solaire
     jamais enregistrée était à venir ?
@@ -23271,7 +23270,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-10'
+  updated: '2023-02-13'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -23288,10 +23287,10 @@
   answer_option_d: La Chine
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Et c''est ce qui lui permit de demeurer la première puissance
-    mondiale du 10e au 18e siècle. '
+  answer_explanation: Et c'est ce qui lui permit de demeurer la première puissance
+    mondiale du 10e au 18e siècle.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000578-dedd.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23308,7 +23307,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 579
   text: Jusqu'à une époque récente, ce sont les animaux et les humains qui ont fourni
     l’essentiel de l’énergie mécanique. Puis le charbon et le pétrole ont pris le
@@ -23337,7 +23336,7 @@
     en énergie, alors que le pétrole a atteint ce chiffre en 80 ans. Des délais assez
     longs finalement.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000579-eb63.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23354,7 +23353,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-07'
+  updated: '2023-02-13'
 - id: 580
   text: J'ai inventé un processus permettant de transformer le pétrole en essence
     et mis au point la synthèse de l’ammoniac, un processus qui va permettre la fabrication
@@ -23378,7 +23377,7 @@
     apporté une contribution décisive au développement des industries automobiles
     et agricoles, bouleversant la biosphère à un degré inégalé.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000580-9c4c.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23395,7 +23394,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 581
   text: Je suis biologiste. Après avoir découvert qu’une rivière polluée abritait
     une proportion de poissons femelles anormalement élevée, j'ai mis en lumière les
@@ -23420,7 +23419,7 @@
     avant que le sujet devienne un sujet majeur de recherche et un motif d'inquiétude
     sérieux pour la santé des hommes et des animaux.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000581-1451.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_accessible_url: ''
@@ -23437,7 +23436,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2023-02-13'
 - id: 582
   text: 'Imaginez : vous enfourchez un vélo muni d''une dynamo qui alimente un grille-pain
     d''une puissance de 700W. Arriverez-vous à faire griller une tartine de pain ?'
@@ -36128,7 +36127,7 @@
   language: Français
   answer_option_a: Oui, dès avant 1900
   answer_option_b: Oui, vers 1900-1920
-  answer_option_c: Oui, vers1950-1960
+  answer_option_c: Oui, vers 1950-1960
   answer_option_d: Non, les voitures électriques actuelles ont une autonomie bien
     supérieure
   answer_correct: b
@@ -36156,7 +36155,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2023-02-10'
+  updated: '2023-02-13'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
