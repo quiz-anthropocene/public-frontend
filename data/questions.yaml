@@ -7622,7 +7622,7 @@
   has_ordered_answers: true
   answer_explanation: En 2017 les activités humaines ont rejetées 36 milliards de
     tonnes de CO2, ce qui fait environ 1100 tonnes (~600 millions de litres sur l'année.
-    Soit une bulle de 200m de diamètre à la pression ambiante en 7 secondes.
+    Soit, pour 7 secondes, une bulle de 200m de diamètre à la pression ambiante.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -7641,7 +7641,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-02-10'
+  updated: '2023-02-13'
 - id: 187
   text: Combien y a-t-il d’arbres en Amazonie ?
   hint: ''
@@ -36115,9 +36115,9 @@
   created: '2021-03-23'
   updated: '2022-04-16'
 - id: 875
-  text: Prenons une voiture électrique actuelle, disons la Renault Zoé, dont l'autonomie
-    est de l'ordre de 250km. A-t-on déjà atteint une telle autonomie par le passé
-    ?
+  text: Prenons une voiture électrique actuelle, disons la Fiat 500e, dont l'autonomie
+    annoncée est de 185 km. Des voitures électriques ont-elles déjà atteint une telle
+    autonomie par le passé ?
   hint: ''
   type: QCM
   category: 2
@@ -36134,8 +36134,8 @@
   has_ordered_answers: true
   answer_explanation: Et oui ! La vénérable Fritchle de 1908 ne pesait que 950kg,
     et était 10 fois moins puissante que la Leaf. Avec un bridage de la vitesse à
-    40km/h, elle affichait une autonomie de 150 km, avec une batterie pourtant très
-    sommaire !
+    40km/h, elle affichait une autonomie de 150 km, soit quasiment autant que la Fiat
+    500 e, avec une batterie pourtant très sommaire !
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38261,7 +38261,7 @@
 - id: 927
   text: Imaginons que nous réunissions toutes les vaches du monde dans un même pays.
     En quelle position ce pays arriverait-il en termes d’émissions de gaz à effet
-    de serre ?
+    de serre (directes et indirectes) ?
   hint: ''
   type: QCM
   category: 1
@@ -38299,7 +38299,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2023-02-07'
+  updated: '2023-02-13'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -42539,11 +42539,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1053
   text: Quels sont les 3 piliers sur lesquels repose la biodiversité ?
   hint: ''
@@ -42585,11 +42585,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1054
   text: Les comportements de consommation ont-ils un impact direct sur les 4 enjeux
     des transitions écologiques, à savoir le changement climatique, l'érosion de la
@@ -42731,24 +42731,24 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1057
-  text: Combien d'emplois la commission européenne estime t'elle que l'économie circulaire
-    pourrait créer d'ici 2030?
+  text: Selon la Commission Européenne, combien d'emplois l'économie circulaire pourrait-elle
+    créer d'ici 2030?
   hint: ''
   type: QCM
   category: null
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: Français
-  answer_option_a: 150 000 emplois
-  answer_option_b: 500 000 emplois
-  answer_option_c: 700 000 emplois
-  answer_option_d: 1 millions d'emplois
+  answer_option_a: 150 000
+  answer_option_b: 500 000
+  answer_option_c: 700 000
+  answer_option_d: 1 million
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: L’industrie désigne les activités économiques qui produisent
@@ -42762,25 +42762,27 @@
     la durabilité. Cela passe par la reconversion et la création de nouvelles filières
     dimensionnées pour chaque territoire et ses flux de matières premières.
   answer_audio_url: https://www.economiecirculaire.org/articles/h/make-it-circular-des-podcasts-pour-comprendre-l-economie-circulaire.html
-  answer_audio_url_text: ''
+  answer_audio_url_text: 'Make it Circular : Des podcasts pour comprendre l’économie
+    circulaire'
   answer_video_url: https://www.youtube.com/watch?v=ADJvT1_lr1I
-  answer_video_url_text: ''
+  answer_video_url_text: 'Economie circulaire : définition & exemples | Ecologie Environnement
+    (6 min)'
   answer_accessible_url: https://ec.europa.eu/commission/presscorner/detail/fr/ip_20_420
   answer_accessible_url_text: Plan D'Action Economie Circulaire par la Commission
-    Européene
+    Européenne
   answer_scientific_url: ''
   answer_scientific_url_text: ''
   answer_reading_recommendation: https://livre.fnac.com/a3323385/Michael-Braungart-Cradle-to-cradle
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5da32b13.jpg
   answer_image_explanation: Industrie
-  answer_extra_info: ''
+  answer_extra_info: Revoir le commentaire
   author: 65
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1058
   text: Qu'est ce qu'une forêt primaire ?
   hint: ''
@@ -42870,14 +42872,14 @@
   answer_reading_recommendation: ''
   answer_image_url: ''
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: il y a deux questions en une
   author: 65
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
@@ -42970,11 +42972,11 @@
     for Climate Education ici : https://www.oce.global/fr/ressources/grand-public'
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1062
   text: Dans quelle commune de France un système de gouvernance collégiale a été expérimenté
     entre 2014 et 2020 ?
@@ -43010,29 +43012,28 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fefc2708.jpg
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: Ce n'est intéressant que si l'on peut prouver que la démarche
+    a porté des fruits. Très politique.
   author: 65
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1063
-  text: Que décrit un DICRIM (Document d’Information Communal sur les Risques Majeurs)
-    ?
+  text: Que décrit un DICRIM ?
   hint: ''
   type: QCM-RM
   category: 6
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: Français
   answer_option_a: les risques naturels et technologiques
   answer_option_b: les conséquences sur les personnes, les biens, et les mesures individuelles
     et collectives de prévention, de protection et de sauvegarde mises en œuvre
   answer_option_c: les événements et accidents significatifs survenus dans la commune
-    (circulaire du 20 juin 2005), et les moyens d’alerte en cas d'évènement ou de
-    danger
+    et les moyens d’alerte en cas d'évènement ou de danger
   answer_option_d: ''
   answer_correct: abc
   has_ordered_answers: true
@@ -43053,14 +43054,15 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2c2af881.jpg
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: 'faire une question sur le dicrim est bien. Mais : prévoir une
+    réponse fausse, et inciter à aller le consulter.'
   author: 65
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1064
   text: Lesquelles des caractéristiques suivantes s'appliquent à l'agroécologie ?
     (
@@ -43096,14 +43098,14 @@
   answer_reading_recommendation: https://books.google.fr/books?hl=en&lr=&id=3ztKDgAAQBAJ&oi=fnd&pg=PA91&dq=agroecologie&ots=kQLdBqI6Ni&sig=7ciNB8hmxIBabzJWaRqVdUB9P7g#v=onepage&q&f=false
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/292965f2.jpg
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: La question ne porte que sur la définition d'un mot
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1065
   text: Quelle est la part d'eau douce sur Terre ?
   hint: ''
@@ -43138,15 +43140,16 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f5437b4.jpg
   answer_image_explanation: ''
-  answer_extra_info: 'Guide Détaillée sur les effets du réchauffement climatique sur
-    l''eau : https://read.oecd-ilibrary.org/environment/l-eau-et-adaptation-au-changement-climatique_9789264200647-fr#page5'
+  answer_extra_info: "Guide Détaillée sur les effets du réchauffement climatique sur\
+    \ l'eau : https://read.oecd-ilibrary.org/environment/l-eau-et-adaptation-au-changement-climatique_9789264200647-fr#page5\r\
+    \n\r\nQuiz de la fresque de l'eau déjà"
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1066
   text: La culture n'est pas un secteur concerné par le changement climatique.
   hint: ''
@@ -43187,14 +43190,14 @@
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/98f9a1f1.jpg
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: Nous avons un quiz spécifique sur le sujet depuis
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1067
   text: Quel est le pourcentage des trajets domicile-travail qui sont réalisés en
     voiture en France ?
@@ -43353,19 +43356,19 @@
   difficulty: 3
   language: Français
   answer_option_a: La surface d'un département
-  answer_option_b: L'équivalent d'environ 800,000 terrains de foot
+  answer_option_b: L'équivalent d'environ 800 000 terrains de foot
   answer_option_c: L'équivalent de 10 villes de la superficie de Paris
   answer_option_d: L'équivalent de une grande ville de France
   answer_correct: ab
   has_ordered_answers: true
-  answer_explanation: "Ce sont 600,000 hectares qui ont été artificialisées en l'espace\
+  answer_explanation: "Ce sont 600 000 hectares qui ont été artificialisées en l'espace\
     \ de 10 ans. En France comme dans d’autres pays, du fait de l'étalement de notre\
     \ urbanisation et de nos infrastructures, l'artificialisation des sols augmente.\
     \ Ce phénomène consiste à transformer un sol naturel, agricole ou forestier, par\
     \ des opérations d’aménagement pouvant entraîner une imperméabilisation partielle\
     \ ou totale, afin de les affecter notamment à des fonctions urbaines ou de transport\
     \ (habitat, activités, commerces, infrastructures, équipements publics…). En France,\
-    \ entre 20,000 et 30,000 hectares sont artificialisées chaque année. Cette artificialisation\
+    \ entre 20 000 et 30 000 hectares sont artificialisées chaque année. Cette artificialisation\
     \ augmente presque 4 fois plus vite que la population, et a des répercussions\
     \ directes sur la qualité de vie des citoyens mais aussi sur l’environnement.\r\
     \nRénover, entretenir et isoler les bâtiments existants doit donc être la priorité\
@@ -43385,11 +43388,11 @@
   answer_extra_info: "Renovation Energetique : \r\nPlan Climat de Paris"
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: A valider
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2023-02-04'
+  updated: '2023-02-13'
 - id: 1071
   text: Combien de décès prématurés sont imputables à la qualité de l'air chaque année
     dans le monde ?
@@ -43428,9 +43431,9 @@
   validator: 2
   validation_date: '2022-11-05'
   created: '2022-08-04'
-  updated: '2022-11-05'
+  updated: '2023-02-13'
 - id: 1072
-  text: Parmi les sols artificialisés, quels sont ceux occupés par les infrastructures
+  text: Parmi les sols artificialisés, quelle proportion est occupée par les infrastructures
     de transport ?
   hint: ''
   type: QCM
@@ -43457,22 +43460,23 @@
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=bUaDOS1Yb-A&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=25
   answer_video_url_text: ''
-  answer_accessible_url: https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-rapport-2019-artificialisation-juillet.pdf
+  answer_accessible_url: ''
   answer_accessible_url_text: 'Objectif « Zéro artificialisation nette » : quels leviers
     pour protéger les sols ?'
-  answer_scientific_url: ''
-  answer_scientific_url_text: ''
+  answer_scientific_url: https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-rapport-2019-artificialisation-juillet.pdf
+  answer_scientific_url_text: 'Rapport du gouvernement, 2019 - Objectif « Zéro artificialisation
+    nette » : quels leviers pour protéger les sols ?'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bb37f5b4.jpg
   answer_image_explanation: ''
-  answer_extra_info: ''
+  answer_extra_info: 'La vidéo publicitaire : à retirer'
   author: 65
   visibility: PUBLIC
   validation_status: Brouillon
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-09-06'
+  updated: '2023-02-13'
 - id: 1073
   text: Quel est le taux de pauvreté des familles monoparentales en France ?
   hint: ''
@@ -43510,11 +43514,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1074
   text: Que signifie étymologiquement le mot "religion" ?
   hint: ''
@@ -43554,11 +43558,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1075
   text: Combien y-a-t-il de bénévoles en France ?
   hint: ''
@@ -43594,11 +43598,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-05'
-  updated: '2022-08-23'
+  updated: '2023-02-13'
 - id: 1076
   text: 'La capacité thermique de l''eau est :'
   hint: ''
