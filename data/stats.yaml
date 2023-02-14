@@ -5,22 +5,22 @@ question_per_language_count:
   total: 1073
 - language: English
   total: 36
-quiz_count: 61
+quiz_count: 62
 quiz_published_count: 44
 quiz_per_language_count:
 - language: Français
-  total: 56
+  total: 57
 - language: English
   total: 5
-question_answer_count: 406526
-quiz_answer_count: 32852
-question_answer_count_last_30_days: 30053
-quiz_answer_count_last_30_days: 2450
+question_answer_count: 409480
+quiz_answer_count: 33051
+question_answer_count_last_30_days: 32678
+quiz_answer_count_last_30_days: 2624
 category_count: 8
 tag_count: 242
-question_feedback_count: 5840
-quiz_feedback_count: 1017
-contribution_count: 837
-question_feedback_count_last_30_days: 483
-quiz_feedback_count_last_30_days: 107
-contribution_count_last_30_days: 66
+question_feedback_count: 5888
+quiz_feedback_count: 1021
+contribution_count: 840
+question_feedback_count_last_30_days: 522
+quiz_feedback_count_last_30_days: 110
+contribution_count_last_30_days: 69
