@@ -1193,7 +1193,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-09'
+  updated: '2023-02-14'
 - id: 29
   text: Quel est l'effet des particules fines sur le climat ?
   hint: ''
@@ -1929,7 +1929,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 46
   text: '[DOUBLON] Selon le rapport du GIEC de 2014, le degré de certitude qu''on
     a que le dérèglement climatique est dû à l''augmentation des gaz à effet de serre
@@ -19063,7 +19063,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 473
   text: Combien de temps faut-il pour biodégrader complètement le plastique présent
     dans l’océan ?
@@ -20001,11 +20001,11 @@
   - 35
   difficulty: 1
   language: Français
-  answer_option_a: ''
-  answer_option_b: ''
+  answer_option_a: a
+  answer_option_b: b
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: ''
+  answer_correct: a
   has_ordered_answers: false
   answer_explanation: ''
   answer_audio_url: ''
@@ -20022,11 +20022,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 497
   text: La première source d’électricité au monde est le charbon avec 40%. Quelle
     est la part de la 2ème source de production d’électricité ?
@@ -20352,11 +20352,11 @@
   - 16
   difficulty: 1
   language: Français
-  answer_option_a: ''
-  answer_option_b: ''
+  answer_option_a: a
+  answer_option_b: b
   answer_option_c: ''
   answer_option_d: ''
-  answer_correct: ''
+  answer_correct: a
   has_ordered_answers: false
   answer_explanation: ''
   answer_audio_url: ''
@@ -20373,11 +20373,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 506
   text: Depuis la fin de la 2ème guerre mondiale, sur les 11 plus grosses baisses
     de production de pétrole, combien ne sont PAS liées au Moyen-Orient ?
@@ -21016,11 +21016,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-11-07'
+  updated: '2023-02-14'
 - id: 523
   text: Quelle est l’ordre de grandeur de la chaleur absorbée par les océans ?
   hint: ''
@@ -28488,7 +28488,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 701
   text: Quelle est la part de l'aviation dans le réchauffement climatique ?
   hint: Un train peu en cacher un autre
@@ -28924,7 +28924,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 711
   text: Quel est le nombre d'avions commerciaux dans le monde en 2019 ? Alors imaginez
     en 2038...
@@ -29024,7 +29024,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 713
   text: Quel était le trafic de Paris CDG en 2019 ?
   hint: Toujours plus
@@ -29118,7 +29118,7 @@
   validator: 2
   validation_date: '2021-01-14'
   created: '2021-01-07'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 715
   text: Quel est le nombre de Cies Aériennes dans le monde en 2018 ?
   hint: Pour le TA, le terrain de jeux est sans limites
@@ -29934,7 +29934,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 732
   text: Connaissez-vous les autres taxes en vigueur en France ?
   hint: Pourtant vous la payez bien
@@ -30126,7 +30126,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 736
   text: 'Reprenons notre balance de titans : à droite, tous les animaux sauvages ;
     à gauche, tous les animaux domestiqués ou utilisés par l’humain. De quel côté
@@ -30814,7 +30814,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 751
   text: Quelle est la part de la population mondiale qui utilise des vols internationaux
     ?
@@ -30910,7 +30910,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 753
   text: 'Quelles émissions maxi atteintes par des individus de l’aviation privée ? '
   hint: à peine croyable
@@ -31010,9 +31010,8 @@
   answer_option_d: 22%
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: '8% en 2018 au niveau mondial,
-
-    En 2008 elle était de 22% aux US'
+  answer_explanation: "8% en 2018 au niveau mondial,\r\nEn 2008 elle était de 22%\
+    \ aux US"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31027,11 +31026,11 @@
   answer_extra_info: Paragraphe 4.1 Page 3 – fig. 1 Page 4
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-07'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 756
   text: Quelle est la part de l’aviation privée (=jets privés par opposition à l'aviation
     commerciale) dans les émissions générées par le secteur aérien ?
@@ -31095,7 +31094,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 757
   text: On mesure l'intensité du trafic aérien en nombre de passagers x km (RPK en
     anglais). A combien s'élevait cette intensité en 2018 ?
@@ -31140,7 +31139,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 758
   text: Si un Islandais fait en moyenne 45,000 km /an en avion, combien fait un Congolais
     de RDC ?
@@ -31411,8 +31410,8 @@
   created: '2021-01-17'
   updated: '2022-04-16'
 - id: 764
-  text: Vrai ou faux ? Les activités humaines ont un impact majeur sur le climat depuis
-    quelques siècles.
+  text: Vrai ou faux ? Depuis quelques siècles, les activités humaines ont un impact
+    sur le climat
   hint: ''
   type: VF
   category: 2
@@ -31428,7 +31427,8 @@
   has_ordered_answers: true
   answer_explanation: Les humains ont su s’adapter à des climats très divers. Mais
     le climat se dérègle et notre planète est en surchauffe. Il est maintenant complètement
-    prouvé par la science du climat que cela est causé par les activités humaines.
+    prouvé par la science du climat que cela est causé par les activités humaines,
+    en particulier l'utilisation du pétrole ou du charbon.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31448,7 +31448,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-02'
+  updated: '2023-02-14'
 - id: 765
   text: Est-ce que ça créé de l'effet de serre quand je...
   hint: ''
@@ -31705,14 +31705,10 @@
   answer_option_d: '25'
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: '4 litres
-
-    Pour une même quantité d’énergie embarquée, il faut un volume 4 fois plus important.
-
-    Et ce n’est pas tout, le stockage se fait à -253°C pour H2 liquide.
-
-    Autrement dit il faut embarquer des moyens très conséquents en termes d’isolation
-    et pour maintenir une telle température.'
+  answer_explanation: "4 litres\r\nPour une même quantité d’énergie embarquée, il\
+    \ faut un volume 4 fois plus important.\r\nEt ce n’est pas tout, le stockage se\
+    \ fait à -253°C pour H2 liquide.\r\nAutrement dit il faut embarquer des moyens\
+    \ très conséquents en termes d’isolation et pour maintenir une telle température."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31728,11 +31724,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 772
   text: A quantité d’énergie égale, quel volume d’H2 gazeux pour 1 litre d’essence
     ?
@@ -31960,17 +31956,14 @@
   answer_option_d: 190 km²
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: '190 km² pour les éoliennes et 35 km² de panneaux solaires
-
-    "La surface sur laquelle seraient installées les éoliennes représenterait presque
-    deux fois celle de la ville de Toulouse ;
-
-    Les 37 km² de panneaux photovoltaïques, quant à eux, couvriraient la surface combinée
-    des villes de Blagnac et Colomiers et représentent presque 200 fois la surface
-    de la ferme photovoltaïque de l’Oncopole, récemment construite à proximité du
-    centre de Toulouse sur l’ancien site d’AZF.
-
-    Ces calculs traitent d’un aéroport régional, d’où ne décolle presque aucun long-courrier".'
+  answer_explanation: "190 km² pour les éoliennes et 35 km² de panneaux solaires\r\
+    \n\"La surface sur laquelle seraient installées les éoliennes représenterait presque\
+    \ deux fois celle de la ville de Toulouse ;\r\nLes 37 km² de panneaux photovoltaïques,\
+    \ quant à eux, couvriraient la surface combinée des villes de Blagnac et Colomiers\
+    \ et représentent presque 200 fois la surface de la ferme photovoltaïque de l’Oncopole,\
+    \ récemment construite à proximité du centre de Toulouse sur l’ancien site d’AZF.\r\
+    \nCes calculs traitent d’un aéroport régional, d’où ne décolle presque aucun long-courrier\"\
+    ."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31986,11 +31979,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 778
   text: Si l’aéroport de Paris CDG devait fournir de l’hydrogène, de combien d’éoliennes
     (ou de panneaux solaires) devrait-il disposer pour fournir les kWh nécessaires
@@ -32108,19 +32101,11 @@
   answer_option_d: 33%
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: '0.01% et oui le TA en parle beaucoup, mais c’est l’Arlésienne,
-
-    Les bio-carburants c’est la fuite en avant,
-
-    Le greenwashing, mais pas pour les loopings.
-
-    On compte 3 générations de bio-fuel :
-
-    1 - Issue de la bio-masse 2020 à 2025
-
-    2 - Issue des déchets : bois, huiles, graisses 2025 à 2035
-
-    3 - Issue de l’électricité « Power to Liquid » > 2035…'
+  answer_explanation: "0.01% et oui le TA en parle beaucoup, mais c’est l’Arlésienne,\r\
+    \nLes bio-carburants c’est la fuite en avant,\r\nLe greenwashing, mais pas pour\
+    \ les loopings.\r\nOn compte 3 générations de bio-fuel :\r\n1 - Issue de la bio-masse\
+    \ 2020 à 2025\r\n2 - Issue des déchets : bois, huiles, graisses 2025 à 2035\r\n\
+    3 - Issue de l’électricité « Power to Liquid » > 2035…"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32135,11 +32120,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 781
   text: Quel est le cout relatif des bio-carburants vs fossiles ?
   hint: Les fossiles à volonté c’est du passé
@@ -32190,8 +32175,8 @@
   - 218
   difficulty: 2
   language: Français
-  answer_option_a: ''
-  answer_option_b: ''
+  answer_option_a: 1 bombe d'Hiroshima par minute
+  answer_option_b: 500 000
   answer_option_c: ''
   answer_option_d: ''
   answer_correct: d
@@ -32211,11 +32196,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 783
   text: Quand elles rotent et qu’elles pètent, les vaches émettent...
   hint: ''
@@ -32382,11 +32367,11 @@
   answer_extra_info: ''
   author: 30
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 787
   text: 'Pour maintenir le réchauffement sous les+2°C, il nous faut diviser les émissions
     mondiales de GES par 3 d''ici 2050. Petit calcul : Supposons a) qu’on maintienne
@@ -32425,11 +32410,11 @@
   answer_extra_info: ''
   author: 30
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 788
   text: Quelle est la principale source d'oxygène sur Terre ?
   hint: ''
@@ -32526,7 +32511,7 @@
   validator: 38
   validation_date: '2021-03-05'
   created: '2021-02-26'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 790
   text: Les 1% plus grand émetteurs de la planète habitent dans 5 pays. Leurs émissions
     sont toutes au-dessus de  "x" tCO2e / an / cap.
@@ -32690,7 +32675,7 @@
   validator: 2
   validation_date: '2021-01-30'
   created: '2021-01-23'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 793
   text: Parmi les énergies fossiles, il y a... ?
   hint: ''
@@ -32820,7 +32805,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 796
   text: Quelle est la consommation moyenne d'eau du robinet d'un Français sur une
     journée ?
@@ -32861,7 +32846,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 797
   text: Quelle est l'empreinte eau quotidienne d'un Français ?
   hint: ''
@@ -32903,7 +32888,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 798
   text: 'Vrai ou faux : les produits d’origine animale ont en moyenne une empreinte
     eau plus élevée que ceux d’origine végétale'
@@ -32946,7 +32931,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 799
   text: A combien s’élève l'empreinte eau d'un T-shirt ?
   hint: ''
@@ -32990,7 +32975,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 800
   text: Jusqu'à quelle vitesse peut tomber la grêle ?
   hint: ''
@@ -34431,9 +34416,9 @@
   answer_option_d: États-Unis
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'La Chine est incontestablement le pays qui compte le plus de
-    grands barrages (23841), loin devant les États-Unis (9263), l''Inde (4407) et
-    la France (720). '
+  answer_explanation: La Chine est incontestablement le pays qui compte le plus de
+    grands barrages (23841), loin devant les États-Unis (9263), l'Inde (4407) et la
+    France (720).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -34449,11 +34434,11 @@
   answer_extra_info: ''
   author: 33
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-02-01'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 836
   text: 'Quel est le principal usage des barrages dans le monde ? '
   hint: ''
@@ -34686,17 +34671,16 @@
   difficulty: 3
   language: Français
   answer_option_a: 300 litres
-  answer_option_b: 2,000 litres
-  answer_option_c: 10,000 litres
-  answer_option_d: 15,000 litres
+  answer_option_b: 2000 litres
+  answer_option_c: 10 000 litres
+  answer_option_d: 15 000 litres
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'La production d'' un kg de viande bovine nécessite 15 000 litres
-    d''eau douce. C''est 9 fois plus d''eau que les cultures céréalières.  En 2018,
+  answer_explanation: C'est 9 fois plus d'eau que les cultures céréalières.  En 2018,
     la production de viande bovine a atteint 72 millions de tonnes, nécessitant un
-    volume d''eau équivalent à 420 millions de piscines olympiques. Quand on sait
-    que plusieurs milliers de tonnes de viande ne seront pas consommés, la quantité
-    d''eau gaspillée est énorme. '
+    volume d'eau équivalent à 420 millions de piscines olympiques. Quand on sait que
+    plusieurs milliers de tonnes de viande ne seront pas consommés, la quantité d'eau
+    gaspillée est énorme.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -34704,18 +34688,20 @@
   answer_accessible_url: ''
   answer_accessible_url_text: ''
   answer_scientific_url: https://waterfootprint.org/en/water-footprint/product-water-footprint/water-footprint-crop-and-animal-products/
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'Water footprint of crop and animal products: a comparison,
+    the Water footprint Network'
   answer_reading_recommendation: ''
-  answer_image_url: ''
-  answer_image_explanation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d207c0e2.png
+  answer_image_explanation: Empreinte eau par litre, par calorie, gramme de protéine
+    ou gramme de gras fourni pour différents produits
   answer_extra_info: https://ourworldindata.org/meat-production
   author: 33
   visibility: PUBLIC
-  validation_status: Brouillon
-  validator: null
-  validation_date: null
+  validation_status: Validée
+  validator: 2
+  validation_date: '2023-02-14'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 843
   text: 'Combien existe-t-il dans le monde de zones de conflits potentiels dus à l''eau
     ? '
@@ -35320,7 +35306,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 857
   text: Le recyclage des métaux est limité par…
   hint: ''
@@ -36116,8 +36102,8 @@
   updated: '2022-04-16'
 - id: 875
   text: Prenons une voiture électrique actuelle, disons la Fiat 500e, dont l'autonomie
-    annoncée est de 185 km. Des voitures électriques ont-elles déjà atteint une telle
-    autonomie par le passé ?
+    annoncée est de 185 km. A-t-on déjà construit des voitures électriques avec une
+    telle autonomie par le passé ?
   hint: ''
   type: QCM
   category: 2
@@ -36155,7 +36141,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2023-02-13'
+  updated: '2023-02-14'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
@@ -36989,7 +36975,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -37071,7 +37057,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-07-19'
+  updated: '2023-02-14'
 - id: 897
   text: 'Classez ces réservoirs d’eau du plus grand au plus petit : A. Océans et mers
     ; B. Cours d’eau et lacs ; C. Nappes souterraines ; D. Glaciers et calottes glaciaires'
@@ -37117,7 +37103,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 898
   text: A l'échelle mondiale, quel est l'usage qui prélève le plus d'eau ?
   hint: ''
@@ -37155,7 +37141,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 899
   text: Quelle proportion de la population mondiale connaît actuellement des problèmes
     d'accès à l'eau au moins une partie de l'année ?
@@ -37203,7 +37189,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2022-11-29'
+  updated: '2023-02-14'
 - id: 900
   text: Quel est le cout du MWh Nucléaire étendu à 20 ans en $ / MWh ?
   hint: Bas carbone donc…
@@ -37220,13 +37206,14 @@
   answer_option_d: '125'
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: "30.7 $ / MWh Pour le LCOE - Levelised Cost Of Electricity\n\
-    Ce cout passe à 35 $ / MWh Nucléaire étendu à 10 ans.\nLes énergies bas carbone\
+  answer_explanation: "30.7 $ / MWh Pour le LCOE - Levelised Cost Of Electricity\r\
+    \nCe cout passe à 35 $ / MWh Nucléaire étendu à 10 ans.\r\nLes énergies bas carbone\
     \ sont les plus compétitives. La moins chère de toute étant la prolongation des\
     \ réacteurs nucléaires, ou long term operation (LTO), les coûts du « grand carénage\
     \ » (refurbishment), du démantèlement (decommissioning) comme ceux d’opération\
-    \ et maintenance (O&M) étant spécifiques pour chaque pays, \nLa gestion des déchets\
-    \ est également annualisée et comprise dans la rubrique « decommissioning »."
+    \ et maintenance (O&M) étant spécifiques pour chaque pays, \r\nLa gestion des\
+    \ déchets est également annualisée et comprise dans la rubrique « decommissioning\
+    \ »."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -37242,11 +37229,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 901
   text: Quel est le cout du MWh éolien en mer - $ / MWh ?
   hint: ''
@@ -37352,11 +37339,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 904
   text: Quelle est la part des Français qui habitent à moins de 10 km d’une gare ?
     %
@@ -37410,12 +37397,9 @@
   answer_option_d: 11000 m
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'Pour les turboréacteurs, entre 30.000 et 40.000 pieds,
-
-    soit entre 9.200 et 12.200 mètres
-
-    Un gros porteur rempli de carburant, en effet, n''aura pas la possibilité de dépasser
-    les 30.000 pieds en début de parcours.'
+  answer_explanation: "Pour les turboréacteurs, entre 30.000 et 40.000 pieds,\r\n\
+    soit entre 9.200 et 12.200 mètres\r\nUn gros porteur rempli de carburant, en effet,\
+    \ n'aura pas la possibilité de dépasser les 30.000 pieds en début de parcours."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -37430,11 +37414,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 906
   text: A quelle altitude volent les avions Court Courrier ?
   hint: Turbopropulseur
@@ -37638,7 +37622,7 @@
   validator: 2
   validation_date: '2021-02-08'
   created: '2021-02-01'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 911
   text: Faites vous confiance aux "éco-calculateurs" ?
   hint: Moitié plein ?
@@ -37724,17 +37708,14 @@
   answer_option_d: 50 ans
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: 'Elle était de 25 à 30 ans,
-
-    Et même 50 ans pour le plus vieux Boeing 747 en service, dont plus de 1550 exemplaires
-    ont été livrés, il a fait son 1er vol commercial en 1970 et Boeing fermera la
-    chaine de production en 2022, après avoir transporté plus de 250 millions de passagers.
-
-    Un 747 d’AF a atteint 97271 heures de vol en 2000 après 38 ans de service.
-
-    mais elle tend à se réduire considérablement, l’A380 n’enregistre plus de commandes
-    depuis 2015 et certaines compagnies anticipent sa retraite en 2020 à peine 12
-    ans après les premières livraisons.'
+  answer_explanation: "Elle était de 25 à 30 ans,\r\nEt même 50 ans pour le plus vieux\
+    \ Boeing 747 en service, dont plus de 1550 exemplaires ont été livrés, il a fait\
+    \ son 1er vol commercial en 1970 et Boeing fermera la chaine de production en\
+    \ 2022, après avoir transporté plus de 250 millions de passagers.\r\nUn 747 d’AF\
+    \ a atteint 97271 heures de vol en 2000 après 38 ans de service.\r\nmais elle\
+    \ tend à se réduire considérablement, l’A380 n’enregistre plus de commandes depuis\
+    \ 2015 et certaines compagnies anticipent sa retraite en 2020 à peine 12 ans après\
+    \ les premières livraisons."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -37749,11 +37730,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2021-02-01'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 913
   text: Copy of à venir
   hint: ''
@@ -39674,7 +39655,7 @@
   validator: null
   validation_date: null
   created: '2021-04-28'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 959
   text: Quelle part du pétrole consommé en France est acheminée par bateau ?
   hint: ''
@@ -39709,10 +39690,10 @@
   validator: null
   validation_date: null
   created: '2021-04-28'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 960
   text: Quelle part de la population tire de la mer sa seule source de protéines /
-    dépend de la mer pour assouvir ses besoins alimentaires de base ?
+    dépend de la mer pour pourvoir à ses besoins alimentaires de base ?
   hint: ''
   type: QCM
   category: 7
@@ -39745,10 +39726,10 @@
   validator: null
   validation_date: null
   created: '2021-04-28'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 961
-  text: Quelle part du sable utilisé dans la construction est issue des fonds marins
-    ?
+  text: On a besoin de sable pour les matériaux de construction. Quelle proportion
+    de celui-ci est issue des fonds marins ?
   hint: ''
   type: QCM
   category: 7
@@ -39782,7 +39763,7 @@
   validator: null
   validation_date: null
   created: '2021-04-28'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 962
   text: Combien de médicaments sont inspirés des ressources marines ?
   hint: ''
@@ -39888,7 +39869,7 @@
   validator: null
   validation_date: null
   created: '2021-05-03'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 965
   text: Vrai ou faux ? Dans l'accord de Paris de 2015, les émissions des transports
     internationaux aériens et maritimes sont prises en compte.
@@ -40666,11 +40647,11 @@
   answer_extra_info: ''
   author: 34
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: 2
   validation_date: null
   created: '2021-03-12'
-  updated: '2022-07-13'
+  updated: '2023-02-14'
 - id: 1010
   text: En France, quelle est la perte de revenu provenant des exemptions de taxe
     sur le kérosène ?
@@ -40779,21 +40760,21 @@
   answer_accessible_url: https://www.air-journal.fr/2019-03-15-200-millions-de-passagers-aeriens-en-france-5211129.html
   answer_accessible_url_text: 200 millions de passagers aériens en France | Air Journal
   answer_scientific_url: https://www.sciencedirect.com/science/article/pii/S0959378020307779
-  answer_scientific_url_text: ''
+  answer_scientific_url_text: 'The global scale, distribution and growth of aviation:
+    Implications for climate change, Science Direct, 2020'
   answer_reading_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001012-e00d.png
-  answer_image_explanation: 'Source Scientifique : L''échelle mondiale, la distribution
-    et la croissance de l''aviation :
-
-    Paragraphe 4.3 Page 5 / fig. 3 page 6 (version pdf)'
+  answer_image_explanation: "Source Scientifique : L'échelle mondiale, la distribution\
+    \ et la croissance de l'aviation :\r\nParagraphe 4.3 Page 5 / fig. 3 page 6 (version\
+    \ pdf)"
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée temporairement
   validator: null
   validation_date: null
   created: '2021-04-06'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 1013
   text: Quelle est la part des transports dans les émissions de gaz à effet de serre
     en France (base 2019) ?
@@ -42825,11 +42806,11 @@
     : https://www.onf.fr/onf/forets-et-espaces-naturels/+/1f::comprendre-la-foret.html'
   author: 65
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-23'
+  updated: '2023-02-14'
 - id: 1059
   text: Combien de litres d'eau et de kilomètres sont nécessaires à la fabrication
     et commercialisation d'un jean neuf?
@@ -43476,7 +43457,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2023-02-13'
+  updated: '2023-02-14'
 - id: 1073
   text: Quel est le taux de pauvreté des familles monoparentales en France ?
   hint: ''
@@ -43635,14 +43616,14 @@
   answer_extra_info: ''
   author: 24
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: Écartée
   validator: null
   validation_date: null
   created: '2022-08-14'
-  updated: '2022-08-14'
+  updated: '2023-02-14'
 - id: 1077
-  text: 'Vrai ou faux : la consommation de poissons issus de l''aquaculture dépasse
-    celle issue de la pèche en pleine mer ?'
+  text: Vrai ou faux ? La consommation de poissons issus de l'aquaculture dépasse
+    celle issue de la pêche en pleine mer.
   hint: ''
   type: VF
   category: 7
@@ -43677,7 +43658,7 @@
   validator: null
   validation_date: null
   created: '2022-08-14'
-  updated: '2022-11-04'
+  updated: '2023-02-14'
 - id: 1078
   text: question factice
   hint: ''
