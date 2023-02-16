@@ -34,12 +34,12 @@
         <p>
           <textarea id="contribution_text" class="form-control" rows="2" v-model="contribution_text" required></textarea>
         </p>
-        <p v-if="(context.source) === 'question' && (!context.item.answer_explanation || !context.item.answer_accessible_url || !context.item.answer_scientific_url || !context.item.answer_image_url)">
+        <p v-if="(context.source) === 'question' && (!context.item.answer_explanation || !context.item.answer_source_accessible_url || !context.item.answer_source_scientific_url || !context.item.answer_image_url)">
           🛠️<i>
             Cette question n'est pas 100% <strong>complète</strong>. Il manque :
             <span v-if="!context.item.answer_explanation">&nbsp;ℹ️&nbsp;une explication</span>
-            <span v-if="!context.item.answer_accessible_url">&nbsp;🔗&nbsp;un lien accessible</span>
-            <span v-if="!context.item.answer_scientific_url">&nbsp;🔗🧬&nbsp;un lien scientifique</span>
+            <span v-if="!context.item.answer_source_accessible_url">&nbsp;🔗&nbsp;un lien accessible</span>
+            <span v-if="!context.item.answer_source_scientific_url">&nbsp;🔗🧬&nbsp;un lien scientifique</span>
             <span v-if="!context.item.answer_image_url">&nbsp;🖼️&nbsp;une image</span>
           </i>
         </p>

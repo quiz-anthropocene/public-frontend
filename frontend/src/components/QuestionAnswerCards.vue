@@ -108,24 +108,24 @@
           <img v-bind:src="question.answer_image_url" alt="Une image pour illustrer la réponse" />
         </a>
       </p>
-      <p v-if="question.answer_image_explanation" class="answer-image-explanation" title="Légende de l'image">{{ $t('messages.imageLegend') }}{{ $t('words.semiColon') }} {{ question.answer_image_explanation }}</p>
+      <p v-if="question.answer_image_url_text" class="answer-image-explanation" title="Légende de l'image">{{ $t('messages.imageLegend') }}{{ $t('words.semiColon') }} {{ question.answer_image_url_text }}</p>
       <!-- Answer links -->
       <div class="row no-gutters text-align-left">
         <div class="col-sm-auto">
-          <p class="answer-link" v-if="question.answer_accessible_url" title="Lien accessible pour aller plus loin">
+          <p class="answer-link" v-if="question.answer_source_accessible_url" title="Lien accessible pour aller plus loin">
             <span>🔗</span>
-            <a v-bind:href="question.answer_accessible_url" target="_blank" v-bind:title="question.answer_accessible_url" @click="logClick($event, 'answer_accessible_url')" @contextmenu="logClick($event, 'answer_accessible_url')">
-              {{ question.answer_accessible_url_text ? question.answer_accessible_url_text : question.answer_accessible_url }}
+            <a v-bind:href="question.answer_source_accessible_url" target="_blank" v-bind:title="question.answer_source_accessible_url" @click="logClick($event, 'answer_source_accessible_url')" @contextmenu="logClick($event, 'answer_source_accessible_url')">
+              {{ question.answer_source_accessible_url_text ? question.answer_source_accessible_url_text : question.answer_source_accessible_url }}
             </a>
           </p>
-          <p class="answer-link" v-if="question.answer_scientific_url" title="Lien scientifique pour creuser la source">
+          <p class="answer-link" v-if="question.answer_source_scientific_url" title="Lien scientifique pour creuser la source">
             <span>🔗🧬</span>
-            <a v-bind:href="question.answer_scientific_url" target="_blank" v-bind:title="question.answer_scientific_url" @click="logClick($event, 'answer_scientific_url')" @contextmenu="logClick($event, 'answer_scientific_url')">
-              {{ question.answer_scientific_url_text ? question.answer_scientific_url_text : question.answer_scientific_url }}
+            <a v-bind:href="question.answer_source_scientific_url" target="_blank" v-bind:title="question.answer_source_scientific_url" @click="logClick($event, 'answer_source_scientific_url')" @contextmenu="logClick($event, 'answer_source_scientific_url')">
+              {{ question.answer_source_scientific_url_text ? question.answer_source_scientific_url_text : question.answer_source_scientific_url }}
             </a>
           </p>
-          <p v-if="question.answer_reading_recommendation" title="Un livre pour aller plus loin">
-            📚&nbsp;{{ question.answer_reading_recommendation }}
+          <p v-if="question.answer_book_recommendation" title="Un livre pour aller plus loin">
+            📚&nbsp;{{ question.answer_book_recommendation }}
           </p>
         </div>
       </div>
