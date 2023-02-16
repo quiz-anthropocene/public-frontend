@@ -6,10 +6,10 @@
   category: "l'id de la catégorie. Une seule catégorie possible"
   tags: "le ou les id des tags. Un ou plusieurs tags possibles rattachés à la question"
   difficulty: Chiffre entre 1 et 4
-  answer_option_a: Une courte réponse
-  answer_option_b: Une courte réponse
-  answer_option_c: Une courte réponse
-  answer_option_d: Une courte réponse
+  answer_choice_a: Une courte réponse
+  answer_choice_b: Une courte réponse
+  answer_choice_c: Une courte réponse
+  answer_choice_d: Une courte réponse
   answer_correct: Lettre minuscule entre a et d
   has_ordered_answers: Vrai si les choix de réponse sont dans un ordre figé, et ne doivent pas être mélangés
   answer_explanation: "Une explication et/ou un commentaire à propos la réponse"

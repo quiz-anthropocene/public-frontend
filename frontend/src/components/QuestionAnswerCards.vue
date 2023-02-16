@@ -14,10 +14,10 @@
         <!-- Question answer choices -->
         <div v-if="question.type !== 'QCM-RM'" class="row justify-content-center margin-bottom-10">
           <div class="col-sm-auto col-md-8 col-lg-6 text-align-left">
-            <div class="form-group" v-for="answer_option_letter in answerChoices" :key="answer_option_letter" :class="{ 'text-primary' : answer_option_letter === answerPicked, 'text-danger': (questionSubmitted && (answer_option_letter !== answerPicked) && (answer_option_letter === question['answer_correct'])) }">
-              <label v-if="question['answer_option_' + answer_option_letter]" :for="answer_option_letter">
-                <input type="radio" v-bind:id="answer_option_letter" v-bind:value="answer_option_letter" v-model="answerPicked" :disabled="questionSubmitted">&nbsp;
-                {{ question['answer_option_' + answer_option_letter] }}
+            <div class="form-group" v-for="answer_choice_letter in answerChoices" :key="answer_choice_letter" :class="{ 'text-primary' : answer_choice_letter === answerPicked, 'text-danger': (questionSubmitted && (answer_choice_letter !== answerPicked) && (answer_choice_letter === question['answer_correct'])) }">
+              <label v-if="question['answer_choice_' + answer_choice_letter]" :for="answer_choice_letter">
+                <input type="radio" v-bind:id="answer_choice_letter" v-bind:value="answer_choice_letter" v-model="answerPicked" :disabled="questionSubmitted">&nbsp;
+                {{ question['answer_choice_' + answer_choice_letter] }}
               </label>
             </div>
           </div>
@@ -25,10 +25,10 @@
         <div v-if="question.type === 'QCM-RM'" class="row justify-content-center margin-bottom-10">
           <div class="col-12 margin-bottom-10 small"><i>{{ $t('messages.multipleAnswers') }}</i></div>
           <div class="col-sm-auto col-md-8 col-lg-6 text-align-left">
-            <div class="form-group" v-for="(answer_option_letter, index) in answerChoices" :key="answer_option_letter" :class="{ 'text-primary' : answerPicked.includes(answer_option_letter), 'text-warning': (questionSubmitted && answerPicked.includes(answer_option_letter) && !question['answer_correct'].includes(answer_option_letter)), 'text-danger': (questionSubmitted && !answerPicked.includes(answer_option_letter) && question['answer_correct'].includes(answer_option_letter)) }">
-              <label v-if="question['answer_option_' + answer_option_letter]" :for="answer_option_letter">
-                <input type="checkbox" v-bind:id="answer_option_letter" v-bind:value="answer_option_letter" v-model="answerPicked[index]" v-bind:true-value="answer_option_letter" :disabled="questionSubmitted">&nbsp;
-                {{ question['answer_option_' + answer_option_letter] }}
+            <div class="form-group" v-for="(answer_choice_letter, index) in answerChoices" :key="answer_choice_letter" :class="{ 'text-primary' : answerPicked.includes(answer_choice_letter), 'text-warning': (questionSubmitted && answerPicked.includes(answer_choice_letter) && !question['answer_correct'].includes(answer_choice_letter)), 'text-danger': (questionSubmitted && !answerPicked.includes(answer_choice_letter) && question['answer_correct'].includes(answer_choice_letter)) }">
+              <label v-if="question['answer_choice_' + answer_choice_letter]" :for="answer_choice_letter">
+                <input type="checkbox" v-bind:id="answer_choice_letter" v-bind:value="answer_choice_letter" v-model="answerPicked[index]" v-bind:true-value="answer_choice_letter" :disabled="questionSubmitted">&nbsp;
+                {{ question['answer_choice_' + answer_choice_letter] }}
               </label>
             </div>
           </div>
@@ -68,10 +68,10 @@
       <h2 v-if="!questionAnswer.success">{{ questionAnswer.message }}</h2>
       <h3 v-if="!questionAnswer.success">
         <small>{{ $t('messages.answerWas') }}{{ $t('words.semiColon') }}&nbsp;</small>
-        <span v-if="question.type !== 'QCM-RM'">{{ question["answer_option_" + question["answer_correct"]] }}</span>
+        <span v-if="question.type !== 'QCM-RM'">{{ question["answer_choice_" + question["answer_correct"]] }}</span>
         <ul v-if="question.type === 'QCM-RM'">
           <li v-for="answer_correct_letter in question['answer_correct']" :key="answer_correct_letter">
-            <span>{{ question["answer_option_" + answer_correct_letter] }}</span>
+            <span>{{ question["answer_choice_" + answer_correct_letter] }}</span>
           </li>
         </ul>
       </h3>
