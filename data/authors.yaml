@@ -7,7 +7,7 @@
 - id: 2
   first_name: Matthieu
   last_name: Massart
-  question_count: 99
+  question_count: 113
   quiz_count: 11
   created: '2022-04-04'
 - id: 5
@@ -181,7 +181,7 @@
 - id: 33
   first_name: Baptiste
   last_name: Leveque
-  question_count: 0
+  question_count: 1
   quiz_count: 0
   created: '2022-04-16'
 - id: 34

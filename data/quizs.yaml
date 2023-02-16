@@ -1507,13 +1507,17 @@
   - 472
   - 789
   - 856
-  - 1076
-  question_count: 6
+  - 958
+  - 959
+  - 960
+  - 961
+  - 964
+  question_count: 10
   tags:
   - 9
   - 21
   - 223
-  difficulty_average: 2.7
+  difficulty_average: 2.4
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000071-ada4.jpg
   has_audio: false
@@ -1527,7 +1531,7 @@
   publish_date: null
   spotlight: false
   created: '2021-04-26'
-  updated: '2022-08-14'
+  updated: '2023-02-14'
 - id: 73
   name: Forgotten Low Techs
   slug: forgotten-low-techs
@@ -1600,7 +1604,8 @@
   - 757
   - 792
   - 910
-  question_count: 12
+  - 1012
+  question_count: 13
   tags:
   - 33
   - 34
@@ -1619,7 +1624,7 @@
   publish_date: '2021-05-13'
   spotlight: true
   created: '2021-05-03'
-  updated: '2022-04-16'
+  updated: '2023-02-14'
 - id: 75
   name: 'Transition énergétique des transports #1'
   slug: transition-energetique-des-transports-1
@@ -2191,18 +2196,19 @@
   - 797
   - 798
   - 799
+  - 842
   - 894
   - 896
   - 897
   - 898
   - 899
-  question_count: 10
+  question_count: 11
   tags:
   - 19
   - 20
   - 37
   - 97
-  difficulty_average: 2.2
+  difficulty_average: 2.3
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/510c77bc.png
   has_audio: false
@@ -2216,7 +2222,7 @@
   publish_date: '2022-07-26'
   spotlight: true
   created: '2022-07-16'
-  updated: '2022-07-21'
+  updated: '2023-02-14'
 - id: 88
   name: Comment fonctionne le GIEC ?
   slug: comment-fonctionne-le-giec
@@ -2433,7 +2439,7 @@
   difficulty_average: 1.8
   language: Français
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2bc39d90.png
-  has_audio: true
+  has_audio: false
   authors:
   - 67
   visibility: PUBLIC
@@ -2444,7 +2450,7 @@
   publish_date: '2023-01-30'
   spotlight: true
   created: '2022-12-26'
-  updated: '2023-01-30'
+  updated: '2023-02-14'
 - id: 93
   name: Population and Overpopulation
   slug: population-and-overpopulation
@@ -2621,7 +2627,8 @@
   conclusion: ''
   questions:
   - 1071
-  question_count: 1
+  - 1072
+  question_count: 2
   tags: []
   difficulty_average: 2.0
   language: Français
@@ -2637,4 +2644,4 @@
   publish_date: null
   spotlight: false
   created: '2023-02-13'
-  updated: '2023-02-13'
+  updated: '2023-02-14'
