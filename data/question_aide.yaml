@@ -15,11 +15,11 @@
   answer_explanation: "Une explication et/ou un commentaire à propos la réponse"
   answer_audio_url: Une explication audio
   answer_video_url: Une explication video
-  answer_accessible_url: Un lien pour aller plus loin
-  answer_scientific_url: La source scientifique du chiffre (rapport)
-  answer_reading_recommendation: Un livre pour aller plus loin
+  answer_source_accessible_url: Un lien pour aller plus loin
+  answer_source_scientific_url: La source scientifique du chiffre (rapport)
+  answer_book_recommendation: Un livre pour aller plus loin
   answer_image_url: "Un lien vers une image pour illustrer la réponse (idéalement avec la source indiquée en bas de l'image)"
-  answer_image_explanation: "Une légende pour l'image qui illustre la réponse"
+  answer_image_url_text: "Une légende pour l'image qui illustre la réponse"
   answer_extra_info: "Texte et liens explicatifs additionels, qui n'apparaissent pas dans l'interface"
   author: "L'auteur de la question"
   validator: "La personne qui a validée la question"
