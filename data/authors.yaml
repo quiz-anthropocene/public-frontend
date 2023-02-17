@@ -10,6 +10,12 @@
   question_count: 113
   quiz_count: 11
   created: '2022-04-04'
+- id: 4
+  first_name: Julia
+  last_name: Delrieu
+  question_count: 0
+  quiz_count: 0
+  created: '2022-04-04'
 - id: 5
   first_name: laydgeur
   last_name: ''
