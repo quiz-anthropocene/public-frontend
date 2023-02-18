@@ -19,7 +19,7 @@
   question_count: 9
   tags: []
   difficulty_average: 1.9
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/4ad76eda.png
   has_audio: false
   authors:
@@ -57,7 +57,7 @@
   - 1
   - 218
   difficulty_average: 2.3
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000002-ce4a.jpg
   has_audio: false
   authors:
@@ -103,7 +103,7 @@
   tags:
   - 185
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000003-597d.jpg
   has_audio: true
   authors:
@@ -135,7 +135,7 @@
   question_count: 6
   tags: []
   difficulty_average: 2.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2c781bd1.png
   has_audio: false
   authors:
@@ -172,7 +172,7 @@
   tags:
   - 72
   difficulty_average: 2.1
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000005-586a.jpg
   has_audio: false
   authors:
@@ -211,7 +211,7 @@
   question_count: 10
   tags: []
   difficulty_average: 2.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000006-b5bb.jpg
   has_audio: false
   authors:
@@ -243,7 +243,7 @@
   tags:
   - 11
   difficulty_average: 2.3
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000007-646d.jpg
   has_audio: false
   authors:
@@ -292,7 +292,7 @@
   tags:
   - 142
   difficulty_average: 2.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000008-c302.jpg
   has_audio: false
   authors:
@@ -326,7 +326,7 @@
   question_count: 10
   tags: []
   difficulty_average: 3.3
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000009-6ade.jpg
   has_audio: false
   authors:
@@ -359,7 +359,7 @@
   tags:
   - 11
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000010-bdc2.jpg
   has_audio: false
   authors:
@@ -411,7 +411,7 @@
   tags:
   - 142
   difficulty_average: 1.9
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000011-6927.jpg
   has_audio: false
   authors:
@@ -447,7 +447,7 @@
   tags:
   - 142
   difficulty_average: 2.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000012-3533.jpg
   has_audio: false
   authors:
@@ -480,7 +480,7 @@
   tags:
   - 142
   difficulty_average: 2.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000013-eb5a.jpg
   has_audio: false
   authors:
@@ -513,7 +513,7 @@
   tags:
   - 142
   difficulty_average: 1.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000014-9b58.jpg
   has_audio: false
   authors:
@@ -554,7 +554,7 @@
   tags:
   - 142
   difficulty_average: 2.3
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000015-a68a.jpg
   has_audio: false
   authors:
@@ -591,7 +591,7 @@
   question_count: 9
   tags: []
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000016-1e5a.jpg
   has_audio: false
   authors:
@@ -626,7 +626,7 @@
   - 49
   - 76
   difficulty_average: 2.6
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000017-b87e.jpg
   has_audio: false
   authors:
@@ -677,7 +677,7 @@
   question_count: 9
   tags: []
   difficulty_average: 2.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000018-9a3f.jpg
   has_audio: true
   authors:
@@ -719,7 +719,7 @@
   tags:
   - 194
   difficulty_average: 3.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000052-1e57.jpg
   has_audio: false
   authors:
@@ -756,7 +756,7 @@
   question_count: 9
   tags: []
   difficulty_average: 4.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000053-064a.jpg
   has_audio: false
   authors:
@@ -805,7 +805,7 @@
   - 31
   - 80
   difficulty_average: 2.6
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000054-c005.jpg
   has_audio: false
   authors:
@@ -853,7 +853,7 @@
   tags:
   - 62
   difficulty_average: 2.9
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000055-63df.jpg
   has_audio: false
   authors:
@@ -891,7 +891,7 @@
   question_count: 10
   tags: []
   difficulty_average: 2.5
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000056-9bf6.jpg
   has_audio: false
   authors:
@@ -931,7 +931,7 @@
   tags:
   - 213
   difficulty_average: 1.8
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000057-30c2.jpg
   has_audio: false
   authors:
@@ -974,7 +974,7 @@
   tags:
   - 30
   difficulty_average: 2.1
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000059-3ba6.png
   has_audio: false
   authors:
@@ -1011,7 +1011,7 @@
   tags:
   - 30
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000060-09d9.jpg
   has_audio: false
   authors:
@@ -1071,7 +1071,7 @@
   tags:
   - 255
   difficulty_average: 2.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000061-582f.png
   has_audio: false
   authors:
@@ -1121,7 +1121,7 @@
   - 223
   - 244
   difficulty_average: 1.9
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000062-2449.png
   has_audio: false
   authors:
@@ -1160,7 +1160,7 @@
   tags:
   - 30
   difficulty_average: 2.1
-  language: English
+  language: ENGLISH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000063-79b1.png
   has_audio: false
   authors:
@@ -1196,7 +1196,7 @@
   question_count: 13
   tags: []
   difficulty_average: 2.4
-  language: Français
+  language: FRENCH
   image_background_url: ''
   has_audio: false
   authors:
@@ -1237,7 +1237,7 @@
   tags:
   - 11
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000065-42f8.jpg
   has_audio: false
   authors:
@@ -1294,7 +1294,7 @@
   - 225
   - 227
   difficulty_average: 3.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000066-3614.jpg
   has_audio: false
   authors:
@@ -1339,7 +1339,7 @@
   tags:
   - 255
   difficulty_average: 2.4
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000067-af09.png
   has_audio: false
   authors:
@@ -1390,7 +1390,7 @@
   tags:
   - 255
   difficulty_average: 2.6
-  language: English
+  language: ENGLISH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000068-15c5.png
   has_audio: false
   authors:
@@ -1433,7 +1433,7 @@
   - 261
   - 263
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000069-6de8.jpg
   has_audio: false
   authors:
@@ -1480,7 +1480,7 @@
   tags:
   - 255
   difficulty_average: 1.9
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000070-552a.png
   has_audio: false
   authors:
@@ -1518,7 +1518,7 @@
   - 21
   - 223
   difficulty_average: 2.4
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000071-ada4.jpg
   has_audio: false
   authors:
@@ -1560,7 +1560,7 @@
   tags:
   - 255
   difficulty_average: 2.6
-  language: English
+  language: ENGLISH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000073-772b.png
   has_audio: false
   authors:
@@ -1611,7 +1611,7 @@
   - 34
   - 100
   difficulty_average: 2.5
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000074-3037.png
   has_audio: true
   authors:
@@ -1660,7 +1660,7 @@
   - 218
   - 225
   difficulty_average: 2.1
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000075-2162.jpg
   has_audio: false
   authors:
@@ -1710,7 +1710,7 @@
   tags:
   - 72
   difficulty_average: 2.6
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000076-26d2.jpg
   has_audio: false
   authors:
@@ -1763,7 +1763,7 @@
   - 247
   - 248
   difficulty_average: 2.6
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000077-7fc3.jpg
   has_audio: false
   authors:
@@ -1808,7 +1808,7 @@
   question_count: 19
   tags: []
   difficulty_average: 2.1
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000078-62a8.jpg
   has_audio: false
   authors:
@@ -1858,7 +1858,7 @@
   - 225
   - 256
   difficulty_average: 1.7
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000079-9514.jpg
   has_audio: false
   authors:
@@ -1903,7 +1903,7 @@
   - 225
   - 256
   difficulty_average: 0.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000080-f9bb.png
   has_audio: false
   authors:
@@ -1952,7 +1952,7 @@
   - 27
   - 82
   difficulty_average: 2.6
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/83e176cd.png
   has_audio: false
   authors:
@@ -1988,7 +1988,7 @@
   tags:
   - 32
   difficulty_average: 0.0
-  language: Français
+  language: FRENCH
   image_background_url: ''
   has_audio: false
   authors:
@@ -2025,7 +2025,7 @@
   tags:
   - 11
   difficulty_average: 1.8
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/37979b71.png
   has_audio: false
   authors:
@@ -2074,7 +2074,7 @@
   - 225
   - 256
   difficulty_average: 1.8
-  language: English
+  language: ENGLISH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2f8e2440.jpg
   has_audio: false
   authors:
@@ -2118,7 +2118,7 @@
   - 225
   - 268
   difficulty_average: 2.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/a5474bbf.jpg
   has_audio: false
   authors:
@@ -2162,7 +2162,7 @@
   question_count: 0
   tags: []
   difficulty_average: 0.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/228ef3e0.jpg
   has_audio: false
   authors:
@@ -2209,7 +2209,7 @@
   - 37
   - 97
   difficulty_average: 2.3
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/510c77bc.png
   has_audio: false
   authors:
@@ -2257,7 +2257,7 @@
   - 22
   - 225
   difficulty_average: 1.4
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0e65b8fd.jpg
   has_audio: false
   authors:
@@ -2307,7 +2307,7 @@
   - 37
   - 69
   difficulty_average: 2.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/bbb5303f.jpg
   has_audio: false
   authors:
@@ -2358,7 +2358,7 @@
   question_count: 12
   tags: []
   difficulty_average: 2.2
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b64c7eb2.png
   has_audio: false
   authors:
@@ -2389,7 +2389,7 @@
   - 26
   - 32
   difficulty_average: 2.0
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/84e6d9a7.jpg
   has_audio: false
   authors:
@@ -2437,7 +2437,7 @@
   question_count: 10
   tags: []
   difficulty_average: 1.8
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/2bc39d90.png
   has_audio: false
   authors:
@@ -2487,7 +2487,7 @@
   tags:
   - 27
   difficulty_average: 2.4
-  language: English
+  language: ENGLISH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/4c37af02.png
   has_audio: false
   authors:
@@ -2534,7 +2534,7 @@
   - 98
   - 100
   difficulty_average: 2.1
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/60802a94.png
   has_audio: false
   authors:
@@ -2573,7 +2573,7 @@
   question_count: 12
   tags: []
   difficulty_average: 2.1
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b4413624.png
   has_audio: false
   authors:
@@ -2606,7 +2606,7 @@
   - 98
   - 100
   difficulty_average: 1.9
-  language: Français
+  language: FRENCH
   image_background_url: ''
   has_audio: false
   authors:
@@ -2631,7 +2631,7 @@
   question_count: 2
   tags: []
   difficulty_average: 2.0
-  language: Français
+  language: FRENCH
   image_background_url: ''
   has_audio: false
   authors:
@@ -2663,7 +2663,7 @@
   question_count: 2
   tags: []
   difficulty_average: 2.5
-  language: Français
+  language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/405f9c6b.png
   has_audio: false
   authors:

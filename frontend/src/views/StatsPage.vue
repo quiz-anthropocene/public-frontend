@@ -63,7 +63,7 @@
     <h4>🌐&nbsp;{{ $t('messages.languages') }}</h4>
     <p>
       <span v-for="language in languages" :key="language.name">
-        <!-- <router-link class="no-decoration" :to="{ name: 'quiz-list', query: { locale: language.key } }"> -->
+        <!-- <router-link class="no-decoration" :to="{ name: 'quiz-list', query: { locale: language.code } }"> -->
           <FilterLabel :key="language.name" filterType="language" v-bind:filterValue="language.name" v-bind:filterCount="language.quiz_count" v-bind:withHover="false" />
         <!-- </router-link> -->
       </span>
@@ -126,7 +126,7 @@
     <h4>🌐&nbsp;{{ $t('messages.languages') }}</h4>
     <p>
       <span v-for="language in languages" :key="language.name">
-        <!-- <router-link class="no-decoration" :to="{ name: 'question-list', query: { locale: language.key } }"> -->
+        <!-- <router-link class="no-decoration" :to="{ name: 'question-list', query: { locale: language.code } }"> -->
           <FilterLabel :key="language.name" filterType="language" v-bind:filterValue="language.name" v-bind:filterCount="language.question_count" v-bind:withHover="false" />
         <!-- </router-link> -->
       </span>

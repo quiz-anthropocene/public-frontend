@@ -61,8 +61,8 @@
         </div>
         <div class="col-sm" title="Langue">
           <select v-model="$i18n.locale">
-            <option v-for="(lang, i) in languages" :key="`Lang${i}`" :value="lang.key">
-              {{ lang.emoji }}&nbsp;{{ lang.value }}
+            <option v-for="(language, i) in languages" :key="i" :value="language.code">
+              {{ language.emoji }}&nbsp;{{ language.name }}
             </option>
           </select>
         </div>
@@ -82,7 +82,6 @@
 </template>
 
 <script>
-import constants from '../constants';
 import { postLinkClickEvent } from '../services/StatService';
 import HomeLink from './HomeLink.vue';
 
@@ -94,18 +93,16 @@ export default {
   props: {
   },
 
-  data() {
-    return {
-      languages: constants.LANGUAGE_CHOICE_LIST,
-    };
-  },
-
   computed: {
     currentRoute() {
       return this.$route.name;
     },
     configuration() {
       return this.$store.state.configuration;
+    },
+    languages() {
+      return this.$store.state.languages
+        .slice(0); // .slice makes a copy of the array, instead of mutating the orginal
     },
   },
 
