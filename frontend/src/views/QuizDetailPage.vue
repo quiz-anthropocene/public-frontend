@@ -256,7 +256,7 @@ export default {
   methods: {
     adaptLocale() {
       if (this.quiz && this.$store.state.locale && this.quiz.language !== this.$store.state.locale.value) {
-        this.$i18n.locale = constants.LANGUAGE_CHOICE_LIST.find((l) => l.value === this.quiz.language).key;
+        this.$i18n.locale = constants.LANGUAGE_CHOICE_LIST.find((l) => l.value === this.quiz.language).code;
       }
     },
     initQuiz() {
