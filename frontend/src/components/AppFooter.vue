@@ -62,7 +62,7 @@
         <div class="col-sm" title="Langue">
           <select v-model="$i18n.locale">
             <option v-for="(lang, i) in languages" :key="`Lang${i}`" :value="lang.key">
-              {{ lang.emoji }}&nbsp;{{ lang.value }}
+              {{ lang.emoji }}&nbsp;{{ lang.name }}
             </option>
           </select>
         </div>

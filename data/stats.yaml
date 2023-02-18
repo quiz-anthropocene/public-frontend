@@ -1,16 +1,16 @@
 question_count: 1111
 question_published_count: 608
 question_per_language_count:
-- language: Français
+- language: FRENCH
   total: 1075
-- language: English
+- language: ENGLISH
   total: 36
 quiz_count: 63
 quiz_published_count: 44
 quiz_per_language_count:
-- language: Français
+- language: FRENCH
   total: 58
-- language: English
+- language: ENGLISH
   total: 5
 question_answer_count: 412971
 quiz_answer_count: 33282
