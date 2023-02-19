@@ -20,7 +20,7 @@
     <br />
     <h3>❓&nbsp;Questions</h3>
     <p>
-      <strong>{{ question_validated_count_formatted }}</strong> validées.
+      <strong>{{ question_published_count_formatted }}</strong> validées.
       <br />
       <strong>{{ question_answer_count_formatted }}</strong> questions répondues depuis le lancement
       (dont <strong>{{ question_answer_count_last_30_days_formatted }}</strong> durant les 30 derniers jours).
@@ -162,8 +162,8 @@ export default {
     data_last_updated() {
       return new Date(constants.DATA_LAST_UPDATED_DATETIME).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
     },
-    question_validated_count_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_validated_count);
+    question_published_count_formatted() {
+      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_published_count);
     },
     quiz_published_count_formatted() {
       return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.quiz_published_count);

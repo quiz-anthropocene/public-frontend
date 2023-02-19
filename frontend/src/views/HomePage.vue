@@ -149,7 +149,7 @@ export default {
       return this.$store.state.stats.quiz_published_count;
     },
     questionValidatedCount() {
-      return this.$store.state.stats.question_validated_count;
+      return this.$store.state.stats.question_published_count;
     },
     quizsSpotlighted() {
       return this.$store.state.quizsSpotlighted;
