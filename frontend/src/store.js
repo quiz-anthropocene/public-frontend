@@ -102,7 +102,7 @@ const store = new Vuex.Store({
         Object.assign(q, { author: questionAuthor, category: questionCategory }, { tags: questionTags });
         return q;
       });
-      const questionsValidated = questions.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_OK);
+      const questionsValidated = questions.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_VALIDATED);
       commit('SET_QUESTION_LIST', { list: questions });
       commit('SET_QUESTION_VALIDATED_LIST', { list: questionsValidated });
 
@@ -113,7 +113,7 @@ const store = new Vuex.Store({
       commit('SET_TAG_QUESTION_COUNT');
     },
     GET_QUESTION_PENDING_VALIDATION_LIST_FROM_LOCAL_YAML: ({ commit, state }) => {
-      const questionsPendingValidation = questionsYamlData.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_IN_PROGRESS);
+      const questionsPendingValidation = questionsYamlData.filter((q) => q.language === state.locale.value).filter((el) => el.validation_status === constants.VALIDATION_STATUS_TO_VALIDATE);
       commit('SET_QUESTION_PENDING_VALIDATION_LIST', { list: questionsPendingValidation });
     },
     /**

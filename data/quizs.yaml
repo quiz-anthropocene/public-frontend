@@ -25,7 +25,7 @@
   authors:
   - 1
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-04-24'
   publish: true
@@ -63,7 +63,7 @@
   authors:
   - 5
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-06-01'
   publish: true
@@ -109,7 +109,7 @@
   authors:
   - 8
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-07-03'
   publish: true
@@ -141,7 +141,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-07-15'
   publish: true
@@ -178,7 +178,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-07-15'
   publish: true
@@ -217,7 +217,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-07-15'
   publish: true
@@ -249,7 +249,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -298,7 +298,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -332,7 +332,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-07-21'
   publish: true
@@ -365,7 +365,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -417,7 +417,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -453,7 +453,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -486,7 +486,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -519,7 +519,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -560,7 +560,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -597,7 +597,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-08-05'
   publish: true
@@ -632,7 +632,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-08-11'
   publish: true
@@ -683,7 +683,7 @@
   authors:
   - 13
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-09-30'
   publish: true
@@ -725,7 +725,7 @@
   authors:
   - 19
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-11-23'
   publish: false
@@ -762,7 +762,7 @@
   authors:
   - 5
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-12-04'
   publish: true
@@ -811,7 +811,7 @@
   authors:
   - 5
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-12-05'
   publish: true
@@ -859,7 +859,7 @@
   authors:
   - 37
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-12-15'
   publish: true
@@ -897,7 +897,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2020-12-20'
   publish: true
@@ -937,7 +937,7 @@
   authors:
   - 1
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2020-12-31'
   publish: true
@@ -980,7 +980,7 @@
   authors:
   - 18
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-01-28'
   publish: true
@@ -1017,7 +1017,7 @@
   authors:
   - 14
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-02-08'
   publish: true
@@ -1077,7 +1077,7 @@
   authors:
   - 6
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-02-21'
   publish: true
@@ -1127,7 +1127,7 @@
   authors:
   - 15
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-02-25'
   publish: true
@@ -1166,7 +1166,7 @@
   authors:
   - 42
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-02-27'
   publish: true
@@ -1202,7 +1202,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   publish: false
@@ -1243,7 +1243,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2021-03-18'
   publish: true
@@ -1300,7 +1300,7 @@
   authors:
   - 10
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-03-19'
   publish: true
@@ -1345,7 +1345,7 @@
   authors:
   - 6
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-03-30'
   publish: true
@@ -1396,7 +1396,7 @@
   authors:
   - 6
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-03-31'
   publish: true
@@ -1439,7 +1439,7 @@
   authors:
   - 20
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-04-17'
   publish: true
@@ -1486,7 +1486,7 @@
   authors:
   - 6
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-04-23'
   publish: true
@@ -1524,7 +1524,7 @@
   authors:
   - 24
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -1566,7 +1566,7 @@
   authors:
   - 6
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-05-04'
   publish: true
@@ -1617,7 +1617,7 @@
   authors:
   - 35
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-05-10'
   publish: true
@@ -1666,7 +1666,7 @@
   authors:
   - 11
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-10-10'
   publish: true
@@ -1716,7 +1716,7 @@
   authors:
   - 36
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-11-23'
   publish: true
@@ -1769,7 +1769,7 @@
   authors:
   - 17
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2021-12-12'
   publish: true
@@ -1814,7 +1814,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -1864,7 +1864,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 1
   validation_date: '2022-01-17'
   publish: true
@@ -1909,7 +1909,7 @@
   authors:
   - 25
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2022-02-02'
   publish: true
@@ -1958,7 +1958,7 @@
   authors:
   - 46
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2022-05-23'
   publish: true
@@ -1994,7 +1994,7 @@
   authors:
   - 55
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -2031,7 +2031,7 @@
   authors:
   - 57
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2022-11-04'
   publish: true
@@ -2080,7 +2080,7 @@
   authors:
   - 60
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2022-06-26'
   publish: true
@@ -2124,7 +2124,7 @@
   authors:
   - 34
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2022-07-29'
   publish: true
@@ -2168,7 +2168,7 @@
   authors:
   - 62
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -2215,7 +2215,7 @@
   authors:
   - 49
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2022-07-23'
   publish: true
@@ -2263,7 +2263,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 55
   validation_date: '2022-11-15'
   publish: true
@@ -2313,7 +2313,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: null
   publish: false
@@ -2364,7 +2364,7 @@
   authors:
   - 59
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2023-01-25'
   publish: true
@@ -2395,7 +2395,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -2443,7 +2443,7 @@
   authors:
   - 67
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 2
   validation_date: '2023-01-30'
   publish: true
@@ -2493,7 +2493,7 @@
   authors:
   - 46
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 55
   validation_date: '2023-02-07'
   publish: true
@@ -2540,7 +2540,7 @@
   authors:
   - 57
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 55
   validation_date: '2023-02-07'
   publish: true
@@ -2579,7 +2579,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Validée
+  validation_status: VALIDATED
   validator: 55
   validation_date: '2023-02-10'
   publish: true
@@ -2612,7 +2612,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -2637,7 +2637,7 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false
@@ -2669,7 +2669,7 @@
   authors:
   - 4
   visibility: PUBLIC
-  validation_status: Brouillon
+  validation_status: DRAFT
   validator: null
   validation_date: null
   publish: false

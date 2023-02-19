@@ -5,7 +5,8 @@
   type: "Le type de question (QCM, V/F, ...)"
   category: "l'id de la catégorie. Une seule catégorie possible"
   tags: "le ou les id des tags. Un ou plusieurs tags possibles rattachés à la question"
-  difficulty: Chiffre entre 1 et 4
+  difficulty: Chiffre entre 0 et 4
+  language: FRENCH, ENGLISH, ...
   answer_choice_a: Une courte réponse
   answer_choice_b: Une courte réponse
   answer_choice_c: Une courte réponse
@@ -23,6 +24,6 @@
   answer_extra_info: "Texte et liens explicatifs additionels, qui n'apparaissent pas dans l'interface"
   author: "L'auteur de la question"
   validator: "La personne qui a validée la question"
-  validation_status: "Le statut de la question : Brouillon, A valider, Validée, Ecartée"
+  validation_status: "Le statut de la question : DRAFT, TO_VALIDATE, VALIDATED, ASIDE, REMOVED"
   created: Date au format YYYY-MM-DD
   updated: Date au format YYYY-MM-DD
