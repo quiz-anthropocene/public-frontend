@@ -181,7 +181,7 @@ export default {
       return this.question.answer_explanation.replace(/(?:\r\n|\r|\n)/g, '<br />');
     },
     questionNotValidated() {
-      return this.question.validation_status !== constants.VALIDATION_STATUS_OK;
+      return this.question.validation_status !== constants.VALIDATION_STATUS_VALIDATED;
     },
   },
 
