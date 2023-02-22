@@ -17362,7 +17362,7 @@
   - 32
   difficulty: 0
   language: FRENCH
-  answer_choice_a: Aussi probable qu’improbable
+  answer_choice_a: Aussi mprobable que probable
   answer_choice_b: Probable
   answer_choice_c: Très probable
   answer_choice_d: Absolument sûr
@@ -17394,7 +17394,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-21'
 - id: 429
   text: Quelle est la différence entre un article scientifique et un article de presse
     ?
@@ -38256,7 +38256,7 @@
   updated: '2022-04-16'
 - id: 926
   text: A quelle empreinte forêt la consommation en œufs et produits laitiers d'un
-    Français représente-t-elle ?
+    Français correspond-elle ?
   hint: ''
   type: QCM
   category: 2
@@ -38268,13 +38268,13 @@
   answer_choice_a: 30 m²
   answer_choice_b: 60 m²
   answer_choice_c: 100 m²
-  answer_choice_d: 352 m²
+  answer_choice_d: 350 m²
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'L’Empreinte Forêt d’un Français est de 352 m², dont 30 m² pour
-    les oeufs et 30 m² pour les produits laitiers (via l''alimentation animale).
-
-    La déforestation représente environ 10% des émissions de CO2 à l’échelle mondiale.'
+  answer_explanation: L’Empreinte Forêt globale d’un Français est de 352 m². Dans
+    ces 352m2, 30m² sont pour les oeufs et 30m² pour les produits laitiers (via l'alimentation
+    animale). La déforestation représente environ 10% des émissions de CO2 à l’échelle
+    mondiale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38293,7 +38293,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2023-02-20'
 - id: 927
   text: Imaginons que nous réunissions toutes les vaches du monde dans un même pays.
     En quelle position ce pays arriverait-il en termes d’émissions de gaz à effet
@@ -46251,8 +46251,8 @@
   updated: '2023-02-07'
 - id: 1135
   text: Votre dernière heure est bientôt venue...et vous souhaitez minimiser l'empreinte
-    carbone de votre passage dans l'au-delà dans le respect de la loi. Que choisissez-vous
-    ?
+    carbone de votre passage dans l'au-delà - dans le respect de la loi bien sûr.
+    Quelle option choisissez-vous ?
   hint: ''
   type: QCM
   category: 2
@@ -46270,14 +46270,14 @@
     écologique légèrement inférieur à celui de la crémation. Attention, cela ne vaut
     que si vous choisissez une tombe simplement gazonnée, sans bâtiment, avec un cercueil
     fabriqué en France avec le moins de vernis et de poignées possibles. En moyenne
-    cependant, le 'cycle de vie' (si l'on puis dire...creusement de la terre, fabrication
-    du cercueil et du monument, transport du défunt) d'une inhumation dégage 869 kg
-    de CO2, c’est-à-dire 3,7 fois plus que la crémation. Peut-on faire moins ? Potentiellement
-    oui, avec notamment l'humusation, qui consiste à laisser le corps se composter
-    naturellement dans le sol. Cette pratiquement est cependant pour l'instant interdite
-    en Europe. Elle est au stade de l'expérimentation en Belgique et vient d'être
-    légalisée dans l'état de New York. L'empreinte est alors très faible. Mais elle
-    soulève d'autres questions.
+    cependant, le 'cycle de vie' (si l'on puis dire) - creusement de la terre, fabrication
+    du cercueil et du monument, transport du défunt - d'une inhumation dégage 869
+    kg de CO2, c’est-à-dire près de 4 fois plus que la crémation. Peut-on faire moins
+    ? Potentiellement oui, avec notamment l'humusation, qui consiste à laisser le
+    corps se composter naturellement dans le sol. Cette pratique est cependant pour
+    l'instant interdite en Europe. Elle est au stade de l'expérimentation en Belgique
+    et vient d'être légalisée dans l'état de New York. L'empreinte est alors très
+    faible. Mais elle soulève d'autres questions.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46298,7 +46298,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2023-02-10'
+  updated: '2023-02-21'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -46379,30 +46379,29 @@
   created: '2023-02-07'
   updated: '2023-02-16'
 - id: 1138
-  text: En France, en moyenne, quelle est la part de consommation d'énergie consommée
-    quand on consulte une application sur son téléphone ?
+  text: En France, comment se répartit en moyenne l'énergie consommée par l'utilisation
+    d'un téléphone mobile ?
   hint: ''
   type: QCM
   category: 2
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: 10% Mobile / 20% Data Center / 70% Infrastructure Réseau
-  answer_choice_b: 33% Mobile / 33% Data Center / 33% Infrastructure Réseau
-  answer_choice_c: 50% Mobile / 40% Data Center / 10% Infrastructure Réseau
-  answer_choice_d: 85% Mobile / 10% Data Center / 5% Infrastructure Réseau
+  answer_choice_a: 10% Mobile / 20% Data Center / 70% Infrastructure réseau
+  answer_choice_b: 33% Mobile / 33% Data Center / 33% Infrastructure réseau
+  answer_choice_c: 50% Mobile / 40% Data Center / 10% Infrastructure réseau
+  answer_choice_d: 85% Mobile / 10% Data Center / 5% Infrastructure réseau
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Héberger son site dans un data center, c'est utiliser des ressources\
     \ mutualisées qui partagent la dépense énergétique associées à l'hébergement,\
-    \ et utiliser des infrastructures soumis à des normes et labels qui visent une\
-    \ efficience énergétique maximale... À condition bien sûr que les infrastructures\
+    \ et utiliser des infrastructures soumises à des normes et labels qui visent une\
+    \ efficience énergétique maximale... à condition bien sûr que les infrastructures\
     \ physiques soient proportionnelles aux besoins !\r\nA contrario, nos terminaux\
     \ ne sont pas mutualisés, leurs écrans sont gourmands en énergie et il faut également\
-    \ comptabiliser son empreinte carbone. \r\nConclusion: une solution digitale sobre\
-    \ s'assure que ses utilisateurs n'aient pas besoin de renouveller leur téléphone\
-    \ trop souvent. \r\n\r\n\r\nUn parc sur dimensionné par rapport à l'activité serait\
-    \ trop énergivore."
+    \ comptabiliser l'empreinte carbone de leur production, proportionnellement bien\
+    \ plus importante. \r\nConclusion: une solution digitale sobre s'assure que ses\
+    \ utilisateurs n'aient pas besoin de renouveler leur téléphone trop souvent."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46421,13 +46420,13 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2023-02-16'
+  updated: '2023-02-21'
 - id: 1139
-  text: 'Logiciels et applications smartphone: quelle est la proportion de fonctionnalités
-    réellement utilisées ?'
+  text: Dans les logiciels et applications sur smartphone, quelle est la proportion
+    de fonctionnalités réellement utilisées ?
   hint: ''
   type: QCM
-  category: null
+  category: 2
   tags: []
   difficulty: 2
   language: FRENCH
@@ -46459,4 +46458,4 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2023-02-16'
+  updated: '2023-02-21'
