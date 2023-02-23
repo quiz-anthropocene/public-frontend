@@ -10,6 +10,18 @@
   emoji: 🇬🇧
   question_count: 36
   quiz_count: 5
+- name: Spanish
+  value: SPANISH
+  code: es
+  emoji: 🇪🇸
+  question_count: 0
+  quiz_count: 0
+- name: Italian
+  value: ITALIAN
+  code: it
+  emoji: 🇮🇹
+  question_count: 0
+  quiz_count: 0
 - name: German
   value: GERMAN
   code: de
