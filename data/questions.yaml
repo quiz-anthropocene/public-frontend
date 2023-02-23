@@ -44070,7 +44070,7 @@
   answer_correct: bc
   has_ordered_answers: false
   answer_explanation: "Le cycle de l'azote est déséquilibré quand des sources anthropiques\
-    \ finissent par déstabiliser fortement des écosystèmes. Un exemple bien connue\
+    \ finissent par déstabiliser fortement des écosystèmes. Un exemple bien connu\
     \ est l'eutrophisation qui provoque des explosions d'algues, ce qui finit par\
     \ asphyxier des écosystèmes côtiers entiers. A l'échelle planétaire, la limite\
     \ est placée à 62 millions de tonnes d'azote \"de synthèse\", alors que l'activité\
@@ -44102,7 +44102,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-26'
+  updated: '2023-02-22'
 - id: 1087
   text: Entre -15 millions et -7 millions d’années, la terre s’est refroidie de 5°C.
     Quelle est l’explication la plus probable à ce jour pour l’expliquer ?
