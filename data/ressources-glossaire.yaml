@@ -3,6 +3,7 @@
   definition_short: Agence de l'Environnement et de la Maîtrise de l'Energie
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Agence_de_l'environnement_et_de_la_ma%C3%AEtrise_de_l'%C3%A9nergie
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Anthropocène
@@ -13,6 +14,7 @@
     de l’Anthropocène avec celui de la révolution industrielle, au XVIIIe siècle,
     succédant ainsi à l'Holocène.
   description_accessible_url: https://fr.wikipedia.org/wiki/Anthropoc%C3%A8ne
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Bioénergies
@@ -23,6 +25,7 @@
     des carburants. Tant qu'elle n'est pas surexploitée, elle est considérée comme
     « renouvelable ».
   description_accessible_url: https://fr.wikipedia.org/wiki/Bio%C3%A9nergie
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: CGDD
@@ -30,6 +33,7 @@
   definition_short: Commissariat Général au Développement Durable
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Commissariat_g%C3%A9n%C3%A9ral_au_d%C3%A9veloppement_durable
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: CO2e
@@ -41,6 +45,7 @@
     le cas d’un mélange de GES, l’émission en équivalent CO2 est obtenue en additionnant
     les émissions en équivalent CO2 de chacun des gaz.
   description_accessible_url: https://fr.wikipedia.org/wiki/%C3%89quivalent_CO2
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: COP
@@ -53,6 +58,7 @@
     internationaux pour faire face aux changements climatiques. La COP1 a eu lieu
     en 2009 à Berlin, la COP21 en 2015 à Paris.
   description_accessible_url: https://fr.wikipedia.org/wiki/Conférence_des_parties
+  language: FRENCH
   created: '2020-12-13'
   updated: '2023-02-04'
 - name: Forçage radiatif
@@ -65,6 +71,7 @@
     énergies radiatives (rayonnement) reçues et émises par ce système climatique.
     Il est exprimé en W/m2.
   description_accessible_url: https://fr.wikipedia.org/wiki/For%C3%A7age_radiatif
+  language: FRENCH
   created: '2020-12-13'
   updated: '2022-11-12'
 - name: GES
@@ -73,6 +80,7 @@
   description: GES signifie gaz à effet de serre (vapeur d’eau, CO2, méthane, protoxyde
     d’azote, CFC, HFC, ...)
   description_accessible_url: https://fr.wikipedia.org/wiki/Gaz_à_effet_de_serre
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: GIEC
@@ -80,6 +88,7 @@
   definition_short: Groupe d'experts intergouvernemental sur l'évolution du climat
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Groupe_d'experts_intergouvernemental_sur_l'%C3%A9volution_du_climat
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: GW
@@ -88,6 +97,7 @@
   description: Le gigawatt (GW) est une unité de puissance, correspondant à 1 milliard
     de watts
   description_accessible_url: https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_puissance#Gigawatt_(109_watts)
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: IEA
@@ -95,6 +105,7 @@
   definition_short: International Energy Agency
   description: Agence Internationale de l'Energie
   description_accessible_url: https://fr.wikipedia.org/wiki/Agence_internationale_de_l%27%C3%A9nergie
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: INRAE
@@ -103,6 +114,7 @@
     et l'environnement
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Institut_national_de_recherche_pour_l%27agriculture,_l%27alimentation_et_l%27environnement
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: IPBES
@@ -112,6 +124,7 @@
   description: ''
   description_accessible_url: Plateforme intergouvernementale scientifique et politique
     sur la biodiversité et les services écosystémiques
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: MTES
@@ -119,6 +132,7 @@
   definition_short: Ministère de la Transition Ecologique et Solidaire
   description: ''
   description_accessible_url: https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27%C3%89cologie_(France)
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: ppm
@@ -126,6 +140,7 @@
   definition_short: partie par million (0,0001%)
   description: 10,000 ppm = 1%
   description_accessible_url: https://fr.wikipedia.org/wiki/Partie_par_million
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: PRG
@@ -137,6 +152,7 @@
     vers le sol), cumulé sur une durée qui est généralement fixée à 100 ans, d’une
     quantité de gaz donnée.
   description_accessible_url: https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Anthropique
@@ -144,6 +160,7 @@
   definition_short: Dû à l'activité humaine
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2023-01-21'
 - name: Arable
@@ -151,6 +168,7 @@
   definition_short: Qui peut être labouré
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Biocapacité
@@ -166,6 +184,7 @@
     \ l’empreinte écologique (demande) d’une zone est supérieure à sa biocapacité\
     \ (offre), alors cette zone n’est pas utilisée de manière durable."
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Biodiversité
@@ -173,6 +192,7 @@
   definition_short: Diversité des organismes vivants (écosystèmes, espèces, populations…)
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Biote
@@ -180,6 +200,7 @@
   definition_short: Organismes vivants et micro-organismes présents dans un habitat
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Circularité
@@ -194,6 +215,7 @@
     réparation, remise à neuf, refabrication ...). Mais la croissance et les limites
     physiques la rendent théoriquement inatteignable à 100%.'
   description_accessible_url: https://fr.wikipedia.org/wiki/%C3%89conomie_circulaire
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Cryosphère
@@ -205,6 +227,7 @@
     neigeux, glaciers, calottes glaciaires, plates-formes de glace, icebergs, glace
     de mer (banquise), glace de lac et de rivière, pergélisol, sol gelé saisonnier.'
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Empreinte Carbone
@@ -213,6 +236,7 @@
     incluant les importations.
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Empreinte environnementale
@@ -229,6 +253,7 @@
     \ bâtiments...)\r\n- et enfin celle nécessaire pour traiter les déchets et pour\
     \ absorber le gaz carbonique libéré par les activités humaines."
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Fermentation entérique
@@ -236,6 +261,7 @@
   definition_short: Digestion des ruminants, qui dégage du méthane
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Hydroélectricité
@@ -243,6 +269,7 @@
   definition_short: Energie issue de la conversion de l'énergie hydraulique en électricité.
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Inventaire National
@@ -251,6 +278,7 @@
     Ne prend pas en compte les émissions importées.
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Microplastique
@@ -259,6 +287,7 @@
     dans l'environnement.
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: NOx
@@ -271,6 +300,7 @@
     source des pluies acides (alors que la pollution par les oxydes de soufre a régressé)
     et de l''acidification des eaux douces.'
   description_accessible_url: https://fr.wikipedia.org/wiki/Oxyde_d%27azote
+  language: FRENCH
   created: '2020-12-13'
   updated: '2022-07-18'
 - name: Pic pétrolier
@@ -279,6 +309,7 @@
     de décroître inexorablement (pour un gisement ou pour une aire donnée)
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: PNUE
@@ -293,6 +324,7 @@
     \ aux nations et aux peuples d'améliorer leur qualité de vie sans compromettre\
     \ celle des générations futures."
   description_accessible_url: https://www.unep.org/fr/propos-donu-environnement
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: RPK
@@ -304,6 +336,7 @@
     \nLa somme de tous les sièges (= passagers) x km vendus dans l'année est la métrique\
     \ qui traduit l'activité du secteur aérien."
   description_accessible_url: https://fr.wikipedia.org/wiki/Voyageur-kilom%C3%A8tre
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Réserves prouvées
@@ -312,6 +345,7 @@
     avec les techniques disponibles
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Réserves ultimes
@@ -319,6 +353,7 @@
   definition_short: Ensemble des réserves estimées d’une ressource non-renouvelable
   description: A distinguer des réserves prouvées
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Tonnes.km
@@ -327,6 +362,7 @@
     du fret.
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: VAE
@@ -334,6 +370,7 @@
   definition_short: Vélo à Assistance Electrique
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: OMS
@@ -341,6 +378,7 @@
   definition_short: Organisation Mondiale de la Santé
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2022-07-18'
   updated: '2022-07-18'
 - name: SSP
@@ -351,6 +389,7 @@
     changements climatiques. Cinq narratifs décrivant les évolutions sociales, économiques,
     politiques et technologiques possibles d’ici la fin du siècle ont été développés.
   description_accessible_url: ''
+  language: FRENCH
   created: '2022-11-12'
   updated: '2022-11-12'
 - name: OMM
@@ -358,6 +397,7 @@
   definition_short: Organisation Météorologique Mondiale
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2022-11-16'
   updated: '2022-11-16'
 - name: gigatonnes
@@ -365,6 +405,7 @@
   definition_short: milliards de tonnes
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2022-12-09'
   updated: '2022-12-09'
 - name: UNESCO
@@ -373,6 +414,7 @@
     la culture
   description: ''
   description_accessible_url: https://www.un.org/youthenvoy/fr/2013/08/unesco-organisation-nations-unies-leducation-science-culture/
+  language: FRENCH
   created: '2022-12-28'
   updated: '2022-12-28'
 - name: Afforestation
@@ -380,6 +422,7 @@
   definition_short: Plantation d'arbres sur une surface non boisée
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-19'
   updated: '2023-01-25'
 - name: humique
@@ -389,6 +432,7 @@
     superfi
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-20'
   updated: '2023-01-20'
 - name: matière organique
@@ -397,6 +441,7 @@
     de produits en décomposition dans le sol
   description: végétaux, animaux, champignons, micro-organismes du sol...
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-21'
   updated: '2023-01-21'
 - name: puits de carbone
@@ -405,6 +450,7 @@
     du CO2 émis.
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-21'
   updated: '2023-01-21'
 - name: biome
@@ -415,6 +461,7 @@
     \ :\r\n    La toundra.\r\n    La taïga.\r\n    La forêt tempérée.\r\n    La prairie\
     \ tempérée.\r\n    La savane tropicale.\r\n    Le désert.\r\n    La forêt tropicale."
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-23'
   updated: '2023-01-23'
 - name: eutrophisation
@@ -423,6 +470,7 @@
     végétale, un appauvrissement en oxygène et un déséquilibre de l'écosystème
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-26'
   updated: '2023-01-26'
 - name: obsolescence
@@ -430,6 +478,7 @@
   definition_short: être ou devenir périmé, déprécié
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-01-30'
   updated: '2023-01-30'
 - name: Shift Project
@@ -438,6 +487,7 @@
     carbone
   description: ''
   description_accessible_url: https://theshiftproject.org/
+  language: FRENCH
   created: '2023-01-30'
   updated: '2023-01-30'
 - name: Krill
@@ -445,6 +495,7 @@
   definition_short: plancton des mers froides
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-02-04'
   updated: '2023-02-04'
 - name: DICRIM
@@ -452,5 +503,6 @@
   definition_short: Document d’Information Communal sur les Risques Majeurs
   description: ''
   description_accessible_url: ''
+  language: FRENCH
   created: '2023-02-13'
   updated: '2023-02-13'
