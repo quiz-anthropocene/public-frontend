@@ -46459,3 +46459,79 @@
   validation_date: null
   created: '2023-02-16'
   updated: '2023-02-21'
+- id: 1140
+  text: Vero o falso? Il Clima è la stessa cosa delle previsioni meteo.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Le previsioni meteo che si sentono ogni giorno alla Tv o alla
+    radio, riguardano il tempo che farà oggi o domani e cambiano continuamente. Il
+    clima, invece, è il tempo in generale di una regione per esempio, nel corso di
+    anni o addirittura di secoli! Se il tempo cambia da un giorno all'altro, non si
+    può concludere che il clima sta cambiando.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: https://player.slideplayer.it/11/3302920/
+  answer_video_url_text: La parola della geostoria Clima - Mondadori Education
+  answer_source_accessible_url: https://www.ecoage.it/differenza-tra-meteo-e-clima.htm
+  answer_source_accessible_url_text: 'Ecoage: ecologia e ambiente differenza tra meteo
+    e clima'
+  answer_source_scientific_url: https://www.youtube.com/watch?v=mQmKNRCcvfM
+  answer_source_scientific_url_text: Clima e Tempo
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 73
+  visibility: HIDDEN
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2023-02-23'
+  updated: '2023-02-23'
+- id: 1141
+  text: Le attività umani hanno un impatto sul clima da diversi secoli
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ℹ️ Gli esseri umani sono stati in grado di adattarsi a un'ampia
+    gamma di climi. Ma il clima sta cambiando e il nostro pianeta si sta surriscaldando.
+    È ormai pienamente dimostrato dalla scienza del clima che ciò è causato dalle
+    attività umane, in particolare dall'uso di petrolio e carbone.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.vikidia.org/wiki/Riscaldamento_globale
+  answer_source_accessible_url_text: Riscaldamento globale
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Sesto_Rapporto_IPCC#:~:text=Il%20Sesto%20rapporto%2C%20%C3%A8%20una,sul%20cambiamento%20climatico%20(IPCC).
+  answer_source_scientific_url_text: Wikipedia Sesto Rapporto IPCC
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 73
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2023-02-23'
+  updated: '2023-02-23'

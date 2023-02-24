@@ -2688,27 +2688,13 @@
     \ sono basate sulle carte del gioco. A te l'onore di mettere alla prova le loro\
     \ conoscenze! </p>\r\n\r\n<p>9 domande                   Autrice: Christine Cavazza \
     \  traduttrice: Francine Reuter          Clima - CO2 - Effetto serra</p>\r\n\r\
-    \n<p>Per iniziare il Quiz</p>\r\n\r\n<p># 1 di 9 </p>\r\n\r\n<p>Vero o Falso?\
-    \ Il Clima è la stessa cosa che le previsioni del meteo.</p>\r\n\r\n<p>° Vero </p>\r\
-    \n\r\n<p>° Falso</p>\r\n\r\n<p>Confermare</p>\r\n\r\n<p>Bravo!</p>\r\n\r\n<p>i\
-    \ Le previsioni meteo che si sentono ogni giorno alla Tv o alla radio, riguardano\
-    \ il tempo che farà oggi o domani e cambiano continuamente. Il clima, invece,\
-    \ è il tempo in generale di una regione per esempio, nel corso di anni o addirittura\
-    \ di secoli!</p>\r\n\r\n<p>Se il tempo cambia da un giorno all'altro, non si può\
-    \ concludere che il clima sta cambiando.</p>\r\n\r\n<p>Texte Photo: DIFFERENZA\
-    \ TRA METEO E CLIMA </p>\r\n\r\n<p>METEO: IL TEMPO CHE FA                     \
-    \              CLIMA: VALORI MEDI SU UN PERIODO LUNGO</p>\r\n\r\n<p>OVEST: 20\
-    \ KM/H                                                       Normale: 1981-2010</p>\r\
-    \n\r\n<p>Didascalia: fonte: www.lachainemeteo.com</p>\r\n\r\n<p>\U0001F517:   \
-    \   <a href=\"https://www.ecoage.it/differenza-tra-meteo-e-clima.htm\">Ecoage:\
-    \ ecologia e ambiente differenza tra meteo e clima</a></p>\r\n\r\n<p>\U0001F517\
-    \U0001F9EC: <a href=\"https://it.wikipedia.org/wiki/Clima\">Il clima </a></p>\r\
-    \n\r\n<p> </p>"
+    \n<p>Per iniziare il Quiz</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>"
   conclusion: ''
-  questions: []
-  question_count: 0
+  questions:
+  - 1140
+  question_count: 1
   tags: []
-  difficulty_average: 0.0
+  difficulty_average: 1.0
   language: ITALIAN
   image_background_url: ''
   has_audio: false
@@ -2722,4 +2708,4 @@
   publish_date: null
   spotlight: false
   created: '2023-02-22'
-  updated: '2023-02-22'
+  updated: '2023-02-23'
