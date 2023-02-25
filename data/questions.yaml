@@ -46535,3 +46535,41 @@
   validation_date: null
   created: '2023-02-23'
   updated: '2023-02-23'
+- id: 1142
+  text: Aggiungo gas a effetto serra quando
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: prendo la macchina o l'aereo?
+  answer_choice_b: mangio la carne?
+  answer_choice_c: compro cose?
+  answer_choice_d: gioco fuori casa?
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: ℹ️ Ad esempio, tutto ciò che acquistate proviene dall'industria.
+    Per produrlo, trasportarlo, farlo funzionare o smaltirlo, emette molta CO2, un
+    gas a effetto serra. Lo stesso vale per il funzionamento di un'automobile o di
+    un aereo. Le mucche di cui si mangia la carne o di cui si beve il latte sono ruminanti
+    che emettono un altro gas, anch'esso causa dell'effetto serra.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: Effetto Serra Vikidia 8-13 anni
+  answer_source_accessible_url: https://it.vikidia.org/wiki/Effetto_serra
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/238f7ae9.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 73
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2023-02-24'
+  updated: '2023-02-24'
