@@ -20639,34 +20639,41 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 512
-  text: Si tout l’Antarctique fondait, de combien s’élèverait le niveau de la mer
-    ?
-  hint: ''
+  text: Si toute la glace de l’Antarctique fondait, de combien s’élèverait le niveau
+    de la mer ?
+  hint: La calotte antarctique ne flotte pas
   type: QCM
-  category: null
+  category: 1
   tags:
   - 9
   - 16
   difficulty: 1
   language: FRENCH
-  answer_choice_a: ''
-  answer_choice_b: ''
-  answer_choice_c: ''
-  answer_choice_d: ''
-  answer_correct: ''
+  answer_choice_a: 0 m
+  answer_choice_b: 15 m
+  answer_choice_c: 40 m
+  answer_choice_d: 60 m
+  answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 60m
-  answer_audio_url: ''
-  answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_explanation: « La situation est urgente, dit le glaciologue Éric Rignot.
+    L’Antarctique contient un volume de glace qui peut faire monter le niveau des
+    mers de plus de 60 mètres. »
+  answer_audio_url: https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/les-glaciers-d-antarctique-9930823
+  answer_audio_url_text: 'France Inter : Si tout l’Antarctique venait à fondre...“La
+    voix des pôles” de Lydie Lescarmontier retrace le récit de l''étude du glacier
+    émissaire Mertz.'
+  answer_video_url: https://www.youtube.com/watch?v=YEn27FLrpRA
+  answer_video_url_text: 'Greenletter Club : #46 - Antarctique : le pôle sud est-il
+    en train de fondre ? Lydie Lescarmontier'
+  answer_source_accessible_url: https://reporterre.net/Antarctique-le-continent-qui-fond
+  answer_source_accessible_url_text: 'Reporterre : Enquête — Climat Antarctique, le
+    continent qui fond'
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter04_FINAL.pdf
-  answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_source_scientific_url_text: Page 321 du rapport de 2018 du Groupe 1 du GIEC,
+    AR5, chapitre 4
+  answer_book_recommendation: Lydie Lescarmontier - La voix des pôles
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e2afbb93.jpg
+  answer_image_url_text: A quoi ressemblerait le continent Antarctique sans glace
   answer_extra_info: p321 du rapport
   author: 5
   visibility: PUBLIC
@@ -20674,7 +20681,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2023-02-25'
 - id: 513
   text: Quand a eu lieu le grand événement d’oxydation ?
   hint: ''
@@ -43953,8 +43960,8 @@
   answer_source_scientific_url_text: 'Cours de l''ENS : Cycle du carbone et effet
     de serre'
   answer_book_recommendation: https://www.pearson.com/en-gb/subject-catalog/p/Weil-The-Nature-and-Properties-of-Soils-Global-Edition-15th-Edition/P200000005713/9781292162249
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ac422189.png
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/38dfb9a5.jpg
+  answer_image_url_text: Les puits et flux de carbone planétaires (IPCC 2013)
   answer_extra_info: ''
   author: 59
   visibility: PUBLIC
@@ -43962,7 +43969,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-21'
+  updated: '2023-02-25'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation,
     notamment, en étant transformés en terres agricoles. En termes d''impact sur le
@@ -44120,17 +44127,19 @@
   has_ordered_answers: true
   answer_explanation: Les bovidés, qui sont des grands ruminants, sont apparus il
     y a environ 17 millions d’années, au début de l'ère géologique de l'on appelle
-    le miocène. Leur extension est corrélée avec un refroidissement de la température
-    moyenne de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène,
-    avant que ne surviennent des cycles de glaciation - déglaciation. Une cause avancée
-    est le développement de sols de prairies et steppes, profonds et riches en carbone
-    et donc fertiles. Car qui dit plus de carbone dans le sol, dit moins de CO2 dans
-    l'atmosphère, donc un climat qui se refroidit. Les grands herbivores auraient
-    maintenus ces sols en équilibre en évitant une évolution vers la forêt. Le bilan
-    environnemental catastrophique actuel de l'élevage vient clairement de la gestion
-    de l'homme et non des espèces elles-mêmes. De fait, les animaux que l'on élève
-    sont les descendants d'animaux qui ont participé à la construction des sols les
-    plus fertiles qui soient.
+    le miocène. Ils ont connu un succès évolutif, c'est à dire qu'ils ont progressivement
+    occupé des habitats nombreux et différents, avec un nombre important d'espèces.
+    Leur extension est corrélée avec un refroidissement de la température moyenne
+    de 5°C, qui a eu lieu entre le milieu du Miocène et la fin du Pliocène, avant
+    que ne surviennent des cycles de glaciation - déglaciation. Une cause avancée
+    pour ce refroidissement est le développement de sols de prairies et steppes, profonds
+    et riches en carbone et donc fertiles. Car qui dit plus de carbone dans le sol,
+    dit moins de CO2 dans l'atmosphère, donc un climat qui se refroidit. Les grands
+    herbivores auraient maintenu ces sols en équilibre en évitant une évolution vers
+    la forêt. Le bilan environnemental catastrophique actuel de l'élevage vient clairement
+    de la gestion de l'homme et non des espèces elles-mêmes. De fait, les animaux
+    que l'on élève sont les descendants d'animaux qui ont participé à la construction
+    des sols les plus fertiles qui soient.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44154,7 +44163,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-25'
+  updated: '2023-02-25'
 - id: 1088
   text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
     plus émetteur en gaz à effet de serre ?
@@ -44418,18 +44427,21 @@
   answer_choice_a: le travail du sol, et notamment le labour
   answer_choice_b: la salinisation des sols par irrigation mal contrôlée
   answer_choice_c: une sécheresse prolongée
-  answer_choice_d: un pâturage mal adapté
+  answer_choice_d: un sur-pâturage
   answer_correct: abd
   has_ordered_answers: true
   answer_explanation: "Les 3 causes majeurs de dégradation des sols sont:\r\n1) Le\
-    \ labour rends compacte les sols et les rends sensibles à l’érosion, tout en massacrant\
-    \ une forte partie de la faune du sol.\r\n2) L’usage d’eau même très peu salée\
-    \ pour l’irrigation peut former une couche salée en surface qui rends le sol impropre\
-    \ aux plantes.\r\n3) Le surpâturage, c’est à dire un pâturage où les animaux broutent\
-    \ les herbes sur un cycle trop court pour permettre aux herbes de faire des réserves,\
-    \ est une cause majeure de désertification.\r\n\r\nPasser de ces pratiques destructives\
-    \ à des pratiques régénérant les sols est ce que l’on appelle l’agriculture de\
-    \ régénération de sols."
+    \ labour rends compacte les sols et les rends sensibles à l’érosion, tout en détruisant\
+    \ une importante partie de la faune du sol.\r\n2) L’usage d’eau même très peu\
+    \ salée pour l’irrigation peut former une couche salée en surface qui rends le\
+    \ sol impropre aux plantes. Ceci arrive fréquemment quand l'eau d'irrigation est\
+    \ puisée dans un aquifère salé. Ces aquifères qui se retrouvent dans les sous-sols\
+    \ proches des littoraux, mais aussi dans les niveaux profonds des aquifères des\
+    \ sous-sols sédimentaires \r\n3) Le surpâturage, c’est à dire un pâturage où les\
+    \ animaux broutent les herbes sur un cycle trop court pour permettre aux herbes\
+    \ de faire des réserves, est une cause majeure de désertification.\r\nPasser de\
+    \ ces pratiques destructives à des pratiques régénérant les sols est ce que l’on\
+    \ appelle l’agriculture de régénération de sols."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44451,7 +44463,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-12-22'
-  updated: '2023-01-20'
+  updated: '2023-02-25'
 - id: 1094
   text: Comment définit-on une sécheresse agricole ?
   hint: ''
@@ -46568,8 +46580,8 @@
   answer_extra_info: ''
   author: 73
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2023-02-25'
   created: '2023-02-24'
-  updated: '2023-02-24'
+  updated: '2023-02-25'
