@@ -283,6 +283,6 @@
 - id: 73
   first_name: Francine
   last_name: Reuter
-  question_count: 0
+  question_count: 1
   quiz_count: 0
   created: '2023-02-22'
