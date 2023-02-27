@@ -2336,11 +2336,11 @@
     la complexité, le contexte local prime sur le général. Une meilleure gestion des
     sols, en particulier agricoles, ne peut pas s'affranchir des contextes climatique
     et socio-économique. En ceci, l'expérience qu'a l'agriculteur de ses sol est irremplacable
-    dans la mise en place de pratiques agricoles vertueuses, avec comme buts de protéger
-    et même régénérer les sols tout en préservant la capacité nourricière de l'agriculture.
+    dans la mise en place de pratiques agricoles vertueuses, avec comme buts de protéger,
+    et même de régénérer les sols tout en préservant la capacité nourricière de l'agriculture.
     L'agricuture fait partie des problèmes, mais aussi des solutions si l'on remet
     la science des sols au coeur des décisions agronomiques. Comment construire une
-    économie prenans en compte ce constat, afin de donner aux agriculteurs les moyens
+    économie prenant en compte ce constat, afin de donner aux agriculteurs les moyens
     de répondre aux grandes crises environnementales de notre temps ?</p>
   questions:
   - 1033
@@ -2371,7 +2371,7 @@
   publish_date: '2023-01-20'
   spotlight: true
   created: '2022-11-25'
-  updated: '2023-01-25'
+  updated: '2023-02-25'
 - id: 91
   name: Un bestiaire de l'Anthropocène
   slug: un-bestiaire-de-lanthropocene
