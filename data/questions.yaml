@@ -41980,7 +41980,7 @@
   created: '2022-06-19'
   updated: '2022-08-17'
 - id: 1039
-  text: What happens to CO2 once it has been release by human activities?
+  text: What happens to CO2 once it has been released in the atmosphere by human activities?
   hint: ''
   type: QCM-RM
   category: 1
@@ -42019,7 +42019,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-23'
+  updated: '2023-03-01'
 - id: 1040
   text: The ocean acidification is a consequence of...
   hint: ''
@@ -42060,8 +42060,8 @@
   created: '2022-06-19'
   updated: '2022-07-23'
 - id: 1041
-  text: Among the following phenomena, which one do NOT result in a increase of sea
-    level?
+  text: Among the following phenomena, which one does NOT result in a increase of
+    sea level?
   hint: ''
   type: QCM
   category: 1
@@ -42104,7 +42104,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-07-07'
+  updated: '2023-03-01'
 - id: 1042
   text: In the lack of human response, how much will the sea level rise by 2100 relative
     to 1850?
