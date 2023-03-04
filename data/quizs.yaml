@@ -121,7 +121,7 @@
   name: Les pics de ressources
   slug: les-pics-de-ressources
   introduction: <p>L'extraction de toute ressource finie passe par un maximum, après
-    lequel elle ne peut que décroître pour finalement tomber s'épuiqer. C'est le thème
+    lequel elle ne peut que décroître pour finalement tomber s'épuiser. C'est le thème
     qu'explore ce quiz sur les différentes ressources non-renouvelables dont nous
     faisons usage.</p>
   conclusion: ''
@@ -148,7 +148,7 @@
   publish_date: '2020-07-18'
   spotlight: false
   created: '2020-07-08'
-  updated: '2022-07-19'
+  updated: '2023-03-03'
 - id: 5
   name: Mon empreinte carbone
   slug: mon-empreinte-carbone
@@ -2678,17 +2678,15 @@
   created: '2023-02-16'
   updated: '2023-02-21'
 - id: 99
-  name: franci.reuter
+  name: L'affresco del Clima Junior spiegato alla mia fami
   slug: francireuter
-  introduction: "<p>Quiz: L'affresco del Clima Junior spiegato alla mia famiglia </p>\r\
-    \n\r\n<p> Questo quiz è rivolto principalmente a i ragazzi e le ragazze che hanno\
-    \ già partecipato ad un laboratorio dell'Affresco del Clima.<br />\r\nHai appena\
-    \ partecipato ad un Affresco Junior e ti piacerebbe condividere quest'esperienza\
+  introduction: "<p>Questo quiz è rivolto principalmente a i ragazzi e le ragazze\
+    \ che hanno già partecipato ad un laboratorio dell'Affresco del Clima.<br />\r\
+    \nHai appena partecipato ad un Affresco Junior e ti piacerebbe condividere quest'esperienza\
     \ con la tua famiglia? Ecco un piccolo quiz che potresti proporre loro. Le domande\
     \ sono basate sulle carte del gioco. A te l'onore di mettere alla prova le loro\
-    \ conoscenze! </p>\r\n\r\n<p>9 domande                   Autrice: Christine Cavazza \
-    \  traduttrice: Francine Reuter          Clima - CO2 - Effetto serra</p>\r\n\r\
-    \n<p>Per iniziare il Quiz</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>"
+    \ conoscenze! </p>\r\n\r\n<p>Autrice: Christine Cavazza   traduttrice: Francine\
+    \ Reuter</p>\r\n\r\n<p> </p>"
   conclusion: ''
   questions:
   - 1140
@@ -2708,4 +2706,4 @@
   publish_date: null
   spotlight: false
   created: '2023-02-22'
-  updated: '2023-02-23'
+  updated: '2023-03-03'
