@@ -16,15 +16,15 @@ quiz_per_language_count:
   total: 5
 - language: ITALIAN
   total: 1
-question_answer_count: 416785
-quiz_answer_count: 33555
-question_answer_count_last_30_days: 31729
-quiz_answer_count_last_30_days: 2451
+question_answer_count: 422741
+quiz_answer_count: 34000
+question_answer_count_last_30_days: 27385
+quiz_answer_count_last_30_days: 2082
 category_count: 8
 tag_count: 242
-question_feedback_count: 5962
-quiz_feedback_count: 1032
-contribution_count: 851
-question_feedback_count_last_30_days: 475
-quiz_feedback_count_last_30_days: 96
-contribution_count_last_30_days: 71
+question_feedback_count: 5989
+quiz_feedback_count: 1038
+contribution_count: 856
+question_feedback_count_last_30_days: 326
+quiz_feedback_count_last_30_days: 58
+contribution_count_last_30_days: 42
