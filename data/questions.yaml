@@ -41739,9 +41739,9 @@
   difficulty: 3
   language: FRENCH
   answer_choice_a: les sols de forêts
-  answer_choice_b: les prairies d'élevage
-  answer_choice_c: les champs de céréales
-  answer_choice_d: les vergers et les vignes
+  answer_choice_b: les sols des prairies
+  answer_choice_c: les sols des champs de céréales
+  answer_choice_d: les sols des vergers et les vignes
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: "Plus exactement, ce sont les prairies permanentes pâturées\
@@ -41751,7 +41751,12 @@
     \ matières organiques aérienne via les déjections des herbivores.\r\n3) les herbes\
     \ nourrissent le sol principalement par leurs racines, ce qui permet d’augmenter\
     \ le taux de matière organique sur toute la profondeur du système racinaire, jusqu’à\
-    \ 2m de profondeur, et de former des sols épais, riches en matière organique."
+    \ 2m de profondeur, et de former des sols épais, riches en matière organique.\r\
+    \n\r\nOn notera que la matière organique contenue dans la biomasse \"sur-pied\"\
+    \ peut être une part importante du stock de carbone lié à un usage des sols. C'est\
+    \ bien évidement le cas des forêts. Comme pour les sols, ce second stock de carbone\
+    \ sera dépendant de la gestion humaine ainsi que des extrêmes naturels (feux,\
+    \ tempêtes...)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -41777,7 +41782,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-06-15'
-  updated: '2023-01-21'
+  updated: '2023-03-07'
 - id: 1034
   text: In their last report issued in 2021, how do IPCC scientists estimate the likeliness
     that the current climate change is caused by human activities?
