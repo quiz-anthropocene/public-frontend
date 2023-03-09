@@ -35743,11 +35743,11 @@
   answer_explanation: "Selon l'ONU, à l'horizon 2025, entre la moitié et les deux\
     \ tiers de l’humanité – soit entre 4 et 5,3 milliards d’humains – devraient être\
     \ en situation dite de stress hydrique. Et selon une étude scientifique récente\
-    \ : \n- 80% de la population mondiale est exposée à des risques de pénurie ;\n\
-    - en 2030, 40% de la demande mondiale en eau ne sera pas couverte ;\n- en 2040,\
-    \ 1 pays sur 5 dans le monde devra faire face à de sévères pénuries d’eau.  le\
-    \ Moyen-Orient sera la région la plus touchée : 14 des 33 pays qui sont les plus\
-    \ exposés au monde se trouvent dans cette zone du globe."
+    \ : \r\n- 80% de la population mondiale est exposée à des risques de pénurie ;\r\
+    \n- en 2030, 40% de la demande mondiale en eau ne sera pas couverte ;\r\n- en\
+    \ 2040, 1 pays sur 5 dans le monde devra faire face à de sévères pénuries d’eau.\
+    \  le Moyen-Orient sera la région la plus touchée : 14 des 33 pays qui sont les\
+    \ plus exposés au monde se trouvent dans cette zone du globe."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -35757,7 +35757,7 @@
   answer_source_scientific_url: https://www.nature.com/articles/nature09440
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8247a4f6.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 17
@@ -35766,7 +35766,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-04-16'
+  updated: '2023-03-08'
 - id: 866
   text: Quelle est la part des énergies renouvelables (hors hydroélectricité) dans
     le mix énergétique mondial en 2020 ?
@@ -39868,8 +39868,8 @@
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 1 bombe d'Hiroshima par minute
-  answer_choice_b: Dès 1,5°C
+  answer_choice_a: a
+  answer_choice_b: b
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: a
@@ -39893,7 +39893,7 @@
   validator: null
   validation_date: null
   created: '2021-05-03'
-  updated: '2023-02-09'
+  updated: '2023-03-08'
 - id: 964
   text: 'Une prise accessoire, c''est un animal marin qui est tué et rejeté par dessus
     bord. Pour une crevette pêchée, combien de prises accessoires ? '
