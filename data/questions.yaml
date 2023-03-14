@@ -43242,11 +43242,11 @@
   answer_extra_info: Nous avons un quiz spécifique sur le sujet depuis
   author: 65
   visibility: PUBLIC
-  validation_status: REMOVED
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2023-02-13'
+  updated: '2023-03-13'
 - id: 1067
   text: Quel est le pourcentage des trajets domicile-travail qui sont réalisés en
     voiture en France ?
