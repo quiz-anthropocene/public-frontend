@@ -23485,8 +23485,9 @@
   created: '2020-09-14'
   updated: '2023-02-13'
 - id: 582
-  text: 'Imaginez : vous enfourchez un vélo muni d''une dynamo qui alimente un grille-pain
-    d''une puissance de 700W. Arriverez-vous à faire griller une tartine de pain ?'
+  text: 'Vous enfourchez un vélo muni d''une dynamo. Votre mission : faire griller
+    une tartine dans un grille-pain qui requiert une puissance de 700W pendant 3 min.
+    A votre portée ?'
   hint: ''
   type: VF
   category: 2
@@ -23525,7 +23526,7 @@
   validator: 1
   validation_date: '2020-09-25'
   created: '2020-09-18'
-  updated: '2023-02-10'
+  updated: '2023-03-16'
 - id: 583
   text: 'La population mondiale a été multipliée par 8 en :'
   hint: ''
@@ -42914,7 +42915,7 @@
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=U9xoi7RSOwo
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
+  answer_source_accessible_url: https://positivr.fr/parcours-jean-jamy-emission-pour-la-terre/
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -42928,7 +42929,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2023-02-13'
+  updated: '2023-03-16'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
