@@ -23485,8 +23485,9 @@
   created: '2020-09-14'
   updated: '2023-02-13'
 - id: 582
-  text: 'Imaginez : vous enfourchez un vélo muni d''une dynamo qui alimente un grille-pain
-    d''une puissance de 700W. Arriverez-vous à faire griller une tartine de pain ?'
+  text: 'Vous enfourchez un vélo muni d''une dynamo. Votre mission : faire griller
+    une tartine dans un grille-pain qui requiert une puissance de 700W pendant 3 min.
+    A votre portée ?'
   hint: ''
   type: VF
   category: 2
@@ -23525,7 +23526,7 @@
   validator: 1
   validation_date: '2020-09-25'
   created: '2020-09-18'
-  updated: '2023-02-10'
+  updated: '2023-03-16'
 - id: 583
   text: 'La population mondiale a été multipliée par 8 en :'
   hint: ''
@@ -42891,7 +42892,7 @@
   - 37
   - 72
   - 105
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
   answer_choice_a: 30 litres d'eau et 1000 km pour un jean
   answer_choice_b: 5 000 litres d’eau et 30 000 km pour un jean
@@ -42913,14 +42914,15 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=U9xoi7RSOwo
-  answer_video_url_text: ''
+  answer_video_url_text: Jamy retrace l'itineraire d'un jean
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://books.google.fr/books?hl=en&lr=lang_en%7Clang_fr&id=_g8TDgAAQBAJ&oi=fnd&pg=PP1&dq=impact+environnemental+denim&ots=hsucBPEB2J&sig=0-uuDrpbvE0oRF6K4hJZCiw9fH0&redir_esc=y#v=onepage&q&f=false
+  answer_source_scientific_url_text: Sustainability in Denim (en anglais)
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f771be4d.jpg
+  answer_image_url_text: "Pour faire un jean il faut: \r\n(Source : Comprendre Pour\
+    \ Agir)"
   answer_extra_info: il y a deux questions en une
   author: 65
   visibility: PUBLIC
@@ -42928,7 +42930,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2023-02-13'
+  updated: '2023-03-17'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
