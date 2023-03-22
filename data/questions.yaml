@@ -31281,8 +31281,8 @@
   updated: '2022-04-16'
 - id: 760
   text: 'L''humanité utilise en une année une masse de matière considérable : 3 milliards
-    de tonnes de fer par an par exemple. Et par rapport au fer, qu''en est-il de ces
-    autres matériaux ? Choisissez les affirmations correctes. '
+    de tonnes de fonte ou acier par an par exemple. Comment ce chiffre se compare-t-il
+    à la consommation de ces autres matériaux ? Choisissez les affirmations correctes.'
   hint: ''
   type: QCM-RM
   category: 2
@@ -31294,23 +31294,22 @@
   difficulty: 3
   language: FRENCH
   answer_choice_a: 'sable : 10 fois plus'
-  answer_choice_b: 'Eau douce : 1000 fois plus '
+  answer_choice_b: 'Eau douce : 1000 fois plus'
   answer_choice_c: 'Aluminium : 2 fois moins'
   answer_choice_d: 'Ciment : à peu près autant'
   answer_correct: abd
   has_ordered_answers: false
-  answer_explanation: 'Si l''on compte en milliards de tonnes par an, l''eau douce
-    exploitée pointe à 4,000, le sable à 41, le gravier 9, le ciment 4. Et ''seulement''
-    60 millions de tonnes d''aluminium. Pour 1 tonne de fer, on consomme donc quasiment
-    autant de ciment, 10 fois plus de sable et 1000 fois plus d''eau douce. '
+  answer_explanation: Si l'on compte en milliards de tonnes par an, l'eau douce exploitée
+    pointe à 4,000, le sable à 41, le gravier 9, le ciment 4. Et 'seulement' 60 millions
+    de tonnes d'aluminium. Pour 1 tonne de fonte ou acier, on consomme donc quasiment
+    autant de ciment, 10 fois plus de sable et 1000 fois plus d'eau douce.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.oecd.org/fr/environnement/l-utilisation-de-matieres-premieres-devrait-doubler-d-ici-2060-ce-qui-aura-de-graves-repercussions-sur-l-environnement.htm
-  answer_source_accessible_url_text: "Lâ\x80\x99utilisation de matiÃ¨res premiÃ¨res\
-    \ devrait doubler dâ\x80\x99ici 2060, ce qui aura de graves rÃ©percussions sur\
-    \ lâ\x80\x99environnement - OCDE"
+  answer_source_accessible_url_text: L'utilisation de matières premières devrait doubler
+    d'ici 2060, ce qui aura de graves répercussions sur l'environnement - OCDE
   answer_source_scientific_url: https://www.visualcapitalist.com/all-the-worlds-metals-and-minerals-in-one-visualization/
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -31323,7 +31322,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2022-04-16'
+  updated: '2023-03-21'
 - id: 761
   text: Entre 2005 et 2020, le volume de données totales généré chaque année par l'ensemble
     des appareils dans le monde a été multiplié d'un facteur de l'ordre de...
