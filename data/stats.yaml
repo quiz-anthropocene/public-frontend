@@ -16,10 +16,10 @@ quiz_per_language_count:
   total: 5
 - language: ITALIAN
   total: 1
-question_answer_count: 432034
-quiz_answer_count: 34687
-question_answer_count_last_30_days: 17762
-quiz_answer_count_last_30_days: 1305
+question_answer_count: 432509
+quiz_answer_count: 34723
+question_answer_count_last_30_days: 18237
+quiz_answer_count_last_30_days: 1341
 category_count: 8
 tag_count: 242
 question_feedback_count: 6035
