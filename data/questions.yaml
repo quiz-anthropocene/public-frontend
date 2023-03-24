@@ -30450,8 +30450,8 @@
   created: '2021-01-06'
   updated: '2022-04-16'
 - id: 742
-  text: Quelles seraient les économies en matériaux si on décidait d'uniformiser la
-    couleur des contenants en verre ?
+  text: Si on décidait d'uniformiser la couleur des contenants en verre, quelles économies
+    en découleraient ?
   hint: ''
   type: QCM
   category: 5
@@ -30460,7 +30460,7 @@
   - 260
   difficulty: 2
   language: FRENCH
-  answer_choice_a: négligeable par rapport à d'autres usages
+  answer_choice_a: négligeables par rapport à d'autres usages
   answer_choice_b: 10 à 20% de la consommation de sélénium, 8% des lanthanides, qui
     sont des matériaux critiques
   answer_choice_c: moitié moins de silicium consommé, 20% d'épuisement du sable en
@@ -30469,16 +30469,17 @@
     brome
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Les pigments colorés dans les verres sont souvent réalisé grâce
-    à des métaux critiques, comme les platinoïdes, les lanthanides, le sélénium etc.
-    Arrêter la coloration à des fins esthétiques permettrait de limiter l''usage dispersifs
-    de ces métaux. Toutefois, il est à noter que plusieurs colorations sont obtenues
-    par défaut lors de la fabrication du verre (bleuté voire vert lorsque le matériau
-    est ferrugineux), c''est donc parfois l''incolore qui demande le plus de traitement,
-    et qu''une couleur foncée peut servir à protéger de la lumière comme pour le vin
-    : enlever les additifs des verres signifierait seulement moins de diversités de
-    couleurs. Pour aller plus loin, on pourrait aussi décider standardiser les tailles
-    et formats des contenants et de les consigner.'
+  answer_explanation: 'C''est en standardisant vers une certaine couleur que l''on
+    obtiendrait ces économies. Les pigments colorés dans les verres sont souvent réalisé
+    grâce à des métaux critiques, comme les platinoïdes, les lanthanides, le sélénium
+    etc. ; arrêter la coloration à des fins esthétiques permettrait de limiter l''usage
+    dispersifs de ces métaux. Toutefois, il est à noter que plusieurs colorations
+    sont obtenues par défaut lors de la fabrication du verre (bleuté voire vert lorsque
+    le matériau est ferrugineux), c''est donc parfois l''incolore qui demande le plus
+    de traitement. Une couleur foncée peut en outre servir à protéger de la lumière
+    comme pour le vin : enlever les additifs des verres signifierait seulement moins
+    de diversités de couleurs. Pour aller plus loin, on pourrait aussi décider standardiser
+    les tailles et formats des contenants et de les consigner.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30497,7 +30498,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-03-23'
 - id: 743
   text: Un ménage français jette en moyenne 250kg par an de déchets à la poubelle
     générale (grise), qui sont souvent délicats à traiter car mélangés. Quelle part
