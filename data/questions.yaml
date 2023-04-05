@@ -34858,7 +34858,7 @@
   has_ordered_answers: true
   answer_explanation: "La consommation d’énergie due au numérique est en augmentation\
     \ de 9 % par an. Si nous continuons à ce rythme, elle sera trois fois plus importante\
-    \ en 2025 qu’en 2005. \nNotez que l’empreinte énergétique directe du numérique\
+    \ en 2025 qu’en 2005. \r\nNotez que l’empreinte énergétique directe du numérique\
     \ inclut l’énergie de fabrication et d’utilisation des équipements (serveurs,\
     \ réseaux, terminaux)."
   answer_audio_url: ''
@@ -34870,7 +34870,7 @@
   answer_source_scientific_url: https://theshiftproject.org/wp-content/uploads/2020/01/2020-01.pdf
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000845-c9c6.ppm
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/839c7625.png
   answer_image_url_text: 'Évolution 2013-2025 de la consommation énergétique du Numérique
     en TWh Source : [Lean ICT Materials] Forecast Model. Les couleurs correspondent
     à différents scénarios'
@@ -34881,7 +34881,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-04'
 - id: 846
   text: Quelle quantité de matières premières faut-il pour fabriquer une puce électronique
     de 2 grammes ?
@@ -35067,15 +35067,14 @@
   answer_choice_d: 150 g CO2e
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Selon l''organisation Carbon Literacy Project, un courriel
-    standard génère environ 4 g de CO2 équivalent...mais 306 milliards de courriels
-    de ce type circulent au quotidien (2020), 11 690 milliards courriels par an, c''est
-    donc au total 1,2 Mt CO2e /jour et 450 Mt CO2e par an ! Mais un courriel avec
-    une pièce jointe volumineuse produit jusqu''à 50 g de CO2. Multiplié par le nombre
-    de destinataires, le cas échéant.
-
-    En moyenne, un Français reçoit 39 mails par jour, ce qui émet autant de CO2e que
-    la fabrication d''une baguette de pain, s''il sont sans pièces jointes. '
+  answer_explanation: "Selon l'organisation Carbon Literacy Project, un courriel standard\
+    \ génère environ 4 g de CO2 équivalent...mais 306 milliards de courriels de ce\
+    \ type circulent au quotidien (2020), 11 690 milliards courriels par an, c'est\
+    \ donc au total 1,2 Mt CO2e /jour et 450 Mt CO2e par an ! Mais un courriel avec\
+    \ une pièce jointe volumineuse produit jusqu'à 50 g de CO2. Multiplié par le nombre\
+    \ de destinataires, le cas échéant.\r\nEn moyenne, un Français reçoit 39 mails\
+    \ par jour, ce qui émet autant de CO2e que la fabrication d'une baguette de pain,\
+    \ s'il sont sans pièces jointes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -35085,7 +35084,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000850-5f4e.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a152a42d.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 14
@@ -35094,7 +35093,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-04'
 - id: 851
   text: Quelles est la distance moyenne parcourue par une donnée numérique (email,
     téléchargement, vidéo, requête web,…) ?
