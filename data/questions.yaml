@@ -34858,7 +34858,7 @@
   has_ordered_answers: true
   answer_explanation: "La consommation d’énergie due au numérique est en augmentation\
     \ de 9 % par an. Si nous continuons à ce rythme, elle sera trois fois plus importante\
-    \ en 2025 qu’en 2005. \nNotez que l’empreinte énergétique directe du numérique\
+    \ en 2025 qu’en 2005. \r\nNotez que l’empreinte énergétique directe du numérique\
     \ inclut l’énergie de fabrication et d’utilisation des équipements (serveurs,\
     \ réseaux, terminaux)."
   answer_audio_url: ''
@@ -34870,7 +34870,7 @@
   answer_source_scientific_url: https://theshiftproject.org/wp-content/uploads/2020/01/2020-01.pdf
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000845-c9c6.ppm
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/839c7625.png
   answer_image_url_text: 'Évolution 2013-2025 de la consommation énergétique du Numérique
     en TWh Source : [Lean ICT Materials] Forecast Model. Les couleurs correspondent
     à différents scénarios'
@@ -34881,7 +34881,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-04'
 - id: 846
   text: Quelle quantité de matières premières faut-il pour fabriquer une puce électronique
     de 2 grammes ?
@@ -34895,20 +34895,19 @@
   answer_choice_a: 500 g
   answer_choice_b: 1,2 kg
   answer_choice_c: 14 kg
-  answer_choice_d: 32 kg
+  answer_choice_d: 34 kg
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'La fabrication d''une puce électronique requiert 32 kg - en
-    grande majorité de l''eau, des combustibles fossiles, des intrants chimiques et
-    un gaz élémentaire (azote notamment). 32 kg, c''est 16,000 fois le poids final
-    de la puce fabriquée. '
+  answer_explanation: La fabrication d'une puce électronique de 32Mo requiert plus
+    de 34 kg - en grande majorité de l'eau (32kg), des combustibles fossiles secondaires
+    (1,6kg), des intrants chimiques (0,072kg) et des gaz élémentaires, azote notamment
+    pour 0.7kg. 34 kg, c'est 17,000 fois le poids final de la puce fabriquée.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.greenit.fr/2020/05/26/500-fois-son-poids-en-matiere-premiere/
-  answer_source_accessible_url_text: 500 fois son poids en matière première - Green
-    IT
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: 17 000 fois son poids en matière première !
   answer_source_scientific_url: https://pubs.acs.org/doi/abs/10.1021/es025643o
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -34921,7 +34920,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-05'
 - id: 847
   text: L'eau bleue, c'est l’eau issue des précipitations qui est disponible pour
     l’alimentation des animaux et, après traitement, pour les usages domestiques humains.
@@ -34964,9 +34963,9 @@
   created: '2021-01-26'
   updated: '2022-04-16'
 - id: 848
-  text: Parmi ces facteurs qui jouent sur l'empreinte carbone du numérique mondial
-    dans les cinq années à venir, lequel les experts s'attendent-ils à voir grossir
-    le plus vite ?
+  text: Parmi ces facteurs qui jouent sur l'empreinte environnementale du numérique
+    mondial dans les cinq années à venir, lequel les experts s'attendent-ils à voir
+    grossir le plus vite ?
   hint: ''
   type: QCM
   category: 2
@@ -34986,9 +34985,9 @@
     \ (montres, domotique, automobiles, appareils médicaux, drones...). La croissance\
     \ est exponentielle avec une multiplication par 48 entre 2010 et sa projection\
     \ en 2025. C'est le domaine de l'internet des objets. On passerait d'1 milliard\
-    \ (1% des impacts) à 48 milliards (18 à 23% des impacts) d'objets connectés. \n\
-    Les autres réponses proposées ont une croissance prévue sans aucune mesure. C'est\
-    \ un facteur 2,5 pour le nombre d'utilisateurs, 3 pour la masse. En revanche,\
+    \ (1% des impacts) à 48 milliards (18 à 23% des impacts) d'objets connectés. \r\
+    \nLes autres réponses proposées ont une croissance prévue sans aucune mesure.\
+    \ C'est un facteur 2,5 pour le nombre d'utilisateurs, 3 pour la masse. En revanche,\
     \ le taux d'équipement par utilisateur va aller à la baisse (de 7 à 3,5) car le\
     \ nombre d'utilisateurs augmente plus vite que le nombre d'équipements vendus\
     \ plutôt aux pays émergents au pouvoir d'achat moindre (saturation des pays développés)."
@@ -35011,7 +35010,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-05'
 - id: 849
   text: Combien de courriels ont été  envoyés en moyenne chaque jour en 2020 dans
     le monde ?
@@ -35067,25 +35066,24 @@
   answer_choice_d: 150 g CO2e
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Selon l''organisation Carbon Literacy Project, un courriel
-    standard génère environ 4 g de CO2 équivalent...mais 306 milliards de courriels
-    de ce type circulent au quotidien (2020), 11 690 milliards courriels par an, c''est
-    donc au total 1,2 Mt CO2e /jour et 450 Mt CO2e par an ! Mais un courriel avec
-    une pièce jointe volumineuse produit jusqu''à 50 g de CO2. Multiplié par le nombre
-    de destinataires, le cas échéant.
-
-    En moyenne, un Français reçoit 39 mails par jour, ce qui émet autant de CO2e que
-    la fabrication d''une baguette de pain, s''il sont sans pièces jointes. '
+  answer_explanation: "Selon l'organisation Carbon Literacy Project, un courriel standard\
+    \ génère environ 4 g de CO2 équivalent...mais 306 milliards de courriels de ce\
+    \ type circulent au quotidien (2020), 11 690 milliards courriels par an, c'est\
+    \ donc au total 1,2 Mt CO2e /jour et 450 Mt CO2e par an ! Mais un courriel avec\
+    \ une pièce jointe volumineuse (>2Mo) produit jusqu'à 50 g de CO2. Multiplié par\
+    \ le nombre de destinataires, le cas échéant.\r\nEn moyenne, un Français reçoit\
+    \ 39 mails par jour, ce qui émet autant de CO2e que la fabrication d'une baguette\
+    \ de pain, s'il sont sans pièces jointes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.futura-sciences.com/planete/questions-reponses/eco-consommation-empreinte-carbone-e-mail-10840/
+  answer_source_accessible_url: https://www.hellocarbo.com/blog/calculer/empreinte-carbone-mail/
   answer_source_accessible_url_text: Quelle est l'empreinte carbone d'un e-mail ?
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000850-5f4e.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a152a42d.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 14
@@ -35094,7 +35092,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-05'
 - id: 851
   text: Quelles est la distance moyenne parcourue par une donnée numérique (email,
     téléchargement, vidéo, requête web,…) ?
@@ -35145,13 +35143,13 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: Entre 270 et 670 milliers de tonnes de CO2e supplémentaires, soit
-    les émissions de 1,5 à 4 millions de passagers faisant un Paris - New York aller-retour
+    les émissions de 150 à 370 milliers de passagers faisant un Paris - New York aller-retour
   answer_choice_b: Entre 2,7 et 6,7 millions de tonnes CO2e supplémentaires, soit
-    les émissions de 15 à 37 millions de passagers faisant Paris - New York aller-retour
+    les émissions de 1,5 à 3,7 millions de passagers faisant Paris - New York aller-retour
   answer_choice_c: Entre 27 et 67 millions de tonnes de CO2e supplémentaires, soit
-    les émissions de 150 à 370 millions de passagers faisant Paris - New York aller-retour
+    les émissions de 15 à 37 millions de passagers faisant Paris - New York aller-retour
   answer_choice_d: Une baisse de  2,7 à 6,7 millions de tonnes de CO2e, soit les émissions
-    de 1,5 à 4 millions de passagers faisant Paris - New York aller-retour économisées.
+    de 1,5 à 3,7 millions de passagers faisant Paris - New York aller-retour économisées.
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'C''est la fourchette donnée par le Haut Conseil pour le Climat.
@@ -35178,7 +35176,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-04-05'
 - id: 853
   text: Le Haut Conseil pour le Climat a livré une étude sur l’impact de la 5G. Quel
     est le plus fort impact attendu qu’ils pointent du doigt ?
