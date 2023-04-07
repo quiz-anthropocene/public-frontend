@@ -34892,7 +34892,7 @@
   - 30
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 500 g
+  answer_choice_a: 0,5 kg
   answer_choice_b: 1,2 kg
   answer_choice_c: 14 kg
   answer_choice_d: 34 kg
@@ -34920,7 +34920,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-05'
+  updated: '2023-04-06'
 - id: 847
   text: L'eau bleue, c'est l’eau issue des précipitations qui est disponible pour
     l’alimentation des animaux et, après traitement, pour les usages domestiques humains.
@@ -34975,7 +34975,7 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: La masse des équipements vendus
-  answer_choice_b: le taux d'équipement par utilisateur
+  answer_choice_b: Le taux d'équipement par utilisateur
   answer_choice_c: Le nombre d'objets connectés
   answer_choice_d: Le nombre d'utilisateurs
   answer_correct: c
@@ -35010,7 +35010,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-05'
+  updated: '2023-04-06'
 - id: 849
   text: Combien de courriels ont été  envoyés en moyenne chaque jour en 2020 dans
     le monde ?
