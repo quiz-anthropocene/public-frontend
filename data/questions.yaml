@@ -1242,7 +1242,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-03-04'
+  updated: '2023-04-12'
 - id: 30
   text: La fonte de la banquise a un impact sur...
   hint: ''
@@ -2961,7 +2961,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-02-05'
+  updated: '2023-04-12'
 - id: 71
   text: A combien s'élève l'empreinte carbone d'un français (2018, en équivalent CO2)
     ?
@@ -16354,7 +16354,7 @@
   validator: 5
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-06-23'
+  updated: '2023-04-12'
 - id: 404
   text: 'A combien de jours de consommation intérieure les stocks stratégiques pétroliers
     correspondent-ils en France ? '
@@ -17395,7 +17395,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2023-02-21'
+  updated: '2023-04-12'
 - id: 429
   text: Quelle est la différence entre un article scientifique et un article de presse
     ?
@@ -35851,7 +35851,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2023-01-20'
+  updated: '2023-04-12'
 - id: 868
   text: Quel est l'impact prévu sur les rendements agricoles d'une augmentation d'un
     degré supplémentaire sur la température mondiale ?
@@ -38624,7 +38624,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2023-04-12'
 - id: 934
   text: De combien la température moyenne sur Terre s'est-elle réchauffée depuis l'ère
     préindustrielle ?
