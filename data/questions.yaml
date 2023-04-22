@@ -4292,7 +4292,7 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 102
-  text: Vrai ou faux ? Un SUV émet plus de gaz à effet de serre qu'un chien de compagnie.
+  text: Vrai ou faux ? Un SUV émet plus de gaz à effet de serre qu'un chien de compagnie
   hint: ''
   type: VF
   category: 1
@@ -4313,7 +4313,7 @@
     de Victoria. Le calcul prend en compte les ingrédients de leur alimentation et
     l'espace nécessaire à leur fabrication. Le résultat est controversé, mais il a
     l'avantage d'attirer l'attention sur les émissions insoupçonnées de nos amis à
-    4 pattes.
+    quatre pattes.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -4334,7 +4334,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-02-07'
+  updated: '2023-04-21'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
