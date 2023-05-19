@@ -31575,7 +31575,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000766-b4f4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0df9376d.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 25
@@ -31584,7 +31584,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-05-16'
 - id: 767
   text: Vrai ou faux ? La fonte de la banquise fait monter le niveau de l'océan.
   hint: ''
