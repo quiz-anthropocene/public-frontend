@@ -31575,7 +31575,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000766-b4f4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0df9376d.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 25
@@ -31584,9 +31584,10 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-05-16'
 - id: 767
-  text: Vrai ou faux ? La fonte de la banquise fait monter le niveau de l'océan.
+  text: Vrai ou faux ? La fonte de la banquise (la glace qui flotte) fait monter le
+    niveau de l'océan.
   hint: ''
   type: VF
   category: 2
@@ -31604,8 +31605,8 @@
   has_ordered_answers: true
   answer_explanation: Et oui, la banquise, qui flotte sur l'eau, ne fait pas monter
     l'eau quand elle fond. Fais donc le test avec un glaçon dans un verre d’eau !
-    La situation est différente avec les calottes glaciaires, qui reposent sur la
-    terre ferme, comme au Groenland.
+    En revanche, si c'est de la glace qui se trouve sur la terre, comme on en trouve
+    au Groenland, cela fait monter le niveau de la mer.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=cs5-KWwmGXU
@@ -31624,7 +31625,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2023-06-07'
 - id: 768
   text: Si l’on prend en compte tout le cycle de vie (construction, utilisation, démantellement),
     quelle est la source d'énergie la moins carbonée, en France ?
@@ -43973,8 +43974,9 @@
   updated: '2023-02-25'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation,
-    notamment, en étant transformés en terres agricoles. En termes d''impact sur le
-    climat, ce changement a représente en cumulé :'
+    notamment, en défrichant et travaillant la terre pour les transformer en terres
+    agricoles. En termes d''impact sur le climat, ce changement a représente en cumulé
+    :'
   hint: ''
   type: QCM
   category: 1
@@ -44017,7 +44019,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-25'
+  updated: '2023-06-19'
 - id: 1085
   text: Quelles sont les principales fonctions de la matière organique pour les sols
     ?
@@ -44166,8 +44168,8 @@
   created: '2022-11-25'
   updated: '2023-02-25'
 - id: 1088
-  text: Pour un kg de pommes produit et acheté à la campagne, quel est le poste le
-    plus émetteur en gaz à effet de serre ?
+  text: Pour 1 kg de pommes produit et acheté à la campagne, quel est en moyenne le
+    poste le plus émetteur en gaz à effet de serre ?
   hint: ''
   type: QCM
   category: 2
@@ -44225,7 +44227,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-25'
+  updated: '2023-06-07'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
