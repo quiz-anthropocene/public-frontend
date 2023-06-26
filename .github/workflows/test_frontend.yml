@@ -5,11 +5,11 @@ on: [push]
 jobs:
   test_frontend:
     runs-on: ubuntu-latest
-    
+
     defaults:
       run:
         working-directory: frontend
-    
+
     steps:
       - name: Cancel previous runs
         uses: styfle/cancel-workflow-action@0.6.0
@@ -38,6 +38,9 @@ jobs:
 
       - name: Install frontend dependencies
         run: yarn install --prefer-offline --frozen-lockfile  # won't update the yarn.lock
+
+      - name: Make sure chromedriver version matches the GitHub Runner's Google Chrome version
+        uses: jamesmortensen/chromedriver-matcher-action@v1
 
       - name: Run ESlint
         run: yarn lint
