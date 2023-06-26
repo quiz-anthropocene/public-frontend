@@ -39,9 +39,6 @@ jobs:
       - name: Install frontend dependencies
         run: yarn install --prefer-offline --frozen-lockfile  # won't update the yarn.lock
 
-      - name: Make sure chromedriver version matches the GitHub Runner's Google Chrome version
-        uses: jamesmortensen/chromedriver-matcher-action@v1
-
       - name: Run ESlint
         run: yarn lint
 
