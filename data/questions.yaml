@@ -35121,8 +35121,8 @@
   answer_source_accessible_url: https://www.transition-europe.eu/fr/news/le-cout-environnemental-du-numerique#:~:text=La%20distance%20moyenne%20parcourue%20par,r%C3%A9duit%20au%20maximum%20leur%20utilisation.
   answer_source_accessible_url_text: Le coût environnemental du numérique | Observatoire
     européen de la Transition
-  answer_source_scientific_url: https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiPosuQ1OX_AhWLVaQEHTxCCDcQFnoECBEQAQ&url=https%3A%2F%2Flibrairie.ademe.fr%2Fcadic%2F6555%2Fguide-en-route-vers-sobriete-numerique.pdf&usg=AOvVaw2i0TJqODN7yV-6nUDI0mCz&opi=89978449
+  answer_source_scientific_url_text: En route vers la sobriété numérique, guide ADEME
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000851-b461.jpeg
   answer_image_url_text: ''
@@ -35133,7 +35133,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2023-06-28'
 - id: 852
   text: Avec l'arrivée de la 5G, quelle évolution le Haut Conseil pour le Climat prévoit-il
     pour l'empreinte carbone du numérique en France en 2030 ?
