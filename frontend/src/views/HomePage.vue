@@ -4,7 +4,6 @@
     <h2 class="text-align-left">
       Des questions-réponses sur notre empreinte sur la planète
     </h2>
-
     <p class="text-align-left">
       Dérèglement du climat, anéantissement du vivant, épuisement des ressources naturelles, artificialisation des espaces naturels…
       Nous voilà entrés dans l’Anthropocène, l’ère de l’humain. L’homme est devenu la plus grande force qui façonne le monde.
