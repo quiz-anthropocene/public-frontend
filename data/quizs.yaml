@@ -2707,3 +2707,42 @@
   spotlight: false
   created: '2023-02-22'
   updated: '2023-03-03'
+- id: 101
+  name: Das Junior Klima Puzzle erklärt meiner Familie
+  slug: das-junior-klima-puzzle-erklart-meiner-familie
+  introduction: "<p>Dieses Quiz ist speziell für Kinde gedacht, die gerade an einem\
+    \ Workshop zum Junior Klima Puzzle teilgenommen haben. Bist du gerade bei einem\
+    \ Junior Klima Puzzle Workshop gewesen und möchtest das, was du gelernt hast,\
+    \ mit deiner Familie teilen? Hier ist ein kleines Quiz, das du ihnen zeigen kannst.\
+    \ Die Fragen basieren auf den Karten des Spiels. Jetzt kannst du ihr Wissen testen!<br\
+    \ />\r\nDanke Delphine Teske für die Ubersetzung.</p>"
+  conclusion: <p>Herzlichen Glückwunsch! Hast du etwas Neues gelernt? Deine nächste
+    Aufgabe ist es, eine Diskussion darüber zu starten, was ihr alle tun könnt, um
+    die Menge an Treibhausgasen zu reduzieren!</p>
+  questions:
+  - 1143
+  - 1144
+  - 1145
+  - 1146
+  - 1147
+  - 1148
+  - 1149
+  - 1150
+  - 1151
+  question_count: 9
+  tags: []
+  difficulty_average: 0.0
+  language: GERMAN
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0a1ae1d1.png
+  has_audio: false
+  authors:
+  - 64
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-07-19'
+  updated: '2023-07-19'
