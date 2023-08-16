@@ -2745,4 +2745,42 @@
   publish_date: null
   spotlight: false
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-07-26'
+- id: 102
+  name: Végétaliser son alimentation, bon pour la santé ?
+  slug: vegetaliser-son-alimentation-bon-pour-la-sante
+  introduction: "<p>Vaste question, sur laquelle on entend tout et son contraire !\
+    \ Ce questionnaire vise à vous permettre de tester vos connaissances en matière\
+    \ d’alimentations végétariennes, et notamment sur leur impact sur la santé et\
+    \ sur les bonnes pratiques pour végétaliser son alimentation.<br />\r\n<br />\r\
+    \nToutes les données utilisées reflètent l’état des connaissances scientifiques\
+    \ actuelles sur le sujet, et les 30 questions ont été relues et validées par plusieurs\
+    \ médecins et professionnels de santé spécialistes des alimentations végétariennes,\
+    \ membres de la Sorbonne Université ou de l’Observatoire National des Alimentations\
+    \ Végétariennes.<br />\r\n<br />\r\nCe travail de synthèse s’inscrit dans le cadre\
+    \ de l’obtention du Diplôme Universitaire Alimentations Végétariennes dispensé\
+    \ par l’université de médecine de la Sorbonne, sur l’année 2023.<br />\r\nIl a\
+    \ été réalisé par Marion Jarillot, consultante en alimentation durable et impact\
+    \ environnemental (<a href=\"mailto:marion.jarillot@gmail.com\" style=\"color:#0563c1;\
+    \ text-decoration:underline\">marion.jarillot@gmail.com</a>).<br />\r\n<br />\r\
+    \n </p>"
+  conclusion: ''
+  questions:
+  - 1152
+  question_count: 1
+  tags: []
+  difficulty_average: 1.0
+  language: FRENCH
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 75
+  visibility: HIDDEN
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-08-15'
+  updated: '2023-08-15'
