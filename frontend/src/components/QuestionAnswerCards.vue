@@ -78,22 +78,22 @@
       <!-- Answer explanation -->
       <div class="row no-gutters text-align-left">
         <div class="col-sm-auto">
-          <p title="Explication">
+          <p :title="$t('messages.explanation')">
             <span>ℹ️&nbsp;</span>
             <span v-html="$options.filters.abbr(questionAnswerExplanationWithLineBreaks, glossaire)"></span>
           </p>
-          <p v-if="question.answer_audio_url" title="Explication au format audio">
+          <p v-if="question.answer_audio_url" :title="$t('messages.explanationAudio')">
             <span>🔈&nbsp;</span>
             <audio controls>
               <source v-bind:src="question.answer_audio_url" type="audio/mpeg">
-              Votre navigateur ne supporte par le HTML5 audio. Voici un <a v-bind:href="question.answer_audio_url">lien pour télécharger le fichier audio</a>.
+              {{ $t('messages.html5NotSupported1') }} <a v-bind:href="question.answer_audio_url">{{ $t('messages.html5NotSupported2') }}</a>.
             </audio>
           </p>
-          <p v-if="question.answer_video_url" title="Explication au format vidéo">
+          <p v-if="question.answer_video_url" :title="$t('messages.explanationVideo')">
             <span>📺&nbsp;</span>
             <video v-if="question.answer_video_url.endsWith('.mp4')" controls height="250" type="video/mp4">
               <source v-bind:src="question.answer_video_url">
-              Votre navigateur ne supporte par le HTML5 vidéo. Voici un <a v-bind:href="question.answer_video_url">lien pour télécharger le fichier vidéo</a>.
+              {{ $t('messages.html5VideoNotSupported1') }} <a v-bind:href="question.answer_video_url">{{ $t('messages.html5VideoNotSupported2') }}</a>.
             </video>
             <!-- <object v-if="!question.answer_video_url.endsWith('.mp4')" :data="question.answer_video_url" height="250"></object> -->
             <a v-bind:href="question.answer_video_url" target="_blank">
@@ -103,28 +103,28 @@
         </div>
       </div>
       <!-- Answer image -->
-      <p v-if="question.answer_image_url" class="answer-image" title="Une image pour illustrer la réponse">
+      <p v-if="question.answer_image_url" class="answer-image" :title="$t('messages.answerPicture')">
         <a v-bind:href="question.answer_image_url" target="_blank" @click="logClick($event, 'answer_image_url')" @contextmenu="logClick($event, 'answer_image_url')">
-          <img v-bind:src="question.answer_image_url" alt="Une image pour illustrer la réponse" />
+          <img v-bind:src="question.answer_image_url" alt="$t('messages.answerPicture')" />
         </a>
       </p>
-      <p v-if="question.answer_image_url_text" class="answer-image-explanation" title="Légende de l'image">{{ $t('messages.imageLegend') }}{{ $t('words.semiColon') }} {{ question.answer_image_url_text }}</p>
+      <p v-if="question.answer_image_url_text" class="answer-image-explanation" :title="$t('messages.imageLegend')">{{ $t('messages.imageLegend') }}{{ $t('words.semiColon') }} {{ question.answer_image_url_text }}</p>
       <!-- Answer links -->
       <div class="row no-gutters text-align-left">
         <div class="col-sm-auto">
-          <p class="answer-link" v-if="question.answer_source_accessible_url" title="Lien accessible pour aller plus loin">
+          <p class="answer-link" v-if="question.answer_source_accessible_url" :title="$t('messages.linkGoFurther')">
             <span>🔗</span>
             <a v-bind:href="question.answer_source_accessible_url" target="_blank" v-bind:title="question.answer_source_accessible_url" @click="logClick($event, 'answer_source_accessible_url')" @contextmenu="logClick($event, 'answer_source_accessible_url')">
               {{ question.answer_source_accessible_url_text ? question.answer_source_accessible_url_text : question.answer_source_accessible_url }}
             </a>
           </p>
-          <p class="answer-link" v-if="question.answer_source_scientific_url" title="Lien scientifique pour creuser la source">
+          <p class="answer-link" v-if="question.answer_source_scientific_url" :title="$t('messages.scientificLinkGoFurther')">
             <span>🔗🧬</span>
             <a v-bind:href="question.answer_source_scientific_url" target="_blank" v-bind:title="question.answer_source_scientific_url" @click="logClick($event, 'answer_source_scientific_url')" @contextmenu="logClick($event, 'answer_source_scientific_url')">
               {{ question.answer_source_scientific_url_text ? question.answer_source_scientific_url_text : question.answer_source_scientific_url }}
             </a>
           </p>
-          <p v-if="question.answer_book_recommendation" title="Un livre pour aller plus loin">
+          <p v-if="question.answer_book_recommendation" title="$t('messages.bookGoFurther')">
             📚&nbsp;{{ question.answer_book_recommendation }}
           </p>
         </div>
@@ -164,9 +164,6 @@ export default {
       answerPicked: null,
       questionSubmitted: false,
       questionSuccess: null,
-      questionSuccessMessageList: (this.$i18n.locale !== 'fr') ? constants.QUESTION_SUCCESS_MESSAGES_EN : constants.QUESTION_SUCCESS_MESSAGES_FR,
-      questionErrorAlmostMessageList: (this.$i18n.locale !== 'fr') ? constants.QUESTION_ERROR_ALMOST_MESSAGES_EN : constants.QUESTION_ERROR_ALMOST_MESSAGES_FR,
-      questionErrorMessageList: (this.$i18n.locale !== 'fr') ? constants.QUESTION_ERROR_MESSAGES_EN : constants.QUESTION_ERROR_MESSAGES_FR,
     };
   },
 
@@ -222,13 +219,18 @@ export default {
       }
       return answersArray;
     },
+    getRandomMessage(type) {
+      const messagesKey = `QUESTION_${type.toUpperCase()}_MESSAGES`;
+      const messages = this.$t(messagesKey);
+      return messages[Math.floor(Math.random() * messages.length)];
+    },
     submitAnswer() {
       // init
       this.questionSubmitted = true;
       const cleanedAnswerPicked = (this.question.type === 'QCM-RM') ? this.answerPicked.slice(0).filter(Boolean).sort().join('') : this.answerPicked;
-      const randomSuccessMessage = this.questionSuccessMessageList[Math.floor(Math.random() * this.questionSuccessMessageList.length)];
-      const randomErrorMessage = this.questionErrorMessageList[Math.floor(Math.random() * this.questionErrorMessageList.length)];
-      const randomErrorAlmostMessage = this.questionErrorAlmostMessageList[Math.floor(Math.random() * this.questionErrorAlmostMessageList.length)];
+      const randomSuccessMessage = this.getRandomMessage('success');
+      const randomErrorMessage = this.getRandomMessage('error');
+      const randomErrorAlmostMessage = this.getRandomMessage('error_almost');
       // validate answer
       this.questionAnswer.success = (cleanedAnswerPicked === this.question.answer_correct);
       this.questionAnswer.message = this.questionAnswer.success ? randomSuccessMessage : ((this.question.type === 'QCM-RM') ? randomErrorAlmostMessage : randomErrorMessage);

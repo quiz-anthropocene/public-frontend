@@ -2,19 +2,13 @@
   <section>
 
     <h2 class="text-align-left">
-      Des questions-réponses sur notre empreinte sur la planète
-    </h2>
+      {{ $t('home.descriptionTtile') }} </h2>
 
     <p class="text-align-left">
-      Dérèglement du climat, anéantissement du vivant, épuisement des ressources naturelles, artificialisation des espaces naturels…
-      Nous voilà entrés dans l’Anthropocène, l’ère de l’humain. L’homme est devenu la plus grande force qui façonne le monde.
-    </p>
+      {{ $t('home.descriptionContext') }} </p>
     <p class="text-align-left">
-      Ce site a vocation à vous en donner un premier aperçu. {{ questionValidatedCount }} questions en ligne, regroupées en {{ quizPublishedCount }} quiz thématiques, avec des explications, des liens fiables pour aller plus loin et des illustrations.
-      Déjà {{ questionAnswerCountFormatted }} questions jouées sur le site.
-    <p class="text-align-left margin-bottom-0">
-      A vous de tester, et faire tourner !
-    </p>
+      {{ $t('home.descriptionSiteInfo', [questionValidatedCount, quizPublishedCount, questionAnswerCountFormatted]) }} </p><p class="text-align-left margin-bottom-0">
+      {{ $t('home.descriptionPlayAndShare') }} </p>
 
     <br />
 
@@ -94,19 +88,18 @@
     <div class="row">
       <div class="col-sm-8 offset-sm-2">
         <h3>
-          Une <i>newsletter</i> pour vous tenir au courant des nouveautés
+          <p v-html="$t('home.newsletter')"></p>
         </h3>
         <p>
-          On vous enverra juste quelques emails dans l'année, pour vous annoncer de nouveaux quizs, des partenariats, etc.
-        </p>
+          {{ $t('home.newsletterInfo') }} </p>
         <form class="row" @submit.prevent="submitNewsletterRegistration" v-if="!newsletterRegistrationLoading && !newsletterRegistrationSuccess && !newsletterRegistrationError">
           <div class="col-sm-8">
             <div class="form-group">
-              <input type="email" id="newsletter_email" class="form-control" placeholder="Votre email" v-model="emailNewsletterRegistration" required />
+              <input type="email" id="newsletter_email" class="form-control" :placeholder="$t('home.email')" v-model="emailNewsletterRegistration" required />
             </div>
           </div>
           <div class="col-sm-4 text-align-left">
-            <button id="newsletter-btn" class="btn btn-primary" type="submit" :disabled="!emailNewsletterRegistration">Je m'inscris !</button>
+            <button id="newsletter-btn" class="btn btn-primary" type="submit" :disabled="!emailNewsletterRegistration">{{ $t('home.register') }}</button>
           </div>
         </form>
         <div v-if="newsletterRegistrationLoading">

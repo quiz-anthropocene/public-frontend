@@ -8,7 +8,7 @@
       <div class="col-md">
         <div class="share-buttons row justify-content-center">
           <div class="share-button">
-            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button share-button" data-size="large" :data-text="twitterDataText" data-related="AnthroQuiz" data-show-count="false">Partager sur Twitter</a>
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button share-button" data-size="large" :data-text="twitterDataText" data-related="AnthroQuiz" data-show-count="false">{{ $t('share.shareTwitter') }}</a>
           </div>
           <div class="share-button">
             <!-- Your share button code -->
@@ -46,8 +46,8 @@ export default {
   name: 'ShareBox',
   data() {
     return {
-      textCopy: 'Copier l\'URL',
-      textCopied: 'URL copiée ✅',
+      textCopy: this.$t('share.textCopy'),
+      textCopied: this.$t('share.textCopied'),
     };
   },
   props: {
