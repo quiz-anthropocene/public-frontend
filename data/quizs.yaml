@@ -2707,3 +2707,80 @@
   spotlight: false
   created: '2023-02-22'
   updated: '2023-03-03'
+- id: 101
+  name: Das Junior Klima Puzzle erklärt meiner Familie
+  slug: das-junior-klima-puzzle-erklart-meiner-familie
+  introduction: "<p>Dieses Quiz ist speziell für Kinde gedacht, die gerade an einem\
+    \ Workshop zum Junior Klima Puzzle teilgenommen haben. Bist du gerade bei einem\
+    \ Junior Klima Puzzle Workshop gewesen und möchtest das, was du gelernt hast,\
+    \ mit deiner Familie teilen? Hier ist ein kleines Quiz, das du ihnen zeigen kannst.\
+    \ Die Fragen basieren auf den Karten des Spiels. Jetzt kannst du ihr Wissen testen!<br\
+    \ />\r\nDanke Delphine Teske für die Ubersetzung.</p>"
+  conclusion: <p>Herzlichen Glückwunsch! Hast du etwas Neues gelernt? Deine nächste
+    Aufgabe ist es, eine Diskussion darüber zu starten, was ihr alle tun könnt, um
+    die Menge an Treibhausgasen zu reduzieren!</p>
+  questions:
+  - 1143
+  - 1144
+  - 1145
+  - 1146
+  - 1147
+  - 1148
+  - 1149
+  - 1150
+  - 1151
+  question_count: 9
+  tags: []
+  difficulty_average: 0.0
+  language: GERMAN
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/0a1ae1d1.png
+  has_audio: false
+  authors:
+  - 64
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-07-19'
+  updated: '2023-07-26'
+- id: 102
+  name: Végétaliser son alimentation, bon pour la santé ?
+  slug: vegetaliser-son-alimentation-bon-pour-la-sante
+  introduction: "<p>Vaste question, sur laquelle on entend tout et son contraire !\
+    \ Ce questionnaire vise à vous permettre de tester vos connaissances en matière\
+    \ d’alimentations végétariennes, et notamment sur leur impact sur la santé et\
+    \ sur les bonnes pratiques pour végétaliser son alimentation.<br />\r\n<br />\r\
+    \nToutes les données utilisées reflètent l’état des connaissances scientifiques\
+    \ actuelles sur le sujet, et les 30 questions ont été relues et validées par plusieurs\
+    \ médecins et professionnels de santé spécialistes des alimentations végétariennes,\
+    \ membres de la Sorbonne Université ou de l’Observatoire National des Alimentations\
+    \ Végétariennes.<br />\r\n<br />\r\nCe travail de synthèse s’inscrit dans le cadre\
+    \ de l’obtention du Diplôme Universitaire Alimentations Végétariennes dispensé\
+    \ par l’université de médecine de la Sorbonne, sur l’année 2023.<br />\r\nIl a\
+    \ été réalisé par Marion Jarillot, consultante en alimentation durable et impact\
+    \ environnemental (<a href=\"mailto:marion.jarillot@gmail.com\" style=\"color:#0563c1;\
+    \ text-decoration:underline\">marion.jarillot@gmail.com</a>).<br />\r\n<br />\r\
+    \n </p>"
+  conclusion: ''
+  questions:
+  - 1152
+  question_count: 1
+  tags: []
+  difficulty_average: 1.0
+  language: FRENCH
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 75
+  visibility: HIDDEN
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-08-15'
+  updated: '2023-08-15'
