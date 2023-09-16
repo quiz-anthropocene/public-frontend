@@ -19,7 +19,7 @@
 - id: 5
   first_name: laydgeur
   last_name: ''
-  question_count: 169
+  question_count: 168
   quiz_count: 3
   created: '2022-04-16'
 - id: 6
@@ -268,6 +268,12 @@
   question_count: 0
   quiz_count: 0
   created: '2022-07-01'
+- id: 64
+  first_name: Delphine
+  last_name: Teske
+  question_count: 0
+  quiz_count: 0
+  created: '2022-07-07'
 - id: 65
   first_name: Emmanuelle
   last_name: Mouls
@@ -286,3 +292,9 @@
   question_count: 1
   quiz_count: 0
   created: '2023-02-22'
+- id: 75
+  first_name: Marion
+  last_name: Jarillot
+  question_count: 0
+  quiz_count: 0
+  created: '2023-05-24'
