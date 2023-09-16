@@ -104,7 +104,7 @@ module.exports = {
       .assert.containsText('button[id="all-quizs-btn"]', 'All the quizs')
       // .assert.containsText('button[id="all-questions-btn"]', 'All questions')
       // .assert.containsText('button[id="resources-btn"]', 'Resources')
-      .assert.containsText('button[id="newsletter-btn"]', 'Je m\'inscris !')
+      .assert.containsText('button[id="newsletter-btn"]', 'I want to register!')
       .end();
   },
 };
