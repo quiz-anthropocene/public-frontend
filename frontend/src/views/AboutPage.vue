@@ -8,7 +8,6 @@
       Il est développé par quelques passionés, et a pour but d'évoluer en fonctions des retours utilisateurs :)
     </section> -->
 
-
     <h3>{{ $t('about.why') }}</h3>
     <div v-html="configuration.application_about"></div>
 

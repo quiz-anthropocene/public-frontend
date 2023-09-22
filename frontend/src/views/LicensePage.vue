@@ -18,9 +18,6 @@
     <br />
     <h3>{{ $t('license.commercialUse') }}</h3>
       <p v-html="$t('license.commercialUseContact')"></p>
-
-      
-
     <br />
   </section>
 </template>
