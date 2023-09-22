@@ -2,7 +2,7 @@
   <section class="text-align-left">
     <h2>Atelier Quiz de l’Anthropocène</h2>
 
-    <section v-if="$i18n.locale === 'en'" class="alert alert-warning" role="alert">
+    <section v-if="$i18n.locale !== 'fr'" class="alert alert-warning" role="alert">
       🌐Page not yet translated
     </section>
 

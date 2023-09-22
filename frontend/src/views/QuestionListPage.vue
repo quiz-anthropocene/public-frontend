@@ -9,8 +9,7 @@
         </router-link>
       </div>
       <p v-if="questionsDisplayed.length === 0">
-        Aucune question trouvée avec les filtres selectionnés.
-      </p>
+        {{ $t('messages.noQuestionFoundFilter') }} </p>
     </div>
   </section>
 </template>

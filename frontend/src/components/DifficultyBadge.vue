@@ -9,13 +9,11 @@ export default {
     difficulty: [Number, String],
   },
 
-  data() {
-    return {
-      difficultyTitle: `Difficulté ${this.difficulty}/4`,
-    };
-  },
-
   computed: {
+    difficultyTitle() {
+      // Calculate the translated difficulty title based on this.difficulty
+      return `${this.$t('messages.difficulty')} ${this.difficulty}/4`;
+    },
     currentDifficultyLevelEmoji() {
       return this.$store.getters.getDifficultyLevelEmojiByValue(parseInt(this.difficulty, 10));
     },

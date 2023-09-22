@@ -43,7 +43,7 @@
 
       <!-- Second row: social, license, language -->
       <div class="row">
-        <div class="col-sm" title="Social">
+        <div class="col-sm" :title="$t('footer.social')">
           <a class="no-after" v-bind:href="configuration.application_linkedin_url" target="_blank" @click="logClick($event)" @contextmenu="logClick($event)">
             <img height="30px" src="/openmoji_linkedin_E046.svg" alt="Linkedin" title="Linkedin" />
           </a>
@@ -54,12 +54,12 @@
             <img height="30px" src="/openmoji_facebook_E042.svg" alt="Facebook" title="Facebook" />
           </a>
         </div>
-        <div class="col-sm" title="Licence">
+        <div class="col-sm" :title="$t('footer.license')">
           <router-link :to="{ name: 'license' }">
-            <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Licence Creative Commons" style="border-width:0" />
+            <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="$t('footer.creativeCommons')" style="border-width:0" />
           </router-link>
         </div>
-        <div class="col-sm" title="Langue">
+        <div class="col-sm" :title="$t('footer.language')">
           <select v-model="$i18n.locale">
             <option v-for="(language, i) in languages" :key="i" :value="language.code">
               {{ language.emoji }}&nbsp;{{ language.name }}
@@ -71,11 +71,10 @@
       <!-- Third row: ecoindex -->
       <div class="row" v-if="currentRoute === 'home' && configuration.application_frontend_ecoindex_url">
         <div class="col-sm">
-          Cette page a un score <a v-bind:href="configuration.application_frontend_ecoindex_url" target="_blank">EcoIndex.fr</a> de
+          {{ $t('footer.score') }} <a v-bind:href="configuration.application_frontend_ecoindex_url" target="_blank">EcoIndex.fr</a> {{ $t('words.of') }}
           <span class="ecoindex-score">80.2 / 100</span><span class="ecoindex-letter">A</span>
           <br class="d-sm-none" />
-          Elle pèse 751 Ko et a demandé 11 requêtes.
-        </div>
+          {{ $t('footer.weight') }} </div>
       </div>
     </section>
   </footer>

@@ -28,26 +28,26 @@
 
         <section v-if="(quizStep === 0) || (quizStep > quiz.questions.length)">
           <div class="row no-gutters justify-content-center card-subtitle">
-            <div class="col-md-10 col-lg-8" v-html="quiz.introduction" title="Introduction du quiz"></div>
+            <div class="col-md-10 col-lg-8" v-html="quiz.introduction" :title="$t('messages.quizIntro')"></div>
           </div>
 
           <hr class="margin-top-bottom-10" />
 
           <div class="row no-gutters small">
-            <div class="col" title="Nombre de questions">
-              <span class="label label-hidden"><strong>{{ quiz.questions.length }}</strong></span>Questions
+            <div class="col" :title="$t('messages.questionsNumber')">
+              <span class="label label-hidden"><strong>{{ quiz.questions.length }}</strong></span>{{ $t('messages.questions') }}
             </div>
             <!-- <div class="col" v-bind:title="$t('messages.difficulty')">
               🏆&nbsp;{{ $t('messages.difficulty') }}<span class="label label-hidden"><strong>{{ quiz.difficulty_average | round(1) }} / 4</strong></span>
             </div> -->
-            <div class="col" title="Auteur du quiz">
+            <div class="col" :title="$t('messages.quizAuthor')">
               📝&nbsp;{{ $t('messages.author') }}<span v-if="quiz.authors.length > 1">s</span>
               <span v-for="(author, index) in quiz.authors" :key="author.id" class="label label-hidden">
                 <strong>{{ author.full_name }}{{ (index < quiz.authors.length - 1) ? ',' : '' }}</strong>
               </span>
             </div>
             <!-- <span title="Date de création du quiz">📊&nbsp;Crée le:&nbsp;{{ new Date(quiz.created).toLocaleString() }}</span> -->
-            <div v-if="quiz.tags && quiz.tags.length > 0" class="col small d-none d-sm-block" title="Mot(s) clé(s) du quiz">
+            <div v-if="quiz.tags && quiz.tags.length > 0" class="col small d-none d-sm-block" :title="$t('messages.quizKeywords')">
               <span v-for="(tag, index) in quiz.tags" :key="tag.id">
                 <span v-if="index < 3" class="label label-tag">{{ tag.name }}</span>
               </span>
@@ -95,7 +95,7 @@
           <abbr v-bind:title="'dernière mise à jour le ' + statsLastUdated">stats&nbsp;?&nbsp;</abbr>
         </p>
 
-        <div v-if="quiz.conclusion" v-html="quiz.conclusion" title="Conclusion du quiz"></div>
+        <div v-if="quiz.conclusion" v-html="quiz.conclusion" :title="$t('messages.quizConclusion')"></div>
       </section>
 
       <ShareBox type="quiz" :quizName="quiz.name" :score="finalScore + '/' + quiz.questions.length" />

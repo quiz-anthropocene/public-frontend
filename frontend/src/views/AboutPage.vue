@@ -1,6 +1,6 @@
 <template>
   <section class="text-align-left">
-    <h2>A propos</h2>
+    <h2>{{ $t('about.about') }}</h2>
 
     <!-- <section class="alert alert-primary" role="alert">
       Vous êtes un des premiers utilisateurs, merci d'être là !
@@ -8,56 +8,42 @@
       Il est développé par quelques passionés, et a pour but d'évoluer en fonctions des retours utilisateurs :)
     </section> -->
 
-    <section v-if="$i18n.locale === 'en'" class="alert alert-warning" role="alert">
-      🌐Page not yet translated
-    </section>
-
-    <h3>Pourquoi cette application ?</h3>
+    <h3>{{ $t('about.why') }}</h3>
     <div v-html="configuration.application_about"></div>
 
     <br />
-    <h3>Contribuer</h3>
+    <h3>{{ $t('about.contribute') }}</h3>
     <p>
-      On est preneur de tous vos retours !
-    </p>
+      {{ $t('about.gladToTakeFeedback') }} </p>
     <p>
-      Une page <router-link :to="{ name: 'contribute' }">✍️&nbsp;Contribuer</router-link>
-      vous permet de rajouter une question ou un sujet qui vous tiens à coeur.
-      Vous pouvez aussi y laisser vos commentaires et remarques !
+      {{ $t('about.pageContribute') }} <router-link :to="{ name: 'contribute' }">✍️&nbsp;{{ $t('about.contributeLink') }}</router-link>
+      {{ $t('about.contributeLinkDescription') }} </p>
+
+    <br />
+    <h3>{{ $t('about.license') }}</h3>
+    <div>
+      {{ $t('about.openSourceCode') }} <a v-bind:href="configuration.application_open_source_code_url" target="_blank" :title="$t('about.linktoCode')">{{ $t('about.pageToCode') }}</a>.
+      <div v-html="$t('about.openSourceCreateIssues')"></div>
+    </div>
+    <p>
+      {{ $t('about.licenseMoreInfo') }} <router-link :to="{ name: 'license' }">{{ $t('about.licenseDedicatedPage') }}</router-link>.
     </p>
 
     <br />
-    <h3>Open source & Lience</h3>
+    <h3>{{ $t('about.someNumbersTitle') }}</h3>
     <p>
-      Le code de l'application est visible sur
-      <a v-bind:href="configuration.application_open_source_code_url" target="_blank" title="Lien vers le code de l'application">la page Github de l'application</a>.
-      Si vous avez des commentaires ou des suggestions sur l'application, vous pouvez y créer des <i>Issues</i>.
-    </p>
-    <p>
-      Plus d'informations concernant la licence (CC BY-NC-SA) sur la <router-link :to="{ name: 'license' }">©️&nbsp;page dédiée</router-link>.
+      {{ $t('about.pageStats') }} <router-link :to="{ name: 'stats' }">{{ $t('about.statsLink') }}</router-link> {{ $t('about.statsLinkInfo') }}
     </p>
 
     <br />
-    <h3>Quelques chiffres</h3>
-    <p>
-      La page <router-link :to="{ name: 'stats' }">📊&nbsp;Statistiques</router-link> présente quelques chiffres d'usage.
-    </p>
+    <h3>{{ $t('about.aboutUs') }}</h3>
+    <p v-html="$t('about.aboutUsInfo')"></p>
+    <p v-html="$t('about.aboutUsContact')"></p>
 
     <br />
-    <h3>Nous connaître</h3>
+    <h3>{{ $t('about.goFurther') }}</h3>
     <p>
-      Juste quelques <strong>bénévoles</strong> impliqués et concernés par les questions climat.
-    </p>
-    <p>
-      Vous pouvez nous contacter à l'adresse <strong>contact [at] quizanthropocene.fr</strong>
-    </p>
-
-    <br />
-    <h3>Vous souhaitez aller plus loin ?</h3>
-    <p>
-      On a créé une page <router-link :to="{ name: 'ressources' }">📚&nbsp;Ressources</router-link> pour regrouper
-      plein d'informations additionnelles : des assos, d'autres projets similaires, nos lectures pour trouver les questions, etc.
-    </p>
+      {{ $t('about.goFurtherPage') }} <router-link :to="{ name: 'ressources' }">{{ $t('about.goFurtherResourcesLink') }}</router-link> {{ $t('about.goFurtherInfo') }} </p>
 
     <br />
   </section>

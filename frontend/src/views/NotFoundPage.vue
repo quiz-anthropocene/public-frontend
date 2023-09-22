@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h3>Page inconnue :(</h3>
+    <h3>{{ $t('notFound.unknownPage') }}</h3>
   </section>
 </template>
 

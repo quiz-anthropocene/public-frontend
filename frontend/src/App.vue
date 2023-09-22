@@ -4,8 +4,7 @@
     <section>
       <div v-show="loading" class="alert alert-primary" role="alert">Chargement...</div>
       <div v-if="error" class="alert alert-danger" role="alert">
-        Erreur de connexion 🤔
-        <a href="#" @click="initData()">Réessayer</a>
+        {{ $t('header.connectionError') }} <a href="#" @click="initData()">{{ $t('header.tryAgain') }}</a>
         <button type="button" class="close" data-dismiss="alert" aria-label="Close" @click="dismissAlert()">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -21,20 +20,24 @@
 <script>
 import AppHeader from './components/AppHeader.vue';
 import AppFooter from './components/AppFooter.vue';
+import i18n from './i18n';
+
+const siteTitle = i18n.t('header.title');
+const siteSubtitle = i18n.t('header.subtitle');
 
 export default {
   name: 'App',
   metaInfo: {
     // title: 'Quiz de l\'Anthropocène',
     titleTemplate: (titleChunk) => {
-      return titleChunk ? `${titleChunk} | Quiz de l'Anthropocène` : 'Quiz de l\'Anthropocène';
+      return titleChunk ? `${titleChunk} | ${siteTitle}` : siteTitle;
     },
     meta: [
       {
         property: 'description',
         vmid: 'description',
         template: (chunk) => {
-          return chunk || 'Des questions/réponses pour mieux appréhender les limites de notre planète';
+          return chunk || siteSubtitle;
         },
       },
       {
@@ -49,14 +52,14 @@ export default {
         vmid: 'og:title',
         // content: 'Quiz de l\'Anthropocène',
         template: (chunk) => {
-          return chunk ? `${chunk} | Quiz de l'Anthropocène` : 'Quiz de l\'Anthropocène';
+          return chunk ? `${chunk} | ${siteTitle}` : siteTitle;
         },
       },
       {
         property: 'og:description',
         vmid: 'og:description',
         template: (chunk) => {
-          return chunk || 'Des questions/réponses pour mieux appréhender les limites de notre planète';
+          return chunk || siteSubtitle;
         },
       },
       {
@@ -78,14 +81,14 @@ export default {
         vmid: 'twitter:title',
         // content: 'Quiz de l\'Anthropocène',
         template: (chunk) => {
-          return chunk ? `${chunk} | Quiz de l'Anthropocène` : 'Quiz de l\'Anthropocène';
+          return chunk ? `${chunk} | ${siteTitle}` : siteTitle;
         },
       },
       {
         property: 'twitter:description',
         vmid: 'twitter:description',
         template: (chunk) => {
-          return chunk || 'Des questions/réponses pour mieux appréhender les limites de notre planète';
+          return chunk || siteSubtitle;
         },
       },
       {

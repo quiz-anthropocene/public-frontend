@@ -1,35 +1,29 @@
 <template>
   <section class="text-align-left">
-    <h2>Quelques statistiques</h2>
+    <h2>{{ $t('stats.title') }}</h2>
 
-    <section v-if="$i18n.locale === 'en'" class="alert alert-warning" role="alert">
-      🌐Page not yet translated
-    </section>
-
-    <p class="text-muted">Mise à jour : {{ data_last_updated }}</p>
+    <p class="text-muted">{{ $t('stats.lastUpdate', [data_last_updated]) }}</p>
 
     <br />
-    <h3>🕹️&nbsp;Quizs</h3>
+    <h3>🕹️&nbsp;{{ $t('stats.quizTitle') }}</h3>
     <p>
-      <strong>{{ quiz_published_count_formatted }}</strong> publiés.
+      <strong>{{ quiz_published_count_formatted }}</strong> {{ $t('stats.quizPublished') }}
       <br />
-      <strong>{{ quiz_answer_count_formatted }}</strong> quizs terminés depuis le lancement
-      (dont <strong>{{ quiz_answer_count_last_30_days_formatted }}</strong> durant les 30 derniers jours).
+      <strong>{{ quiz_answer_count_formatted }}</strong> {{ $t('stats.quizFinished') }} <strong>{{ quiz_answer_count_last_30_days_formatted }}</strong> {{ $t('stats.quizFinishedWithinLast30days') }}
     </p>
 
     <br />
-    <h3>❓&nbsp;Questions</h3>
+    <h3>❓&nbsp;{{ $t('stats.questionTitle') }}</h3>
     <p>
-      <strong>{{ question_published_count_formatted }}</strong> validées.
+      <strong>{{ question_published_count_formatted }}</strong> {{ $t('stats.questionsValidated') }}
       <br />
-      <strong>{{ question_answer_count_formatted }}</strong> questions répondues depuis le lancement
-      (dont <strong>{{ question_answer_count_last_30_days_formatted }}</strong> durant les 30 derniers jours).
+      <strong>{{ question_answer_count_formatted }}</strong> {{ $t('stats.questionsAnswered') }} <strong>{{ question_answer_count_last_30_days_formatted }}</strong> {{ $t('stats.questionsAnsweredWithin30Days') }}
     </p>
 
     <br />
-    <h3>✍️&nbsp;Contributions</h3>
+    <h3>✍️&nbsp;{{ $t('stats.contributionTitle') }}</h3>
     <p>
-      <strong>{{ feedback_agg_formatted }}</strong> feedbacks/likes/suggestions reçus, merci ! 💯
+      <strong>{{ feedback_agg_formatted }}</strong> {{ $t('stats.contributionNumber') }}
     </p>
 
     <br />
@@ -37,7 +31,7 @@
     <br />
 
     <h3>{{ $t('messages.allQuizs') }} {{ $t('words.by') }}...</h3>
-    <p><i>Cliquez sur une bulle pour voir tous les quizs (publiés) associés.</i></p>
+    <p><i>{{ $t('stats.quizKeywords') }}</i></p>
 
     <br />
     <h4>🏷️&nbsp;{{ $t('messages.tags') }}</h4>
@@ -74,7 +68,7 @@
     <br />
 
     <h3>{{ $t('messages.allQuestions') }} {{ $t('words.by') }}...</h3>
-    <p><i>Cliquez sur une bulle pour voir toutes les questions (validées) associées.</i></p>
+    <p><i>{{ $t('stats.questionsKeywords') }}</i></p>
 
     <br />
     <h4>📂&nbsp;{{ $t('messages.categories') }}</h4>
