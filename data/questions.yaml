@@ -43445,7 +43445,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2023-02-13'
+  updated: '2023-09-28'
 - id: 1071
   text: Combien de décès prématurés sont imputables à la qualité de l'air chaque année
     dans le monde ?
@@ -43972,7 +43972,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-02-25'
+  updated: '2023-09-28'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation,
     notamment, en défrichant et travaillant la terre pour les transformer en terres
@@ -44020,7 +44020,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-06-19'
+  updated: '2023-09-28'
 - id: 1085
   text: Quelles sont les principales fonctions de la matière organique pour les sols
     ?
@@ -44228,7 +44228,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-06-07'
+  updated: '2023-09-28'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -44320,7 +44320,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-11-26'
-  updated: '2022-12-07'
+  updated: '2023-09-28'
 - id: 1091
   text: Halobates Sericeus, ou patineur d'eau, est un cousin de nos araignées d'eau,
     qui vit à la surface des océans. Avec l'accumulation de microplastiques à la surface,
@@ -44418,7 +44418,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-12-22'
-  updated: '2023-01-25'
+  updated: '2023-09-28'
 - id: 1093
   text: Parmi ces phénomènes, lesquels constituent des causes majeures de dégradation
     des sols ?
@@ -46799,7 +46799,7 @@
   difficulty: 0
   language: GERMAN
   answer_choice_a: CO2
-  answer_choice_b: CO2
+  answer_choice_b: Methan
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
@@ -46826,7 +46826,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-08-22'
 - id: 1149
   text: Richtig oder falsch? Das Abschmelzen des Meereises (schwimmendes Eis) führt
     zu einem Anstieg des Meeresspiegels.
@@ -46856,7 +46856,7 @@
   answer_source_scientific_url_text: 'Unterrichtsstunde 2: Welche Folgen hat das Schmelzen
     der Eismassen?'
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4df78dd3.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4bce947c.png
   answer_image_url_text: Man nehme zwei gleiche, durchsichtige Gefäße und fülle sie
     unge­fähr zur Hälfte mit Wasser. Dann bilde man mit den Kieselsteinen kleine Haufen
     – sie sollen das Land darstellen – und stelle die Spiel­figuren darauf (eventuell
@@ -46870,7 +46870,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-08-22'
 - id: 1150
   text: Richtig oder falsch? Alle Menschen tragen in gleichem Maße zum Klimawandel
     bei.
@@ -46900,7 +46900,7 @@
   answer_source_scientific_url: https://www.klimareporter.de/finanzen-wirtschaft/milliarden-joker-klima-kompensation
   answer_source_scientific_url_text: Klimareporter - Kompensation als Klima-Joker
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/39e7b0df.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/56077a68.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -46909,7 +46909,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-08-22'
 - id: 1151
   text: Welche Folgen hat der Klimawandel?
   hint: ''
