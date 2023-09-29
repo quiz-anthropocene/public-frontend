@@ -2784,3 +2784,36 @@
   spotlight: false
   created: '2023-08-15'
   updated: '2023-08-15'
+- id: 103
+  name: Burger Quiz des sols, pour se mettre en apétit!
+  slug: burger-quiz-des-sols-pour-se-mettre-en-apetit
+  introduction: <p>Homo Sapiens a modifié tout la planète, plus aucun endroit de la
+    planète n'est épargné par l'action de nos sociétés. Les sols ne dérogent pas à
+    la règle et ont souvent subits des fortes dégradations, ceci depuis les débuts
+    de l'agriculture. Mais le potentiel régénérateur de la vie n'est peut être jamais
+    aussi marqué que dans les sols...</p>
+  conclusion: ''
+  questions:
+  - 1070
+  - 1083
+  - 1084
+  - 1088
+  - 1090
+  - 1092
+  question_count: 6
+  tags: []
+  difficulty_average: 2.5
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/efe2c4c6.jpg
+  has_audio: false
+  authors:
+  - 59
+  visibility: HIDDEN
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2023-09-28'
+  updated: '2023-09-28'
