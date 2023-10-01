@@ -2787,11 +2787,11 @@
 - id: 103
   name: Burger Quiz des sols, pour se mettre en apétit!
   slug: burger-quiz-des-sols-pour-se-mettre-en-apetit
-  introduction: <p>Homo Sapiens a modifié tout la planète, plus aucun endroit de la
-    planète n'est épargné par l'action de nos sociétés. Les sols ne dérogent pas à
-    la règle et ont souvent subits des fortes dégradations, ceci depuis les débuts
+  introduction: <p>Homo Sapiens a modifié toute la planète. Plus aucun endroit de
+    la planète n'est épargné par l'action de nos sociétés. Les sols ne dérogent pas
+    à la règle, et ont souvent subits des fortes dégradations, ceci depuis les débuts
     de l'agriculture. Mais le potentiel régénérateur de la vie n'est peut être jamais
-    aussi marqué que dans les sols...</p>
+    aussi marqué que dans les sols... saurons nous l'utiliser à bon escient?</p>
   conclusion: ''
   questions:
   - 1070
@@ -2816,4 +2816,4 @@
   publish_date: null
   spotlight: false
   created: '2023-09-28'
-  updated: '2023-09-28'
+  updated: '2023-09-29'
