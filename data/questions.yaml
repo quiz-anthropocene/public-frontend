@@ -2062,9 +2062,9 @@
   created: '2020-03-10'
   updated: '2023-02-05'
 - id: 49
-  text: Un réfugié climatique est une personne contrainte de se relocaliser pour des
-    raisons environnementales. Leur nombre actuel (2016) est estimé à 25 millions
-    de personnes. A combien les experts du GIEC l'estiment-ils à l'horizon 2050 ?
+  text: Les réfugiés climatiques sont des personnes contraintes de se relocaliser
+    pour des raisons environnementales. Leur nombre était estimé à 25 millions de
+    personnes à 2016. A quel nombre le GIEC l'estime-t-il à l'horizon 2050 ?
   hint: ''
   type: QCM
   category: 6
@@ -2105,7 +2105,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-20'
+  updated: '2023-10-07'
 - id: 50
   text: Dans le monde, l'érosion et l'épuisement des sols réduisent les surfaces arables.
     De combien d'hectares par an ?
@@ -17824,7 +17824,7 @@
   updated: '2022-11-16'
 - id: 440
   text: Si tous les humains vivaient avec le niveau de vie des Français, combien de
-    planètes Terre nous faudrait-il ?
+    planètes Terre nous faudrait-il pour qu'il soit soutenable ?
   hint: ''
   type: QCM
   category: 2
@@ -17862,7 +17862,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-04'
+  updated: '2023-10-07'
 - id: 441
   text: 'Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à
     celles d’un Indien ?
@@ -23276,7 +23276,7 @@
 - id: 577
   text: En 1859, le savant Carrington documente un phénomène exceptionnel, susceptible
     de détruire les circuits électriques. En quoi consiste cette menace hors-norme,
-    dite « Evénement de Carrington », qui planerait toujours sur nos têtes ?
+    dite « Evénement de Carrington », qui plane toujours sur nos têtes ?
   hint: ''
   type: QCM
   category: 6
@@ -23316,7 +23316,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2023-10-07'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -46626,7 +46626,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-10-07'
 - id: 1144
   text: Richtig oder falsch? Seit einigen Jahrhunderten haben menschliche Aktivitäten
     einen Einfluss auf das Klima...
@@ -46706,7 +46706,7 @@
   created: '2023-07-19'
   updated: '2023-07-19'
 - id: 1146
-  text: Was sind fossilen Brennstoffe Beispiele?
+  text: Kannst du einige Fossile Brennstoffe nennen?
   hint: ''
   type: QCM-RM
   category: 1
@@ -46747,7 +46747,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-10-07'
 - id: 1147
   text: Was den Treibhauseffekt betrifft, so stimmt es, dass...
   hint: ''
@@ -46938,7 +46938,7 @@
   answer_video_url: ''
   answer_video_url_text: Vikidia - Klimawandel
   answer_source_accessible_url: https://de.vikidia.org/wiki/Klimawandel
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Wikidia - Klimawandel
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -46951,7 +46951,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-10-07'
 - id: 1152
   text: "A/ QUELQUES DÉFINITIONS\r\nFlexitarien, végétarien, végétalien, végan, pescetarien…\
     \ De nombreux termes sont utilisés pour décrire nos régimes alimentaires."
