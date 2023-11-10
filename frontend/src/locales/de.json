@@ -75,7 +75,7 @@
     "yourComment": "Ihr Kommentar",
     "yourCommentDescription": "Fehler, Verbesserung, ..., vermeiden Sie nicht zu tun :)",
     "yourQuestion": "Ihre Frage",
-    "yourQuizIdea": "Deine Quiz-Idee"
+    "yourQuizIdea": "Ihre Quiz-Idee"
   },
   "feedback": {
     "accessibleLink": "ein zugänglicher Link",
@@ -132,9 +132,9 @@
     "toAddMore": "mehr hinzuzufügen"
   },
   "license": {
-    "commercialUse": "Kommerzielle Benutzung",
+    "commercialUse": "Kommerzielle Benützung",
     "commercialUseContact": "Sie können uns unter <strong>contact [at] quizanthropocene.fr</strong> kontaktieren, um darüber zu diskutieren.",
-    "nonCommercialUse": "Nichtkommerzielle Benutzung",
+    "nonCommercialUse": "Nichtkommerzielle Benützung",
     "terms": "Dieses Werk wird im Rahmen der Lizenzbedingungen zur Verfügung gestellt",
     "termsBY": "BY: Der Urheber muss genannt werden",
     "termsNC": "NC: Nur nichtkommerzielle Nutzungen des Werks sind gestattet",
@@ -143,7 +143,7 @@
   },
   "messages": {
     "allQuestions": "Alle Fragen",
-    "allQuizs": "Alle Quiz",
+    "allQuizs": "Alle Quizze",
     "answerPicture": "Ein Bild zur Veranschaulichung der Antwort",
     "answerWas": "Die Antwort war",
     "audioComments": "Audiokommentare",
@@ -174,7 +174,7 @@
     "lastUpdatedOn": "Zuletzt aktualisiert am",
     "liked": "Mag ich",
     "linkGoFurther": "Zugänglicher Link, um weiter zu lernen",
-    "moreQuizs": "Weitere Quiz",
+    "moreQuizs": "Weitere Quizze",
     "multipleAnswers": "Mehrfachnennungen möglich",
     "newQuestions": "Neue Fragen",
     "nextQuestion": "Nächste Frage",
