@@ -17361,7 +17361,7 @@
   - 32
   difficulty: 0
   language: FRENCH
-  answer_choice_a: Aussi mprobable que probable
+  answer_choice_a: Aussi improbable que probable
   answer_choice_b: Probable
   answer_choice_c: Très probable
   answer_choice_d: Absolument sûr
@@ -17393,7 +17393,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2023-04-12'
+  updated: '2023-11-09'
 - id: 429
   text: Quelle est la différence entre un article scientifique et un article de presse
     ?
