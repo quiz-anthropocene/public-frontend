@@ -46612,13 +46612,13 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://www.zdf.de/kinder/logo/klima-106.html
+  answer_source_accessible_url_text: ZDF - Klima
+  answer_source_scientific_url: https://www.umweltbundesamt.de/themen/klima-energie/klimawandel/haeufige-fragen-klimawandel#klima
+  answer_source_scientific_url_text: Umweltbundesamt - Klimawandel
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/528c193c.jpg
+  answer_image_url_text: https://www.wetter.net/wetter-tv/video/518-klima-vs-wetter-was-ist-der-unterschied
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -46626,7 +46626,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-10-07'
+  updated: '2023-11-10'
 - id: 1144
   text: Richtig oder falsch? Seit einigen Jahrhunderten haben menschliche Aktivitäten
     einen Einfluss auf das Klima...
@@ -46652,8 +46652,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://klexikon.zum.de/wiki/Klimawandel
   answer_source_accessible_url_text: Klexikon, Klimawandel
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://de.wikipedia.org/wiki/Sechster_Sachstandsbericht_des_IPCC
+  answer_source_scientific_url_text: Wikipedia - Sechster Sachstandsbericht des IPCC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/18a3f1b2.jpg
   answer_image_url_text: ''
@@ -46664,7 +46664,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-11-10'
 - id: 1145
   text: Erzeugt es einen Treibhauseffekt, wenn ich…
   hint: ''
@@ -46688,15 +46688,15 @@
     einen Treibhauseffekt verursacht.
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
+  answer_video_url: https://studyflix.de/erdkunde/treibhauseffekt-einfach-erklart-3810
+  answer_video_url_text: Studyflix - Treibhauseffekt
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/01476f55.png
+  answer_image_url_text: Treibhauseffekt
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -46704,7 +46704,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-11-10'
 - id: 1146
   text: Kannst du einige Fossile Brennstoffe nennen?
   hint: ''
@@ -46738,7 +46738,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/76e18a32.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -46747,7 +46747,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-10-07'
+  updated: '2023-11-11'
 - id: 1147
   text: Was den Treibhauseffekt betrifft, so stimmt es, dass...
   hint: ''
@@ -46810,14 +46810,14 @@
     Viehzucht einer der Hauptverursacher der Erderwärmung.
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
+  answer_video_url: https://www.zdf.de/kinder/logo/kuehe-methan-einfach-erklaert-100.html
+  answer_video_url_text: ZDF - Kühe Methan einfach erklärt
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5f901def.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -46826,7 +46826,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-08-22'
+  updated: '2023-11-11'
 - id: 1149
   text: Richtig oder falsch? Das Abschmelzen des Meereises (schwimmendes Eis) führt
     zu einem Anstieg des Meeresspiegels.
@@ -46942,7 +46942,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/303fdff0.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -46951,7 +46951,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-10-07'
+  updated: '2023-11-11'
 - id: 1152
   text: "A/ QUELQUES DÉFINITIONS\r\nFlexitarien, végétarien, végétalien, végan, pescetarien…\
     \ De nombreux termes sont utilisés pour décrire nos régimes alimentaires."
