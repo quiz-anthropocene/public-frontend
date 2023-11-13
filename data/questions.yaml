@@ -46591,7 +46591,7 @@
   updated: '2023-02-25'
 - id: 1143
   text: Richtig oder falsch? Das Klima ist dasselbe wie das Wetter.
-  hint: ''
+  hint: Es sind zwei verschiedene Wörter...
   type: VF
   category: 1
   tags: []
@@ -46618,7 +46618,7 @@
   answer_source_scientific_url_text: Umweltbundesamt - Klimawandel
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/528c193c.jpg
-  answer_image_url_text: https://www.wetter.net/wetter-tv/video/518-klima-vs-wetter-was-ist-der-unterschied
+  answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -46626,7 +46626,7 @@
   validator: null
   validation_date: null
   created: '2023-07-19'
-  updated: '2023-11-10'
+  updated: '2023-11-12'
 - id: 1144
   text: Richtig oder falsch? Seit einigen Jahrhunderten haben menschliche Aktivitäten
     einen Einfluss auf das Klima...
