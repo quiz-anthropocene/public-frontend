@@ -46602,7 +46602,7 @@
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
-  has_ordered_answers: false
+  has_ordered_answers: true
   answer_explanation: Das Wetter, das du täglich im Radio hörst oder im Fernsehen
     siehst, beschreibt das aktuelle oder zukünftige Wetter und ändert sich ständig.
     Das Klima hingegen beschreibt das allgemeine Wetter in einer Region über Jahre
@@ -46622,11 +46622,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-12'
+  updated: '2023-11-15'
 - id: 1144
   text: Richtig oder falsch? Seit einigen Jahrhunderten haben menschliche Aktivitäten
     einen Einfluss auf das Klima...
@@ -46660,11 +46660,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-10'
+  updated: '2023-11-15'
 - id: 1145
   text: Erzeugt es einen Treibhauseffekt, wenn ich…
   hint: ''
@@ -46700,11 +46700,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-10'
+  updated: '2023-11-15'
 - id: 1146
   text: Kannst du einige Fossile Brennstoffe nennen?
   hint: ''
@@ -46743,11 +46743,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-11'
+  updated: '2023-11-15'
 - id: 1147
   text: Was den Treibhauseffekt betrifft, so stimmt es, dass...
   hint: ''
@@ -46785,16 +46785,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-07-19'
+  updated: '2023-11-15'
 - id: 1148
   text: Was stoßen Kühe aus, wenn sie rülpsen und furzen?
   hint: ''
   type: QCM
-  category: null
+  category: 3
   tags: []
   difficulty: 0
   language: GERMAN
@@ -46822,11 +46822,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-11'
+  updated: '2023-11-15'
 - id: 1149
   text: Richtig oder falsch? Das Abschmelzen des Meereises (schwimmendes Eis) führt
     zu einem Anstieg des Meeresspiegels.
@@ -46866,11 +46866,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-08-22'
+  updated: '2023-11-15'
 - id: 1150
   text: Richtig oder falsch? Alle Menschen tragen in gleichem Maße zum Klimawandel
     bei.
@@ -46905,16 +46905,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-08-22'
+  updated: '2023-11-15'
 - id: 1151
   text: Welche Folgen hat der Klimawandel?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 1
   tags: []
   difficulty: 0
   language: GERMAN
@@ -46947,11 +46947,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-11'
+  updated: '2023-11-15'
 - id: 1152
   text: "A/ QUELQUES DÉFINITIONS\r\nFlexitarien, végétarien, végétalien, végan, pescetarien…\
     \ De nombreux termes sont utilisés pour décrire nos régimes alimentaires."
