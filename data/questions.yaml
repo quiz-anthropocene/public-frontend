@@ -46664,7 +46664,7 @@
   validator: 1
   validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-15'
+  updated: '2023-11-20'
 - id: 1145
   text: Erzeugt es einen Treibhauseffekt, wenn ich…
   hint: ''
@@ -46673,11 +46673,10 @@
   tags: []
   difficulty: 0
   language: GERMAN
-  answer_choice_a: '...wenn ich mit dem Auto fahre oder wenn ich mit dem Flugzeug
-    fliege?'
-  answer_choice_b: … wenn ich Fleisch esse?
-  answer_choice_c: '...wenn ich Dinge einkaufe?'
-  answer_choice_d: … wenn ich draußen spiele?
+  answer_choice_a: '...mit dem Auto fahre oder wenn ich mit dem Flugzeug fliege?'
+  answer_choice_b: …Fleisch esse?
+  answer_choice_c: '...Dinge einkaufe?'
+  answer_choice_d: …draußen spiele?
   answer_correct: abc
   has_ordered_answers: true
   answer_explanation: Alles, was du kaufst, kommt zum Beispiel aus der Industrie.
@@ -46704,7 +46703,7 @@
   validator: 1
   validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-15'
+  updated: '2023-11-20'
 - id: 1146
   text: Kannst du einige Fossile Brennstoffe nennen?
   hint: ''
@@ -46756,15 +46755,15 @@
   tags: []
   difficulty: 0
   language: GERMAN
-  answer_choice_a: Aufgrund von CO2 und Methan, die durch menschliche Aktivitäten
-    freigesetzt werden, nimmt er derzeit zu.
-  answer_choice_b: Bevor der Mensch begann, fossile Brennstoffe zu nutzen, gab es
-    ihn nicht.
-  answer_choice_c: Durch sein Ansteig, erwärmt sich die Erde.
-  answer_choice_d: Ohne ihn wäre es viel kälter.
+  answer_choice_a: '...aufgrund von CO2 und Methan, die durch menschliche Aktivitäten
+    freigesetzt werden, nimmt er derzeit zu.'
+  answer_choice_b: '...bevor Mensch begann, fossile Brennstoffe zu nutzen, gab es
+    ihn nicht.'
+  answer_choice_c: '...durch sein Ansteig, erwärmt sich die Erde.'
+  answer_choice_d: ..ohne ihn wäre es viel kälter.
   answer_correct: acd
   has_ordered_answers: true
-  answer_explanation: 'Der Treibhauseffekt ist für das Leben notwendig: Ähnlich wie
+  answer_explanation: 'Der Treibhauseffekt ist für das Leben notwendig: ähnlich wie
     die Glaswände eines Gewächshauses die Pflanzen vor Kälte schützen, halten bestimmte
     Gase auf der Erde einen Teil der Sonnenwärme in der Atmosphäre zurück. Ohne diese
     Gase, die so genannten Treibhausgase, läge die Durchschnittstemperatur der Erde
@@ -46789,7 +46788,7 @@
   validator: 1
   validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-15'
+  updated: '2023-11-20'
 - id: 1148
   text: Was stoßen Kühe aus, wenn sie rülpsen und furzen?
   hint: ''
@@ -46897,8 +46896,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.klimareporter.de/finanzen-wirtschaft/milliarden-joker-klima-kompensation
   answer_source_accessible_url_text: Klimareporter - Kompensation als Klima-Joker
-  answer_source_scientific_url: https://www.klimareporter.de/finanzen-wirtschaft/milliarden-joker-klima-kompensation
-  answer_source_scientific_url_text: Klimareporter - Kompensation als Klima-Joker
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/56077a68.png
   answer_image_url_text: ''
@@ -46909,7 +46908,7 @@
   validator: 1
   validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-15'
+  updated: '2023-11-20'
 - id: 1151
   text: Welche Folgen hat der Klimawandel?
   hint: ''
@@ -46918,13 +46917,13 @@
   tags: []
   difficulty: 0
   language: GERMAN
-  answer_choice_a: Es gibt mehr Dürren.
-  answer_choice_b: Es geibt mehr Hitzewellen.
-  answer_choice_c: Tierarten sterben aus.
-  answer_choice_d: Es gibt mehr Überschwemmungen.
+  answer_choice_a: Es gibt mehr Dürren
+  answer_choice_b: Es geibt mehr Hitzewellen
+  answer_choice_c: Tierarten sterben aus
+  answer_choice_d: Es gibt mehr Überschwemmungen
   answer_correct: abcd
   has_ordered_answers: true
-  answer_explanation: 'Bei der letzten Frage mussten im Grunde genommen alle Antworten
+  answer_explanation: 'Bei dieser letzten Frage müssen im Grunde genommen alle Antworten
     angekreuzt werden. Der Klimawandel hat schon viele Auswirkungen. Wenn die Temperatur
     steigt, gibt es mehr Tage, an denen es zu heiß ist, und mehr Dürren, weil es immer
     weniger Wasser gibt. Wenn sich die Atmosphäre erwärmt, wird alles durcheinander
@@ -46936,7 +46935,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
-  answer_video_url_text: Vikidia - Klimawandel
+  answer_video_url_text: ''
   answer_source_accessible_url: https://de.vikidia.org/wiki/Klimawandel
   answer_source_accessible_url_text: Wikidia - Klimawandel
   answer_source_scientific_url: ''
@@ -46951,7 +46950,7 @@
   validator: 1
   validation_date: '2023-11-15'
   created: '2023-07-19'
-  updated: '2023-11-15'
+  updated: '2023-11-20'
 - id: 1152
   text: "A/ QUELQUES DÉFINITIONS\r\nFlexitarien, végétarien, végétalien, végan, pescetarien…\
     \ De nombreux termes sont utilisés pour décrire nos régimes alimentaires."
