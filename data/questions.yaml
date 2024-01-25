@@ -7644,9 +7644,9 @@
   answer_choice_d: 8,000 tonnes - soit une bulle de 200m de diamètre
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: En 2017 les activités humaines ont rejetées 36 milliards de
-    tonnes de CO2, ce qui fait environ 1100 tonnes (~600 millions de litres sur l'année.
-    Soit, pour 7 secondes, une bulle de 200m de diamètre à la pression ambiante.
+  answer_explanation: En 2017 les activités humaines ont rejeté 36 milliards de tonnes
+    de CO2. Le calcul avec la masse volumique du CO2 à pression ambiante donne pour
+    7 secondes un volume correspondant à bulle de 200m de diamètre.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -7665,7 +7665,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-02-13'
+  updated: '2024-01-24'
 - id: 187
   text: Combien y a-t-il d’arbres en Amazonie ?
   hint: ''
@@ -30561,13 +30561,11 @@
   answer_choice_d: 50 à 60%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'On estime environ à 7 à 10% l''économie sur la facture de chauffage
-    par degré de chauffage en moins. Entre les pièces à vivre (19°C recommandé) et
-    les chambres à coucher (16°C recommandé), on pourrait faire globalement baisser
-    le chauffage d''au moins 3°C, donc économiser 21% en chauffage.
-
-    Et en portant un pull en hiver à l''intérieur, on peut facilement aller encore
-    plus loin !'
+  answer_explanation: "On estime à environ 10% l'économie sur la facture de chauffage\
+    \ par degré de chauffage en moins. Entre les pièces à vivre (19°C recommandé)\
+    \ et les chambres à coucher (16°C recommandé), on pourrait faire globalement baisser\
+    \ le chauffage d'au moins 3°C, donc économiser 21% en chauffage.\r\nEt en portant\
+    \ un pull en hiver à l'intérieur, on peut facilement aller encore plus loin !"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30575,7 +30573,7 @@
   answer_source_accessible_url: https://www.quechoisir.org/conseils-chauffage-10-gestes-simples-pour-limiter-sa-consommation-energetique-au-quotidien-n4725/
   answer_source_accessible_url_text: Chauffage - 10 gestes simples pour limiter sa
     consommation énergétique au quotidien - Conseils - UFC-Que Choisir
-  answer_source_scientific_url: https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html
+  answer_source_scientific_url: https://solar.lowtechmagazine.com/fr/2011/02/insulation-first-the-body-then-the-home/
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000744-f05a.png
@@ -30587,7 +30585,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2023-12-12'
 - id: 745
   text: Le Col de Porte, situé à 1,325m d'altitude dans les Alpes françaises est le
     site de référence de Météo France pour l'étude de l'évolution du manteau neigeux
@@ -44969,8 +44967,8 @@
     moyenne de 2,3 représentations par spectacle. Peu de spectacles donnent lieu à
     des séries. Cela induit une grande mobilité des équipes et une grande fragilité
     des propositions artistiques, qui tournent globalement très peu après avoir été
-    produites. La création culturelle est ainsi elle aussi d'une forte et rapide de
-    ses productions.
+    produites. La création culturelle est ainsi elle aussi victime d'une forte et
+    rapide obsolescence de ses productions.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44991,7 +44989,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-02-05'
+  updated: '2024-01-24'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
