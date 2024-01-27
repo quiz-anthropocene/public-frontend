@@ -38311,15 +38311,17 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: 1ère
-  answer_choice_b: 3ème
-  answer_choice_c: 5ème
-  answer_choice_d: 10ème
+  answer_choice_b: 2ème
+  answer_choice_c: 3ème
+  answer_choice_d: 5ème
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'L’élevage représente environ 15% des émissions mondiales de
     GES : de manière directe avec la fermentation entérique, et indirecte avec la
     déforestation et les engrais azotés pour produire la nourriture de ces animaux
-    - dont les 2/3 uniquement pour les bovins.'
+    - dont les 2/3 uniquement pour les bovins. Les premiers pays émetteurs en 2020
+    sont : la Chine avec 28%, les Etats-Unis avec 11% puis l''Inde et l''Union Européenne,
+    avec 7% chacun.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38340,7 +38342,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2023-02-13'
+  updated: '2024-01-26'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
