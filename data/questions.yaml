@@ -17552,18 +17552,18 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Des centaines d’experts consacrent du temps à établir des évaluations
-    en tant qu’auteurs coordonnateurs principaux et auteurs principaux et formulent
-    des observations sur les chapitres en qualité d’examinateurs. Le GIEC réunit des
-    équipes d’auteurs représentatives de la diversité des points de vue et des qualifications
-    scientifiques, techniques et socio-économiques. Afin de parvenir à des rapports
-    d’évaluation exhaustifs, c’est-à-dire qui ne favorisent pas un pays ou un groupe
-    de pays mais tiennent compte des problématiques de chaque région, les équipes
-    sont constituées d’une variété d’auteurs provenant de diverses régions et de pays
-    développés comme de pays en développement. Des experts du secteur industriel et
-    d’organisations à but non lucratif, qui apportent une perspective utile à l’évaluation,
-    peuvent également faire partie des équipes. La parité homme-femme reste encore
-    un problème, avec 30% de femmes seulement.
+  answer_explanation: Des centaines de chercheurs consacrent du temps à établir des
+    évaluations en tant qu’auteurs coordonnateurs principaux et auteurs principaux
+    et formulent des observations sur les chapitres en qualité d’examinateurs. Le
+    GIEC réunit des équipes d’auteurs représentatives de la diversité des points de
+    vue et des qualifications scientifiques, techniques et socio-économiques. Afin
+    de parvenir à des rapports d’évaluation exhaustifs, c’est-à-dire qui ne favorisent
+    pas un pays ou un groupe de pays mais tiennent compte des problématiques de chaque
+    région, les équipes sont constituées d’une variété d’auteurs provenant de diverses
+    régions et de pays développés comme de pays en développement. Des experts du secteur
+    industriel et d’organisations à but non lucratif, qui apportent une perspective
+    utile à l’évaluation, peuvent également faire partie des équipes. La parité homme-femme
+    reste encore un problème, avec 30% de femmes seulement.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -17583,7 +17583,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2022-11-27'
+  updated: '2024-02-05'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -32879,8 +32879,8 @@
   answer_choice_d: 500 litres
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Et oui l'équivalent de 150 bouteilles d'un litre d'eau !\r\n\
-    \r\nLes principaux postes de consommation domestique sont les bains et les douches\
+  answer_explanation: "Et oui, l'équivalent de 150 bouteilles d'un litre d'eau ! \r\
+    \nLes principaux postes de consommation domestique sont les bains et les douches\
     \ (40%) et les WC (20%). 7% seulement de l’eau est directement utilisée pour l’alimentation\
     \ et la boisson.\r\nL'OMS estime qu'il faut 50 litres d'eau par jour et par personne\
     \ pour vivre décemment et 100 litres pour un réel confort."
@@ -32902,7 +32902,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2023-02-14'
+  updated: '2024-02-05'
 - id: 797
   text: Quelle est l'empreinte eau quotidienne d'un Français ?
   hint: ''
@@ -38311,15 +38311,17 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: 1ère
-  answer_choice_b: 3ème
-  answer_choice_c: 5ème
-  answer_choice_d: 10ème
+  answer_choice_b: 2ème
+  answer_choice_c: 3ème
+  answer_choice_d: 5ème
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'L’élevage représente environ 15% des émissions mondiales de
     GES : de manière directe avec la fermentation entérique, et indirecte avec la
     déforestation et les engrais azotés pour produire la nourriture de ces animaux
-    - dont les 2/3 uniquement pour les bovins.'
+    - dont les 2/3 uniquement pour les bovins. Les premiers pays émetteurs en 2020
+    sont : la Chine avec 28%, les Etats-Unis avec 11% puis l''Inde et l''Union Européenne,
+    avec 7% chacun.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38340,7 +38342,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2023-02-13'
+  updated: '2024-01-26'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -41813,7 +41815,8 @@
   answer_source_accessible_url_text: The Guardian "Climate crisis ‘unequivocally’
     caused by human activities, says IPCC report"
   answer_source_scientific_url: https://archive.ipcc.ch/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Special Report on the Ocean and Cryosphere in
+    a Changing Climate, IPCC, 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2faa1d7e.png
   answer_image_url_text: ''
@@ -41824,7 +41827,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-08-05'
+  updated: '2024-01-30'
 - id: 1035
   text: What would be the average earth surface temperature without greenhouse effect
     ?
