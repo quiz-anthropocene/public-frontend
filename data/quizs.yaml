@@ -2816,3 +2816,62 @@
   spotlight: false
   created: '2023-09-28'
   updated: '2023-11-20'
+- id: 104
+  name: Transition écologique des cadres sups de l'état
+  slug: transition-ecologique-des-cadres-sups-de-letat
+  introduction: "<p>Sous l’impulsion de la Première ministre, le ministre de la Transformation\
+    \ et de la Fonction publiques a lancé le un <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
+    >programme visant à former les 25 000 cadres supérieurs de l’État à la transition\
+    \ écologique</a> d’ici à la fin de 2024. L’objectif est de permettre l’approfondissement\
+    \ des connaissances des ces cadres sur les trois crises écologiques : climat,\
+    \ ressources naturelles, biodiversité. La formation est ambitieuse tant par son\
+    \ contenu scientifique que par sa durée inédite : 28 heures d’ateliers, de conférences\
+    \ scientifiques et d’ateliers de terrain.<strong> </strong>Elle vise trois objectifs :\
+    \ comprendre les trois crises, se projeter sur le terrain, passer à l’action.<br\
+    \ />\r\nAfin de tester de façon ludique le niveau de connaissance des participants\
+    \ à l'issue de leur parcours, la <a href=\"http://l’objectif est de tester de\
+    \ façon ludique le niveau de connaissance de nos stagiaires à l’issue de leur\
+    \ parcours de formation.\">Direction de l'Etat</a> qui pilote ce chantier inédit\
+    \ nous a fait confiance pour élaborer un quiz. Saurez-vous faire aussi bien, ou\
+    \ même encore mieux qu'eux ? On va voir ça</p>"
+  conclusion: "<p>Aux cadres visé.e.s par la formation qui venez de vous frotter à\
+    \ ces questions, bravo à vous d'arriver au terme de ce parcours. On espère que\
+    \ cette petite révision vous aura fait du bien !<br />\r\nAux autres, on espère\
+    \ que ce pot-pourri de questions vous aura donné envie d'en savoir plus. En particulier,\
+    \ de consulter les sources fournies pour aller plus loin pour chacune des questions.</p>"
+  questions:
+  - 7
+  - 9
+  - 13
+  - 16
+  - 59
+  - 61
+  - 65
+  - 69
+  - 70
+  - 71
+  - 440
+  - 589
+  - 719
+  - 738
+  - 929
+  - 933
+  - 968
+  - 969
+  question_count: 18
+  tags: []
+  difficulty_average: 2.2
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/27b3d956.JPG
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2024-02-14'
+  updated: '2024-02-14'
