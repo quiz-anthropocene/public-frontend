@@ -3088,11 +3088,6 @@
   question: 59
   order: 10
   created: '2024-02-14'
-- id: 801
-  quiz: 104
-  question: 9
-  order: 75
-  created: '2024-02-14'
 - id: 802
   quiz: 104
   question: 13
