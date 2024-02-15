@@ -2728,7 +2728,8 @@
   answer_source_accessible_url_text: Les plantes affamées par le déclin du phosphate
     dans les sols
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/abs/pii/S095937800800099X
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The story of phosphorus: Global food security
+    and food for thought, Science Direct, 2019'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000065-7561.gif
   answer_image_url_text: ''
@@ -2739,7 +2740,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 66
   text: Quelle proportion du carbone dégagé par l'activité humaine est stockée dans
     la végétation et les sols ?
@@ -23762,11 +23763,11 @@
   answer_choice_d: 1 personne sur 4
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Près d’un quart de la population mondiale, vivant dans dix-sept
-    pays, est en situation de « stress hydrique très élevé». C''est une conséquence
-    de l''augmentation de l''effet de serre, qui vient perturber le cycle de l''eau.
+  answer_explanation: Près d’un quart de la population mondiale, vivant dans dix-sept
+    pays, est en situation de « stress hydrique très élevé». C'est une conséquence
+    de l'augmentation de l'effet de serre, qui vient perturber le cycle de l'eau.
     Les prévisions pour 2040 sont encore plus inquiétantes, comme le montre le graphique
-    ci-dessous. '
+    ci-dessous.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -23775,7 +23776,8 @@
   answer_source_accessible_url_text: Près d’un quart des êtres humains menacés par
     la pénurie d’eau
   answer_source_scientific_url: https://www.wri.org/blog/2019/08/17-countries-home-one-quarter-world-population-face-extremely-high-water-stress
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 25 Countries, Housing One-quarter of the Population,
+    Face Extremely High Water Stress, World Resources Institute, 2023
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000589-a12b.png
   answer_image_url_text: En l'absence de changement majeur, les pays indiqués en rouge
@@ -23787,7 +23789,7 @@
   validator: 2
   validation_date: '2020-09-29'
   created: '2020-09-22'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 590
   text: Parmi ces régions, lesquelles ont connu des gigantesques feux de forêt entre
     le 1er juillet 2019 et le 1er juillet 2020 ?
@@ -30291,7 +30293,7 @@
     \ est consacrée à extraire et raffiner les ressources métallique. Il faut donc\
     \ de plus en plus d’énergie pour les extraire. Or les extractions de la source\
     \ principale d’énergie, le pétrole, paraissent elles-mêmes au bord du déclin.\
-    \ \nLe même commentaire s'applique aux métaux rares qui sont au cœur des énergies\
+    \ \r\nLe même commentaire s'applique aux métaux rares qui sont au cœur des énergies\
     \ renouvelables, comme le Néodyme (1kg dans une voiture hybride, 1 tonne dans\
     \ une éolienne). Le recyclage est bien sûr une piste, mais avec ses limites physiques\
     \ et économiques."
@@ -30302,8 +30304,9 @@
   answer_source_accessible_url: https://www.lemonde.fr/blog/petrole/2012/05/08/rarefaction-des-metaux-demain-le-peak-all/
   answer_source_accessible_url_text: 'Raréfaction des métaux : demain, le « peak all »
     – Oil Man'
-  answer_source_scientific_url: https://www.ademe.fr/sites/default/files/assets/documents/epuisement-metaux-mineraux-fiche-technique.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://librairie.ademe.fr/dechets-economie-circulaire/1889-epuisement-des-metaux-et-mineraux-faut-il-s-inquieter-.html
+  answer_source_scientific_url_text: 'Epuisement des métaux et minéraux : faut-il
+    s''inquiéter ? Librairie ADEME, 2017'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000738-0701.png
   answer_image_url_text: Prévisions de production annuelle (en millions de tonnes)
@@ -30315,7 +30318,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 739
   text: La mer d'Aral est un lac d'eau salée en Asie centrale, d'une surface initiale
     de l'ordre de 2 fois la Belgique. Elle a perdu récemment 90% de sa surface. En
@@ -38411,15 +38414,13 @@
   answer_choice_d: 77%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'L''élevage représente 77% des surfaces agricoles utilisées,
-    que cela soit via les pâturages (87%) ou via les cultures à destination de l''alimentation
-    animale (13%). L''INRAE estime que la part optimale de protéines d''origine animale
+  answer_explanation: L'élevage représente 77% des surfaces agricoles utilisées, que
+    cela soit via les pâturages (87%) ou via les cultures à destination de l'alimentation
+    animale (13%). L'INRAE estime que la part optimale de protéines d'origine animale
     dans nos régimes serait entre 15 et 30% pour limiter la surface cultivée nécessaire
     pour nourrir la population, les animaux valorisant les coproduits des cultures
-    à destination de l''alimentation humaine. Selon la FAO, la part actuelle dans
-    les pays développés est de 56%.
-
-    '
+    à destination de l'alimentation humaine. Selon la FAO, la part actuelle dans les
+    pays développés est de 56%.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38428,10 +38429,10 @@
   answer_source_accessible_url_text: Quand l'industrie de la viande dévore la planète,
     par Agnès Stienne (Les blogs du Diplo, 21 juin 2012)
   answer_source_scientific_url: http://www.fao.org/3/i0680f/i0680f.pdf
-  answer_source_scientific_url_text: ''
-  answer_book_recommendation: 'Source INRAE : https://www.inrae.fr/actualites/infographie-elevage-occupation-terres
-
-    Source FAO : http://www.fao.org/3/a0701e/a0701e11.pdf'
+  answer_source_scientific_url_text: La situation mondiale de l'alimentation et de
+    l'agriculture, FAO 2009
+  answer_book_recommendation: "Source INRAE : https://www.inrae.fr/actualites/infographie-elevage-occupation-terres\r\
+    \nSource FAO : http://www.fao.org/3/a0701e/a0701e11.pdf"
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000929-063f.png
   answer_image_url_text: 29% de la planète est occupée par des terres, dont 71% de
     cette surface terrestre est habitable. La surface habitable elle, est dédiée à
@@ -38443,7 +38444,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -38615,12 +38616,13 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://bonpote.com/empreinte-carbone-des-services-publics/
   answer_source_accessible_url_text: Empreinte carbone des Services Publics
-  answer_source_scientific_url: https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/empreinte-carbone/article/l-empreinte-carbone-de-la-france
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.legifrance.gouv.fr/download/pdf/circ?id=45511
+  answer_source_scientific_url_text: Circulaire n° 6425-SG du 21 novembre 2023 relative
+    à l’engagement pour la transformation écologique de l’État
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000933-aa87.png
-  answer_image_url_text: Décomposition de l’empreinte carbone par poste de consommation
-    en 2016
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9fd35877.png
+  answer_image_url_text: Emissions de l'Etat français et objectifs de réduction à
+    l'horizon 2050
   answer_extra_info: ''
   author: 12
   visibility: PUBLIC
@@ -38628,7 +38630,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 934
   text: De combien la température moyenne sur Terre s'est-elle réchauffée depuis l'ère
     préindustrielle ?
