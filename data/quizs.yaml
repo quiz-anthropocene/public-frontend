@@ -2817,28 +2817,27 @@
   created: '2023-09-28'
   updated: '2023-11-20'
 - id: 104
-  name: Transition écologique des cadres sups de l'état
+  name: Transition écologique des cadres sup' de l'état
   slug: transition-ecologique-des-cadres-sups-de-letat
-  introduction: "<p>Sous l’impulsion de la Première ministre, le ministre de la Transformation\
-    \ et de la Fonction publiques a lancé un programme visant à <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
-    >former les 25 000 cadres supérieurs de l’État à la transition écologique</a>\
-    \ d’ici à la fin de 2024, avec un déploiement ultérieur auprès de l'ensemble des\
-    \ agents de l'état. L’objectif est de permettre l’approfondissement des connaissances\
-    \ des ces cadres sur les trois crises écologiques : climat, ressources naturelles,\
-    \ biodiversité. 28 heures d’ateliers, de conférences scientifiques et d’ateliers\
-    \ de terrain avec 3 objectifs sous-jacents : comprendre les trois crises, se projeter\
-    \ sur le terrain, passer à l’action.<br />\r\nAfin de tester de façon ludique\
-    \ le niveau de connaissance des participants à l'issue de leur parcours, la <a\
-    \ href=\"http://l’objectif est de tester de façon ludique le niveau de connaissance\
-    \ de nos stagiaires à l’issue de leur parcours de formation.\">Direction de l'Etat</a>\
-    \ qui pilote ce chantier inédit nous a sollicités pour élaborer un quiz. Saurez-vous\
-    \ faire aussi bien, ou même encore mieux qu'eux ? C'est ce qu'on va voir.</p>"
-  conclusion: "<p>Aux cadres visé.e.s par la formation qui venez de vous frotter à\
-    \ ces questions, bravo à vous d'arriver au terme de ce parcours. On espère que\
-    \ ce retour sur les enseignements vous aura fait du bien !<br />\r\nAux autres,\
-    \ on espère que ce pot-pourri de questions vous aura donné envie d'en savoir plus.\
-    \ En particulier, de consulter les sources fournies pour chacune des questions,\
-    \ et de jouer d'autres quiz proposés sur le site.</p>"
+  introduction: "<p>Le Ministère de la Transformation et de la Fonction publiques\
+    \ de l'Etat français a lancé un programme visant à <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
+    >former les 25 000 cadres supérieurs de l’État à la transition écologique</a>,\
+    \ avec un éploiement ultérieur auprès de l'ensemble des agents de l'état : 28\
+    \ heures d’ateliers, de conférences scientifiques et d’ateliers de terrain, avec\
+    \ 3 objectifs sous-jacents : comprendre les crises du vivant, du climat et des\
+    \ ressources, se projeter sur le terrain, passer à l’action.<br />\r\nAfin de\
+    \ tester de façon ludique le niveau de connaissance des participants à l'issue\
+    \ de leur parcours, la <a href=\"http://l’objectif est de tester de façon ludique\
+    \ le niveau de connaissance de nos stagiaires à l’issue de leur parcours de formation.\"\
+    >Direction de l'Etat</a> qui pilote ce chantier inédit nous a sollicités pour\
+    \ élaborer un quiz. Saurez-vous faire aussi bien, ou même encore mieux qu'eux\
+    \ ? C'est ce qu'on va voir.</p>"
+  conclusion: "<p>Vous faites partie du public ciblé par la formation ? Bravo à vous\
+    \ d'être arrivé au terme de ce parcours. On espère que ce retour sur les enseignements\
+    \ vous aura fait du bien !<br />\r\nAux autres, on espère que ce pot-pourri de\
+    \ questions vous aura donné envie d'en savoir plus. En particulier, de consulter\
+    \ les sources fournies pour chacune des questions, et de jouer d'autres quiz proposés\
+    \ sur le site.</p>"
   questions:
   - 7
   - 9
