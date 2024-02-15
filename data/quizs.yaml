@@ -2822,16 +2822,15 @@
   introduction: "<p>Le Ministère de la Transformation et de la Fonction publiques\
     \ de l'Etat français a lancé un programme visant à <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
     >former les 25 000 cadres supérieurs de l’État à la transition écologique</a>,\
-    \ avec un déploiement ultérieur auprès de l'ensemble des agents de l'état : 28\
-    \ heures d’ateliers, de conférences scientifiques et d’ateliers de terrain, avec\
-    \ 3 objectifs sous-jacents : comprendre les crises du vivant, du climat et des\
-    \ ressources, se projeter sur le terrain, passer à l’action.<br />\r\nAfin de\
-    \ tester de façon ludique le niveau de connaissance des participants à l'issue\
-    \ de leur parcours, la <a href=\"http://l’objectif est de tester de façon ludique\
-    \ le niveau de connaissance de nos stagiaires à l’issue de leur parcours de formation.\"\
-    >Direction de l'Etat</a> qui pilote ce chantier inédit nous a sollicités pour\
-    \ élaborer un quiz. Saurez-vous faire aussi bien, ou même encore mieux qu'eux\
-    \ ? C'est ce qu'on va voir.</p>"
+    \ avec un déploiement ultérieur auprès de l'ensemble des agents de l'état. Ateliers\
+    \ interactifs, conférences scientifiques, visites terrain, avec 3 objectifs sous-jacents\
+    \ : comprendre les 3 crises environnementales - biodiversité, climat, ressources\
+    \ - se projeter sur le terrain, passer à l’action.<br />\r\nAfin de tester de\
+    \ façon ludique le niveau de connaissance des participants à l'issue de leur parcours,\
+    \ la<a href=\"https://www.linkedin.com/company/delegationencadrementdeletat\"\
+    > Direction de l'Etat</a> qui pilote ce chantier inédit nous a sollicités pour\
+    \ élaborer un quiz récapitulatif. Saurez-vous faire aussi bien, ou même encore\
+    \ mieux qu'eux ? C'est ce qu'on va voir.</p>"
   conclusion: "<p>Vous faites partie du public ciblé par la formation ? Bravo à vous\
     \ d'être arrivé au terme de ce parcours. On espère que ce retour sur les enseignements\
     \ vous aura fait du bien !<br />\r\nAux autres, on espère que ce pot-pourri de\
@@ -2842,7 +2841,6 @@
   - 7
   - 13
   - 16
-  - 59
   - 61
   - 65
   - 69
@@ -2856,9 +2854,10 @@
   - 933
   - 968
   - 969
+  - 1155
   question_count: 17
   tags: []
-  difficulty_average: 2.2
+  difficulty_average: 2.1
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/27b3d956.JPG
   has_audio: false

@@ -2500,7 +2500,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 60
   text: Parmi les familles suivantes, quelle est celle dont la proportion d'espèces
     menacées est la plus forte ?
@@ -47096,3 +47096,52 @@
   validation_date: null
   created: '2023-08-15'
   updated: '2023-08-15'
+- id: 1155
+  text: "Les scientifiques ont déterminé \v9 frontières planétaires. \vCombien d’entre\
+    \ elles sont considérées comme dépassées ?"
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: '3'
+  answer_choice_b: '4'
+  answer_choice_c: '6'
+  answer_choice_d: '9'
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Les limites planétaires sont les seuils que l'humanité ne devrait\
+    \ pas dépasser pour ne pas compromettre les conditions favorables dans lesquelles\
+    \ elle a pu se développer et pour pouvoir durablement vivre dans un écosystème\
+    \ sûr, c’est-à-dire en évitant les modifications brutales et difficilement prévisibles\
+    \ de l'environnement planétaire.\r\nCe concept a été proposé par une équipe internationale\
+    \ de vingt-six chercheurs et publié en 2009. Il a depuis été mis à jour par des\
+    \ publications régulières.\r\nIl consiste en neuf limites planétaires, dont huit\
+    \ sont chiffrées par les chercheurs. Neuf processus sont retenus comme limites,\
+    \ car ensemble ils remettent en cause la stabilité de la biosphère : le changement\
+    \ climatique, l’érosion de la biodiversité, la perturbation des cycles biogéochimiques\
+    \ de l’azote et du phosphore, les changements d'utilisation des sols, l’acidification\
+    \ des océans, l’utilisation mondiale de l’eau, l’appauvrissement de la couche\
+    \ d'ozone, l'introduction d’entités nouvelles dans l’environnement (pollution\
+    \ chimique) et l'augmentation des aérosols dans l’atmosphère. 6 sont considérées\
+    \ comme dépassées."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/Limites_plan%C3%A9taires
+  answer_source_accessible_url_text: Wikipédia, les limites planétaires
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f6812529.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-02-15'
+  updated: '2024-02-15'
