@@ -2822,7 +2822,7 @@
   introduction: "<p>Le Ministère de la Transformation et de la Fonction publiques\
     \ de l'Etat français a lancé un programme visant à <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
     >former les 25 000 cadres supérieurs de l’État à la transition écologique</a>,\
-    \ avec un éploiement ultérieur auprès de l'ensemble des agents de l'état : 28\
+    \ avec un déploiement ultérieur auprès de l'ensemble des agents de l'état : 28\
     \ heures d’ateliers, de conférences scientifiques et d’ateliers de terrain, avec\
     \ 3 objectifs sous-jacents : comprendre les crises du vivant, du climat et des\
     \ ressources, se projeter sur le terrain, passer à l’action.<br />\r\nAfin de\
@@ -2840,7 +2840,6 @@
     \ sur le site.</p>"
   questions:
   - 7
-  - 9
   - 13
   - 16
   - 59
@@ -2857,7 +2856,7 @@
   - 933
   - 968
   - 969
-  question_count: 18
+  question_count: 17
   tags: []
   difficulty_average: 2.2
   language: FRENCH
