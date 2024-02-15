@@ -506,7 +506,8 @@
   created: '2020-03-09'
   updated: '2022-04-16'
 - id: 13
-  text: Combien l'humanité consomme-t-elle de barils de pétrole en une journée ?
+  text: En 24 heures, combien de barils de pétrole sont consommés à l'échelle mondiale
+    (à date de 2020) ?
   hint: ''
   type: QCM
   category: 5
@@ -515,7 +516,7 @@
   - 216
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 100,000 barils, l'énergie que produiraient 1 milliard d'humains
+  answer_choice_a: 100 000 barils, l'énergie que produiraient 1 milliard d'humains
     en un jour en travaillant manuellement
   answer_choice_b: 1 million de barils, l'énergie que produiraient 10 milliards d'humains
     en un jour
@@ -561,7 +562,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 14
   text: De combien serait la température moyenne à la surface de la Terre sans l’effet
     de serre naturel ?
@@ -685,7 +686,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 17
   text: A combien se sont élevées les émissions mondiales de gaz à effet de serre
     en 2015 ? (en équivalent CO2)
@@ -2540,9 +2541,8 @@
   updated: '2022-12-12'
 - id: 61
   text: On connaît la dernière grande extinction d'espèces, celle des dinosaures il
-    y a 66 millions d'année. Les scientifiques disent qu'une 6ème extinction est en
-    cours. A quelle vitesse les espèces disparaissent-elles par rapport à avant la
-    révolution industrielle ?
+    y a 66 millions d'année. . A quelle vitesse les espèces disparaissent-elles par
+    rapport à avant la révolution industrielle ?
   hint: ''
   type: QCM
   category: 4
@@ -2552,14 +2552,15 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: Une vitesse comparable
-  answer_choice_b: 10 fois plus vite
-  answer_choice_c: 100 fois plus vite
-  answer_choice_d: 1000 fois plus vite
+  answer_choice_b: Entre 1 et 10 fois plus vite
+  answer_choice_c: Entre 10 et 1000 moins plus vite
+  answer_choice_d: 10,000 fois plus vite
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: En l'espace d'un siècle, l'impact de l'humanité sur la Terre
-    risque d'être bien plus important que celui d'une astéroïde il y a 65 millions
-    d'années
+    risque d'être bien plus important que celui d'un astéroïde il y a 65 millions
+    d'années. C'est pourquoi les scientifiques parlent d'une 6ème extinction est en
+    cours.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2578,7 +2579,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -2919,8 +2920,8 @@
   created: '2020-03-10'
   updated: '2024-02-14'
 - id: 70
-  text: Quelle est la part des énergies fossiles dans la consommation d'énergie mondiale
-    ?
+  text: A date de 2013, quelle était la part des énergies fossiles dans la consommation
+    d'énergie mondiale ?
   hint: ''
   type: QCM
   category: 5
@@ -2937,7 +2938,7 @@
   answer_choice_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Pétrole (33%), Charbon (27%), Gaz (23%)\r\nOn parle beaucoup\
+  answer_explanation: "Pétrole (33%), Charbon (27%), Gaz (23%).\r\nOn parle beaucoup\
     \ d’électricité et d’énergies renouvelables, mais notre mode de vie est très largement\
     \ dépendant de l’usage des énergies fossiles. Que ce soit pour nos transports,\
     \ nos objets (le plastique), nos médicaments, nos vêtements, notre chauffage..."
@@ -2961,7 +2962,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 71
   text: A combien s'élève l'empreinte carbone d'un français (2018, en équivalent CO2)
     ?
@@ -17824,7 +17825,7 @@
   updated: '2022-11-16'
 - id: 440
   text: Si tous les humains vivaient avec le niveau de vie des Français, combien de
-    planètes Terre nous faudrait-il pour qu'il soit soutenable ?
+    planètes Terre nous faudrait-il pour qu'il soit soutenable ? (chiffres 2016)
   hint: ''
   type: QCM
   category: 2
@@ -17862,7 +17863,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-02-14'
+  updated: '2024-02-15'
 - id: 441
   text: 'Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à
     celles d’un Indien ?
