@@ -11895,8 +11895,8 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 294
-  text: Dans le monde, combien de personnes vivent dans des zones côtières à moins
-    de 10 mètres au dessus du niveau de la mer ?
+  text: Dans le monde, combien de personnes vivent dans à moins de 10 mètres au dessus
+    du niveau de la mer ?
   hint: ''
   type: QCM
   category: 1
@@ -11913,11 +11913,12 @@
   answer_choice_d: 1 milliard
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 10 mètres, c'est la limite adoptée par le GIEC pour définir
-    les populations côtières, les premières exposées à la montée des eaux et à la
-    montée en fréquence et intensité des phénomènes météorologiques extrêmes. Ce sont
-    aussi celles qui possèdent la plus faible capacité d'adaptation. On peut donc
-    s'attendre à une forte augmentation des phénomènes migratoires.
+  answer_explanation: 10 mètres au dessus du niveau de la mer, c'est la limite adoptée
+    par le GIEC pour définir les populations côtières. Elles sont les premières exposées
+    à la montée des eaux, et à l'augmentation en fréquence et en intensité des phénomènes
+    météorologiques extrêmes. Ce sont aussi celles qui possèdent la plus faible capacité
+    d'adaptation. Une illustration du besoin d'adaptation, c'est à dire de gérer l'inévitable,
+    à court-terme et localement.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -11939,7 +11940,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2023-01-20'
+  updated: '2024-02-16'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
