@@ -2817,7 +2817,7 @@
   created: '2023-09-28'
   updated: '2023-11-20'
 - id: 104
-  name: Transition écologique des cadres sup' de l'état
+  name: Transition écologique de l'encadrement de l'Etat
   slug: transition-ecologique-des-cadres-sups-de-letat
   introduction: "<p>Le Ministère de la Transformation et de la Fonction publiques\
     \ de l'Etat français a lancé un programme visant à <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
@@ -2871,4 +2871,4 @@
   publish_date: null
   spotlight: false
   created: '2024-02-14'
-  updated: '2024-02-15'
+  updated: '2024-02-16'
