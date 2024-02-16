@@ -2829,8 +2829,8 @@
     \ façon ludique le niveau de connaissance des participants à l'issue de leur parcours,\
     \ la<a href=\"https://www.linkedin.com/company/delegationencadrementdeletat\"\
     > Direction de l'Etat</a> qui pilote ce chantier inédit nous a sollicités pour\
-    \ élaborer un quiz récapitulatif. Saurez-vous faire aussi bien, ou même encore\
-    \ mieux qu'eux ? C'est ce qu'on va voir.</p>"
+    \ élaborer un quiz récapitulatif qui couvre ces 3 thématiques. Saurez-vous faire\
+    \ aussi bien, ou même encore mieux qu'eux ? C'est ce qu'on va voir.</p>"
   conclusion: "<p>Vous faites partie du public ciblé par la formation ? Bravo à vous\
     \ d'être arrivé au terme de ce parcours. On espère que ce retour sur les enseignements\
     \ vous aura fait du bien !<br />\r\nAux autres, on espère que ce pot-pourri de\
@@ -2846,6 +2846,7 @@
   - 69
   - 70
   - 71
+  - 294
   - 440
   - 589
   - 719
@@ -2855,7 +2856,7 @@
   - 968
   - 969
   - 1155
-  question_count: 17
+  question_count: 18
   tags: []
   difficulty_average: 2.1
   language: FRENCH
