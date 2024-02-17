@@ -17843,18 +17843,17 @@
   answer_choice_d: '8'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Si tous les humains avaient la même empreinte écologique que
-    l’Europe, il faudrait 2,8 planètes terre. L’Europe du sud nécessiterait 2,5 planètes,
-    et l’Europe de l’ouest 3 planètes.
+  answer_explanation: 2,9 dans le cas de la France, le graphique illustre les écarts
+    entre les pays. Ce concept est aussi
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=1021,1006,1018,2002,1012&yr=2016
-  answer_source_scientific_url_text: Global Footprint Nework - Ecological Footprint
-    of Countries 2016
+  answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=2002,68,5001,29,231&yr=2022
+  answer_source_scientific_url_text: Global Footprint Nework - Empreinte écologique
+    selon les pays, 2022
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dc82a3b1.png
   answer_image_url_text: ''
@@ -17865,7 +17864,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-02-15'
+  updated: '2024-02-16'
 - id: 441
   text: 'Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à
     celles d’un Indien ?
@@ -47098,8 +47097,8 @@
   created: '2023-08-15'
   updated: '2023-08-15'
 - id: 1155
-  text: "Les scientifiques ont déterminé \v9 frontières planétaires. \vCombien d’entre\
-    \ elles sont considérées comme dépassées ?"
+  text: Les scientifiques ont déterminé 9 frontières planétaires. Combien d’entre
+    elles sont considérées comme dépassées ?
   hint: ''
   type: QCM
   category: 8
@@ -47118,15 +47117,14 @@
     \ sûr, c’est-à-dire en évitant les modifications brutales et difficilement prévisibles\
     \ de l'environnement planétaire.\r\nCe concept a été proposé par une équipe internationale\
     \ de vingt-six chercheurs et publié en 2009. Il a depuis été mis à jour par des\
-    \ publications régulières.\r\nIl consiste en neuf limites planétaires, dont huit\
-    \ sont chiffrées par les chercheurs. Neuf processus sont retenus comme limites,\
-    \ car ensemble ils remettent en cause la stabilité de la biosphère : le changement\
-    \ climatique, l’érosion de la biodiversité, la perturbation des cycles biogéochimiques\
-    \ de l’azote et du phosphore, les changements d'utilisation des sols, l’acidification\
+    \ publications régulières.\r\n9 processus sont retenus comme limites, car ensemble\
+    \ ils remettent en cause la stabilité de la biosphère : le changement climatique,\
+    \ l’érosion de la biodiversité, la perturbation des cycles biogéochimiques de\
+    \ l’azote et du phosphore, les changements d'utilisation des sols, l’acidification\
     \ des océans, l’utilisation mondiale de l’eau, l’appauvrissement de la couche\
     \ d'ozone, l'introduction d’entités nouvelles dans l’environnement (pollution\
-    \ chimique) et l'augmentation des aérosols dans l’atmosphère. 6 sont considérées\
-    \ comme dépassées."
+    \ chimique) et l'augmentation des aérosols dans l’atmosphère. 6 sont aujourd'hui\
+    \ considérés comme dépassées."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47141,8 +47139,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 47
+  validation_date: '2024-02-16'
   created: '2024-02-15'
-  updated: '2024-02-15'
+  updated: '2024-02-16'
