@@ -260,7 +260,7 @@
   updated: '2023-01-09'
 - id: 7
   text: Des scientifiques ont suivi la taille des populations de 30,000 espèces de
-    vertébrés sur 40 ans. Qu'ont-ils observé ?
+    vertébrés sur 40 ans, entre 1970 et 2010. Qu'ont-ils observé ?
   hint: ''
   type: QCM
   category: 4
@@ -291,8 +291,7 @@
     des espèces « sans précédent » et qui s’accélère, IPBES, Mai 2019'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b2167c3f.png
-  answer_image_url_text: L’indice Planète vivante, qui mesure l’abondance de la biodiversité,
-    affiche un déclin de 58 % entre 1970 et 2010.
+  answer_image_url_text: Indice Planète vivante, qui mesure l’abondance de la biodiversité
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -300,7 +299,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
@@ -516,14 +515,11 @@
   - 216
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 100 000 barils, l'énergie que produiraient 1 milliard d'humains
+  answer_choice_a: 100 000 barils, soit l'énergie que produiraient 1 milliard d'humains
     en un jour en travaillant manuellement
-  answer_choice_b: 1 million de barils, l'énergie que produiraient 10 milliards d'humains
-    en un jour
-  answer_choice_c: 10 millions de barils, l'énergie que produiraient 100 milliards
-    d'humains en un jour
-  answer_choice_d: 100 millions de barils, l'énergie que produiraient 1000 milliards
-    d'humains en un jour
+  answer_choice_b: 1 million de barils - 10 milliards d'humains avec la même équivalence
+  answer_choice_c: 10 millions de barils - 100 milliards d'humains
+  answer_choice_d: 100 millions de barils - 1000 milliards d'humains
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Le pétrole est plus que jamais consommé en très grande quantité.
@@ -562,7 +558,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 14
   text: De combien serait la température moyenne à la surface de la Terre sans l’effet
     de serre naturel ?
@@ -664,10 +660,11 @@
   answer_choice_d: +2°C
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Selon les scénarios du GIEC, elle aura augmenté de 2°C à 5°C
-    d'ici 2100. Or, lors de la dernière période glaciaire il y a 20,000 ans, elle
-    était seulement 5°C plus basse qu'aujourd'hui...et la déglaciation a duré 10,000
-    ans.
+  answer_explanation: Cette moyenne s'entend à l'échelle de planète (terres, océans),
+    et à l'échelle de 30 ans. Selon les scénarios du GIEC, elle aura augmenté de 2°C
+    à 5°C d'ici 2100. Or, lors de la dernière période glaciaire il y a 20,000 ans,
+    elle était seulement 5°C plus basse qu'aujourd'hui...et la déglaciation a duré
+    10,000 ans.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -686,7 +683,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 17
   text: A combien se sont élevées les émissions mondiales de gaz à effet de serre
     en 2015 ? (en équivalent CO2)
@@ -2558,9 +2555,9 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: En l'espace d'un siècle, l'impact de l'humanité sur la Terre
-    risque d'être bien plus important que celui d'un astéroïde il y a 65 millions
-    d'années. C'est pourquoi les scientifiques parlent d'une 6ème extinction est en
-    cours.
+    risque d'être bien plus important que celui de l'astéroïde présumé être à l'origine
+    de la 5ème extinction. C'est pourquoi les scientifiques parlent d'ores et déjà
+    d'une 6ème extinction.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2579,7 +2576,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -2719,7 +2716,8 @@
   answer_explanation: Or 82% des sols français dépendant actuellement des engrais
     phosphatés. Le principal exportateur mondial en est la Chine. Or il n'existe aucun
     substitut naturel au phosphore. D'autres estimations circulent, mais il est important
-    de se rendre compte que c'est une ressource finie dont dépend l'agriculture actuelle.
+    de se rendre compte que c'est une ressource finie, indispensable à l'agriculture
+    intensive.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2740,7 +2738,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 66
   text: Quelle proportion du carbone dégagé par l'activité humaine est stockée dans
     la végétation et les sols ?
@@ -17843,18 +17841,25 @@
   answer_choice_d: '8'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Si tous les humains avaient la même empreinte écologique que
-    l’Europe, il faudrait 2,8 planètes terre. L’Europe du sud nécessiterait 2,5 planètes,
-    et l’Europe de l’ouest 3 planètes.
+  answer_explanation: L'empreinte écologique - ou empreinte environnementale - est
+    un indicateur qui comptabilise la pression exercée par les humains envers les
+    ressources naturelles et les «services» fournis par la planète. Plus précisément,
+    elle mesure les surfaces alimentaires productives de terres et d'eau nécessaires
+    pour produire les ressources et pour absorber les déchets générés. On peut l'exprimer
+    en termes de planètes requises pour un pays. Cette empreinte est de 2,9 planètes
+    dans le cas de la France, et le graphique de gauche illustre les écarts entre
+    les pays. On parle aussi du jour du dépassement (figure de droite), une autre
+    manière de représenter ce déséquilibre vis à vis de la capacité de charge de la
+    planète.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=1021,1006,1018,2002,1012&yr=2016
-  answer_source_scientific_url_text: Global Footprint Nework - Ecological Footprint
-    of Countries 2016
+  answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=2002,68,5001,29,231&yr=2022
+  answer_source_scientific_url_text: Global Footprint Nework - Empreinte écologique
+    selon les pays, 2022
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dc82a3b1.png
   answer_image_url_text: ''
@@ -17865,7 +17870,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 441
   text: 'Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à
     celles d’un Indien ?
@@ -29383,11 +29388,12 @@
   answer_choice_a: '...faisant 1 aller-retour Paris New York'
   answer_choice_b: '...roulant 10,000 km en Clio'
   answer_choice_c: '...chauffant un appartement de 80m2 au fioul pendant un an'
-  answer_choice_d: '...mangeant de la viande une fois par jour'
+  answer_choice_d: '...adoptant un régime alimentaire avec de la viande une fois par
+    jour'
   answer_correct: abcd
   has_ordered_answers: true
   answer_explanation: "Eh oui ! Une seule de ces quatre options vous fait atteindre\
-    \ votre budget carbone. 2 tonnes, c'est encore l'empreinte moyenne d'un Français...en\
+    \ votre budget carbone 2050. 2 tonnes, c'est encore l'empreinte moyenne d'un Français...en\
     \ 1881 !\r\nPour la Clio, voici un calcul de coin de table : 10,000 km *conso\
     \ de 6l/100km  x 3kg de CO2/l = 1,8t.  \r\nL'empreinte moyenne d'un Français est\
     \ désormais estimée autour de 10t, dont la moitié sont des émissions importées.\
@@ -29412,7 +29418,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-02-14'
+  updated: '2024-02-17'
 - id: 720
   text: Quelle quantité d'énergie y a-t-il dans un litre de kérosène...  en kWh ?
   hint: On n'imagine pas les services pour pas très cher.
@@ -38445,7 +38451,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -38631,7 +38637,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-02-15'
+  updated: '2024-02-17'
 - id: 934
   text: De combien la température moyenne sur Terre s'est-elle réchauffée depuis l'ère
     préindustrielle ?
@@ -40126,8 +40132,8 @@
   created: '2021-11-29'
   updated: '2024-02-15'
 - id: 969
-  text: De combien diminue-t-on les émissions d'un logement en passant de la classe
-    E à la classe A ?
+  text: A surface donnée, quelle différence d'émissions entre un logement classe E
+    et classe A ?
   hint: ''
   type: QCM
   category: 1
@@ -40136,22 +40142,22 @@
   - 72
   difficulty: 3
   language: FRENCH
-  answer_choice_a: D'un facteur 2
-  answer_choice_b: D'un facteur 5
-  answer_choice_c: D'un facteur 10
-  answer_choice_d: D'un facteur 20
+  answer_choice_a: 2 fois plus
+  answer_choice_b: 5 fois plus
+  answer_choice_c: 10 fois plus
+  answer_choice_d: 20 fois plus
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: 'Les classes A à G des bâtiments sont établis par un diagnostic
-    de performance énergétique (DPE). A surface donnée, en chauffant à 19°C le jour
-    et 16°C la nuit, les émissions d''un logement en classe A seront 10 fois moindres
-    que celui d''un classe E chauffé au fioul ou au gaz. La classe A signifie en effet
-    un très bon niveau d''isolation et des modes de chauffage beaucoup moins émissifs
-    : pompe à chaleur, chauffage bois performant, etc. L''isolation est donc un levier
-    énorme pour réduire l''impact en émissions de GES du bâtiment tout en améliorant
-    le confort des occupants en hiver et en été et en réduisant le budget alloué au
-    chauffage. Il y a un facteur 10 entre les émissions d''un logement classé A et
-    un logement classé E.'
+    de performance énergétique (DPE). En chauffant à 19°C le jour et 16°C la nuit,
+    les émissions d''un logement en classe A seront 10 fois moindres que celui d''un
+    classe E chauffé au fioul ou au gaz. La classe A signifie en effet un très bon
+    niveau d''isolation et des modes de chauffage beaucoup moins émissifs : pompe
+    à chaleur, chauffage bois performant, etc. L''isolation est donc un levier énorme
+    pour réduire l''impact en émissions de GES du bâtiment tout en améliorant le confort
+    des occupants en hiver et en été et en réduisant le budget alloué au chauffage.
+    Il y a un facteur 10 entre les émissions d''un logement classé A et un logement
+    classé E.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -40170,7 +40176,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-14'
+  updated: '2024-02-17'
 - id: 970
   text: Qu'est-ce qu'on pourra faire plus dans un monde bas carbone ?
   hint: ''
@@ -47098,8 +47104,8 @@
   created: '2023-08-15'
   updated: '2023-08-15'
 - id: 1155
-  text: "Les scientifiques ont déterminé \v9 frontières planétaires. \vCombien d’entre\
-    \ elles sont considérées comme dépassées ?"
+  text: Les scientifiques ont déterminé 9 frontières planétaires. Combien d’entre
+    elles sont considérées comme dépassées ?
   hint: ''
   type: QCM
   category: 8
@@ -47118,15 +47124,14 @@
     \ sûr, c’est-à-dire en évitant les modifications brutales et difficilement prévisibles\
     \ de l'environnement planétaire.\r\nCe concept a été proposé par une équipe internationale\
     \ de vingt-six chercheurs et publié en 2009. Il a depuis été mis à jour par des\
-    \ publications régulières.\r\nIl consiste en neuf limites planétaires, dont huit\
-    \ sont chiffrées par les chercheurs. Neuf processus sont retenus comme limites,\
-    \ car ensemble ils remettent en cause la stabilité de la biosphère : le changement\
-    \ climatique, l’érosion de la biodiversité, la perturbation des cycles biogéochimiques\
-    \ de l’azote et du phosphore, les changements d'utilisation des sols, l’acidification\
+    \ publications régulières.\r\n9 processus sont retenus comme limites, car ensemble\
+    \ ils remettent en cause la stabilité de la biosphère : le changement climatique,\
+    \ l’érosion de la biodiversité, la perturbation des cycles biogéochimiques de\
+    \ l’azote et du phosphore, les changements d'utilisation des sols, l’acidification\
     \ des océans, l’utilisation mondiale de l’eau, l’appauvrissement de la couche\
     \ d'ozone, l'introduction d’entités nouvelles dans l’environnement (pollution\
-    \ chimique) et l'augmentation des aérosols dans l’atmosphère. 6 sont considérées\
-    \ comme dépassées."
+    \ chimique) et l'augmentation des aérosols dans l’atmosphère. 6 sont aujourd'hui\
+    \ considérés comme dépassées."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47141,8 +47146,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 47
+  validation_date: '2024-02-16'
   created: '2024-02-15'
-  updated: '2024-02-15'
+  updated: '2024-02-16'
