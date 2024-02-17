@@ -2821,22 +2821,23 @@
   slug: transition-ecologique-des-cadres-sups-de-letat
   introduction: "<p>Le Ministère de la Transformation et de la Fonction publiques\
     \ de l'Etat français a lancé un programme visant à <a href=\"https://www.diese.gouv.fr/formation-la-transition-ecologique-des-25-000-cadres-superieurs-de-letat\"\
-    >former les 25 000 cadres supérieurs de l’État à la transition écologique</a>,\
-    \ avec un déploiement ultérieur auprès de l'ensemble des agents de l'état. Ateliers\
-    \ interactifs, conférences scientifiques, visites terrain, avec 3 objectifs sous-jacents\
-    \ : comprendre les 3 crises environnementales - biodiversité, climat, ressources\
-    \ - se projeter sur le terrain, passer à l’action.<br />\r\nAfin de tester de\
-    \ façon ludique le niveau de connaissance des participants à l'issue de leur parcours,\
-    \ la<a href=\"https://www.linkedin.com/company/delegationencadrementdeletat\"\
-    > Direction de l'Etat</a> qui pilote ce chantier inédit nous a sollicités pour\
-    \ élaborer un quiz récapitulatif qui couvre ces 3 thématiques. Saurez-vous faire\
-    \ aussi bien, ou même encore mieux qu'eux ? C'est ce qu'on va voir.</p>"
+    \ target=\"_blank\">former les 25 000 cadres supérieurs de l’État à la transition\
+    \ écologique</a>, avec un déploiement ultérieur auprès de l'ensemble des agents\
+    \ de l'état. Ateliers interactifs, conférences scientifiques, visites terrain,\
+    \ avec 3 objectifs sous-jacents : comprendre les 3 crises environnementales -\
+    \ biodiversité, climat, ressources - se projeter sur le terrain, passer à l’action.<br\
+    \ />\r\nAfin de tester de façon ludique le niveau de connaissance des participants\
+    \ à l'issue de leur parcours, la<a href=\"https://www.linkedin.com/company/delegationencadrementdeletat\"\
+    \ target=\"_blank\"> Direction de l'Etat</a> qui pilote ce chantier inédit nous\
+    \ a sollicités pour élaborer un quiz récapitulatif qui couvre ces 3 thématiques.\
+    \ Saurez-vous faire aussi bien, ou même encore mieux qu'eux ? C'est ce qu'on va\
+    \ voir.</p>"
   conclusion: "<p>Vous faites partie du public ciblé par la formation ? Bravo à vous\
     \ d'être arrivé au terme de ce parcours. On espère que ce retour sur les enseignements\
     \ vous aura fait du bien !<br />\r\nAux autres, on espère que ce pot-pourri de\
     \ questions vous aura donné envie d'en savoir plus. En particulier, de consulter\
-    \ les sources fournies pour chacune des questions, et de jouer d'autres quiz proposés\
-    \ sur le site.</p>"
+    \ les sources fournies pour chacune des questions, et de jouer à d'autres quiz\
+    \ proposés sur le site.</p>"
   questions:
   - 7
   - 13
