@@ -259,8 +259,8 @@
   created: '2020-03-08'
   updated: '2023-01-09'
 - id: 7
-  text: Des scientifiques ont suivi la taille des populations de 30,000 espèces de
-    vertébrés sur 40 ans, entre 1970 et 2010. Qu'ont-ils observé ?
+  text: Des scientifiques ont suivi l'abondance des populations de 30,000 espèces
+    de vertébrés sauvages sur 40 ans, entre 1970 et 2010. Qu'ont-ils observé ?
   hint: ''
   type: QCM
   category: 4
@@ -299,7 +299,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-02-17'
+  updated: '2024-02-19'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
@@ -505,8 +505,8 @@
   created: '2020-03-09'
   updated: '2022-04-16'
 - id: 13
-  text: En 24 heures, combien de barils de pétrole sont consommés à l'échelle mondiale
-    (à date de 2020) ?
+  text: A l'échelle mondiale, combien de barils de pétrole ont été consommés par jour
+    en 2020 ?
   hint: ''
   type: QCM
   category: 5
@@ -558,7 +558,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2024-02-17'
+  updated: '2024-02-19'
 - id: 14
   text: De combien serait la température moyenne à la surface de la Terre sans l’effet
     de serre naturel ?
@@ -644,7 +644,8 @@
   created: '2020-03-09'
   updated: '2022-04-16'
 - id: 16
-  text: Quelle a été l'évolution de la température moyenne sur Terre depuis 1850 ?
+  text: Quelle a été l'évolution de la température moyenne sur Terre depuis 1850 jusqu'à
+    nos jours ?
   hint: ''
   type: QCM
   category: 1
@@ -669,8 +670,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: http://www.meteofrance.fr/climat-passe-et-futur/le-rechauffement-observe-a-l-echelle-du-globe-et-en-france
-  answer_source_accessible_url_text: METEO FRANCE - Le site institutionnel de Météo-France
+  answer_source_accessible_url: https://meteofrance.com/changement-climatique/observer/le-changement-climatique-observe-dans-le-monde
+  answer_source_accessible_url_text: 'Planète : le changement climatique observé,
+    Météo France, 2020'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -683,7 +685,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-17'
+  updated: '2024-02-19'
 - id: 17
   text: A combien se sont élevées les émissions mondiales de gaz à effet de serre
     en 2015 ? (en équivalent CO2)
@@ -11893,7 +11895,7 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 294
-  text: Dans le monde, combien de personnes vivent dans à moins de 10 mètres au dessus
+  text: Dans le monde, combien de personnes vivent à moins de 10 mètres au dessus
     du niveau de la mer ?
   hint: ''
   type: QCM
@@ -11938,7 +11940,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-02-16'
+  updated: '2024-02-18'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -23752,9 +23754,8 @@
   created: '2020-09-22'
   updated: '2022-04-16'
 - id: 589
-  text: Le stress hydrique est une situation dans laquelle les populations font face
-    à un manque voire une pénurie totale d'eau durant certaines périodes de l'année.
-    Combien de personnes y sont exposées sur terre ?
+  text: Le stress hydrique est une situation dans laquelle la demande en eau excède
+    les ressources disponibles. Combien de personnes y sont exposées sur terre ?
   hint: ''
   type: QCM
   category: 7
@@ -23770,10 +23771,10 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Près d’un quart de la population mondiale, vivant dans dix-sept
-    pays, est en situation de « stress hydrique très élevé». C'est une conséquence
-    de l'augmentation de l'effet de serre, qui vient perturber le cycle de l'eau.
-    Les prévisions pour 2040 sont encore plus inquiétantes, comme le montre le graphique
-    ci-dessous.
+    pays, est en situation de « stress hydrique très élevé». Sans parler des conséquences
+    sur la faune et la flore. C'est une conséquence de l'augmentation de l'effet de
+    serre, qui vient perturber le cycle de l'eau. Les prévisions pour 2040 sont encore
+    plus inquiétantes, comme le montre le graphique ci-dessous.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -23795,7 +23796,7 @@
   validator: 2
   validation_date: '2020-09-29'
   created: '2020-09-22'
-  updated: '2024-02-15'
+  updated: '2024-02-19'
 - id: 590
   text: Parmi ces régions, lesquelles ont connu des gigantesques feux de forêt entre
     le 1er juillet 2019 et le 1er juillet 2020 ?
@@ -40082,8 +40083,8 @@
   updated: '2022-11-02'
 - id: 968
   text: Parmi ces modes de transport, lesquels sont compatibles avec une vie bas carbone,
-    c'est à dire avec une réduction de nos émissions respectant les accords de Paris
-    à l'horizon 2050 ?
+    c'est à dire avec une réduction de nos émissions en phase avec les objectifs de
+    la COP21 à Paris ?
   hint: ''
   type: QCM-RM
   category: 1
@@ -40130,7 +40131,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-15'
+  updated: '2024-02-18'
 - id: 969
   text: A surface donnée, quelle différence d'émissions entre un logement classe E
     et classe A ?
