@@ -11893,7 +11893,7 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 294
-  text: Dans le monde, combien de personnes vivent dans à moins de 10 mètres au dessus
+  text: Dans le monde, combien de personnes vivent à moins de 10 mètres au dessus
     du niveau de la mer ?
   hint: ''
   type: QCM
@@ -11938,7 +11938,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-02-16'
+  updated: '2024-02-18'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -40082,8 +40082,8 @@
   updated: '2022-11-02'
 - id: 968
   text: Parmi ces modes de transport, lesquels sont compatibles avec une vie bas carbone,
-    c'est à dire avec une réduction de nos émissions respectant les accords de Paris
-    à l'horizon 2050 ?
+    c'est à dire avec une réduction de nos émissions en phase avec les objectifs de
+    la COP21 à Paris ?
   hint: ''
   type: QCM-RM
   category: 1
@@ -40130,7 +40130,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-15'
+  updated: '2024-02-18'
 - id: 969
   text: A surface donnée, quelle différence d'émissions entre un logement classe E
     et classe A ?
