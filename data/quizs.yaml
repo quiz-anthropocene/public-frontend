@@ -2830,14 +2830,14 @@
     \ à l'issue de leur parcours, la<a href=\"https://www.linkedin.com/company/delegationencadrementdeletat\"\
     \ target=\"_blank\"> Direction de l'Etat</a> qui pilote ce chantier inédit nous\
     \ a sollicités pour élaborer un quiz récapitulatif qui couvre ces 3 thématiques.\
-    \ Saurez-vous faire aussi bien, ou même encore mieux qu'eux ? C'est ce qu'on va\
-    \ voir.</p>"
+    \ Saurez-vous faire aussi bien, ou même encore mieux que les cadres de l'Etat\
+    \ ? C'est ce qu'on va voir.</p>"
   conclusion: "<p>Vous faites partie du public ciblé par la formation ? Bravo à vous\
-    \ d'être arrivé au terme de ce parcours. On espère que ce retour sur les enseignements\
-    \ vous aura fait du bien !<br />\r\nAux autres, on espère que ce pot-pourri de\
-    \ questions vous aura donné envie d'en savoir plus. En particulier, de consulter\
-    \ les sources fournies pour chacune des questions, et de jouer à d'autres quiz\
-    \ proposés sur le site.</p>"
+    \ d'être arrivé au terme de ce parcours. On espère que ce bouclage sur quelques\
+    \ chiffres et messages clefs vous aura fait du bien !<br />\r\nAux autres, on\
+    \ espère que ce pot-pourri de questions vous aura donné envie d'en savoir plus.\
+    \ En particulier, de consulter les sources fournies pour chacune des questions,\
+    \ et de jouer à d'autres quiz proposés sur le site.</p>"
   questions:
   - 7
   - 13
@@ -2873,4 +2873,4 @@
   publish_date: null
   spotlight: false
   created: '2024-02-14'
-  updated: '2024-02-16'
+  updated: '2024-02-19'
