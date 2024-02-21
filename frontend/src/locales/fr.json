@@ -8,12 +8,7 @@
     "On ne baisse pas les bras",
     "Rien n'est perdu",
     "On croit en toi",
-    "Essaie encore",
-    "Surtout, ne pas se décourager",
-    "La prochaine sera la bonne",
-    "ah… pas du tout",
-    "C'est raté",
-    "Vous vous êtes bien échauffé ?"
+    "Essaie encore"
   ],
   "QUESTION_SUCCESS_MESSAGES": [
     "C'est exact !",
@@ -21,12 +16,7 @@
     "Bien vu !",
     "Félicitations !",
     "Bravo !",
-    "Très fort",
-    "C'est bien ça. Coup de chance ?",
-    "Impressionnant",
-    "Ca c'est du génie",
-    "On applaudit",
-    "Rangez vos antisèches, c'est trop facile"
+    "Très fort"
   ],
   "about": {
     "about": "A propos",
