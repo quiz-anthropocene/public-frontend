@@ -2873,11 +2873,11 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  validation_status: VALIDATED
+  validator: 47
+  validation_date: '2024-02-27'
+  publish: true
+  publish_date: '2024-02-27'
+  spotlight: true
   created: '2024-02-14'
-  updated: '2024-02-22'
+  updated: '2024-02-27'
