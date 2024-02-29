@@ -676,7 +676,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000016-f9c8.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d93ddb34.svg
   answer_image_url_text: ''
   answer_extra_info: 'Source image: http://www.donnees.statistiques.developpement-durable.gouv.fr/lesessentiels/climat/images/effet-de-serre-2-b.jpg'
   author: 16
@@ -685,7 +685,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-19'
+  updated: '2024-02-28'
 - id: 17
   text: A combien se sont élevées les émissions mondiales de gaz à effet de serre
     en 2015 ? (en équivalent CO2)
@@ -2541,7 +2541,7 @@
 - id: 61
   text: On connaît la dernière grande extinction d'espèces, celle des dinosaures il
     y a 66 millions d'année. A quelle vitesse les espèces disparaissent-elles par
-    rapport à avant la révolution industrielle ?
+    rapport à la période pré-industrielle (avant 1850) ?
   hint: ''
   type: QCM
   category: 4
@@ -2578,7 +2578,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-17'
+  updated: '2024-02-28'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -2700,7 +2700,7 @@
   created: '2020-03-10'
   updated: '2022-04-16'
 - id: 65
-  text: Le phosphore, une ressource non-renouvelable, est essentiel pour l'agriculture.
+  text: Le phosphore est une ressource non-renouvelable essentielle pour l'agriculture.
     À quelle date est estimé son pic de production ?
   hint: ''
   type: QCM
@@ -2740,7 +2740,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-17'
+  updated: '2024-02-28'
 - id: 66
   text: Quelle proportion du carbone dégagé par l'activité humaine est stockée dans
     la végétation et les sols ?
@@ -2921,8 +2921,8 @@
   created: '2020-03-10'
   updated: '2024-02-15'
 - id: 70
-  text: A date de 2013, quelle était la part des énergies fossiles dans la consommation
-    d'énergie mondiale ?
+  text: Quelle est la part des énergies fossiles dans la consommation d'énergie mondiale
+    (chiffres 2013) ?
   hint: ''
   type: QCM
   category: 5
@@ -2963,10 +2963,10 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-27'
+  updated: '2024-02-28'
 - id: 71
-  text: A combien s'élève l'empreinte carbone d'un français (2018, en équivalent CO2)
-    ?
+  text: A combien s'élève l'empreinte carbone moyenne d'un Français (2018, en équivalent
+    CO2) ?
   hint: ''
   type: QCM
   category: 2
@@ -3006,7 +3006,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-27'
+  updated: '2024-02-28'
 - id: 72
   text: En émissions sur le territoire national, lequel de ces secteurs émet le plus
     de gaz à effet de serre en France ?
@@ -11913,12 +11913,12 @@
   answer_choice_d: 1 milliard
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 10 mètres au dessus du niveau de la mer, c'est la limite adoptée
-    par le GIEC pour définir les populations côtières. Elles sont les premières exposées
-    à la montée des eaux, et à l'augmentation en fréquence et en intensité des phénomènes
-    météorologiques extrêmes. Ce sont aussi celles qui possèdent la plus faible capacité
-    d'adaptation. Une illustration du besoin d'adaptation, c'est à dire de gérer l'inévitable,
-    à court-terme et localement.
+  answer_explanation: 10 mètres, c'est la limite adoptée par le GIEC pour définir
+    les populations côtières. Elles sont les premières exposées à la montée des eaux,
+    et à l'augmentation en fréquence et en intensité des phénomènes météorologiques
+    extrêmes. Ce sont aussi celles qui possèdent la plus faible capacité d'adaptation.
+    Une illustration du besoin d'adaptation, c'est à dire de gérer l'inévitable, à
+    court-terme et localement.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -11940,7 +11940,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-02-18'
+  updated: '2024-02-28'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -29374,9 +29374,9 @@
   created: '2021-01-06'
   updated: '2022-04-16'
 - id: 719
-  text: "L'objectif de la COP21 à l'horizon 2050 est que chaque humain n'émette pas\
-    \ plus que 2 tonnes de CO2e par an. \r\nLesquelles de ces affirmations sont vraies\
-    \ : 2 tonnes, c'est ce que j'émets en..."
+  text: 'Chaque humain doit émettre moins de 2 tonnes de CO2e par an d''ici 2050 :
+    c''est l''objectif à tenir selon la COP21. 2 tonnes, c''est ce que j''émets par
+    exemple en...'
   hint: ''
   type: QCM-RM
   category: 5
@@ -29419,7 +29419,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-02-17'
+  updated: '2024-02-28'
 - id: 720
   text: Quelle quantité d'énergie y a-t-il dans un litre de kérosène...  en kWh ?
   hint: On n'imagine pas les services pour pas très cher.
@@ -38408,7 +38408,7 @@
   updated: '2022-04-16'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
-    par et pour l'élevage ?
+    par l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes) ?
   hint: ''
   type: QCM
   category: 2
@@ -38453,7 +38453,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-02-17'
+  updated: '2024-02-28'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -40085,7 +40085,7 @@
   created: '2021-11-29'
   updated: '2024-02-27'
 - id: 968
-  text: Parmi ces modes de transport, lesquels sont compatibles avec une vie bas carbone,
+  text: Lesquels de ces modes de transport sont compatibles avec une vie bas carbone,
     c'est à dire avec une réduction de nos émissions en phase avec les objectifs de
     la COP21 à Paris ?
   hint: ''
@@ -40134,10 +40134,9 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-18'
+  updated: '2024-02-28'
 - id: 969
-  text: A surface donnée, quelle différence d'émissions entre un logement classe E
-    et classe A ?
+  text: Quelle différence d'émissions entre un logement classe E et classe A ?
   hint: ''
   type: QCM
   category: 1
@@ -40180,7 +40179,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-17'
+  updated: '2024-02-28'
 - id: 970
   text: Qu'est-ce qu'on pourra faire plus dans un monde bas carbone ?
   hint: ''
@@ -47111,8 +47110,9 @@
   created: '2023-08-15'
   updated: '2023-08-15'
 - id: 1155
-  text: Les scientifiques ont déterminé 9 frontières planétaires. Combien d’entre
-    elles sont considérées comme dépassées ?
+  text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
+    ne pas compromettre la vie sur terre. Combien d’entre elles sont considérées comme
+    déjà dépassées ?
   hint: ''
   type: QCM
   category: 8
@@ -47157,4 +47157,4 @@
   validator: 47
   validation_date: '2024-02-16'
   created: '2024-02-15'
-  updated: '2024-02-16'
+  updated: '2024-02-28'
