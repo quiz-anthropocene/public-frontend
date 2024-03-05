@@ -15,6 +15,8 @@ export default {
     { code: 'fr', value: 'FRENCH', name: 'Français' },
     { code: 'en', value: 'ENGLISH', name: 'English' },
     { code: 'de', value: 'GERMAN', name: 'Deutsch' },
+    { code: 'it', value: 'ITALIAN', name: 'Italiano' },
+    { code: 'es', value: 'SPANISH', name: 'Español' },
   ],
   // DEFAULT_BACKGROUND_IMAGE_NAME: 'https://quizanthropocene.fr/showyourstripes_globe_1850-2019.png'
 };
