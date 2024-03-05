@@ -339,7 +339,7 @@
   publish_date: '2020-07-24'
   spotlight: false
   created: '2020-07-14'
-  updated: '2022-04-16'
+  updated: '2024-02-22'
 - id: 10
   name: Le Pétrole - Partie 2
   slug: le-petrole-partie-2
@@ -604,7 +604,7 @@
   publish_date: '2020-08-08'
   spotlight: false
   created: '2020-07-29'
-  updated: '2023-02-05'
+  updated: '2024-02-22'
 - id: 17
   name: Une biodiversité qui s'anéantit
   slug: une-biodiversite-qui-saneantit
@@ -639,7 +639,7 @@
   publish_date: '2020-08-14'
   spotlight: false
   created: '2020-08-04'
-  updated: '2023-02-05'
+  updated: '2024-02-22'
 - id: 18
   name: Le quiz de Laurent Testot
   slug: le-quiz-de-laurent-testot
@@ -1723,7 +1723,7 @@
   publish_date: '2021-11-26'
   spotlight: true
   created: '2021-11-16'
-  updated: '2023-02-07'
+  updated: '2024-02-22'
 - id: 77
   name: Archipel du Vivant
   slug: archipel-du-vivant
@@ -1871,7 +1871,7 @@
   publish_date: '2022-01-20'
   spotlight: true
   created: '2022-01-10'
-  updated: '2023-02-06'
+  updated: '2024-02-22'
 - id: 80
   name: La Fresque du Climat Junior expliquée à ma famille
   slug: la-fresque-du-climat-junior-expliquee-a-ma-famille
@@ -2038,7 +2038,7 @@
   publish_date: '2022-11-04'
   spotlight: true
   created: '2022-06-08'
-  updated: '2023-02-02'
+  updated: '2024-02-22'
 - id: 84
   name: Introduction to the Climate Fresk
   slug: introduction-to-the-climate-fresk-en
@@ -2858,7 +2858,14 @@
   - 969
   - 1155
   question_count: 18
-  tags: []
+  tags:
+  - 11
+  - 13
+  - 72
+  - 79
+  - 100
+  - 225
+  - 269
   difficulty_average: 2.1
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/27b3d956.JPG
@@ -2866,11 +2873,11 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  validation_status: VALIDATED
+  validator: 47
+  validation_date: '2024-02-27'
+  publish: true
+  publish_date: '2024-02-27'
+  spotlight: true
   created: '2024-02-14'
-  updated: '2024-02-19'
+  updated: '2024-02-27'

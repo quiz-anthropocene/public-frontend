@@ -2939,10 +2939,10 @@
   answer_choice_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Pétrole (33%), Charbon (27%), Gaz (23%).\r\nOn parle beaucoup\
-    \ d’électricité et d’énergies renouvelables, mais notre mode de vie est très largement\
-    \ dépendant de l’usage des énergies fossiles. Que ce soit pour nos transports,\
-    \ nos objets (le plastique), nos médicaments, nos vêtements, notre chauffage..."
+  answer_explanation: Pétrole (33%), Charbon (27%), Gaz (23%). Gardons en tête que
+    notre mode de vie est très largement dépendant de l’usage des énergies fossiles.
+    Que ce soit pour nos transports, nos objets (le plastique), nos médicaments, nos
+    vêtements, notre chauffage...
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2963,7 +2963,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-15'
+  updated: '2024-02-27'
 - id: 71
   text: A combien s'élève l'empreinte carbone d'un français (2018, en équivalent CO2)
     ?
@@ -2981,7 +2981,7 @@
   answer_choice_d: 18 tonnes
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Elle est globalement stable depuis 2000. L'objectif de la COP21
+  answer_explanation: Elle décroît très légèrement depuis 2000. L'objectif de la COP21
     est de 2 tonnes par an par habitant au niveau mondial, soit une réduction par
     un facteur 5 à 6. Près de 50% de cette empreinte est dû aux émissions qui sont
     importées. Si vous voyez passer un chiffre plus faible, il y a fort à parier que
@@ -3006,7 +3006,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-14'
+  updated: '2024-02-27'
 - id: 72
   text: En émissions sur le territoire national, lequel de ces secteurs émet le plus
     de gaz à effet de serre en France ?
@@ -32499,25 +32499,23 @@
   answer_choice_d: Les algues
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: 'Bien moins connu que l''Amazonie, le vrai « poumon de la Terre
-    » est invisible à l’œil nu car sa taille est microscopique. Il s’agit du phytoplancton,
-    le plancton végétal constitué de micro-algues et de cyanobactéries. Ces organismes
-    végétaux évoluent dans la partie superficielle des océans qui recouvrent 71% de
-    la surface de la planète, bien loin des 1,4% de l’Amazonie. Absolument essentiel
-    à la vie aquatique comme terrestre, le phytoplancton produit grâce à son activité
-    photosynthétique 50 à 85% de l’oxygène de la planète selon les saisons. En pompant
-    le CO2 et en le transformant en oxygène, il joue aussi un rôle essentiel dans
-    la régulation du climat. Au moins la moitié de l’oxygène que nous respirons est
-    prodiguée par le phytoplancton, le reste provenant des plantes vertes terrestres.
-    Étonnant quand on pense qu''ils ne pèsent que 1% de la biomasse des organismes
-    photosynthétiques.
-
-    La photosynthèse du phytoplancton a d’ailleurs été un facteur déclencheur de la
-    production d''oxygène atmosphérique dès le début du Précambrien, il y a plusieurs
-    milliards d’années. C’est cette activité qui aurait permis la diversification
-    évolutive du biote tel qu’on le connaît aujourd’hui. Les périodes de baisse de
-    productivité ou de disparition du phytoplancton auraient également profondément
-    affecté la vie sur Terre.'
+  answer_explanation: "Bien moins connu que l'Amazonie, le vrai « poumon de la Terre\
+    \ » est invisible à l’œil nu car sa taille est microscopique. Il s’agit du phytoplancton,\
+    \ le plancton végétal constitué de micro-algues et de cyanobactéries. Ces organismes\
+    \ végétaux évoluent dans la partie superficielle des océans qui recouvrent 71%\
+    \ de la surface de la planète, bien loin des 1,4% de l’Amazonie. Absolument essentiel\
+    \ à la vie aquatique comme terrestre, le phytoplancton produit grâce à son activité\
+    \ photosynthétique 50 à 85% de l’oxygène de la planète selon les saisons. En pompant\
+    \ le CO2 et en le transformant en oxygène, il joue aussi un rôle essentiel dans\
+    \ la régulation du climat. Au moins la moitié de l’oxygène que nous respirons\
+    \ est prodiguée par le phytoplancton, le reste provenant des plantes vertes terrestres.\
+    \ Étonnant quand on pense qu'ils ne pèsent que 1% de la biomasse des organismes\
+    \ photosynthétiques.\r\nLa photosynthèse du phytoplancton a d’ailleurs été un\
+    \ facteur déclencheur de la production d'oxygène atmosphérique dès le début du\
+    \ Précambrien, il y a plusieurs milliards d’années. C’est cette activité qui aurait\
+    \ permis la diversification évolutive du biote tel qu’on le connaît aujourd’hui.\
+    \ Les périodes de baisse de productivité ou de disparition du phytoplancton auraient\
+    \ également profondément affecté la vie sur Terre."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32526,7 +32524,7 @@
   answer_source_accessible_url_text: 'Production primaire du phytoplancton : vers
     une diminution globale ? - Ifremer'
   answer_source_scientific_url: https://earthsky.org/earth/how-much-do-oceans-add-to-worlds-oxygen
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: How much do oceans add to world’s oxygen?
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000788-4f32.jpg
   answer_image_url_text: ''
@@ -32537,7 +32535,7 @@
   validator: 38
   validation_date: '2021-03-05'
   created: '2021-02-26'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 789
   text: Comment a évolué la quantité de phytoplancton depuis 1950 ?
   hint: ''
@@ -32553,12 +32551,11 @@
   answer_choice_d: Entre 60 et 70% de réduction
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Cette diminution est notamment le fait de la surpêche, de l’acidification
-    des océans et du réchauffement climatique.
-
-    Comme le dit Paul Watson, activiste des mers fondateur de l''ONG Sea Shepherd
-    : « Plus de baleines = plus de phytoplancton. Plus de phytoplancton = plus de
-    zooplancton. Plus de zooplancton = plus de poissons. » '
+  answer_explanation: "Cette diminution est notamment le fait de la surpêche, de l’acidification\
+    \ des océans et du réchauffement climatique.\r\nComme le dit Paul Watson, activiste\
+    \ des mers fondateur de l'ONG Sea Shepherd : « Plus de baleines = plus de phytoplancton.\
+    \ Plus de phytoplancton = plus de zooplancton. Plus de zooplancton = plus de poissons.\
+    \ »"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32567,7 +32564,7 @@
   answer_source_accessible_url_text: 'Océan : le phytoplancton subit un déclin inquiétant
     depuis 150 ans'
   answer_source_scientific_url: https://www.nature.com/articles/nature09268
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global phytoplankton decline over the past century
   answer_book_recommendation: Paul Watson – Urgence ! Si l’océan meurt, nous mourrons
     – Éditions Glénat, Avril 2016
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000789-7709.jpg
@@ -32579,7 +32576,7 @@
   validator: 38
   validation_date: '2021-03-05'
   created: '2021-02-26'
-  updated: '2023-02-14'
+  updated: '2024-02-27'
 - id: 790
   text: Les 1% plus grand émetteurs de la planète habitent dans 5 pays. Leurs émissions
     sont toutes au-dessus de  "x" tCO2e / an / cap.
@@ -35984,7 +35981,7 @@
   answer_source_accessible_url_text: The Bright Future of Solar Thermal Powered Factories
     | LOW←TECH MAGAZINE
   answer_source_scientific_url: https://www.iea.org/commentaries/clean-and-efficient-heat-for-industry
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Clean and efficient heat for industry
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000870-fd7b.png
   answer_image_url_text: 'énergie utilisée dans le monde pour les bâtiments et industries
@@ -35996,7 +35993,7 @@
   validator: 2
   validation_date: '2021-03-05'
   created: '2021-02-26'
-  updated: '2022-09-13'
+  updated: '2024-02-27'
 - id: 871
   text: 'Faisons un exercice de pensée : demain, toute l''énergie dépensée par la
     France doit être exclusivement fournie par du travail humain. Combien de personnes
@@ -36158,7 +36155,8 @@
   answer_source_accessible_url_text: 'Vers l’infini et au-delà : Les grues et les
     engins de levage manuels | LOW←TECH MAGAZINE'
   answer_source_scientific_url: https://archive.org/details/usefulinformati09fairgoog/page/n207/mode/2up
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Useful Information for Engineers: Being a Series
+    of Lectures Delivered ...'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000874-6bd9.png
   answer_image_url_text: ''
@@ -36169,11 +36167,11 @@
   validator: 2
   validation_date: '2021-03-30'
   created: '2021-03-23'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 875
   text: Prenons une voiture électrique actuelle, disons la Fiat 500e, dont l'autonomie
-    annoncée est de 185 km. A-t-on déjà construit des voitures électriques avec une
-    telle autonomie par le passé ?
+    annoncée est de plus de 150 km. A-t-on déjà construit des voitures électriques
+    avec une telle autonomie par le passé ?
   hint: ''
   type: QCM
   category: 2
@@ -36211,7 +36209,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2023-02-14'
+  updated: '2024-02-20'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
@@ -36245,7 +36243,8 @@
   answer_source_accessible_url_text: 'Wood Gas Vehicles: Firewood in the Fuel Tank
     | LOW←TECH MAGAZINE'
   answer_source_scientific_url: https://translate.google.com/translate?hl=&sl=fi&tl=fr&u=https%3A%2F%2Fwww.ekoautoilijat.fi%2Ftekstit%2Fhistoriaa.htm
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Jalons de la gazéification du bois extrait de
+    différentes sources
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000876-120d.png
   answer_image_url_text: ''
@@ -36256,7 +36255,7 @@
   validator: 2
   validation_date: '2021-03-28'
   created: '2021-03-21'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 877
   text: On utilisait au XIXe siècle des bateaux tractés par des câbles. Lesquelles
     des affirmations suivantes sont vraies ?
@@ -36289,7 +36288,8 @@
   answer_source_accessible_url: https://solar.lowtechmagazine.com/fr/2009/12/trolley-canal-boats.html
   answer_source_accessible_url_text: Les toueurs | LOW←TECH MAGAZINE
   answer_source_scientific_url: http://cnum.cnam.fr/CGI/fpage.cgi?ECCMC6.62/44/100/941/927/941
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Traction mécanique des bateaux sur les canaux
+    - M.A. de BOVET
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000877-ca94.png
   answer_image_url_text: ''
@@ -36300,7 +36300,7 @@
   validator: 2
   validation_date: '2021-03-22'
   created: '2021-03-15'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 878
   text: Entre 1900 et 1910, un cargo à voile géant a été en service en Allemagne.  Par
     rapport à un cargo actuel à mazout, il avançait en moyenne...
@@ -36320,9 +36320,9 @@
   answer_explanation: "Ce cargo impressionnant, le Preussen, se déplaçait à une vitesse\
     \ de 10 nœuds en moyenne, soit aussi vite qu'un cargo actuel à mazout consommant\
     \ 100 tonnes de fioul par jour. Il a coulé suite à une collision avec un autre\
-    \ navire. \nLes émissions cumulées de GES du fret marin équivalent à celles de\
-    \ plusieurs dizaines de millions de voitures. Si toutes les voies maritimes ne\
-    \ s'y prêtent pas du fait de l'orientation des vents, le potentiel à repasser\
+    \ navire. \r\nLes émissions cumulées de GES du fret marin équivalent à celles\
+    \ de plusieurs dizaines de millions de voitures. Si toutes les voies maritimes\
+    \ ne s'y prêtent pas du fait de l'orientation des vents, le potentiel à repasser\
     \ à la marine à voile semble important."
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -36331,7 +36331,7 @@
   answer_source_accessible_url: https://solar.lowtechmagazine.com/2009/04/cargo-ships-then-and-now.html
   answer_source_accessible_url_text: Cargo Ships, Then and Now | LOW←TECH MAGAZINE
   answer_source_scientific_url: http://www.bruzelius.info/Nautica/Ships/Fivemast_ships/Preussen%281902%29.html
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Preussen
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000878-dd61.png
   answer_image_url_text: ''
@@ -36342,7 +36342,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 879
   text: 'La tourbe constituait un combustible fossile majeur pour les économies européennes
     du XVIIe siècle : une consommation d''énergie par personne aussi grande que l''électricité
@@ -36396,7 +36396,7 @@
 - id: 880
   text: "La construction d'un nouveau bâtiment est source d'émission de gaz à effet\
     \ de serre. Et ceci en particulier pour les bâtiments à haute efficacité énergétique\
-    \ (béton, matériaux ...). \nAu bout de combien de temps ces émissions initiales\
+    \ (béton, matériaux ...). \r\nAu bout de combien de temps ces émissions initiales\
     \ seront-elles compensées par rapport à l'utilisation d'un bâtiment moins efficient,\
     \ mais déjà existant ?"
   hint: ''
@@ -36413,13 +36413,12 @@
   answer_choice_d: 100 ans
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Il faut 50 ans pour que les émissions d''un vieux bâtiment
-    inefficient liées à son usage (chauffage …) dépassent celles d''un nouveau bâtiment
-    efficient en comptant les émissions dues à sa construction. Ce chiffre dépend
-    des matériaux employés bien-sûr.
-
-    Il vaut donc mieux parfois réutiliser des anciens bâtiments même inefficients,
-    ou au moins être sûr que les nouveaux seront conservés plus de 50 ans...'
+  answer_explanation: "Il faut 50 ans pour que les émissions d'un vieux bâtiment inefficient\
+    \ liées à son usage (chauffage …) dépassent celles d'un nouveau bâtiment efficient\
+    \ en comptant les émissions dues à sa construction. Ce chiffre dépend des matériaux\
+    \ employés bien-sûr.\r\nIl vaut donc mieux parfois réutiliser des anciens bâtiments\
+    \ même inefficients, ou au moins être sûr que les nouveaux seront conservés plus\
+    \ de 50 ans..."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -36428,7 +36427,8 @@
   answer_source_accessible_url_text: 'Insulation: first the body, then the home -
     LOW-TECH MAGAZINE'
   answer_source_scientific_url: https://world-habitat.org/publications/new-tricks-with-old-bricks/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: New Tricks with Old Bricks 2008 - How re-using
+    old buildings can cut carbon emissions
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000880-65df.png
   answer_image_url_text: Isolation low-tech, grâce au mycelium de champignon
@@ -36439,7 +36439,7 @@
   validator: 2
   validation_date: '2021-03-22'
   created: '2021-03-15'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 881
   text: 70 ans avant l'ampoule électrique, l'utilisation d'arcs électriques conférait
     à des lampadaires début XIXe une luminance équivalente à environ … ?
@@ -36472,7 +36472,7 @@
   answer_source_accessible_url_text: 'Moonlight towers: light pollution in the 1800s
     - LOW-TECH MAGAZINE'
   answer_source_scientific_url: https://en.wikipedia.org/wiki/Moonlight_tower
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Moonlight tower - Wikipedia
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000881-c064.jpg
   answer_image_url_text: Nouvelle-Orléans, 1883
@@ -36483,11 +36483,11 @@
   validator: 1
   validation_date: '2021-03-28'
   created: '2021-03-21'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 882
   text: "La voûte catalane est une technique multicentenaire qui consiste en une superposition\
-    \ de plusieurs couches de tuiles assemblées à l’aide d’un mortier. \nComment décrire\
-    \ la résistance d'une voûte catalane ?"
+    \ de plusieurs couches de tuiles assemblées à l’aide d’un mortier. \r\nComment\
+    \ décrire la résistance d'une voûte catalane ?"
   hint: ''
   type: QCM-RM
   category: 6
@@ -36519,7 +36519,7 @@
   answer_source_accessible_url_text: 'Des tuiles pour remplacer l’acier : l’Art des
     voûtes catalanes | LOW←TECH MAGAZINE'
   answer_source_scientific_url: https://en.wikipedia.org/wiki/Guastavino_tile
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Guastavino tile - Wikipedia
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000882-9f25.jpg
   answer_image_url_text: L'architecte Guastavino a importé ces voûtes dans la ville
@@ -36531,7 +36531,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 883
   text: Une éolienne peut-elle servir à produire de la chaleur ?
   hint: ''
@@ -36567,7 +36567,8 @@
   answer_source_accessible_url_text: Chauffer sa maison avec une éolienne mécanique
     | LOW←TECH MAGAZINE
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0960148115003079
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Concept study of wind power utilizing direct
+    thermal energy conversion and thermal energy storage
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000883-794e.png
   answer_image_url_text: ''
@@ -36578,7 +36579,7 @@
   validator: 2
   validation_date: '2021-04-23'
   created: '2021-04-16'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 884
   text: De combien la population humaine a-t-elle augmenté depuis 1900 ?
   hint: ''
@@ -39279,19 +39280,20 @@
     aux terres
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Le reste est dû aux autres activités économiques et aux ménages
-    (chiffres de 2019). Le stress hydrique et la perte de biodiversité (liée à l''utilisation
-    des terres) sont en particulier largement dus à l''usage de la biomasse (aliments
-    ..., en vert sur le graphique). Enfin, cette extraction des ressources c''est
-    aussi la moitié des GES anthropiques ! '
+  answer_explanation: Le reste est dû aux autres activités économiques et aux ménages
+    (chiffres de 2019). Le stress hydrique et la perte de biodiversité (liée à l'utilisation
+    des terres) sont en particulier largement dus à l'usage de la biomasse (aliments
+    ..., en vert sur le graphique). Enfin, cette extraction des ressources c'est aussi
+    la moitié des GES anthropiques !
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.unep.org/fr/actualites-et-recits/communique-de-presse/lonu-appelle-reconsiderer-de-toute-urgence-lutilisation
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: L’ONU appelle à reconsidérer de toute urgence
+    l’utilisation des ressources alors que leur consommation augmente en flèche
   answer_source_scientific_url: https://www.resourcepanel.org/reports/global-resources-outlook
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Resources Outlook - UN environment programme
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000948-8889.png
   answer_image_url_text: 'Source : PNUE'
@@ -39302,7 +39304,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 949
   text: Before electric cranes, there used be cranes driven by human power alone.
     The most powerful of them multiplied the force exerted by the operators by a factor…?
@@ -39966,11 +39968,11 @@
   answer_explanation: "Ces deux secteurs internationaux sont particuliers et posent\
     \ la question de l'attribution des émissions. Par exemple sur un vol Paris / New-York,\
     \ a quel pays affecter les émissions pour ne pas les compter deux fois ou ne pas\
-    \ les compter du tout ?\nL'accord de Paris ne mentionne pas explicitement les\
+    \ les compter du tout ?\r\nL'accord de Paris ne mentionne pas explicitement les\
     \ secteurs aériens et maritimes internationaux. La réponse à la question est donc\
-    \ non. \nPour autant, les émissions de ces secteurs doivent aussi s'aligner avec\
-    \ la trajectoire des +2°C/+1,5°C.\nLa pression s'accroit (rapports d'experts tels\
-    \ le Haut Conseil pour le Climat en France, interprétation juridique, proposition\
+    \ non. \r\nPour autant, les émissions de ces secteurs doivent aussi s'aligner\
+    \ avec la trajectoire des +2°C/+1,5°C.\r\nLa pression s'accroit (rapports d'experts\
+    \ tels le Haut Conseil pour le Climat en France, interprétation juridique, proposition\
     \ de loi, etc.) pour inclure ces émissions dans le périmètre. Par ailleurs, les\
     \ instances qui régulent ces secteurs, l'Organisation internationale de l'aviation\
     \ civile (OACI) et l'Organisation maritime internationale (OMI) - s'engagent aussi\
@@ -39984,7 +39986,8 @@
   answer_source_accessible_url_text: 'Urgence climatique : la France en retard sur
     ses objectifs — Haut Conseil pour le Climat'
   answer_source_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/ac286e
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Quantifying aviation's contribution to global
+    warming
   answer_book_recommendation: https://www.sciencedirect.com/science/article/pii/S1352231020305689
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000965-1019.jpg
   answer_image_url_text: ''
@@ -39995,7 +39998,7 @@
   validator: 2
   validation_date: '2021-12-08'
   created: '2021-12-01'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 966
   text: Si on arrête de consommer de la viande, est-ce qu'on réduit son empreinte
     carbone alimentaire ?
@@ -40069,7 +40072,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://monconvertisseurco2.fr/?co2=1800
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Impact CO2 - comparateur
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000967-764c.jpg
   answer_image_url_text: ''
@@ -40080,7 +40083,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2022-11-02'
+  updated: '2024-02-27'
 - id: 968
   text: Parmi ces modes de transport, lesquels sont compatibles avec une vie bas carbone,
     c'est à dire avec une réduction de nos émissions en phase avec les objectifs de
@@ -40236,24 +40239,22 @@
   answer_choice_d: regarder des vidéos de chien plutôt que des vidéos de chat
   answer_correct: ab
   has_ordered_answers: false
-  answer_explanation: 'Le secteur du numérique est tout sauf virtuel en terme d''impact
-    sur le climat. La fabrication, l''alimentation, l''utilisation des équipements
-    (serveurs, antennes, terminaux, etc.) génèrent des émissions de gaz à effet de
-    serre.
-
-    Faire durer beaucoup plus longtemps son smartphone ou son ordinateur est un levier
-    important (en France, en moyenne, on change tous les 24 mois de smartphone) de
-    réduction de l''impact, tout comme de réduire la qualité des vidéos que l’on regarde.
-    Le passage de la 4G à la 5G nous expose à un risque d''effet rebond, c''est à
-    dire un effet d''aubaine qui risque d''augmenter la consommation globale.
-
-    Il y a bien évidemment plein d''autres leviers possibles. Voir le détail, source,
-    et explications dans le guide de l''animateur du kit Inventons nos vies bas carbone.'
+  answer_explanation: "Le secteur du numérique est tout sauf virtuel en terme d'impact\
+    \ sur le climat. La fabrication, l'alimentation, l'utilisation des équipements\
+    \ (serveurs, antennes, terminaux, etc.) génèrent des émissions de gaz à effet\
+    \ de serre.\r\nFaire durer beaucoup plus longtemps son smartphone ou son ordinateur\
+    \ est un levier important (en France, en moyenne, on change tous les 24 mois de\
+    \ smartphone) de réduction de l'impact, tout comme de réduire la qualité des vidéos\
+    \ que l’on regarde. Le passage de la 4G à la 5G nous expose à un risque d'effet\
+    \ rebond, c'est à dire un effet d'aubaine qui risque d'augmenter la consommation\
+    \ globale.\r\nIl y a bien évidemment plein d'autres leviers possibles. Voir le\
+    \ détail, source, et explications dans le guide de l'animateur du kit Inventons\
+    \ nos vies bas carbone."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://d3n8a8pro7vhmx.cloudfront.net/resistanceclimatique/pages/115/attachments/original/1616151401/20210228_guide_de_l'animateur_kit_INVBC.pdf?1616151401
+  answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -40267,10 +40268,10 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2023-02-07'
+  updated: '2024-02-27'
 - id: 999
-  text: 'Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
-    a émis plus de carbone qu''elle n''en a capté. '
+  text: Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
+    a émis plus de carbone qu'elle n'en a capté.
   hint: ''
   type: VF
   category: 1
@@ -40286,22 +40287,20 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Entre 2010 et 2019, la forêt brésilienne a perdu de sa biomasse,
-    et donc de son carbone : les pertes sont d''environ 18% supérieures aux gains.
-    "C’est la première fois qu''on a des chiffres qui montrent qu''on a basculé et
-    que l''Amazonie brésilienne est émettrice" nette de carbone, explique l''un des
-    auteurs de l''étude parue en mars 2021.
-
-    Pour l''instant, a priori, "les autres pays compensent les pertes de l''Amazonie
-    brésilienne" et ainsi "l''ensemble de l''Amazonie n’a pas encore basculé, mais
-    elle pourrait le faire bientôt", poursuit-il.
-
-    L''étude met d''autre part en avant la responsabilité méconnue, mais majeure,
-    des "dégradations" de la forêt. Contrairement à la déforestation qui fait disparaître
-    la surface boisée, les dégradations incluent tout ce qui peut l''abîmer, sans
-    pour autant la détruire totalement : arbres fragilisés en bordure des zones déforestées,
-    coupes sélectives, petits incendies, mortalité des arbres liée à la sécheresse.
-    Des atteintes moins facilement décelables que de grandes étendues rasées.'
+  answer_explanation: "Entre 2010 et 2019, la forêt brésilienne a perdu de sa biomasse,\
+    \ et donc de son carbone : les pertes sont d'environ 18% supérieures aux gains.\
+    \ \"C’est la première fois qu'on a des chiffres qui montrent qu'on a basculé et\
+    \ que l'Amazonie brésilienne est émettrice\" nette de carbone, explique l'un des\
+    \ auteurs de l'étude parue en mars 2021.\r\nPour l'instant, a priori, \"les autres\
+    \ pays compensent les pertes de l'Amazonie brésilienne\" et ainsi \"l'ensemble\
+    \ de l'Amazonie n’a pas encore basculé, mais elle pourrait le faire bientôt\"\
+    , poursuit-il.\r\nL'étude met d'autre part en avant la responsabilité méconnue,\
+    \ mais majeure, des \"dégradations\" de la forêt. Contrairement à la déforestation\
+    \ qui fait disparaître la surface boisée, les dégradations incluent tout ce qui\
+    \ peut l'abîmer, sans pour autant la détruire totalement : arbres fragilisés en\
+    \ bordure des zones déforestées, coupes sélectives, petits incendies, mortalité\
+    \ des arbres liée à la sécheresse. Des atteintes moins facilement décelables que\
+    \ de grandes étendues rasées."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -40310,7 +40309,8 @@
   answer_source_accessible_url_text: La forêt amazonienne brésilienne désormais émettrice
     nette de carbone  - Sciences et Avenir
   answer_source_scientific_url: https://www.nature.com/articles/s41467-021-22050-1
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Large carbon sink potential of secondary forests
+    in the Brazilian Amazon to mitigate climate change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000999-7c88.png
   answer_image_url_text: ''
@@ -40321,7 +40321,7 @@
   validator: 1
   validation_date: '2021-05-09'
   created: '2021-05-02'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1000
   text: Globally, how much electronic waste is collected in order to be recycled?
   hint: it is really not much!
@@ -40884,9 +40884,11 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.hautconseilclimat.fr/publications/rapport-grand-public-2021/
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Haut Conseil pour le Climat - RAPPORT GRAND PUBLIC
+    2021
   answer_source_scientific_url: https://www.citepa.org/fr/secten/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Secten – le rapport de référence sur les émissions
+    de gaz à effet de serre et de polluants atmosphériques en France
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001013-9a63.png
   answer_image_url_text: 'Emissions par secteur en France en 2019 (source : Haut Conseil
@@ -40898,7 +40900,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-11-02'
+  updated: '2024-02-27'
 - id: 1014
   text: Aujourd'hui, 9 à 10 % du trafic de marchandises passe par le train. Quelle
     était cette proportion en 1960 ?
@@ -40916,21 +40918,18 @@
   answer_choice_d: 56 %
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'La part modale du fret ferroviaire a été en forte baisse historiquement.
-    C''est notamment le résultat de la baisse de son trafic. Il a atteint un maximum
-    en 1974, à plus de 70 milliards de tonnes.km, puis s''est réduit de plus de moitié,
-    autour des 30-35 milliards de tonnes.km sur les années 2010.
-
-    Aussi et surtout, le trafic total a été en forte hausse, porté par le transport
-    routier, qui a progressivement augmenté sa part modale, de 34 % en 1960 à quasiment
-    90 % aujourd’hui, au détriment du fret ferroviaire et du transport fluvial.
-
-
-    [Bonus] La tonne.kilomètre est l''unité communément utilisée pour évaluer le trafic
-    de marchandises, et représente l''équivalent d''une tonne de marchandises transportée
-    sur 1 km. Pour exemple, 5 tonnes de marchandises transportées sur 10 km correspondent
-    à 50 tonnes.km. Pour la mobilité des personnes, on parle généralement en voyageurs.km
-    ou passagers.km.'
+  answer_explanation: "La part modale du fret ferroviaire a été en forte baisse historiquement.\
+    \ C'est notamment le résultat de la baisse de son trafic. Il a atteint un maximum\
+    \ en 1974, à plus de 70 milliards de tonnes.km, puis s'est réduit de plus de moitié,\
+    \ autour des 30-35 milliards de tonnes.km sur les années 2010.\r\nAussi et surtout,\
+    \ le trafic total a été en forte hausse, porté par le transport routier, qui a\
+    \ progressivement augmenté sa part modale, de 34 % en 1960 à quasiment 90 % aujourd’hui,\
+    \ au détriment du fret ferroviaire et du transport fluvial.\r\n\r\n[Bonus] La\
+    \ tonne.kilomètre est l'unité communément utilisée pour évaluer le trafic de marchandises,\
+    \ et représente l'équivalent d'une tonne de marchandises transportée sur 1 km.\
+    \ Pour exemple, 5 tonnes de marchandises transportées sur 10 km correspondent\
+    \ à 50 tonnes.km. Pour la mobilité des personnes, on parle généralement en voyageurs.km\
+    \ ou passagers.km."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -40938,7 +40937,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les transports face au défi de la transition
+    énergétique
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001014-4e7d.png
   answer_image_url_text: ''
@@ -40949,7 +40949,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1015
   text: Quel est le nombre moyen d'occupant par voiture en France ?
   hint: ''
@@ -40966,27 +40966,22 @@
   answer_choice_d: 1,8 personnes
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Ce remplissage des voitures dépend fortement du type de trajet
-    : les longs trajets sont plus remplis (trajets en famille pour les départs en
-    vacances, covoiturage plus développé…) que les trajets du quotidien. Il suffit
-    de regarder dans la rue à l’heure des trajets domicile-travail, où la plupart
-    des voitures n’ont qu’une personne à bord !
-
-    Ce remplissage a été en baisse historiquement, puisqu’il est passé de 1,78 occupants
-    en 1990 à 1,57 en 2019 ; et il était autour de 2,3 passagers sur la première moitié
-    du XXème siècle.
-
-    A noter qu’alors que le remplissage moyen des voitures diminuait, celui des poids-lourds,
-    des trains ou encore des navires augmentait, par des véhicules de plus en plus
-    gros et capacitaires (voir l’image).
-
-
-    [Bonus] A noter aussi une petite subtilité plus technique : le remplissage moyen
-    est plus fort lorsqu’il est mesuré par kilomètre parcouru (où les trajets à longue
-    distance bien remplis représentent une proportion significative) que par trajet
-    (où les trajets à longue distance sont peu nombreux, et font peut relever la moyenne).
-    D’où des chiffres souvent différents sur ce sujet, selon comment on pondère la
-    moyenne.'
+  answer_explanation: "Ce remplissage des voitures dépend fortement du type de trajet\
+    \ : les longs trajets sont plus remplis (trajets en famille pour les départs en\
+    \ vacances, covoiturage plus développé…) que les trajets du quotidien. Il suffit\
+    \ de regarder dans la rue à l’heure des trajets domicile-travail, où la plupart\
+    \ des voitures n’ont qu’une personne à bord !\r\nCe remplissage a été en baisse\
+    \ historiquement, puisqu’il est passé de 1,78 occupants en 1990 à 1,57 en 2019\
+    \ ; et il était autour de 2,3 passagers sur la première moitié du XXème siècle.\r\
+    \nA noter qu’alors que le remplissage moyen des voitures diminuait, celui des\
+    \ poids-lourds, des trains ou encore des navires augmentait, par des véhicules\
+    \ de plus en plus gros et capacitaires (voir l’image).\r\n\r\n[Bonus] A noter\
+    \ aussi une petite subtilité plus technique : le remplissage moyen est plus fort\
+    \ lorsqu’il est mesuré par kilomètre parcouru (où les trajets à longue distance\
+    \ bien remplis représentent une proportion significative) que par trajet (où les\
+    \ trajets à longue distance sont peu nombreux, et font peut relever la moyenne).\
+    \ D’où des chiffres souvent différents sur ce sujet, selon comment on pondère\
+    \ la moyenne."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -40995,7 +40990,8 @@
   answer_source_accessible_url_text: Les facteurs d’évolution des émissions de CO2
     liées à l’énergie en France de 1990 à 2019 | Données et études statistiques
   answer_source_scientific_url: http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les transports face au défi de la transition
+    énergétique
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001015-4705.png
   answer_image_url_text: ''
@@ -41006,7 +41002,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1016
   text: Si l'on en suit la SNBC, lesquels de ces modes de transport ne doivent plus
     du tout consommer de pétrole d'ici 2050 ?
@@ -41040,9 +41036,10 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Stratégie Nationale Bas-Carbone (SNBC)
   answer_source_scientific_url: http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les transports face au défi de la transition
+    énergétique
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001016-541f.png
   answer_image_url_text: ''
@@ -41053,7 +41050,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2023-02-26'
+  updated: '2024-02-27'
 - id: 1017
   text: A date de septembre 2021, quelle est la proportion des véhicules électriques
     parmi les véhicules en circulation en France ?
@@ -41125,25 +41122,25 @@
   answer_choice_d: 50 %
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Les biocarburants aériens (ou biokérosène, ou biojet) peuvent
-    actuellement être incorporés jusqu’à représenter 50 % du carburant utilisé. Cette
-    limite constitue l’objectif fixé pour la France à l’horizon 2050 dans la Stratégie
-    Nationale Bas-Carbone (SNBC). Mais à court-terme, le déploiement sera relativement
-    lent, avec un objectif de 2 % d’incorporation en 2025 et 5 % en 2030.
-
-    Les biocarburants devront être produits prioritairement à partir de déchets recyclables
-    (huiles de cuisson usagées, biodéchets, etc.) afin de maximiser l’intérêt climatique
-    et éviter d’être en concurrence avec les usages alimentaires. Leurs principaux
-    inconvénients concernent leurs stocks limités et leurs coûts a minima 2 fois plus
-    chers que le kérosène (et parfois bien plus).'
+  answer_explanation: "Les biocarburants aériens (ou biokérosène, ou biojet) peuvent\
+    \ actuellement être incorporés jusqu’à représenter 50 % du carburant utilisé.\
+    \ Cette limite constitue l’objectif fixé pour la France à l’horizon 2050 dans\
+    \ la Stratégie Nationale Bas-Carbone (SNBC). Mais à court-terme, le déploiement\
+    \ sera relativement lent, avec un objectif de 2 % d’incorporation en 2025 et 5\
+    \ % en 2030.\r\nLes biocarburants devront être produits prioritairement à partir\
+    \ de déchets recyclables (huiles de cuisson usagées, biodéchets, etc.) afin de\
+    \ maximiser l’intérêt climatique et éviter d’être en concurrence avec les usages\
+    \ alimentaires. Leurs principaux inconvénients concernent leurs stocks limités\
+    \ et leurs coûts a minima 2 fois plus chers que le kérosène (et parfois bien plus)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.ecologie.gouv.fr/biocarburants
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Biocarburants
   answer_source_scientific_url: https://www.ecologie.gouv.fr/sites/default/files/ECV%20-%20Mise%20en%20place%20d%27une%20fili%C3%A8re%20de%20biocarburants%20a%C3%A9ronautiques%20en%20France.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Mise en place d’une filière de biocarburants
+    aéronautiques durables en France
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001018-5e20.PNG
   answer_image_url_text: ''
@@ -41154,7 +41151,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1019
   text: En nombre de trajets, quelle part de nos déplacements la marche à pied représente-t-elle
     en France ? Vous pouvez aussi raisonner en proportion du temps de transport, la
@@ -41172,19 +41169,16 @@
   answer_choice_d: 20 %
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Trop souvent oubliée des politiques de mobilité et de transport,
-    la marche à pied n’en est pas moins le 2ème mode de déplacement en France après
-    la voiture, que ce soit par nombre de trajets (essentiellement les trajets les
-    plus courts), ou en temps de déplacement (en comptant les temps de marche à pied
-    en intermodalité avec un autre mode, par exemple pour aller prendre un bus ou
-    un train).
-
-    En termes de nombre de kilomètres parcourus, la marche est bien moins significative,
-    en raison de trajets courts et d’une faible vitesse de déplacement.
-
-    La marche, tout comme les autres modes actifs comme le vélo, présente en plus
-    de son faible impact environnemental, de forts co-bénéfices pour la santé grâce
-    à l’activité physique qu’elle implique.'
+  answer_explanation: "Trop souvent oubliée des politiques de mobilité et de transport,\
+    \ la marche à pied n’en est pas moins le 2ème mode de déplacement en France après\
+    \ la voiture, que ce soit par nombre de trajets (essentiellement les trajets les\
+    \ plus courts), ou en temps de déplacement (en comptant les temps de marche à\
+    \ pied en intermodalité avec un autre mode, par exemple pour aller prendre un\
+    \ bus ou un train).\r\nEn termes de nombre de kilomètres parcourus, la marche\
+    \ est bien moins significative, en raison de trajets courts et d’une faible vitesse\
+    \ de déplacement.\r\nLa marche, tout comme les autres modes actifs comme le vélo,\
+    \ présente en plus de son faible impact environnemental, de forts co-bénéfices\
+    \ pour la santé grâce à l’activité physique qu’elle implique."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -41193,7 +41187,8 @@
   answer_source_accessible_url_text: Comment les Français se déplacent-ils en 2019
     ? Résultats de l'enquête mobilité des personnes
   answer_source_scientific_url: http://www.chair-energy-prosperity.org/publications/travail-de-these-decarboner-transports-dici-2050/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les transports face au défi de la transition
+    énergétique
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001019-3f96.png
   answer_image_url_text: ''
@@ -41204,7 +41199,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1020
   text: De plus en plus de poids lourds passent au biogaz. Quel gain d’émissions cela
     procure-t-il par rapport au diesel (en prenant en compte tout le cycle de vie)
@@ -41224,25 +41219,25 @@
   answer_choice_d: -80 %
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Le rapport de Carbone 4 sur les motorisations alternatives
-    pour le transport routier montre que les résultats d’émissions de gaz à effet
-    de serre en 2030 sont largement positifs pour les poids-lourds au biogaz, les
-    poids-lourds électriques et ceux roulant à l’hydrogène lorsque celui-ci est produit
-    à partir d’électricité renouvelable. Ainsi la réduction des émissions atteint
-    plus de 80 % par rapport au diesel pour ces 3 options.
-
-    Cependant, ces motorisations sont encore peu développées à ce jour. Leur coût
-    est souvent une limite, le manque d’offre de véhicules pour l’électrique et l’hydrogène
-    en est une autre, tandis qu’une limite majeure pour le biogaz sera la quantité
-    de gaz renouvelable qu’il est possible de produire en raison des ressources disponibles
-    limitées. Si ces véhicules se développent en restant alimentés par du gaz fossile,
-    les avantages climatiques sont alors très maigres, voire inexistants.'
+  answer_explanation: "Le rapport de Carbone 4 sur les motorisations alternatives\
+    \ pour le transport routier montre que les résultats d’émissions de gaz à effet\
+    \ de serre en 2030 sont largement positifs pour les poids-lourds au biogaz, les\
+    \ poids-lourds électriques et ceux roulant à l’hydrogène lorsque celui-ci est\
+    \ produit à partir d’électricité renouvelable. Ainsi la réduction des émissions\
+    \ atteint plus de 80 % par rapport au diesel pour ces 3 options.\r\nCependant,\
+    \ ces motorisations sont encore peu développées à ce jour. Leur coût est souvent\
+    \ une limite, le manque d’offre de véhicules pour l’électrique et l’hydrogène\
+    \ en est une autre, tandis qu’une limite majeure pour le biogaz sera la quantité\
+    \ de gaz renouvelable qu’il est possible de produire en raison des ressources\
+    \ disponibles limitées. Si ces véhicules se développent en restant alimentés par\
+    \ du gaz fossile, les avantages climatiques sont alors très maigres, voire inexistants."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.carbone4.com/publication-transport-routier-motorisation-alternatives
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: 'Transport routier : quelles motorisations alternatives
+    pour le climat ?'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -41256,7 +41251,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1021
   text: En moyenne, quelle était la vitesse maximale des voitures neuves vendues en
     France en 2018 ?
@@ -41310,8 +41305,8 @@
   created: '2021-10-08'
   updated: '2022-04-16'
 - id: 1022
-  text: 'Quelles sont les émissions liées à la navigation (fluviale, maritime, plaisance)
-    en 2019 ? Pour comparer, c’est 24 millions de tCO2e pour le secteur aérien. '
+  text: Quelles sont les émissions liées à la navigation (fluviale, maritime, plaisance)
+    en 2019 ? Pour comparer, c’est 24 millions de tCO2e pour le secteur aérien.
   hint: ''
   type: QCM
   category: 1
@@ -41327,23 +41322,20 @@
   answer_choice_d: 16 MtCO2e
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Les émissions liées à la navigation en France représentent
-    3 fois moins d’émissions que le transport aérien. Comme pour ce dernier, la part
-    liée à l’international domine. En comptant ces émissions internationales, la navigation
-    représente 5 % des émissions des transports (8 Mt sur le total d’environ 160 MtCO2e
-    ; sur ce total, 136 Mt sont pour les transports intérieurs et 24 Mt pour l’international,
-    soit 15 % du total).
-
-    Au sein de la navigation, c’est le transport maritime qui domine largement les
-    émissions. Cela inclut la moitié du transport maritime arrivant dans les ports
-    français ou en partant. De nombreuses marchandises destinées à la France transitent
-    par des ports étrangers (nos ports étant peu dynamiques par rapport à d’autres
-    ports européens) et ne sont pas inclus, ce qui alourdirait le bilan des émissions
-    du transport maritime reliées à la France.
-
-    Les autres navigations, qui incluent les bateaux de plaisance et les autres petits
-    bateaux, représentent environ 1 MtCO2e, assez loin devant le transport fluvial
-    (0,18 MtCO2e).'
+  answer_explanation: "Les émissions liées à la navigation en France représentent\
+    \ 3 fois moins d’émissions que le transport aérien. Comme pour ce dernier, la\
+    \ part liée à l’international domine. En comptant ces émissions internationales,\
+    \ la navigation représente 5 % des émissions des transports (8 Mt sur le total\
+    \ d’environ 160 MtCO2e ; sur ce total, 136 Mt sont pour les transports intérieurs\
+    \ et 24 Mt pour l’international, soit 15 % du total).\r\nAu sein de la navigation,\
+    \ c’est le transport maritime qui domine largement les émissions. Cela inclut\
+    \ la moitié du transport maritime arrivant dans les ports français ou en partant.\
+    \ De nombreuses marchandises destinées à la France transitent par des ports étrangers\
+    \ (nos ports étant peu dynamiques par rapport à d’autres ports européens) et ne\
+    \ sont pas inclus, ce qui alourdirait le bilan des émissions du transport maritime\
+    \ reliées à la France.\r\nLes autres navigations, qui incluent les bateaux de\
+    \ plaisance et les autres petits bateaux, représentent environ 1 MtCO2e, assez\
+    \ loin devant le transport fluvial (0,18 MtCO2e)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -41351,7 +41343,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.citepa.org/fr/secten/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Secten – le rapport de référence sur les émissions
+    de gaz à effet de serre et de polluants atmosphériques en France
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/001022-256c.png
   answer_image_url_text: ''
@@ -41362,7 +41355,7 @@
   validator: 2
   validation_date: '2021-10-15'
   created: '2021-10-08'
-  updated: '2022-04-16'
+  updated: '2024-02-27'
 - id: 1023
   text: "Le baril est une unité fréquemment employée dans l'industrie pétrolière.\r\
     \nQue représente un baril de pétrole ?"
@@ -41536,7 +41529,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: bp’s economics team produces the Energy Outlook,
+    which makes projections to 2050 and beyond
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f7cbc2a2.png
   answer_image_url_text: 'Source : BP Statistical Review of World Energy, 2021'
@@ -41547,7 +41541,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-04'
+  updated: '2024-02-27'
 - id: 1028
   text: En 2019, quel était le 1er fournisseur de pétrole de l'Union européenne ?
   hint: ''
@@ -41650,7 +41644,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Organisation_des_pays_exportateurs_de_p%C3%A9trole
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Organisation des pays exportateurs de pétrole
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -41663,7 +41657,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-10'
+  updated: '2024-02-27'
 - id: 1031
   text: Le transport routier est le 1er usage du pétrole dans le monde. Quel est le
     second ?
@@ -41865,7 +41859,8 @@
   answer_source_accessible_url_text: National Geographic "The Greenhouse Effect And
     Our Planet"
   answer_source_scientific_url: https://www.hko.gov.hk/en/climate_change/human_activities.htm
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Causes of Climate Change Greenhouse effect and
+    global warming
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e3e037de.png
   answer_image_url_text: ''
@@ -41876,7 +41871,7 @@
   validator: 2
   validation_date: '2022-06-26'
   created: '2022-06-19'
-  updated: '2022-08-05'
+  updated: '2024-02-27'
 - id: 1036
   text: 21,000 years ago, it was ice age, with an average temperature on earth 5°C
     lower than today's. How long did it take to warm up up to today's temperature?
@@ -42235,7 +42230,8 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=yCiT9ZuZBbw
-  answer_video_url_text: ''
+  answer_video_url_text: COMMENT LA FONTE DES GLACES RÉCHAUFFE LE CLIMAT ? (LE PHÉNOMÈNE
+    D'ALBÉDO)
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/R%C3%A9troaction_glace-alb%C3%A9do
   answer_source_accessible_url_text: Article Wikipedia Rétroaction glace-albédo
   answer_source_scientific_url: ''
@@ -42250,7 +42246,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-06-24'
-  updated: '2022-11-29'
+  updated: '2024-02-27'
 - id: 1045
   text: Entre 2006 et 2018, le niveau des mers a augmenté de 44 mm. Quelle a été la
     contribution des glaciers de montagne à cette élévation ?
@@ -42406,7 +42402,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=Jvh1YzJ5bTk
-  answer_video_url_text: ''
+  answer_video_url_text: Transition entre périodes glaciaires et interglaciaires
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
@@ -42421,7 +42417,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-06-28'
-  updated: '2022-11-02'
+  updated: '2024-02-27'
 - id: 1049
   text: Comment a évolué la surface totale des glaciers européens depuis 1900 ?
   hint: Ce n'est pas rien, même s'il en reste encore
@@ -42449,10 +42445,11 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: http://glaciers-climat.fr/Du_PAG_a_nos_jours/Du_PAG_a_nos_jours.html
+  answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://tc.copernicus.org/articles/12/759/2018/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The European mountain cryosphere: a review of
+    its current state, trends, and future challenges'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/88e7830b.jpg
   answer_image_url_text: Evolution du glacier de Pasterze, le plus grand glacier autrichien
@@ -42463,7 +42460,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-07-13'
-  updated: '2022-11-02'
+  updated: '2024-02-27'
 - id: 1050
   text: Les scientifiques du GIEC ont dressé 5 scenarios d'évolution du climat en
     fonction de nos émissions de gaz à effet de serre, du plus favorable (SSP1-1.9)
@@ -42496,7 +42493,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://tc.copernicus.org/articles/13/1125/2019/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Modelling the future evolution of glaciers in
+    the European Alps under the EURO-CORDEX RCM ensemble
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/36b232e7.jpg
   answer_image_url_text: Extrait du dernier rapport du GIEC AR6, résumé pour les décideurs.
@@ -42508,7 +42506,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-07-13'
-  updated: '2022-07-29'
+  updated: '2024-02-27'
 - id: 1051
   text: A quelles problématiques le recul des glaciers est-il lié ?
   hint: La perte d'un glacier n'est pas seulement un changement de paysage
@@ -42546,8 +42544,8 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: http://glaciers-climat.fr/Catastrophes/Catastrophes.html#Le
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.glaciers-climat.com/comprendre-les-glaciers/
+  answer_source_accessible_url_text: Comprendre les glaciers
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -42560,7 +42558,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-07-14'
-  updated: '2022-07-29'
+  updated: '2024-02-27'
 - id: 1052
   text: A quelles problématiques l'agriculture urbaine répond-t-elle ?
   hint: Parmi les réponses suivantes, vous pouvez cocher jusqu'à 6 cases !
@@ -42591,7 +42589,8 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=WpuPO0abMVo&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA
-  answer_video_url_text: ''
+  answer_video_url_text: 'Agriculture Urbaine #CalendrierdelAvent2021 Ferme Urbaine
+    Circulaire du Trichon'
   answer_source_accessible_url: https://agirpourlatransition.ademe.fr/collectivites/sites/default/files/2020-10/agriculture-urbaine-comprendre.pdf
   answer_source_accessible_url_text: Comprendre l'Agriculture Urbaine
   answer_source_scientific_url: ''
@@ -42606,7 +42605,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1053
   text: Quels sont les 3 piliers sur lesquels repose la biodiversité ?
   hint: ''
@@ -42637,7 +42636,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=ET9HuZiofIM&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=2
-  answer_video_url_text: ''
+  answer_video_url_text: 'Biodiversité #CalendrierdelAvent2021 La Fresque de la Biodiversité'
   answer_source_accessible_url: https://www.ofb.gouv.fr/quest-ce-que-la-biodiversite
   answer_source_accessible_url_text: Qu'est-ce que c'est la biodiversité ?
   answer_source_scientific_url: ''
@@ -42652,7 +42651,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1054
   text: Les comportements de consommation ont-ils un impact direct sur les 4 enjeux
     des transitions écologiques, à savoir le changement climatique, l'érosion de la
@@ -42682,7 +42681,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://youtu.be/U9xoi7RSOwo
-  answer_video_url_text: ''
+  answer_video_url_text: Jamy retrace l'itinéraire d'un jean
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
@@ -42699,7 +42698,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2022-08-23'
+  updated: '2024-02-27'
 - id: 1055
   text: Quelle a été la hausse enregistrée en France de la consommation de produits
     issus du commerce équitable entre 2013 et 2016 ?
@@ -42730,7 +42729,8 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=uEOdA43h-5M
-  answer_video_url_text: ''
+  answer_video_url_text: Le commerce équitable, c'est quoi ? (définition, aide, lexique,
+    tuto, explication)
   answer_source_accessible_url: https://www.ecologie.gouv.fr/commerce-equitable
   answer_source_accessible_url_text: Commerce Equitable
   answer_source_scientific_url: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924
@@ -42746,7 +42746,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2022-08-23'
+  updated: '2024-02-27'
 - id: 1056
   text: En quoi consiste la finance durable ?
   hint: ''
@@ -42783,7 +42783,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=U7ecpRfHopY&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=19
-  answer_video_url_text: ''
+  answer_video_url_text: 'Finance #CalendrierdelAvent2021 La Nef'
   answer_source_accessible_url: https://observatoiredelafinancedurable.com/fr/presentation/la-finance-durable/
   answer_source_accessible_url_text: Qu'est-ce que c'est la finance durable ?
   answer_source_scientific_url: https://www.banque-france.fr/sites/default/files/medias/documents/taxonomie_2_publiee_20211011.pdf
@@ -42798,7 +42798,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1057
   text: Selon la Commission Européenne, combien d'emplois l'économie circulaire pourrait-elle
     créer d'ici 2030?
@@ -42969,9 +42969,9 @@
     économique et de l’emploi mais à condition que celle-ci soit respectueuse du climat,
     neutre en carbone et offre un modèle de tourisme et de transport durables.
   answer_audio_url: https://www.radiofrance.fr/franceculture/podcasts/selection-sciences-12-emissions-sur-les-oceans
-  answer_audio_url_text: ''
+  answer_audio_url_text: 'Sciences : 12 émissions sur les océans'
   answer_video_url: https://www.youtube.com/watch?v=k4G6eQJGcRM
-  answer_video_url_text: ''
+  answer_video_url_text: L’impact du changement climatique sur les océans
   answer_source_accessible_url: https://wwz.ifremer.fr/L-ocean-pour-tous/Nos-ressources-pedagogiques/Comprendre-les-oceans/Ocean-et-climat/Dictionnaire-de-la-COP21-comprendre-les-liens-entre-oceans-et-climat
   answer_source_accessible_url_text: Comprendre les liens entre les océans et le changement
     climatique
@@ -42990,7 +42990,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2022-08-23'
+  updated: '2024-02-27'
 - id: 1061
   text: En 1977 l’Unesco et le PNUE organise la conférence de Tbilissi sur le thème
     de l’Education à l’environnement. Le rapport indique que face à la complexité
@@ -43022,13 +43022,14 @@
     l’industrie, du bâtiment, de l’agriculture et de la finance pour parvenir au plein
     emploi.
   answer_audio_url: https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/eduquer-face-a-l-anthropocene-1784898
-  answer_audio_url_text: ''
+  answer_audio_url_text: 'COP26 : l''éducation face au changement climatique'
   answer_video_url: https://www.youtube.com/watch?v=Fse7xhXwiNA
-  answer_video_url_text: ''
+  answer_video_url_text: L'éducation à l'environnement et au développement durable
+    - cese
   answer_source_accessible_url: https://www.education.gouv.fr/l-education-au-developpement-durable-7136
   answer_source_accessible_url_text: L'Education au Développement Durable
   answer_source_scientific_url: ''
-  answer_source_scientific_url_text: L'Education au Développement Durable
+  answer_source_scientific_url_text: ''
   answer_book_recommendation: https://livre.fnac.com/a7359819/Arnaud-Diemer-Education-au-developpement-durable
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/608ffc2a.jpg
   answer_image_url_text: ''
@@ -43040,7 +43041,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1062
   text: Dans quelle commune de France un système de gouvernance collégiale a été expérimenté
     entre 2014 et 2020 ?
@@ -43152,16 +43153,17 @@
     de développement durable en s’appuyant sur les fonctionnalités naturelles des
     écosystèmes.
   answer_audio_url: https://fermesdavenir.org/fermes-davenir/outils/les-10-meilleurs-podcasts-sur-lagroecologie
-  answer_audio_url_text: ''
+  answer_audio_url_text: Les 10 meilleurs podcasts sur l’agroécologie
   answer_video_url: https://www.youtube.com/watch?v=_tnRhZytE8Y
-  answer_video_url_text: ''
+  answer_video_url_text: Qu'est-ce que l'agroécologie?
   answer_source_accessible_url: https://agriculture.gouv.fr/quest-ce-que-lagroecologie
   answer_source_accessible_url_text: Qu'est-ce que c'est l'agroecologie ?
   answer_source_scientific_url: https://hal.archives-ouvertes.fr/hal-01298955/document
   answer_source_scientific_url_text: Livre sur la mise en pratique
   answer_book_recommendation: https://books.google.fr/books?hl=en&lr=&id=3ztKDgAAQBAJ&oi=fnd&pg=PA91&dq=agroecologie&ots=kQLdBqI6Ni&sig=7ciNB8hmxIBabzJWaRqVdUB9P7g#v=onepage&q&f=false
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/292965f2.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: 'Comprendre l''agroécologie: Origines, principes et politiques
+    - Matthieu Calame'
   answer_extra_info: La question ne porte que sur la définition d'un mot
   author: 65
   visibility: PUBLIC
@@ -43169,7 +43171,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1065
   text: Quelle est la part d'eau douce sur Terre ?
   hint: ''
@@ -43193,9 +43195,11 @@
     \ agricoles est donc inférieure à 1% (eau de surface plus une partie des eaux\
     \ souterraines)."
   answer_audio_url: https://www.wedemain.fr/podcasts/podcast-quel-avenir-pour-les-fleuves-face-au-changement-climatique/
-  answer_audio_url_text: ''
+  answer_audio_url_text: Podcast – Quel avenir pour les fleuves face au changement
+    climatique ?
   answer_video_url: https://www.youtube.com/watch?v=Btuw6zFy-WI
-  answer_video_url_text: ''
+  answer_video_url_text: Quel est l'impact du changement climatique sur le cycle de
+    l'eau ?
   answer_source_accessible_url: https://enimmersion-eau.fr/eau-et-changement-climatique/
   answer_source_accessible_url_text: Eau et Changement Climatique
   answer_source_scientific_url: https://read.oecd-ilibrary.org/environment/l-eau-et-adaptation-au-changement-climatique_9789264200647-fr#page5
@@ -43213,7 +43217,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1066
   text: La culture n'est pas un secteur concerné par le changement climatique.
   hint: ''
@@ -43290,7 +43294,7 @@
     \ mais aussi des infrastructures de transport."
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: https://www.youtube.com/watch?v=Gi3jZLCBid4
+  answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://librairie.ademe.fr/mobilite-et-transport/3859-la-mobilite-en-10-questions-9791029716126.html#/44-type_de_produit-format_electronique
   answer_source_accessible_url_text: 'La Mobilité en 10 Questions: Guide fait par
@@ -43308,7 +43312,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-23'
+  updated: '2024-02-27'
 - id: 1068
   text: En 2000 Paul Joseph Krutzen invente le mot Anthropocène pour indiquer que
     la Terre est entrée dans une nouvelle ère géologique. Pour bien vivre dans cette
@@ -43341,7 +43345,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=Yu8vIHrGnA8&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=20
-  answer_video_url_text: ''
+  answer_video_url_text: Collaboration - Fertiles
   answer_source_accessible_url: https://www.ecologie.gouv.fr/covoiturage-en-france-avantages-et-reglementation-en-vigueur#:~:text=70%25%20des%20d%C3%A9placements%20domicile%2Dtravail,la%20part%20du%20covoiturage%20quotidien.
   answer_source_accessible_url_text: Co-voiturage du quotidien en France
   answer_source_scientific_url: ''
@@ -43356,7 +43360,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-08-23'
+  updated: '2024-02-27'
 - id: 1069
   text: L'énergie, c'est ce qui mesure la transformation du monde. Dans son rapport
     intitulé "Futur énergétique 2050" RTE indique que la France consomme aujourd'hui
@@ -43480,7 +43484,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=Qh1t8fMfMRA&list=PLylaYILeDmB-pJeqMCbZ7P1eDdj9OBctA&index=12
-  answer_video_url_text: ''
+  answer_video_url_text: 'Air #CalendrierdelAvent2021 Vital Stratégies'
   answer_source_accessible_url: https://www.santepubliquefrance.fr/les-actualites/2021/pollution-de-l-air-l-oms-revise-ses-seuils-de-reference-pour-les-principaux-polluants-atmospheriques
   answer_source_accessible_url_text: 'Pollution de l’air : l’OMS révise ses seuils
     de référence pour les principaux polluants atmosphériques'
@@ -43496,7 +43500,7 @@
   validator: 2
   validation_date: '2022-11-05'
   created: '2022-08-04'
-  updated: '2023-02-13'
+  updated: '2024-02-27'
 - id: 1072
   text: Parmi les sols artificialisés, quelle proportion est occupée par les infrastructures
     de transport ?
@@ -43884,12 +43888,13 @@
     \ le 4 avril 2022."
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/
+  answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Sixi%C3%A8me_rapport_d%27%C3%A9valuation_du_GIEC
   answer_source_accessible_url_text: Wikipedia, sixième rapport d'évaluation du GIEC
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/
+  answer_source_scientific_url_text: 'Climate Change 2022: Impacts, Adaptation and
+    Vulnerability'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/548c4c63.png
   answer_image_url_text: ''
@@ -43900,7 +43905,7 @@
   validator: 55
   validation_date: '2022-11-17'
   created: '2022-11-07'
-  updated: '2022-11-17'
+  updated: '2024-02-27'
 - id: 1082
   text: Concrètement, que font les experts qui contribuent aux travaux du GIEC ?
   hint: rigueur et confiance obligent
@@ -43928,7 +43933,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=C_UTlTiVQ_0
-  answer_video_url_text: ''
+  answer_video_url_text: Comprendre le GIEC et ses rapports
   answer_source_accessible_url: https://argonautes.club/comment-fonctionne-le-giec-ipcc.html
   answer_source_accessible_url_text: FAQ GIEC par Michel Petit
   answer_source_scientific_url: https://twitter.com/valmasdel/status/1143865085892472832
@@ -43944,7 +43949,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-11-17'
-  updated: '2023-01-30'
+  updated: '2024-02-27'
 - id: 1083
   text: Parlons stockage du carbone. Les sols contiennent au total...
   hint: ''
@@ -46435,7 +46440,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.greenit.fr/wp-content/uploads/2021/02/2021-01-iNum-etude-impacts-numerique-France-rapport-0.8.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Impacts  environnementaux  du numérique  en France
+    - Green IT
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -46448,7 +46454,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2023-02-21'
+  updated: '2024-02-27'
 - id: 1139
   text: Dans les logiciels et applications sur smartphone, quelle est la proportion
     de fonctionnalités réellement utilisées ?
