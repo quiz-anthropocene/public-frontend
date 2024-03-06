@@ -28964,11 +28964,10 @@
   answer_choice_d: 11%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Si le transport aérien croît en moyenne de 6 % par an, les
-    écarts régionaux demeurent considérables : de l’ordre de 8 à 10 % dans les pays
-    asiatiques et du Moyen-Orient, pour de 3 à 4 % en Europe ou aux États-Unis.
-
-    Cette croissance est favorisée par les exonérations multiples de taxes.'
+  answer_explanation: "Si le transport aérien croît en moyenne de 6 % par an, les\
+    \ écarts régionaux demeurent considérables : de l’ordre de 8 à 10 % dans les pays\
+    \ asiatiques et du Moyen-Orient, pour de 3 à 4 % en Europe ou aux États-Unis.\r\
+    \nCette croissance est favorisée par les exonérations multiples de taxes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28977,7 +28976,8 @@
   answer_source_accessible_url_text: 'OACI: 4,3 milliards de passagers aériens en
     2018 (+6,1%) | Air Journal'
   answer_source_scientific_url: https://www.icao.int/Newsroom/Pages/FR/Solid-passenger-traffic-growth-and-moderate-air-cargo-demand-in-2018.aspx
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Solid passenger traffic growth and moderate air
+    cargo demand in 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000710-7d70.png
   answer_image_url_text: ''
@@ -28988,7 +28988,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 711
   text: Quel est le nombre d'avions commerciaux dans le monde en 2019 ? Alors imaginez
     en 2038...
@@ -30499,7 +30499,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://pubs.acs.org/doi/abs/10.1021/es505515z
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Lost by Design (Ciacci et al 2015)
   answer_book_recommendation: L'age des low-techs, Ph. Bihouix
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000742-7f03.png
   answer_image_url_text: https://www.pavisa.com.mx/fr/dou-viennent-les-differentes-couleurs-du-verre/
@@ -30510,7 +30510,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2023-03-23'
+  updated: '2024-03-05'
 - id: 743
   text: Un ménage français jette en moyenne 250kg par an de déchets à la poubelle
     générale (grise), qui sont souvent délicats à traiter car mélangés. Quelle part
@@ -30925,8 +30925,8 @@
   created: '2021-01-06'
   updated: '2022-04-16'
 - id: 752
-  text: 'Quel pourcentage de la population mondiale est responsable de la moitié des
-    émissions des avions? '
+  text: Quel pourcentage de la population mondiale est responsable de la moitié des
+    émissions des avions?
   hint: ''
   type: QCM
   category: 2
@@ -30943,21 +30943,18 @@
   answer_choice_d: 20%
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Parmi ces 1%, 10% sont des « ''frequent flyers'', des voyageurs
-    fréquents. Certains ont même enregistré jusqu''à 600 vols par an ! Cela recouvre
-    des voyageurs qui profitent de plusieurs lieux de résidences, qui voyagent en
-    jet privé ou en première classe, voire dans des suites dont la taille peut être
-    selon les compagnies entre 5 et 10 fois plus grande que la classe économique.
-    Par exemple sur les A380 de Singapore Airline : 50% de la cabine correspond à
-    la classe éco pour 400 passagers, 25% de la cabine correspond à la classe affaire
-    pour 60 passagers et 25% de la cabine correspond à la classe Suite pour 12 passagers.
-
-    A noter que les fréquent flyers peuvent souvent profiter de miles qui sont des
-    invitations à la croissance du trafic aérien.
-
-    Les auteurs de l’étude en référence soulignent que cette population de frequent
-    flyers est aussi, sans surprise, grosse consommatrice de trajets en superyachts
-    et en hélicoptères.'
+  answer_explanation: "Parmi ces 1%, 10% sont des « 'frequent flyers', des voyageurs\
+    \ fréquents. Certains ont même enregistré jusqu'à 600 vols par an ! Cela recouvre\
+    \ des voyageurs qui profitent de plusieurs lieux de résidences, qui voyagent en\
+    \ jet privé ou en première classe, voire dans des suites dont la taille peut être\
+    \ selon les compagnies entre 5 et 10 fois plus grande que la classe économique.\
+    \ Par exemple sur les A380 de Singapore Airline : 50% de la cabine correspond\
+    \ à la classe éco pour 400 passagers, 25% de la cabine correspond à la classe\
+    \ affaire pour 60 passagers et 25% de la cabine correspond à la classe Suite pour\
+    \ 12 passagers.\r\nA noter que les fréquent flyers peuvent souvent profiter de\
+    \ miles qui sont des invitations à la croissance du trafic aérien.\r\nLes auteurs\
+    \ de l’étude en référence soulignent que cette population de frequent flyers est\
+    \ aussi, sans surprise, grosse consommatrice de trajets en superyachts et en hélicoptères."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30966,7 +30963,8 @@
   answer_source_accessible_url_text: 1 % de la population mondiale est responsable
     de 50 % des émissions du transport aérien | Konbini
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0959378020307779
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The global scale, distribution and growth of
+    aviation: Implications for climate change (Gossling et Humpe 2020)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000752-7944.png
   answer_image_url_text: ''
@@ -30977,7 +30975,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 753
   text: 'Quelles émissions maxi atteintes par des individus de l’aviation privée ? '
   hint: à peine croyable
@@ -31116,31 +31114,19 @@
   answer_choice_d: 25%
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Une étude récente conclut qu’un vol en "jet privé" émet entre
-    5 et 10 fois plus qu’un "vol commercial" par passager.
-
-    Il faut aussi savoir que 40% de ces vols se font à vide.
-
-    Les 10% des voyageurs les plus fréquents soit 1% de la population mondiale, seraient
-    responsables de 50% des émissions du secteur aérien !
-
-    Les plus gros voyageurs peuvent contribuer jusqu’à 7,500 tCO2/an, soit 750 fois
-    l’empreinte moyenne d’un français.
-
-    C''est un luxe typiquement américain : les 3/4 des jets sont immatriculés aux
-    Etats-Unis.
-
-    L''aviation privée est un secteur en forte croissance, notamment depuis l''épisode
-    COVID.
-
-    On constate aujourd’hui que de plus en plus de vols en « Jets Privés » recouvrent
-    à la fois des voyages « d’affaires » et « de loisirs » avec un basculement fort
-    vers les loisirs.
-
-    Il est plus noble de parler « d’affaires » pour les « frequent flyers » que de
-    voyages d’agréments.
-
-    8%, c''est l''estimation de la part du trafic militaire.'
+  answer_explanation: "Une étude récente conclut qu’un vol en \"jet privé\" émet entre\
+    \ 5 et 10 fois plus qu’un \"vol commercial\" par passager.\r\nIl faut aussi savoir\
+    \ que 40% de ces vols se font à vide.\r\nLes 10% des voyageurs les plus fréquents\
+    \ soit 1% de la population mondiale, seraient responsables de 50% des émissions\
+    \ du secteur aérien !\r\nLes plus gros voyageurs peuvent contribuer jusqu’à 7,500\
+    \ tCO2/an, soit 750 fois l’empreinte moyenne d’un français.\r\nC'est un luxe typiquement\
+    \ américain : les 3/4 des jets sont immatriculés aux Etats-Unis.\r\nL'aviation\
+    \ privée est un secteur en forte croissance, notamment depuis l'épisode COVID.\r\
+    \nOn constate aujourd’hui que de plus en plus de vols en « Jets Privés » recouvrent\
+    \ à la fois des voyages « d’affaires » et « de loisirs » avec un basculement fort\
+    \ vers les loisirs.\r\nIl est plus noble de parler « d’affaires » pour les « frequent\
+    \ flyers » que de voyages d’agréments.\r\n8%, c'est l'estimation de la part du\
+    \ trafic militaire."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31149,7 +31135,8 @@
   answer_source_accessible_url_text: The Countries Where Private Jet Ownership Is
     Soaring [Infographic]
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0959378020307779
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The global scale, distribution and growth of
+    aviation: Implications for climate change (Gossling et Humpe, 2020)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000756-95f1.png
   answer_image_url_text: Pays où le nombre de propriétaires de jets explose (2016)
@@ -31161,7 +31148,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 757
   text: On mesure l'intensité du trafic aérien en nombre de passagers x km (RPK en
     anglais). A combien s'élevait cette intensité en 2018 ?
@@ -31183,11 +31170,10 @@
   answer_choice_d: 100 000 milliards de RPK
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Pour 4,3 milliards de passagers transportés. Autrement dit
-    , chaque passager fait en moyenne 2 000 km par vol. Bien entendu, certains passagers
-    peuvent voler plusieurs fois.
-
-    35 000 milliards de RPK, c''est le chiffre prévu par le secteur pour 2050. '
+  answer_explanation: "Pour 4,3 milliards de passagers transportés. Autrement dit\
+    \ , chaque passager fait en moyenne 2 000 km par vol. Bien entendu, certains passagers\
+    \ peuvent voler plusieurs fois.\r\n35 000 milliards de RPK, c'est le chiffre prévu\
+    \ par le secteur pour 2050."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31195,7 +31181,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0959378020307779
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The global scale, distribution and growth of
+    aviation: Implications for climate change (Gossling et Humpe 2020)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000757-34b9.png
   answer_image_url_text: ''
@@ -31206,7 +31193,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 758
   text: Si un Islandais fait en moyenne 45,000 km /an en avion, combien fait un Congolais
     de RDC ?
@@ -31322,7 +31309,7 @@
   answer_source_accessible_url_text: L'utilisation de matières premières devrait doubler
     d'ici 2060, ce qui aura de graves répercussions sur l'environnement - OCDE
   answer_source_scientific_url: https://www.visualcapitalist.com/all-the-worlds-metals-and-minerals-in-one-visualization/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: All the World’s Metals and Minerals in One Visualization
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000760-5d7e.png
   answer_image_url_text: https://ourworldindata.org/water-use-stress
@@ -31333,7 +31320,7 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2023-03-21'
+  updated: '2024-03-05'
 - id: 761
   text: Entre 2005 et 2020, le volume de données totales généré chaque année par l'ensemble
     des appareils dans le monde a été multiplié d'un facteur de l'ordre de...
@@ -31365,7 +31352,7 @@
   answer_source_accessible_url: https://fr.statista.com/infographie/17800/big-data-evolution-quantite-donnees-numeriques-creees-dans-le-monde/
   answer_source_accessible_url_text: '• Graphique: Le Big Bang du Big Data | Statista'
   answer_source_scientific_url: https://blogs.cisco.com/sp/the-history-and-future-of-internet-traffic
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The History and Future of Internet Traffic
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000761-33bb.png
   answer_image_url_text: IDC, cité par https://www.economist.com/special-report/2010/02/27/data-data-everywhere
@@ -31376,9 +31363,9 @@
   validator: 2
   validation_date: '2021-01-18'
   created: '2021-01-11'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 762
-  text: 'Vrai ou faux ? Le pôle nord se refroidit moins vite qu''ailleurs. '
+  text: Vrai ou faux ? Le pôle nord se refroidit moins vite qu'ailleurs.
   hint: ''
   type: QCM
   category: 2
@@ -31393,38 +31380,36 @@
   answer_choice_d: 99%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Le GIEC avance que, pour conserver 50% de chance de rester
-    sous la barre des 2°C de hausse par rapport à la période préindustrielle, les
-    émissions mondiales de CO2 ne devront pas dépasser, entre 2011 et 2050, une fourchette
-    allant de 860 à 1 180 milliards de tonnes. Cela nécessite de ne pas toucher à
-    80% des réserves de charbon ET 30% des réserves de pétrole ET 50% de celles de
-    gaz. , ceci afin de conserver 50% de chances pour contenir la hausse des températures
-    d''ici la fin du siècle '
+  answer_explanation: Le GIEC avance que, pour conserver 50% de chance de rester sous
+    la barre des 2°C de hausse par rapport à la période préindustrielle, les émissions
+    mondiales de CO2 ne devront pas dépasser, entre 2011 et 2050, une fourchette allant
+    de 860 à 1 180 milliards de tonnes. Cela nécessite de ne pas toucher à 80% des
+    réserves de charbon ET 30% des réserves de pétrole ET 50% de celles de gaz. ,
+    ceci afin de conserver 50% de chances pour contenir la hausse des températures
+    d'ici la fin du siècle
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2015/01/07/pour-limiter-le-rechauffement-a-2-c-combien-de-petrole-gaz-et-charbon-en-moins_4550929_3244.html
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Pour limiter le réchauffement à 2° C, combien
+    de pétrole, gaz et charbon en moins ?
   answer_source_scientific_url: https://www.nature.com/articles/nature14016
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The geographical distribution of fossil fuels
+    unused when limiting global warming to 2 °C (Mc Glade & Ekins 2015)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000762-2251.png
   answer_image_url_text: ''
-  answer_extra_info: 'la question initiale faisait mention de 80% de pétrole.
-
-    autres articles:
-
-    https://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves
-
-    https://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says'
+  answer_extra_info: "la question initiale faisait mention de 80% de pétrole.\r\n\
+    autres articles:\r\nhttps://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves\r\
+    \nhttps://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says"
   author: 2
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 763
   text: Quelle proportion des réserves connues de charbon devons-nous laisser sous
     terre pour espérer contenir la hausse de température moyenne sous 2°C ?
@@ -31442,13 +31427,13 @@
   answer_choice_d: 99%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Le GIEC avance que, pour conserver 50% de chance de rester
-    sous la barre des 2°C de hausse par rapport à la période préindustrielle, les
-    émissions mondiales de CO2 ne devront pas dépasser, entre 2011 et 2050, une fourchette
-    allant de 860 à 1 180 milliards de tonnes. Cela nécessite de ne pas toucher à
-    80% des réserves de charbon ET 30% des réserves de pétrole ET 50% de celles de
-    gaz. , ceci afin de conserver 50% de chances pour contenir la hausse des températures
-    d''ici la fin du siècle '
+  answer_explanation: Le GIEC avance que, pour conserver 50% de chance de rester sous
+    la barre des 2°C de hausse par rapport à la période préindustrielle, les émissions
+    mondiales de CO2 ne devront pas dépasser, entre 2011 et 2050, une fourchette allant
+    de 860 à 1 180 milliards de tonnes. Cela nécessite de ne pas toucher à 80% des
+    réserves de charbon ET 30% des réserves de pétrole ET 50% de celles de gaz. ,
+    ceci afin de conserver 50% de chances pour contenir la hausse des températures
+    d'ici la fin du siècle
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31457,24 +31442,21 @@
   answer_source_accessible_url_text: Pour limiter le réchauffement à 2° C, combien
     de pétrole, gaz et charbon en moins ?
   answer_source_scientific_url: https://www.nature.com/articles/nature14016
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The geographical distribution of fossil fuels
+    unused when limiting global warming to 2 °C (McGlade & Ekins 2015)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000763-76e3.png
   answer_image_url_text: ''
-  answer_extra_info: 'la question initiale faisait mention de 80% de pétrole.
-
-    autres articles:
-
-    https://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves
-
-    https://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says'
+  answer_extra_info: "la question initiale faisait mention de 80% de pétrole.\r\n\
+    autres articles:\r\nhttps://reporterre.net/Pour-eviter-le-rechauffement-il-faut-laisser-dans-le-sol-la-moitie-des-reserves\r\
+    \nhttps://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says"
   author: 2
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 764
   text: Vrai ou faux ? Depuis quelques siècles, les activités humaines ont un impact
     sur le climat
@@ -31577,7 +31559,8 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=QvXntfdmQYQ
-  answer_video_url_text: ''
+  answer_video_url_text: 'Oxfam : Les 1% les plus riches émettent 15% du CO2 - TV5MONDE
+    INFO'
   answer_source_accessible_url: https://www.novethic.fr/actualite/infographies/isr-rse/infographie-le-1-le-plus-riche-de-la-planete-emet-deux-fois-plus-de-co2-que-la-moitie-la-plus-pauvre-de-l-humanite-149017.html
   answer_source_accessible_url_text: Les 1 % les plus riches de la planète émettent
     deux fois plus de CO2 que la moitié la plus pauvre de l’humanité
@@ -31593,7 +31576,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2023-05-16'
+  updated: '2024-03-05'
 - id: 767
   text: Vrai ou faux ? La fonte de la banquise (la glace qui flotte) fait monter le
     niveau de l'océan.
@@ -31619,7 +31602,8 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=cs5-KWwmGXU
-  answer_video_url_text: ''
+  answer_video_url_text: Allo, doc ? Pourquoi la fonte de la banquise ne fait pas
+    monter le niveau des mers ?
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/%C3%89l%C3%A9vation_du_niveau_de_la_mer
   answer_source_accessible_url_text: Élévation du niveau de la mer — Wikipédia
   answer_source_scientific_url: ''
@@ -31634,7 +31618,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2023-06-07'
+  updated: '2024-03-05'
 - id: 768
   text: Si l’on prend en compte tout le cycle de vie (construction, utilisation, démantellement),
     quelle est la source d'énergie la moins carbonée, en France ?
@@ -31699,7 +31683,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=Tfu2K3dOrqI
-  answer_video_url_text: ''
+  answer_video_url_text: C'est quoi l'effet de serre ? - le Professeur Gamberge
   answer_source_accessible_url: https://fr.vikidia.org/wiki/Gaz_%C3%A0_effet_de_serre
   answer_source_accessible_url_text: Wikidia - l’effet de serre
   answer_source_scientific_url: ''
@@ -31714,7 +31698,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 770
   text: L'hydrogène une énergie d'avenir pour le TA ?
   hint: Fo pas rêver...!
@@ -32131,17 +32115,12 @@
   answer_source_accessible_url_text: Ces grandes villes du monde, comme Téhéran, qui
     s'enfoncent - Sciences et Avenir
   answer_source_scientific_url: https://www.usgs.gov/centers/ca-water-ls/science/land-subsidence-san-joaquin-valley?qt-science_center_objects=0#qt-science_center_objects
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Land Subsidence in the San Joaquin Valley
   answer_book_recommendation: ''
   answer_image_url: ''
-  answer_image_url_text: 'Panneaux montrant le niveau historique du sol dans la vallée
-    de San Joaquin
-
-
-    Photo US Geological Survey in "IHP and related UNESCO Programmes in Water Resources
-    1984-1989" (https://hydrologie.org/glu/ZZ/GP1240.HTM)
-
-    '
+  answer_image_url_text: "Panneaux montrant le niveau historique du sol dans la vallée\
+    \ de San Joaquin\r\n\r\nPhoto US Geological Survey in \"IHP and related UNESCO\
+    \ Programmes in Water Resources 1984-1989\" (https://hydrologie.org/glu/ZZ/GP1240.HTM)"
   answer_extra_info: ''
   author: 20
   visibility: PUBLIC
@@ -32149,7 +32128,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-11-28'
+  updated: '2024-03-05'
 - id: 780
   text: Quelle est la part des bio-carburants (SAF – Sustainable Aviation Fuel) dans
     le TA ?
@@ -32712,15 +32691,15 @@
   answer_choice_d: '1240'
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "L’exemple de la liaison Madrid - Barcelone est éloquent.\n\
+  answer_explanation: "L’exemple de la liaison Madrid - Barcelone est éloquent.\r\n\
     En 2007, l’avion est le principal mode de transport entre les villes distantes\
     \ de 485 km : 90 aller-retours quotidiens, et par an : 6,5 millions de passagers,\
-    \ 500,000 tonnes de CO2 émises. \nEn 2008, la ligne ferroviaire AVE à grande vitesse\
-    \ est créée. En 2020, il n'y a plus que 15 vols dans les deux sens, les émissions\
-    \ ont été réduites d'un facteur 8. \nCerise sur le gâteau, La SNCF lance un Ouigo\
-    \ Espagnol à 15€ contre un tarif de base à 75€. Cela risque d'être le coup de\
-    \ grâce pour les liaisons aériennes entre les 2 villes. La maire de Barcelone\
-    \ pousse d'ailleurs fortement dans ce sens."
+    \ 500,000 tonnes de CO2 émises. \r\nEn 2008, la ligne ferroviaire AVE à grande\
+    \ vitesse est créée. En 2020, il n'y a plus que 15 vols dans les deux sens, les\
+    \ émissions ont été réduites d'un facteur 8. \r\nCerise sur le gâteau, La SNCF\
+    \ lance un Ouigo Espagnol à 15€ contre un tarif de base à 75€. Cela risque d'être\
+    \ le coup de grâce pour les liaisons aériennes entre les 2 villes. La maire de\
+    \ Barcelone pousse d'ailleurs fortement dans ce sens."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32729,7 +32708,7 @@
   answer_source_accessible_url_text: Bientôt la fin des vols entre Barcelone et Madrid
     ? - Tour Hebdo
   answer_source_scientific_url: https://fr.wikipedia.org/wiki/Routes_a%C3%A9riennes_les_plus_fr%C3%A9quent%C3%A9es
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Routes aériennes les plus fréquentées - Wikipedia
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000792-5ff3.png
   answer_image_url_text: 'Sources : Wikipedia - OAG'
@@ -32740,7 +32719,7 @@
   validator: 2
   validation_date: '2021-01-30'
   created: '2021-01-23'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 793
   text: Parmi les énergies fossiles, il y a... ?
   hint: ''
@@ -32769,7 +32748,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.lumni.fr/video/c-est-quoi-les-energies-fossiles
-  answer_video_url_text: ''
+  answer_video_url_text: C'est quoi les energies fossiles ?
   answer_source_accessible_url: http://www.lacaseauxenfants.org/energies/energies-fossiles.htm
   answer_source_accessible_url_text: Wikidia - Les énergies fossiles
   answer_source_scientific_url: ''
@@ -32784,7 +32763,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2022-07-07'
+  updated: '2024-03-05'
 - id: 794
   text: Avec la quantité de réserves prouvées, et avec une hypothèse de consommation
     constante, pour combien de temps avons-nous encore du nickel ?
@@ -32856,7 +32835,7 @@
   answer_source_accessible_url: https://www.eaudyssee.org/empreinte-eau-explications/
   answer_source_accessible_url_text: Explications de l'association Eau'Dissey sur
     l'empreinte eau
-  answer_source_scientific_url: https://waterfootprint.org/en/resources/publications/water-footprint-assessment-manual/
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: 'Hoekstra, A.Y., Chapagain, A.K., Aldaya, M.M. and Mekonnen,
     M.M. (2011) – “The Water Footprint Assessment Manual: Setting the Global Standard”,
@@ -32870,7 +32849,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 796
   text: Quelle est la consommation moyenne d'eau du robinet d'un Français sur une
     journée ?
@@ -32898,8 +32877,9 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.cieau.com/le-metier-de-leau/usages-consommation-conseils/quels-sont-les-bons-gestes-pour-mieux-consommer-leau/
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.cieau.com/le-metier-de-leau/usages-consommation-conseils/quels-sont-les-bons-gestes-pour-mieux-consommer-leau/
+  answer_source_accessible_url_text: QUELS SONT LES BONS GESTES POUR MIEUX CONSOMMER
+    L’EAU ?
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9ec74a75.jpg
@@ -32911,7 +32891,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-02-05'
+  updated: '2024-03-05'
 - id: 797
   text: Quelle est l'empreinte eau quotidienne d'un Français ?
   hint: ''
@@ -33618,18 +33598,13 @@
   answer_choice_d: 2,000 ppm
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'La concentration atmosphérique de CO2 pendant les périodes
-    interglaciaires (telle que celle où nous sommes depuis 10 000 ans) était d’environ
-    280ppm.
-
-    Lorsque les calottes glaciaires recouvraient l''intégralité du Canada et une bonne
-    partie de l''Europe, la concentration atmosphérique en CO2 était de 180 ppm.
-
-    Seulement 100 ppm séparent l’âge de glace du monde dans lequel notre civilisation
-    est apparue et s’est développée.
-
-
-    En 2020, la concentration atmosphérique de CO2 était de 415ppm...'
+  answer_explanation: "La concentration atmosphérique de CO2 pendant les périodes\
+    \ interglaciaires (telle que celle où nous sommes depuis 10 000 ans) était d’environ\
+    \ 280ppm.\r\nLorsque les calottes glaciaires recouvraient l'intégralité du Canada\
+    \ et une bonne partie de l'Europe, la concentration atmosphérique en CO2 était\
+    \ de 180 ppm.\r\nSeulement 100 ppm séparent l’âge de glace du monde dans lequel\
+    \ notre civilisation est apparue et s’est développée.\r\n\r\nEn 2020, la concentration\
+    \ atmosphérique de CO2 était de 415ppm..."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -33637,7 +33612,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1038/nature06949
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: High-resolution carbon dioxide concentration
+    record 650,000–800,000 years before present (Luthi et al 2008)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000815-dd73.gif
   answer_image_url_text: Évolution de la concentration en CO2 dans l’atmosphère durant
@@ -33650,7 +33626,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 816
   text: La concentration en CO2 dans l’atmosphère a atteint 415 ppm en 2020, soit
     140 ppm de plus qu’au début de la révolution industrielle. Avant cela, combien
@@ -33679,7 +33655,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1038/nature06949
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: High-resolution carbon dioxide concentration
+    record 650,000–800,000 years before present (Luthi et al 2008)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000816-1ce8.gif
   answer_image_url_text: Évolution de la concentration en CO2 dans l’atmosphère durant
@@ -33692,7 +33669,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 817
   text: Combien d'années faut-il remonter dans le passé pour retrouver une concentration
     atmosphérique en CO2 supérieure à celle atteinte en 2020 ?
@@ -33720,7 +33697,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1038/s41586-019-1543-2
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Constraints on global mean sea level during Pliocene
+    warmth (Dumitru et al 2019)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000817-70a9.png
   answer_image_url_text: ''
@@ -33731,7 +33709,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 818
   text: A quel niveau se trouvait le niveau de la mer durant le pliocène il y a 3
     millions d’années, lorsque la concentration en CO2 était au niveau de 2020 ?
@@ -33759,7 +33737,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1038/s41586-019-1543-2
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Constraints on global mean sea level during Pliocene
+    warmth (Dumitru et al 2019)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000818-305d.png
   answer_image_url_text: ''
@@ -33770,7 +33749,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 819
   text: Il y a 40 millions d'années, la concentration atmosphérique en CO2 était trop
     élevée pour que les calottes glaciaires puissent se former. La calotte glaciaire
@@ -33801,7 +33780,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1038/nature07337
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Thresholds for Cenozoic bipolar glaciation (De
+    Conto et al 2008)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000819-97dd.jpg
   answer_image_url_text: La courbe grise montre l’évolution de la concentration en
@@ -33816,7 +33796,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 820
   text: Lors du maximum thermique du Paléocène-Eocène (PETM) il y a 56 millions d'années,
     la vitesse d'augmentation de la concentration atmosphérique en CO2 a été…
@@ -33834,11 +33814,10 @@
   answer_choice_d: 10 fois plus lente qu'aujourd'hui
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'On estime qu''entre 5 000 et 10 000 milliards de tonnes de
-    carbone ont été relâchées dans l''atmosphère, pendant une durée de 20 000 ans.
-
-    C’est absolument considérable, mais par comparaison, nous ne mettrions au rythme
-    actuel que quelques siècles pour dégager la même quantité de carbone...'
+  answer_explanation: "On estime qu'entre 5 000 et 10 000 milliards de tonnes de carbone\
+    \ ont été relâchées dans l'atmosphère, pendant une durée de 20 000 ans.\r\nC’est\
+    \ absolument considérable, mais par comparaison, nous ne mettrions au rythme actuel\
+    \ que quelques siècles pour dégager la même quantité de carbone..."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -33846,7 +33825,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040610-133431
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The Paleocene-Eocene Thermal Maximum: A Perturbation
+    of Carbon Cycle, Climate, and Biosphere with Implications for the Future'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000820-fbcf.jpg
   answer_image_url_text: Evolution de la température des océans, on voit très clairement
@@ -33859,7 +33839,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 821
   text: Combien de temps la Terre a-t-elle mis pour se remettre de la crise du maximum
     thermique du Paléocène-Eocène (PETM) il y a 56 millions d’années ?
@@ -33876,13 +33856,11 @@
   answer_choice_d: 1 million d'années
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Il aura fallu plus de 100 000 ans pour que le système terre
-    (via l''altération des montagnes et les organismes vivants) retire les milliers
-    de milliards de tonnes de carbone qui avait été rajoutées dans l’atmosphère durant
-    le maximum thermique.
-
-    Après une augmentation de 5 à 8°C, les températures sont redevenues similaires
-    à ce qu''elles étaient auparavant.'
+  answer_explanation: "Il aura fallu plus de 100 000 ans pour que le système terre\
+    \ (via l'altération des montagnes et les organismes vivants) retire les milliers\
+    \ de milliards de tonnes de carbone qui avait été rajoutées dans l’atmosphère\
+    \ durant le maximum thermique.\r\nAprès une augmentation de 5 à 8°C, les températures\
+    \ sont redevenues similaires à ce qu'elles étaient auparavant."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -33890,7 +33868,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040610-133431
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The Paleocene-Eocene Thermal Maximum: A Perturbation
+    of Carbon Cycle, Climate, and Biosphere with Implications for the Future'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000821-23c6.jpg
   answer_image_url_text: La courbe rouge montre l’évolution de la température à partir
@@ -33904,11 +33883,10 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 822
-  text: 'La biosphère est en train de vivre sa 6ème extinction de masse.
-
-    Quand s''est déroulée la plus dévastatrice de ces extinctions ?'
+  text: "La biosphère est en train de vivre sa 6ème extinction de masse.\r\nQuand\
+    \ s'est déroulée la plus dévastatrice de ces extinctions ?"
   hint: ''
   type: QCM
   category: 4
@@ -33931,7 +33909,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://science.sciencemag.org/content/321/5885/97
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Phanerozoic Trends in the Global Diversity of
+    Marine Invertebrates (Alroy et al 2008)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000822-9274.jpg
   answer_image_url_text: Évolution du nombre d’espèces depuis 500 millions d’années.
@@ -33944,14 +33923,12 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 823
-  text: 'Bien qu''elles apparaissent "instantanées" à l''échelle des temps géologiques,
-    les extinctions de masse ne sont pas soudaines à l''échelle humaine.
-
-    Entre l''extinction des vertébrés terrestres et celle des faunes marines lors
-    de la crise du Permien-Trias il y a 250 millions d’années, il se serait écoulé
-    ….'
+  text: "Bien qu'elles apparaissent \"instantanées\" à l'échelle des temps géologiques,\
+    \ les extinctions de masse ne sont pas soudaines à l'échelle humaine.\r\nEntre\
+    \ l'extinction des vertébrés terrestres et celle des faunes marines lors de la\
+    \ crise du Permien-Trias il y a 250 millions d’années, il se serait écoulé …."
   hint: ''
   type: QCM
   category: 4
@@ -33965,15 +33942,12 @@
   answer_choice_d: 300 000 ans
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Selon de récentes études, le remplacement des faunes terrestres
-    s''est effectué il y a 252,3 millions d''années, tandis que l''extinction est
-    datée à 251,9 millions d''années dans les environnements marins.
-
-    Il s’est donc écoulé environ 300 000 ans entre l’extinction des espèces terrestres
-    et celle des espèces marines.
-
-    C’est une durée très importante à notre échelle, mais cela reste très court à
-    l''échelle géologique !'
+  answer_explanation: "Selon de récentes études, le remplacement des faunes terrestres\
+    \ s'est effectué il y a 252,3 millions d'années, tandis que l'extinction est datée\
+    \ à 251,9 millions d'années dans les environnements marins.\r\nIl s’est donc écoulé\
+    \ environ 300 000 ans entre l’extinction des espèces terrestres et celle des espèces\
+    \ marines.\r\nC’est une durée très importante à notre échelle, mais cela reste\
+    \ très court à l'échelle géologique !"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -33981,17 +33955,17 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1038/s41467-018-07934-z
-  answer_source_scientific_url_text: ''
-  answer_book_recommendation: 'Fielding, C.R., Frank, T.D., McLoughlin, S., Vajda,
-    V., Mays, C., Tevyaw, A.P., Winguth, A., Winguth, C., Nicoll, R.S., Bocking, M.
-    and Crowley, J.L., 2019, Age and pattern of the southern high-latitude continental
-    end-Permian extinction constrained by multiproxy analysis. Nat. Commun. 10, 385.
-    [https://doi.org/10.1038/s41467-018-07934-z](https://doi.org/10.1038/s41467-018-07934-z);
-
-
-    Gastaldo, R.A., Kamo, S.L., Neveling, J., Geissman, J.W., Looy, C.V. and Martini,
-    A.M., 2020, The base of the Lystrosaurus Assemblage Zone, Karoo Basin, predates
-    the end-Permian marine extinction. Nat. Commun. 11, 1428. [https://doi.org/10.1038/s41467-020-15243-7](https://doi.org/10.1038/s41467-020-15243-7)'
+  answer_source_scientific_url_text: Age and pattern of the southern high-latitude
+    continental end-Permian extinction constrained by multiproxy analysis (Fielding
+    et al 2019)
+  answer_book_recommendation: "Fielding, C.R., Frank, T.D., McLoughlin, S., Vajda,\
+    \ V., Mays, C., Tevyaw, A.P., Winguth, A., Winguth, C., Nicoll, R.S., Bocking,\
+    \ M. and Crowley, J.L., 2019, Age and pattern of the southern high-latitude continental\
+    \ end-Permian extinction constrained by multiproxy analysis. Nat. Commun. 10,\
+    \ 385. [https://doi.org/10.1038/s41467-018-07934-z](https://doi.org/10.1038/s41467-018-07934-z);\r\
+    \n\r\nGastaldo, R.A., Kamo, S.L., Neveling, J., Geissman, J.W., Looy, C.V. and\
+    \ Martini, A.M., 2020, The base of the Lystrosaurus Assemblage Zone, Karoo Basin,\
+    \ predates the end-Permian marine extinction. Nat. Commun. 11, 1428. [https://doi.org/10.1038/s41467-020-15243-7](https://doi.org/10.1038/s41467-020-15243-7)"
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000823-ab4c.png
   answer_image_url_text: Le trait rouge correspond à l’extinction marine il y a 251,9
     millions d’années, qui marque la limite entre le Permien et le Trias. Tout à droite
@@ -34009,7 +33983,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 824
   text: Les extinctions de masses sont souvent associées à des épisodes volcaniques
     intenses. La violence particulière de l'extinction du Permien-Trias il y a 250
@@ -34039,7 +34013,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1130/G47365.1
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Field evidence for coal combustion links the
+    252 Ma Siberian Traps with global carbon disruption (Elkins et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000824-f544.jpg
   answer_image_url_text: ''
@@ -34050,7 +34025,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 825
   text: "Quelle est la part de la population mondiale n'ayant pas accès à l'eau potable\
     \ en date de 2015 ? \n[C'est à dire, qui doit se déplacer à plus de trente minutes\
@@ -34241,7 +34216,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Empreinte  environnementale  du numérique  mondial
+    - Greenit.fr
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000829-7001.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
@@ -34252,7 +34228,7 @@
   validator: 2
   validation_date: '2021-01-28'
   created: '2021-01-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 830
   text: 'Au niveau mondial, et toutes étapes du cycle de vie confondues, quelle part
     le numérique représente-t-il dans nos émissions de gaz à effet de serre ? (référence
@@ -34271,18 +34247,18 @@
   answer_choice_d: 10%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Si on compte les émissions de GES dues à la fabrication plus
-    celles dues à l''usage (principalement électricité), le secteur du numérique représente
-    déjà près de 4% de nos émissions de GES, soit plus que l''aviation civile.
-
-    A noter : la part liée aux déchets n''est pas documentée à ce jour (elle est sans
-    doute très faible - malheureusement).'
+  answer_explanation: "Si on compte les émissions de GES dues à la fabrication plus\
+    \ celles dues à l'usage (principalement électricité), le secteur du numérique\
+    \ représente déjà près de 4% de nos émissions de GES, soit plus que l'aviation\
+    \ civile.\r\nA noter : la part liée aux déchets n'est pas documentée à ce jour\
+    \ (elle est sans doute très faible - malheureusement)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://theshiftproject.org/wp-content/uploads/2018/11/Rapport-final-v8-WEB.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: "LEAN ICT\x02POUR UNE SOBRIÉTÉ NUMÉRIQUE - The\
+    \ Shift Project"
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -34295,7 +34271,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 831
   text: Quelle part du trafic internet la vidéo représente-t-elle ?
   hint: C'est plus que ce que l'on croit :)
@@ -34318,9 +34294,11 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://theshiftproject.org/wp-content/uploads/2019/07/R%C3%A9sum%C3%A9-aux-d%C3%A9cideurs_FR_Linsoutenable-usage-de-la-vid%C3%A9o-en-ligne.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: 'RESUME - CLIMAT : L''INSOUTENABLE USAGE DE LA
+    VIDÉO EN LIGNE Un cas pratique pour la sobriété numérique'
   answer_source_scientific_url: https://theshiftproject.org/wp-content/uploads/2019/07/2019-01.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'CLIMAT : L’INSOUTENABLE USAGE DE LA VIDÉO EN
+    LIGNE    Un cas pratique pour la sobriété numérique'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000831-f18b.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
@@ -34331,7 +34309,7 @@
   validator: 2
   validation_date: '2021-01-31'
   created: '2021-01-24'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 832
   text: Au niveau mondial, quelle part des déchets électroniques est collectée afin
     d'être recyclée ?
@@ -34366,7 +34344,7 @@
   answer_source_accessible_url_text: Seulement 20 % des déchets électroniques recyclés
     - Green IT
   answer_source_scientific_url: https://www.itu.int/en/ITU-D/Climate-Change/Documents/GEM%202017/Global-E-waste%20Monitor%202017%20-%20Chapter%206.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global E-waste Status  and Trends
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000832-dc18.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
@@ -34377,7 +34355,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -34832,7 +34810,8 @@
   answer_source_accessible_url: https://www.futura-sciences.com/planete/questions-reponses/eau-y-t-il-eau-douce-monde-805/
   answer_source_accessible_url_text: Combien y a-t-il d'eau douce dans le monde ?
   answer_source_scientific_url: https://www.cieau.com/connaitre-leau/leau-dans-la-nature/eau-douce-tout-savoir/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'L’EAU DOUCE : SA FORMATION, SES RÉSERVOIRS ET
+    LES RESSOURCES DISPONIBLES'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000844-b766.jpg
   answer_image_url_text: La plus grande sphère, de 1.400 km de diamètre, concentre
@@ -34848,7 +34827,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 845
   text: En 2020, comment a évolué la consommation d'énergie du secteur numérique ?
   hint: ''
@@ -34873,10 +34852,11 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://theshiftproject.org/wp-content/uploads/2020/10/Deployer-la-sobriete-numerique_Resume_ShiftProject.pdf
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://theshiftproject.org/wp-content/uploads/2020/01/2020-01.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://theshiftproject.org/wp-content/uploads/2020/01/2020-01.pdf
+  answer_source_accessible_url_text: DÉPLOYER LA SOBRIÉTÉ NUMÉRIQUE - The Shift Project
+  answer_source_scientific_url: https://theshiftproject.org/wp-content/uploads/2020/10/Deployer-la-sobriete-numerique_Resume_ShiftProject.pdf
+  answer_source_scientific_url_text: Déployer la sobriété numérique RÉSUMÉ AUX DÉCIDEURS
+    - The Shift Project
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/839c7625.png
   answer_image_url_text: 'Évolution 2013-2025 de la consommation énergétique du Numérique
@@ -34889,7 +34869,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-04'
+  updated: '2024-03-05'
 - id: 846
   text: Quelle quantité de matières premières faut-il pour fabriquer une puce électronique
     de 2 grammes ?
@@ -34915,9 +34895,10 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
-  answer_source_accessible_url_text: 17 000 fois son poids en matière première !
+  answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://pubs.acs.org/doi/abs/10.1021/es025643o
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The 1.7 Kilogram Microchip:  Energy and Material
+    Use in the Production of Semiconductor Devices (Williams et al 2002)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000846-5efa.png
   answer_image_url_text: ''
@@ -34928,7 +34909,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-06'
+  updated: '2024-03-05'
 - id: 847
   text: L'eau bleue, c'est l’eau issue des précipitations qui est disponible pour
     l’alimentation des animaux et, après traitement, pour les usages domestiques humains.
@@ -34956,7 +34937,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Empreinte  environnementale  du numérique  mondial
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -34969,7 +34950,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 848
   text: Parmi ces facteurs qui jouent sur l'empreinte environnementale du numérique
     mondial dans les cinq années à venir, lequel les experts s'attendent-ils à voir
@@ -35004,7 +34985,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-synthese-accessible.VF_.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Empreinte  environnementale  du numérique  mondial
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -35018,7 +34999,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-06'
+  updated: '2024-03-05'
 - id: 849
   text: Combien de courriels ont été  envoyés en moyenne chaque jour en 2020 dans
     le monde ?
@@ -35167,11 +35148,13 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/eH-LTLsSviQ
-  answer_video_url_text: ''
+  answer_video_url_text: 'Haut conseil pour le climat : "le 5G pourrait ajouter entre
+    2,7 et 6,7 mégatonnes de CO2 en 2050"'
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/rapport-5g_haut-conseil-pour-le-climat.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: MAITRISER L’IMPACT CARBONE DE LA 5G - Haut conseil
+    pour le climat
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000852-44f3.JPG
   answer_image_url_text: Les courbes correspondent à la projection 2020-2030 de l'empreinte
@@ -35184,7 +35167,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-05'
+  updated: '2024-03-05'
 - id: 853
   text: Le Haut Conseil pour le Climat a livré une étude sur l’impact de la 5G. Quel
     est le plus fort impact attendu qu’ils pointent du doigt ?
@@ -35262,12 +35245,13 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.coursera.org/learn/ecologie-politique/lecture/Swpgv/v3-l-echec-du-developpement-durable-et-ses-raisons
-  answer_video_url_text: ''
+  answer_video_url_text: L'échec du développement durable et ses raisons
   answer_source_accessible_url: https://solar.lowtechmagazine.com/fr/2020/01/how-circular-is-the-circular-economy.html
   answer_source_accessible_url_text: L’Économie Circulaire Est-Elle Vraiment Circulaire?
     | LOW←TECH MAGAZINE
   answer_source_scientific_url: https://www.circularity-gap.world/global
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The circular economy is more popular than ever,
+    but global circularity is falling steadily. How can we reverse this downward trend?
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000854-0561.png
   answer_image_url_text: ''
@@ -35278,7 +35262,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 855
   text: De toute la masse de plastique produite chaque année dans le monde, quel pourcentage
     est effectivement réinjecté en cycle fermé grâce au recyclage (plastique recyclable
@@ -35309,7 +35293,7 @@
   answer_source_accessible_url_text: 'Déchets plastiques : la dangereuse illusion
     du tout-recyclage'
   answer_source_scientific_url: https://ourworldindata.org/plastic-pollution
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Plastic Pollution - Our world in data
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000855-5047.png
   answer_image_url_text: Production et destin du plastique, depuis 1950 à 2015, en
@@ -35321,7 +35305,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 856
   text: Parmi les microplastiques retrouvés dans l'océan, quelle est la part provenant
     de la dégradation de débris plastiques (macros) ?
@@ -35341,16 +35325,17 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "La dégradation des débris plastiques macros produit des microplastiques\
-    \ secondaires, qui représentent 60-80% du microplastique mesuré dans les océans.\n\
-    Le reste sont des microplastiques primaires, provenant de rejets directs :\n1/3\
-    \ vient des pneus de véhicules, \n1/3 des textiles synthétiques \n1/3 de divers\
-    \ usages (\"poussières\" des villes). \n\nOn pourrait aussi compter le caoutchouc\
-    \ (naturel) en plus. 1,5 millions de tonnes par an viennent ainsi s'ajouter dans\
-    \ les océans, et s'additionnent ainsi aux microplastiques secondaires. Ce microplastique\
-    \ est quasi-irrécupérable, tout comme les ~10% des débris plastiques ayant coulés\
-    \ au fond des océans (seuls 50,000 tonnes des 8 Mt de débris ajoutés chaque année\
-    \ (0,6%) resteraient en surface, le reste étant rejeté sur les côtes (~90%)).\
-    \ Le \"nettoyage\" des océans s'avère donc plus compliqué qu'à prime abord ..."
+    \ secondaires, qui représentent 60-80% du microplastique mesuré dans les océans.\r\
+    \nLe reste sont des microplastiques primaires, provenant de rejets directs :\r\
+    \n1/3 vient des pneus de véhicules, \r\n1/3 des textiles synthétiques \r\n1/3\
+    \ de divers usages (\"poussières\" des villes). \r\n\r\nOn pourrait aussi compter\
+    \ le caoutchouc (naturel) en plus. 1,5 millions de tonnes par an viennent ainsi\
+    \ s'ajouter dans les océans, et s'additionnent ainsi aux microplastiques secondaires.\
+    \ Ce microplastique est quasi-irrécupérable, tout comme les ~10% des débris plastiques\
+    \ ayant coulés au fond des océans (seuls 50,000 tonnes des 8 Mt de débris ajoutés\
+    \ chaque année (0,6%) resteraient en surface, le reste étant rejeté sur les côtes\
+    \ (~90%)). Le \"nettoyage\" des océans s'avère donc plus compliqué qu'à prime\
+    \ abord ..."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -35359,7 +35344,8 @@
   answer_source_accessible_url_text: Microplastiques, macroproblèmes…quelles avancées
     en 2020 ? - Inter-Environnement Wallonie - IEW
   answer_source_scientific_url: https://www.futura-sciences.com/planete/actualites/pollution-plastique-on-retrouve-99-plastique-disparus-ocean-62879/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: On a retrouvé les 99 % de plastique « disparus
+    » dans l'océan
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000856-649b.png
   answer_image_url_text: https://portals.iucn.org/library/node/48958
@@ -35370,7 +35356,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 857
   text: Le recyclage des métaux est limité par…
   hint: ''
@@ -35401,12 +35387,14 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/mqhC6uI8TUY
-  answer_video_url_text: ''
+  answer_video_url_text: 'Face à la raréfaction des métaux : croissance verte ou low
+    tech ?'
   answer_source_accessible_url: https://reporterre.net/La-croissance-verte-est-une-mystification-absolue
   answer_source_accessible_url_text: « La “croissance verte” est une mystification
     absolue »
   answer_source_scientific_url: https://www.slideshare.net/PaulineTSP/pptlow-techphilippe-bihouix
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Face à la raréfaction des métaux : croissance
+    verte ou low tech ? - Philippe Bihouix - slides'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000857-ebc3.png
   answer_image_url_text: ''
@@ -35417,7 +35405,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 858
   text: "Considérons les métaux suivants : cadmium, chrome, cobalt, étain, manganèse,\
     \ molybdène, plomb, titane, zinc. En quelle proportion sont-ils utilisés en usage\
@@ -35449,7 +35437,7 @@
   answer_source_accessible_url: https://www.gralon.net/articles/commerce-et-societe/automobile--auto-moto/article-le-pot-catalytique---fonctionnement-et-limites-3427.htm
   answer_source_accessible_url_text: 'Le pot catalytique : fonctionnement et limites'
   answer_source_scientific_url: https://pubs.acs.org/doi/abs/10.1021/es505515z
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Lost by Design (Ciacci et al 2015)
   answer_book_recommendation: L'âge des low-techs, Philippe Bihouix (2014)
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000858-285f.png
   answer_image_url_text: ''
@@ -35460,7 +35448,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2023-07-08'
+  updated: '2024-03-05'
 - id: 859
   text: Qu'appelle-t-on l'effet parc ?
   hint: '*en écologie'
@@ -35494,7 +35482,8 @@
   answer_source_accessible_url_text: Pourquoi les High Tech ne nous sauveront pas
     ! (« L’âge des low tech » de Philippe Bihouix) – Au-delà du climat
   answer_source_scientific_url: https://www.lsa-conso.fr/l-effet-parc-moteur-de-la-croissance-des-hypers-et-du-hard-discount,129295
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: L'effet parc, moteur de la croissance des hypers
+    et du hard-discount
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000859-121c.png
   answer_image_url_text: 'voir aussi : Bihouix, L''âge des low-techs (2014)'
@@ -35505,7 +35494,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 860
   text: Quelle proportion des déchets électriques et électroniques sortent des filières
     de traitement officielles, pour finir exportés vers les pays pauvres ?
@@ -35539,7 +35528,8 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/uZI99xZDVkg
-  answer_video_url_text: ''
+  answer_video_url_text: 'France 5 - Le monde en face : déchets électroniques, le
+    grand détournement'
   answer_source_accessible_url: https://www.techniques-ingenieur.fr/actualite/articles/le-traitement-illegal-des-deee-est-majoritaire-en-europe-28718/
   answer_source_accessible_url_text: Le traitement illégal des DEEE est majoritaire
     en Europe ! | Techniques de l'Ingénieur
@@ -35556,7 +35546,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 861
   text: Entre 2005 et 2020, le volume de données totales généré chaque année par l'ensemble
     des appareils dans le monde a été multiplié d'un facteur de l'ordre de...
@@ -35631,8 +35621,9 @@
   answer_source_accessible_url: https://fr.forumviesmobiles.org/reperes/vitesse-des-deplacements-12976
   answer_source_accessible_url_text: Vitesse des déplacements | Forum Vies Mobiles
     - Préparer la transition mobilitaire
-  answer_source_scientific_url: https://github.com/raphodn/know-your-planet/blob/master/data/audio/questions/H%C3%A9ran%202009%20_%20A%20propos%20de%20la%20vitesse%20g%C3%A9n%C3%A9ralis%C3%A9e%20des%20transports%20-%20Un%20concept%20d'Ivan%20Illich%20revisit%C3%A9.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2009-3-page-449.htm
+  answer_source_scientific_url_text: À propos de la vitesse généralisée des transports.
+    Un concept d'Ivan Illich revisité
   answer_book_recommendation: Energie et équité, Ivan Illich
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000862-55f3.png
   answer_image_url_text: ''
@@ -35643,7 +35634,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-07-18'
+  updated: '2024-03-05'
 - id: 863
   text: Quelle est l'empreinte eau d'un ordinateur ?
   hint: ''
@@ -35721,7 +35712,7 @@
   answer_source_accessible_url: https://www.who.int/fr/news-room/fact-sheets/detail/the-top-10-causes-of-death
   answer_source_accessible_url_text: Les 10 principales causes de mortalité
   answer_source_scientific_url: https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Disease burden, 2000–2019 - Global Health Observatory
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000864-7029.png
   answer_image_url_text: ''
@@ -35732,7 +35723,7 @@
   validator: 2
   validation_date: '2021-02-21'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 865
   text: Quelle proportion de la population mondiale n'a pas accès à l'eau potable
     ?
@@ -35764,7 +35755,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.nature.com/articles/nature09440
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global threats to human water security and river
+    biodiversity
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8247a4f6.png
   answer_image_url_text: ''
@@ -35775,7 +35767,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2023-03-08'
+  updated: '2024-03-05'
 - id: 866
   text: Quelle est la part des énergies renouvelables (hors hydroélectricité) dans
     le mix énergétique mondial en 2020 ?
@@ -35807,7 +35799,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.connaissancedesenergies.org/bp-statistical-review-world-energy-2021-les-chiffres-cles-de-lenergie-dans-le-monde-210712
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'BP Statistical Review of World Energy 2021 :
+    les chiffres clés de l’énergie dans le monde'
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -35818,7 +35811,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 867
   text: Il y a 21,000 ans, la terre entamait un épisode de déglaciation, avec un réchauffement
     de 5°C. Sur combien de temps cela s'est-il déroulé ?
@@ -35890,7 +35883,7 @@
   answer_source_accessible_url: https://www.europeanscientist.com/fr/agriculture-fr/rechauffement-climatique-et-rendement-agricole/
   answer_source_accessible_url_text: Le réchauffement climatique pèse sur le rendement
     agricole européen
-  answer_source_scientific_url: https://www.pnas.org/content/114/35/9326
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000868-308b.jpg
@@ -35902,7 +35895,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 869
   text: Globalement, qu'est-ce qui absorbe le plus de carbone ?
   hint: ''
@@ -36604,7 +36597,8 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Population_mondiale
   answer_source_accessible_url_text: 'Wikipédia : La population mondiale'
   answer_source_scientific_url: https://ourworldindata.org/grapher/population
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Graphique croissance de la population - Our world
+    in data
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000884-a4fd.jpg
   answer_image_url_text: C'est encore plus important quand on regarde depuis les débuts
@@ -36616,7 +36610,7 @@
   validator: 2
   validation_date: '2022-04-16'
   created: '2022-04-09'
-  updated: '2023-01-31'
+  updated: '2024-03-05'
 - id: 885
   text: Parmi ces projections de population à l’horizon 2100, lesquelles sont jugées
     réalistes par les démographes ?
@@ -37664,7 +37658,7 @@
   difficulty: 3
   language: FRENCH
   answer_choice_a: 8 fois plus
-  answer_choice_b: '30 fois plus '
+  answer_choice_b: 30 fois plus
   answer_choice_c: 53 fois plus
   answer_choice_d: 75 fois plus
   answer_correct: d
@@ -37683,7 +37677,8 @@
   answer_source_accessible_url_text: Calculateur d'émissions de gaz à effet de serre
     de l'aviation | ecocalc
   answer_source_scientific_url: https://www.oui.sncf/aide/calcul-des-emissions-de-co2-sur-votre-trajet-en-train
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Calcul des émissions de CO2e sur votre trajet
+    en train
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000910-d12d.png
   answer_image_url_text: ''
@@ -37694,7 +37689,7 @@
   validator: 2
   validation_date: '2021-02-08'
   created: '2021-02-01'
-  updated: '2023-02-14'
+  updated: '2024-03-05'
 - id: 911
   text: Faites vous confiance aux "éco-calculateurs" ?
   hint: Moitié plein ?
@@ -38078,9 +38073,10 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.glamos.ch/en/factsheet#/B36-26
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: L'évolution du glacier Aletschgletscher
   answer_source_scientific_url: https://tc.copernicus.org/articles/12/759/2018/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The European mountain cryosphere: a review of
+    its current state, trends, and future challenges'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dc5283c4.jpg
   answer_image_url_text: ''
@@ -38091,7 +38087,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2021-02-21'
-  updated: '2022-07-29'
+  updated: '2024-03-05'
 - id: 922
   text: Quel pourcentage des emballages jetés par les ménages sont des emballages
     alimentaires ?
@@ -38125,7 +38121,8 @@
   answer_source_accessible_url: http://multimedia.ademe.fr/animations/alimentation/
   answer_source_accessible_url_text: Qu'est-ce qu'on fait ?! - Manger mieux
   answer_source_scientific_url: https://nosgestesclimat.fr/actions/plus/alimentation/d%C3%A9chets/vrac
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Nos gestes climat - Faire ses courses en vrac
+    et essayer de réduire les emballages alimentaires
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000922-c6b0.jpg
   answer_image_url_text: 'Infographie ADEME : Mieux manger, moins gaspiller, moins
@@ -38137,7 +38134,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 923
   text: Quelle proportion des poissons pêchés le sont à la limite ou au-delà de leur
     capacité de régénération ?
@@ -38168,7 +38165,8 @@
   answer_source_accessible_url_text: MSC France | Surpêche, pêche illégale et destructrice
     | Marine Stewardship Council
   answer_source_scientific_url: http://www.fao.org/3/ca9229fr/ca9229fr.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 2020 - LA SITUATION MONDIALE DES PECHES ET DE
+    L’AQUACULTURE LA DURABILITÉ EN ACTION
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000923-4c31.png
   answer_image_url_text: ''
@@ -38179,7 +38177,7 @@
   validator: 2
   validation_date: '2021-02-25'
   created: '2021-02-18'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 924
   text: Parmi les fruits et légumes que nous consommons, combien sont importés ?
   hint: ''
@@ -38195,13 +38193,12 @@
   answer_choice_d: 1 sur 2
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'L’hyper-sophistication des chaînes d’approvisionnement, la
-    faible autonomie alimentaire, la dépendance aux flux de produits et de main d’œuvre
-    rendent notre système alimentaire particulièrement vulnérable.
-
-    C’est quand tout va bien qu’il faut relocaliser et soutenir nos productions locales,
-    afin qu’elles soient opérationnelles quand tout va mal. Qui plus est, ce qui est
-    bon pour la résilience territoriale réduit aussi les impacts sur le climat.'
+  answer_explanation: "L’hyper-sophistication des chaînes d’approvisionnement, la\
+    \ faible autonomie alimentaire, la dépendance aux flux de produits et de main\
+    \ d’œuvre rendent notre système alimentaire particulièrement vulnérable.\r\nC’est\
+    \ quand tout va bien qu’il faut relocaliser et soutenir nos productions locales,\
+    \ afin qu’elles soient opérationnelles quand tout va mal. Qui plus est, ce qui\
+    \ est bon pour la résilience territoriale réduit aussi les impacts sur le climat."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38209,7 +38206,8 @@
   answer_source_accessible_url: https://www.francebleu.fr/emissions/la-minute-conso/la-moitie-des-fruits-et-legumes-sont-importes
   answer_source_accessible_url_text: La moitié des fruits et légumes sont importés
   answer_source_scientific_url: https://www.franceagrimer.fr/Mediatheque/INFORMATIONS-ECONOMIQUES/FRUITS-ET-LEGUMES/CHIFFRES-ET-BILANS/2020/Les-filieres-fruits-et-legumes-chiffres-cles-2018
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les chiffres-clés de la filière  Fruits & Légumes
+    frais  et transformés 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000924-2812.jpg
   answer_image_url_text: 'FranceAgriMer : Les chiffres clés de la filière fruit &
@@ -38221,7 +38219,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 925
   text: La moitié des céréales produites en France est exportée. Dans la moitié qui
     reste pour le marché français, quelle proportion est destinée à l’alimentation
@@ -38258,7 +38256,8 @@
   answer_source_accessible_url: https://www.passioncereales.fr/dossier-thematique/le-march%C3%A9-des-c%C3%A9r%C3%A9ales-fran%C3%A7aises
   answer_source_accessible_url_text: Le marché des céréales françaises | Passion Céréales
   answer_source_scientific_url: https://resiliencealimentaire.org/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Qui veille au grain ? Securité alimentaire :
+    une affaire d''état'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000925-2532.png
   answer_image_url_text: Répartition de la production céréalière française pour la
@@ -38270,7 +38269,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 926
   text: A quelle empreinte forêt la consommation en œufs et produits laitiers d'un
     Français correspond-elle ?
@@ -38297,7 +38296,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://envol-vert.org/rapport/lempreinte-foret-des-francais-352m2/
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Decouvrez l'empreinte foret des français
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -38310,7 +38309,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2023-02-20'
+  updated: '2024-03-05'
 - id: 927
   text: Imaginons que nous réunissions toutes les vaches du monde dans un même pays.
     En quelle position ce pays arriverait-il en termes d’émissions de gaz à effet
@@ -38375,17 +38374,15 @@
   answer_choice_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'En France, la grande distribution représente les trois quarts
-    des dépenses de produits alimentaires. Les circuits courts, eux, ne représentent
-    que 6 à 7%.
-
-    Une crise énergétique soudaine aurait des impacts immédiats majeurs sur le système
-    alimentaire. L’approvisionnement de la population repose très majoritairement
-    sur les poids lourds, la grande distribution, les véhicules utilitaires de livraison
-    et la voiture individuelle. Le système de production et de distribution fonctionne
-    en flux tendu et ne dispose par conséquent que de très peu de stocks. Une perturbation
-    des transports routiers peut rapidement compromettre localement ou plus largement
-    la sécurité alimentaire.'
+  answer_explanation: "En France, la grande distribution représente les trois quarts\
+    \ des dépenses de produits alimentaires. Les circuits courts, eux, ne représentent\
+    \ que 6 à 7%.\r\nUne crise énergétique soudaine aurait des impacts immédiats majeurs\
+    \ sur le système alimentaire. L’approvisionnement de la population repose très\
+    \ majoritairement sur les poids lourds, la grande distribution, les véhicules\
+    \ utilitaires de livraison et la voiture individuelle. Le système de production\
+    \ et de distribution fonctionne en flux tendu et ne dispose par conséquent que\
+    \ de très peu de stocks. Une perturbation des transports routiers peut rapidement\
+    \ compromettre localement ou plus largement la sécurité alimentaire."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38394,7 +38391,8 @@
   answer_source_accessible_url_text: 'Grande surface, petit commerce, Internet : où
     les Français font-ils leurs courses ?'
   answer_source_scientific_url: https://www.franceagrimer.fr/fam/content/download/56762/document/A4_vdef_%C3%A9volution%20d%C3%A9penses%20alimentaires%20m%C3%A9nages%20circuits%20distrib%202008_2017.pdf?version=4
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: ÉVOLUTION DES DÉPENSES  ALIMENTAIRES DES MÉNAGES  DANS
+    LES CIRCUITS DE  DISTRIBUTION de 2008 à 2017
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000928-2b57.jpg
   answer_image_url_text: ''
@@ -38405,7 +38403,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
     par l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes) ?
@@ -38470,20 +38468,17 @@
   answer_choice_d: La prépondérance des achats en grandes surfaces
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'L''utilisation d''antibiotiques joue sur les résistances microbiennes.
-    A l’échelle mondiale, ces dernières seraient responsables de 700,000 morts par
-    an. Les maladies infectieuses d’origine bactériennes pourraient redevenir en 2050
-    une des premières causes de mortalité dans le monde, en provoquant jusqu’à 10
-    millions de morts par an.
-
-    Concernant les pesticides, si les études épidémiologiques menées chez des travailleurs
-    exposés à des doses plus élevées et façon plus fréquente attestent du danger,
-    les scientifiques ne peuvent pas affirmer qu''il y a un risque pour la population
-    générale. En outre, certains pesticides possèdent aussi des effets perturbateurs
-    endocriniens, effets qui ne dépendent pas de la dose.
-
-    Enfin, la consommation de produits ultra-transformés peut induire de nombreux
-    risques sur la santé, notamment sur les maladies cardiovasculaire '
+  answer_explanation: "L'utilisation d'antibiotiques joue sur les résistances microbiennes.\
+    \ A l’échelle mondiale, ces dernières seraient responsables de 700,000 morts par\
+    \ an. Les maladies infectieuses d’origine bactériennes pourraient redevenir en\
+    \ 2050 une des premières causes de mortalité dans le monde, en provoquant jusqu’à\
+    \ 10 millions de morts par an.\r\nConcernant les pesticides, si les études épidémiologiques\
+    \ menées chez des travailleurs exposés à des doses plus élevées et façon plus\
+    \ fréquente attestent du danger, les scientifiques ne peuvent pas affirmer qu'il\
+    \ y a un risque pour la population générale. En outre, certains pesticides possèdent\
+    \ aussi des effets perturbateurs endocriniens, effets qui ne dépendent pas de\
+    \ la dose.\r\nEnfin, la consommation de produits ultra-transformés peut induire\
+    \ de nombreux risques sur la santé, notamment sur les maladies cardiovasculaire"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38492,7 +38487,8 @@
   answer_source_accessible_url_text: 'Résistance aux antbiotiques : 1 décès toutes
     les 3 secondes en 2050 - Sciences et Avenir'
   answer_source_scientific_url: https://solidarites-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/article/effets-sur-la-sante-d-une-exposition-a-des-pesticides
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Effets sur la santé d’une exposition à des pesticides
+    Etat des connaissances et études en cours
   answer_book_recommendation: 'source : https://presse.inserm.fr/en/consommation-daliments-ultra-transformes-et-risque-de-maladies-cardiovasculaires/35086/'
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000930-9f98.jpg
   answer_image_url_text: ''
@@ -38503,7 +38499,7 @@
   validator: 2
   validation_date: '2021-02-26'
   created: '2021-02-19'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 931
   text: L'accord de Paris de 2015 issu de la COP21 engage les pays à réduire les émissions
     de gaz à effet de serre. Oui, mais, mesurées comment ?
@@ -38524,17 +38520,17 @@
   answer_explanation: "L'accord de Paris signé le 12 décembre 2015 et ratifié par\
     \ près de 190 Etats vise à tout faire pour limiter la hausse de température en\
     \ 2100 par rapport à la période pré-industrielle bien en dessous de +2°C et à\
-    \ faire le maximum pour se rapprocher de 1,5°C. \nPour ce faire les états rapportent\
+    \ faire le maximum pour se rapprocher de 1,5°C. \r\nPour ce faire les états rapportent\
     \ régulièrement les émissions de leur territoire   (via les 'contributions déterminées\
     \ au niveau national'). Il s'agit donc d'inventaire national (réponse a) ou autrement\
     \ dit, d'émissions faites sur le territoire (réponse d). Cette façon de faire\
-    \ évite les doubles comptages.\nUne autre façon de compter les émissions est d'utiliser\
-    \ l'empreinte carbone qui est la somme des émissions du territoire et des importations\
-    \ auxquelles on soustrait les exportations. Mais réalisé par tous les pays, ce\
-    \ système génèrerait des doubles comptes de gaz à effet de serre. Il est pourtant\
-    \ très utile pour prendre conscience de l'impact de nos modes de vie occidentaux\
-    \ qui génèrent beaucoup d'émissions lointaines (ex : importation de beaucoup de\
-    \ biens de consommation tels que électronique, habillement, etc.)."
+    \ évite les doubles comptages.\r\nUne autre façon de compter les émissions est\
+    \ d'utiliser l'empreinte carbone qui est la somme des émissions du territoire\
+    \ et des importations auxquelles on soustrait les exportations. Mais réalisé par\
+    \ tous les pays, ce système génèrerait des doubles comptes de gaz à effet de serre.\
+    \ Il est pourtant très utile pour prendre conscience de l'impact de nos modes\
+    \ de vie occidentaux qui génèrent beaucoup d'émissions lointaines (ex : importation\
+    \ de beaucoup de biens de consommation tels que électronique, habillement, etc.)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38542,7 +38538,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://unfccc.int/fr/process-and-meetings/l-accord-de-paris/qu-est-ce-que-l-accord-de-paris
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: ÉVOLUTION DES DÉPENSES  ALIMENTAIRES DES MÉNAGES  DANS
+    LES CIRCUITS DE  DISTRIBUTION de 2008 à 2017
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000931-beb9.jpg
   answer_image_url_text: ''
@@ -38553,7 +38550,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 932
   text: Quelle est la part des importations dans l'empreinte carbone d'un Français
     (en 2016) ?
@@ -38585,7 +38582,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/empreinte-carbone/article/l-empreinte-carbone-de-la-france#label_onglet818
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d87e7abe.png
@@ -38597,7 +38594,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2023-02-26'
+  updated: '2024-03-05'
 - id: 933
   text: Quelle est la part des services publics dans l'empreinte carbone moyenne d'un
     Français ?
@@ -38694,18 +38691,15 @@
   answer_choice_d: 56t CO2e
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Il existe de fortes disparités entre personnes au niveau de
-    l''empreinte carbone. Dans un monde où plus de 80% de l''énergie utilisée est
-    d''origine fossile, plus on gagne d''argent plus on a tendance à avoir une empreinte
-    carbone importante.
-
-    A l''échelle française ou européenne, les 1% les plus riches émettent 56 tonnes
-    de CO2 équivalent par an et par personne, contre une moyenne nationale autour
-    de 9 à 10 tonnes. Les chiffes sont du même ordre si on pose la question à l''échelle
-    européenne.
-
-    La cible pour respecter l''accord de Paris est d''ici à 2050 d''atteindre moins
-    de 2 tonnes de CO2e par an et par personne.'
+  answer_explanation: "Il existe de fortes disparités entre personnes au niveau de\
+    \ l'empreinte carbone. Dans un monde où plus de 80% de l'énergie utilisée est\
+    \ d'origine fossile, plus on gagne d'argent plus on a tendance à avoir une empreinte\
+    \ carbone importante.\r\nA l'échelle française ou européenne, les 1% les plus\
+    \ riches émettent 56 tonnes de CO2 équivalent par an et par personne, contre une\
+    \ moyenne nationale autour de 9 à 10 tonnes. Les chiffes sont du même ordre si\
+    \ on pose la question à l'échelle européenne.\r\nLa cible pour respecter l'accord\
+    \ de Paris est d'ici à 2050 d'atteindre moins de 2 tonnes de CO2e par an et par\
+    \ personne."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38713,7 +38707,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.cambridge.org/core/journals/global-sustainability/article/unequal-distribution-of-household-carbon-footprints-in-europe-and-its-link-to-sustainability/F1ED4F705AF1C6C1FCAD477398353DC2
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The unequal distribution of household carbon
+    footprints in Europe and its link to sustainability
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000935-efc6.png
   answer_image_url_text: 'Distribution de l''empreinte carbone en Europe en fonction
@@ -38726,7 +38721,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2022-04-16'
+  updated: '2024-03-05'
 - id: 936
   text: How many oil barrels do we consume every day in the world ? 1 barrel = 159
     l
