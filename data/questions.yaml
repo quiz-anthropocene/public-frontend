@@ -268,7 +268,7 @@
   - 7
   difficulty: 2
   language: FRENCH
-  answer_choice_a: Une forte augmentation pour 1/3 d'entre eux, une diminuation notable
+  answer_choice_a: Une forte augmentation pour 1/3 d'entre eux, une diminution notable
     pour les autres
   answer_choice_b: Une relative stabilité
   answer_choice_c: Une baisse de 24%
@@ -299,7 +299,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-02-19'
+  updated: '2024-03-06'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
