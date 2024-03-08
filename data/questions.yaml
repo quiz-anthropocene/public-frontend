@@ -275,10 +275,11 @@
   answer_choice_d: Une baisse de 69%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Les causes principales en sont la perte et dégradation des habitats.
-    Puis viennent la surexploitation des sols, la pollution, et le changement climatique.
-    Notez qu’on parle de réduction des populations, pas de disparitions d’espèces,
-    ce qui est une autre question.
+  answer_explanation: Les causes de ces reculs sont connues. Tout d'abord, la perte
+    et dégradation de l’habitat, sous l’effet de l’agriculture, de l’exploitation
+    forestière, de l’urbanisation ou de l’extraction minière. Viennent ensuite la
+    surexploitation des espèces (chasse, pêche, braconnage), le changement climatique,
+    la pollution, les espèces invasives.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -299,7 +300,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-03-06'
+  updated: '2024-03-07'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
