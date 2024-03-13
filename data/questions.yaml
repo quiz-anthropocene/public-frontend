@@ -24560,7 +24560,8 @@
   answer_source_accessible_url_text: Les banques franÃ§aises nous emmÃ¨nent vers un
     monde Ã  +4Â°C - Oxfam France
   answer_source_scientific_url: https://www.oxfamfrance.org/wp-content/uploads/2020/10/rapportBanque_OXFAM_v5.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Banques : des engagements climat à prendre au
+    +4ème degré - Oxfam'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000608-5373.jpg
   answer_image_url_text: ''
@@ -24571,7 +24572,7 @@
   validator: 2
   validation_date: '2020-12-12'
   created: '2020-12-05'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 609
   text: Quelle est l’énergie la plus utilisée en France ?
   hint: ''
@@ -25709,11 +25710,9 @@
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 636
-  text: 'Avant 1750 au Royaume-Uni, il n''arrivait jamais que le thermomètre dépasse
-    les 40°C (1 fois tous les 300 ans).
-
-    Scénario ''on ne change rien à nos habitudes'', à quelle fréquence cela arrivera-t-il
-    à l''horizon 2100 ?'
+  text: "Avant 1750 au Royaume-Uni, il n'arrivait jamais que le thermomètre dépasse\
+    \ les 40°C (1 fois tous les 300 ans).\r\nScénario 'on ne change rien à nos habitudes',\
+    \ à quelle fréquence cela arrivera-t-il à l'horizon 2100 ?"
   hint: ''
   type: QCM
   category: 1
@@ -25730,15 +25729,11 @@
   answer_choice_d: Tous les 50 ans
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Au Royaume-Uni, des températures de 40°C apparaissaient tous
-    les 300-1000 ans à l''ère pré-industrielle.
-
-    Actuellement c''est tous les 100-300 ans.
-
-    Avec un scénario d’émissions modérées (RCP 4.5 du GIEC), de telles températures
-    apparaîtront en 2100 tous les 10-11 ans.
-
-    Avec des émissions fortes (scénario RCP 8.5 du GIEC), ce sera tous les 3-4 ans.'
+  answer_explanation: "Au Royaume-Uni, des températures de 40°C apparaissaient tous\
+    \ les 300-1000 ans à l'ère pré-industrielle.\r\nActuellement c'est tous les 100-300\
+    \ ans.\r\nAvec un scénario d’émissions modérées (RCP 4.5 du GIEC), de telles températures\
+    \ apparaîtront en 2100 tous les 10-11 ans.\r\nAvec des émissions fortes (scénario\
+    \ RCP 8.5 du GIEC), ce sera tous les 3-4 ans."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -25746,7 +25741,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.nature.com/articles/s41467-020-16834-0
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The increasing likelihood of temperatures above
+    30 to 40 °C in the United Kingdom (Christidis et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000636-d9c9.png
   answer_image_url_text: Evolution de la fréquence d’apparition (“temps de retour“)
@@ -25759,7 +25755,7 @@
   validator: 2
   validation_date: '2020-12-12'
   created: '2020-12-05'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 637
   text: En quelle année le pétrole est-il devenu la première énergie utilisée dans
     le monde ?
@@ -25826,7 +25822,8 @@
   answer_source_accessible_url_text: Usain Bolt, ou le rapport poids puissance d’une
     Peugeot 203
   answer_source_scientific_url: https://aapt.scitation.org/doi/abs/10.1119/1.3274162
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The force, power, and energy of the 100 meter
+    sprint (Helene et Yamashita 2010)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000638-0b89.png
   answer_image_url_text: Puissance mécanique fournie par Usain Bolt aux championnats
@@ -25840,7 +25837,7 @@
   validator: 22
   validation_date: '2020-12-12'
   created: '2020-12-05'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 639
   text: Quel est le premier poste d’émissions dans l’empreinte carbone de la ville
     de Paris ?
@@ -26114,7 +26111,7 @@
   answer_source_accessible_url_text: 'Carbonomètre : le jeu pédagogique qui en dit
     long sur le climat !'
   answer_source_scientific_url: https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?repas.htm
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Bilans GES - ADEME
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000645-b850.png
   answer_image_url_text: ''
@@ -26125,7 +26122,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 646
   text: Actuellement, en combien de temps  la concentration moyenne de CO2 dans l’atmosphère
     augmente-t-elle de 1 ppm (10,000 ppm =1%) ?
@@ -26183,10 +26180,9 @@
   answer_choice_d: 36 %
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Les territoires artificialisés occupent environ 6% de la surface
-    française métropolitaine.
-
-    60% sont des territoires agricoles, et 34% sont des forêts et milieux semi-naturels.'
+  answer_explanation: "Les territoires artificialisés occupent environ 6% de la surface\
+    \ française métropolitaine.\r\n60% sont des territoires agricoles, et 34% sont\
+    \ des forêts et milieux semi-naturels."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -26194,7 +26190,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2019-01/datalab-2-atlas-regional-de-loccupation-des-sols-en-france%20%28clc%29-octobre2016.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Atlas régional  de l’occupation des sols  en
+    France
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000647-d217.png
   answer_image_url_text: ''
@@ -26205,7 +26202,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 648
   text: En 2017, quelle est la région française qui a émis le plus de en gaz à effet
     de serre ?
@@ -26234,7 +26231,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/07/hcc_rapport_annuel-2020.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: REDRESSER LE CAP,  RELANCER LA TRANSITION - Haut
+    Conseil pour le Climat
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -26247,7 +26245,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 649
   text: La famille des vertébrés regroupe les poissons, oiseaux, mammifères terrestres
     et marins, amphibiens et reptiles. Comment a évolué la population des vertébrés
@@ -26378,9 +26376,8 @@
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 652
-  text: 'Le pétrole est la 1ère source d''énergie consommée en France.
-
-    Quelle est la 2ème ?'
+  text: "Le pétrole est la 1ère source d'énergie consommée en France.\r\nQuelle est\
+    \ la 2ème ?"
   hint: ''
   type: QCM
   category: 5
@@ -26392,8 +26389,8 @@
   answer_choice_a: Electricité
   answer_choice_b: Charbon
   answer_choice_c: Gaz
-  answer_choice_d: 'Énergies renouvelables thermiques (bois, biocarburants, pompes
-    à chaleur...) '
+  answer_choice_d: Énergies renouvelables thermiques (bois, biocarburants, pompes
+    à chaleur...)
   answer_correct: a
   has_ordered_answers: false
   answer_explanation: L'électricité représente 27% du total. Le gaz est 3ème avec
@@ -26405,7 +26402,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/bilan-energetique-de-la-france-en-2019-donnees-provisoires?rubrique=19&dossier=170
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Bilan énergétique de la France en 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000652-a232.png
   answer_image_url_text: ''
@@ -26416,7 +26413,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 653
   text: On compte près de 5 millions de véhicules électriques en circulation dans
     le monde.  Combien en Chine ?
@@ -26525,7 +26522,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Carbon and Other Biogeochemical Cycles
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000655-8482.png
   answer_image_url_text: ''
@@ -26536,7 +26533,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 656
   text: Comment a varié la consommation électrique française pendant le discours de
     Macron du 28 octobre 2020 annonçant un reconfinement ?
@@ -27092,7 +27089,8 @@
   answer_source_accessible_url_text: If You Act Your Age, What's Your Carbon Footprint?
     - The New York Times
   answer_source_scientific_url: https://link.springer.com/article/10.1007/s13524-010-0004-1
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The Leverage of Demographic Dynamics on Carbon
+    Dioxide Emissions: Does Age Structure Matter? (Zagheni 2011)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000668-455d.png
   answer_image_url_text: ''
@@ -27103,7 +27101,7 @@
   validator: 1
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 669
   text: 'Vrai ou faux : produire une tonne de plastique émet plus de CO2 que produire
     une tonne d’acier ?'
@@ -27123,14 +27121,13 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'C''est le cas si on produit du plastique neuf. Pour des matériaux
-    recyclés en revanche, le plastique est largement meilleur que l''acier (environ
-    5 fois moins d''émissions pour le plastique recyclé que pour l''acier recyclé).
-
-    Un autre élément à prendre en compte : pour beaucoup d''usages le plastique est
-    moins émetteur que l''acier, car pour remplir la même fonction on va utiliser
-    une quantité moindre de plastique que d''acier. Cet argument est à contrebalancer
-    par la plus grande durabilité de l''acier.'
+  answer_explanation: "C'est le cas si on produit du plastique neuf. Pour des matériaux\
+    \ recyclés en revanche, le plastique est largement meilleur que l'acier (environ\
+    \ 5 fois moins d'émissions pour le plastique recyclé que pour l'acier recyclé).\r\
+    \nUn autre élément à prendre en compte : pour beaucoup d'usages le plastique est\
+    \ moins émetteur que l'acier, car pour remplir la même fonction on va utiliser\
+    \ une quantité moindre de plastique que d'acier. Cet argument est à contrebalancer\
+    \ par la plus grande durabilité de l'acier."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -27138,7 +27135,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.bilans-ges.ademe.fr/fr/accueil/authentification
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Bilans GES - ADEME
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000669-1cef.png
   answer_image_url_text: ''
@@ -27149,7 +27146,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 670
   text: Combien de temps de pédalage faudrait-il à un cycliste du Tour de France pour
     chauffer l'eau d'une douche de 10min ?
@@ -27261,7 +27258,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/07/cartes-regions-_-20201110.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: REDRESSER LE CAP,  RELANCER LA TRANSITION - Haut
+    Conseil pour le Climat
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000672-a245.png
   answer_image_url_text: ''
@@ -27272,7 +27270,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 673
   text: Lequel de ces équipements de sport émet le plus de CO2 lors de sa fabrication
     ?
@@ -27306,7 +27304,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ufolep.org/modules/kameleon/upload/FE_Sport.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Facteurs d'émissions d'équipements de sport -
+    AlternConsult
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000673-57f5.png
   answer_image_url_text: ''
@@ -27317,7 +27316,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 674
   text: Combien un arbre absorbe-t-il de CO2 par an ?
   hint: ''
@@ -27465,7 +27464,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.iea.org/reports/world-energy-investment-2020/key-findings#abstract
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: World Energy Investment -2020 key facts
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000677-f8cd.jpg
   answer_image_url_text: Le graphe s'arrête en 2018 mais la répartition entre les
@@ -27477,7 +27476,7 @@
   validator: 2
   validation_date: '2020-12-17'
   created: '2020-12-10'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 678
   text: Si les 6 plus grandes banques françaises étaient un pays, à quel rang se classerait-il
     en termes d'émissions de gaz à effet de serre ?
@@ -27510,7 +27509,8 @@
   answer_source_accessible_url: http://www.globalcarbonatlas.org/en/CO2-emissions
   answer_source_accessible_url_text: CO2 Emissions | Global Carbon Atlas
   answer_source_scientific_url: https://www.oxfamfrance.org/rapports/banques-des-engagements-climat-a-prendre-au-4eme-degre/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Banques : des engagements climat à prendre au
+    4ème degré - Oxfam'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000678-e925.jpg
   answer_image_url_text: ''
@@ -27521,7 +27521,7 @@
   validator: 2
   validation_date: '2020-12-17'
   created: '2020-12-10'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 679
   text: Quelle est l'empreinte carbone du Bitcoin sur terre ?
   hint: ''
@@ -27663,19 +27663,16 @@
   answer_choice_d: -17%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'D''après le Global Carbon Project (GCP), la baisse a été de
-    7% par rapport à 2019, soit 2,4 milliards de tonnes de CO2 en moins. Du fait bien
-    sûr du ralentissement économique et des différentes restrictions. Notez qu''on
-    ne parle ici que du CO2, pas des autres gaz à effet de serre.
-
-    «La diminution des émissions en 2020 semble plus prononcée aux Etats-Unis (-12
-    %), dans l’UE-27 (-11 %) et en Inde (-9 %), l’effet des restrictions Covid-19
-    s’ajoutant à une tendance précédente, et étant moins prononcée en Chine (-1,7
-    %), où les mesures de restriction ont été prises au début de l’année et ont été
-    plus limitées dans le temps ».
-
-    La baisse est le plus marquée dans le secteur des transports (routier, aérien,
-    ...). Mais un rebond économique est attendu pour 2021...'
+  answer_explanation: "D'après le Global Carbon Project (GCP), la baisse a été de\
+    \ 7% par rapport à 2019, soit 2,4 milliards de tonnes de CO2 en moins. Du fait\
+    \ bien sûr du ralentissement économique et des différentes restrictions. Notez\
+    \ qu'on ne parle ici que du CO2, pas des autres gaz à effet de serre.\r\n«La diminution\
+    \ des émissions en 2020 semble plus prononcée aux Etats-Unis (-12 %), dans l’UE-27\
+    \ (-11 %) et en Inde (-9 %), l’effet des restrictions Covid-19 s’ajoutant à une\
+    \ tendance précédente, et étant moins prononcée en Chine (-1,7 %), où les mesures\
+    \ de restriction ont été prises au début de l’année et ont été plus limitées dans\
+    \ le temps ».\r\nLa baisse est le plus marquée dans le secteur des transports\
+    \ (routier, aérien, ...). Mais un rebond économique est attendu pour 2021..."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -27683,7 +27680,7 @@
   answer_source_accessible_url: https://www.lemonde.fr/climat/article/2020/12/11/baisse-record-de-7-des-emissions-de-co2-en-2020-liee-au-covid-19_6062971_1652612.html
   answer_source_accessible_url_text: Avec la crise du Covid-19, baisse record de 7 %
     des émissions de dioxyde de carbone en 2020
-  answer_source_scientific_url: https://www.globalcarbonproject.org/carbonbudget/20/highlights.htm
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000682-79d3.png
@@ -27697,7 +27694,7 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 683
   text: Lors du premier confinement en Europe à cause du Covid-19, le trafic aérien
     à chuté de...
@@ -27765,21 +27762,22 @@
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'La consommation d’électricité française a été 15% inférieure
-    en moyenne au niveau habituellement constaté au mois de mars.
-
-    Cette baisse est principalement due à la baisse de l’activité économique : fermeture
-    des commerces non essentiels (restaurants, cinémas, magasins…) et ralentissement
-    de l’activité dans le secteur industriel.'
+  answer_explanation: "La consommation d’électricité française a été 15% inférieure\
+    \ en moyenne au niveau habituellement constaté au mois de mars.\r\nCette baisse\
+    \ est principalement due à la baisse de l’activité économique : fermeture des\
+    \ commerces non essentiels (restaurants, cinémas, magasins…) et ralentissement\
+    \ de l’activité dans le secteur industriel."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/PiVCLKIYQPQ
-  answer_video_url_text: ''
+  answer_video_url_text: Comment le confinement a changé la consommation électrique
+    française
   answer_source_accessible_url: https://www.lemonde.fr/blog/huet/2020/04/24/lelectricite-bousculee-par-le-coronavirus/
   answer_source_accessible_url_text: L’électricité bousculée par le coronavirus –
     {Sciences²}
   answer_source_scientific_url: https://www.rte-france.com/actualites/covid19_quels_impacts_sur_la_consommation_electricite
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Mesures de confinement – COVID-19 : Quels impacts
+    sur la consommation d’électricité en France ?'
   answer_book_recommendation: 'autres lien : https://www.strategie.gouv.fr/point-de-vue/impacts-de-crise-covid-19-systeme-electrique'
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000684-349a.png
   answer_image_url_text: La consommation du 26 mars 2020 ressemble à celle d’un lundi
@@ -27792,7 +27790,7 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 685
   text: 2020 sera sûrement l'année la plus chaude jamais enregistrée (depuis les premières
     mesures en 1850). Vrai ou faux ?
@@ -27810,13 +27808,11 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'À l''échelle mondiale, 2020 détrônerait 2016. L’Arctique a
-    particulièrement souffert cette année, avec des températures supérieures de plus
-    de 5°C à la moyenne. A ce rythme là, les 1,5°C d''augmentation pourraient être
-    atteints avant 2030.
-
-    À l''échelle française également, Météo France a annoncé que 2020 avait été l''année
-    plus chaude jamais enregistrée, détrônant 2018.'
+  answer_explanation: "À l'échelle mondiale, 2020 détrônerait 2016. L’Arctique a particulièrement\
+    \ souffert cette année, avec des températures supérieures de plus de 5°C à la\
+    \ moyenne. A ce rythme là, les 1,5°C d'augmentation pourraient être atteints avant\
+    \ 2030.\r\nÀ l'échelle française également, Météo France a annoncé que 2020 avait\
+    \ été l'année plus chaude jamais enregistrée, détrônant 2018."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -27825,7 +27821,8 @@
   answer_source_accessible_url_text: 'VIDEO. Climat : l''année 2020 parmi les plus
     chaudes malgré le phénomène "La Niña"'
   answer_source_scientific_url: https://www.carbonbrief.org/state-of-the-climate-2020-on-course-to-be-warmest-year-on-record
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'State of the climate: 2020 on course to be warmest
+    year on record'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000685-55cf.jpg
   answer_image_url_text: Ecart de la température moyenne annuelle à l’échelle du globe
@@ -27838,14 +27835,13 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 686
-  text: 'On a célébré en décembre 2020 les 5 ans de l''accord de Paris (COP 21). Il
-    a pour objectif de maintenir le réchauffement climatique «nettement en dessous
-    de 2°C» d''ici la fin du siècle, en s''efforçant de limiter la hausse à 1,5°C.
-
-    Or avec les promesses actuelles des pays signataires, sur quelle trajectoire sommes-nous
-    ?'
+  text: "On a célébré en décembre 2020 les 5 ans de l'accord de Paris (COP 21). Il\
+    \ a pour objectif de maintenir le réchauffement climatique «nettement en dessous\
+    \ de 2°C» d'ici la fin du siècle, en s'efforçant de limiter la hausse à 1,5°C.\r\
+    \nOr avec les promesses actuelles des pays signataires, sur quelle trajectoire\
+    \ sommes-nous ?"
   hint: ''
   type: QCM
   category: 6
@@ -27862,14 +27858,13 @@
   answer_choice_d: +4 à +4,5°C
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Maintenir la hausse à +1,5°C est illusoire (il faudrait diminuer
-    les émissions de gaz à effet de serre de 7,6% par an tous les ans jusqu’en 2030),
-    mais il y encore espoir pour +2°C. C''est à dire une réduction chaque année de
-    l''ordre de celle engendrée en 2020 par la pandémie de Covid.
-
-    Le 12 décembre 2020 a eu lieu un sommet virtuel pour l’ambition climatique, avec
-    des annonces de chefs d''états qui ont permis de rehausser les ambitions. La COP
-    26 aura lieu fin 2021 à Glasgow.'
+  answer_explanation: "Maintenir la hausse à +1,5°C est illusoire (il faudrait diminuer\
+    \ les émissions de gaz à effet de serre de 7,6% par an tous les ans jusqu’en 2030),\
+    \ mais il y encore espoir pour +2°C. C'est à dire une réduction chaque année de\
+    \ l'ordre de celle engendrée en 2020 par la pandémie de Covid.\r\nLe 12 décembre\
+    \ 2020 a eu lieu un sommet virtuel pour l’ambition climatique, avec des annonces\
+    \ de chefs d'états qui ont permis de rehausser les ambitions. La COP 26 aura lieu\
+    \ fin 2021 à Glasgow."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -27878,7 +27873,8 @@
   answer_source_accessible_url_text: 'Climat: cinq ans après l’Accord de Paris, les
     résultats se font attendre'
   answer_source_scientific_url: https://wedocs.unep.org/bitstream/handle/20.500.11822/34438/EGR20ESE.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Emissions Gap Report 2020  Executive Summary
+    - UN Environnement Programme
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000686-e60c.webp
   answer_image_url_text: Graphique montrant l'écart entre les engagements nationaux
@@ -27891,13 +27887,12 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 687
-  text: 'La Convention Citoyenne pour le Climat avait pour mandat de proposer des
-    mesures structurantes pour réduire les émissions françaises de gaz à effet de
-    serre, dans un esprit de justice sociale.
-
-    Quel était l''objectif chiffré de réduction par rapport à 1990 ?'
+  text: "La Convention Citoyenne pour le Climat avait pour mandat de proposer des\
+    \ mesures structurantes pour réduire les émissions françaises de gaz à effet de\
+    \ serre, dans un esprit de justice sociale.\r\nQuel était l'objectif chiffré de\
+    \ réduction par rapport à 1990 ?"
   hint: ''
   type: QCM
   category: 6
@@ -27913,15 +27908,14 @@
   answer_choice_d: -40% d'ici 10 ans (2030)
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Afin de respecter la trajectoire de la Stratégie Nationale
-    Bas Carbone (SNBC) française.
-
-    Après 8 mois de travail, les 149 propositions ont été présentées en Juin 2020,
-    à travers 5 thématiques : se déplacer, consommer, se loger, produire/travailler,
-    se nourrir. Parmi ces propositions, on retrouve : limiter la publicité des produits
-    les plus émetteurs de GES, modifier la constitution, grand plan de rénovation
-    des logements pour lutter contre les passoires thermiques, réduire la TVA sur
-    les billets de train, généralisation de la consigne de verre, etc.'
+  answer_explanation: "Afin de respecter la trajectoire de la Stratégie Nationale\
+    \ Bas Carbone (SNBC) française.\r\nAprès 8 mois de travail, les 149 propositions\
+    \ ont été présentées en Juin 2020, à travers 5 thématiques : se déplacer, consommer,\
+    \ se loger, produire/travailler, se nourrir. Parmi ces propositions, on retrouve\
+    \ : limiter la publicité des produits les plus émetteurs de GES, modifier la constitution,\
+    \ grand plan de rénovation des logements pour lutter contre les passoires thermiques,\
+    \ réduire la TVA sur les billets de train, généralisation de la consigne de verre,\
+    \ etc."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -27930,7 +27924,8 @@
   answer_source_accessible_url_text: La Convention citoyenne pour le climat | Les
     Echos
   answer_source_scientific_url: https://www.conventioncitoyennepourleclimat.fr/foire-aux-questions/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Convention Citoyenne pour le Climat - Foire Aux
+    Questions
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000687-b090.png
   answer_image_url_text: Stratégie Nationale Bas Carbone française avec l'objectif
@@ -27942,7 +27937,7 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 688
   text: La déforestation s'est poursuivi en Amazonie brésilienne en 2020. A quel rythme
     par rapport à 2019 ?
@@ -28016,14 +28011,13 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Paradoxalement, malgré le caractère exceptionnel de l''année
-    2020 avec des feux d''une ampleur inégalée, le nombre d''incendies a été plus
-    faible, et les émissions de CO2 qui en ont résulté en deçà des années records.
-
-    Mais il faut se garder de toute conclusion hâtive. « Les incendies dans les zones
-    les plus touchées ont atteint une intensité record en raison de conditions plus
-    chaudes et plus sèches ». Source : Service Copernicus pour la surveillance de
-    l''atmosphère (CAMS)'
+  answer_explanation: "Paradoxalement, malgré le caractère exceptionnel de l'année\
+    \ 2020 avec des feux d'une ampleur inégalée, le nombre d'incendies a été plus\
+    \ faible, et les émissions de CO2 qui en ont résulté en deçà des années records.\r\
+    \nMais il faut se garder de toute conclusion hâtive. « Les incendies dans les\
+    \ zones les plus touchées ont atteint une intensité record en raison de conditions\
+    \ plus chaudes et plus sèches ». Source : Service Copernicus pour la surveillance\
+    \ de l'atmosphère (CAMS)"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28032,7 +28026,8 @@
   answer_source_accessible_url_text: 'Climat : les incendies de forêt polluent de
     moins en moins la planète | Les Echos'
   answer_source_scientific_url: https://atmosphere.copernicus.eu/wildfires-americas-and-tropical-africa-2020-compared-previous-years
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: How wildfires in the Americas and tropical Africa
+    in 2020 compared to previous years - European Commission
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000689-87b8.png
   answer_image_url_text: Émissions totales de carbone dues aux feux de forêt, en millions
@@ -28044,7 +28039,7 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 690
   text: En 2020, il y a eu beaucoup d'annonces en faveur du train de nuit. A ce jour,
     combien reste t-il de lignes nationales en service en France ?
@@ -28175,15 +28170,14 @@
   answer_choice_d: 10 millions
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'A la sortie du premier confinement, un plan vélo d''envergure
-    a permis de financer ce programme, ainsi que la création de 1,000 km de pistes
-    cyclables supplémentaires, et un plan pour former des centaines de réparateurs
-    certifiés dans les prochaines années. Le programme «Coup de pouce vélo» a été
-    prolongé jusqu''au 31 Mars 2021.
-
-    Durant l''été, les déplacements à vélo auraient augmenté en moyenne de 30% par
-    rapport à la même période en 2019. Il pourrait représenter 5% des déplacements
-    en 2021. Les transports en communs en revanche ont subi une baisse de fréquentation.'
+  answer_explanation: "A la sortie du premier confinement, un plan vélo d'envergure\
+    \ a permis de financer ce programme, ainsi que la création de 1,000 km de pistes\
+    \ cyclables supplémentaires, et un plan pour former des centaines de réparateurs\
+    \ certifiés dans les prochaines années. Le programme «Coup de pouce vélo» a été\
+    \ prolongé jusqu'au 31 Mars 2021.\r\nDurant l'été, les déplacements à vélo auraient\
+    \ augmenté en moyenne de 30% par rapport à la même période en 2019. Il pourrait\
+    \ représenter 5% des déplacements en 2021. Les transports en communs en revanche\
+    \ ont subi une baisse de fréquentation."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28192,22 +28186,21 @@
   answer_source_accessible_url_text: Un million de Français ont fait réparer leur
     vélo depuis mai
   answer_source_scientific_url: https://www.ecologie.gouv.fr/ministere-transition-ecologique-consolide-soutien-pratique-du-velo
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Le ministère de la Transition écologique consolide
+    le soutien à la pratique du vélo
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000692-0d88.jpg
   answer_image_url_text: Nombre de vélos passant devant les sites de comptage à Paris,
     par heure.
-  answer_extra_info: 'Plan vélo Mai 2020 : https://www.ecologie.gouv.fr/sites/default/files/20200529_DP_VELO_MTES.pdf
-
-
-    article intéressant : https://www.la-croix.com/Economie/Velo-Covid-19-Francais-sont-remis-selle-2020-08-22-1201110255'
+  answer_extra_info: "Plan vélo Mai 2020 : https://www.ecologie.gouv.fr/sites/default/files/20200529_DP_VELO_MTES.pdf\r\
+    \n\r\narticle intéressant : https://www.la-croix.com/Economie/Velo-Covid-19-Francais-sont-remis-selle-2020-08-22-1201110255"
   author: 1
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 693
   text: Quelle est la part modale du vélo dans les transports quotidiens des français
     ? (en 2018)
@@ -28226,16 +28219,12 @@
   answer_choice_d: 9%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'En 2018 la part modale du vélo était de 3%.
-
-    Mais les événements de 2020 (grèves, covid, plan de relance) ont généré une augmentation
-    significative de l''usage du vélo, et cette part devrait passer à 5% en 2021.
-
-    9% c''est l''objectif à horizon 2024 dans le cadre du Plan « Vélo et mobilités
-    actives » présenté par le gouvernement en septembre 2018.
-
-    Et 12% l''objectif pour 2030 (chiffre qui correspond à la part modale vélo en
-    Allemagne aujourd’hui).'
+  answer_explanation: "En 2018 la part modale du vélo était de 3%.\r\nMais les événements\
+    \ de 2020 (grèves, covid, plan de relance) ont généré une augmentation significative\
+    \ de l'usage du vélo, et cette part devrait passer à 5% en 2021.\r\n9% c'est l'objectif\
+    \ à horizon 2024 dans le cadre du Plan « Vélo et mobilités actives » présenté\
+    \ par le gouvernement en septembre 2018.\r\nEt 12% l'objectif pour 2030 (chiffre\
+    \ qui correspond à la part modale vélo en Allemagne aujourd’hui)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28244,7 +28233,7 @@
   answer_source_accessible_url_text: Quelle place pour le vélo dans la France « d’après
     » ? | Connaissances des énergies
   answer_source_scientific_url: https://www.ecologie.gouv.fr/plan-velo-et-mobilites-actives
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Le plan vélo et mobilités actives
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000693-ce65.png
   answer_image_url_text: Chiffres de 2018
@@ -28255,7 +28244,7 @@
   validator: 2
   validation_date: '2020-12-31'
   created: '2020-12-24'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 694
   text: En 2020, combien reste-il en France de centrale à charbon en activité ?
   hint: ''
@@ -28287,7 +28276,7 @@
   answer_source_accessible_url_text: La France fait déjà fonctionner ses centrales
     à charbon | Les Echos
   answer_source_scientific_url: https://fr.wikipedia.org/wiki/Liste_des_centrales_thermiques_%C3%A0_flamme_en_France#Centrales_%C3%A0_charbon
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Liste des centrales thermiques à flamme en France
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000694-2497.jpg
   answer_image_url_text: ''
@@ -28298,7 +28287,7 @@
   validator: 2
   validation_date: '2021-01-03'
   created: '2020-12-27'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 695
   text: Quelle quantité de CO2 en kg émet 1 litre de kérosène ?
   hint: Tout se transforme
@@ -28512,8 +28501,8 @@
   created: '2021-01-06'
   updated: '2022-04-16'
 - id: 700
-  text: 'Quelle a été la part de l''aviation dans les émissions mondiale de CO2 en
-    2019 ? '
+  text: Quelle a été la part de l'aviation dans les émissions mondiale de CO2 en 2019
+    ?
   hint: Un train peut en cacher un autre
   type: QCM
   category: 3
@@ -28542,7 +28531,8 @@
   answer_source_accessible_url_text: Pourquoi arrêter l'avion ne devrait plus être
     un débat
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0959378020307779
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The global scale, distribution and growth of
+    aviation: Implications for climate change (Gossling and Humpe 2020)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000700-d50e.png
   answer_image_url_text: 'A gauche : les effets CO2. à droite, les effets non-CO2>'
@@ -28553,7 +28543,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2023-02-14'
+  updated: '2024-03-12'
 - id: 701
   text: Quelle est la part de l'aviation dans le réchauffement climatique ?
   hint: Un train peu en cacher un autre
@@ -29340,15 +29330,13 @@
   answer_choice_d: +10 à 40%
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Selon les projections des derniers modèles, le débit moyen
-    annuel (quantité d''eau circulant) de la plupart des cours d''eau de France métropolitaine
-    devrait baisser de 10 à 40% entre 1961-1990 et 2046-2065. La cause majeure en
-    est le changement climatique, et en particulier l''augmentation de l’évaporation
-    et la baisse des précipitations estivales.
-
-    Néanmoins ces résultats sont encore sujets à de fortes incertitudes : usage en
-    eau, usage des sols, précision des chaînes de modèles climatiques et hydrologiques
-    etc.'
+  answer_explanation: "Selon les projections des derniers modèles, le débit moyen\
+    \ annuel (quantité d'eau circulant) de la plupart des cours d'eau de France métropolitaine\
+    \ devrait baisser de 10 à 40% entre 1961-1990 et 2046-2065. La cause majeure en\
+    \ est le changement climatique, et en particulier l'augmentation de l’évaporation\
+    \ et la baisse des précipitations estivales.\r\nNéanmoins ces résultats sont encore\
+    \ sujets à de fortes incertitudes : usage en eau, usage des sols, précision des\
+    \ chaînes de modèles climatiques et hydrologiques etc."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29357,15 +29345,12 @@
   answer_source_accessible_url_text: 'Réchauffement climatique: moins d''eau pour
     nos rivières !'
   answer_source_scientific_url: https://professionnels.ofb.fr/fr/node/44
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Explore 2070
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000718-c844.jpg
-  answer_image_url_text: 'Carte prévisionnelle de l''évolution plausible des débits
-    des cours d''eau en France métropolitaine à l''horizon 2046-2065. On note la disparité
-    selon les régions.
-
-
-    Source: natura.sciences.com'
+  answer_image_url_text: "Carte prévisionnelle de l'évolution plausible des débits\
+    \ des cours d'eau en France métropolitaine à l'horizon 2046-2065. On note la disparité\
+    \ selon les régions.\r\n\r\nSource: natura.sciences.com"
   answer_extra_info: ''
   author: 20
   visibility: PUBLIC
@@ -29373,7 +29358,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 719
   text: 'Chaque humain doit émettre moins de 2 tonnes de CO2e par an d''ici 2050 :
     c''est l''objectif à tenir selon la COP21. 2 tonnes, c''est ce que j''émets par
@@ -29874,7 +29859,7 @@
     \ \"bombe climatique\" pouvant très fortement accélérer le réchauffement climatique\
     \ en cours. Quand à la réapparition de virus enfouis, si des cas ont déjà été\
     \ observés, il n'existe pas de consensus sur la gravité du danger qu'ils représentent.\
-    \ \nLa fonte du pergélisol est un exemple parmi d'autres tout aussi inquiétants\
+    \ \r\nLa fonte du pergélisol est un exemple parmi d'autres tout aussi inquiétants\
     \ de phénomènes d'emballement : plus il faut chaud, plus ça dégèle ; plus ça dégèle,\
     \ plus il fait chaud etc. C'est ce qu'on appelle une boucle d'auto-renforcement."
   answer_audio_url: ''
@@ -29885,7 +29870,7 @@
   answer_source_accessible_url_text: La fonte du permafrost, boîte de Pandore climatique
     et sanitaire
   answer_source_scientific_url: https://fr.wikipedia.org/wiki/Perg%C3%A9lisol#Situation_actuelle_:_fonte_acc%C3%A9l%C3%A9r%C3%A9e
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Le Pergélisol
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000729-e466.jpg
   answer_image_url_text: ''
@@ -29896,7 +29881,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 730
   text: Le transport Aérien (=TA) paye trop de taxe ?
   hint: A votre avis ?
@@ -30175,14 +30160,15 @@
     concurrence avec le train, qui sur les longues distances pollue entre 40 et 80
     fois moins que l’avion.
   answer_audio_url: https://www.franceculture.fr/emissions/les-nouvelles-de-leco/les-nouvelles-de-leco-du-mercredi-22-mai-2019
-  answer_audio_url_text: ''
+  answer_audio_url_text: 'Taxe sur le kérosène : la grande évasion de l''aviation
+    - audio'
   answer_video_url: https://video.twimg.com/ext_tw_video/1359083103076106243/pu/vid/720x720/YgYWZ2v4EdMQNflK.mp4?tag=10
-  answer_video_url_text: ''
+  answer_video_url_text: Jet fuel tax in Europe
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2019/05/13/climat-une-etude-de-la-commission-europeenne-propose-de-taxer-le-kerosene-des-avions_5461201_3244.html
   answer_source_accessible_url_text: 'Climat : une étude de la Commission européenne
     propose de taxer le kérosène des avions'
   answer_source_scientific_url: http://www.ftwatch.at/wp-content/uploads/2017/10/FT-Watch_Green-Flying_2017.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The Illusion of  Green Flying
   answer_book_recommendation: 'Source : L''illusion du voyage vert, p6, 2ème §'
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000735-9419.png
   answer_image_url_text: 'TICPE : Taxe Intérieure sur la Consommation des Produits
@@ -30194,7 +30180,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2023-02-14'
+  updated: '2024-03-12'
 - id: 736
   text: 'Reprenons notre balance de titans : à droite, tous les animaux sauvages ;
     à gauche, tous les animaux domestiqués ou utilisés par l’humain. De quel côté
@@ -30435,13 +30421,12 @@
   answer_choice_d: 30 fois plus élevée
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Selon la Fédération cycliste européenne, ce serait 16 g CO2e/km
-    pour un VAE contre 5 g CO2e/km pour un vélo classique. Pour le VAE, la production
-    compte pour moitié (Il faut en effet fabriquer le moteur du pédalier et la batterie
-    au lithium-ion), et l''électricité pour l''autre moitié (dépendant du pays).
-
-    Pour l''impact énergétique c''est même jusqu''à 5 fois plus pour le VAE : 40W
-    contre 8W.'
+  answer_explanation: "Selon la Fédération cycliste européenne, ce serait 16 g CO2e/km\
+    \ pour un VAE contre 5 g CO2e/km pour un vélo classique. Pour le VAE, la production\
+    \ compte pour moitié (Il faut en effet fabriquer le moteur du pédalier et la batterie\
+    \ au lithium-ion), et l'électricité pour l'autre moitié (dépendant du pays).\r\
+    \nPour l'impact énergétique c'est même jusqu'à 5 fois plus pour le VAE : 40W contre\
+    \ 8W."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30450,7 +30435,7 @@
   answer_source_accessible_url_text: 'Vélo classique vs vélo électrique: lequel a
     la plus faible empreinte carbone? - Véronique Cloutier'
   answer_source_scientific_url: https://www.ibiketo.ca/blog/2009/07/13/embodied-energy-our-vehicles
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Embodied energy of our vehicles
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000741-07d6.png
   answer_image_url_text: ''
@@ -30461,7 +30446,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 742
   text: Si on décidait d'uniformiser la couleur des contenants en verre, quelles économies
     en découleraient ?
@@ -30536,7 +30521,7 @@
     \ …). Selon l'ADEME, en comptant d'autres déchets non-classés, c'est 70% qui pourraient\
     \ éviter d'aller dans la poubelle grise. Le reste est composé de déchets dangereux\
     \ (DEEE...), de plastiques, de déchets inertes divers non facilement recyclables...\
-    \ \nLa réduction à la source (zéro déchet, sobriété) est un autre levier majeur\
+    \ \r\nLa réduction à la source (zéro déchet, sobriété) est un autre levier majeur\
     \ pour éviter ces 70%. Et un jour se passer totalement de poubelle grise ?"
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -30546,7 +30531,7 @@
   answer_source_accessible_url_text: La campagne nationale de caractérisation (des
     déchets ménagers et assimilés) – Ademe
   answer_source_scientific_url: https://www.actu-environnement.com/media/pdf/news-35407-chiffres-cles-dechets-2019.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Déchets Chiffres-clés - ADEME 2019
   answer_book_recommendation: '"L''age des low-techs", Ph. Bihouix'
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000743-ce83.png
   answer_image_url_text: ''
@@ -30557,7 +30542,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2023-02-07'
+  updated: '2024-03-12'
 - id: 744
   text: Si tous les logements ajustaient leur température moyenne au niveau recommandé
     en France, de combien diminuerait-on la consommation de chauffage ?
@@ -30587,7 +30572,7 @@
   answer_source_accessible_url_text: Chauffage - 10 gestes simples pour limiter sa
     consommation énergétique au quotidien - Conseils - UFC-Que Choisir
   answer_source_scientific_url: https://solar.lowtechmagazine.com/fr/2011/02/insulation-first-the-body-then-the-home/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Isolation: d’abord le corps puis la maison'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000744-f05a.png
   answer_image_url_text: ''
@@ -30598,7 +30583,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-02-14'
+  updated: '2024-03-12'
 - id: 745
   text: Le Col de Porte, situé à 1,325m d'altitude dans les Alpes françaises est le
     site de référence de Météo France pour l'étude de l'évolution du manteau neigeux
@@ -30676,7 +30661,7 @@
   answer_source_accessible_url: https://www.ledauphine.com/societe/2020/02/24/vrai-ou-faux-tout-savoir-sur-les-canons-a-neige
   answer_source_accessible_url_text: 'Enneigeurs. Vrai ou faux : tout savoir sur la
     neige de culture'
-  answer_source_scientific_url: http://www.meteofrance.fr/climat-passe-et-futur/impacts-du-changement-climatique-sur-les-phenomenes-hydrometeorologiques/changement-climatique-et-enneigement
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000746-3127.webp
@@ -30688,7 +30673,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 747
   text: Plaçons-nous dans un scénario optimiste en termes d'émissions de gaz à effet
     de serre ; à l'horizon 2100 en Europe, de combien de kilomètres par décennie une
@@ -30724,13 +30709,11 @@
   answer_source_accessible_url_text: Selon une étude, 60% des poissons seront incapables
     de survivre dans leur habitat actuel d'ici 2100 - Geo.fr
   answer_source_scientific_url: https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Global_lake_warming_trend_threatens_freshwater_species
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global lake warming trend threatens freshwater
+    species - ESA
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000747-ac64.jpg
-  answer_image_url_text: 'Saumon en migration
-
-
-    Source: Wikipedia.org'
+  answer_image_url_text: "Saumon en migration\r\n\r\nSource: Wikipedia.org"
   answer_extra_info: ''
   author: 20
   visibility: PUBLIC
@@ -30738,7 +30721,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 748
   text: La côte du delta du Mékong au Vietnam recule. La montée du niveau de la mer
     ne suffit pas à l'expliquer. Quel recul peut-on observer en certains endroits
@@ -30771,13 +30754,12 @@
   answer_source_accessible_url_text: Le delta du Mékong sous le feu de l’érosion -
     Le Courrier du VietNam
   answer_source_scientific_url: https://www.nature.com/articles/s41598-020-64630-z
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Long-term sediment decline causes ongoing shrinkage
+    of the Mekong megadelta, Vietnam (Tamura et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000748-e54d.jpg
-  answer_image_url_text: 'Exemple d''érosion sur le delta du Mékong
-
-
-    Source: vnexplorer.net'
+  answer_image_url_text: "Exemple d'érosion sur le delta du Mékong\r\n\r\nSource:\
+    \ vnexplorer.net"
   answer_extra_info: ''
   author: 20
   visibility: PUBLIC
@@ -30785,7 +30767,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2024-03-12'
 - id: 749
   text: Du fait de la montée du niveau des mers, l'Île de la Réunion sera de plus
     en plus sujette à une salinisation de ses eaux souterraines. Quelle proportion
@@ -30817,17 +30799,14 @@
   answer_source_accessible_url: http://wikhydro.developpement-durable.gouv.fr/index.php/Changement_climatique_-_accentuation_de_la_salinit%C3%A9_des_eaux_souterraines_littorales
   answer_source_accessible_url_text: Changement climatique - accentuation de la salinité
     des eaux souterraines littorales - Wikhydro
-  answer_source_scientific_url: https://www.documentation.eauetbiodiversite.fr/notice/influence-de-la-montee-du-niveau-de-la-mer-sur-le-biseau-salin-des-aquiferes-cotiers-des-drom0
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000749-8dad.jpg
-  answer_image_url_text: 'Schéma de principe des interactions entre eaux souterraines
-    salées et douces. Une montée du niveau de la mer, réduit la zone d''influence
-    de l''eau douce. Un pompage excessif par l''Homme peut également entraîner une
-    intrusion d''eau salée.
-
-
-    Source: symcrau.com'
+  answer_image_url_text: "Schéma de principe des interactions entre eaux souterraines\
+    \ salées et douces. Une montée du niveau de la mer, réduit la zone d'influence\
+    \ de l'eau douce. Un pompage excessif par l'Homme peut également entraîner une\
+    \ intrusion d'eau salée.\r\n\r\nSource: symcrau.com"
   answer_extra_info: ''
   author: 20
   visibility: PUBLIC
@@ -30835,7 +30814,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2022-11-29'
+  updated: '2024-03-12'
 - id: 750
   text: Quelle part de la population mondiale voyage en avion ?
   hint: ''
@@ -30864,17 +30843,12 @@
   answer_source_accessible_url_text: Dans l'aérien, 1 % de la population mondiale
     cause la moitié des émissions de CO2 | Les Echos
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0959378020307779
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The global scale, distribution and growth of
+    aviation: Implications for climate change (Gossling and Humpe 2020)'
   answer_book_recommendation: 'Source : Echelle mondiale, distribution de la croissance
     de l''aviation, Abstract page 1, et §4.4 page 9'
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000750-9301.png
-  answer_image_url_text: 'AR : Aller-Retour
-
-    Pax = Passager
-
-    Mds = Milliards
-
-    '
+  answer_image_url_text: "AR : Aller-Retour\r\nPax = Passager\r\nMds = Milliards"
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
@@ -30882,7 +30856,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2023-02-14'
+  updated: '2024-03-12'
 - id: 751
   text: Quelle est la part de la population mondiale qui utilise des vols internationaux
     ?
