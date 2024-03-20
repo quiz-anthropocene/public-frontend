@@ -16953,7 +16953,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2019-11/datalab-62-chiffres-cles-du-climat-france-europe-monde-edition2020-novembre2019_0.pdf
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Chiffres clés du climat France, Europe et Monde
+    - 2020
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -16966,7 +16967,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 418
   text: Comment a évolué l’empreinte carbone des français entre 1995 et 2017 ?
   hint: Les émissions territoriales de la France ont baissé, mais maintenant beaucoup
@@ -17302,7 +17303,7 @@
   answer_source_accessible_url_text: Comprendre le GIEC | Ministère de la Transition
     écologique
   answer_source_scientific_url: https://www.ipcc.ch/languages-2/francais/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Rapport du GIEC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000426-f601.jpg
   answer_image_url_text: ''
@@ -17313,7 +17314,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-16'
+  updated: '2024-03-19'
 - id: 427
   text: Combien sont payés par l'ONU les chercheurs qui participent aux rapports GIEC
     ?
@@ -17341,7 +17342,7 @@
   answer_source_accessible_url: https://lejournal.cnrs.fr/articles/le-giec-en-quatre-questions
   answer_source_accessible_url_text: Le Giec en quatre questions | CNRS Le journal
   answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Comprendre le GIEC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000427-c282.png
   answer_image_url_text: Processus de construction d'un rapport du GIEC
@@ -17352,7 +17353,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 428
   text: Dans leur dernier rapport de 2021, comment les scientifiques du GIEC estiment-ils
     la probabilité que le changement climatique actuel soit dû aux activités humaines
@@ -17386,7 +17387,7 @@
   answer_source_accessible_url_text: 'Réchauffement : les 10 points marquants du rapport
     du GIEC'
   answer_source_scientific_url: https://archive.ipcc.ch/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Archive IPCC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000428-7e10.jpg
   answer_image_url_text: ''
@@ -17397,7 +17398,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2023-11-09'
+  updated: '2024-03-19'
 - id: 429
   text: Quelle est la différence entre un article scientifique et un article de presse
     ?
@@ -17576,7 +17577,7 @@
   answer_source_accessible_url_text: 'Futura - Giec : qui sont les experts et comment
     rédigent-ils leurs rapports ?'
   answer_source_scientific_url: https://www.ipcc.ch/about/structure/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Structure of the IPCC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0743e45a.png
   answer_image_url_text: ''
@@ -17587,7 +17588,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2024-02-05'
+  updated: '2024-03-19'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -17695,7 +17696,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/sr15/chapter/spm/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: IPCC Global Warming 1.5 - Summary for policy
+    makers
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000436-9fa9.png
   answer_image_url_text: Trajectoires d’émissions de gaz à effet de serre pour limiter
@@ -17707,7 +17709,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 437
   text: Quelle est le rang de la France en termes d'émissions de CO2 ?
   hint: 'Il n’y a qu’un seul pays Européen dans le top 10 mondial des plus gros émetteurs
@@ -17734,7 +17736,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Carbon Atlas
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000437-58ef.png
   answer_image_url_text: ''
@@ -17745,7 +17747,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 438
   text: La Chine est le premier émetteur de GES au monde. Pourquoi ?  Lesquelles de
     ces explications sont correctes ?
@@ -17813,7 +17815,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Liste_des_pays_par_empreinte_%C3%A9cologique
   answer_source_accessible_url_text: Liste des pays par empreinte écologique — Wikipédia
   answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=231&yr=2016
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Footprint Network - compare countries
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000439-1dee.jpg
   answer_image_url_text: Excédent ou déficit écologique par pays. Le rouge correspond
@@ -17825,7 +17827,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-11-16'
+  updated: '2024-03-19'
 - id: 440
   text: Si tous les humains vivaient avec le niveau de vie des Français, combien de
     planètes Terre nous faudrait-il pour que ce soit soutenable ? (chiffres 2016)
@@ -18615,7 +18617,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.notre-planete.info/terre/climatologie_meteo/changement-climatique-consequences.php#migration
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: Conséquences du changement climatique sur la
+    santé
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -18629,7 +18632,7 @@
   validator: 40
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-12-04'
+  updated: '2024-03-19'
 - id: 461
   text: Si le réchauffement climatique est de 2°C au lieu de 1,5°C à l'horizon 2050,  quelles
     seront les conséquences sur Terre ?
@@ -19526,13 +19529,11 @@
   answer_choice_d: Norvège, Turquie, Suède
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'La Norvège est de loin le 1er producteur d''hydroélectricité
-    en Europe avec 125 TWh produit en 2019. Elle est suivie de la Turquie (87 TWh),
-    la Suède (64 TWh), la France (63 TWh) et l''Italie (47 TWh).
-
-
-    Attention ce classement peut varier selon les années (exceptée la Norvège toujours
-    en tête).'
+  answer_explanation: "La Norvège est de loin le 1er producteur d'hydroélectricité\
+    \ en Europe avec 125 TWh produit en 2019. Elle est suivie de la Turquie (87 TWh),\
+    \ la Suède (64 TWh), la France (63 TWh) et l'Italie (47 TWh).\r\n\r\nAttention\
+    \ ce classement peut varier selon les années (exceptée la Norvège toujours en\
+    \ tête)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -19541,7 +19542,7 @@
   answer_source_accessible_url_text: '•  Europe: hydropower generation by country
     2019 | Statista'
   answer_source_scientific_url: https://www.hydropower.org/statusreport
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 2022 Hydropower Status Report
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000483-801a.png
   answer_image_url_text: ''
@@ -19552,7 +19553,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 484
   text: Comment est récupérée l'énergie dans une centrale géothermique ?
   hint: ''
@@ -19856,7 +19857,8 @@
   answer_source_accessible_url_text: 'Earth Day and the Hockey Stick: A Singular Message
     - Scientific American Blog Network'
   answer_source_scientific_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999GL900070
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Northern hemisphere temperatures during the
+    past millennium: Inferences, uncertainties, and limitations (Mann et al 1999)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000491-c193.gif
   answer_image_url_text: Courbe en crosse de hockey dans le 3ème rapport du GIEC (2001)
@@ -19867,7 +19869,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 492
   text: Quelle part représentent les secteurs du transport et du bâtiment dans les
     émissions françaises de gaz à effet de serre ?
@@ -19982,7 +19984,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-de-lenergie-edition-2019?rubrique=19&dossier=170
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l'énergie - Édition 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000494-075f.jpg
   answer_image_url_text: ''
@@ -19993,7 +19995,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 495
   text: En quelle année a été construite la première centrale électrique au charbon
     ?
@@ -20867,7 +20869,8 @@
   answer_source_accessible_url_text: 'Climat : qu''est-ce qu''une COP ? Définition,
     engagements, futur'
   answer_source_scientific_url: https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Conference of the Parties (COP) - United Nations
+    Climate Change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000517-b76e.jpg
   answer_image_url_text: COP25 à Madrid
@@ -20878,7 +20881,7 @@
   validator: 2
   validation_date: '2023-02-04'
   created: '2020-06-24'
-  updated: '2023-02-04'
+  updated: '2024-03-19'
 - id: 518
   text: Quelle quantité de carbone est absorbée et rejetée chaque année par l’ensemble
     de la vie sur terre ?
@@ -20989,7 +20992,7 @@
   answer_source_accessible_url_text: Chiffres clés de l'énergie - Édition 2019 | Données
     et études statistiques
   answer_source_scientific_url: http://www.capcomespace.net/dossiers/espace_privee/SpaceX/falcon_9_heavy.htm
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: L'ESPACE PRIVEE, SPACE X
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000520-2e83.jpg
   answer_image_url_text: ''
@@ -21000,7 +21003,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 521
   text: Combien de pages comporte le rapport spécial 1,5°C publié par le GIEC en 2018
     ?
@@ -21112,10 +21115,8 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 524
-  text: 'Les gaz à effet de serre et le soleil participent tous les deux au changement
-    climatique actuel.
-
-    En quelle proportion ?'
+  text: "Les gaz à effet de serre et le soleil participent tous les deux au changement\
+    \ climatique actuel.\r\nEn quelle proportion ?"
   hint: ''
   type: QCM
   category: 1
@@ -21145,7 +21146,7 @@
   answer_source_accessible_url: https://www.citepa.org/fr/ges/
   answer_source_accessible_url_text: Les gaz à effet de serre - Citepa
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Anthropogenic and Natural Radiative Forcing
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000524-9289.png
   answer_image_url_text: Décomposition du forçage radiatif selon ses composantes.
@@ -21157,7 +21158,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 525
   text: Si la France avait le mix énergétique italien, quelle serait son classement
     dans les émissions de CO2 mondiales ?
@@ -21225,7 +21226,8 @@
   answer_source_accessible_url_text: Pourquoi les émissions n’ont baissé « que » de
     30 % en France pendant le confinement ?
   answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/04/hcc_rapport_spcial_annexe.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: ESTIMATION DE L’EFFET DU CONFINEMENT SUR  LES
+    ÉMISSIONS DE GAZ À EFFETS DE SERRE (GES) DE LA FRANCE
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000526-ff3e.png
   answer_image_url_text: ''
@@ -21236,7 +21238,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 527
   text: Dans le monde, quel est le secteur qui a le plus baissé ses émissions (en
     valeur absolue) à cause de la pandémie de Covid ?
@@ -22019,13 +22021,14 @@
     alimentation moins diversifiée et étaient plus exposés aux pathogènes que les
     chasseurs-cueilleurs.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000545-ea49.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.partage-le.com/2016/09/02/lagriculture-ou-la-pire-erreur-de-lhistoire-de-lhumanite-par-jared-diamond-clive-dennis/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: L'agriculture ou la pire erreur de l'humanité
+    (Diamond et Dennis 2016)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000545-80ef.jpg
   answer_image_url_text: ''
@@ -22036,7 +22039,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 546
   text: Laquelle de ces capacités physiques acquises par le genre Homo a pu lui apporter
     le plus d'avantages pour la chasse ?
@@ -22097,13 +22100,14 @@
     de plus en plus de viande, a  pu réduire progressivement la diversité animale
     autour des peuplements du genre Homo.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000547-bbc5.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057944
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Temporal Change in Functional Richness and Evenness
+    in the Eastern African Plio-Pleistocene Carnivoran Guild
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000547-7384.jpg
   answer_image_url_text: ''
@@ -22114,7 +22118,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 548
   text: Depuis combien d'années l'humanité a-t-elle un impact significatif sur l'utilisation
     des sols sur quasiment l'ensemble des continents ?
@@ -22135,13 +22139,14 @@
     transformé l'environnement planétaire de façon globale à partir de 3,000 ans avant
     aujourd'hui.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000548-70a8.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://science.sciencemag.org/content/365/6456/897
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Archaeological assessment reveals Earth’s early
+    transformation through land use (Stephens et al 2019)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000548-0aea.jpg
   answer_image_url_text: ''
@@ -22152,7 +22157,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 549
   text: L'épaule humaine est spéciale dans l'évolution. Quel avantage nous a-t-elle
     progressivement procuré ?
@@ -22175,13 +22180,14 @@
     sont possibles grâce à une combinaison de stockage d'énergie élastique au niveau
     de l'épaule et par un transfert efficace de l'énergie cinétique.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000549-6528.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.nature.com/articles/nature12267
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Elastic energy storage in the shoulder and the
+    evolution of high-speed throwing in Homo (Roach et al 2013)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000549-d426.jpg
   answer_image_url_text: ''
@@ -22192,7 +22198,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 550
   text: Nos ancêtres chasseurs ont adopté une alimentation de plus en plus riche en
     viande. Quelle évolution cela a-t-il entraîné dans le corps humain ?
@@ -22216,13 +22222,13 @@
     la diminution de ses dimensions proviendrait d'une augmentation de consommation
     de produits carnés.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000550-3053.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio de l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://anthropogoniques.com/affirmations-evolution-de-lalimentation/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://anthropogoniques.com/accueil/evolution-de-lalimentation-humaine-generalites/
+  answer_source_scientific_url_text: Evolution de l’alimentation humaine
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000550-2b1d.png
   answer_image_url_text: Schéma de systèmes digestifs de différents mammifères
@@ -22233,7 +22239,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 551
   text: Vrai ou faux ? Les échanges longue distance sont une spécificité de la modernité.
   hint: ''
@@ -22257,13 +22263,14 @@
     à l'âge de bronze, ce bronze était fabriqué avec de l'étain d'Anatolie et du cuivre
     d'Espagne.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000551-8032.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.pourlascience.fr/sd/prehistoire/les-reseaux-sociaux-a-lepoque-gravettienne-6879.php
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les réseaux sociaux à l'époque gravettienne (Moreau
+    2012)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000551-9595.jpg
   answer_image_url_text: 'L''Europe préhistorique. Crédit : Larousse'
@@ -22274,7 +22281,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 552
   text: Vrai ou faux ? La longévité (âge maximal chez une espèce) dans les sociétés
     industrielles est plus grande que chez les chasseurs-cueilleurs.
@@ -22296,13 +22303,14 @@
     que dans les sociétés industrielles : 70 à 80 ans. La différence provient essentiellement
     de la plus importante mortalité infantile chez les chasseurs-cueilleurs.'
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000552-de3c.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio de l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://advances.sciencemag.org/content/6/26/eaax9070
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The life history of human foraging: Cross-cultural
+    and individual variation (Kooster et al 2020)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000552-552d.jpeg
   answer_image_url_text: ''
@@ -22313,7 +22321,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 553
   text: Vrai ou faux ? La cuisson des aliments a joué un rôle majeur dans l'augmentation
     de la taille du cerveau humain.
@@ -22337,13 +22345,14 @@
     le cerveau de l'homininé varie beaucoup plus en fonction de l'efficacité de la
     recherche de nourriture que de la masse corporelle.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000553-d326.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4842772/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Human Brain Expansion during Evolution Is Independent
+    of Fire Control and Cooking (Cornélio et al 2016)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000553-f8ba.gif
   answer_image_url_text: ''
@@ -22354,7 +22363,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 554
   text: Depuis l’an 2000, en combien d’années la Chine est-elle capable de produire
     autant de ciment que les États-Unis tout au long du 20ème siècle ?
@@ -22417,13 +22426,14 @@
     techniques de chasse, à une résistance plus forte aux agents pathogènes ou à un
     niveau de fécondité plus élevé.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000555-32e6.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Commentaire audio de l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://phys.org/news/2020-05-supercomputer-simulations-reveal-neanderthal-extinction.html?fbclid=IwAR0YH-YV7fSdA6DEh6OoMqJp-bVaSr6xb0GaEM42zCagXZxXh97iNpVt3Ys
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Supercomputer model simulations reveal cause
+    of Neanderthal extinction
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000555-40b0.png
   answer_image_url_text: Crânes d'Homo sapiens (à gauche) et de Néandertalien (à droite)
@@ -22434,7 +22444,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 556
   text: On développe les énergies renouvelables, notamment le photovoltaïque, pour
     éviter la consommation de charbon. Sur la période 2000 à 2018, comment se comparent
@@ -22984,15 +22994,13 @@
   answer_choice_d: 200,000 terrains de football
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Deux mille hectares de terres perdus par jour, 20 milliards
-    d''euros de pertes pour les cultivateurs, 20% des surfaces de culture menacées…
-
-    La facture du sel dans les sols agricoles est… salée, selon une étude publiée
-    fin octobre par des chercheurs de l’ONU.
-
-    La salinisation des sols est souvent le fait de mauvaises pratiques d’irrigation.
-    Un apport d’eau insuffisant conduit le sel qu’elle contient à s’installer dans
-    le sol. L''étude préconise une action énergique pour stopper l''hémorragie.'
+  answer_explanation: "Deux mille hectares de terres perdus par jour, 20 milliards\
+    \ d'euros de pertes pour les cultivateurs, 20% des surfaces de culture menacées…\r\
+    \nLa facture du sel dans les sols agricoles est… salée, selon une étude publiée\
+    \ fin octobre par des chercheurs de l’ONU.\r\nLa salinisation des sols est souvent\
+    \ le fait de mauvaises pratiques d’irrigation. Un apport d’eau insuffisant conduit\
+    \ le sel qu’elle contient à s’installer dans le sol. L'étude préconise une action\
+    \ énergique pour stopper l'hémorragie."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -23001,7 +23009,8 @@
   answer_source_accessible_url_text: Les terres agricoles menacées par le sel - Le
     Temps
   answer_source_scientific_url: https://macsphere.mcmaster.ca/handle/11375/15697
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Economics of Salt-induced Land Degradation and
+    Restoration (Manzoor et al 2014)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000570-b1ff.jpg
   answer_image_url_text: ''
@@ -23012,7 +23021,7 @@
   validator: 5
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 571
   text: La première domestication animale, bien avant le néolithique, a été celle
     du chien. Comment nos ancêtres ont-ils réussi à transformer des loups gris en
@@ -23046,7 +23055,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: http://www.terrierman.com/russianfoxfarmstudy.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Early Canid Domestication: The Farm-Fox Experiment
+    (Trut 1990)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000571-451e.jpg
   answer_image_url_text: ''
@@ -23057,7 +23067,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 572
   text: Le brûlis parcellaire consiste à brûler régulièrement les milieux pour favoriser
     la croissance de végétaux comestibles et la présence du petit gibier. Depuis combien
@@ -23090,7 +23100,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://academic.oup.com/bioscience/article/59/7/593/334816
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'A Burning Story: The Role of Fire in the History
+    of Life (Pausas et Keeley 2009)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000572-acf4.jpg
   answer_image_url_text: ''
@@ -23101,7 +23112,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 573
   text: Le Petit Âge Glaciaire est une période de refroidissement planétaire qui court
     de la fin du XIIIe siècle au début du XIXe siècle. Quelle est la cause majeure
@@ -23136,7 +23147,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://doi.org/10.1017/CBO9780511844058.009
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The Climate of Rebellion in the Early Modern
+    Ottoman Empire (White 2012)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000573-165b.jpg
   answer_image_url_text: ''
@@ -23147,7 +23159,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 574
   text: Depuis quand l'humain utilise-t-il des céréales pour son alimentation ?
   hint: ''
@@ -23170,13 +23182,14 @@
     de farine semble avoir été une pratique courante, répandue dans toute l'Europe
     il y a au moins 30,000 ans.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000574-7089.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Explication audio
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.pnas.org/content/107/44/18815
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Thirty thousand-year-old evidence of plant food
+    processing (Revedin et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000574-1349.jpeg
   answer_image_url_text: ''
@@ -23187,7 +23200,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 575
   text: Vrai ou faux ? La taille d'une société est liée aux croyances religieuses
     ?
@@ -23209,13 +23222,14 @@
     à la nature de ses divinités. Plus une civilisation serait nombreuse et structurée,
     plus elle vénèrerait un Dieu puissant, moralisateur et vengeur.
   answer_audio_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000575-5afc.mp3
-  answer_audio_url_text: ''
+  answer_audio_url_text: Explication audio
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/cultural-evolution-of-prosocial-religions/01B053B0294890F8CFACFB808FE2A0EF#
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/cultural-evolution-of-prosocial-religions/01B053B0294890F8CFACFB808FE2A0EF
+  answer_source_scientific_url_text: The cultural evolution of prosocial religions
+    (Norenzayan et al 2014)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000575-5edd.jpg
   answer_image_url_text: ''
@@ -23226,7 +23240,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 576
   text: "En 1492, Christophe Colomb accoste en Amérique. Ce faisant, il initie un\
     \ processus qu'on a appelé \"échange colombien\".\r\nC'est-à-dire :"
@@ -23270,7 +23284,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://fr.wikipedia.org/wiki/%C3%89change_colombien
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Échange colombien - Wikipedia
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000576-f409.jpg
   answer_image_url_text: Culture en terrasses sur l'île de Taquile, où sont cultivés
@@ -23283,7 +23297,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 577
   text: En 1859, le savant Carrington documente un phénomène exceptionnel, susceptible
     de détruire les circuits électriques. En quoi consiste cette menace hors-norme,
@@ -23353,7 +23367,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://fr.wikipedia.org/wiki/Quatre_grandes_inventions_de_la_Chine_antique
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Quatre grandes inventions de la Chine antique
+    - Wikipedia
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000578-7a2d.jpg
   answer_image_url_text: Maquette d'une cuiller indiquant le sud
@@ -23364,7 +23379,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 579
   text: Jusqu'à une époque récente, ce sont les animaux et les humains qui ont fourni
     l’essentiel de l’énergie mécanique. Puis le charbon et le pétrole ont pris le
@@ -23398,9 +23413,9 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://mitpress.mit.edu/books/energy-and-civilization
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
+  answer_book_recommendation: https://mitpress.mit.edu/9780262536165/
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000579-e730.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -23410,7 +23425,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 580
   text: J'ai inventé un processus permettant de transformer le pétrole en essence
     et mis au point la synthèse de l’ammoniac, un processus qui va permettre la fabrication
@@ -23440,7 +23455,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://journals.openedition.org/etudesrurales/9545
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Du nouveau sous le soleil : une histoire de
+    l’environnement mondial au xxe siècle (Mc Neill 2010)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000580-aa44.jpg
   answer_image_url_text: ''
@@ -23451,7 +23467,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 581
   text: Je suis biologiste. Après avoir découvert qu’une rivière polluée abritait
     une proportion de poissons femelles anormalement élevée, j'ai mis en lumière les
@@ -23479,9 +23495,9 @@
   answer_audio_url_text: Commentaire audio par l'auteur
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.lemonde.fr/planete/article/2014/12/24/theo-colborn-1927-2014_4545871_3244.html
+  answer_source_accessible_url: https://www.lemonde.fr/planete/article/2014/12/24/theo-colborn-1927-2014_4545871_3244.html
+  answer_source_accessible_url_text: Theo Colborn (1927-2014) - Le Monde
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000581-7560.jpg
@@ -23493,7 +23509,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-02-13'
+  updated: '2024-03-19'
 - id: 582
   text: 'Vous enfourchez un vélo muni d''une dynamo. Votre mission : faire griller
     une tartine dans un grille-pain qui requiert une puissance de 700W pendant 3 min.
@@ -23992,11 +24008,10 @@
   created: '2020-11-17'
   updated: '2022-04-16'
 - id: 595
-  text: 'Des scientifiques ont tenté d''estimer le « coût ultime de la tonne de carbone
-    », c''est à dire en prenant en compte son impact sur les générations futures,
-    pour le comparer au prix du marché actuel (100$/tonne).
-
-    A quel ordre de grandeur sont-ils parvenus ?'
+  text: "Des scientifiques ont tenté d'estimer le « coût ultime de la tonne de carbone\
+    \ », c'est à dire en prenant en compte son impact sur les générations futures,\
+    \ pour le comparer au prix du marché actuel (100$/tonne).\r\nA quel ordre de grandeur\
+    \ sont-ils parvenus ?"
   hint: ''
   type: QCM
   category: 1
@@ -24022,7 +24037,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://link.springer.com/article/10.1007%2Fs10584-020-02785-4
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The ultimate cost of carbon (Archer et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000595-1da8.jpg
   answer_image_url_text: Augmentation du niveau des mers entre 1992 et 2014 (crédit
@@ -24034,7 +24049,7 @@
   validator: 5
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 596
   text: Juste avant la faillite de Lehman Brothers en 2008, le prix du pétrole avait
     atteint des sommets. Quel fut alors le prix le plus haut atteint pour un baril
@@ -24071,7 +24086,7 @@
   answer_source_accessible_url_text: 'Chute du pétrole : pourquoi c''est une mauvaise
     nouvelle'
   answer_source_scientific_url: https://en.wikipedia.org/wiki/World_oil_market_chronology_from_2003#2008:_oil_prices_peak_at_$145.85_then_bottom_at_$32
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: World oil market chronology from 2003 - Wikipedia
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000596-b5e8.png
   answer_image_url_text: ''
@@ -24082,7 +24097,7 @@
   validator: 2
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 597
   text: La taxonomie européenne est un outil de classification qui fournit à tous
     les acteurs financiers une compréhension commune de ce qui doit être considéré
@@ -24117,7 +24132,7 @@
   answer_source_accessible_url_text: La neutralité carbone, nouveau greenwashing ou
     réelle avancée ?
   answer_source_scientific_url: https://sustainablefinancesurvey.de/sites/sustainablefinancesurvey.de/files/documents/european-sustainable-finance-survey-2020_bf.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: European Sustainable Finance Survey
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000597-03ca.png
   answer_image_url_text: 'Bleu: rentre dans le périmètre de la classification. Vert
@@ -24129,7 +24144,7 @@
   validator: 2
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 598
   text: "Un dérivé climatique est un instrument financier qui peut être utilisé pour\
     \ se prémunir contre des risques liés au climat. L'actif sous-jacent peut ainsi\
@@ -24201,7 +24216,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ran.org/wp-content/uploads/2020/03/Banking_on_Climate_Change__2020_vF.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Banking on climate change - fossil fuel finance
+    report 2020
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000599-4ebf.png
   answer_image_url_text: ''
@@ -24212,7 +24228,7 @@
   validator: 2
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 600
   text: Combien les banques françaises ont elle prêté à l’industrie fossile entre
     2016 et 2019 ?
@@ -24243,7 +24259,8 @@
   answer_source_accessible_url_text: Le point sur les investissements de grandes banques
     dans les énergies fossiles | Connaissances des énergies
   answer_source_scientific_url: https://www.ran.org/wp-content/uploads/2020/03/Banking_on_Climate_Change__2020_vF.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Banking on climate change - fossil fuel finance
+    report 2020
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000600-7ee7.png
   answer_image_url_text: ''
@@ -24254,7 +24271,7 @@
   validator: 2
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 601
   text: Parmi ces produits, lequel est considéré comme une « valeur refuge » sur les
     marchés financiers ?
@@ -24600,7 +24617,8 @@
   answer_source_accessible_url_text: 'Tout savoir sur le mix énergétique de la France
     : production, consommation, facture énergétique, histoire'
   answer_source_scientific_url: https://www.connaissancedesenergies.org/sites/default/files/pdf-pt-vue/fiche_pedago_primaire_ou_finale_-_coment_comptabiliser_l_energie_-_mars_2020.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'PRIMAIRE OU FINALE : COMMENT COMPTABILISER L’ÉNERGIE
+    ? - Observatoire de l''Industrie Electrique'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000609-aeb6.jpg
   answer_image_url_text: ''
@@ -24611,7 +24629,7 @@
   validator: 2
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 610
   text: Quelles activités sont éligibles dans la taxonomie fond vert (ou ESG) ?
   hint: ''
@@ -24666,25 +24684,22 @@
   answer_choice_d: 80%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'L’Etat, les personnes morales de droit privé employant plus
-    de 500 personnes, les collectivités de plus de 50,000 habitants et les personnes
-    morales de droit public employant plus de 250 personnes ont l’obligation de publier
-    leur bilan d’émission de gaz à effet de serre.
-
-    Ce dernier ne couvre que les scopes 1 et 2, pas le scope 3 (voir leur définition
-    dans le lien fourni).
-
-
-    En 2020, rapporté par habitant, ce scope 3 représente 4,8 tonnes de CO2eq sur
-    un total de 11,5 tonnes, soit 42%.'
+  answer_explanation: "L’Etat, les personnes morales de droit privé employant plus\
+    \ de 500 personnes, les collectivités de plus de 50,000 habitants et les personnes\
+    \ morales de droit public employant plus de 250 personnes ont l’obligation de\
+    \ publier leur bilan d’émission de gaz à effet de serre.\r\nCe dernier ne couvre\
+    \ que les scopes 1 et 2, pas le scope 3 (voir leur définition dans le lien fourni).\r\
+    \n\r\nEn 2020, rapporté par habitant, ce scope 3 représente 4,8 tonnes de CO2eq\
+    \ sur un total de 11,5 tonnes, soit 42%."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/10/hcc_rapport_empreinte-carbone.pdf
+  answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/10/hcc_rapport_empreinte-carbone.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: MAÎTRISER L’EMPREINTE CARBONE DE LA FRANCE -
+    Haut Conseil pour le Climat
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000611-f443.jpg
   answer_image_url_text: ''
@@ -24695,7 +24710,7 @@
   validator: 2
   validation_date: '2020-11-25'
   created: '2020-11-18'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 612
   text: En Europe, à quelle hauteur les entreprises soumises aux quotas d’émissions
     émettent-elles de GES ?
@@ -24828,13 +24843,11 @@
   answer_choice_d: '200'
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Dans le monde, il y a en tout 51 installations de capture et
-    stockage de CO2 à large échelle (plusieurs centaines de millions de tonnes de
-    CO2 capturées chaque année), dont 19 en opération, les 32 autres étant en développement
-    ou en construction.
-
-    Sur ces 19 installations, 17 concernent des sites industriels, et 2 des centrales
-    électriques.'
+  answer_explanation: "Dans le monde, il y a en tout 51 installations de capture et\
+    \ stockage de CO2 à large échelle (plusieurs centaines de millions de tonnes de\
+    \ CO2 capturées chaque année), dont 19 en opération, les 32 autres étant en développement\
+    \ ou en construction.\r\nSur ces 19 installations, 17 concernent des sites industriels,\
+    \ et 2 des centrales électriques."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -24843,7 +24856,7 @@
   answer_source_accessible_url_text: 'Capture et stockage du CO2 : fonctionnement,
     filières, enjeux, projets'
   answer_source_scientific_url: https://co2re.co/FacilityData
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Facilities database - Global CCS Institute
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000615-542b.png
   answer_image_url_text: ''
@@ -24854,7 +24867,7 @@
   validator: 2
   validation_date: '2020-12-02'
   created: '2020-11-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 616
   text: Quelle est la part des émissions anthropiques (d'origine humaine) de CO2 stockée
     dans des sites géologiques ?
@@ -24871,12 +24884,10 @@
   answer_choice_d: 10 %
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Les émissions de CO2 dues aux activités humaines sont de 36
-    milliards de tonnes par an (sans compter les émissions dues à la déforestation),
-    et la quantité capturée dans le même temps est de 40 millions de tonnes par an.
-
-
-    Soit environ mille fois moins.'
+  answer_explanation: "Les émissions de CO2 dues aux activités humaines sont de 36\
+    \ milliards de tonnes par an (sans compter les émissions dues à la déforestation),\
+    \ et la quantité capturée dans le même temps est de 40 millions de tonnes par\
+    \ an.\r\n\r\nSoit environ mille fois moins."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -24884,7 +24895,7 @@
   answer_source_accessible_url: https://www.connaissancedesenergies.org/fiche-pedagogique/capture-et-stockage-du-co2-csc
   answer_source_accessible_url_text: 'Capture et stockage du CO2 : fonctionnement,
     filières, enjeux, projets'
-  answer_source_scientific_url: https://www.globalccsinstitute.com/resources/global-status-report/
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000616-c66d.png
@@ -24896,7 +24907,7 @@
   validator: 2
   validation_date: '2020-12-02'
   created: '2020-11-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 617
   text: Aujourd’hui, si un dispositif de capture du CO2 est installé sur une centrale
     à charbon, quelle part de l'énergie produite par cette dernière consomme-t-il
@@ -24969,7 +24980,8 @@
   answer_source_accessible_url_text: 'Capture et stockage du CO2 : fonctionnement,
     filières, enjeux, projets'
   answer_source_scientific_url: https://www.globalccsinstitute.com/archive/hub/publications/201688/global-ccs-cost-updatev4.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: GLOBAL COSTS OF CARBON CAPTURE AND  STORAGE -
+    Global CCS Institute 2017
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000618-8688.png
   answer_image_url_text: Installation de capture et stockage du CO2 sur la centrale
@@ -24982,7 +24994,7 @@
   validator: 2
   validation_date: '2020-12-02'
   created: '2020-11-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 619
   text: Aujourd’hui, pour quels usages envisage t-on de faire de la capture de CO2
     ?
@@ -25042,13 +25054,10 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Même si la cimenterie est alimentée par une énergie zéro carbone,
-    la seule réaction chimique permettant de fabriquer le ciment est émettrice de
-    CO2.
-
-    L''équation chimique est la suivante : CaCO3 = CaO + CO2
-
-    L''industrie du ciment est l''une des plus émettrices au monde.'
+  answer_explanation: "Même si la cimenterie est alimentée par une énergie zéro carbone,\
+    \ la seule réaction chimique permettant de fabriquer le ciment est émettrice de\
+    \ CO2.\r\nL'équation chimique est la suivante : CaCO3 = CaO + CO2\r\nL'industrie\
+    \ du ciment est l'une des plus émettrices au monde."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -25056,7 +25065,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Ciment#Fabrication
   answer_source_accessible_url_text: Ciment — Wikipédia
   answer_source_scientific_url: http://acces.ens-lyon.fr/acces/thematiques/eedd/climat/pedagogie/hors_classe/ciment.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Le ciment
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000620-3cc9.jpg
   answer_image_url_text: Fabrication du ciment
@@ -25067,7 +25076,7 @@
   validator: 2
   validation_date: '2020-12-02'
   created: '2020-11-25'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 621
   text: D’ici 2050, par combien doit-on multiplier la capacité actuelle de capture
     et stockage de CO2 pour respecter le scénario "développement durable" de l’Agence
@@ -25186,10 +25195,8 @@
   created: '2020-11-25'
   updated: '2022-04-16'
 - id: 624
-  text: 'La Chine émet aujourd''hui 27% du CO2 mondial.
-
-    Combien d''autres pays ont déjà fait autant depuis le début de la révolution industrielle
-    ?'
+  text: "La Chine émet aujourd'hui 27% du CO2 mondial.\r\nCombien d'autres pays ont\
+    \ déjà fait autant depuis le début de la révolution industrielle ?"
   hint: ''
   type: QCM
   category: 1
@@ -25214,7 +25221,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: CO₂ and Greenhouse Gas Emissions - Our world
+    in data
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000624-83e2.png
   answer_image_url_text: ''
@@ -25225,7 +25233,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 625
   text: '[DOUBLON] Au plus fort de la crise de la Covid, les émissions mondiales de
     CO2 ont baissé de quasiment 20%.
@@ -25291,15 +25299,11 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Les émissions de CO2 de la totalité du continent africain s''élèvent
-    à 1,4 milliards de tonnes.
-
-    Celles des transports routiers des États-Unis sont de 1,5 milliards de tonnes.
-
-
-    C''est assez impressionnant de penser que les seuls déplacements des 330 millions
-    d''Américains émettent plus de CO2 que la TOTALITÉ des activités des 1,2 milliards
-    d''Africains.'
+  answer_explanation: "Les émissions de CO2 de la totalité du continent africain s'élèvent\
+    \ à 1,4 milliards de tonnes.\r\nCelles des transports routiers des États-Unis\
+    \ sont de 1,5 milliards de tonnes.\r\n\r\nC'est assez impressionnant de penser\
+    \ que les seuls déplacements des 330 millions d'Américains émettent plus de CO2\
+    \ que la TOTALITÉ des activités des 1,2 milliards d'Africains."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -25307,7 +25311,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://di.unfccc.int/detailed_data_by_party
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Greenhouse Gas Inventory Data - Detailed data
+    by Party - United Nations Climate Change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000626-db2f.png
   answer_image_url_text: ''
@@ -25318,7 +25323,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 627
   text: La mer du nord est le seul gisement important de pétrole situé en Europe occidentale.
     En quelle année a-t-il passé ou doit-il passer son pic de production ?
@@ -25336,10 +25341,9 @@
   answer_choice_d: '2040'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'La production cumulée de pétrole des pays exploitant les gisements
-    en mer du nord (Norvège, Royaume-Uni, Danemark) a passé son pic en l''an 2000.
-
-    Elle a diminué depuis de 65% depuis.'
+  answer_explanation: "La production cumulée de pétrole des pays exploitant les gisements\
+    \ en mer du nord (Norvège, Royaume-Uni, Danemark) a passé son pic en l'an 2000.\r\
+    \nElle a diminué depuis de 65% depuis."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -25347,7 +25351,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/R%C3%A9gions_p%C3%A9trolif%C3%A8res_en_Europe
   answer_source_accessible_url_text: Régions pétrolifères en Europe — Wikipédia
   answer_source_scientific_url: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Energy outlook 2023 - BP
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000627-557d.png
   answer_image_url_text: ''
@@ -25358,7 +25362,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 628
   text: Quel est le premier fournisseur de charbon de la France ?
   hint: ''
@@ -25908,7 +25912,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.sciencedirect.com/science/article/abs/pii/S0743016798000230
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The course and drivers of the forest transition:
+    The case of France (Mather et al 1999)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000640-6fbc.png
   answer_image_url_text: ''
@@ -25919,7 +25924,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 641
   text: 'En France, comment ont évolué les émissions de gaz à effet de serre de l''agriculture
     depuis 1990 ?
@@ -25965,8 +25970,8 @@
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 642
-  text: 'Dans le monde, combien y a-t-il de pays qui émettent au total plus de CO2
-    que le seul secteur des transports aux États-Unis ?  '
+  text: Dans le monde, combien y a-t-il de pays qui émettent au total plus de CO2
+    que le seul secteur des transports aux États-Unis ?
   hint: ''
   type: QCM
   category: 1
@@ -25991,7 +25996,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://di.unfccc.int/detailed_data_by_party
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Greenhouse Gas Inventory Data - Detailed data
+    by Party - United Nations Climate Change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000642-7895.png
   answer_image_url_text: ''
@@ -26002,7 +26008,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 643
   text: Dans le monde, sur les 10 mois de juin les plus chauds enregistrés ces 140
     dernières années, combien ont eu lieu depuis 2010 ?
@@ -26029,7 +26035,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ncei.noaa.gov/news/global-climate-202006
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Assessing the Global Climate in June 2020 - National
+    Centers for Environmental Information
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000643-08fb.png
   answer_image_url_text: ''
@@ -26040,7 +26047,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 644
   text: De quand date la glaciation du continent Antarctique ?
   hint: ''
@@ -26307,20 +26314,17 @@
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Le plus grand incendie en Californie depuis 90 ans a eu lieu
-    pendant l''été 2020.
-
-    Cet incendie nommé August Complex a brulé plus de 4000 km2 à lui seul, autant
-    que la superficie des Alpes-Maritimes.
-
-    La Californie est une des régions la plus touchée par les incendies, et cela va
-    en s''empirant à cause du réchauffement climatique : sur les 20 plus grands incendies
-    depuis 90 ans, 17 ont eu lieu après l''an 2000, dont 6 qui ont eu lieu en 2020.'
+  answer_explanation: "Le plus grand incendie en Californie depuis 90 ans a eu lieu\
+    \ pendant l'été 2020.\r\nCet incendie nommé August Complex a brulé plus de 4000\
+    \ km2 à lui seul, autant que la superficie des Alpes-Maritimes.\r\nLa Californie\
+    \ est une des régions la plus touchée par les incendies, et cela va en s'empirant\
+    \ à cause du réchauffement climatique : sur les 20 plus grands incendies depuis\
+    \ 90 ans, 17 ont eu lieu après l'an 2000, dont 6 qui ont eu lieu en 2020."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.fire.ca.gov/media/11416/top20_acres.pdf
+  answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -26330,11 +26334,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1318634699275849729
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 651
   text: Vrai ou Faux ? En cumulé depuis un siècle, la France a émis plus de CO2 que
     tous les volcans de la terre sur la même période.
@@ -26363,7 +26367,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011EO240001
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Volcanic versus anthropogenic carbon dioxide
+    (Gerlach 2011)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000651-0a9a.png
   answer_image_url_text: ''
@@ -26374,7 +26379,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-19'
 - id: 652
   text: "Le pétrole est la 1ère source d'énergie consommée en France.\r\nQuelle est\
     \ la 2ème ?"
@@ -26612,7 +26617,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://essd.copernicus.org/preprints/essd-2021-386/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Carbon Budget 2021 (Friedlingstein et
+    al 2022)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000657-0d7d.png
   answer_image_url_text: 'A gauche, les sources : énergies fossiles et déforestation.
@@ -26624,7 +26630,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2023-02-26'
+  updated: '2024-03-19'
 - id: 658
   text: Lequel de ces animaux arctiques est le plus sensible au changement climatique
     ?
@@ -31527,8 +31533,8 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Pas du tout ! Il y a de grosses différences d’un pays à l’autre,
-    et aussi à l’intérieur d’un même pays. Comme tu le vois sur ce graphiques, ce
-    sont les plus riches sur terre qui émettent le plus, alors que la moitié de l’humanité
+    et aussi à l’intérieur d’un même pays. Comme tu le vois sur ce graphique, ce sont
+    les plus riches sur terre qui émettent le plus, alors que la moitié de l’humanité
     la plus pauvre contribue très peu. Et ce sont eux qui sont touchés en premier.
     Le changement climatique, c’est donc aussi un problème d’injustice.
   answer_audio_url: ''
@@ -31551,7 +31557,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-05'
+  updated: '2024-03-19'
 - id: 767
   text: Vrai ou faux ? La fonte de la banquise (la glace qui flotte) fait monter le
     niveau de l'océan.
