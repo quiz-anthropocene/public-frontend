@@ -11528,21 +11528,20 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-11/datalab-essentiel-159-les-ventes-de-produits-petroliers-en-2017-novembre2018.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Les ventes de produits pétroliers en 2017 - Commissariat
+    général au développement durable
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000284-7725.jpg
   answer_image_url_text: 1l de fioul = 0,88 kg
-  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/168.jpg
-
-
-    https://twitter.com/laydgeur/status/1172033463958085633'
+  answer_extra_info: "image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/168.jpg\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1172033463958085633"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 285
   text: En quelle année a été mis en service le premier puits de pétrole du Qatar
     ?
@@ -14269,9 +14268,8 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 353
-  text: 'Les États-Unis sont le 3ème producteur mondial de charbon.
-
-    Combien ont-ils d’années de réserves ?'
+  text: "Les États-Unis sont le 3ème producteur mondial de charbon.\r\nCombien ont-ils\
+    \ d’années de réserves ?"
   hint: ''
   type: QCM
   category: 5
@@ -14286,17 +14284,13 @@
   answer_choice_d: 500 ans
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Les États-Unis possèdent des réserves prouvées de 250 milliards
-    de tonnes de charbon (de loin le premier pays au monde, avec 25% du total mondial).
-
-    Au rythme de production actuel (685 millions de tonnes extraites chaque années,
-    soit un cube de 750m de coté), ils en ont pour 360 ans, soit au moins jusqu’en
-    l’an 2380.
-
-
-    Si elle devait brûler, cette seule quantité de charbon suffirait à augmenter la
-    température de la planète d''environ +0,5°C, ce qui donne aux Américains une influence
-    énorme dans l''évolution du changement climatique.'
+  answer_explanation: "Les États-Unis possèdent des réserves prouvées de 250 milliards\
+    \ de tonnes de charbon (de loin le premier pays au monde, avec 25% du total mondial).\r\
+    \nAu rythme de production actuel (685 millions de tonnes extraites chaque années,\
+    \ soit un cube de 750m de coté), ils en ont pour 360 ans, soit au moins jusqu’en\
+    \ l’an 2380.\r\n\r\nSi elle devait brûler, cette seule quantité de charbon suffirait\
+    \ à augmenter la température de la planète d'environ +0,5°C, ce qui donne aux\
+    \ Américains une influence énorme dans l'évolution du changement climatique."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -14304,21 +14298,20 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-full-report.pdf#page42
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: BP Statistical Review  of World Energy 2019 |
+    68th edition
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000353-1b04.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'image alternative: https://cdn.radiofrance.fr/s3/cruiser-production/2018/11/13238c20-fd37-4844-9ca8-a7c984b6a4ac/838_visactu-donald-trump-souhaite-assouplir-les-normes-anti-pollution-des-centrales-a-charbon-1656610eb99.jpg
-
-
-    https://twitter.com/laydgeur/status/1214647943493562371'
+  answer_extra_info: "image alternative: https://cdn.radiofrance.fr/s3/cruiser-production/2018/11/13238c20-fd37-4844-9ca8-a7c984b6a4ac/838_visactu-donald-trump-souhaite-assouplir-les-normes-anti-pollution-des-centrales-a-charbon-1656610eb99.jpg\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1214647943493562371"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 354
   text: Quels sont les pays dans le monde qui s’échangent le plus de gaz ? (par pipeline
     ou méthanier)
@@ -14879,7 +14872,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Carbon Atlas
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000367-f802.png
   answer_image_url_text: ''
@@ -14890,7 +14883,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 368
   text: Quelle est la quantité moyenne de gaz à effet de serre émis pour chaque produit
     vendu chez Décathlon ? (tous produits confondus, sur tout le cycle de vie)
@@ -15216,21 +15209,19 @@
   answer_source_accessible_url: https://www.la-croix.com/Economie/Economie-et-entreprises/taxe-carbone-britannique-chasse-charbon-2018-12-10-1200988625
   answer_source_accessible_url_text: La taxe carbone britannique a chassé le charbon
   answer_source_scientific_url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/840015/DUKES_2019_MASTER_COPY.pdf#page87
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: DIGEST OF UNITED  KINGDOM ENERGY  STATISTICS
+    2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000375-4839.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'Semaine spéciale Royaume-Uni (brexit)
-
-
-    https://twitter.com/laydgeur/status/1225722941742161921'
+  answer_extra_info: "Semaine spéciale Royaume-Uni (brexit)\r\n\r\nhttps://twitter.com/laydgeur/status/1225722941742161921"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 376
   text: Lequel de ces pics de production n’a PAS été passé par le Royaume-Uni ?
   hint: ''
@@ -16346,7 +16337,7 @@
   answer_source_accessible_url_text: D’ici à 2070, un tiers de l’humanité pourrait
     vivre dans des endroits aussi chauds que le Sahara
   answer_source_scientific_url: https://www.pnas.org/content/early/2020/04/28/1910114117
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Future of the human climate niche (Xu et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/04e983e0.jpg
   answer_image_url_text: ''
@@ -16357,7 +16348,7 @@
   validator: 5
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2023-04-12'
+  updated: '2024-03-26'
 - id: 404
   text: 'A combien de jours de consommation intérieure les stocks stratégiques pétroliers
     correspondent-ils en France ? '
@@ -16435,7 +16426,7 @@
   answer_source_accessible_url_text: 'Gaz à effet de serre : qu''est-ce que l''« équivalent
     CO2 » ?'
   answer_source_scientific_url: https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?prg.htm
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Bilans GES
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000405-1b7d.jpg
   answer_image_url_text: ''
@@ -16446,7 +16437,7 @@
   validator: 5
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 406
   text: Vrai ou Faux ? Les 5 dernières années (2015 à 2019) ont été les plus chaudes
     jamais observées dans le monde.
@@ -16478,7 +16469,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/blog/huet/2020/03/11/le-climat-en-2019-selon-lomm/
   answer_source_accessible_url_text: Le climat en 2019 selon l’OMM – {Sciences²}
-  answer_source_scientific_url: https://public.wmo.int/fr/medias/communiqu%C3%A9s-de-presse/l%E2%80%99omm-confirme-que-2019-se-classe-au-deuxi%C3%A8me-rang-des-ann%C3%A9es-les-plus
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000406-3b2e.png
@@ -16490,7 +16481,7 @@
   validator: 2
   validation_date: '2020-05-30'
   created: '2020-05-23'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 407
   text: Si l'océan était un pays, quel serait son classement en termes de PIB ?
   hint: ''
@@ -16605,7 +16596,7 @@
   answer_source_accessible_url_text: 'Parc nucléaire mondial : nombre de réacteurs
     par pays, production, âge, histoire'
   answer_source_scientific_url: https://www-pub.iaea.org/MTCD/Publications/PDF/RDS-2-39_web.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Nuclear  Power  Reactors  in the World (IAEA)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000409-20e9.png
   answer_image_url_text: Chiffres de 2014
@@ -16616,7 +16607,7 @@
   validator: 2
   validation_date: '2020-06-04'
   created: '2020-05-28'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 410
   text: En France, quelle a été la part du nucléaire dans la production d'électricité
     en 2019 ?
@@ -16647,7 +16638,8 @@
   answer_source_accessible_url_text: 'Bilan électrique de la France : que retenir
     de 2019 ? | Connaissances des énergies'
   answer_source_scientific_url: https://www.rte-france.com/fr/article/bilans-electriques-nationaux
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: RTE, le gestionnaire du réseau de transport d'électricité
+    français
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000410-de71.png
   answer_image_url_text: ''
@@ -16658,7 +16650,7 @@
   validator: 2
   validation_date: '2020-06-04'
   created: '2020-05-28'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 411
   text: Quel pays de l'Union Européenne a la plus forte intensité carbone pour sa
     production d'électricité ? (intensité carbone = émissions de CO2 par unité d’énergie
@@ -16693,25 +16685,21 @@
   answer_source_accessible_url: https://usbeketrica.com/article/emissions-de-co2-issues-de-l-electricite-europe-au-plus-bas
   answer_source_accessible_url_text: Usbek & Rica - Les émissions de CO2 issues de
     l'électricité reculent en Europe à un rythme inédit
-  answer_source_scientific_url: https://www.agora-energiewende.de/fileadmin2/Projekte/2019/Jahresauswertung_EU_2019/172_A-EW_EU-Annual-Report-2019_Web.pdf#page31
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000411-a3e1.png
   answer_image_url_text: Chiffres de 2019, et évolution par rapport à 2018
-  answer_extra_info: 'image alternative: http://huet.blog.lemonde.fr/files/2019/05/le-bon-graphique.jpg
-
-
-    https://www.lemonde.fr/blog/huet/2019/05/06/electricite-et-co2-le-tableau-europeen/
-
-
-    https://www.connaissancedesenergies.org/une-carte-pour-suivre-lintensite-carbone-de-la-consommation-electrique-170613'
+  answer_extra_info: "image alternative: http://huet.blog.lemonde.fr/files/2019/05/le-bon-graphique.jpg\r\
+    \n\r\nhttps://www.lemonde.fr/blog/huet/2019/05/06/electricite-et-co2-le-tableau-europeen/\r\
+    \n\r\nhttps://www.connaissancedesenergies.org/une-carte-pour-suivre-lintensite-carbone-de-la-consommation-electrique-170613"
   author: 1
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-06-04'
   created: '2020-05-28'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 412
   text: Au plus fort de la crise du Covid-19, les émissions quotidiennes mondiales
     de CO2 ont été similaires à celles observées en...
@@ -16731,22 +16719,17 @@
   answer_choice_d: '2006'
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Au plus fort de la crise, la baisse des émissions mondiales
-    de CO2 a été de -17% par rapport à la moyenne quotidienne de 2019.
-
-    Cette baisse a été plus forte dans certains pays, comme la France avec -34%, due
-    notamment à la forte baisse du trafic routier. Étalées sur l’ensemble de l’année
-    2020, les émissions globales de carbone devraient chuter de 4 à 7% par rapport
-    à 2019.
-
-    Cette baisse est de l’ordre de grandeur de celle qui serait à maintenir chaque
-    année afin de tenir les objectifs climatiques de l’accord de Paris (2 °C et tendre
-    vers 1,5 °C, soit -3% à -7% chaque année).
-
-
-    Le fait que le monde émette autant, dans des conditions de confinement strict,
-    qu’il y a 14 ans, dans des conditions normales, souligne la croissance rapide
-    de nos émissions de CO2 ces dernières années.'
+  answer_explanation: "Au plus fort de la crise, la baisse des émissions mondiales\
+    \ de CO2 a été de -17% par rapport à la moyenne quotidienne de 2019.\r\nCette\
+    \ baisse a été plus forte dans certains pays, comme la France avec -34%, due notamment\
+    \ à la forte baisse du trafic routier. Étalées sur l’ensemble de l’année 2020,\
+    \ les émissions globales de carbone devraient chuter de 4 à 7% par rapport à 2019.\r\
+    \nCette baisse est de l’ordre de grandeur de celle qui serait à maintenir chaque\
+    \ année afin de tenir les objectifs climatiques de l’accord de Paris (2 °C et\
+    \ tendre vers 1,5 °C, soit -3% à -7% chaque année).\r\n\r\nLe fait que le monde\
+    \ émette autant, dans des conditions de confinement strict, qu’il y a 14 ans,\
+    \ dans des conditions normales, souligne la croissance rapide de nos émissions\
+    \ de CO2 ces dernières années."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -16755,7 +16738,8 @@
   answer_source_accessible_url_text: 'Covid et baisse des émissions de CO₂ : une nouvelle
     étude fait le point secteur par secteur'
   answer_source_scientific_url: https://www.nature.com/articles/s41558-020-0797-x
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Temporary reduction in daily global CO2 emissions
+    during the COVID-19 forced confinement (Le Quéré et al 2020)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000412-6fc3.png
   answer_image_url_text: ''
@@ -16766,7 +16750,7 @@
   validator: 1
   validation_date: '2020-06-04'
   created: '2020-05-28'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 413
   text: Si - hypothèse de pensée - tous les pays du monde tenaient les engagements
     pris suite à l’accord de Paris (COP21), de combien serait le réchauffement moyen
@@ -16996,7 +16980,8 @@
   answer_source_accessible_url: https://www.lemonde.fr/blog/huet/2019/12/04/368-gigatonnes-de-co2-emis-en-2019/
   answer_source_accessible_url_text: 43,1 gigatonnes de CO2 émis en 2019 – {Sciences²}
   answer_source_scientific_url: https://www.citepa.org/fr/2020_01_a09/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'EVOLUTION DE L’EMPREINTE CARBONE DES FRANÇAIS
+    : ANALYSE DU SDES'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000418-4d4b.png
   answer_image_url_text: ''
@@ -17007,7 +16992,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 419
   text: Que veut dire GIEC ?
   hint: ''
@@ -17877,10 +17862,8 @@
   created: '2020-06-24'
   updated: '2024-02-17'
 - id: 441
-  text: 'Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à
-    celles d’un Indien ?
-
-    (émissions territoriales)'
+  text: "Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à\
+    \ celles d’un Indien ?\r\n(émissions territoriales)"
   hint: L’Inde est 4 fois plus peuplée que les États-Unis, mais émet moitié moins
     de CO2.
   type: QCM
@@ -17908,7 +17891,7 @@
   answer_source_accessible_url_text: Liste des pays par émissions de dioxyde de carbone
     par habitant — Wikipédia
   answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Carbon Atlas
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000441-365b.png
   answer_image_url_text: ''
@@ -17919,7 +17902,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 442
   text: La moyenne d’émissions de gaz à effet de serre en France est de 5 tCO2/an/hab,
     mais quelle est l’empreinte totale (émissions en France + émissions délocalisées)
@@ -18938,7 +18921,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Empreinte_carbone_de_l%27électricité
   answer_source_accessible_url_text: Empreinte carbone de l'électricité — Wikipédia
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Technology-specific Cost and  Performance Parameters
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000468-dbf7.png
   answer_image_url_text: 'Émissions de gaz à effet de serre par kWh produit (en CO2
@@ -18952,7 +18935,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 469
   text: Combien la France a-t-elle de centrales produisant de l'électricité à partir
     des marées (usines marémotrices)
@@ -21426,14 +21409,12 @@
   answer_choice_d: Le nombre d'enfants
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'L''indicateur le mieux corrélé à l''empreinte carbone est le
-    niveau de revenus par habitant:  plus ce dernier est élevé, plus les émissions
-    de CO2 sont élevées.
-
-    Un revenu élevé permet en effet de plus se déplacer, se chauffer, consommer, ...
-    toutes ces activités conduisent à des augmentations d''émissions.
-
-    Cette corrélation s''observe à l''intérieur d''un pays, ou d''un pays à l''autre.'
+  answer_explanation: "L'indicateur le mieux corrélé à l'empreinte carbone est le\
+    \ niveau de revenus par habitant:  plus ce dernier est élevé, plus les émissions\
+    \ de CO2 sont élevées.\r\nUn revenu élevé permet en effet de plus se déplacer,\
+    \ se chauffer, consommer, ... toutes ces activités conduisent à des augmentations\
+    \ d'émissions.\r\nCette corrélation s'observe à l'intérieur d'un pays, ou d'un\
+    \ pays à l'autre."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -21443,7 +21424,7 @@
     \ deux fois plus dâ\x80\x99Ã©missions que la moitiÃ© la plus pauvre de lâ\x80\x99\
     humanitÃ© - Oxfam France"
   answer_source_scientific_url: https://www.lemonde.fr/blog/huet/2019/02/06/climat-et-economie-le-co2-explique-tout/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Climat et économie : le CO2 explique tout'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000531-96da.jpg
   answer_image_url_text: Émissions de CO2 par personne en fonction du niveau de PIB
@@ -21455,7 +21436,7 @@
   validator: 5
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-06-09'
+  updated: '2024-03-26'
 - id: 532
   text: Si le charbon chinois était un pays, en quelle année est-il devenu le 1er
     émetteur mondial de CO2 ?
@@ -22065,7 +22046,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://1000ideespourlacorse.files.wordpress.com/2018/10/human_running_adaptations.png?w=840
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Possible endurance running adaptations in human
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000546-384b.png
   answer_image_url_text: ''
@@ -22076,7 +22057,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 547
   text: L’Anthropocène marque le début des impacts humains à l'échelle planétaire.
     Mais à l'échelle locale, depuis combien de temps le genre Homo transforme-t-il
@@ -27041,13 +27022,11 @@
   answer_choice_d: '2018'
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Avec une chute en 2020 de 2,5 millions de barils/jour, la production
-    de pétrole brut aux États-Unis a simplement retrouvé son niveau de 2018.
-
-    13 millions de barils/jour, c''était le chiffre record avant cette chute. Les
-    États-Unis ont donc vu une baisse de presque 20% de leur production.
-
-    2,5 millions de barils/jour, c''est l''équivalent de la production du Koweït.'
+  answer_explanation: "Avec une chute en 2020 de 2,5 millions de barils/jour, la production\
+    \ de pétrole brut aux États-Unis a simplement retrouvé son niveau de 2018.\r\n\
+    13 millions de barils/jour, c'était le chiffre record avant cette chute. Les États-Unis\
+    \ ont donc vu une baisse de presque 20% de leur production.\r\n2,5 millions de\
+    \ barils/jour, c'est l'équivalent de la production du Koweït."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -27055,7 +27034,7 @@
   answer_source_accessible_url: https://www.lemonde.fr/economie/article/2020/07/14/petrole-la-fin-de-l-age-d-or-americain_6046169_3234.html
   answer_source_accessible_url_text: 'Pétrole : la fin de l’âge d’or américain'
   answer_source_scientific_url: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=wcrfpus2&f=4
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: U.S. energy information administration
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000667-4be7.png
   answer_image_url_text: ''
@@ -27066,7 +27045,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2024-03-26'
 - id: 668
   text: À quel âge un américain émet-il le plus de CO2 en moyenne ?
   hint: ''
