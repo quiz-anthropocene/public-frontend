@@ -8,7 +8,7 @@
     "Leider nicht korrekt",
     "Du kriegst es nächstes Mal hin!",
     "Gib nicht auf",
-    "Don't give up"
+    "Nicht aufgeben"
   ],
   "QUESTION_SUCCESS_MESSAGES": [
     "Richtig!",
@@ -99,7 +99,7 @@
     "contribute": "Beitragen",
     "creativeCommons": "Creative Commons Lizenz",
     "glossary": "Glossar",
-    "home": "Home",
+    "home": "Zuhause",
     "language": "Sprache",
     "license": "Lizenz",
     "resources": "Ressourcen",
@@ -206,7 +206,7 @@
     "startQuiz": "Starten Sie das Quiz!",
     "submit": "Eimrechen",
     "suggestion": "Ihr Vorschlag",
-    "tag": "Tag",
+    "tag": "Markierung",
     "tags": "Tags",
     "thankYou": "Vielen Dank",
     "thanks": "Danke",
