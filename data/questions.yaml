@@ -2976,10 +2976,10 @@
   - 216
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 2 tonnes
-  answer_choice_b: 5 tonnes
-  answer_choice_c: 9 tonnes
-  answer_choice_d: 18 tonnes
+  answer_choice_a: environ 2 tonnes
+  answer_choice_b: environ 5 tonnes
+  answer_choice_c: environ 10 tonnes
+  answer_choice_d: environ 18 tonnes
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Elle décroît très légèrement depuis 2000. L'objectif de la COP21
@@ -3007,7 +3007,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-28'
+  updated: '2024-03-28'
 - id: 72
   text: En émissions sur le territoire national, lequel de ces secteurs émet le plus
     de gaz à effet de serre en France ?
@@ -9529,7 +9529,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2022-04-16'
+  updated: '2024-03-28'
 - id: 234
   text: Quel pays en Europe émet le plus de gaz à effet de serre par habitant ?
   hint: ''
@@ -15868,7 +15868,7 @@
   updated: '2022-04-16'
 - id: 392
   text: Quelle est l'empreinte carbone totale (fabrication, utilisation, rebut) d'un
-    smartphone comme un Iphone 11 ?
+    smartphone comme un iphone 11 ?
   hint: ''
   type: QCM
   category: 2
@@ -15886,8 +15886,12 @@
   has_ordered_answers: true
   answer_explanation: Sur toute sa durée de vie, un iPhone 11 émettra environ 72 kg
     d’équivalent CO2, soit environ autant que 500 km en voiture. 80% de ces émissions
-    sont liées à la production du téléphone et 17% à son utilisation. En 2019, ce
-    sont 14 milliards de smartphones qui ont été produits.
+    sont liées à la production du téléphone et 17% à son utilisation. A date de 2019,
+    ce sont 14 milliards de smartphones qui ont été produits en cumulé à travers le
+    monde. A noter au passage A noter que l'empreinte liée à la mise au rebut est
+    très limitée (3%). Ceci s'explique probablement par le faible recyclage des smartphones.
+    Actuellement plus de 100 millions de smartphones inutilisés "dorment" au domicile
+    des français !
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -15908,7 +15912,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-12-04'
+  updated: '2024-03-28'
 - id: 393
   text: En France, quel secteur dépasse 30% du total des émissions de gaz à effet
     de serre ?
@@ -17552,8 +17556,8 @@
     région, les équipes sont constituées d’une variété d’auteurs provenant de diverses
     régions et de pays développés comme de pays en développement. Des experts du secteur
     industriel et d’organisations à but non lucratif, qui apportent une perspective
-    utile à l’évaluation, peuvent également faire partie des équipes. La parité homme-femme
-    reste encore un problème, avec 30% de femmes seulement.
+    utile à l’évaluation peuvent également être consultés. La parité homme-femme reste
+    encore un problème, avec 30% de femmes seulement.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -17573,7 +17577,7 @@
   validator: 2
   validation_date: '2022-11-14'
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2024-03-28'
 - id: 434
   text: Est-ce que vous avez le droit de publier un article scientifique sans être
     scientifique ?
@@ -31527,7 +31531,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0df9376d.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b2fceff9.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 25
@@ -31536,7 +31540,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-19'
+  updated: '2024-03-28'
 - id: 767
   text: Vrai ou faux ? La fonte de la banquise (la glace qui flotte) fait monter le
     niveau de l'océan.
@@ -45575,13 +45579,14 @@
   answer_choice_b: 1. Dioxyde de carbone 2. Méthane 3. Protoxyde d'azote
   answer_choice_c: 1. Dioxyde de carbone 2. Vapeur d'eau 3. Ozone
   answer_choice_d: 1. Dioxyde de carbone 2. Méthane 3. Ozone
-  answer_correct: a
+  answer_correct: d
   has_ordered_answers: true
   answer_explanation: Cette question contenait un petit piège. Il n'y était pas question
     du renforcement de l'effet de serre (réchauffement climatique), mais de l'effet
     de serre dans sa totalité (d'origine naturelle et anthropique). Ainsi, la vapeur
     d'eau arrive en tête. Sa contribution à l'effet de serre est entre 2 et 3 fois
-    supérieure à celle du dioxyde de carbone (CO2), lui-même devant le méthane.
+    supérieure à celle du dioxyde de carbone (CO2), lui-même devant l'ozone puis le
+    méthane.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -45601,7 +45606,7 @@
   validator: 55
   validation_date: '2023-02-15'
   created: '2023-02-02'
-  updated: '2023-02-15'
+  updated: '2024-03-28'
 - id: 1120
   text: Vrai ou faux ? La vapeur d'eau émise par les activités humaines au niveau
     du sol (hors émission par les avions dans la haute atmosphère) contribue au réchauffement
