@@ -4111,11 +4111,9 @@
   created: '2020-04-26'
   updated: '2022-11-29'
 - id: 98
-  text: 'Les microplastiques sont des fines particules rejetées par l''usure des pneus,
-    le lavage de vêtements synthétiques, les peintures, ...
-
-    Quelle quantité de microplastiques finit sa course dans les océans du monde tous
-    les ans ?'
+  text: "Les microplastiques sont des fines particules rejetées par l'usure des pneus,\
+    \ le lavage de vêtements synthétiques, les peintures, ...\r\nQuelle quantité de\
+    \ microplastiques finit sa course dans les océans du monde tous les ans ?"
   hint: ''
   type: QCM
   category: 3
@@ -4129,26 +4127,20 @@
   answer_choice_d: 15 millions de tonnes (2 kg par habitant)
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Les rejets mondiaux de microplastiques primaires dans les océans
-    ont été estimés à 1,5 millions de tonnes par an. Ce chiffre mondial correspond
-    à 212 grammes par personne, soit l’équivalent, dans le monde, d’un sac d’épicerie
-    vide jeté dans l’océan chaque semaine par chaque habitant.
-
-
-    On parle ici de microplastiques primaires, c’est-à-dire les particules de plastique
-    d’une taille inférieure à 5 mm qui se retrouvent directement dans l’environnement.
-
-    Ils se distinguent des microplastiques secondaires, qui proviennent principalement
-    de la dégradation due à leur exposition à l’environnement marin, de déchets en
-    plastique plus volumineux.
-
-
-    Les microplastiques primaires peuvent être volontairement ajoutés à des produits,
-    comme certains agents exfoliants incorporés dans des cosmétiques (gels douche,
-    crèmes, etc ) ou ils peuvent résulter de l’abrasion d’objets en plastique plus
-    gros, au cours de leur fabrication, de leur utilisation ou de leur entretien,
-    comme l’usure des pneus sur les routes ou celle des textiles synthétiques pendant
-    le lavage.'
+  answer_explanation: "Les rejets mondiaux de microplastiques primaires dans les océans\
+    \ ont été estimés à 1,5 millions de tonnes par an. Ce chiffre mondial correspond\
+    \ à 212 grammes par personne, soit l’équivalent, dans le monde, d’un sac d’épicerie\
+    \ vide jeté dans l’océan chaque semaine par chaque habitant.\r\n\r\nOn parle ici\
+    \ de microplastiques primaires, c’est-à-dire les particules de plastique d’une\
+    \ taille inférieure à 5 mm qui se retrouvent directement dans l’environnement.\r\
+    \nIls se distinguent des microplastiques secondaires, qui proviennent principalement\
+    \ de la dégradation due à leur exposition à l’environnement marin, de déchets\
+    \ en plastique plus volumineux.\r\n\r\nLes microplastiques primaires peuvent être\
+    \ volontairement ajoutés à des produits, comme certains agents exfoliants incorporés\
+    \ dans des cosmétiques (gels douche, crèmes, etc ) ou ils peuvent résulter de\
+    \ l’abrasion d’objets en plastique plus gros, au cours de leur fabrication, de\
+    \ leur utilisation ou de leur entretien, comme l’usure des pneus sur les routes\
+    \ ou celle des textiles synthétiques pendant le lavage."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -4156,7 +4148,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://portals.iucn.org/library/sites/library/files/documents/2017-002-Fr.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Microplastiques primaires  dans les océans -
+    UICN
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000098-7d21.jpeg
   answer_image_url_text: ''
@@ -4167,7 +4160,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 99
   text: Quelle est la méthode la plus répandue de stockage d'électricité ?
   hint: ''
@@ -5628,7 +5621,8 @@
   answer_source_accessible_url_text: 'Energies renouvelables : où en est la France
     ? - Capital.fr'
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-35-cc-des-energies-renouvelables-edition-2018-mai2018-c.pdf#page7
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés des énergies renouvelables  Édition
+    2018 - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000135-1802.png
   answer_image_url_text: ''
@@ -5640,7 +5634,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-02-05'
+  updated: '2024-04-02'
 - id: 136
   text: Dans les transports intérieurs de voyageurs en France, quelle est la part
     du transport ferré (train+métro+RER) ?
@@ -5667,22 +5661,19 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-31-chiffres-cles-transport-mars2018-c.pdf#page20
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés du transport  Édition 2018 - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000136-8e1b.png
   answer_image_url_text: ''
-  answer_extra_info: 'images alternatives:
-
-    - https://www.lagazettedescommunes.com/wp-content/uploads/2018/12/repar-trafic-interieur.jpg
-
-    - https://www.deplacementspros.com/photo/art/default/6075753-9067519.jpg'
+  answer_extra_info: "images alternatives:\r\n- https://www.lagazettedescommunes.com/wp-content/uploads/2018/12/repar-trafic-interieur.jpg\r\
+    \n- https://www.deplacementspros.com/photo/art/default/6075753-9067519.jpg"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 137
   text: Les gaz à effet de serre qui s'accumulent sous l'action des activités humaines
     réchauffent la planète. Quelle part de l'énergie bloquée par ces gaz à effet de
@@ -5712,7 +5703,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter03_FINAL.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Observations: Ocean- IPCC report 2018'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000137-df79.png
   answer_image_url_text: 'Où va cette énergie : eaux superficielles, eaux profondes,
@@ -5724,7 +5715,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 138
   text: Depuis sa création, combien de rapports d'évaluation ont été publiés par le
     GIEC ?
@@ -5751,7 +5742,7 @@
   answer_source_accessible_url_text: Groupe d'experts intergouvernemental sur l'évolution
     du climat — Wikipédia
   answer_source_scientific_url: https://www.ipcc.ch/reports/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: IPCC reports
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7a549002.png
   answer_image_url_text: ''
@@ -5762,7 +5753,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-02-07'
+  updated: '2024-04-02'
 - id: 139
   text: Lequel de ces gaz contribue le plus à l’effet de serre ?
   hint: ''
@@ -5865,7 +5856,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/%C3%89nergie_en_Su%C3%A8de#Ressources_%C3%A9nerg%C3%A9tiques
   answer_source_accessible_url_text: Énergie en Suède — Wikipédia
   answer_source_scientific_url: http://www.energimyndigheten.se/en/news/2019/energy-in-sweden---facts-and-figures-2019-available-now/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Energy in Sweden - Facts and Figures 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000141-2d0a.jpg
   answer_image_url_text: ''
@@ -5876,7 +5867,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 142
   text: En France, quelle est la part des forêts et des milieux semi-naturels (arbustes,
     herbes) dans le territoire métropolitain ?
@@ -5945,24 +5936,21 @@
   answer_source_accessible_url_text: Le taux de CO2 dans l’atmosphère est au plus
     haut depuis 3 millions d’années
   answer_source_scientific_url: https://www.nature.com/articles/ncomms14845
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Future climate forcing potentially without precedent
+    in the last 420 million years (Foster et al 2017)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000143-4b58.png
   answer_image_url_text: ''
-  answer_extra_info: 'Réponse initiale: Il y a 20 millions d’années.
-
-
-    Image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/041.jpg
-
-
-    Image alternative: http://www.illustratedcuriosity.com/files/media/39990/wmo.jpg'
+  answer_extra_info: "Réponse initiale: Il y a 20 millions d’années.\r\n\r\nImage\
+    \ originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/041.jpg\r\
+    \n\r\nImage alternative: http://www.illustratedcuriosity.com/files/media/39990/wmo.jpg"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 144
   text: Le pipeline Nord Stream est un gazoduc de 1200km reliant la Russie à l'Allemagne.
     Quelle est sa capacité annuelle ?
@@ -6223,19 +6211,20 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/Datalab-25-menages-environnement-cc-ed-2017-oct2017-b.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Ménages & Environnement Les chiffres clés – Édition
+    2017 - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000150-d39d.jpg
   answer_image_url_text: ''
-  answer_extra_info: "images alternatives: \n- https://pbs.twimg.com/media/DN6nizmUQAAGXwY.jpg\n\
-    - https://jancovici.com/wp-content/uploads/2010/01/assiette_graph5_en.png"
+  answer_extra_info: "images alternatives: \r\n- https://pbs.twimg.com/media/DN6nizmUQAAGXwY.jpg\r\
+    \n- https://jancovici.com/wp-content/uploads/2010/01/assiette_graph5_en.png"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 151
   text: Quel est le potentiel de réchauffement global sur 100 ans du gaz hexafluorure
     de soufre (formule SF6) utilisé dans l’industrie comparé à celui du CO2 ?
@@ -6265,7 +6254,8 @@
   answer_source_accessible_url_text: 'Gaz fluorés : les sources d’émissions et les
     impacts – Ademe'
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-12/datalab-46-chiffres-cles-du-climat-edition-2019-novembre2018_1.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés du climat  France, Europe et Monde
+    - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000151-8c8e.png
   answer_image_url_text: ''
@@ -6276,7 +6266,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 152
   text: En France, quelle a été l’année la plus chaude depuis le début du 20ème siècle
     jusqu'en 2019 ?
@@ -6303,7 +6293,7 @@
   answer_source_accessible_url: https://www.lemonde.fr/les-decodeurs/article/2019/01/08/2018-quatrieme-annee-la-plus-chaude-dans-le-monde-la-plus-chaude-en-france-et-dans-votre-ville_5406370_4355770.html
   answer_source_accessible_url_text: 2018, quatrième année la plus chaude dans le
     monde, la plus chaude en France. Et dans votre ville ?
-  answer_source_scientific_url: http://www.meteofrance.fr/actualites/78251648-france-2019-au-3e-rang-des-annees-les-plus-chaudes
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000152-193f.png
@@ -6315,7 +6305,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 153
   text: Quelle est la part du pétrole et gaz (en tonnage) dans le commerce maritime
     international ?
@@ -6426,22 +6416,19 @@
   answer_source_accessible_url: https://www.lepoint.fr/monde/ormuz-le-detroit-ou-tremble-le-monde-31-07-2019-2327820_24.php
   answer_source_accessible_url_text: Ormuz, le détroit où tremble le monde - Le Point
   answer_source_scientific_url: https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: WORLD OIL TRANSIT CHOKEPOINTS - EIA
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000155-2c36.jpg
   answer_image_url_text: Basé sur des chiffres de 2016.
-  answer_extra_info: 'images alternatives:
-
-    - https://cdn.statcdn.com/Infographic/images/normal/18367.jpeg
-
-    - https://media.lesechos.com/api/v1/images/view/5d0247ee8fe56f268c7e7557/contenu_article/image.jpg'
+  answer_extra_info: "images alternatives:\r\n- https://cdn.statcdn.com/Infographic/images/normal/18367.jpeg\r\
+    \n- https://media.lesechos.com/api/v1/images/view/5d0247ee8fe56f268c7e7557/contenu_article/image.jpg"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 156
   text: Les pétroliers de classe ULCC (Ultra Large Crude Carrier) sont ceux dont la
     capacité de transport excède 320 000 tonnes. Quelle est leur consommation moyenne
@@ -7256,12 +7243,10 @@
   answer_choice_d: 33 %
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Le méthane représente 13% des émissions françaises de gaz à
-    effet de serre (en équivalent CO2).
-
-
-    70% de ce méthane provient de l''agriculture (fermentation entérique des animaux,
-    bovins, ovins, ...), et 25% provient de la gestion des déchets.'
+  answer_explanation: "Le méthane représente 13% des émissions françaises de gaz à\
+    \ effet de serre (en équivalent CO2).\r\n\r\n70% de ce méthane provient de l'agriculture\
+    \ (fermentation entérique des animaux, bovins, ovins, ...), et 25% provient de\
+    \ la gestion des déchets."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -7269,7 +7254,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-12/datalab-46-chiffres-cles-du-climat-edition-2019-novembre2018_1.pdf#page36
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés du climat  France, Europe et Monde
+    - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000176-a19b.png
   answer_image_url_text: ''
@@ -7280,7 +7266,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 177
   text: Quelle est la quantité de gaz à effet de serre émise pour la production d’un
     œuf ? (moyenne française pour un œuf moyen-gros de 60g)
@@ -7346,7 +7332,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/issue-briefings/deepwater-horizon-accident-investigation-report.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Deepwater horizon accident investigation report
+    - BP
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000178-4250.jpg
   answer_image_url_text: ''
@@ -7357,7 +7344,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 179
   text: Combien y a-t-il de véhicules à moteur en circulation dans l’Union Européenne
     ?
@@ -7425,7 +7412,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Transport - IPCC report 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000180-9c03.jpg
   answer_image_url_text: ''
@@ -7436,7 +7423,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 181
   text: L’albédo est le pouvoir réfléchissant d'une surface, et varie de 0 (corps
     noir parfait) à 1 (miroir parfait). Quel est l’albédo moyen de la terre ?
@@ -7578,7 +7565,7 @@
   answer_source_accessible_url_text: Combien pèse l’énergie dans notre budget ? –
     Libération
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf#page13
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000184-0d4f.jpg
   answer_image_url_text: ''
@@ -7589,7 +7576,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 185
   text: L’activité solaire varie de façon cyclique. Quelle est la durée (période)
     de ces cycles ?
@@ -8582,7 +8569,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/consommation-denergie-des-menages?rubrique=20
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Consommation d’énergie des ménages
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000210-bbe1.jpg
   answer_image_url_text: ''
@@ -8593,7 +8580,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 211
   text: En France, quelle est la part des tracteurs et engins à moteur dans la consommation
     d’énergie de l’agriculture ?
@@ -8964,7 +8951,8 @@
   answer_source_accessible_url_text: Neutralité carbone, la France a de gros efforts
     à faire
   answer_source_scientific_url: https://di.unfccc.int/detailed_data_by_party
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Greenhouse Gas Inventory Data - Detailed data
+    by Party - UN Climate Change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000220-f736.png
   answer_image_url_text: Les chiffres de la Stratégie Nationale Bas-Carbone (SNBC)
@@ -8977,7 +8965,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 221
   text: Quelle proportion des communes françaises sont classées à risque feux de forêts
     ?
@@ -9032,7 +9020,7 @@
   answer_choice_a: La variation du niveau de l'océan
   answer_choice_b: Les variations de l'orbite terrestre
   answer_choice_c: Les variations de CO2
-  answer_choice_d: 'Les émissions de CO2 d''origine humaine '
+  answer_choice_d: Les émissions de CO2 d'origine humaine
   answer_correct: b
   has_ordered_answers: false
   answer_explanation: 'Les glaciations et déglaciations sont déclenchées par des variations
@@ -9048,7 +9036,7 @@
   answer_source_accessible_url_text: Mieux comprendre le phénomène de déglaciation
     | UCLouvain
   answer_source_scientific_url: http://la.climatologie.free.fr/glaciation/glaciation.htm
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: GLACIATIONS ET INTERGLACIATONS
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000222-2ce5.jpeg
   answer_image_url_text: ''
@@ -9059,7 +9047,7 @@
   validator: 5
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 223
   text: L'effet de serre se traduit par plus d'énergie emprisonnée sur terre. Quelle
     proportion de cette énergie additionnelle se retrouve dans l'atmosphère ?
@@ -9166,7 +9154,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://youtu.be/n3LyVbGUFu4?t=1320
-  answer_video_url_text: ''
+  answer_video_url_text: Gaël Giraud - L'effet "reine rouge"
   answer_source_accessible_url: https://www.demographie-responsable.org/l-empreinte-ecologique.html
   answer_source_accessible_url_text: L'empreinte écologique
   answer_source_scientific_url: ''
@@ -9181,7 +9169,7 @@
   validator: 2
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 226
   text: Le 25 juillet 2019, le record de trafic aérien a été battu. Combien d'avions
     ont volé ce jour-là ?
@@ -9209,10 +9197,11 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.businessinsider.fr/us/most-flights-ever-225000-flightradar24-flight-tracking-2019-7
-  answer_source_accessible_url_text: Insider
+  answer_source_accessible_url: https://www.businessinsider.com/most-flights-ever-225000-flightradar24-flight-tracking-2019-7
+  answer_source_accessible_url_text: Wednesday was one of the busiest recorded days
+    in aviation history — and it's going to keep getting busier
   answer_source_scientific_url: https://www.flightradar24.com/blog/flightradar24s-2019-by-the-numbers/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Flightradar24’s 2019 by the numbers
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000226-72e0.jpg
   answer_image_url_text: ''
@@ -9223,7 +9212,7 @@
   validator: 2
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 227
   text: Quelle est la part en tonnage du transport maritime dans le commerce mondial
     ?
@@ -9255,7 +9244,7 @@
   answer_source_accessible_url_text: 'Planetoscope - Statistiques : Marchandises transport�es
     par voie maritime dans le monde'
   answer_source_scientific_url: https://unctad.org/en/PublicationsLibrary/rmt2015_en.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Review of maritime transport 2015 - UNCTAD
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000227-94f3.jpg
   answer_image_url_text: ''
@@ -9266,7 +9255,7 @@
   validator: 2
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 228
   text: En 2018, combien y-a-t-il eu de passagers aériens dans le monde ?
   hint: ''
@@ -9340,7 +9329,8 @@
   answer_source_accessible_url_text: Catastrophes naturelles, guerres... Le nombre
     de personnes déplacées dans leur propre pays n'a jamais été aussi élevé
   answer_source_scientific_url: https://www.internal-displacement.org/global-report/grid2019/french.html
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Rapport mondial sur le déplacement interne 2019
+    - IDMC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000229-c880.png
   answer_image_url_text: ''
@@ -9351,7 +9341,7 @@
   validator: 2
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 230
   text: 'Le rendement d’un moteur est le rapport entre l’énergie mécanique en sortie
     et l’énergie fournie en entrée au moteur.
@@ -9399,10 +9389,8 @@
   created: '2020-05-07'
   updated: '2022-04-16'
 - id: 231
-  text: 'Vrai ou Faux ?
-
-    Le GIEC (Groupe Intergouvernemental d''Experts sur l''Evolution du Climat) a reçu
-    un prix Nobel de la paix.'
+  text: "Vrai ou Faux ?\r\nLe GIEC (Groupe Intergouvernemental d'Experts sur l'Evolution\
+    \ du Climat) a reçu un prix Nobel de la paix."
   hint: ''
   type: VF
   category: 6
@@ -9416,15 +9404,12 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'En 2007, l''ancien vice-président américain Al Gore et le GIEC
-    (représenté par son président Rajendra K. Pachauri, décédé en 2020) ont obtenu
-    le prix Nobel de la paix.
-
-
-    Le prix leur fut conjointement décerné pour « leurs efforts de collecte et de
-    diffusion des connaissances sur les changements climatiques provoqués par l''homme
-    et pour avoir posé les fondements pour les mesures nécessaires à la lutte contre
-    ces changements ».'
+  answer_explanation: "En 2007, l'ancien vice-président américain Al Gore et le GIEC\
+    \ (représenté par son président Rajendra K. Pachauri, décédé en 2020) ont obtenu\
+    \ le prix Nobel de la paix.\r\n\r\nLe prix leur fut conjointement décerné pour\
+    \ « leurs efforts de collecte et de diffusion des connaissances sur les changements\
+    \ climatiques provoqués par l'homme et pour avoir posé les fondements pour les\
+    \ mesures nécessaires à la lutte contre ces changements »."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -9432,7 +9417,7 @@
   answer_source_accessible_url: http://www.assemblee-nationale.fr/12/controle/delat/dates_cles/prix_nobel_2007.asp
   answer_source_accessible_url_text: Al Gore et le Giec prix Nobel de la paix 2007
   answer_source_scientific_url: https://www.nobelprize.org/prizes/peace/2007/summary/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The Nobel Peace Prize 2007
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000231-1756.jpg
   answer_image_url_text: L'ancien vice-président américain Al Gore (à gauche) et l'Indien
@@ -9445,7 +9430,7 @@
   validator: 5
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2023-02-07'
+  updated: '2024-04-02'
 - id: 232
   text: 'Quelle personnalité française a dit en 2017 « Pas besoin de faire de catastrophisme
     : la situation est catastrophique » ?'
@@ -9518,7 +9503,7 @@
   answer_source_accessible_url_text: Le méthane en augmentation dans l'atmosphère
     | CNRS Le journal
   answer_source_scientific_url: http://www.globalcarbonatlas.org/en/CH4-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global Carbon Atlas
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000233-26e9.png
   answer_image_url_text: ''
@@ -9529,7 +9514,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2024-03-28'
+  updated: '2024-04-02'
 - id: 234
   text: Quel pays en Europe émet le plus de gaz à effet de serre par habitant ?
   hint: ''
@@ -9553,7 +9538,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.wort.lu/fr/luxembourg/le-luxembourg-emet-toujours-plus-de-co2-5cd2f6c9da2cc1784e343b60
   answer_source_accessible_url_text: Le Luxembourg émet toujours plus de CO2
-  answer_source_scientific_url: https://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=t2020_rd300&language=en&toolbox=sort
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000234-df06.jpeg
@@ -9565,7 +9550,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 235
   text: Quel est le pays de l'Union Européenne qui émet le plus de gaz à effet de
     serre ?
@@ -9593,7 +9578,7 @@
   answer_source_accessible_url_text: L’UE a réduit ses émissions de CO2 en 2018, mais
     en ordre dispersé
   answer_source_scientific_url: https://ec.europa.eu/eurostat/documents/2995521/9779955/8-08052019-AP-FR.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Communiqué de presse 2018 - Eurostat
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000235-8596.jpg
   answer_image_url_text: ''
@@ -9604,13 +9589,12 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 236
-  text: 'En 2019, l''Agence internationale de l''énergie a publié un rapport sur les
-    émissions nationales de CO2 liées à l''énergie. La moyenne mondiale annuelle par
-    habitant est estimée à 4,37 tonnes de CO2.
-
-    Comment la France se situe-t-elle par rapport à cette moyenne ?'
+  text: "En 2019, l'Agence internationale de l'énergie a publié un rapport sur les\
+    \ émissions nationales de CO2 liées à l'énergie. La moyenne mondiale annuelle\
+    \ par habitant est estimée à 4,37 tonnes de CO2.\r\nComment la France se situe-t-elle\
+    \ par rapport à cette moyenne ?"
   hint: ''
   type: VF
   category: 5
@@ -9634,8 +9618,8 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Liste_des_pays_par_%C3%A9missions_de_dioxyde_de_carbone
   answer_source_accessible_url_text: Liste des pays par émissions de dioxyde de carbone
     — Wikipédia
-  answer_source_scientific_url: https://www.iea.org/reports/co2-emissions-from-fuel-combustion-2019
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.iea.org/data-and-statistics/charts/fuel-share-of-co2-emissions-from-fuel-combustion-2019
+  answer_source_scientific_url_text: Emissions from fuel combustion 2019 - IEA
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000236-e141.png
   answer_image_url_text: ''
@@ -9646,7 +9630,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 237
   text: Quelle est la profondeur moyenne des océans ?
   hint: ''
@@ -10352,7 +10336,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf#page45
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000254-4032.jpg
   answer_image_url_text: ''
@@ -10363,7 +10347,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 255
   text: Quelle est la première énergie utilisée en Suisse ? (énergie utilisée = énergie
     primaire)
@@ -10429,7 +10413,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/impacts-du-changement-climatique-agriculture-et-foret
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Impacts du changement climatique : Agriculture
+    et Forêt'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000256-41b6.jpg
   answer_image_url_text: ''
@@ -10440,7 +10425,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 257
   text: Si tous les habitants de la planète émettaient autant de CO2 que les Canadiens,
     à combien seraient les émissions mondiales ?
@@ -10750,7 +10735,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/impacts-du-changement-climatique-sante-et-societe
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Impacts du changement climatique : Santé et
+    Société'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000264-0f06.jpg
   answer_image_url_text: ''
@@ -10761,7 +10747,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 265
   text: En France, quelle est la part des produits pétroliers qui est utilisée pour
     des usages non énergétiques ?
@@ -10980,7 +10966,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-28-bilan-physique-monetaire-charbon-janvier2018.pdf#page14
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Bilan physique et monétaire du charbon 2011-2015
+    - DATALAB
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000270-104c.jpg
   answer_image_url_text: ''
@@ -10991,7 +10978,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 271
   text: Combien de pays sont membres du GIEC ?
   hint: ''
@@ -11801,7 +11788,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.eia.gov/coal/annual/pdf/acr.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Annual Coal Report 2022 - EIA
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000291-5882.jpg
   answer_image_url_text: ''
@@ -11812,7 +11799,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 292
   text: Dans le monde, quelle part du trafic ferroviaire de passagers est électrifié
     ?
@@ -12407,21 +12394,19 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/sites/default/files/ONERC_FichesIndicateur_Glacier.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Bilan de masse  du glacier d’Ossoue - ONERC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000306-8bb6.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/190a.jpg
-
-
-    https://twitter.com/laydgeur/status/1182944388009418752'
+  answer_extra_info: "image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/190a.jpg\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1182944388009418752"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 307
   text: En 2019, combien y avait-t-il d’éoliennes installées en France ?
   hint: ''
@@ -12448,22 +12433,20 @@
   answer_source_accessible_url: https://www.20minutes.fr/planete/2625611-20191014-energies-renouvelables-eolien-francais-pret-passer-vitesse-superieure
   answer_source_accessible_url_text: 'Énergies renouvelables : L’éolien français est-il
     prêt à passer à la vitesse supérieure ?'
-  answer_source_scientific_url: https://fee.asso.fr/pub/observatoire-de-leolien-2019#page15
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.alterric-france.fr/sites/default/files/observatoire-2019.pdf
+  answer_source_scientific_url_text: Observatoire de l'éolien 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000307-eee7.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/191.jpg
-
-
-    https://twitter.com/laydgeur/status/1183823706918924288'
+  answer_extra_info: "image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/191.jpg\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1183823706918924288"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 308
   text: En quelle année a été inauguré la première ligne de chemin fer voyageurs en
     France ?
@@ -12771,8 +12754,9 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.unicef.org/publications/files/Unless_we_act_now_The_impact_of_climate_change_on_children.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.unicef.org/sites/default/files/2019-02/Unless_we_act_now_Executive_summary-FR.pdf
+  answer_source_scientific_url_text: Il est temps d'agir, Conséquences du changement
+    climatique sur les enfants - UNICEF
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000315-b9f9.jpg
   answer_image_url_text: ''
@@ -12783,7 +12767,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 316
   text: Quelle est la dernière année où les émissions des Français ont été inférieures
     à 2 tonnes de CO2 par habitant ? (2 tonnes par an et par habitant, c'est l'objectif
@@ -13889,25 +13873,21 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/09_SROCC_Ch05_FINAL-1.pdf#page450
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Changing Ocean,  Marine Ecosystems, and  Dependent
+    Communities
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000343-0480.png
   answer_image_url_text: ''
-  answer_extra_info: 'images originales:
-
-    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/227a.jpg
-
-    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/227b.jpg
-
-
-    https://twitter.com/laydgeur/status/1204505503704989704'
+  answer_extra_info: "images originales:\r\n- https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/227a.jpg\r\
+    \n- https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/227b.jpg\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1204505503704989704"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 344
   text: Quel est le premier pays exportateur mondial de charbon ?
   hint: ''
@@ -14099,7 +14079,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.eea.europa.eu/data-and-maps/figures/overview-of-national-and-sectoral-3
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Overview of national climate change adaptation
+    strategies and plans in Europe
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000348-bb89.jpg
   answer_image_url_text: ''
@@ -14110,7 +14091,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 349
   text: La compagnie pétrolière Shell est la plus grande entreprise énergétique au
     monde. Dans quel pays se trouve leur plus grande station service ?
@@ -14179,7 +14160,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: National Inventory Submissions 2019 - UN Climate
+    Change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000350-7c11.jpg
   answer_image_url_text: ''
@@ -14190,7 +14172,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 351
   text: Entre la première question de ce quiz le 7 janvier et aujourd’hui, combien
     de CO2 a été émis dans le monde ?
@@ -14375,8 +14357,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-up-zero-point-six-per-cent-in-2019-due-to-china
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.iea.org/reports/coal-2019
+  answer_source_scientific_url_text: Coal 2019 - IEA
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000355-b670.jpg
   answer_image_url_text: ''
@@ -14387,7 +14369,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 356
   text: Au niveau mondial, quelle est la place de 2019 dans le classement des années
     les plus chaudes depuis le début des observations ?
@@ -14406,9 +14388,9 @@
   answer_choice_d: 4ème
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Avec une température mondiale moyenne de +1,22°C par rapport
+  answer_explanation: Avec une température mondiale moyenne de +1,22°C par rapport
     à l’ère préindustrielle, 2019 est la 2ème année la plus chaude jamais observée,
-    derrière 2016. 2019 a été l''année la plus chaude jamais enregistrée en Europe. '
+    derrière 2016. 2019 a été l'année la plus chaude jamais enregistrée en Europe.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -14416,8 +14398,8 @@
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2020/01/08/2019-deuxieme-annee-la-plus-chaude-dans-le-monde_6025193_3244.html
   answer_source_accessible_url_text: 2019 a été la deuxième année la plus chaude dans
     le monde
-  answer_source_scientific_url: http://www.meteofrance.fr/actualites/78484941-monde-2019-2e-annee-la-plus-chaude
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://meteofrance.fr/actualite/publications/les-publications-de-meteo-france/2019-les-bilans-climatiques
+  answer_source_scientific_url_text: Bilans climatiques 2019 - Meteo France
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000356-d211.jpg
   answer_image_url_text: ''
@@ -14428,7 +14410,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 357
   text: Quelle est la région française qui fournit le plus de bois ? (tous bois confondus)
   hint: ''
@@ -14571,14 +14553,12 @@
   answer_choice_d: Japon
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'Dans le monde, un seul pays (autre que les États-Unis) produit
-    plus d’électricité que les centrales à gaz américaines : la Chine.
-
-
-    Les seules centrales à gaz des États-Unis ont donc produit plus d''électricité
-    que la totalité de l’Inde et ses 1,3 milliards d’habitants, la totalité Russie,
-    ou encore la totalité du Japon (respectivement 3ème, 4ème et 5ème producteur d''électricité
-    mondial).'
+  answer_explanation: "Dans le monde, un seul pays (autre que les États-Unis) produit\
+    \ plus d’électricité que les centrales à gaz américaines : la Chine.\r\n\r\nLes\
+    \ seules centrales à gaz des États-Unis ont donc produit plus d'électricité que\
+    \ la totalité de l’Inde et ses 1,3 milliards d’habitants, la totalité Russie,\
+    \ ou encore la totalité du Japon (respectivement 3ème, 4ème et 5ème producteur\
+    \ d'électricité mondial)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -14586,7 +14566,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-full-report.pdf#page56
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: BP Statistical Review  of World Energy 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000360-8876.jpg
   answer_image_url_text: ''
@@ -14597,7 +14577,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 361
   text: En 40 ans, quelle a été la diminution de la surface de la banquise arctique
     (mesurée à la fin de l'été) ?
@@ -14630,7 +14610,7 @@
   answer_source_accessible_url_text: L'Antarctique a perdu autant d'étendue de banquise
     en 3 ans que l'Arctique en 35 ans - Numerama
   answer_source_scientific_url: https://seaice.uni-bremen.de/sea-ice-concentration/amsre-amsr2/time-series/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Sea Ice Remote Sensing - Unversitat Bremen
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000361-81dc.jpg
   answer_image_url_text: ''
@@ -14641,7 +14621,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 362
   text: Dans le monde, quelle est la part du charbon dans les émissions de gaz à effet
     de serre dues à l'homme ?
@@ -14669,7 +14649,7 @@
   answer_source_accessible_url: https://www.connaissancedesenergies.org/emissions-mondiales-de-co2-etat-des-lieux-160404
   answer_source_accessible_url_text: 'Émissions mondiales de CO2 : état des lieux
     par source et par pays'
-  answer_source_scientific_url: https://guidehouse.com/insights/energy/2019/coal-responsible-for-quarter-of-global-emissions
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000362-1d4a.jpg
@@ -14681,7 +14661,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 363
   text: Si l'aviation commerciale mondiale (passagers + fret) était un pays, quelle
     serait son classement dans les émissions de CO2 ?
@@ -14710,21 +14690,20 @@
   answer_source_accessible_url_text: 'Pollution aérienne : le nombre de passagers
     va doubler d''ici 2040 - Détours'
   answer_source_scientific_url: https://theicct.org/publications/co2-emissions-commercial-aviation-2018
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: CO2 EMISSIONS FROM COMMERCIAL AVIATION, 2018
+    - ICCT
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000363-4011.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'lien alternatif (article abonné): https://www.lemonde.fr/planete/article/2019/09/20/ce-qu-il-faut-savoir-sur-la-pollution-generee-par-le-trafic-aerien_6012443_3244.html
-
-
-    https://twitter.com/laydgeur/status/1219734466240950273'
+  answer_extra_info: "lien alternatif (article abonné): https://www.lemonde.fr/planete/article/2019/09/20/ce-qu-il-faut-savoir-sur-la-pollution-generee-par-le-trafic-aerien_6012443_3244.html\r\
+    \n\r\nhttps://twitter.com/laydgeur/status/1219734466240950273"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 364
   text: Parmi ces régions du globe, laquelle émet le plus de CO2 ?
   hint: ''
@@ -14942,12 +14921,10 @@
   answer_choice_d: '1970'
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'La concentration en CO2 dans l''atmosphère est devenue en 1908
-    la plus élevée depuis au moins 800 000 ans, peu avant d''atteindre les 300 ppm.
-
-
-    La plus haute valeur mesurée jusqu''alors était en -311 000 av JC (mesure effectuée
-    dans les carottes de glace en Antarctique).'
+  answer_explanation: "La concentration en CO2 dans l'atmosphère est devenue en 1908\
+    \ la plus élevée depuis au moins 800 000 ans, peu avant d'atteindre les 300 ppm.\r\
+    \n\r\nLa plus haute valeur mesurée jusqu'alors était en -311 000 av JC (mesure\
+    \ effectuée dans les carottes de glace en Antarctique)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -14956,22 +14933,19 @@
   answer_source_accessible_url_text: L’humanité n’a jamais connu une atmosphère aussi
     chargée en CO2 | Konbini
   answer_source_scientific_url: https://www.ncdc.noaa.gov/paleo-search/?dataTypeId=7
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Paleo Data - NCDC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000369-81d4.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'Parfois les articles mentionnent 800 000 ans avec la barre de
-    400 ppm et non 300 ppm.
-
-
-    https://twitter.com/laydgeur/status/1222623070432702464'
+  answer_extra_info: "Parfois les articles mentionnent 800 000 ans avec la barre de\
+    \ 400 ppm et non 300 ppm.\r\n\r\nhttps://twitter.com/laydgeur/status/1222623070432702464"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 370
   text: Dans le monde, combien de pays émettent PLUS de CO2 que le secteur des transports
     en France ?
@@ -15854,7 +15828,7 @@
   answer_source_accessible_url: https://www.lesechos.fr/industrie-services/immobilier-btp/cap-sur-le-ciment-bas-carbone-1140893
   answer_source_accessible_url_text: Cap sur le ciment bas carbone | Les Echos
   answer_source_scientific_url: http://www.globalcarbonatlas.org/fr/CO2-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: global Carbon Atlas
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000391-58f7.png
   answer_image_url_text: ''
@@ -15865,7 +15839,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 392
   text: Quelle est l'empreinte carbone totale (fabrication, utilisation, rebut) d'un
     smartphone comme un iphone 11 ?
@@ -15899,7 +15873,7 @@
   answer_source_accessible_url: https://www.zdnet.fr/actualites/gaz-a-effet-de-serre-les-smartphones-polluent-surtout-pendant-leur-fabrication-39846224.htm
   answer_source_accessible_url_text: 'Gaz à effet de serre : les smartphones polluent
     surtout pendant leur fabrication - ZDNet'
-  answer_source_scientific_url: https://www.apple.com/euro/environment/pdf/a/generic/products/iphone/iPhone_11_PER_sept2019.pdf
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5b7db2f1.jpg
@@ -15912,7 +15886,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-03-28'
+  updated: '2024-04-02'
 - id: 393
   text: En France, quel secteur dépasse 30% du total des émissions de gaz à effet
     de serre ?
@@ -16095,7 +16069,8 @@
   answer_source_accessible_url_text: 'Protocole de Kyoto : objectifs, enjeux, signataires
     et bilan'
   answer_source_scientific_url: https://unfccc.int/process/the-kyoto-protocol/status-of-ratification
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: The Kyoto Protocol - Status of Ratification -
+    UN Climate Change
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000397-e90a.png
   answer_image_url_text: '2009: le vert indique les pays ayant signé et ratifié le
@@ -16109,7 +16084,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 398
   text: Quelle est la première énergie utilisée en Italie ?
   hint: ''
@@ -16294,9 +16269,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.gqmagazine.fr/style/article/les-5-marques-de-jeans-qui-polluent-moins
   answer_source_accessible_url_text: 5 marques de jeans qui polluent moins | GQ France
-  answer_source_scientific_url: https://www.ademe.fr/sites/default/files/assets/documents/le-revers-de-mon-look.pdf
-  answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
+  answer_source_scientific_url: https://librairie.ademe.fr/ged/4367/lrdml_expo_affiche_a2_conception_version_def.pdf
+  answer_source_scientific_url_text: L'indutrie textile dans le monde - ADEME
+  answer_book_recommendation: Unraveled - The Life and Death of a Garment (Maxime
+    Bedat)
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000402-d6fd.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -16306,7 +16282,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 403
   text: Si rien n'est fait pour atténuer le changement climatique, combien d'humains
     risquent de vivre d'ici 50 ans dans des zones plus chaudes que le Sahara actuellement
@@ -16354,8 +16330,8 @@
   created: '2020-05-20'
   updated: '2024-03-26'
 - id: 404
-  text: 'A combien de jours de consommation intérieure les stocks stratégiques pétroliers
-    correspondent-ils en France ? '
+  text: A combien de jours de consommation intérieure les stocks stratégiques pétroliers
+    correspondent-ils en France ?
   hint: ''
   type: QCM
   category: 2
@@ -16384,7 +16360,8 @@
   answer_source_accessible_url_text: 'Carburant: quelles sont les réserves stratégiques
     de pétrole en France?'
   answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/securite-dapprovisionnement-en-petrole
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Sécurité d'approvisionnement en pétrole - Ministère
+    de la transiton écologique
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000404-1446.jpg
   answer_image_url_text: ''
@@ -16395,7 +16372,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-04-02'
 - id: 405
   text: Quel est le potentiel de réchauffement global sur 100 ans du méthane (CH4)
     comparé à celui du CO2 ?
