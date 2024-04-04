@@ -2881,3 +2881,35 @@
   spotlight: true
   created: '2024-02-14'
   updated: '2024-02-27'
+- id: 105
+  name: In Excremis
+  slug: in-excremis
+  introduction: "<p><a href=\"https://www.terreau.org/In-Excremis-en-boite-ca-y-est.html\"\
+    >In Excremis</a>, c'est un jeu de plateau qui invite à faire le lien entre la\
+    \ terre et l’eau, nos rejets domestiques et nos pratiques agricoles, au travers\
+    \ de questions traitant ces thèmes autant sous l’angle d’aspects techniques que\
+    \ d’anecdotes faisant appel à la culture générale.</p>\r\n\r\n<p>Comme le sujet\
+    \ rentre dans le périmètre des impacts humains méconnus sur l'environnement, et\
+    \ que les cartes prennent la forme de questions-réponses, nous vous avons fait\
+    \ une sélection de questions du jeu, ciblé sur les déjections humaines, leurs\
+    \ impact et leurs usages.</p>"
+  conclusion: <p>Si ce bouquet de questions vous a intéressé, vous pouvez aller plus
+    loin sur le site de <a href="https://www.terreau.org/">Terr'eau</a>.</p>
+  questions: []
+  question_count: 0
+  tags: []
+  difficulty_average: 0.0
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/450cd5ce.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2024-04-03'
+  updated: '2024-04-03'
