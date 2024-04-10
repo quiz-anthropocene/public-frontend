@@ -2895,10 +2895,11 @@
     \ impact et leurs usages.</p>"
   conclusion: <p>Si ce bouquet de questions vous a intéressé, vous pouvez aller plus
     loin sur le site de <a href="https://www.terreau.org/">Terr'eau</a>.</p>
-  questions: []
-  question_count: 0
+  questions:
+  - 1156
+  question_count: 1
   tags: []
-  difficulty_average: 0.0
+  difficulty_average: 1.0
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/450cd5ce.png
   has_audio: false
@@ -2912,4 +2913,4 @@
   publish_date: null
   spotlight: false
   created: '2024-04-03'
-  updated: '2024-04-03'
+  updated: '2024-04-09'

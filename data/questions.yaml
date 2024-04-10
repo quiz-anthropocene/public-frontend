@@ -47095,3 +47095,113 @@
   validation_date: '2024-02-16'
   created: '2024-02-15'
   updated: '2024-04-03'
+- id: 1156
+  text: Avant la révolution industrielle à quoi servaient les excrétas des gens des
+    villes ?
+  hint: '11'
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: A se chauffer
+  answer_choice_b: A nourrir les poissons
+  answer_choice_c: A fertiliser les cultures
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Avant le XIXème siècles, les excrétas humains servaient à fertiliser
+    les cultures.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-09'
+  updated: '2024-04-09'
+- id: 1157
+  text: Quand les grandes villes françaises se désintéressent-elles de l'urine et
+    des matières fécales humaines comme matières fertilisantes pour l'agriculture.
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: XVIIIème siècle
+  answer_choice_b: XIXème siècle
+  answer_choice_c: XXème siècle
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Au XXème siècle, la combinaison de la toilette à chasse d'eau
+    et des engrais industriels synthétiques met progressivement fin au mutualisme
+    ville-campagne.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-09'
+  updated: '2024-04-09'
+- id: 1158
+  text: Quand les grandes villes françaises se désintéressent-elles de l'urine et
+    des matières fécales humaines comme matières fertilisantes pour l'agriculture.
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: XVIIIème siècle
+  answer_choice_b: XIXème siècle
+  answer_choice_c: XXème siècle
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Au XXème siècle, la combinaison de la toilette à chasse d'eau
+    et des engrais industriels synthétiques met progressivement fin au mutualisme
+    ville-campagne.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-09'
+  updated: '2024-04-09'
