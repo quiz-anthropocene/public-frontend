@@ -47104,9 +47104,9 @@
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: A se chauffer
-  answer_choice_b: A nourrir les poissons
-  answer_choice_c: A fertiliser les cultures
+  answer_choice_a: À se chauffer
+  answer_choice_b: À nourrir les poissons
+  answer_choice_c: À fertiliser les cultures
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
@@ -47116,10 +47116,11 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/Utilisation_des_excreta
+  answer_source_accessible_url_text: Utilisation des excreta -Wikipédia
+  answer_source_scientific_url: https://www.cairn.info/article.php?ID_ARTICLE=HSR_048_0177
+  answer_source_scientific_url_text: Agronomie des engrais en France au xixe siècle
+    (Knittel 2017)
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -47130,11 +47131,12 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-04-09'
+  updated: '2024-04-24'
 - id: 1157
   text: Quand les grandes villes françaises se désintéressent-elles de l'urine et
-    des matières fécales humaines comme matières fertilisantes pour l'agriculture.
-  hint: ''
+    des matières fécales humaines comme matières fertilisantes pour l'agriculture
+    ?
+  hint: '22'
   type: QCM
   category: null
   tags: []
@@ -47151,12 +47153,14 @@
     ville-campagne.
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
+  answer_video_url: https://www.youtube.com/watch?v=qtiNAKNG_Wg
+  answer_video_url_text: Comment nourrir la France de 2050 sans engrais chimiques
+    ?
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.geosoc.fr/metiers-formations/domaines-d-activites/environnement-patrimoine/pour-en-savoir-plus/engrais-et-pesticides/213-agriculture-et-engrais-en-france-un-apercu-historique/file.html
+  answer_source_scientific_url_text: 'Agriculture et engrais en France : un aperçu
+    historique (M. Bornuat)'
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -47167,33 +47171,34 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-04-09'
+  updated: '2024-04-24'
 - id: 1158
-  text: Quand les grandes villes françaises se désintéressent-elles de l'urine et
-    des matières fécales humaines comme matières fertilisantes pour l'agriculture.
-  hint: ''
+  text: 'Vers la fin du XIXème siècle, les maraîchers vont arrêter de récolter les
+    excréments des citadins, c''est une perte de nutriments pour l''agriculture. On
+    va se procurer le phosphore nécessaire aux plantes par :'
+  hint: '33'
   type: QCM
   category: null
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: XVIIIème siècle
-  answer_choice_b: XIXème siècle
-  answer_choice_c: XXème siècle
+  answer_choice_a: Distillation
+  answer_choice_b: Processus chimiques
+  answer_choice_c: ''
   answer_choice_d: ''
-  answer_correct: c
+  answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Au XXème siècle, la combinaison de la toilette à chasse d'eau
-    et des engrais industriels synthétiques met progressivement fin au mutualisme
-    ville-campagne.
+  answer_explanation: Le phosphore provient de roche phosphatée transformée chimiquement,
+    exploitable un peu d'endroits.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://www.valcogroup-valves.com/fr/faq/engrais-phosphates-fabrication-process/
+  answer_source_accessible_url_text: Process de fabrication des engrais phosphatés
+  answer_source_scientific_url: https://www.cairn.info/article.php?ID_ARTICLE=HSR_048_0177
+  answer_source_scientific_url_text: Agronomie des engrais en France au xixe siècle
+    (Knittel 2017)
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -47204,34 +47209,32 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-04-09'
+  updated: '2024-04-24'
 - id: 1159
-  text: Quand les grandes villes françaises se désintéressent-elles de l'urine et
-    des matières fécales humaines comme matières fertilisantes pour l'agriculture.
-  hint: ''
+  text: Quel est le principal interet des toilettes sèches ?
+  hint: '44'
   type: QCM
   category: null
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: XVIIIème siècle
-  answer_choice_b: XIXème siècle
-  answer_choice_c: XXème siècle
+  answer_choice_a: Économiser l'eau
+  answer_choice_b: Éviter de s'eclabousser les fesses
+  answer_choice_c: Respecter le cycle de la matière
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Au XXème siècle, la combinaison de la toilette à chasse d'eau
-    et des engrais industriels synthétiques met progressivement fin au mutualisme
-    ville-campagne.
+  answer_explanation: Les toilettes sèches permettent de réintroduire dans les cycles
+    de culture ce que nous prenons à la terre pour nous nourrir.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/Toilettes_s%C3%A8ches
+  answer_source_accessible_url_text: Toiletes sèches - Wikipédia
   answer_source_scientific_url: https://www.calameo.com/books/001202246a101e7e8a1e7
   answer_source_scientific_url_text: Valorisation des excréments humains et animaux,
-    la clé vers une agriculture durable. (pg. 9)
+    la clé vers une agriculture durable. (page 10)
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -47242,4 +47245,152 @@
   validator: null
   validation_date: null
   created: '2024-04-10'
-  updated: '2024-04-10'
+  updated: '2024-04-24'
+- id: 1160
+  text: L'homme produit en moyenne 500 litres d'urine par an. Quelle surface de jardin
+    peut-il fertiliser avec cela ?
+  hint: '55'
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: 25 mètres carrés
+  answer_choice_b: 350 mètres carrés
+  answer_choice_c: 1000 mètres carrés
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: 350 mètres carrés, c'est la taille de jardin nécassaire pour
+    nourrir quatre personnes.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.jardiner-autrement.fr/lurine-comme-engrais-au-jardin-oui-mais/
+  answer_source_accessible_url_text: L'urine comme engrais au jardin ?
+  answer_source_scientific_url: http://www.ecosanres.org/pdf_files/EcoRanRes_Urine_Guide_FRENCH_111026.pdf
+  answer_source_scientific_url_text: Conseils pratiques pour une utilisation  de l’urine
+    en production agricole (Richert et al 2011) (résumé exécutif page VIII)
+  answer_book_recommendation: Renaud de Looze, L’urine de l’or liquide au jardin,
+    éditions de Terran, 2016
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-24'
+  updated: '2024-04-24'
+- id: 1161
+  text: Quelle quantité moyenne de compost produit annuellement une famille de 4 personnes
+    utilisant des toilettes sèches ?
+  hint: '66'
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: 100 litres (0,1 mètres cubes)
+  answer_choice_b: 1000 litres (1 mètre cube)
+  answer_choice_c: 10000 litres (10 mètres cubes)
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Environ 1 mètre cube sera obtenu par an, avant réduction durant
+    le processus de compostage.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://blog.lecopot.com/compostage-toilettes-seches/
+  answer_source_accessible_url_text: Compostage des déchets de ses toilettes sèches
+    écologiques.
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-24'
+  updated: '2024-04-24'
+- id: 1162
+  text: Nos urines, sont-elles chargées en germes pathogènes ?
+  hint: '77'
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Jamais
+  answer_choice_b: Très rarement
+  answer_choice_c: Fréquemment
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Sauf en cas d'infection urinaire, l'urine est quasi-stèrile
+    à la sortie du corps humain.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.dimann.com/fr/magazine-fr/urine-comment-elle-est-composee-et-ce-quelle-nous-apprend-sur-notre-etat-de-sante/
+  answer_source_accessible_url_text: 'L’urine : sa composition et ce qu’elle nous
+    apprend sur notre état de santé'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-24'
+  updated: '2024-04-24'
+- id: 1163
+  text: Quelle quantité de blé tendre pourrait-on produire en fertilisant la terre
+    avec les excrétas quotidiens de chaque individu ?
+  hint: '88'
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 100 grammes
+  answer_choice_b: 200 grammes
+  answer_choice_c: 500 grammes
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Chaque individu excrète chaque jour de quoi fertiliser la surface
+    de terre nécessaire pour produire 500 grammes de blé tendre.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: http://www.ecosanres.org/pdf_files/ESR-factsheet-06.pdf
+  answer_source_scientific_url_text: Guidelines on the Use of Urine and Faeces in
+    Crop Production - EcoSanres
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-04-24'
+  updated: '2024-04-24'
