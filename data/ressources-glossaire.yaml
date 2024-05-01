@@ -522,3 +522,11 @@
   language: FRENCH
   created: '2024-02-28'
   updated: '2024-02-28'
+- name: Excreta
+  name_alternatives: ''
+  definition_short: matière fécale et urine
+  description: ''
+  description_accessible_url: https://www.larousse.fr/dictionnaires/francais/excreta/32036#:~:text=%EE%A0%AC%20excreta&text=Substances%20rejet%C3%A9es%20hors%20de%20l,gaz%20carbonique%2C%20etc.).
+  language: FRENCH
+  created: '2024-04-30'
+  updated: '2024-04-30'
