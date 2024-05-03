@@ -45556,7 +45556,7 @@
   answer_choice_b: 1. Dioxyde de carbone 2. Méthane 3. Protoxyde d'azote
   answer_choice_c: 1. Dioxyde de carbone 2. Vapeur d'eau 3. Ozone
   answer_choice_d: 1. Dioxyde de carbone 2. Méthane 3. Ozone
-  answer_correct: d
+  answer_correct: a
   has_ordered_answers: true
   answer_explanation: Cette question contenait un petit piège. Il n'y était pas question
     du renforcement de l'effet de serre (réchauffement climatique), mais de l'effet
@@ -45583,7 +45583,7 @@
   validator: 55
   validation_date: '2023-02-15'
   created: '2023-02-02'
-  updated: '2024-03-28'
+  updated: '2024-05-02'
 - id: 1120
   text: Vrai ou faux ? La vapeur d'eau émise par les activités humaines au niveau
     du sol (hors émission par les avions dans la haute atmosphère) contribue au réchauffement
