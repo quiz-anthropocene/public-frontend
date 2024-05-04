@@ -161,21 +161,20 @@
   answer_source_accessible_url_text: Les insectes pourraient disparaître de la planète
     d’ici 100 ans
   answer_source_scientific_url: https://www.pnas.org/content/115/44/E10397
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Climate-driven declines in arthropod abundance
+    restructure a rainforest food web - Lister and Garcia 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000004-ef1c.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'article avec vidéo Brut : https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/video-a-porto-rico-la-disparition-drastique-des-insectes-inquiete-les-scientifiques_3149365.html
-
-
-    remise en question du rapport ici : https://www.pnas.org/content/116/25/12143'
+  answer_extra_info: "article avec vidéo Brut : https://www.francetvinfo.fr/economie/emploi/metiers/agriculture/video-a-porto-rico-la-disparition-drastique-des-insectes-inquiete-les-scientifiques_3149365.html\r\
+    \n\r\nremise en question du rapport ici : https://www.pnas.org/content/116/25/12143"
   author: 2
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2022-12-12'
+  updated: '2024-05-03'
 - id: 5
   text: Les hydrates de méthane sont une forme de glace au fond des océans. Ils peuvent
     devenir instables et libérer du méthane...
@@ -244,7 +243,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://ocean-climate.org/presentation-des-fiches-scientifiques-ocean-et-climat/locean-reservoir-de-chaleur/
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: L’océan, réservoir de chaleur
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -257,7 +256,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2023-01-09'
+  updated: '2024-05-03'
 - id: 7
   text: Des scientifiques ont suivi l'abondance des populations de 30,000 espèces
     de vertébrés sauvages sur 40 ans, entre 1970 et 2010. Qu'ont-ils observé ?
@@ -333,7 +332,8 @@
   answer_source_accessible_url_text: Quels sont les gaz à effet de serre ? – Jean-Marc
     Jancovici
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Carbon and Other Biogeochemical Cycles - IPCC
+    report 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000008-87bb.jpg
   answer_image_url_text: 'Évolution de nos émissions de CO2 : au bout de 200 ans il
@@ -346,7 +346,7 @@
   validator: 39
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2023-01-09'
+  updated: '2024-05-03'
 - id: 9
   text: Entre 2011 et 2013, la Chine a consommé autant de ciment que les États-Unis
     en...
@@ -455,7 +455,7 @@
   answer_source_accessible_url_text: 'Tout savoir sur le mix énergétique de la France
     : production, consommation, facture énergétique, histoire'
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf#page20
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - Datalab
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000011-1e66.png
   answer_image_url_text: ''
@@ -466,7 +466,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 12
   text: Qu'est ce qui produit le plus d'énergie ?
   hint: ''
@@ -477,7 +477,7 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: La combustion de 1 litre de pétrole
-  answer_choice_b: 'La combustion de 1 litre de gaz à 200 bar '
+  answer_choice_b: La combustion de 1 litre de gaz à 200 bar
   answer_choice_c: 50 m² de panneaux solaires pendant 1h
   answer_choice_d: Une éolienne de 5m de diamètre pendant 1h avec un vent à 80km/h
   answer_correct: a
@@ -489,7 +489,7 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/Nb2S7oge8TQ?start=3600
-  answer_video_url_text: ''
+  answer_video_url_text: De quoi l'énergie est-elle le nom ?
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
@@ -504,7 +504,7 @@
   validator: 2
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 13
   text: A l'échelle mondiale, combien de barils de pétrole ont été consommés par jour
     en 2020 ?
@@ -794,7 +794,9 @@
   answer_source_accessible_url_text: 'Effectuer sa « BA » pour agir contre le changement
     climatique : quelques ordres de grandeur – Jean-Marc Jancovici'
   answer_source_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/aa7541
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'The climate mitigation gap: education and government
+    recommendations miss the most effective individual actions (Wynes and Nicholas
+    2017)'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000019-157b.jpg
   answer_image_url_text: Le graphique est tiré des résultats d'un article publié en
@@ -806,7 +808,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-02-07'
+  updated: '2024-05-03'
 - id: 20
   text: En 2018, quelle proportion de l'énergie consommée dans le monde l'a été sous
     forme d'électricité ?
@@ -1103,7 +1105,8 @@
   answer_source_accessible_url_text: Où nous situons-nous dans l’échelle des températures
     par rapport au passé ? – Jean-Marc Jancovici
   answer_source_scientific_url: https://www.nature.com/articles/nature10915
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Global warming preceded by increasing carbon
+    dioxide concentrations during the last deglaciation (Shakun et al 2012)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000026-f398.png
   answer_image_url_text: ''
@@ -1114,7 +1117,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 27
   text: Le deuxième gaz à effet de serre anthropique (d'origine humaine) est le méthane.
     Il est produit en majeure partie par...
@@ -1187,7 +1190,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Acidification_des_oc%C3%A9ans
   answer_source_accessible_url_text: Acidification des océans — Wikipédia
   answer_source_scientific_url: https://ocean-climate.org/?page_id=4538
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Acidification de l'océan
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000028-68be.png
   answer_image_url_text: ''
@@ -1198,7 +1201,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-02-14'
+  updated: '2024-05-03'
 - id: 29
   text: Quel est l'effet des particules fines sur le climat ?
   hint: ''
@@ -1443,7 +1446,7 @@
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Gaz_%C3%A0_effet_de_serre#Par_secteurs
   answer_source_accessible_url_text: Gaz à effet de serre — Wikipédia
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/03_Technical-Summary-TS.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Technical summary - IPCC report 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000034-34c5.png
   answer_image_url_text: ''
@@ -1454,7 +1457,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 35
   text: Le pergélisol (ou permafrost), c'est un sol dont la température se maintient
     en dessous de 0°C. Il couvre 20% de la surface terrestre. Que libère-t-il principalement
@@ -1487,7 +1490,8 @@
   answer_source_accessible_url_text: Le permafrost, cette bombe à retardement sous
     l'Arctique
   answer_source_scientific_url: https://www.nature.com/articles/480032a
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: High risk of permafrost thaw - Schuur and Abbott
+    2011
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000035-6f2d.jpg
   answer_image_url_text: ''
@@ -1498,7 +1502,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-06-09'
+  updated: '2024-05-03'
 - id: 36
   text: DOUBLON Outre le changement climatique, les émissions de CO2 ont aussi une
     influence inquiétante sur...
@@ -1617,14 +1621,13 @@
   answer_source_accessible_url_text: 'Royaume-Uni : les émissions de CO2 baissent
     pour la 6e année consécutive | Les Echos'
   answer_source_scientific_url: http://reports.electricinsights.co.uk/wp-content/uploads/2020/11/201126_Drax_20Q3_005-1.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Electric Insights Quarterly - july to september
+    2020
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000038-1af3.jpeg
-  answer_image_url_text: 'A gauche : intensité carbone au début et à la fin de la
-    décennie 2010, par pays;
-
-    A droite : classement des pays par ordre de plus forts changement dans l''intensité
-    carbone sur la même période'
+  answer_image_url_text: "A gauche : intensité carbone au début et à la fin de la\
+    \ décennie 2010, par pays;\r\nA droite : classement des pays par ordre de plus\
+    \ forts changement dans l'intensité carbone sur la même période"
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
@@ -1632,7 +1635,7 @@
   validator: 2
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 39
   text: En France, quelle part de la consommation annuelle de gaz représente le biométhane
     injecté dans le réseau de distribution ?
@@ -1662,7 +1665,8 @@
   answer_source_accessible_url_text: Où en est réellement le biométhane en France
     en 2019 ?
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/tableau-de-bord-biomethane-injecte-dans-les-reseaux-de-gaz-quatrieme-trimestre-2019
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Tableau de bord : biométhane injecté dans les
+    réseaux de gaz - Quatrième trimestre 2019'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000039-d0fc.jpg
   answer_image_url_text: Méthaniseur
@@ -1673,7 +1677,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 40
   text: En France, quelle part de la consommation annuelle d'électricité est issue
     des bioénergies  ?
@@ -1871,12 +1875,14 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://dai.ly/x45uiki
-  answer_video_url_text: ''
+  answer_video_url_text: Les images du blanchissement de la barrière de corail - Le
+    Monde
   answer_source_accessible_url: https://www.nationalgeographic.fr/environnement/les-recifs-coralliens-pourraient-disparaitre-avant-2050
   answer_source_accessible_url_text: Les rÃ©cifs coralliens pourraient disparaÃ®tre
     avant 2050 | National Geographic
   answer_source_scientific_url: http://whc.unesco.org/en/news/1676/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Assessment: World Heritage coral reefs likely
+    to disappear by 2100 unless CO2 emissions drastically reduce'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000044-068d.jpg
   answer_image_url_text: ''
@@ -1887,7 +1893,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-12-12'
+  updated: '2024-05-03'
 - id: 45
   text: Quelle quantité de métaux lourds, solvants, boues toxiques et autres déchets
     industriels est déversée dans les eaux du monde chaque jour ?
@@ -1906,14 +1912,13 @@
   answer_choice_d: 100 millions de tonnes, soit 20 fois la Grande pyramide de Gizeh
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Chaque année, 300 à 400 millions de tonnes de métaux lourds,
-    solvants, boues toxiques et autres déchets issus des sites industriels sont déversés
-    dans les eaux du monde, soit donc un million de tonnes tous les jours.  Les engrais
-    qui arrivent dans les écosystèmes côtiers ont produit plus de 400 « zones mortes»
-    dans les océans, ce qui représente environ 245.000 km2, une superficie totale
-    plus grande que le Royaume-Uni.
-
-    Source : rapport IPBES 2019.'
+  answer_explanation: "Chaque année, 300 à 400 millions de tonnes de métaux lourds,\
+    \ solvants, boues toxiques et autres déchets issus des sites industriels sont\
+    \ déversés dans les eaux du monde, soit donc un million de tonnes tous les jours.\
+    \  Les engrais qui arrivent dans les écosystèmes côtiers ont produit plus de 400\
+    \ « zones mortes» dans les océans, ce qui représente environ 245.000 km2, une\
+    \ superficie totale plus grande que le Royaume-Uni.\r\nSource : rapport IPBES\
+    \ 2019."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -1922,13 +1927,12 @@
   answer_source_accessible_url_text: Rapport IPBES - Des preuves inquiétantes du déclin
     de la biodiversité
   answer_source_scientific_url: https://ipbes.net/news/Media-Release-Global-Assessment-Fr
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Plateforme intergouvernementale sur la biodiversité
+    et les services écosystémiques (IPBES en anglais)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000045-4ffb.jpg
-  answer_image_url_text: 'Sol pollué dans la mine Brukunga Pyrites, à l''est d''Adelaide,
-    sud de l''Australie en 1992
-
-    Crédit : John Coppi'
+  answer_image_url_text: "Sol pollué dans la mine Brukunga Pyrites, à l'est d'Adelaide,\
+    \ sud de l'Australie en 1992\r\nCrédit : John Coppi"
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -1936,7 +1940,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-02-14'
+  updated: '2024-05-03'
 - id: 46
   text: '[DOUBLON] Selon le rapport du GIEC de 2014, le degré de certitude qu''on
     a que le dérèglement climatique est dû à l''augmentation des gaz à effet de serre
@@ -2178,7 +2182,7 @@
   answer_source_accessible_url_text: L’urbanisation mondiale s’opère au détriment
     des terres agricoles - GoodPlanet mag'
   answer_source_scientific_url: http://www.senat.fr/rap/r18-528/r18-5281.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: RAPPORT D’INFORMATION - Sénat 2018/2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000051-693d.jpg
   answer_image_url_text: ''
@@ -2189,7 +2193,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 52
   text: La progression du désert dans le monde, c'est chaque année...
   hint: ''
@@ -2374,7 +2378,8 @@
   answer_source_accessible_url_text: Chaque année, 8 millions de tonnes de plastique
     finissent dans les océans – Libération
   answer_source_scientific_url: https://science.sciencemag.org/content/347/6223/768/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Plastic waste inputs from land into the ocean
+    - Jambeck et al 2015
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000056-dd09.jpeg
   answer_image_url_text: ''
@@ -2385,7 +2390,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 57
   text: Le 7ème continent, ce sont de vastes zones d'accumulations des déchets plastiques
     dans les océans. Leur surface est de l'ordre de...
@@ -2855,7 +2860,8 @@
   answer_source_accessible_url_text: A quand le pic de production mondial pour le
     pétrole ? – Jean-Marc Jancovici
   answer_source_scientific_url: http://www.energycrisis.com/Laherrere/opec2001.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: “Forecasting future production from past discovery”
+    - Laherrere 2001
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000068-fe0d.png
   answer_image_url_text: ''
@@ -2866,7 +2872,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 69
   text: Avons-nous déjà atteint le pic de production de pétrole conventionnel ?
   hint: ''
@@ -3036,7 +3042,8 @@
   answer_source_accessible_url_text: Le trafic routier est-il vraiment le premier
     émetteur de CO2 en France? – Libération
   answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2019/09/hcc_rapport_annuel_grand_public_2019.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: VERSION GRAND PUBLIC du rapport annuel  Neutralité
+    Carbone Juin 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000072-fa9d.png
   answer_image_url_text: ''
@@ -3047,7 +3054,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 73
   text: La production d'énergie nucléaire contribue-t-elle à l'effet de serre ?
   hint: ''
@@ -3118,22 +3125,21 @@
   answer_source_accessible_url_text: Internet, un ogre énergétique à l’appétit insatiable
     en électricité
   answer_source_scientific_url: https://www.nature.com/articles/d41586-018-06610-y
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: How to stop data centres from gobbling up the
+    world’s electricity
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000074-4e92.jpg
   answer_image_url_text: 'Data center de Facebook à Luleå, en Suède. Crédit : Jonathan
     Nackstrand/AFP/Getty'
-  answer_extra_info: 'graphique pollution mails : https://www.leparisien.fr/resizer/r6wWjvmpV910kaFMATZjfE2L_4Q=/800x512/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/JW6W6ZUMZPZXPL6ZFWWDD5ISMM.jpg
-
-
-    https://mrmondialisation.org/le-cout-ecologique-dinternet-est-astronomique/'
+  answer_extra_info: "graphique pollution mails : https://www.leparisien.fr/resizer/r6wWjvmpV910kaFMATZjfE2L_4Q=/800x512/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/JW6W6ZUMZPZXPL6ZFWWDD5ISMM.jpg\r\
+    \n\r\nhttps://mrmondialisation.org/le-cout-ecologique-dinternet-est-astronomique/"
   author: 2
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 75
   text: Quelle proportion du CO2 les 10% les plus riches de la planète émettent-ils
     ?
@@ -5143,7 +5149,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://treaties.un.org/doc/Treaties/2012/12/20121217%2011-40%20AM/CN.718.2012.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: KYOTO PROTOCOL TO THE UNITED NATIONS FRAMEWORK  CONVENTION
+    ON CLIMATE CHANGE
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000123-8ea9.jpg
   answer_image_url_text: ''
@@ -5154,7 +5161,7 @@
   validator: 2
   validation_date: '2019-02-11'
   created: '2019-02-04'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 124
   text: En France, quel est le secteur qui consomme le plus d’énergie ?
   hint: ''
@@ -5179,7 +5186,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf#page20
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - Datalab
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000124-48d0.jpg
   answer_image_url_text: ''
@@ -5190,7 +5197,7 @@
   validator: 2
   validation_date: '2019-02-13'
   created: '2019-02-06'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 125
   text: Quelle est la consommation moyenne de carburant d'un poids lourd en France
     ?
@@ -5340,7 +5347,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - Datalab
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000128-54c9.jpg
   answer_image_url_text: ''
@@ -5351,7 +5358,7 @@
   validator: 2
   validation_date: '2019-02-18'
   created: '2019-02-11'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 129
   text: Sur la trajectoire actuelle d'émission, en quelle année les modèles du GIEC
     prévoient-ils que nous atteindrons +1,5°C de réchauffement par rapport au niveau
@@ -5381,7 +5388,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter1_Low_Res.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chapter 1 - IPCC report 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000129-4d8a.jpg
   answer_image_url_text: ''
@@ -5392,7 +5399,7 @@
   validator: 2
   validation_date: '2019-02-19'
   created: '2019-02-12'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 130
   text: '[ECARTEE] Quelle est la perte de masse annuelle de la calotte glaciaire du
     Groenland ?'
@@ -5504,7 +5511,7 @@
   answer_source_accessible_url: https://www.la-croix.com/Sciences-et-ethique/Environnement/Ou-trouve-petrole-France-2017-11-07-1200890170
   answer_source_accessible_url_text: Où trouve-t-on du pétrole en France ?
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - Datalab
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000132-8263.jpg
   answer_image_url_text: ''
@@ -5515,7 +5522,7 @@
   validator: 1
   validation_date: '2019-02-22'
   created: '2019-02-15'
-  updated: '2023-02-05'
+  updated: '2024-05-03'
 - id: 133
   text: Quel est en France la part des poids lourds (>5t) dans le parc des véhicules
     routiers ?
@@ -5782,7 +5789,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Anthropogenic and Natural Radiative Forcing -
+    IPCC report 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000139-4fff.jpg
   answer_image_url_text: ''
@@ -5793,7 +5801,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 140
   text: Lequel de ces pays a le réseau routier le plus dense (en km de route par habitant)
     ?
@@ -6334,7 +6342,7 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://unctad.org/en/PublicationsLibrary/rmt2018_en.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Review of maritime transport 2018 - UNCTAD
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000153-fe58.png
   answer_image_url_text: ''
@@ -6345,7 +6353,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 154
   text: En 2017, quel pays a construit et mis à l’eau le plus de navires pétroliers
     ? (en tonnage)
@@ -6504,22 +6512,19 @@
   answer_source_accessible_url_text: Les marées noires sont de moins en moins fréquentes
     et dévastatrices - rts.ch - Environnement
   answer_source_scientific_url: http://www.itopf.org/knowledge-resources/data-statistics/statistics/
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Oil Tanker Spill Statistics 2023 - ITOPF
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000157-a09e.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'images originales:
-
-    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/055a.jpg
-
-    - https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/055b.jpg'
+  answer_extra_info: "images originales:\r\n- https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/055a.jpg\r\
+    \n- https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/055b.jpg"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 158
   text: Si l’hydroélectricité chinoise était un pays, quel serait sa place dans le
     classement mondial de la production d’électricité ?
@@ -7138,7 +7143,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2018-full-report.pdf#page28
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: BP statistical review of world energy - june
+    2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000173-ba2d.jpeg
   answer_image_url_text: ''
@@ -7149,7 +7155,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 174
   text: En France, quelle est la contribution des industries de l’énergie au PIB ?
   hint: ''
@@ -7962,7 +7968,7 @@
   answer_source_accessible_url_text: 'Élévation des océans : un nouveau rapport du
     GIEC très inquiétant'
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Sea Level Change - IPCC report 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000194-34a5.jpg
   answer_image_url_text: ''
@@ -7974,7 +7980,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-11-29'
+  updated: '2024-05-03'
 - id: 195
   text: 'Quelle est la concentration actuelle en méthane dans l’atmosphère ? (en ppb
     : partie par milliard)'
@@ -8830,11 +8836,11 @@
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/02x5UuV898c
-  answer_video_url_text: ''
+  answer_video_url_text: Oil barrels consumption et scale
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.eia.gov/international/data/world#/?pa=000gfs0000000000000000000000000000vg&c=4100000002000060000000000000g000200000000000000001&tl_id=5-A&vs=INTL.53-1-AFRC-TBPD.A&vo=0&v=H&end=2018
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: Data - EIA
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000217-a0f7.jpg
   answer_image_url_text: ''
@@ -8845,7 +8851,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2024-05-03'
 - id: 218
   text: Quelles sont les émissions pour la production en Europe d’un litre de boisson
     de la marque Coca-Cola (emballage, transport et ingrédients inclus) ?
