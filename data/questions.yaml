@@ -47206,7 +47206,7 @@
   answer_source_scientific_url_text: Agronomie des engrais en France au xixe siècle
     (Knittel 2017)
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/50561faf.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47215,7 +47215,7 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-04-30'
+  updated: '2024-05-07'
 - id: 1159
   text: Quel est le principal intérêt des toilettes sèches ?
   hint: ''
@@ -47242,7 +47242,7 @@
   answer_source_scientific_url_text: Valorisation des excréments humains et animaux,
     la clé vers une agriculture durable. (page 10)
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6779dcf9.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47251,7 +47251,7 @@
   validator: null
   validation_date: null
   created: '2024-04-10'
-  updated: '2024-04-30'
+  updated: '2024-05-07'
 - id: 1160
   text: L'homme produit en moyenne 500 litres d'urine par an. Quelle surface de jardin
     peut-il fertiliser avec cela ?
@@ -47280,7 +47280,7 @@
     en production agricole (Richert et al 2011) (résumé exécutif page VIII)
   answer_book_recommendation: Renaud de Looze, L’urine de l’or liquide au jardin,
     éditions de Terran, 2016
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5ed45471.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47289,7 +47289,7 @@
   validator: null
   validation_date: null
   created: '2024-04-24'
-  updated: '2024-04-30'
+  updated: '2024-05-07'
 - id: 1161
   text: Quelle quantité moyenne de compost produit annuellement une famille de 4 personnes
     utilisant des toilettes sèches ?
@@ -47353,7 +47353,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/06d19049.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47362,7 +47362,7 @@
   validator: null
   validation_date: null
   created: '2024-04-24'
-  updated: '2024-04-30'
+  updated: '2024-05-07'
 - id: 1163
   text: Quelle quantité de blé tendre pourrait-on produire chaque jour en fertilisant
     la terre avec les excréta quotidiens d'un individu ?
@@ -47390,7 +47390,7 @@
   answer_source_scientific_url_text: Guidelines on the Use of Urine and Faeces in
     Crop Production - EcoSanres
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8283218e.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47399,4 +47399,4 @@
   validator: null
   validation_date: null
   created: '2024-04-24'
-  updated: '2024-04-30'
+  updated: '2024-05-07'
