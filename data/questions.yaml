@@ -47220,7 +47220,7 @@
   text: Quel est le principal intérêt des toilettes sèches ?
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 1
   language: FRENCH
@@ -47247,17 +47247,17 @@
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-07'
   created: '2024-04-10'
   updated: '2024-05-07'
 - id: 1160
-  text: L'homme produit en moyenne 500 litres d'urine par an. Quelle surface de jardin
-    peut-il fertiliser avec cela ?
+  text: Un être humain produit en moyenne 500 litres d'urine par an. Quelle surface
+    de jardin peut-il fertiliser avec cela ?
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 3
   language: FRENCH
@@ -47285,9 +47285,9 @@
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-07'
   created: '2024-04-24'
   updated: '2024-05-07'
 - id: 1161
@@ -47331,7 +47331,7 @@
   text: Vrai ou faux ? Nos urines, sont chargées en germes pathogènes ?
   hint: ''
   type: VF
-  category: null
+  category: 7
   tags: []
   difficulty: 1
   language: FRENCH
@@ -47354,13 +47354,13 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/06d19049.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: Composition de l'urine. 96% d'eau, 2% d'urée, et 2% autres
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-07'
   created: '2024-04-24'
   updated: '2024-05-07'
 - id: 1163
