@@ -30516,8 +30516,8 @@
   created: '2021-01-06'
   updated: '2024-03-12'
 - id: 744
-  text: Si tous les logements ajustaient leur température moyenne au niveau recommandé
-    en France, de combien diminuerait-on la consommation de chauffage ?
+  text: Si tous les logements en France métropolitaine baissaient leur température
+    moyenne de 1°C, de combien diminuerait-on la consommation de chauffage ?
   hint: ''
   type: QCM
   category: 5
@@ -30525,28 +30525,30 @@
   - 67
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 2 à 4%
-  answer_choice_b: 9 à 12%
-  answer_choice_c: 20 à 25%
-  answer_choice_d: 50 à 60%
-  answer_correct: c
+  answer_choice_a: 6 à 7%
+  answer_choice_b: 10 à 20%
+  answer_choice_c: 50 à 70%
+  answer_choice_d: aucun effet siginficatif
+  answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "On estime à environ 10% l'économie sur la facture de chauffage\
-    \ par degré de chauffage en moins. Entre les pièces à vivre (19°C recommandé)\
-    \ et les chambres à coucher (16°C recommandé), on pourrait faire globalement baisser\
-    \ le chauffage d'au moins 3°C, donc économiser 21% en chauffage.\r\nEt en portant\
-    \ un pull en hiver à l'intérieur, on peut facilement aller encore plus loin !"
+  answer_explanation: On estime pouvoir économiser 10% à plus de 20% sur la facture
+    de son chauffage en le baissant seulement de 1°C degré. Entre les pièces à vivre
+    (19°C recommandé) et les chambres à coucher (16°C recommandé), on pourrait faire
+    globalement baisser le chauffage d'au moins 3°C, donc économiser encore plus..
+    Et en portant un pull en hiver à l'intérieur, on peut facilement aller encore
+    plus loin !
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.quechoisir.org/conseils-chauffage-10-gestes-simples-pour-limiter-sa-consommation-energetique-au-quotidien-n4725/
-  answer_source_accessible_url_text: Chauffage - 10 gestes simples pour limiter sa
-    consommation énergétique au quotidien - Conseils - UFC-Que Choisir
+  answer_source_accessible_url: https://www.incub.net/article-design-energetique/economie-chauffage-1-degre/
+  answer_source_accessible_url_text: 'Le mythe du « 7% d’économie pour 1 degré de
+    chauffage en moins » : enfin la vérité. Site Incub'', décembre 2018'
   answer_source_scientific_url: https://solar.lowtechmagazine.com/fr/2011/02/insulation-first-the-body-then-the-home/
-  answer_source_scientific_url_text: 'Isolation: d’abord le corps puis la maison'
+  answer_source_scientific_url_text: 'Isolation: d’abord le corps puis la maison (en
+    anglais)'
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000744-f05a.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5ffb5574.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 6
@@ -30555,7 +30557,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-03-12'
+  updated: '2024-05-15'
 - id: 745
   text: Le Col de Porte, situé à 1,325m d'altitude dans les Alpes françaises est le
     site de référence de Météo France pour l'étude de l'évolution du manteau neigeux
