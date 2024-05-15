@@ -47116,8 +47116,8 @@
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Avant le XIXe siècle, les excrétas humains étaient utilisés
-    pour fertiliser les cultures.
+  answer_explanation: Avant le XIXe siècle, les excréta humains étaient utilisés pour
+    fertiliser les cultures.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47133,18 +47133,18 @@
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-15'
   created: '2024-04-09'
-  updated: '2024-05-14'
+  updated: '2024-05-15'
 - id: 1157
   text: Quand les grandes villes françaises se sont-elles désintéressées de l'urine
     et des matières fécales humaines comme matières fertilisantes pour l'agriculture
     ?
   hint: ''
   type: QCM
-  category: null
+  category: 6
   tags: []
   difficulty: 2
   language: FRENCH
@@ -47173,18 +47173,18 @@
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-15'
   created: '2024-04-09'
-  updated: '2024-05-14'
+  updated: '2024-05-15'
 - id: 1158
   text: 'Vers la fin du XIXe siècle, les maraîchers vont arrêter de récolter les excréments
     des citadins. C''est une perte de nutriments pour l''agriculture. On va alors
     se procurer le phosphore nécessaire aux plantes par :'
   hint: ''
   type: QCM
-  category: null
+  category: 6
   tags: []
   difficulty: 2
   language: FRENCH
@@ -47211,11 +47211,11 @@
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-15'
   created: '2024-04-09'
-  updated: '2024-05-14'
+  updated: '2024-05-15'
 - id: 1159
   text: Quel est le principal intérêt des toilettes sèches ?
   hint: ''
@@ -47291,11 +47291,11 @@
   created: '2024-04-24'
   updated: '2024-05-07'
 - id: 1161
-  text: Quelle quantité moyenne de compost produit annuellement une famille de 4 personnes
-    utilisant des toilettes sèches ?
+  text: Quelle quantité moyenne de compost une famille de 4 personnes qui utilise
+    des toilettes sèches produit-elle annuellement ?
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 2
   language: FRENCH
@@ -47305,7 +47305,7 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Environ 1000l (1 mètre cube) sera obtenu par an, avant réduction
+  answer_explanation: Environ 1000 l (1 m3) seront obtenus par an, avant réduction
     durant le processus de compostage.
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -47318,15 +47318,15 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5e2443ad.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: Bac à compost (ici, végétal)
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-15'
   created: '2024-04-24'
-  updated: '2024-05-14'
+  updated: '2024-05-15'
 - id: 1162
   text: Vrai ou faux ? Nos urines, sont chargées en germes pathogènes ?
   hint: ''
@@ -47368,7 +47368,7 @@
     la terre avec les excréta quotidiens d'un individu ?
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 1
   language: FRENCH
@@ -47395,8 +47395,8 @@
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-05-15'
   created: '2024-04-24'
-  updated: '2024-05-07'
+  updated: '2024-05-15'
