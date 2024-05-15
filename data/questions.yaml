@@ -47128,7 +47128,7 @@
   answer_source_scientific_url_text: Agronomie des engrais en France au xixe siècle
     (Knittel 2017)
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f3a86923.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47137,7 +47137,7 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-04-30'
+  updated: '2024-05-14'
 - id: 1157
   text: Quand les grandes villes françaises se sont-elles désintéressées de l'urine
     et des matières fécales humaines comme matières fertilisantes pour l'agriculture
@@ -47168,7 +47168,7 @@
   answer_source_scientific_url_text: 'Agriculture et engrais en France : un aperçu
     historique (M. Bornuat)'
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/974cd3fa.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47177,7 +47177,7 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-04-30'
+  updated: '2024-05-14'
 - id: 1158
   text: 'Vers la fin du XIXe siècle, les maraîchers vont arrêter de récolter les excréments
     des citadins. C''est une perte de nutriments pour l''agriculture. On va alors
@@ -47206,7 +47206,7 @@
   answer_source_scientific_url_text: Agronomie des engrais en France au xixe siècle
     (Knittel 2017)
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/50561faf.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c69f16aa.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47215,7 +47215,7 @@
   validator: null
   validation_date: null
   created: '2024-04-09'
-  updated: '2024-05-07'
+  updated: '2024-05-14'
 - id: 1159
   text: Quel est le principal intérêt des toilettes sèches ?
   hint: ''
@@ -47317,7 +47317,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5e2443ad.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -47326,7 +47326,7 @@
   validator: null
   validation_date: null
   created: '2024-04-24'
-  updated: '2024-04-30'
+  updated: '2024-05-14'
 - id: 1162
   text: Vrai ou faux ? Nos urines, sont chargées en germes pathogènes ?
   hint: ''
