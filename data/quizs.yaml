@@ -2679,7 +2679,7 @@
   updated: '2023-02-21'
 - id: 99
   name: L'affresco del Clima Junior spiegato alla mia fami
-  slug: francireuter
+  slug: laffresco-del-clima-junior-spiegato-alla-mia-fami
   introduction: "<p>Questo quiz è rivolto principalmente a i ragazzi e le ragazze\
     \ che hanno già partecipato ad un laboratorio dell'Affresco del Clima.<br />\r\
     \nHai appena partecipato ad un Affresco Junior e ti piacerebbe condividere quest'esperienza\
@@ -2706,7 +2706,7 @@
   publish_date: null
   spotlight: false
   created: '2023-02-22'
-  updated: '2023-03-03'
+  updated: '2024-05-14'
 - id: 101
   name: Das Junior Klima Puzzle erklärt an meiner Familie
   slug: das-junior-klima-puzzle-erklart-meiner-familie
@@ -2882,9 +2882,9 @@
   created: '2024-02-14'
   updated: '2024-02-27'
 - id: 105
-  name: In Excremis
-  slug: in-excremis
-  introduction: "<p><a href=\"https://www.terreau.org/In-Excremis-en-boite-ca-y-est.html\"\
+  name: Des toilettes à l'assiette
+  slug: des-toilettes-a-lassiette
+  introduction: "<p>Les excréments, une ressource ?</p>\r\n\r\n<p><a href=\"https://www.terreau.org/In-Excremis-en-boite-ca-y-est.html\"\
     >In Excremis</a>, c'est un jeu de plateau qui invite à faire le lien entre la\
     \ terre et l’eau, nos rejets domestiques et nos pratiques agricoles, au travers\
     \ de questions traitant ces thèmes autant sous l’angle d’aspects techniques que\
@@ -2906,7 +2906,7 @@
   - 1163
   question_count: 8
   tags: []
-  difficulty_average: 1.8
+  difficulty_average: 1.6
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/450cd5ce.png
   has_audio: false
@@ -2920,4 +2920,4 @@
   publish_date: null
   spotlight: false
   created: '2024-04-03'
-  updated: '2024-04-24'
+  updated: '2024-05-14'
