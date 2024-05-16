@@ -2908,12 +2908,13 @@
   question_count: 8
   tags:
   - 5
+  - 17
   difficulty_average: 1.6
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/450cd5ce.png
   has_audio: false
   authors:
-  - 2
+  - 79
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
@@ -2922,4 +2923,4 @@
   publish_date: null
   spotlight: true
   created: '2024-04-03'
-  updated: '2024-05-15'
+  updated: '2024-05-16'
