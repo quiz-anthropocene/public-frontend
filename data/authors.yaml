@@ -8,7 +8,7 @@
   first_name: Matthieu
   last_name: Massart
   question_count: 123
-  quiz_count: 13
+  quiz_count: 12
   created: '2022-04-04'
 - id: 4
   first_name: Julia
@@ -302,5 +302,5 @@
   first_name: Mila
   last_name: Maina
   question_count: 8
-  quiz_count: 0
+  quiz_count: 1
   created: '2024-01-30'
