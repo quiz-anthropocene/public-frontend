@@ -2924,3 +2924,26 @@
   spotlight: true
   created: '2024-04-03'
   updated: '2024-05-16'
+- id: 106
+  name: Sans transition
+  slug: sans-transition
+  introduction: <p>Basé sur l'ouvrage de Jean-Baptiste Fressoz (draft)</p>
+  conclusion: ''
+  questions: []
+  question_count: 0
+  tags: []
+  difficulty_average: 0.0
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/328992cb.jpg
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2024-05-24'
+  updated: '2024-05-24'
