@@ -47402,3 +47402,108 @@
   validation_date: '2024-05-15'
   created: '2024-04-24'
   updated: '2024-05-15'
+- id: 1164
+  text: Vrai ou faux ? En Grande-Bretagne en 1900, la production de bois pour étayer
+    les mines de charbon avait dépassé la production totale de bois que le pays produisait
+    pour se chauffer en 1800 ?
+  hint: ''
+  type: VF
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 4,5 millions de tonnes vs 3,5 millions de tonnes
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-24'
+  updated: '2024-05-24'
+- id: 1165
+  text: Parmi ces différentes sources, laquelle produit le plus d'énergie
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: Bois
+  answer_choice_b: Hydroélectricité
+  answer_choice_c: Solaire
+  answer_choice_d: Eolien
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-24'
+  updated: '2024-05-24'
+- id: 1166
+  text: 'Vrai ou faux : la production de tubes d''action pour l''industrie en pétrolière
+    excède la production totale d''acier en 1900'
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-24'
+  updated: '2024-05-24'
