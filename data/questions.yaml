@@ -47439,7 +47439,7 @@
   created: '2024-05-24'
   updated: '2024-05-24'
 - id: 1165
-  text: Parmi ces différentes sources, laquelle produit le plus d'énergie
+  text: Parmi ces différentes sources, laquelle produit le plus d'énergie finale ?
   hint: ''
   type: QCM
   category: 5
@@ -47448,22 +47448,31 @@
   language: FRENCH
   answer_choice_a: Bois
   answer_choice_b: Hydroélectricité
-  answer_choice_c: Solaire
-  answer_choice_d: Eolien
+  answer_choice_c: Solaire et éolien réunis
+  answer_choice_d: Nucléaire
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: 'Après deux siècles de "transitions énergétiques", l''humanité
+    n''a jamais brûlé autant de bois. Chaque année, environ deux milliards de m3 de
+    bois sont abattus afin d''être directement consumés, soit trois fois plus qu''un
+    siècle plus tôt. Le bois fournit deux fois plus d''énergie que la fission nucléaire,
+    deux fois plus que l''hydroélectricité, deux fois plus le solaire et l''éolien
+    réunis (chiffres 2019). Le bois demeure une source de chaleur essentielle pour
+    le tiers le plus pauvre de la population mondiale. Mais les paus riches ont également
+    vu leur consommation de bois-énergie augmenter : les Etats-Unis en brûlent deux
+    fois plus qu''au début qu''en 1960, et l''Europe trois fois plus qu''au début
+    du XXè siècle.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://openknowledge.fao.org/server/api/core/bitstreams/89a44ced-a3c7-41f7-973d-5e3b4e21ddbc/content
+  answer_source_scientific_url_text: State of the World’s Forests, Rome, FAO, 2014
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3ee74cda.png
+  answer_image_url_text: Collecte de bois au Niger
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -47471,7 +47480,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-05-24'
+  updated: '2024-05-25'
 - id: 1166
   text: 'Vrai ou faux : la production de tubes d''action pour l''industrie en pétrolière
     excède la production totale d''acier en 1900'
