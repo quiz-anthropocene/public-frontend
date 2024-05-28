@@ -173,3 +173,43 @@
   to_quiz: 79
   status: similaire
   created: '2024-02-22'
+- id: 37
+  from_quiz: 8
+  to_quiz: 107
+  status: traduction
+  created: '2024-05-28'
+- id: 38
+  from_quiz: 11
+  to_quiz: 108
+  status: traduction
+  created: '2024-05-28'
+- id: 39
+  from_quiz: 12
+  to_quiz: 109
+  status: traduction
+  created: '2024-05-28'
+- id: 40
+  from_quiz: 13
+  to_quiz: 110
+  status: traduction
+  created: '2024-05-28'
+- id: 41
+  from_quiz: 14
+  to_quiz: 111
+  status: traduction
+  created: '2024-05-28'
+- id: 42
+  from_quiz: 15
+  to_quiz: 112
+  status: traduction
+  created: '2024-05-28'
+- id: 43
+  from_quiz: 79
+  to_quiz: 113
+  status: traduction
+  created: '2024-05-28'
+- id: 44
+  from_quiz: 80
+  to_quiz: 114
+  status: traduction
+  created: '2024-05-28'

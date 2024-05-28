@@ -47516,3 +47516,2919 @@
   validation_date: null
   created: '2024-05-24'
   updated: '2024-05-24'
+- id: 1167
+  text: 'En 1978, un chercheur de Stanford déclare lors d''un colloque : « Le changement
+    climatique aura des conséquences sensibles en 2000 (+1°C), sérieuses pour l''économie
+    en 2038 (+2°C) et catastrophiques au niveau global en 2078 (+5°C)». Il complète
+    : «Une réorientation globale du système énergétique, c''est à dire une transition
+    douce vers une autre source d''énergie prendrait...»'
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: 30 ans
+  answer_choice_b: 50 ans
+  answer_choice_c: 100 ans
+  answer_choice_d: 200 ans
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Cette affirmation est tout à fait dans l'air du temps. Elle
+    n'était pas seulement le fait de quelques climatologues s'aventurant hors de leur
+    champ d'expertise. En 1985, la conférence de Villach qui préfigure la cération
+    du GIEC reprend cet argument dilatoire. Le voyant climatique (à trois niveaux)
+    était encore au vet. Même au stade jaune, les experts estimaient qu'il y aurait
+    encore du temps pour stimuler une transition douce. Aucune preuve n'était pourtant
+    donnée l'appui de ces affirmations, alors que ni l'histoire ni la prospective
+    ne portaient à le croire.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://pure.iiasa.ac.at/id/eprint/821/1/XB-78-502.pdf
+  answer_source_scientific_url_text: 'J.A. Laurmann :  "Fossil fuel utilization policy
+    assessment and CO2 induced Climate Change", in "Carbon Dioxyde, Climate and Society,
+    IAASA Proceeding Series, 1978, p. 253'
+  answer_book_recommendation: Sans Transition, Jean-Bapstiste Fressoz, Ecocène Seuil
+    2024, p. 279
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1168
+  text: Nel 2018, la concentrazione di CO2 nell'atmosfera ha superato le 410 ppm (parti
+    per milione). Quando è stata l'ultima volta che è successo?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 1 000 anni fa
+  answer_choice_b: 5 000 anni fa
+  answer_choice_c: 800 000 anni fa
+  answer_choice_d: Diversi milioni di anni fa
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: L’ultima volta è successo durante l'era geologica del Pliocene.
+    Le temperature globali erano più alte di 3-4°C rispetto ad oggi e il livello del
+    mare era più alto di 15-20 metri.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.cnr.it/it/news/12414/co2-in-atmosfera-ai-livelli-piu-alti-da-14-milioni-di-anni
+  answer_source_accessible_url_text: I livelli di CO2 nell'atmosfera sono i più alti
+    degli ultimi 14 milioni di anni (CNR)
+  answer_source_scientific_url: https://www.nature.com/articles/ncomms14845
+  answer_source_scientific_url_text: Future climate forcing potentially without precedent
+    in the last 420 million years (Foster et al 2017)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1169
+  text: Qual è il potenziale di riscaldamento globale a 100 anni del metano (CH4)
+    rispetto a quello della CO2?
+  hint: Il metano ha un potere riscaldante molto maggiore della CO2, anche se non
+    persiste altrettanto a lungo nell'atmosfera.
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: x 4 volte
+  answer_choice_b: x 16 volte
+  answer_choice_c: x 28 volte
+  answer_choice_d: x 42 volte
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Il potenziale di riscaldamento globale (abbreviato con GWP dall'inglese
+    “Global Warming Potential”) del metano è pari a 28. In altre parole, 1 kg di metano
+    ha lo stesso potere riscaldante di 28 kg di CO2. L'IPCC utilizza i valori di GWP
+    per convertire le varie emissioni di gas serra in unità comparabili di CO2 equivalente
+    (CO2eq) nel calcolo globali delle fonti e dei serbatoi.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/CO2_equivalente
+  answer_source_accessible_url_text: 'Gas serra: cos''è la "CO2 equivalente"?'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1170
+  text: Con l'attuale traiettoria delle emissioni, in quale anno i modelli IPCC prevedono
+    che raggiungeremo +1,5°C di riscaldamento rispetto all’epoca preindustriale?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: '2030'
+  answer_choice_b: '2040'
+  answer_choice_c: '2050'
+  answer_choice_d: '2060'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Con la traiettoria attuale, la temperatura media del pianeta
+    raggiungerà +1,5°C entro il 2040.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter1_Low_Res.pdf
+  answer_source_scientific_url_text: Capitolo 1 - Rapporto IPCC 2019
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1171
+  text: L'effetto serra addizionale generato dalle attività umane intrappola energia.
+    Che percentuale di questa energia viene assorbita dagli oceani?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 13 %
+  answer_choice_b: 53 %
+  answer_choice_c: 73 %
+  answer_choice_d: 91 %
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: L'acqua ha una forte capacità di assorbire il calore.  Al contrario,
+    l'atmosfera ne assorbe solo l'1%. E quando si riscalda, tra altre perturbazioni,
+    l'acqua si dilata. Immaginate quale sarebbe la temperatura dell'atmosfera se non
+    ci fossero gli oceani ad assorbire la maggior parte dell'energia in eccesso!
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.eea.europa.eu/it/segnali/segnali-2018/articoli/cambiamenti-climatici-e-acqua-2014
+  answer_source_accessible_url_text: Cambiamenti climatici e acqua — Oceani più caldi,
+    inondazioni e siccità
+  answer_source_scientific_url: https://ocean-climate.org/en/presentation-of-the-ocean-and-climate-scientific-items/the-ocean-a-heat-reservoir/
+  answer_source_scientific_url_text: L'oceano, un serbatoio di calore (inglese)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'Dove va a finire questa energia: nelle acque superficiali,
+    nelle acque profonde, nello scioglimento dei ghiacci, nel suolo, nell’aria'
+  answer_extra_info: 'https://ocean-climate.org/wp-content/uploads/2015/11/151030_FactSheets_EN_HD-1.pdf
+
+
+    https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter03_FINAL.pdf'
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1172
+  text: Se fermassimo oggi tutte le nostre emissioni di gas serra, quanto tempo ci
+    vorrebbe per tornare ai livelli precedenti la rivoluzione industriale?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 100 anni
+  answer_choice_b: 1 000 anni
+  answer_choice_c: 10 000 anni
+  answer_choice_d: 100 000 anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La rimozione mediante processi naturali della CO2 emessa dagli
+    esseri umani richiederà alcune centinaia di migliaia di anni. A seconda dello
+    scenario di emissioni considerato, circa il 15-40% della CO2 emessa rimarrà nell’atmosfera
+    per più di 1.000 anni. Questo tempo molto lungo per eliminare la CO2 di origine
+    antropica, rende anche in questo scenario irrealistico di emissioni 0, il cambiamento
+    climatico irreversibile su scala temporale umana.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.duegradi.eu/news/gas-serra/
+  answer_source_accessible_url_text: 'Gas serra: quali sono e come sono emessi'
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf
+  answer_source_scientific_url_text: Il carbonio e gli altri cicli biogeochimici -
+    Rapporto IPCC 2018 (inglese)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'Evoluzione delle nostre emissioni di CO2: dopo 200 anni
+    il 60% della CO2 in eccesso sarà ancora nell''atmosfera, dopo 2 000 anni quasi
+    il 40% e dopo 10 000 anni il 20%!'
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1173
+  text: La Groenlandia perde miliardi di tonnellate di ghiaccio ogni anno. Se tutta
+    quest'acqua fosse versata sul comune di Milano, quanto sarebbe alta?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 1,4 m
+  answer_choice_b: 14 m
+  answer_choice_c: 140 m
+  answer_choice_d: 1 400 m
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Se tutto il ghiaccio che la Groenlandia perde ogni anno - 250
+    miliardi di tonnellate nel 2019 - fosse sciolto sopra il comune di Milano (181
+    km2), la città sarebbe coperta da 1,4 km di acqua, ovvero l'altezza media degli
+    Appennini…
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.ipcc.ch/srocc/download#chapter3
+  answer_source_scientific_url_text: IPCC, Rapporto speciale sull'oceano e la criosfera
+    in un clima che cambia
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1174
+  text: Quale sarebbe la temperatura media sulla superficie terrestre senza l'effetto
+    serra naturale?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: -50°C
+  answer_choice_b: -18°C
+  answer_choice_c: 0°C
+  answer_choice_d: 15°C
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'effetto serra è un fenomeno naturale necessario per la vita
+    umana. È l'effetto serra addizionale generato dalle emissioni antropiche a provocare
+    l'alterazione del clima.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Effetto_serra
+  answer_source_accessible_url_text: Effetto serra - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1175
+  text: Quanta CO2 viene emessa in atmosfera ogni anno?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 370 milioni di tonnellate, ovvero 48 kg/persona in media a livello
+    mondiale
+  answer_choice_b: 3,7 miliardi di tonnellate, ovvero 480 kg/persona
+  answer_choice_c: 37 miliardi di tonnellate, ovvero 4,8 ton/persona
+  answer_choice_d: 370 miliardi di tonnellate, ovvero 48 ton/persona
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Nel 2019 sono state emesse 37 miliardi di tonnellate di CO2,
+    pari a circa 10 miliardi di tonnellate di carbonio, a causa dell'utilizzo di carbone,
+    petrolio e gas e della produzione di cemento. A queste vanno aggiunte 6 miliardi
+    di tonnellate derivanti dai cambiamenti nell'uso del suolo, con emissioni in aumento
+    e incrementate dagli incendi boschivi in Amazzonia e Indonesia. Ovvero, un totale
+    di 43 miliardi di tonnellate di anidride carbonica. Di conseguenza, la concentrazione
+    atmosferica di CO2 è destinata ad aumentare da 407,4 parti per milione nel 2018
+    a 410 ppm nel 2019 (media dell'anno).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.rinnovabili.it/mercato/politiche-e-normativa/emissioni-globali-2022-iea-e-nuovo-record-assoluto/
+  answer_source_accessible_url_text: 'Emissioni globali 2022, Iea: è nuovo record
+    assoluto'
+  answer_source_scientific_url: https://www.globalcarbonproject.org/carbonbudget/archive/2022/GCP_CarbonBudget_2022.pdf
+  answer_source_scientific_url_text: GCP - Carbon Budget 2022
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1176
+  text: Lo scioglimento della banchisa sta avendo un impatto su...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: il Niño
+  answer_choice_b: l’albedo (la riflessione dell'energia verso il cielo)
+  answer_choice_c: l’acidificazione degli oceani
+  answer_choice_d: l’aumento del livello dei mari
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: 'La banchisa svolge un ruolo essenziale: riflettendo i raggi
+    solari grazie al suo colore isola le acque fredde e mantiene basse le temperature
+    (l''albedo della banchisa, ovvero il suo potere riflettente, è del 95%). A causa
+    della riduzione della superficie della banchisa, una maggiore quantità di raggi
+    solari raggiunge l''acqua (pozzanghere, oceano), che assorbe più energia solare
+    di quanta ne rifletta. L''oceano si sta riscaldando ancora di più!'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Albedo
+  answer_source_accessible_url_text: Albedo - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: 'altri articoli: https://www.gjc.it/sites/default/files/lo_scioglimento_dei_ghiacciai.pdf
+    https://www.gjc.it/sites/default/files/lo_scioglimento_dei_ghiacciai.pdf'
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1177
+  text: Un pozzo (o serbatoio) di carbonio è un deposito che assorbe e immagazzina
+    in modo permanente l’anidride carbonica che circola nella biosfera. Che percentuale
+    di emissioni antropiche sono assorbite dai pozzi di carbonio naturali?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 20 %
+  answer_choice_b: 50 %
+  answer_choice_c: 90 %
+  answer_choice_d: 95 %
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: La biosfera (vegetazione) assorbe circa il 30% delle nostre
+    emissioni di CO2 e l'oceano poco meno del 25%.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.duegradi.eu/news/serbatoi-di-carbonio/
+  answer_source_accessible_url_text: Serbatoi di carbonio - Duegradi
+  answer_source_scientific_url: https://www.globalcarbonproject.org/carbonbudget/archive/2022/GCP_CarbonBudget_2022.pdf
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1178
+  text: Quale dei seguenti fenomeni NON causa l'innalzamento del livello degli oceani?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: La dilatazione dell'acqua dovuta al riscaldamento globale
+  answer_choice_b: Lo scioglimento delle calotte glaciali
+  answer_choice_c: Lo scioglimento della banchisa
+  answer_choice_d: Lo scioglimento dei ghiacciai
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: In virtù del principio di Archimede, la banchisa, che galleggia
+    sull'acqua, non fa salire il livello dell'acqua quando si scioglie. Fate un esperimento
+    un cubetto di ghiaccio nel vostro bicchiere! La situazione è diversa per le calotte
+    glaciali che si trovano su un terreno solido, come in Groenlandia e in Antartide.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Aumento_del_livello_del_mare
+  answer_source_accessible_url_text: Aumento del livello del mare - Wikipedia
+  answer_source_scientific_url: https://articomostra.cnr.it/index.php/sezione-1/livello-dei-mari-e-ghiaccio
+  answer_source_scientific_url_text: Ghiaccio e livello dei mari - CNR
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1179
+  text: Storicamente, che impatto ha avuto l'effetto serra sullo sviluppo della vita
+    sulla Terra?
+  hint: L'effetto serra contribuisce a mantenere sulla Terra una temperatura che consente
+    di mantenere dell'acqua allo stato liquido.
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Positivo
+  answer_choice_b: Neutro
+  answer_choice_c: Negativo
+  answer_choice_d: Dipende
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 'L''effetto serra è naturale e positivo per la vita. La temperatura
+    media sulla Terra è di 15°, ma senza l''effetto serra sarebbe di circa -18°C e
+    non ci sarebbe acqua allo stato liquido, e quindi vita. Il problema è l''effetto
+    serra addizionale di origine antropica. Vedi la carta n°13 dell’Affresco del Clima.
+
+    Anche la risposta d) non è sbagliata, perché nella storia del clima ci sono stati
+    episodi in cui l''effetto serra è stato così forte da causare estinzioni.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.isac.cnr.it/sites/default/files/2020-03/Effettoserra.pdf
+  answer_source_accessible_url_text: Come funziona l’effetto serra? - CNR
+  answer_source_scientific_url: https://www.climalteranti.it/2014/05/07/l-effetto-serra-e-il-motore-del-sistema-climatico/
+  answer_source_scientific_url_text: L’effetto serra e il motore del sistema climatico
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1180
+  text: Che percentuale delle emissioni di gas serra dell'Italia è costituita da metano?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 1 %
+  answer_choice_b: 11 %
+  answer_choice_c: 21 %
+  answer_choice_d: 31 %
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: 'Il metano rappresenta l''11% delle emissioni di gas serra dell''Italia
+    (in CO2 equivalente, al 2022).
+
+
+    45% di questo metano proviene dall''agricoltura (fermentazione enterica di animali,
+    bovini, ovini, ecc.), 40% dalla gestione dei rifiuti, e 14% dal settore energentico.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.wwf.it/uploads/report-metano-WWF-A4-web-1.pdf
+  answer_source_accessible_url_text: Le emissioni di metano in Italia, Report del
+    WWF
+  answer_source_scientific_url: https://www.isprambiente.gov.it/files2022/pubblicazioni/rapporti/r374-2022-1.pdf
+  answer_source_scientific_url_text: Il metano nell’inventario nazionale delle emissioni
+    di gas serra. L’Italia e il Global Methane Pledge, ISPRA
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1181
+  text: Entro quale anno le emissioni globali di CO2 dovranno scendere a zero per
+    limitare il riscaldamento globale a +1,5°C?
+  hint: Per limitare il riscaldamento globale a +2°C, le emissioni globali devono
+    raggiungere lo zero entro il 2060-2070. Vedi la carta n°5 dell’Affresco del Clima.
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: '2030'
+  answer_choice_b: '2050'
+  answer_choice_c: '2080'
+  answer_choice_d: '2100'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Nelle traiettorie di emissioni che limitano il riscaldamento
+    globale a +1,5°C, le emissioni di CO2 devono essere ridotte a zero entro il 2050
+    circa.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.ipcc.ch/sr15/chapter/spm/
+  answer_source_scientific_url_text: IPCC Global Warming 1.5 - Summary for policy
+    makers
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: Traiettorie di emissioni di gas serra per limitare il riscaldamento
+    globale a +1,5°C
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1182
+  text: Se non facciamo nulla, di quanto si alzerà il livello del mare nel 2100 rispetto
+    al 1850?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 1 m
+  answer_choice_b: 3 m
+  answer_choice_c: 7 m
+  answer_choice_d: 10 m
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 'Il livello dei mari è aumentato di circa 30 cm dall''era preindustriale
+    e, secondo le proiezioni dello scenario di tendenza (SSP 8.5), aumenterà di altri
+    70 cm entro il 2100.
+
+    Non sembra molto? Le aree costiere impattate rischiano: (i) la sommersione permanente
+    del territorio; (ii) inondazioni più frequenti o intense; (iii) maggiore erosione;
+    (iv) perdita e cambiamento degli ecosistemi; (v) salinizzazione dei suoli, delle
+    acque sotterranee e superficiali.
+
+    E circa l''11% della popolazione mondiale vive in queste aree costiere (ad un''altezza
+    inferiore a 10 metri), ovvero 800 milioni di persone!'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.climalteranti.it/2013/08/31/linevitabilita-dellinnalzamento-del-livello-del-mare/
+  answer_source_accessible_url_text: L’inevitabilità dell’innalzamento del livello
+    del mare
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf
+  answer_source_scientific_url_text: Cambiamento del livello del mare - Rapporto IPCC
+    2018
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: L'innalzamento dei mari è dovuto a un aumento della massa
+    dell'acqua (proveniente dallo scioglimento di ghiacciai e calotte polari) e a
+    un aumento del suo volume (dilatazione). Questa dilatazione non è uniforme, ma
+    cambia con la temperatura dell'acqua, ed è quindi estremamente difficile da calcolare
+    (occorre infatti misurare tutte le temperature attuali su tutta la superficie
+    e la profondità degli oceani, e sapere come aumenteranno). Per questo le previsioni
+    dell'IPCC sull'innalzamento del livello dell'acqua sono per ora molto prudenti
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1183
+  text: Quanto tempo impiega, approssimativamente, la transizione in un'era glaciale
+    (o in una sglaciazione)?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 4
+  language: ITALIAN
+  answer_choice_a: qualche anno
+  answer_choice_b: qualche secolo
+  answer_choice_c: qualche migliaio di anni
+  answer_choice_d: qualche milione di anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: A differenza di quanto si vede in "L'era glaciale" o "The Day
+    After Tomorrow", l'inizio di un'era glaciale dura migliaia di anni. Ci sono voluti
+    10 000 anni uscire dall'ultima era glaciale, che ha provocato un aumento di 5°C.
+    Come risultato del riscaldamento antropogenico, gli scienziati dell'IPCC prevedono
+    un riscaldamento medio di circa 5°C... in 100 anni.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Periodo_interglaciale
+  answer_source_accessible_url_text: Periodo interglaciale - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1184
+  text: In quale anno la concentrazione di CO2 nell'atmosfera ha superato il massimo
+    degli ultimi 800 000 anni?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: '1910'
+  answer_choice_b: '1930'
+  answer_choice_c: '1950'
+  answer_choice_d: '1970'
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 'Nel 1908, la concentrazione di CO2 nell''atmosfera è diventata
+    la più alta da almeno 800 000 anni, poco prima di raggiungere le 300 ppm.
+
+
+    Il valore più alto mai misurato risale al 311 000 a.C. (misurato nelle carote
+    di ghiaccio antartiche).'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.focus.it/ambiente/ecologia/co2-in-atmosfera-anidride-carbonica
+  answer_source_accessible_url_text: 'CO2 in atmosfera: mai così alta in 800.000 anni'
+  answer_source_scientific_url: https://www.ncdc.noaa.gov/paleo-search/?dataTypeId=7
+  answer_source_scientific_url_text: Paleo Data - NCDC
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1185
+  text: Che percentuale della CO2 prodotta dagli esseri umani viene assorbita dagli
+    oceani?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 5 %
+  answer_choice_b: 25 %
+  answer_choice_c: 45 %
+  answer_choice_d: 65 %
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Circa il 25% della CO2 di origine antropica viene assorbita
+    dagli oceani.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.duegradi.eu/news/serbatoi-di-carbonio/
+  answer_source_accessible_url_text: Serbatoi di carbonio - Duegradi
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/3/2019/11/09_SROCC_Ch05_FINAL-1.pdf#page450
+  answer_source_scientific_url_text: Changing Ocean,  Marine Ecosystems, and  Dependent
+    Communities
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1186
+  text: In 40 anni, di quanto è diminuita la superficie della banchisa artica (misurata
+    alla fine dell'estate)?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: '- 500 000 km² (la dimensione della Spagna)'
+  answer_choice_b: '- 1 000 000 km² (la dimensione dell''Egitto)'
+  answer_choice_c: '- 2 000 000 km² (la dimensione del Messico)'
+  answer_choice_d: '- 3 000 000 km² (la dimensione dell''India)'
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: In 40 anni, la banchisa artica estiva si è ridotta di circa
+    3 milioni di km2, pari alla superficie dell'India (o a circa 11 volte la superficie
+    dell’Italia). Nell'estate del 2019 si era ridotto a 4 milioni di km2. L'Antartide
+    ha perso la stessa superficie solo negli ultimi 3 anni.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.pnas.org/doi/10.1073/pnas.1906556116
+  answer_source_accessible_url_text: A 40-y record reveals gradual Antarctic sea ice
+    increases followed by decreases at rates far exceeding the rates seen in the Arctic
+  answer_source_scientific_url: https://www.pnas.org/doi/10.1073/pnas.1906556116
+  answer_source_scientific_url_text: In 3 anni l'Antartide ha perso tanto ghiaccio
+    marino quanto l'Artico in 35 anni (in francese)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1187
+  text: A livello mondiale, qual è la principale fonte di emissioni di metano in atmosfera?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Agricoltura e allevamento
+  answer_choice_b: Combustibili fossili
+  answer_choice_c: Zone umide
+  answer_choice_d: Permafrost
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: La principale fonte di metano al mondo è costituita dalle zone
+    umide. Le fonti naturali rappresentano solo il 40% delle emissioni di metano,
+    mentre il resto è di origine antropica.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.cmcc.it/it/articolo/methane-all-the-data-of-a-key-factor-affecting-climate-change
+  answer_source_accessible_url_text: 'Metano: tutti i numeri di un protagonista del
+    climate change'
+  answer_source_scientific_url: https://www.iea.org/reports/methane-tracker-2020
+  answer_source_scientific_url_text: Methane Tracker 2020 – Analysis - IEA
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1188
+  text: La caratteristica dei gas serra è quella di assorbire le radiazioni. Sì, ma
+    quali?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Raggi infrarossi
+  answer_choice_b: Luce visibile
+  answer_choice_c: Raggi X
+  answer_choice_d: Luce ultravioletta
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: 'I gas serra assorbono la radiazione infrarossa emessa dalla
+    terra e poi riemettono questo calore in tutte le direzioni. Lo scambio di energia
+    tra il suolo e l''atmosfera, compresi i gas serra, si traduce in una "cattura"
+    dell''energia irradiata. Possiamo pensare all''effetto serra come a un piumone:
+    sotto il piumone stiamo bene in termini di temperatura, il piumone è l''effetto
+    serra naturale. Tutti i gas serra immessi dagli esseri umani in atmosfera aggiungono
+    piume al piumone, che diventa sempre più caldo.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Effetto_serra
+  answer_source_accessible_url_text: Effetto serra - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1189
+  text: Durante l'ultima deglaciazione, la Terra si è riscaldata di circa 5°C. In
+    quanti anni?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 100 anni
+  answer_choice_b: 1 000 anni
+  answer_choice_c: 10 000 anni
+  answer_choice_d: 125 000 anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: E +4-5°C è lo stesso aumento che possiamo aspettarci entro il
+    2100 se non facciamo nulla di serio per impedirlo. A questo ritmo di riscaldamento,
+    la flora non sarà in grado di adattarsi abbastanza rapidamente. E anche in questo
+    caso, stiamo parlando solo di medie, non di temperature estreme. Gli aumenti varieranno
+    notevolmente da una regione all'altra del mondo.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.climalteranti.it/2013/02/03/i-periodi-caldi-del-passato-e-il-riscaldamento-attuale/
+  answer_source_accessible_url_text: I periodi caldi del passato e il riscaldamento
+    attuale
+  answer_source_scientific_url: https://www.nature.com/articles/nature10915
+  answer_source_scientific_url_text: Global warming preceded by increasing carbon
+    dioxide concentrations during the last deglaciation (Shakun et al 2012)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: https://www.cnr.it/it/news/9617/quali-erano-le-condizioni-meteo-un-giorno-di-agosto-di-21-000-anni-fa
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1190
+  text: Quale percentuale della CO2 rilasciata dall'attività umana è immagazzinata
+    nella vegetazione e nel suolo?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 1 %
+  answer_choice_b: 10 %
+  answer_choice_c: 30 %
+  answer_choice_d: 70 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'La maggior parte delle emissioni di CO2 prodotte dall''umanità
+    (a causa dei combustibili fossili e della deforestazione) finisce nell''atmosfera
+    (~45%) e ci causa qualche “problemino” con il clima.
+
+    Circa il 30% della CO2 emessa si dissolve negli oceani, contribuendo alla loro
+    acidificazione.
+
+    Il resto (~25%) viene assorbito dalla vegetazione.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://feder.bio/giornata-mondiale-un-suolo-salute-immagazzina-piu-co2-quella-stoccata-atmosfera-nella-vegetazione/e/
+  answer_source_accessible_url_text: Un suolo in salute immagazzina più CO2 di quella
+    stoccata in atmosfera e nella vegetazione
+  answer_source_scientific_url: https://www.globalcarbonproject.org/carbonbudget/19/presentation.htm
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: A sinistra, le sorgenti. A destra, i pozzi. Il 4% rappresenta
+    lo squilibrio.
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1191
+  text: Il secondo gas a effetto serra di origine antropica è il metano. Per la maggior
+    parte è prodotto da...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: dalla deforestazione
+  answer_choice_b: dallo scioglimento del permafrost
+  answer_choice_c: dai frigoriferi
+  answer_choice_d: dai ruminanti
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: Ci sono anche risaie e fughe di gas. Lo scongelamento del permafrost
+    a seguito del riscaldamento globale potrebbe rilasciare quantità astronomiche
+    di metano nell'atmosfera.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.cmcc.it/it/articolo/methane-all-the-data-of-a-key-factor-affecting-climate-change
+  answer_source_accessible_url_text: 'Metano: tutti i numeri di un protagonista del
+    climate change'
+  answer_source_scientific_url: https://www.iea.org/reports/methane-tracker-2020
+  answer_source_scientific_url_text: Methane Tracker 2020 – Analysis - IEA
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1192
+  text: Quale di questi non è un gas a effetto serra?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Protossido di azoto (N2O)
+  answer_choice_b: Anidride carbonica (CO2)
+  answer_choice_c: Vapore acqueo (H2O)
+  answer_choice_d: Ossigeno (O2)
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: Questi gas assorbono parte della radiazione infrarossa emessa
+    dalla superficie terrestre, immagazzinando energia invece di rimandarla nello
+    spazio. Il metano è un altro gas a effetto serra che contribuisce in modo significativo
+    al riscaldamento globale. Anche il vapore acqueo è un potente gas serra, addirittura
+    il principale, ma è poco influenzato dalle attività umane.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.duegradi.eu/news/gas-serra/
+  answer_source_accessible_url_text: 'Gas serra: quali sono e come sono emessi'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'Il metano e il protossido di azoto sono rispettivamente
+    28 e 298 volte più potenti della CO2 in termini di potenziale di riscaldamento
+    globale. '
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1193
+  text: Il ghiacciaio dell'Adamello, il più grande d'Italia, si sta riducendo progressivamente.
+    Da metà 1800, quanta superficie ha perso?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 10 %
+  answer_choice_b: '30 % '
+  answer_choice_c: 50 %
+  answer_choice_d: 70 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Durante la Piccola Età Glaciale (terminata a metà del 1800),
+    il Massiccio dell’Adamello insieme al Presanella ha ospitato oltre 100 corpi glaciali.
+    Da allora, i ghiacciai presenti sul Massiccio hanno perso oltre il 50% della superficie
+    totale (dati Carlo Baroni, Responsabile Alpi Centrali CGI). Lo scioglimento ha
+    notevolmente accelerato a partire dall'inizio degli anni '90, e oggi perde 14
+    milioni di metri cubi di acqua all'anno (pari a 5.600 piscine olimpioniche).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ilgiorno.it/brescia/cronaca/adamello-la-grande-ritirata-del-ghiacciaio-piu-esteso-ditalia-gppf32qk?live
+  answer_source_accessible_url_text: Adamello, la grande ritirata del ghiacciaio più
+    esteso d’Italia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1194
+  text: L'acidificazione degli oceani è una conseguenza...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: delle emissioni di CO2 prodotte dalle attività umane
+  answer_choice_b: dell’eutrofizzazione (mancanza di ossigeno)
+  answer_choice_c: della fotosintesi
+  answer_choice_d: del riscaldamento dell'aria
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: Una parte della CO2 presente in atmosfera si dissolve quando
+    entra in contatto con l'oceano. La ritroviamo poi nell'acqua in varie forme, tra
+    cui l'acido carbonico. L'acidificazione è aumentata del 26% dall'inizio della
+    rivoluzione industriale (1800). Ma alcuni modelli di previsione prevedono un aumento
+    del 150% dell'acidità entro il 2100. L'attuale tasso di acidificazione degli oceani
+    è quindi dieci volte più veloce che in qualsiasi altro momento degli ultimi 55
+    milioni di anni.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ilpost.it/2020/11/17/acidificazione-degli-oceani/
+  answer_source_accessible_url_text: Acidificazione degli oceani - Ilpost.it
+  answer_source_scientific_url: https://ocean-climate.org/en/awareness/the-impact-of-climate-change-on-the-ocean/
+  answer_source_scientific_url_text: Ocean Acidification
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1195
+  text: In termini di emissioni globali di gas serra, il settore dell'agricoltura
+    e dell'uso del suolo rappresenta...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 15 %
+  answer_choice_b: 25 %
+  answer_choice_c: 35 %
+  answer_choice_d: 45 %
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Circa la metà di queste emissioni è dovuta all'agricoltura e
+    all'allevamento (fertilizzanti, bestiame, letame, coltivazione del riso), mentre
+    l'altra metà è dovuta alla deforestazione e ai cambiamenti nell'uso del suolo.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.duegradi.eu/news/gas-serra/
+  answer_source_accessible_url_text: 'Gas serra: quali sono e come sono emessi'
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/03_Technical-Summary-TS.pdf
+  answer_source_scientific_url_text: Sintesi tecnica - Rapporto IPCC 2019 (pag.21)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1196
+  text: Quale fu la causa naturale delle glaciazioni e deglaciazioni del periodo Quaternario,
+    iniziato 2,6 milioni di anni fa e tuttora in corso?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Variazioni del livello del mare
+  answer_choice_b: Variazioni dell'orbita terrestre
+  answer_choice_c: Variazioni di CO2
+  answer_choice_d: Emissioni antropiche di CO2
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: 'Le glaciazioni e le deglaciazioni sono innescate da variazioni
+    delle orbite terrestri, che modificano l''insolazione: variazioni della traiettoria
+    della Terra intorno al Sole, e variazioni dell''inclinazione dell''asse di rotazione
+    terrestre. Sono state le principali cause dei cambiamenti climatici radiali nella
+    storia della Terra.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.sapere.it/enciclopedia/glaciazi%C3%B3ne.html
+  answer_source_accessible_url_text: Glaciazione - Enciclopedia
+  answer_source_scientific_url: https://www.cnr.it/it/news/9617/quali-erano-le-condizioni-meteo-un-giorno-di-agosto-di-21-000-anni-fa
+  answer_source_scientific_url_text: Quali erano le condizioni meteo un giorno di
+    agosto di 21.000 anni fa? - CNR
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1197
+  text: La deforestazione consiste nell'abbattere o bruciare gli alberi oltre la loro
+    capacità di rinnovamento. La principale causa della deforestazione nel mondo è...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: l’agricoltura
+  answer_choice_b: l’edilizia / urbanizzazione
+  answer_choice_c: l'industria
+  answer_choice_d: i trasporti
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: Dall'arrivo dell'Homo Sapiens, siamo passati da 60 a 40 miliardi
+    di ettari di foresta. Le cause principali della deforestazione (per l’80%) sono
+    l'agricoltura (soia, olio di palma, ecc.) e l'allevamento. Ma ci sono anche la
+    costruzione di dighe idroelettriche e infrastrutture stradali, l'industria mineraria,
+    gli incendi boschivi e il traffico di legname.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.salviamolaforesta.org/aggiornamenti/10928/lagricoltura-causa-il-90-della-distruzione-delle-foreste
+  answer_source_accessible_url_text: L'agricoltura causa il 90% della distruzione
+    delle foreste
+  answer_source_scientific_url: https://openknowledge.fao.org/server/api/core/bitstreams/fe22a597-a39d-4765-8393-95fbcaed6416/content
+  answer_source_scientific_url_text: 'Tropical rainforests under pressure as agricultural
+
+    expansion drives global deforestation'
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: I Paesi più colpiti dalla deforestazione. Le % in blu rappresentano
+    la percentuale di legno che viene esportato. Vengono inoltre illustrate le principali
+    cause per paese.
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1198
+  text: Vero o falso? Le eruzioni vulcaniche raffreddano il clima.
+  hint: Le grandi eruzioni vulcaniche scatenatisi dopo la caduta dell’asteroide, potrebbero
+    essere la causa dell'estinzione dei dinosauri. Vedi la carta n°14 dell’Affresco
+    del Clima.
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Le eruzioni vulcaniche proiettano nell'atmosfera particelle
+    fini (aerosol) che riflettono i raggi solari, con un effetto di raffreddamento
+    che può essere molto significativo, ma in un periodo di tempo breve, tra 1 a 3
+    anni.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.euronews.com/green/2022/03/07/esiste-una-correlazione-tra-vulcani-e-cambiamento-climatico
+  answer_source_accessible_url_text: 'Esiste una correlazione tra vulcani e cambiamento
+    climatico? '
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'Fonte : www.meteocontact.fr'
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1199
+  text: Quanti anni ci vogliono perché l'eccesso di CO2 emesso inizi a essere rimosso
+    dall'atmosfera?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 4
+  language: ITALIAN
+  answer_choice_a: 1 anno
+  answer_choice_b: 10 anni
+  answer_choice_c: 100 anni
+  answer_choice_d: 1 000 anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Il tempo di permanenza (o, più precisamente, l'emivita) di una
+    particella di CO2 nell'atmosfera è di 100 anni, ma ci vogliono più di 10 000 anni
+    per smaltirle tutte. Ecco perché il cambiamento climatico è fondamentalmente irreversibile
+    su scala umana.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.climalteranti.it/2020/07/30/quanto-a-lungo-rimane-la-co2-in-atmosfera/
+  answer_source_accessible_url_text: Quanto a lungo rimane la CO2 in atmosfera?
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1200
+  text: È alla fine dell'estate, a settembre, che la superficie della banchisa artica
+    è al minimo. Come è cambiata questa superficie minima negli ultimi 40 anni?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: È rimasta stabile
+  answer_choice_b: È diminuita del 10%
+  answer_choice_c: Si è dimezzata
+  answer_choice_d: È diminuita del 90%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La causa di questo eccezionale scioglimento nel corso degli
+    anni è ben nota. L'aumento delle temperature globali ha subito un'accelerazione
+    negli ultimi decenni, ed è particolarmente marcata nell'Artico.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.infodata.ilsole24ore.com/2023/04/03/lestensione-del-ghiacchio-marino-artico-e-ai-mini-storici/
+  answer_source_accessible_url_text: ' L’estensione del ghiaccio marino artico è ai
+    minimi storici '
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1201
+  text: Che percentuale delle emissioni mondiali di gas a effetto serra derivanti
+    dai trasporti proviene dall'aviazione (voli internazionali e nazionali)?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 10 %
+  answer_choice_b: 15 %
+  answer_choice_c: 20 %
+  answer_choice_d: 25 %
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Questo dato è minore dell'11% del trasporto marittimo e il 72%
+    del trasporto su gomma. Ma gran parte di questi spostamenti sono evitabili e sono
+    effettuati soprattutto dalle fasce più abbienti della popolazione.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf
+  answer_source_scientific_url_text: Trasporti - Rapporto IPCC 2018
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1202
+  text: Quando diciamo che la temperatura media aumenterà tra +3° e +5°C da qui al
+    2100, significa che sulla terraferma...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: sarà tra +1°C e +3°C
+  answer_choice_b: sarà tra +2°C e +5°C
+  answer_choice_c: sarà tra +6°C e +10°C
+  answer_choice_d: sarà tra +9°C e +15°C
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Il 70% della superficie terrestre è coperto dagli oceani, il
+    restante 30% dalla terraferma, e il riscaldamento è maggiore sulla terraferma
+    che sugli oceani.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ipcc.ch/report/ar6/wg1/figures/technical-summary/figure-ts-7/
+  answer_source_accessible_url_text: 'Simulated and observed changes in temperature
+    up to 2014 - Figure TS.7 in IPCC, 2021: Technical Summary. In: Climate Change
+    2021: The Physical Science Basis.'
+  answer_source_scientific_url: https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf
+  answer_source_scientific_url_text: IPCC, AR6, Summary for Policymakers (page 5)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: L'oceano è in blu, la terra in rosso.
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1203
+  text: Che effetto hanno gli aerosol sul clima?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Hanno un effetto nocivo sulla salute. Ma nessun effetto sul clima.
+  answer_choice_b: Distruggono lo strato di ozono
+  answer_choice_c: Lo raffreddano
+  answer_choice_d: Lo riscaldano
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: Gli aerosol sono particelle sottili con proprietà riflettenti,
+    come le nuvole. Senza di essi, il clima si riscalderebbe tra +0,5° e 1,2°C. Questo
+    è ciò che accadrà quando smetteremo di bruciare combustibili fossili.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.climalteranti.it/2020/10/30/aerosol-la-materia-oscura-del-sistema-climatico/
+  answer_source_accessible_url_text: Aerosol, la “materia oscura” del sistema climatico
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'Influenze contrastanti dei gas serra (giallo) e degli aerosol
+    (blu) sulla temperatura superficiale (sinistra) e sulle precipitazioni (destra).
+    L''effetto netto è contrassegnato da un punto rosso. Vengono analizzate diverse
+    parti del mondo. Credits: N. CARY/SCIENZA.'
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1204
+  text: Quanti bambini nel mondo vivono in aree che vengono allagate almeno una volta
+    all'anno?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 20 milioni
+  answer_choice_b: 100 milioni
+  answer_choice_c: 500 milioni
+  answer_choice_d: 1 miliardo
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: In tutto il mondo, più di 500 milioni di bambini vivono in aree
+    soggette a inondazioni estreme (ovvero inondate più di una volta all'anno).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.unicef.it/media/crisi-climatica-43-1-milioni-di-bambini-sfollati-interni-in-44-paesi-in-6-anni-circa-20-000-al-giorno/
+  answer_source_accessible_url_text: 'Crisi climatica: 43,1 milioni di bambini sfollati
+    interni in 44 paesi in 6 anni, circa 20.000 al giorno'
+  answer_source_scientific_url: https://www.unicef.org/sites/default/files/2019-02/Unless_we_act_now_Executive_summary-FR.pdf
+  answer_source_scientific_url_text: È tempo di agire, Impatto dei cambiamenti climatici
+    sui bambini - UNICEF
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1205
+  text: Il permafrost è un terreno in cui la temperatura rimane al di sotto degli
+    0°C. Copre il 20% della superficie terrestre. Cosa rilascia principalmente quando
+    si scongela a causa del riscaldamento globale?
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: della CO2
+  answer_choice_b: dell'acqua
+  answer_choice_c: del metano
+  answer_choice_d: della NO2
+  answer_correct: ac
+  has_ordered_answers: false
+  answer_explanation: Il rilascio di grandi quantità di metano intrappolato nel permafrost
+    avrebbe un effetto devastante sul clima del pianeta. E anche virus del passato
+    o ancora sconosciuti... Il permafrost viene spesso definito una potenziale bomba
+    climatica. Inoltre, rilascia anche CO2.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.rinnovabili.it/clima-e-ambiente/cambiamenti-climatici/disgelo-del-permafrost-siberia/
+  answer_source_accessible_url_text: Il disgelo del permafrost tra gas serra, antichi
+    virus e disastri ambientali
+  answer_source_scientific_url: https://www.nature.com/articles/480032a
+  answer_source_scientific_url_text: Alto rischio di disgelo del permafrost - Schuur
+    e Abbott 2011
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: https://multimedia.scmp.com/news/world/article/3000839/permafrost/
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1206
+  text: Quale scala temporale utilizzano i climatologi per caratterizzare il clima?
+  hint: La climatologia si occupa dei valori medi dei parametri meteorologici nell'arco
+    di diversi decenni.
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 1 anno
+  answer_choice_b: 10 anni
+  answer_choice_c: 30 anni
+  answer_choice_d: 100 anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: I valori normali climatici sono i valori medi o caratteristici
+    di una variabile climatica su un periodo di riferimento di 30 anni. Ci permettono
+    di caratterizzare il clima in questa durata di tempo e fungono da punto riferimento.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.treccani.it/enciclopedia/tempo-e-clima_(Enciclopedia-della-Scienza-e-della-Tecnica)/
+  answer_source_accessible_url_text: Tempo e Clima - Enciclopedia Treccani
+  answer_source_scientific_url: https://www.isprambiente.gov.it/files2022/pubblicazioni/stato-ambiente/i-normali-climatici-1991-2020-di-temperatura-e-precipitazione-in-italia.pdf
+  answer_source_scientific_url_text: I normali climatici 1991-2020 di temperatura
+    e precipitazione in Italia - ISPRA
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1207
+  text: Se non si fa nulla per mitigare la crisi climatica, tra 50 anni quante persone
+    vivranno in zone più calde del Sahara?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 200 milioni
+  answer_choice_b: 1 miliardo
+  answer_choice_c: 3,5 miliardi
+  answer_choice_d: 7 miliardi
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Questi 3,5 miliardi di persone lascerebbero quindi la "nicchia
+    climatica" in cui le loro società hanno prosperato per seimila anni. Queste sono
+    le conclusioni di un recente studio che evidenzia i rischi massimi a cui il mondo
+    potrebbe essere sottoposto nei prossimi decenni, a meno che non si riesca a invertire
+    la tendenza.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.lifegate.it/clima-2070-caldo-pnas
+  answer_source_accessible_url_text: Nel 2070 un terzo dell’umanità potrebbe vivere
+    in regioni calde come il Sahara
+  answer_source_scientific_url: https://www.pnas.org/content/early/2020/04/28/1910114117
+  answer_source_scientific_url_text: Il futuro della nicchia climatica umana (Xu et
+    al 2020)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1208
+  text: Che percentuale delle emissioni di gas serra nel mondo è causata dal carbone?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 25 %
+  answer_choice_b: 45 %
+  answer_choice_c: 65 %
+  answer_choice_d: 85 %
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: A livello mondiale, il carbone è responsabile del 25% delle
+    emissioni di gas serra di origine antropica. Il gas e il petrolio sono responsabili
+    del 20% ciascuno, mentre il resto sono emissioni dirette (da agricoltura, processi,
+    ecc.).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ourworldindata.org/emissions-by-fuel
+  answer_source_accessible_url_text: 'Emissioni globali di CO2: una panoramica per
+    fonte e per paese'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1209
+  text: Quale dei seguenti fenomeni è influenzato dalla crisi climatica?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Scomparsa di specie animali
+  answer_choice_b: Migrazioni umane su larga scala
+  answer_choice_c: Terremoti
+  answer_choice_d: Recessione economica
+  answer_correct: abcd
+  has_ordered_answers: false
+  answer_explanation: 'Oltre agli ovvi e dimostrati impatti sulla biodiversità, sulle
+    migrazioni e sull''economia sono ben noti, meno ovvio è il legame coi terremoti.
+    Ma diversi nuovi studi mostrano una correlazione tra il cambiamento climati e
+    i terremoti: i terremoti da gelo, i terremoti da monsoni, i terremoti da rimbalzo,
+    i terremoti da innalzamento del livello dei mari e terremoti da eccesso di neve...'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ilmeteo.net/notizie/scienza/i-terremoti-da-gelo-stanno-diventando-sempre-piu-frequenti-a-causa-del-cambiamento-climatico.html
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.preventionweb.net/news/frostquakes-new-earthquake-risk-north
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'Esempi di conseguenze del cambiamento climatico: incendi,
+    siccità, uragani. Fonte : Shutterstock.com'
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1210
+  text: Su scala globale, quanti barili di petrolio sono stati consumati al giorno
+    nel 2020?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 100 000 barili, ovvero l'energia che produrrebbero 1 miliardo di
+    persone in 1 giorno lavorando manualmente
+  answer_choice_b: 1 milione di barili - 10 miliardi di persone con lo stesso ritmo
+  answer_choice_c: 10 milioni di barili - 100 miliardi di persone
+  answer_choice_d: 100 milioni di barili - 1 000 miliardi di persone
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Il petrolio viene consumato in quantità maggiori rispetto al
+    passato. Ne è prova il fatto che alla fine del 2018 è stato superato il traguardo
+    dei 100 milioni di barili al giorno. Ciò equivale a 16 miliardi di litri, ovvero
+    6 400 piscine olimpioniche.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ilsole24ore.com/art/il-grande-crash-domanda-petrolio-2020-radiografia-AD9QdQAB
+  answer_source_accessible_url_text: Domanda petrolio 2020
+  answer_source_scientific_url: https://iea.blob.core.windows.net/assets/8b420d70-b71d-412d-a4f0-869d656304e4/Italian-Summary-WEO2020.pdf
+  answer_source_scientific_url_text: World Energy Outlook - EIA 2020
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1211
+  text: Come è cambiata la temperatura media della Terra dal 1850 a oggi?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: +0,1°C
+  answer_choice_b: +0,5°C
+  answer_choice_c: +1,2°C
+  answer_choice_d: +2°C
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Questa media si riferisce all'intero pianeta (terra, oceani)
+    e su un periodo di 30 anni. Secondo gli scenari dell'IPCC, nel 2100 l'aumento
+    sarà compreso tra i 2°C e i 5°C. Tuttavia, durante l'ultima glaciazione, 20 000
+    anni fa, la temperatura era di soli 5°C inferiore a quella attuale... e la deglaciazione
+    è durata 10 000 anni.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ipccitalia.cmcc.it/messaggi-chiave-ar6-wg1/
+  answer_source_accessible_url_text: Lo stato attuale del clima, IPCC 2021
+  answer_source_scientific_url: https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/#figure-11-2
+  answer_source_scientific_url_text: Time series of observed temperature anomalies
+    for global average annual mean temperature
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: Time series of observed temperature anomalies for global
+    average annual mean temperature
+  answer_extra_info: 'Source image: http://www.donnees.statistiques.developpement-durable.gouv.fr/lesessentiels/climat/images/effet-de-serre-2-b.jpg'
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1212
+  text: Quale Paese dell'Unione Europea è stato il primo ad adottare una strategia
+    nazionale di adattamento ai cambiamenti climatici?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 4
+  language: ITALIAN
+  answer_choice_a: Danimarca
+  answer_choice_b: Finlandia
+  answer_choice_c: Francia
+  answer_choice_d: Paesi Bassi
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: Nel 2005, la Finlandia è stata il primo Paese dell'Unione Europea
+    ad adottare una strategia nazionale di adattamento ai cambiamenti climatici. Spagna
+    e Francia sono state seconde nel 2006.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.eea.europa.eu/data-and-maps/figures/overview-of-national-and-sectoral-3
+  answer_source_scientific_url_text: Panoramica delle strategie e dei piani nazionali
+    di adattamento ai cambiamenti climatici in Europa
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1213
+  text: Nel 1850, la concentrazione di CO2 nell'atmosfera era di 280 ppm (parti per
+    milione, 1% = 10 000 ppm). Qual è la sua concentrazione attuale (nel 2019)?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 280 ppm
+  answer_choice_b: 315 ppm
+  answer_choice_c: 415 ppm
+  answer_choice_d: 480 ppm
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: È questo aumento della concentrazione di CO2 nell'atmosfera
+    che, combinato con altri gas serra come il metano e il protossido di azoto, genera
+    un effetto serra addizionale che altera il clima. Secondo l'agenzia americana
+    NOAA, bisogna risalire a 3,6 milioni di anni fa per trovare una concentrazione
+    paragonabile. A quel tempo, la temperatura media globale era di 2 gradi più calda,
+    il livello del mare era più alto di 24 metri, le foreste ricoprivano l'Artico
+    e faceva molto caldo in quella che oggi è l'Europa... Al ritmo attuale, la concentrazione
+    di 450 ppm, che ufficialmente suona la campana a morto per l'obiettivo di limitare
+    il riscaldamento globale a +2°C, sarà raggiunta entro una dozzina di anni. Se
+    si considerano tutti i gas serra messi insieme, siamo addirittura a 504 ppm di
+    CO2 equivalente. E stiamo tornando verso l'Eocene, che era lontano decine di milioni
+    di anni. Con una temperatura media di circa 30°C, all'epoca non c'erano ghiacciai
+    sulla Terra.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://storieminerali.it/curva-keeling/
+  answer_source_accessible_url_text: La curva di Keeling, monitoraggio della concentrazione
+    di CO2 atmosferica presso l'osservatorio di Mauna Loa alle Hawaii
+  answer_source_scientific_url: https://climate.copernicus.eu/sites/default/files/2022-01/C3S-CAMS%20annual%20temp%20data%20and%20CO2%202021_press%20release_ITA%20%281%29_0.pdf
+  answer_source_scientific_url_text: 'Copernicus: Gli ultimi sette anni sono i più
+    caldi a
+
+    livello globale; le concentrazioni di anidride
+
+    carbonica e metano continuano ad aumentare'
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: https://ourworldindata.org/grapher/global-co-concentration-ppm
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1214
+  text: Ogni anno i deserti del mondo continuano a crescere di...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 1 200 km² (superficie della provincia di Varese)
+  answer_choice_b: 15 000 km² (superficie della Calabria)
+  answer_choice_c: 120 000 km² (superficie della Grecia)
+  answer_choice_d: 1 200 000 km² (superficie dell’Europa Centrale)
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Si tratta del 40% della superficie dell’Italia.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.swissinfo.ch/ita/societa/la-malattia-della-terra-che-minaccia-popoli-e-clima/36082304
+  answer_source_accessible_url_text: La malattia della terra che minaccia popoli e
+    clima
+  answer_source_scientific_url: https://www.lifegate.it/storie-paesi-combattono-desertificazione
+  answer_source_scientific_url_text: '
+
+    Storie di paesi che combattono la desertificazione'
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1215
+  text: Ogni anno, l'Internal Displacement Monitoring Centre (IDMC) misura il numero
+    di sfollati interni nel mondo a causa di disastri naturali o conflitti. Nel 2019,
+    questa cifra era di 33 milioni. Quale percentuale di questi spostamenti è dovuta
+    a disastri naturali?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 30 %
+  answer_choice_b: 50 %
+  answer_choice_c: 75 %
+  answer_choice_d: 90 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: I disastri naturali hanno causato 25 milioni di sfollati nel
+    2019, il triplo rispetto alle guerre e alla violenza (8,5 milioni). I paesi dell'Asia
+    meridionale e sudorientale sono i più colpiti. Tuttavia, i conflitti e la violenza
+    comportano periodi di sfollamento più lunghi. In totale, il numero di sfollati
+    interni alla fine del 2019 sarà di 50,8 milioni (un record), pari al doppio del
+    numero di rifugiati (sfollati che attraversano un confine).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.unicef.it/media/crisi-climatica-43-1-milioni-di-bambini-sfollati-interni-in-44-paesi-in-6-anni-circa-20-000-al-giorno/
+  answer_source_accessible_url_text: 'Crisi climatica: 43,1 milioni di bambini sfollati
+    interni in 44 paesi in 6 anni, circa 20.000 al giorno'
+  answer_source_scientific_url: https://www.internal-displacement.org/global-report/grid2019/french.html
+  answer_source_scientific_url_text: Rapporto globale sugli spostamenti interni 2019
+    - IDMC
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1216
+  text: Quante persone al mondo vivono a meno di 10 metri sopra il livello del mare?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 100 milioni
+  answer_choice_b: 340 milioni
+  answer_choice_c: 680 milioni
+  answer_choice_d: 1 miliardo
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 10 metri di altitudine è il limite adottato dall'IPCC per definire
+    le popolazioni costiere. Sono le prime ad essere esposte all'innalzamento del
+    livello dei mari e all'aumento della frequenza e dell'intensità di eventi meteorologici
+    estremi. Sono anche quelle con la minore capacità di adattamento. Un'illustrazione
+    della necessità di adattamento, cioè di gestire l'inevitabile, a breve termine
+    e a livello locale.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://coastal.climatecentral.org/
+  answer_source_accessible_url_text: 'Mappa interattiva: Coastal Risk Screening Tool'
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/sites/3/2020/07/SROCC_SPM_fr.pdf
+  answer_source_scientific_url_text: IPCC, L'oceano e la criosfera nel contesto dei
+    cambiamenti climatici
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: https://www.climatecentral.org/report/rising-seas-stretch-risk-zones
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1217
+  text: Quale di questi gas contribuisce maggiormente all'effetto serra?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Anidride carbonica (CO2)
+  answer_choice_b: Esafluoruro di zolfo (SF6)
+  answer_choice_c: Metano (CH4)
+  answer_choice_d: Vapore acqueo (H2O)
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: 'Questa era una domanda trabocchetto: si riferiva all''intero
+    effetto serra (naturale+antropico), non solo l''effetto serra addizionale. In
+    questo caso, il vapore acqueo contribuisce circa 2-3 volte più della CO2. Ma,
+    a differenza della CO2 (e questa è una differenza fondamentale), le emissioni
+    di vapore acqueo non sono influenzate significativamente dalle attività umane,
+    e rimangono nell''atmosfera solo per pochi giorni prima di condensare e precipitare,
+    quindi la concentrazione di vapore acqueo nell''atmosfera rimane stabile (e non
+    causa quindi cambiamento climatico).'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://team-planet.com/it/about/climate-change/greenhouse-gases-will-take-you-by-surprise
+  answer_source_accessible_url_text: I gas ad effetto serra sono sorprendenti!
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
+  answer_source_scientific_url_text: Forzatura radiativa antropica e naturale - Rapporto
+    IPCC 2018
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1218
+  text: Secondo gli scienziati dell'IPCC, nel loro ultimo rapporto del 2021, qual
+    è la probabilità che l'attuale cambiamento climatico sia dovuto all'attività umana?
+  hint: L'impatto antropico sul clima è chiaramente provato.
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Tanto improbabile quanto probabile
+  answer_choice_b: Probabile
+  answer_choice_c: Molto probabile
+  answer_choice_d: Assolutamente certo
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Dall'ultimo rapporto dell'IPCC (AR6), pubblicato nel 2021, non
+    c'è più il minimo dubbio al riguardo. Da un lato, è innegabile che l'influenza
+    umana abbia riscaldato l'atmosfera, gli oceani e la terraferma; si sono verificati
+    cambiamenti rapidi e diffusi, con conseguenze importanti per le aree ghiacciate
+    e la biosfera. D'altra parte, oggi si può affermare che il 100% del riscaldamento
+    globale è dovuto all'attività umana.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ipccitalia.cmcc.it/consenso-scientifico/
+  answer_source_accessible_url_text: Cambiament climatico e consenso scientifico
+  answer_source_scientific_url: https://archive.ipcc.ch/
+  answer_source_scientific_url_text: Archivio IPCC
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1219
+  text: 'I gas serra e il sole contribuiscono entrambi al cambiamento climatico.
+
+    In che proporzione?'
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Il sole ha un impatto 6 volte superiore a quello dei gas serra
+  answer_choice_b: Entrambi hanno quasi la stessa influenza
+  answer_choice_c: I gas serra hanno un impatto 6 volte superiore a quello del sole
+  answer_choice_d: I gas serra hanno un impatto 60 volte superiore a quello del sole
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: L'impatto sul clima è chiamato forzante radiativo, espresso
+    in watt per metro quadro (W/m2). I gas serra (CO2, ma anche metano, protossido
+    di azoto, HFC, ecc.) hanno un forzante radiativo di +3 W/m2 rispetto al periodo
+    preindustriale. Nello stesso periodo, il forzante radiativo del Sole (dovuto alle
+    variazioni di irraggiamento) è stato di +0,05 W/m2. I gas serra hanno quindi un'influenza
+    sul clima 60 volte superiore a quella del sole e sono quindi responsabili di quasi
+    tutti gli attuali cambiamenti climatici.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.unito.it/sites/default/files/unitogo_capiamo_i_cambiament_i_climatici_incontro_ndeg2_ott_ii.pdf
+  answer_source_accessible_url_text: Perché il clima cambia? - Università degli Studi
+    di Torino (pag.42)
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
+  answer_source_scientific_url_text: Forzante radiativo antropogenico e naturale
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: Ripartizione del forzante radiativo in base alle sue componenti.
+    I gas serra sono in alto, il sole in basso.
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1220
+  text: Secondo gli scienziati dell'IPCC, nel loro ultimo rapporto del 2021, qual
+    è la probabilità che l'attuale cambiamento climatico sia dovuto all'attività umana?
+  hint: L'impatto antropico sul clima è chiaramente provato.
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Tanto improbabile quanto probabile
+  answer_choice_b: Probabile
+  answer_choice_c: Molto probabile
+  answer_choice_d: Assolutamente certo
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Dall'ultimo rapporto dell'IPCC (AR6), pubblicato nel 2021, non
+    c'è più il minimo dubbio al riguardo. Da un lato, è innegabile che l'influenza
+    umana abbia riscaldato l'atmosfera, gli oceani e la terraferma; si sono verificati
+    cambiamenti rapidi e diffusi, con conseguenze importanti per le aree ghiacciate
+    e la biosfera. D'altra parte, oggi si può affermare che il 100% del riscaldamento
+    globale è dovuto all'attività umana.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ipccitalia.cmcc.it/consenso-scientifico/
+  answer_source_accessible_url_text: Cambiament climatico e consenso scientifico
+  answer_source_scientific_url: https://archive.ipcc.ch/
+  answer_source_scientific_url_text: Archivio IPCC
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1221
+  text: 21 000 anni fa, la Terra ha iniziato un episodio di deglaciazione, con un
+    aumento della temperatura di 5°C. Quanto tempo è durato?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 1 000 anni
+  answer_choice_b: 5 000 anni
+  answer_choice_c: 10 000 anni
+  answer_choice_d: 18 000 anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: L'ultima volta che la Terra ha vissuto un riscaldamento simile,
+    ovvero quando è uscita dall'era glaciale (tra 21 000 e 11 000 anni fa), la vita
+    ha avuto il tempo di adattarsi, perché questo è avvenuto su un periodo di... 10
+    000 anni, cioè un aumento medio di 0,05°C per secolo. L'aumento medio della temperatura
+    dall'inizio dell'era industriale è già di 1,2°C e, secondo alcuni scenari dell'IPCC,
+    si parla di 5°C entro il 2100. Si tratta di 2°C al secolo, 40 volte più veloce.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.focus.it/scienza/scienze/il-freddo-globale-dell-ultima-era-glaciale
+  answer_source_accessible_url_text: Il freddo globale dell'ultima era glaciale
+  answer_source_scientific_url: https://www.nature.com/articles/s41586-020-2617-x
+  answer_source_scientific_url_text: Nature, settembre 2020 - Raffreddamento glaciale
+    e sensibilità climatica rivisitati
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: https://www.cnr.it/it/news/9617/quali-erano-le-condizioni-meteo-un-giorno-di-agosto-di-21-000-anni-fa
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1222
+  text: Qual è la porzione di combustibili fossili nel consumo globale di energia
+    al 2023?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 5 %
+  answer_choice_b: 35 %
+  answer_choice_c: 65 %
+  answer_choice_d: 95 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Petrolio (33%), carbone (27%), gas (23%). Non dimentichiamo
+    che il nostro stile di vita dipende fortemente dall'uso di combustibili fossili.
+    Che si tratti dei nostri trasporti, dei nostri oggetti (plastica), delle nostre
+    medicine, dei nostri vestiti, del nostro riscaldamento...
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.iea.org/reports/world-energy-outlook-2023/pathways-for-the-energy-mix
+  answer_source_accessible_url_text: World Energy Outlook
+  answer_source_scientific_url: https://ourworldindata.org/energy-mix
+  answer_source_scientific_url_text: Energy mix - Ourworldindata
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: Andamento del consumo di energia primaria nel mondo, per
+    fonte
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1223
+  text: Immaginate di riunire tutte le mucche del mondo in un unico Paese. In che
+    posizione si troverebbe questo Paese in termini di emissioni di gas serra (dirette
+    e indirette)?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 1° - primo
+  answer_choice_b: 2° - secondo
+  answer_choice_c: 3° - terzo
+  answer_choice_d: 5° - quinto
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: 'L''allevamento è responsabile di circa il 15% delle emissioni
+    globali di gas serra: direttamente attraverso la fermentazione enterica, e indirettamente
+    attraverso la deforestazione e i fertilizzanti azotati utilizzati per produrre
+    i mangimi per questi animali - 2/3 dei quali solo per i bovini. Nel 2020 i principali
+    emettitori saranno la Cina (28%), gli Stati Uniti (11%), seguiti da India e Unione
+    Europea (7% ciascuno).'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.lifegate.it/emissioni-allevamenti
+  answer_source_accessible_url_text: Senza allevamenti le emissioni di CO2 si ridurrebbero
+    del 68%
+  answer_source_scientific_url: http://www.fao.org/3/a-i6345f.pdf
+  answer_source_scientific_url_text: Allevamento e cambiamento climatico - Rapporto
+    FAO
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1224
+  text: Cosa succede alla CO2 che emettiamo
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Una parte rimane nell'atmosfera
+  answer_choice_b: Una parte si discioglie negli oceani
+  answer_choice_c: Una parte viene assorbita dalle piante
+  answer_choice_d: La maggior parte si trasforma e scompare molto rapidamente
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: "Di tutta la CO2 emessa dalle attività umane :\r\n- il 23% finisce\
+    \ negli oceani (e contribuisce alla loro acidificazione)\r\n- il 29% viene assorbito\
+    \ dalla vegetazione\r\n- e il 44% rimane in atmosfera. Questo porta a un aumento\
+    \ della sua concentrazione. Ma poiché la CO2 è un gas serra, causa un accumulo\
+    \ di energia e riscalda il clima.\r\nLa CO2 non scompare naturalmente, è un composto\
+    \ chimicamente molto stabile e ci vorranno millenni per smaltire quella in eccesso\
+    \ che abbiamo accumulato"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.duegradi.eu/news/serbatoi-di-carbonio/
+  answer_source_accessible_url_text: Serbatoi di carbonio - Duegradi
+  answer_source_scientific_url: https://essd.copernicus.org/preprints/essd-2021-386/
+  answer_source_scientific_url_text: Bilancio globale del carbonio 2021 (Friedlingstein
+    et al 2022)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: 'A sinistra, le fonti: combustibili fossili e deforestazione.
+    A destra, i pozzi nel periodo 2009-2018'
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1225
+  text: L'acidificazione degli oceani è una conseguenza...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: delle emissioni di CO2 prodotte dalle attività umane
+  answer_choice_b: dell’eutrofizzazione (mancanza di ossigeno)
+  answer_choice_c: della fotosintesi
+  answer_choice_d: del riscaldamento dell'aria
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: Una parte della CO2 presente in atmosfera si dissolve quando
+    entra in contatto con l'oceano. La ritroviamo poi nell'acqua in varie forme, tra
+    cui l'acido carbonico. L'acidificazione è aumentata del 26% dall'inizio della
+    rivoluzione industriale (1800). Ma alcuni modelli di previsione prevedono un aumento
+    del 150% dell'acidità entro il 2100. L'attuale tasso di acidificazione degli oceani
+    è quindi dieci volte più veloce che in qualsiasi altro momento degli ultimi 55
+    milioni di anni.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ilpost.it/2020/11/17/acidificazione-degli-oceani/
+  answer_source_accessible_url_text: Acidificazione degli oceani - Ilpost.it
+  answer_source_scientific_url: https://ocean-climate.org/en/awareness/the-impact-of-climate-change-on-the-ocean/
+  answer_source_scientific_url_text: Ocean Acidification
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1226
+  text: Quale dei seguenti fenomeni NON causa l'innalzamento del livello degli oceani?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: La dilatazione dell'acqua dovuta al riscaldamento globale
+  answer_choice_b: Lo scioglimento delle calotte glaciali
+  answer_choice_c: Lo scioglimento della banchisa
+  answer_choice_d: Lo scioglimento dei ghiacciai
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: In virtù del principio di Archimede, la banchisa, che galleggia
+    sull'acqua, non fa salire il livello dell'acqua quando si scioglie. Fate un esperimento
+    un cubetto di ghiaccio nel vostro bicchiere! La situazione è diversa per le calotte
+    glaciali che si trovano su un terreno solido, come in Groenlandia e in Antartide.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Aumento_del_livello_del_mare
+  answer_source_accessible_url_text: Aumento del livello del mare - Wikipedia
+  answer_source_scientific_url: https://articomostra.cnr.it/index.php/sezione-1/livello-dei-mari-e-ghiaccio
+  answer_source_scientific_url_text: Ghiaccio e livello dei mari - CNR
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1227
+  text: Se non facciamo nulla, di quanto si alzerà il livello del mare nel 2100 rispetto
+    al 1850?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 1 m
+  answer_choice_b: 3 m
+  answer_choice_c: 7 m
+  answer_choice_d: 10 m
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Il livello dei mari è aumentato di circa 30 cm dall'era preindustriale
+    e, secondo le proiezioni dello scenario di tendenza (SSP 8.5), aumenterà di altri
+    70 cm entro il 2100.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.climalteranti.it/2013/08/31/linevitabilita-dellinnalzamento-del-livello-del-mare/
+  answer_source_accessible_url_text: L’inevitabilità dell’innalzamento del livello
+    del mare
+  answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf
+  answer_source_scientific_url_text: Cambiamento del livello del mare - Rapporto IPCC
+    2018
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: L'innalzamento dei mari è dovuto a un aumento della massa
+    dell'acqua (proveniente dallo scioglimento di ghiacciai e calotte polari) e a
+    un aumento del suo volume (dilatazione). Questa dilatazione non è uniforme, ma
+    cambia con la temperatura dell'acqua, ed è quindi estremamente difficile da calcolare
+    (occorre infatti misurare tutte le temperature attuali su tutta la superficie
+    e la profondità degli oceani, e sapere come aumenteranno). Per questo le previsioni
+    dell'IPCC sull'innalzamento del livello dell'acqua sono per ora molto prudenti
+  answer_extra_info: https://images.ctfassets.net/13c1957scg97/56WQ24TrhkMtrGMOpyqEn9/ad3c140fb2c3955a75e1ea120f839b69/ipcc-srocc-kuva1-en.png
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1228
+  text: Se non si fa nulla per mitigare la crisi climatica, tra 50 anni quante persone
+    vivranno in zone più calde del Sahara?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 200 milioni
+  answer_choice_b: 1 miliardo
+  answer_choice_c: 3,5 miliardi
+  answer_choice_d: 7 miliardi
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Questi 3,5 miliardi di persone lascerebbero quindi la "nicchia
+    climatica" in cui le loro società hanno prosperato per seimila anni. Queste sono
+    le conclusioni di un recente studio che evidenzia i rischi massimi a cui il mondo
+    potrebbe essere sottoposto nei prossimi decenni, a meno che non si riesca a invertire
+    la tendenza.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.lifegate.it/clima-2070-caldo-pnas
+  answer_source_accessible_url_text: Nel 2070 un terzo dell’umanità potrebbe vivere
+    in regioni calde come il Sahara
+  answer_source_scientific_url: https://www.pnas.org/content/early/2020/04/28/1910114117
+  answer_source_scientific_url_text: Il futuro della nicchia climatica umana (Xu et
+    al 2020)
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1229
+  text: Quale sarebbe la temperatura media sulla superficie terrestre senza l'effetto
+    serra naturale?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: -50°C
+  answer_choice_b: -18°C
+  answer_choice_c: 0°C
+  answer_choice_d: 15°C
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'effetto serra è un fenomeno naturale necessario per la vita
+    umana. È l'effetto serra addizionale generato dalle emissioni antropiche a provocare
+    l'alterazione del clima.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Effetto_serra
+  answer_source_accessible_url_text: Effetto serra - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2024-05-28'
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1230
+  text: Vero o falso? Il clima è la stessa cosa del meteo.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Il meteo si occupa di che tempo farà oggi o domani, e cambia\
+    \ continuamente. Il clima, invece, è il tempo generale che si verifica su un periodo\
+    \ di tempo molto, molto più lungo, anni o addirittura secoli. \nSe il tempo cambia\
+    \ da un giorno all'altro, non possiamo trarre la conclusione che anche il clima\
+    \ stia cambiando."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.focusjunior.it/scienza/ambiente/meteo-e-clima-la-differenza-da-conoscere/
+  answer_source_accessible_url_text: 'Meteo e clima: la differenza da conoscere -
+    Focus Junior'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: https://photos.onedrive.com/share/B62B539A8E475393!7331?cid=B62B539A8E475393&resId=B62B539A8E475393!7331&authkey=!ABOUaxeZPmf515c&ithint=photo&e=15WHCA
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1231
+  text: Vero o falso? Negli ultimi secoli, l'attività umana ha avuto un impatto sul
+    clima
+  hint: ''
+  type: VF
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Gli esseri umani si sono adattati a un'ampia varietà di climi.
+    Ma il clima sta cambiando e il nostro pianeta si sta surriscaldando. È ormai pienamente
+    dimostrato dalla scienza che ciò è causato dalle attività umane, in particolare
+    dall'uso di petrolio e carbone.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.esa.int/kids/it/imparare/Terra/Cambiamento_del_clima/Cambiamento_del_clima
+  answer_source_accessible_url_text: Cambiamento del Clima - ESA Kids
+  answer_source_scientific_url: https://online.scuola.zanichelli.it/chiavidilettura/files/2022/09/Cherchi_Corti_Clima-2050_cap-5.pdf
+  answer_source_scientific_url_text: Le conseguenze dei cambiamenti climatici - da
+    "CLIMA 2050"
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1232
+  text: Produco un effetto serra quando...
+  hint: ''
+  type: QCM-RM
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: prendo la macchina o l'aereo
+  answer_choice_b: mangio della carne
+  answer_choice_c: compro delle cose
+  answer_choice_d: gioco all'aria aperta
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: 'Tutto ciò che acquistiamo proviene dall''industria. Produrlo,
+    trasportarlo, farlo funzionare e smaltirlo, emette una grande quantità di CO2,
+    un gas a effetto serra.
+
+    Anche bruciare carburanti (ad esempio per un viaggio in macchina o per un volo
+    aereo) produce CO2.
+
+    Invece, carne, latte e formaggio provengono dalle mucche, e il loro allevamento
+    produce metano, anch’esso un gas serra.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.myclimate.org/it-ch/informarsi/dettaglio-faq/cosa-sono-i-gas-serra/
+  answer_source_accessible_url_text: L'effetto serra
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1233
+  text: I combustibili fossili comprendono... ?
+  hint: ''
+  type: QCM-RM
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: L’energia nucleare
+  answer_choice_b: Il petrolio
+  answer_choice_c: Il sole
+  answer_choice_d: Il carbone
+  answer_correct: bd
+  has_ordered_answers: true
+  answer_explanation: 'I combustibili fossili sono il petrolio, il carbone e il gas.
+    Nel mondo, 8 macchine su 10 sono alimentate da combustibili fossili! Ci sono voluti
+    milioni e milioni di anni perché la natura li “producesse” a partire decomposizione
+    della materia organica. Noi ne bruciamo una grande quantità, emettendo così una
+    grande quantità di CO2. Inoltre, ce n’è solo una quantità limitata. Come per un
+    tubetto di dentifricio, ogni giorno ne rimane sempre meno.
+
+    Il sole e il vento sono invece considerati fonti rinnovabili, ovvero che si rigenerano
+    nel tempo e non si esauriscono. I pannelli solari e le pale eoliche trasformano
+    la loro energia in elettricità che gli umani possono usare, senza emettere CO2.
+
+    L''energia nucleare non è un''energia rinnovabile, ma nemmeno un combustibile
+    fossile. Il suo utilizzo non emette praticamente CO2 e non contribuisce al cambiamento
+    climatico, ma crea rifiuti pericolosi che durano molto a lungo.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://tecnologialanzi.altervista.org/lenergia_new/
+  answer_source_accessible_url_text: L'energia e le sue fonti
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1234
+  text: A proposito dell'effetto serra, è vero che...
+  hint: ''
+  type: QCM-RM
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: attualmente è in aumento a causa della CO2 e del metano emessi
+    dalle attività umane
+  answer_choice_b: non esisteva prima che l'umanità cominciasse a usare i combustibili
+    fossili
+  answer_choice_c: il suo aumento riscalda la terra
+  answer_choice_d: senza di esso, farebbe molto più freddo
+  answer_correct: acd
+  has_ordered_answers: true
+  answer_explanation: 'L''effetto serra è essenziale per la vita: proprio come i vetri
+    di una serra proteggono le piante dal freddo, alcuni gas del nostro pianeta intrappolano
+    nell''atmosfera parte del calore emesso dal sole. Senza questi gas, noti come
+    gas serra, la temperatura media della Terra sarebbe di -18°C! I principali gas
+    serra sono il vapore acqueo e la CO2. Oggi gli esseri umani emettono troppi gas
+    serra e questo sta surriscaldando la Terra.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.andreaminini.org/scienza/effetto-serra
+  answer_source_accessible_url_text: L'effetto serra
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1235
+  text: Quando ruttano e scoreggiano, le mucche emettono...
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: CO2
+  answer_choice_b: Metano
+  answer_choice_c: Azoto
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Le mucche, soprattutto quando ruttano, rilasciano metano, un
+    gas a effetto serra che causa un riscaldamento globale ancora maggiore della CO2.
+    Questo avviene a causa dei microbi nel loro stomaco che riducono in poltiglia
+    l'erba che hanno brucato. L'allevamento di ruminanti è una delle principali cause
+    del riscaldamento globale, insieme ai trasporti, all'industria, ecc.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://sigmaearth.com/it/che-rapporto-hanno-le-mucche-con-il-cambiamento-climatico-e-il-metano%3F/
+  answer_source_accessible_url_text: Che relazione c'è tra cambiamento climatico,
+    mucche e metano?
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1236
+  text: Vero o falso? Lo scioglimento della banchisa (il ghiaccio che galleggia) sta
+    causando l'innalzamento del livello degli oceani.
+  hint: ''
+  type: VF
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: La banchisa, che galleggia sull'acqua, non fa salire il livello
+    dell'acqua quando si scioglie. Provate con un cubetto di ghiaccio in un bicchiere
+    d'acqua! Invece, se il ghiaccio si trova sulla terraferma, come nei ghiacciai
+    alpini e in quelli della Groenlandia, il suo scioglimento porterà acqua aggiuntiva
+    al mare, aumentandone così il livello.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.esa.int/kids/it/imparare/Terra/Cambiamento_del_clima/Assottigliamento_del_ghiaccio_e_innalzamento_del_livello_del_mare
+  answer_source_accessible_url_text: Assottigliamento del ghiaccio e innalzamento
+    del livello del mare - ESA Kids
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Aumento_del_livello_del_mare
+  answer_source_scientific_url_text: Innalzamento del livello del mare - Wikipedia
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1237
+  text: 'Vero o falso : Tutti gli esseri umani contribuiscono al cambiamento climatico
+    allo stesso modo.'
+  hint: ''
+  type: VF
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Niente affatto! Ci sono grandi differenze da un paese all'altro,
+    e anche all'interno di uno stesso paese. Come si può vedere da questo grafico,
+    sono le persone più ricche del pianeta a emettere di più, mentre la metà più povera
+    dell'umanità contribuisce molto poco al cambiamento climatico. E sono però i primi
+    a essere colpiti. Il cambiamento climatico è quindi anche un problema di ingiustizia.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.oxfamitalia.org/disuguaglianza-emissioni-co2/
+  answer_source_accessible_url_text: La disuguaglianza da emissioni di CO2 che soffoca
+    il pianeta - Oxfam
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1238
+  text: Quali sono le conseguenze del cambiamento climatico?
+  hint: ''
+  type: QCM-RM
+  category: 2
+  tags: []
+  difficulty: 0
+  language: ITALIAN
+  answer_choice_a: Più siccità
+  answer_choice_b: Più ondate di calore
+  answer_choice_c: Scomparsa di specie animali
+  answer_choice_d: Più inondazioni
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: 'Tutte le risposte sono vere. Il cambiamento climatico sta già
+    avendo numerose conseguenze. Con l''aumento della temperatura, aumentano i giorni
+    di caldo eccessivo e la siccità, perché l''acqua è sempre meno. Quando l''atmosfera
+    si riscalda, anche i fenomeni d''evaporazione e della formazione di nuvole sono
+    perturbati. Questo può provocare piogge intense, che fanno straripare i fiumi
+    e allagare i terreni.
+
+    Anche le piante e gli animali risentono di tutti questi cambiamenti e alcune specie
+    stanno scomparendo a causa del caldo, della mancanza d''acqua o dello scioglimento
+    dei ghiacci.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.esa.int/kids/it/imparare/Terra/Cambiamento_del_clima/Cambiamento_del_clima
+  answer_source_accessible_url_text: Cambiamento del Clima - ESA Kids
+  answer_source_scientific_url: https://online.scuola.zanichelli.it/chiavidilettura/files/2022/09/Cherchi_Corti_Clima-2050_cap-5.pdf
+  answer_source_scientific_url_text: Le conseguenze dei cambiamenti climatici - da
+    "CLIMA 2050"
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
