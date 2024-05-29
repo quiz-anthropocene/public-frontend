@@ -47437,7 +47437,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-05-24'
+  updated: '2024-05-28'
 - id: 1165
   text: Parmi ces différentes sources, laquelle produit le plus d'énergie finale ?
   hint: ''
@@ -47458,7 +47458,7 @@
     siècle plus tôt. Le bois fournit deux fois plus d''énergie que la fission nucléaire,
     deux fois plus que l''hydroélectricité, deux fois plus le solaire et l''éolien
     réunis (chiffres 2019). Le bois demeure une source de chaleur essentielle pour
-    le tiers le plus pauvre de la population mondiale. Mais les paus riches ont également
+    le tiers le plus pauvre de la population mondiale. Mais les plus riches ont également
     vu leur consommation de bois-énergie augmenter : les Etats-Unis en brûlent deux
     fois plus qu''au début qu''en 1960, et l''Europe trois fois plus qu''au début
     du XXè siècle.'
@@ -47480,7 +47480,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-05-25'
+  updated: '2024-05-28'
 - id: 1166
   text: 'Vrai ou faux : la production de tubes d''action pour l''industrie en pétrolière
     excède la production totale d''acier en 1900'
@@ -47515,7 +47515,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-05-24'
+  updated: '2024-05-28'
 - id: 1167
   text: 'En 1978, un chercheur de Stanford déclare lors d''un colloque : « Le changement
     climatique aura des conséquences sensibles en 2000 (+1°C), sérieuses pour l''économie
@@ -49682,7 +49682,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://ipccitalia.cmcc.it/consenso-scientifico/
-  answer_source_accessible_url_text: Cambiament climatico e consenso scientifico
+  answer_source_accessible_url_text: Cambiamento climatico e consenso scientifico
   answer_source_scientific_url: https://archive.ipcc.ch/
   answer_source_scientific_url_text: Archivio IPCC
   answer_book_recommendation: ''
@@ -49723,13 +49723,13 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.focus.it/scienza/scienze/il-freddo-globale-dell-ultima-era-glaciale
   answer_source_accessible_url_text: Il freddo globale dell'ultima era glaciale
-  answer_source_scientific_url: https://www.nature.com/articles/s41586-020-2617-x
-  answer_source_scientific_url_text: Nature, settembre 2020 - Raffreddamento glaciale
-    e sensibilità climatica rivisitati
+  answer_source_scientific_url: https://www.cnr.it/it/news/9617/quali-erano-le-condizioni-meteo-un-giorno-di-agosto-di-21-000-anni-fa
+  answer_source_scientific_url_text: Quali erano le condizioni meteo un giorno di
+    agosto di 21 000 anni fa? - Consiglio Nazionale delle Ricerche
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
-  answer_extra_info: https://www.cnr.it/it/news/9617/quali-erano-le-condizioni-meteo-un-giorno-di-agosto-di-21-000-anni-fa
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ba5fa816.png
+  answer_image_url_text: L'Europa durante l'ultima glaciazione
+  answer_extra_info: https://www.nature.com/articles/s41586-020-2617-x
   author: 81
   visibility: PUBLIC
   validation_status: VALIDATED
@@ -49739,7 +49739,7 @@
   updated: '2024-05-28'
 - id: 1222
   text: Qual è la porzione di combustibili fossili nel consumo globale di energia
-    al 2023?
+    al 2022?
   hint: ''
   type: QCM
   category: 5
@@ -49761,11 +49761,11 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.iea.org/reports/world-energy-outlook-2023/pathways-for-the-energy-mix
-  answer_source_accessible_url_text: World Energy Outlook
+  answer_source_accessible_url_text: World Energy Outlook - International Energy Agency
   answer_source_scientific_url: https://ourworldindata.org/energy-mix
   answer_source_scientific_url_text: Energy mix - Ourworldindata
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/94646014.png
   answer_image_url_text: Andamento del consumo di energia primaria nel mondo, per
     fonte
   answer_extra_info: ''
@@ -49809,7 +49809,7 @@
   answer_source_scientific_url_text: Allevamento e cambiamento climatico - Rapporto
     FAO
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/058cfad8.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -49820,7 +49820,7 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 1224
-  text: Cosa succede alla CO2 che emettiamo
+  text: Cosa succede alla CO2 che emettiamo?
   hint: ''
   type: QCM-RM
   category: 1
@@ -49835,11 +49835,11 @@
   has_ordered_answers: true
   answer_explanation: "Di tutta la CO2 emessa dalle attività umane :\r\n- il 23% finisce\
     \ negli oceani (e contribuisce alla loro acidificazione)\r\n- il 29% viene assorbito\
-    \ dalla vegetazione\r\n- e il 44% rimane in atmosfera. Questo porta a un aumento\
-    \ della sua concentrazione. Ma poiché la CO2 è un gas serra, causa un accumulo\
-    \ di energia e riscalda il clima.\r\nLa CO2 non scompare naturalmente, è un composto\
-    \ chimicamente molto stabile e ci vorranno millenni per smaltire quella in eccesso\
-    \ che abbiamo accumulato"
+    \ dalla vegetazione, e\r\n- il 44% rimane in atmosfera.\r\nQuesto porta a un aumento\
+    \ della sua concentrazione. E poiché la CO2 è un gas serra, causa un \"accumulo\"\
+    \ di energia e riscalda il clima.\r\nLa CO2 è un composto chimicamente molto stabile,\
+    \ e ci vorranno millenni per smaltire quella in eccesso che si è accumulata con\
+    \ le emissioni antropiche."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49847,12 +49847,12 @@
   answer_source_accessible_url: https://www.duegradi.eu/news/serbatoi-di-carbonio/
   answer_source_accessible_url_text: Serbatoi di carbonio - Duegradi
   answer_source_scientific_url: https://essd.copernicus.org/preprints/essd-2021-386/
-  answer_source_scientific_url_text: Bilancio globale del carbonio 2021 (Friedlingstein
-    et al 2022)
+  answer_source_scientific_url_text: Global Carbon Budget 2021 (Friedlingstein et
+    al.)
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c4917366.png
   answer_image_url_text: 'A sinistra, le fonti: combustibili fossili e deforestazione.
-    A destra, i pozzi nel periodo 2009-2018'
+    A destra, i pozzi di carbonio. Periodo 2009-2018'
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
@@ -49907,7 +49907,7 @@
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: ITALIAN
   answer_choice_a: La dilatazione dell'acqua dovuta al riscaldamento globale
   answer_choice_b: Lo scioglimento delle calotte glaciali
@@ -49926,7 +49926,8 @@
   answer_source_accessible_url: https://it.wikipedia.org/wiki/Aumento_del_livello_del_mare
   answer_source_accessible_url_text: Aumento del livello del mare - Wikipedia
   answer_source_scientific_url: https://articomostra.cnr.it/index.php/sezione-1/livello-dei-mari-e-ghiaccio
-  answer_source_scientific_url_text: Ghiaccio e livello dei mari - CNR
+  answer_source_scientific_url_text: Ghiaccio e livello dei mari - Consiglio Nazionale
+    delle Ricerche
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -49943,9 +49944,9 @@
     al 1850?
   hint: ''
   type: QCM
-  category: 6
+  category: 1
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: ITALIAN
   answer_choice_a: 1 m
   answer_choice_b: 3 m
@@ -49967,7 +49968,7 @@
   answer_source_scientific_url_text: Cambiamento del livello del mare - Rapporto IPCC
     2018
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7df3893e.png
   answer_image_url_text: L'innalzamento dei mari è dovuto a un aumento della massa
     dell'acqua (proveniente dallo scioglimento di ghiacciai e calotte polari) e a
     un aumento del suo volume (dilatazione). Questa dilatazione non è uniforme, ma
@@ -49975,7 +49976,7 @@
     (occorre infatti misurare tutte le temperature attuali su tutta la superficie
     e la profondità degli oceani, e sapere come aumenteranno). Per questo le previsioni
     dell'IPCC sull'innalzamento del livello dell'acqua sono per ora molto prudenti
-  answer_extra_info: https://images.ctfassets.net/13c1957scg97/56WQ24TrhkMtrGMOpyqEn9/ad3c140fb2c3955a75e1ea120f839b69/ipcc-srocc-kuva1-en.png
+  answer_extra_info: ''
   author: 81
   visibility: PUBLIC
   validation_status: VALIDATED
@@ -50014,7 +50015,7 @@
   answer_source_scientific_url_text: Il futuro della nicchia climatica umana (Xu et
     al 2020)
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/647f53b8.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -50426,6 +50427,110 @@
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1239
+  text: Valourec est une société française qui produit des tubes pour l'extraction
+    pétrolière. Elle possède la plus grosse plantation d'eucalyptus en Brésil. A quoi
+    ça sert ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: à faire du parfum
+  answer_choice_b: A protéger les koalas
+  answer_choice_c: A produire du charbon de bois
+  answer_choice_d: la réponse D
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: jfdklsqjkmjkm
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fbf67fbd.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1240
+  text: Quand est apparu le terme de géoingénierie ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: '1975'
+  answer_choice_b: '1990'
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-28'
+  updated: '2024-05-28'
+- id: 1241
+  text: Centrale thermique de Drax
+  hint: ''
+  type: VF
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: vrai
+  answer_choice_b: faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
