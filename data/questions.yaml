@@ -47977,8 +47977,8 @@
   has_ordered_answers: false
   answer_explanation: In virtù del principio di Archimede, la banchisa, che galleggia
     sull'acqua, non fa salire il livello dell'acqua quando si scioglie. Fate un esperimento
-    un cubetto di ghiaccio nel vostro bicchiere! La situazione è diversa per le calotte
-    glaciali che si trovano su un terreno solido, come in Groenlandia e in Antartide.
+    con un cubetto di ghiaccio nel vostro bicchiere! La situazione è diversa per le
+    calotte glaciali che poggiano su un terreno solido, come in Groenlandia e in Antartide.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47997,7 +47997,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1179
   text: Storicamente, che impatto ha avuto l'effetto serra sullo sviluppo della vita
     sulla Terra?
@@ -48122,31 +48122,28 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 1182
-  text: Se non facciamo nulla, di quanto si alzerà il livello del mare nel 2100 rispetto
-    al 1850?
+  text: Se non facciamo nulla, di quanto si sarà alzato il livello del mare nel 2100
+    rispetto al 1850?
   hint: ''
   type: QCM
   category: 6
   tags: []
   difficulty: 1
   language: ITALIAN
-  answer_choice_a: 1 m
-  answer_choice_b: 3 m
-  answer_choice_c: 7 m
-  answer_choice_d: 10 m
+  answer_choice_a: 1 metro
+  answer_choice_b: 3 metri
+  answer_choice_c: 7 metri
+  answer_choice_d: 10 metri
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Il livello dei mari è aumentato di circa 30 cm dall''era preindustriale
-    e, secondo le proiezioni dello scenario di tendenza (SSP 8.5), aumenterà di altri
-    70 cm entro il 2100.
-
-    Non sembra molto? Le aree costiere impattate rischiano: (i) la sommersione permanente
-    del territorio; (ii) inondazioni più frequenti o intense; (iii) maggiore erosione;
-    (iv) perdita e cambiamento degli ecosistemi; (v) salinizzazione dei suoli, delle
-    acque sotterranee e superficiali.
-
-    E circa l''11% della popolazione mondiale vive in queste aree costiere (ad un''altezza
-    inferiore a 10 metri), ovvero 800 milioni di persone!'
+  answer_explanation: "Il livello dei mari è aumentato di circa 30 cm dall'era preindustriale\
+    \ e, secondo le proiezioni dell'IPCC (SSP 8.5), aumenterà di altri 70 cm entro\
+    \ il 2100.\r\nNon sembra molto? Le aree costiere impattate rischiano: (i) la sommersione\
+    \ permanente del territorio; (ii) inondazioni più frequenti o intense; (iii) maggiore\
+    \ erosione; (iv) perdita e cambiamento degli ecosistemi; (v) salinizzazione dei\
+    \ suoli, delle acque sotterranee e superficiali.\r\nE circa l'11% della popolazione\
+    \ mondiale vive in queste aree costiere (ad un'altezza inferiore a 10 metri),\
+    \ ovvero 800 milioni di persone!"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -48173,7 +48170,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1183
   text: Quanto tempo impiega, approssimativamente, la transizione in un'era glaciale
     (o in una sglaciazione)?
@@ -48580,10 +48577,10 @@
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 10 %
-  answer_choice_b: '30 % '
-  answer_choice_c: 50 %
-  answer_choice_d: 70 %
+  answer_choice_a: 10%
+  answer_choice_b: 30%
+  answer_choice_c: 50%
+  answer_choice_d: 70%
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Durante la Piccola Età Glaciale (terminata a metà del 1800),
@@ -48611,7 +48608,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1194
   text: L'acidificazione degli oceani è una conseguenza...
   hint: ''
@@ -48626,13 +48623,13 @@
   answer_choice_d: del riscaldamento dell'aria
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: Una parte della CO2 presente in atmosfera si dissolve quando
-    entra in contatto con l'oceano. La ritroviamo poi nell'acqua in varie forme, tra
-    cui l'acido carbonico. L'acidificazione è aumentata del 26% dall'inizio della
-    rivoluzione industriale (1800). Ma alcuni modelli di previsione prevedono un aumento
-    del 150% dell'acidità entro il 2100. L'attuale tasso di acidificazione degli oceani
-    è quindi dieci volte più veloce che in qualsiasi altro momento degli ultimi 55
-    milioni di anni.
+  answer_explanation: 'Una parte della CO2 presente in atmosfera si discioglie quando
+    entra in contatto con l''oceano, trasformandosi in parte in acido carbonico, che
+    contribuisce all''acidificazione dell''acqua: questa è aumentata del 26% dall''inizio
+    della rivoluzione industriale. Alcuni modelli di previsione parlano di un aumento
+    dell''acidità entro il 2100 addirrittura del 150%. L''attuale tasso di acidificazione
+    degli oceani è quindi dieci volte più veloce di quanto non sia mai stato negli
+    ultimi 55 milioni di anni.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -48651,7 +48648,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1195
   text: In termini di emissioni globali di gas serra, il settore dell'agricoltura
     e dell'uso del suolo rappresenta...
@@ -48890,18 +48887,19 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 1201
-  text: Che percentuale delle emissioni mondiali di gas a effetto serra derivanti
-    dai trasporti proviene dall'aviazione (voli internazionali e nazionali)?
+  text: Di tutte le emissioni globali di gas serra derivanti dal settore dei trasporti,
+    in che percentuale contribuisce il comparto dell'aviazione (voli internazionali
+    e nazionali)?
   hint: ''
   type: QCM
   category: 2
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 10 %
-  answer_choice_b: 15 %
-  answer_choice_c: 20 %
-  answer_choice_d: 25 %
+  answer_choice_a: 10%
+  answer_choice_b: 30%
+  answer_choice_c: 50%
+  answer_choice_d: 70%
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: Questo dato è minore dell'11% del trasporto marittimo e il 72%
@@ -48925,7 +48923,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1202
   text: Quando diciamo che la temperatura media aumenterà tra +3° e +5°C da qui al
     2100, significa che sulla terraferma...
@@ -49140,7 +49138,7 @@
     climatica" in cui le loro società hanno prosperato per seimila anni. Queste sono
     le conclusioni di un recente studio che evidenzia i rischi massimi a cui il mondo
     potrebbe essere sottoposto nei prossimi decenni, a meno che non si riesca a invertire
-    la tendenza.
+    la tendenza attuale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49161,7 +49159,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1208
   text: Che percentuale delle emissioni di gas serra nel mondo è causata dal carbone?
   hint: ''
@@ -49170,10 +49168,10 @@
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 25 %
-  answer_choice_b: 45 %
-  answer_choice_c: 65 %
-  answer_choice_d: 85 %
+  answer_choice_a: 25%
+  answer_choice_b: 45%
+  answer_choice_c: 65%
+  answer_choice_d: 85%
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: A livello mondiale, il carbone è responsabile del 25% delle
@@ -49199,7 +49197,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1209
   text: Quale dei seguenti fenomeni è influenzato dalla crisi climatica?
   hint: ''
@@ -49248,11 +49246,12 @@
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 100 000 barili, ovvero l'energia che produrrebbero 1 miliardo di
+  answer_choice_a: 100.000 barili, ovvero l'energia che produrrebbero 1 miliardo di
     persone in 1 giorno lavorando manualmente
-  answer_choice_b: 1 milione di barili - 10 miliardi di persone con lo stesso ritmo
+  answer_choice_b: 1 milione di barili, ovvero 10 miliardi di persone con lo stesso
+    ritmo
   answer_choice_c: 10 milioni di barili - 100 miliardi di persone
-  answer_choice_d: 100 milioni di barili - 1 000 miliardi di persone
+  answer_choice_d: 100 milioni di barili - 1.000 miliardi di persone
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Il petrolio viene consumato in quantità maggiori rispetto al
@@ -49277,7 +49276,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1211
   text: Come è cambiata la temperatura media della Terra dal 1850 a oggi?
   hint: ''
@@ -49417,10 +49416,10 @@
   tags: []
   difficulty: 3
   language: ITALIAN
-  answer_choice_a: 1 200 km² (superficie della provincia di Varese)
-  answer_choice_b: 15 000 km² (superficie della Calabria)
-  answer_choice_c: 120 000 km² (superficie della Grecia)
-  answer_choice_d: 1 200 000 km² (superficie dell’Europa Centrale)
+  answer_choice_a: 1.200 km² (superficie della provincia di Varese)
+  answer_choice_b: 15.000 km² (superficie della Calabria)
+  answer_choice_c: 120.000 km² (superficie della Grecia)
+  answer_choice_d: 1.200.000 km² (superficie dell’Europa Centrale)
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Si tratta del 40% della superficie dell’Italia.
@@ -49432,9 +49431,7 @@
   answer_source_accessible_url_text: La malattia della terra che minaccia popoli e
     clima
   answer_source_scientific_url: https://www.lifegate.it/storie-paesi-combattono-desertificazione
-  answer_source_scientific_url_text: '
-
-    Storie di paesi che combattono la desertificazione'
+  answer_source_scientific_url_text: Storie di paesi che combattono la desertificazione
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -49445,7 +49442,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1215
   text: Ogni anno, l'Internal Displacement Monitoring Centre (IDMC) misura il numero
     di sfollati interni nel mondo a causa di disastri naturali o conflitti. Nel 2019,
@@ -49457,10 +49454,10 @@
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 30 %
-  answer_choice_b: 50 %
-  answer_choice_c: 75 %
-  answer_choice_d: 90 %
+  answer_choice_a: 30%
+  answer_choice_b: 50%
+  answer_choice_c: 75%
+  answer_choice_d: 90%
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: I disastri naturali hanno causato 25 milioni di sfollati nel
@@ -49489,7 +49486,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1216
   text: Quante persone al mondo vivono a meno di 10 metri sopra il livello del mare?
   hint: ''
@@ -49573,8 +49570,8 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 1218
-  text: Secondo gli scienziati dell'IPCC, nel loro ultimo rapporto del 2021, qual
-    è la probabilità che l'attuale cambiamento climatico sia dovuto all'attività umana?
+  text: Secondo l'ultimo rapporto degli scienziati dell'IPCC, del 2021, con che probabilità
+    l'attuale cambiamento climatico è dovuto all'attività umana?
   hint: L'impatto antropico sul clima è chiaramente provato.
   type: QCM
   category: 1
@@ -49587,12 +49584,11 @@
   answer_choice_d: Assolutamente certo
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Dall'ultimo rapporto dell'IPCC (AR6), pubblicato nel 2021, non
-    c'è più il minimo dubbio al riguardo. Da un lato, è innegabile che l'influenza
-    umana abbia riscaldato l'atmosfera, gli oceani e la terraferma; si sono verificati
-    cambiamenti rapidi e diffusi, con conseguenze importanti per le aree ghiacciate
-    e la biosfera. D'altra parte, oggi si può affermare che il 100% del riscaldamento
-    globale è dovuto all'attività umana.
+  answer_explanation: 'Dall''ultimo rapporto dell''IPCC (AR6), pubblicato nel 2021,
+    non c''è alcun dubbio a riguardo: le attività umane hanno riscaldato l''atmosfera,
+    gli oceani e la terraferma; si sono verificati cambiamenti rapidi e diffusi, con
+    conseguenze importanti per le aree ghiacciate e la biosfera. Oggi si può affermare
+    che il 100% del riscaldamento globale è dovuto all''attività umana.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49611,7 +49607,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1219
   text: 'I gas serra e il sole contribuiscono entrambi al cambiamento climatico.
 
@@ -49657,8 +49653,8 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 1220
-  text: Secondo gli scienziati dell'IPCC, nel loro ultimo rapporto del 2021, qual
-    è la probabilità che l'attuale cambiamento climatico sia dovuto all'attività umana?
+  text: Secondo l'ultimo rapporto degli scienziati dell'IPCC, del 2021, con che probabilità
+    l'attuale cambiamento climatico è dovuto all'attività umana?
   hint: L'impatto antropico sul clima è chiaramente provato.
   type: QCM
   category: 1
@@ -49671,12 +49667,11 @@
   answer_choice_d: Assolutamente certo
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Dall'ultimo rapporto dell'IPCC (AR6), pubblicato nel 2021, non
-    c'è più il minimo dubbio al riguardo. Da un lato, è innegabile che l'influenza
-    umana abbia riscaldato l'atmosfera, gli oceani e la terraferma; si sono verificati
-    cambiamenti rapidi e diffusi, con conseguenze importanti per le aree ghiacciate
-    e la biosfera. D'altra parte, oggi si può affermare che il 100% del riscaldamento
-    globale è dovuto all'attività umana.
+  answer_explanation: 'Dall''ultimo rapporto dell''IPCC (AR6), pubblicato nel 2021,
+    non c''è alcun dubbio a riguardo: le attività umane hanno riscaldato l''atmosfera,
+    gli oceani e la terraferma; si sono verificati cambiamenti rapidi e diffusi, con
+    conseguenze importanti per le aree ghiacciate e la biosfera. Oggi si può affermare
+    che il 100% del riscaldamento globale è dovuto all''attività umana.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49695,9 +49690,9 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1221
-  text: 21 000 anni fa, la Terra ha iniziato un episodio di deglaciazione, con un
+  text: 21.000 anni fa, la Terra ha iniziato un episodio di deglaciazione, con un
     aumento della temperatura di 5°C. Quanto tempo è durato?
   hint: ''
   type: QCM
@@ -49705,18 +49700,18 @@
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 1 000 anni
-  answer_choice_b: 5 000 anni
-  answer_choice_c: 10 000 anni
-  answer_choice_d: 18 000 anni
+  answer_choice_a: 1.000 anni
+  answer_choice_b: 5.000 anni
+  answer_choice_c: 10.000 anni
+  answer_choice_d: 18.000 anni
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: L'ultima volta che la Terra ha vissuto un riscaldamento simile,
-    ovvero quando è uscita dall'era glaciale (tra 21 000 e 11 000 anni fa), la vita
-    ha avuto il tempo di adattarsi, perché questo è avvenuto su un periodo di... 10
-    000 anni, cioè un aumento medio di 0,05°C per secolo. L'aumento medio della temperatura
-    dall'inizio dell'era industriale è già di 1,2°C e, secondo alcuni scenari dell'IPCC,
-    si parla di 5°C entro il 2100. Si tratta di 2°C al secolo, 40 volte più veloce.
+  answer_explanation: "L'ultimo periodo di deglaciazione è durato 10.000 anni (21.000-11.000\
+    \ anni fa). Allora la vita ha avuto il tempo di adattarsi, perché l'aumento medio\
+    \ di temperatura è stato di +0,05°C per secolo.\r\nDall'inizio dell'era industriale,\
+    \ invece, l'aumento medio della temperatura è di +1,2°C e, secondo alcuni scenari\
+    \ dell'IPCC, raggiungerà +5°C entro il 2100: vuol dire +2°C per secolo, 40 volte\
+    \ più veloce."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49736,26 +49731,25 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1222
-  text: Qual è la porzione di combustibili fossili nel consumo globale di energia
-    al 2022?
+  text: Qual è la percentuale di combustibili fossili nel consumo globale di energia?
   hint: ''
   type: QCM
   category: 5
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 5 %
-  answer_choice_b: 35 %
-  answer_choice_c: 65 %
-  answer_choice_d: 95 %
+  answer_choice_a: 50%
+  answer_choice_b: 65%
+  answer_choice_c: 80%
+  answer_choice_d: 95%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Petrolio (33%), carbone (27%), gas (23%). Non dimentichiamo
-    che il nostro stile di vita dipende fortemente dall'uso di combustibili fossili.
-    Che si tratti dei nostri trasporti, dei nostri oggetti (plastica), delle nostre
-    medicine, dei nostri vestiti, del nostro riscaldamento...
+  answer_explanation: 'I combustibili fossili rappresentano circa 80% dell''energia
+    primaria globale: 30% da petrolio, 25% da carbone, e 22% da gas (dati del 2022).
+    Il nostro stile di vita dipende fortemente dall''uso di combustibili fossili,
+    che che si tratti di trasporti, oggetti in plastica, medicine, vestiti...'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49775,29 +49769,28 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1223
   text: Immaginate di riunire tutte le mucche del mondo in un unico Paese. In che
-    posizione si troverebbe questo Paese in termini di emissioni di gas serra (dirette
-    e indirette)?
+    posizione si troverebbe questo Paese per emissioni di gas serra (dirette e indirette)?
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 1° - primo
-  answer_choice_b: 2° - secondo
-  answer_choice_c: 3° - terzo
-  answer_choice_d: 5° - quinto
+  answer_choice_a: Al primo posto
+  answer_choice_b: Al secondo posto
+  answer_choice_c: Al terzo posto
+  answer_choice_d: Al quinto posto
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'L''allevamento è responsabile di circa il 15% delle emissioni
-    globali di gas serra: direttamente attraverso la fermentazione enterica, e indirettamente
-    attraverso la deforestazione e i fertilizzanti azotati utilizzati per produrre
-    i mangimi per questi animali - 2/3 dei quali solo per i bovini. Nel 2020 i principali
-    emettitori saranno la Cina (28%), gli Stati Uniti (11%), seguiti da India e Unione
-    Europea (7% ciascuno).'
+  answer_explanation: "Quel \"Paese di mucche\" emetterebbe il 15% delle emissioni\
+    \ globali di gas serra: sarebbe quindi secondo dopo la Cina (28%), seguito da\
+    \ Stati Uniti (11%), India (7%) e Unione Europea (7%).\r\nL'allevamento è infatti\
+    \ responsabile del 15% delle emissioni globali di gas serra: direttamente attraverso\
+    \ la fermentazione enterica, e indirettamente attraverso la deforestazione e i\
+    \ fertilizzanti azotati utilizzati per produrre i mangimi."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49818,7 +49811,7 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1224
   text: Cosa succede alla CO2 che emettiamo?
   hint: ''
@@ -49875,13 +49868,13 @@
   answer_choice_d: del riscaldamento dell'aria
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: Una parte della CO2 presente in atmosfera si dissolve quando
-    entra in contatto con l'oceano. La ritroviamo poi nell'acqua in varie forme, tra
-    cui l'acido carbonico. L'acidificazione è aumentata del 26% dall'inizio della
-    rivoluzione industriale (1800). Ma alcuni modelli di previsione prevedono un aumento
-    del 150% dell'acidità entro il 2100. L'attuale tasso di acidificazione degli oceani
-    è quindi dieci volte più veloce che in qualsiasi altro momento degli ultimi 55
-    milioni di anni.
+  answer_explanation: 'Una parte della CO2 presente in atmosfera si discioglie quando
+    entra in contatto con l''oceano, trasformandosi in parte in acido carbonico, che
+    contribuisce all''acidificazione dell''acqua: questa è aumentata del 26% dall''inizio
+    della rivoluzione industriale. Alcuni modelli di previsione parlano di un aumento
+    dell''acidità entro il 2100 addirrittura del 150%. L''attuale tasso di acidificazione
+    degli oceani è quindi dieci volte più veloce di quanto non sia mai stato negli
+    ultimi 55 milioni di anni.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49900,7 +49893,7 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1226
   text: Quale dei seguenti fenomeni NON causa l'innalzamento del livello degli oceani?
   hint: ''
@@ -49917,8 +49910,8 @@
   has_ordered_answers: false
   answer_explanation: In virtù del principio di Archimede, la banchisa, che galleggia
     sull'acqua, non fa salire il livello dell'acqua quando si scioglie. Fate un esperimento
-    un cubetto di ghiaccio nel vostro bicchiere! La situazione è diversa per le calotte
-    glaciali che si trovano su un terreno solido, come in Groenlandia e in Antartide.
+    con un cubetto di ghiaccio nel vostro bicchiere! La situazione è diversa per le
+    calotte glaciali che poggiano su un terreno solido, come in Groenlandia e in Antartide.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49938,25 +49931,30 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1227
-  text: Se non facciamo nulla, di quanto si alzerà il livello del mare nel 2100 rispetto
-    al 1850?
+  text: Se non facciamo nulla, di quanto si sarà alzato il livello del mare nel 2100
+    rispetto al 1850?
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 1 m
-  answer_choice_b: 3 m
-  answer_choice_c: 7 m
-  answer_choice_d: 10 m
+  answer_choice_a: 1 metro
+  answer_choice_b: 3 metri
+  answer_choice_c: 7 metri
+  answer_choice_d: 10 metri
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Il livello dei mari è aumentato di circa 30 cm dall'era preindustriale
-    e, secondo le proiezioni dello scenario di tendenza (SSP 8.5), aumenterà di altri
-    70 cm entro il 2100.
+  answer_explanation: "Il livello dei mari è aumentato di circa 30 cm dall'era preindustriale\
+    \ e, secondo le proiezioni dell'IPCC (SSP 8.5), aumenterà di altri 70 cm entro\
+    \ il 2100.\r\nNon sembra molto? Le aree costiere impattate rischiano: (i) la sommersione\
+    \ permanente del territorio; (ii) inondazioni più frequenti o intense; (iii) maggiore\
+    \ erosione; (iv) perdita e cambiamento degli ecosistemi; (v) salinizzazione dei\
+    \ suoli, delle acque sotterranee e superficiali.\r\nE circa l'11% della popolazione\
+    \ mondiale vive in queste aree costiere (ad un'altezza inferiore a 10 metri),\
+    \ ovvero 800 milioni di persone!"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -49983,7 +49981,7 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1228
   text: Se non si fa nulla per mitigare la crisi climatica, tra 50 anni quante persone
     vivranno in zone più calde del Sahara?
@@ -50003,7 +50001,7 @@
     climatica" in cui le loro società hanno prosperato per seimila anni. Queste sono
     le conclusioni di un recente studio che evidenzia i rischi massimi a cui il mondo
     potrebbe essere sottoposto nei prossimi decenni, a meno che non si riesca a invertire
-    la tendenza.
+    la tendenza attuale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50024,7 +50022,7 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 1229
   text: Quale sarebbe la temperatura media sulla superficie terrestre senza l'effetto
     serra naturale?
