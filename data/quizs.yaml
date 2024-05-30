@@ -3189,16 +3189,17 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 113
-  name: Affresco del Clima - un'introduzione
+  name: Affresco del Clima - introduzione
   slug: affresco-clima-intro
   introduction: "<p>L'Affresco del clima è un laboratorio divertente, partecipativo\
     \ e creativo sui cambiamenti climatici. Si basa sull'intelligenza collettiva ed\
-    \ è estremamente educativo. In 3 ore, si scoprono i meccanismi del clima e le\
-    \ conseguenze del suo sconvolgimento, si discute e si elaborano azioni per limitarlo\
-    \ e adattarsi. Più di 1 600 000 persone hanno già partecipato in tutto il mondo.</p>\r\
-    \n\r\n<p>È il momento di mettere alla prova le tue conoscenze!</p>"
+    \ è estremamente educativo. In 3 ore si scoprono i meccanismi del clima e le conseguenze\
+    \ del suo sconvolgimento, e si elaborano azioni di mitigazione e adattamento.\
+    \ L'associazione che l'ha creato ha sensibilizzato sulle questioni climatiche\
+    \ più di 1,5 milioni di persone nei primi 5 anni di attività.<br />\r\n<br />\r\
+    \nE tu, sei sicuro di saperne abbastanza? Verificalo col nostro quiz.</p>"
   conclusion: <p>Ti è piaciuto? C'è qualcosa che non sapevi? Non esitare, iscriviti
-    a un lavoratorio <a href="http://climatefresk.org">Affresco del Clima</a>. Poi
+    a un laboratorio <a href="http://climatefresk.org">Affresco del Clima</a>. Poi
     potrai diventarne animatore/animatrice a tua volta.</p>
   questions:
   - 1220
@@ -3213,7 +3214,7 @@
   - 1229
   question_count: 10
   tags: []
-  difficulty_average: 1.7
+  difficulty_average: 2.0
   language: ITALIAN
   image_background_url: ''
   has_audio: false
@@ -3227,7 +3228,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2024-05-29'
 - id: 114
   name: Affresco del Clima JR - quiz famiglia
   slug: affresco-clima-junior
