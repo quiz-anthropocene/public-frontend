@@ -2934,9 +2934,13 @@
   - 1165
   - 1166
   - 1167
-  question_count: 4
+  - 1239
+  - 1240
+  - 1241
+  - 1242
+  question_count: 8
   tags: []
-  difficulty_average: 1.5
+  difficulty_average: 1.2
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/328992cb.jpg
   has_audio: false
@@ -2950,7 +2954,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-05-28'
+  updated: '2024-05-30'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
