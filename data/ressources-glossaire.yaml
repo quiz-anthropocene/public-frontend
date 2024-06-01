@@ -530,3 +530,17 @@
   language: FRENCH
   created: '2024-04-30'
   updated: '2024-04-30'
+- name: Liqueurs noires
+  name_alternatives: ''
+  definition_short: liqueur de cuisson issue de la fabrication du papier kraft
+  description: Il s'agit d'une solution aqueuse composée des résidus de lignine et
+    d'hémicellulose dissous de la pâte à papier, ainsi que des autres composés chimiques
+    inorganiques utilisés dans le processus de dissolution. Elle contient plus de
+    la moitié de la teneur énergétique du bois amené dans le lessiveur2. Normalement
+    concentrée jusqu'à 65 % - 80 % par un évaporateur multi-effets, elle est ensuite
+    brûlée à 1 200 °C dans une chaudière de récupération afin de produire de l'énergie
+    et récupérer les produits chimiques de cuisson.
+  description_accessible_url: https://fr.wikipedia.org/wiki/Liqueur_noire
+  language: FRENCH
+  created: '2024-05-31'
+  updated: '2024-05-31'

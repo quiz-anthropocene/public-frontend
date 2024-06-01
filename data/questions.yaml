@@ -47467,19 +47467,21 @@
     bois sont abattus afin d''être directement consumés, soit trois fois plus qu''un
     siècle plus tôt. Le bois fournit deux fois plus d''énergie que la fission nucléaire,
     deux fois plus que l''hydroélectricité, deux fois plus le solaire et l''éolien
-    réunis (chiffres 2019). Le bois demeure une source de chaleur essentielle pour
-    le tiers le plus pauvre de la population mondiale. Mais les plus riches ont également
-    vu leur consommation de bois-énergie augmenter : les Etats-Unis en brûlent deux
-    fois plus qu''au début qu''en 1960, et l''Europe trois fois plus qu''au début
-    du XXè siècle.'
+    réunis (chiffres 2019). Les seules liqueurs noires de l''industrie papetière fournissaient
+    en 2016 plus d''énergie que le solaire. Le bois demeure une source de chaleur
+    essentielle pour le tiers le plus pauvre de la population mondiale. Mais les plus
+    riches ont également vu leur consommation de bois-énergie augmenter : les Etats-Unis
+    en brûlent deux fois plus qu''au début qu''en 1960, et l''Europe trois fois plus
+    qu''au début du XXè siècle.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://openknowledge.fao.org/server/api/core/bitstreams/89a44ced-a3c7-41f7-973d-5e3b4e21ddbc/content
-  answer_source_scientific_url_text: State of the World’s Forests, Rome, FAO, 2014
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: US Energy Information Administration, Monthly
+    Energy Review, Octobre 2022, p. 185
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3ee74cda.png
   answer_image_url_text: Collecte de bois au Niger
@@ -47490,12 +47492,12 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-05-30'
+  updated: '2024-05-31'
 - id: 1166
-  text: 'Vrai ou faux : la production de tubes d''action pour l''industrie en pétrolière
-    excède la production totale d''acier en 1900'
+  text: Vrai ou faux ? Aux Etats-Unis, la production de tubes d'action pour l'industrie
+    en pétrolière excède la production totale d'acier en 1900
   hint: ''
-  type: QCM
+  type: VF
   category: null
   tags: []
   difficulty: 1
@@ -47506,7 +47508,16 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: A l'instar de la consommation de bois d'étais pour les mines
+    qui a rapidement excédé la consommation totale antérieure, on a observé la même
+    accélération pour l'acier requis pour la seule industrie pétrolière. Les Etats-Unis
+    seuls consommaient environ 2 millions de tonnes de tubes pétroliers en 1950 et
+    7 millions dans les années 2010. A cette date, la seule extraction de pétrole
+    et de gaz consommait autant d'acier que toute l'économie américaine à la fin du
+    XIXè siècle. En Chine, 5% du stock d'acier est consacré à l'extraction et au raffinage
+    du pétrole. A noter que cette monumentale masse d'acier est rongée de l'intérieur
+    par le sel et les composés soufrés. En 1967, on estime que 7% de l'acier consommé
+    par cette industrie était consacré à la maintenance.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47514,10 +47525,13 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_source_scientific_url_text: Stockpile and Accessibility of Strategic and
+    Critical Materials in a TIme of War, partie 6 "Petroleum, gas and coal", Wasjington,
+    US Printing Office,1954
+  answer_book_recommendation: Sans Transition, p. 129
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/04485c4c.jpg
+  answer_image_url_text: Gazoduc Yamal - Europe. Il court sur 4 800 km avec un diamètre
+    de 140 cm
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -47525,7 +47539,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-05-30'
+  updated: '2024-05-31'
 - id: 1167
   text: 'Au cours d''un colloque en 1978, un climatologue de Stanford déclare : «
     Le changement climatique aura des conséquences sensibles en 2000 (+1°C), sérieuses
@@ -47564,8 +47578,16 @@
     IAASA Proceeding Series, 1978, p. 253'
   answer_book_recommendation: Sans Transition, Jean-Bapstiste Fressoz, Ecocène Seuil
     2024, p. 279
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/86c24f3d.jpg
-  answer_image_url_text: Conférence de Villach, 1985
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e8342c39.jpg
+  answer_image_url_text: "Un autre exemple de ce courant de ce paradigme des années\
+    \ 75 : Amory Lovins. Il reprend la futurologie tranistionniste de ses adversaires\
+    \ atomistes, avec moins de consommation énergétique et des \"technologies douces\"\
+    \ à la place du cléaire. Le charbon fournira l'énergie de transition en attendant\
+    \ l'arrivée d'ici quatre à cinq décennies d'une économie entièrement alimentée\
+    \ par les renouvelables. Aujourd'hui présenté comme le grand précurseur des renouvelables,\
+    \ Lovins a surtout sous-estimé l'inertie des systèmes énergétiques.\r\n(Amory\
+    \ Lovins, Envergy strategy : The Road not take, Foreign Affairs, vol. 55, n°1,\
+    \ 1976)"
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -47573,7 +47595,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-30'
+  updated: '2024-05-31'
 - id: 1168
   text: Nel 2018, la concentrazione di CO2 nell'atmosfera ha superato le 410 ppm (parti
     per milione). Quando è stata l'ultima volta che è successo?
@@ -50451,13 +50473,22 @@
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: à faire du parfum
-  answer_choice_b: A protéger les koalas
-  answer_choice_c: A produire du charbon de bois
-  answer_choice_d: la réponse D
-  answer_correct: c
+  answer_choice_a: à produire des huiles essentiels pour l'industrie pharmaceutique
+  answer_choice_b: A compenser leurs émissions de CO2
+  answer_choice_c: A offrir un sanctuaire pour la biodiversité amazonienne
+  answer_choice_d: A produire du charbon de bois
+  answer_correct: d
   has_ordered_answers: true
-  answer_explanation: jfdklsqjkmjkm
+  answer_explanation: "Il s'agit d'une exploitation forestière de 230 000 hectares,\
+    \ destinée à fournir en charbon de bois les installations sidérurgiques locales\
+    \ de Vallourec, pour une consommation annuelle de plus d'un million de m3. \r\n\
+    Ce chiffre représente à peu près autant que toute la sidérurgie américaine à son\
+    \ pic et quatre fois toute la sidérurgie française à son pic des années 1860.\
+    \ La masse annuelle de bois qui y est récoltée, 3 millions de m3, dépasse sans\
+    \ doute la consommation de l'industrie pétrolière mondiale à la fin du XIXè siècle\
+    \ quand les derricks, les tonneaux et les réservoirs étaient tous en bois.\r\n\
+    L'histoire des symbioses énergétiques est faite de boucles, les processus de réencastrement\
+    \ sont toujours possibles."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50466,9 +50497,11 @@
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fbf67fbd.png
-  answer_image_url_text: ''
+  answer_book_recommendation: Sans Transitionn p. 163
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/599fa2f3.jpg
+  answer_image_url_text: Spindletop, Beaumont, Texas, 1903. Le site est surnommé "la
+    boîte d'allumettes" tant la densité de derricks est forte, induisant de forts
+    risques d'incendie
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -50476,7 +50509,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-30'
+  updated: '2024-05-31'
 - id: 1240
   text: Quand est apparu le terme de géoingénierie ?
   hint: ''
@@ -50591,3 +50624,39 @@
   validation_date: null
   created: '2024-05-30'
   updated: '2024-05-30'
+- id: 1243
+  text: William Nordhaus a obtenu un prix nobel pour ses travaux sur l'optimum du
+    réchauffement climatique pour l'activité humaine. A combien évalue-t-il ce réchauffement
+    optimal ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: '0'
+  answer_choice_b: +1°C
+  answer_choice_c: +2°C
+  answer_choice_d: +3,5°C
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: Sans Transition, p. 282
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-05-31'
+  updated: '2024-05-31'
