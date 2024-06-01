@@ -310,3 +310,9 @@
   question_count: 10
   quiz_count: 0
   created: '2024-05-13'
+- id: 83
+  first_name: Laurent
+  last_name: Gaillard
+  question_count: 0
+  quiz_count: 0
+  created: '2024-06-01'
