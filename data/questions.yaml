@@ -47565,8 +47565,9 @@
     la création du GIEC reprend ainsi cet argument dilatoire : le voyant climatique
     (à trois niveaux) est encore au vert, et même au stade jaune, les experts estiment
     qu''il y aurait encore du temps pour stimuler une transition douce. Aucune preuve
-    n''est pourtant donnée l''appui de ces affirmations, alors que ni l''histoire
-    ni la prospective ne portaient à le croire.'
+    n''était pourtant donnée l''appui de ces affirmations, alors que ni l''histoire
+    ni la prospective ne portaient à le croire. A cette époque, les lanceurs d''alerte
+    désamorçaient eux-même la gravité et l''urgence de leur alerte.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47577,8 +47578,7 @@
   answer_source_scientific_url_text: 'J.A. Laurmann :  "Fossil fuel utilization policy
     assessment and CO2 induced Climate Change", in "Carbon Dioxyde, Climate and Society,
     IAASA Proceeding Series, 1978, p. 253'
-  answer_book_recommendation: Sans Transition, Jean-Bapstiste Fressoz, Ecocène Seuil
-    2024, p. 279
+  answer_book_recommendation: Sans Transition, p. 279
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e8342c39.jpg
   answer_image_url_text: "Un autre exemple de ce courant de pensées des années 75\
     \ : A. Lovins reprend la futurologie transitionniste de ses adversaires atomistes,\
@@ -50659,4 +50659,99 @@
   validator: null
   validation_date: null
   created: '2024-05-31'
-  updated: '2024-05-31'
+  updated: '2024-06-01'
+- id: 1244
+  text: Un rapport de 1982 conclut que les +2°C seront atteints au milieu du XXIè
+    siècle et qu'il faudra se préparer à déménager les zones de la planète qui seront
+    devenues habitables. De quel rapport s'agit-il ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: Un rapport du GIEC
+  answer_choice_b: L'agence de protection de l'environnement des Etats-Unis (EPA)
+  answer_choice_c: Le rapport annuel de Greenpeace
+  answer_choice_d: Le Ministère de l'Environnement des Seychelles
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: Le même rapport parle d'une "dislocation économique". La même
+    année, le rapport "Changing Climate" de l'Académie des Sciences tirait les mêmes
+    conclusions. Plus que du doute, ces rapports exprimaient une forme de résignation
+    couplée à une confiance sans faille dans la capacité d'adaptation des pays riches.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: Can We Delay a Greenhouse Warming? the Effectiveness
+    and Feasibility of Options to Slow a Build-Up of Carbon Dioxide in the Atmosphere,
+    United States Environmental Protection Agency 1982
+  answer_source_scientific_url: https://nepis.epa.gov/Exe/ZyNET.exe/9101HEAX.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1981+Thru+1985&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C81thru85%5CTxt%5C00000024%5C9101HEAX.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=Zy
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: Sans Transition, p. 296
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-06-01'
+  updated: '2024-06-01'
+- id: 1245
+  text: 50 ans se sont écoulés depuis les premières alertes, et les émissions mondiales
+    ont suivi les scénarios les plus pessimistes. Pour respecter les accords de Paris,
+    quelles sont les options explorées par le GIEC ?
+  hint: ''
+  type: QCM-RM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Des émissions dites négatives (absorption massive de CO2)
+  answer_choice_b: La décroissance
+  answer_choice_c: L'adaptation
+  answer_choice_d: La transition énergétique
+  answer_correct: acd
+  has_ordered_answers: true
+  answer_explanation: "Toutes les réponses sont justes.\r\nPour faire entrer une économie\
+    \ mondiale en croissance dans des budgets carbone restreints, tous les scénarios\
+    \ du GIEC sont obligés de recourir à des moyens extraordinaires, à savoir d'énormes\
+    \ quantités d'émissions négatives (BECCS). Certains scénarios prévoient ainsi\
+    \ une surface de plantation forestière supérieure à deux fois celle de l'Inde.\r\
+    \nLa décroissance est encore un tabou pour les économistes du groupe 3 du GIEC.\
+    \ Même à titre d'hypothèse, aucun scénario n'envisage ainsi une quelconque diminution\
+    \ de la croissance économique. La première occurrence du mot 'sobriété' remonte\
+    \ au rapport de 2022.\r\nL'adaptation fait désormais l'objet d'un rapport spécifique\
+    \ du GIEC, le n°2.\r\nLa transition énergétique pour finir est devenue la grande\
+    \ affaire depuis les années 2000. Toutes les grandes entreprises se déclarent\
+    \ désormais en transition. \r\nLa transition n'est pas la cause de la résignation\
+    \ climatique, elle n'en est que la justification. Elle a accompagné la procrastination\
+    \ générale et continue à le faire."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: Sans Transision, p. 313
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1787d756.png
+  answer_image_url_text: 'En 2023, les émissions de CO2 sont environ 50% plus élevées
+    qu''en 1990 mais leur rythme d''augmentation a diminué. Pour ne pas dépasser 1,5°C,
+    les émissions doivent être nulles à partir de 2050 puis devenir négatives. L''objectif
+    des 2°C accorde deux décennies de plus. La courbe haute correspond aux politiques
+    en vigueur et aboutit à une hausse de température de 3,2°C. Source : GIEC rapport
+    de synthèse 2023 p.22'
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-06-01'
+  updated: '2024-06-01'
