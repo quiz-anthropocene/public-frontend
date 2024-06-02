@@ -544,3 +544,19 @@
   language: FRENCH
   created: '2024-05-31'
   updated: '2024-05-31'
+- name: BECCS
+  name_alternatives: ''
+  definition_short: Bioénergie avec captage et stockage de dioxyde de carbone
+  description: ''
+  description_accessible_url: https://fr.wikipedia.org/wiki/Bio%C3%A9nergie_avec_captage_et_stockage_de_dioxyde_de_carbone
+  language: FRENCH
+  created: '2024-06-01'
+  updated: '2024-06-01'
+- name: DAC
+  name_alternatives: Direct Air Capture
+  definition_short: Captage du dioxyde de carbone dans l'air
+  description: ''
+  description_accessible_url: https://fr.wikipedia.org/wiki/Captage_du_dioxyde_de_carbone_dans_l%27air
+  language: FRENCH
+  created: '2024-06-01'
+  updated: '2024-06-01'
