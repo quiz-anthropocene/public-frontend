@@ -50582,8 +50582,8 @@
   created: '2024-05-28'
   updated: '2024-05-30'
 - id: 1242
-  text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon en 2016
-    sur son territoire. Si l'on prend en compte le charbon incorporé pour ses importations,
+  text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
+    territoire. Si l'on prend en compte le charbon incorporé pour ses importations,
     à combien monte ce chiffre ?
   hint: ''
   type: QCM
@@ -50625,7 +50625,7 @@
   validator: null
   validation_date: null
   created: '2024-05-30'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1243
   text: William Nordhaus a obtenu un prix nobel pour ses travaux sur l'optimum du
     réchauffement climatique pour l'activité humaine. A combien évalue-t-il ce réchauffement
@@ -50767,8 +50767,8 @@
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Le premier parti écologiste brésilien
-  answer_choice_b: L'AEC, Commission sur l'Energie Atomique des Etats-Unis en 1953
+  answer_choice_a: Le premier parti écologiste brésilien, en 1965
+  answer_choice_b: L'AEC, Commission sur l'Energie Atomique des Etats-Unis, en 1953
   answer_choice_c: Le rapport Meadows au Club de Rome en 1972
   answer_choice_d: La compagnie pétrolière Exxon Mobil en 1960
   answer_correct: b
@@ -50792,4 +50792,4 @@
   validator: null
   validation_date: null
   created: '2024-06-02'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
