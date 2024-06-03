@@ -47420,11 +47420,11 @@
   has_ordered_answers: true
   answer_explanation: 'Autant sinon plus ! Au début du XXè siècle, les mines britanniques
     engloutissent chaque année entre 3 et 4,5 millions de m3 d''étais alors qu''un
-    siècle et demi auparavant, les Anglais ne brûlaient que 3,6 millions de m3 de
-    bois de feu. La perception prévaut que le bois ne joue plus aucun rôle dans le
+    siècle et demi auparavant, 3,6 millions de m3 de bois de feu était brûlé pour
+    se chauffer. La perception prévaut que le bois ne joue plus aucun rôle dans le
     mix énergétique anglais à partir du milieu de XIXè siècle. En réalité, il est
     essentiel à la production énergétique : sans bois pour étayer ses mines, l''Angleterre
-    n''aurait eu que très peu de charbon, et, partant, peu d''acier, peu de locomotives
+    n''aurait eu que très peu de charbon. Et, partant, peu d''acier, peu de locomotives
     etc.'
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -47435,7 +47435,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: Sans Transition, p. 80 ; Richard Redmayne, the British
-    Coal Industry during the War, Oxford Clarendon Press, 1923, p44. FAO, Statistiques
+    Coal Industry during the War, Oxford Clarendon Press, 1923, p44 ; FAO, Statistiques
     européennes du bois, 1913-1950, Genève, 1953
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0fc69f00.jpg
   answer_image_url_text: Déchargement des étais pour les mines du pays de Galles,
@@ -47447,7 +47447,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1165
   text: Parmi ces différentes sources, laquelle produit le plus d'énergie finale globalement
     sur terre ?
@@ -47465,14 +47465,14 @@
   has_ordered_answers: true
   answer_explanation: 'Après deux siècles de "transitions énergétiques", l''humanité
     n''a jamais brûlé autant de bois. Chaque année, environ deux milliards de m3 de
-    bois sont abattus afin d''être directement consumés. C''est trois fois plus qu''un
-    siècle plus tôt. Le bois fournit deux fois plus d''énergie que la fission nucléaire,
-    deux fois plus que l''hydroélectricité, deux fois plus le solaire et l''éolien
-    réunis (chiffres 2019). Les seules liqueurs noires de l''industrie papetière fournissaient
-    en 2016 plus d''énergie que le solaire. Il demeure une source de chaleur essentielle
-    pour le tiers le plus pauvre de la population mondiale. Mais les pays riches ont
-    également vu leur consommation de bois-énergie augmenter : les Etats-Unis en brûlent
-    deux fois plus qu''au début qu''en 1960, et l''Europe trois fois plus qu''au début
+    bois sont abattus à cette fin. C''est trois fois plus qu''un siècle plus tôt.
+    Le bois fournit deux fois plus d''énergie que la fission nucléaire, deux fois
+    plus que l''hydroélectricité, deux fois plus le solaire et l''éolien réunis (chiffres
+    2019). Les seules liqueurs noires de l''industrie papetière fournissaient en 2016
+    plus d''énergie que le solaire. Il demeure une source de chaleur essentielle pour
+    le tiers le plus pauvre de la population mondiale. Mais les pays riches ont également
+    vu leur consommation de bois-énergie augmenter : les Etats-Unis en brûlent deux
+    fois plus qu''au début qu''en 1960, et l''Europe trois fois plus qu''au début
     du XXè siècle.'
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -47493,7 +47493,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1166
   text: Vrai ou faux ? Aux Etats-Unis, la production de tubes d'acier pour l'industrie
     pétrolière excède la production totale d'acier du pays en 1900
@@ -47509,17 +47509,18 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Cuves, pipelines, tubes de forage, tankers...A l'instar du bois
-    d'étais pour les mines, on observe une forte accélération de la consommation d'acier
-    pour l'industrie pétrolière. Les Etats-Unis seuls consommaient environ 2 millions
-    de tonnes de tubes pétroliers en 1950 et 7 millions dans les années 2010. A cette
-    date, l'extraction de pétrole et de gaz consommait autant d'acier que toute l'économie
-    américaine à la fin du XIXè siècle. Avec en sus des besoins de maintenance importants
-    dus à la corrosion provoquée par le sel et les composés soufrés. En aval, on trouve
-    toute l'industrie automobile, les infrastructures routières, avec des chiffres
-    de matière engloutie, en particulier du ciment. Et qui dit acier dit charbon pour
-    le produire. La symbiose entre pétrole et le charbon s'est ainsi renforcée au
-    cours du XXè siècle.
+  answer_explanation: "Cuves, pipelines, tubes de forage, tankers... A l'instar du\
+    \ bois d'étais pour les mines, on observe une forte accélération de la consommation\
+    \ d'acier pour l'industrie pétrolière au début du XXè siècle. Les Etats-Unis seuls\
+    \ consommaient environ 2 millions de tonnes de tubes pétroliers en 1950 et 7 millions\
+    \ dans les années 2010. A cette date, l'extraction de pétrole et de gaz consommait\
+    \ autant d'acier que toute l'économie américaine à la fin du XIXè siècle. Avec\
+    \ en sus des besoins de maintenance importants dus à la corrosion du sel et des\
+    \ composés soufrés. \r\nEn aval, on trouve toute l'industrie automobile, les infrastructures\
+    \ routières, avec des quantités gigantesques de matière engloutie, en particulier\
+    \ de ciment. Et qui dit acier ou ciment dit charbon pour le produire. La symbiose\
+    \ entre pétrole et le charbon s'est ainsi considérablement renforcée au cours\
+    \ du XXè siècle."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47541,7 +47542,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1167
   text: 'En 1978, un climatologue de Stanford déclare : « Le changement climatique
     aura des conséquences sensibles en 2000 (+1°C), sérieuses pour l''économie en
@@ -50467,8 +50468,8 @@
   updated: '2024-05-28'
 - id: 1239
   text: Valourec est une société française qui produit des tubes pour l'industrie
-    pétrolière. Elle possède la plus grosse plantation d'eucalyptus en Brésil. A quoi
-    sert-elle ?
+    pétrolière. Elle possède la plus grosse plantation d'eucalyptus en Brésil. Pour
+    quel usage ?
   hint: ''
   type: QCM
   category: null
@@ -50481,14 +50482,14 @@
   answer_choice_d: A produire du charbon de bois
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "Il s'agit d'une exploitation forestière de 230 000 hectares.\
-    \ Elle est destinée à fournir en charbon de bois les installations sidérurgiques\
-    \ locales de l'entreprise, pour une consommation annuelle de plus d'un million\
-    \ de m3. \r\nC'est à peu près autant que toute la sidérurgie américaine à son\
-    \ pic, ou encore quatre fois toute la sidérurgie française à son pic des années\
-    \ 1860. La masse annuelle de bois qui y est récoltée, 3 millions de m3, dépasse\
-    \ sans doute la consommation de l'industrie pétrolière mondiale à la fin du XIXè\
-    \ siècle quand les derricks, les tonneaux et les réservoirs étaient tous en bois."
+  answer_explanation: Il s'agit d'une exploitation forestière de 230 000 hectares.
+    Elle destinée à fournir en charbon de bois les installations sidérurgiques locales
+    de l'entreprise, pour une consommation annuelle de plus d'un million de m3. C'est
+    à peu près autant que toute la sidérurgie américaine à son pic, ou encore quatre
+    fois toute la sidérurgie française à son pic des années 1860. La masse annuelle
+    de bois qui y est récoltée, 3 millions de m3, dépasse sans doute la consommation
+    de l'industrie pétrolière mondiale à la fin du XIXè siècle quand les derricks,
+    les tonneaux et les réservoirs étaient tous en bois.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50502,7 +50503,7 @@
     of Brazil, Londres, Taeylor & Francis, 2000 p. 187-190 ; Franck J. Nellissen,
     Das Mannesmann-Engagement in Brasilien von 1892 bis 1995, C.H. Beck, 1997, p.
     355-359.'
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cad9616d.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b8c9c90d.jpg
   answer_image_url_text: Spindletop, Beaumont, Texas, 1903. Le site était surnommé
     "la boîte d'allumettes", tant la densité de derricks était forte
   answer_extra_info: ''
@@ -50512,9 +50513,9 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1240
-  text: Quand est apparu le terme de géoingénierie - Marchetti
+  text: Quand est apparu le terme de géoingénierie ? - Marchetti - à rédiger
   hint: ''
   type: QCM
   category: null
@@ -50546,21 +50547,21 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1241
-  text: Centrale thermique de Drax
+  text: Centrale thermique de Drax (à rédiger)
   hint: ''
   type: QCM
   category: null
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: vrai
-  answer_choice_b: faux
-  answer_choice_c: ''
-  answer_choice_d: ''
+  answer_choice_a: a
+  answer_choice_b: b
+  answer_choice_c: c
+  answer_choice_d: d
   answer_correct: a
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: ''
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -50580,11 +50581,11 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-30'
+  updated: '2024-06-03'
 - id: 1242
   text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
-    territoire. Si l'on prend en compte le charbon incorporé pour ses importations,
-    à combien monte ce chiffre ?
+    territoire. Combien si l'on prend en compte le charbon incorporé pour ses importations
+    ?
   hint: ''
   type: QCM
   category: 5
@@ -50597,14 +50598,15 @@
   answer_choice_d: 150 millions de tonnes
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: C'est à dire autant que la quantité brûlée sur le sol britannique
-    avant l'assaut de Margaret Thatcher contre l'industrie minière locale. Quelque
-    que soit leur précision, ces chiffres soulignent que dans un monde globalisé,
-    la décarbonation d'une économie nationale est un phénomène difficile à mesurer.
-    Si l'on attribue les émissions aux pays producteurs et non aux consommateurs,
-    on occulte la transition des pays riches d'Europe de l'Ouest hors du charbon est
-    bien moins nette. La Suisse, le Luxembourg ou encore la Norvège sont d'autres
-    pays où ce phénomène est marqué.
+  answer_explanation: Par exemple, le charbon brûlé pour faire fonctionner l'usine
+    d'un produit importé. C'est autant que la quantité brûlée sur le sol britannique
+    avant l'assaut de Margaret Thatcher contre l'industrie minière locale. Dans un
+    monde globalisé, la décarbonation d'une économie nationale est un phénomène délicat
+    à mesurer. Si l'on attribue les émissions aux pays producteurs et non aux consommateurs,
+    on peut donner l'illusion d'une transition des pays riches d'Europe de hors du
+    charbon alors que la réalité est bien moins reluisante. La Suisse, le Luxembourg
+    ou encore la Norvège sont d'autres pays où la dépendance au charbon importé est
+    marquée.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50663,35 +50665,37 @@
   created: '2024-05-31'
   updated: '2024-06-01'
 - id: 1244
-  text: En 1983, un rapport conclut que les +2°C seront atteints au milieu du XXIè
-    siècle et qu'il faudra se préparer à déménager des zones de la planète qui seront
-    devenues inhabitables. De quel rapport s'agit-il ?
+  text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
+    atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
+    de la planète qui seront devenues inhabitables. De quelle instance provient-il
+    ?
   hint: ''
   type: QCM
   category: 6
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Un rapport du GIEC
-  answer_choice_b: L'Agence de Protection de l'Environnement des Etats-Unis
-  answer_choice_c: Le rapport annuel de Greenpeace
-  answer_choice_d: Le Ministère de l'Environnement du Nigéria
+  answer_choice_a: Du GIEC
+  answer_choice_b: De l'Agence de Protection de l'Environnement des Etats-Unis
+  answer_choice_c: Du WWF
+  answer_choice_d: Du ministère de l'environnement du Nigéria
   answer_correct: b
   has_ordered_answers: false
   answer_explanation: Le même rapport parle d'une "dislocation économique". La même
     année, le rapport "Changing Climate" de l'Académie des Sciences tire les mêmes
-    conclusions. Plus que du doute, ces rapports expriment une forme de résignation
-    couplée à une confiance sans faille dans la capacité d'adaptation des pays riches.
+    conclusions. Plus que du doute, les rapports publiées à cette période expriment
+    une forme de résignation, couplée à une confiance sans faille dans la capacité
+    d'adaptation des pays riches.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
-  answer_source_accessible_url_text: Can We Delay a Greenhouse Warming? the Effectiveness
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://nepis.epa.gov/Exe/ZyNET.exe/9101HEAX.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1981+Thru+1985&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C81thru85%5CTxt%5C00000024%5C9101HEAX.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=Zy
+  answer_source_scientific_url_text: Can We Delay a Greenhouse Warming? the Effectiveness
     and Feasibility of Options to Slow a Build-Up of Carbon Dioxide in the Atmosphere,
     United States Environmental Protection Agency 1982
-  answer_source_scientific_url: https://nepis.epa.gov/Exe/ZyNET.exe/9101HEAX.TXT?ZyActionD=ZyDocument&Client=EPA&Index=1981+Thru+1985&Docs=&Query=&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&IntQFieldOp=0&ExtQFieldOp=0&XmlQuery=&File=D%3A%5Czyfiles%5CIndex%20Data%5C81thru85%5CTxt%5C00000024%5C9101HEAX.txt&User=ANONYMOUS&Password=anonymous&SortMethod=h%7C-&MaximumDocuments=1&FuzzyDegree=0&ImageQuality=r75g8/r75g8/x150y150g16/i425&Display=hpfr&DefSeekPage=x&SearchBack=Zy
-  answer_source_scientific_url_text: ''
   answer_book_recommendation: Sans Transition, p. 296
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1c7fa2a0.png
   answer_image_url_text: ''
@@ -50702,7 +50706,7 @@
   validator: null
   validation_date: null
   created: '2024-06-01'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1245
   text: 50 ans se sont écoulés depuis les premières alertes, et les émissions mondiales
     ont suivi les scénarios les plus pessimistes. Pour respecter l'accord de Paris
@@ -50722,18 +50726,19 @@
   answer_explanation: "Option 1 : en effet, pour faire entrer une économie mondiale\
     \ en croissance dans des budgets carbone restreints, tous les scénarii du GIEC\
     \ sans exception recourent à des moyens extraordinaires, à savoir d'énormes quantités\
-    \ d'émissions négatives (BECCS). Certains scénarios prévoient ainsi une surface\
-    \ de plantation forestière supérieure à deux fois celle de l'Inde.\r\nOption 2\
-    \ : la décroissance est encore un tabou pour les économistes du groupe 3 du GIEC.\
-    \ Même à titre d'hypothèse, aucun scénario n'envisage ainsi une quelconque diminution\
-    \ de la croissance économique. Les premières occurrences du mot 'sobriété' remontent\
-    \ au rapport de 2022, après d'âpres discussions.\r\nOption 3 : Le groupe du travail\
-    \ n°2 du GIEC porte en effet sur les impacts, les vulnérabilités et l'adaptation.\r\
-    \nOption 4 : La transition énergétique pour finir est devenue la grande affaire\
-    \ depuis les années 2000. Toutes les grandes entreprises se présentent comme engagées\
-    \ dans une transition. \r\nLa transition n'est pas la cause de la résignation\
-    \ climatique, elle n'en est que la justification. Elle a accompagné depuis plusieurs\
-    \ décennies la procrastination générale et continue à le faire."
+    \ d'émissions négatives (BECCS). Certains prévoient ainsi une surface de plantation\
+    \ forestière supérieure à deux fois celle de l'Inde.\r\nOption 2 : la décroissance\
+    \ est encore un mot tabou, il est absent du rapport du groupe 3 du GIEC portant\
+    \ sur les pistes d'actions d'atténuation. Même à titre d'hypothèse, aucun scénario\
+    \ n'envisage ainsi une quelconque diminution de la croissance économique. Les\
+    \ premières occurrences du mot 'sobriété' remontent au rapport de 2022, après\
+    \ d'âpres discussions.\r\nOption 3 : Le groupe du travail n°2 du GIEC porte en\
+    \ effet sur les impacts, les vulnérabilités et l'adaptation.\r\nOption 4 : La\
+    \ transition énergétique pour finir est devenue la grande affaire depuis les années\
+    \ 2000. Toutes les grandes entreprises se présentent comme engagées dans une transition.\
+    \ \r\nLa transition n'est pas la cause de la résignation climatique, elle n'en\
+    \ est que la justification. Elle a accompagné depuis plusieurs décennies la procrastination\
+    \ générale et continue à le faire."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50743,7 +50748,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: Sans Transition, p. 313
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1787d756.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/075a1d2e.png
   answer_image_url_text: 'En 2023, les émissions de CO2 sont environ 50% plus élevées
     qu''en 1990 mais leur rythme d''augmentation a diminué. Pour ne pas dépasser 1,5°C,
     les émissions doivent être nulles à partir de 2050 puis devenir négatives. A partir
@@ -50757,10 +50762,10 @@
   validator: null
   validation_date: null
   created: '2024-06-01'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 1246
   text: A qui doit-on le vocable de transition énergétique, et autour de quelles années
-    ?
+    (brouillon) ?
   hint: ''
   type: QCM
   category: null
