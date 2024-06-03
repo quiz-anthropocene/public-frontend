@@ -2930,20 +2930,29 @@
   introduction: "<p><a href=\"https://fr.wikipedia.org/wiki/Jean-Baptiste_Fressoz\"\
     >Jean-Baptiste Fressoz</a> est un historien des sciences, des techniques et de\
     \ l'environnement. L'ouvrage qu'il a publié en 2023, <a href=\"https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557\"\
-    >Sans Transition</a> a suscité un intérêt marqué. Il ranconte une histoire radicalement\
-    \ nouvelle de l'énergie qui montre l'étrangeté de la notion de transition. Comment\
-    \ matières et énergies sont-elles reliées entre elles, croissent ensemble, s'accumulent\
-    \ et s'empilent les unes sur les autres, de façon symbiotique ? Pourquoi la notion\
-    \ de transition énergétique s'est-elle imposée et comment, à partir des années\
-    \ 70, ce futur sans passé est-il devenu celui des gouvernements, des entreprises\
-    \ et des experts, en somme, des gens raisonnable ? L'enjeu est fondamental car\
-    \ les liens entre énergies expliquent à la fois leur permance sur le très long\
-    \ terme ainsi que les obstacles titanesques qui se dressent sur le chemin de la\
-    \ décarbonation.<br />\r\nLe livre fourmille de chiffres et faits qui défient\
-    \ l'image conventionnelle qu'on a pu se forger des supposées transitions du passé.\
-    \ Avec l'aide de l'auteur, nous avons sélectionné quelques faits et chiffres inattendus\
-    \ de histoire récente. A vous de démeler la réalité des idées reçues.</p>"
-  conclusion: ''
+    >Sans Transition, une nouvelle histoire de l'énergie</a> a suscité un intérêt\
+    \ marqué. Comment matières et énergies sont-elles reliées entre elles, croissent\
+    \ ensemble, s'accumulent et s'empilent les unes sur les autres, de façon symbiotique\
+    \ ? Pourquoi la notion de transition énergétique s'est-elle imposée ? Comment,\
+    \ à partir des années 70, ce futur sans passé est-il devenu celui des gouvernements,\
+    \ des entreprises et des experts, en somme, des gens raisonnable ? L'enjeu est\
+    \ fondamental car les liens entre énergies expliquent à la fois leur permance\
+    \ sur le très long terme ainsi que les obstacles titanesques qui se dressent sur\
+    \ le chemin de la décarbonation.<br />\r\nLe livre fourmille de chiffres et de\
+    \ faits qui vont à rebours de l'image conventionnelle qu'on a des supposées transitions\
+    \ du passé. Avec l'aide de l'auteur, nous en avons sélectionné quelques uns pour\
+    \ exercer votre sagacité.</p>"
+  conclusion: <p>L'ouvrage dont sont tirées ces quelques questions pointe ainsi le
+    danger de faire reposer nos visions du futur sur de la mauvaise histoire et de
+    comprendre les réelles dynamiques entre énergie et matières. Née avec l'âge atomique,
+    envisagée comme réponse lointaine des pays riches à l'épuisement des énergies
+    fossiles, la <em>transition</em> a été reprise, sans justification sérieuse, pour
+    penser le défi écologique. Grâce à elle, le mal devient le remède, les industries
+    éméttrices deviennent vertes et l'innovation est notre bouée de sauvetage, l'attrait
+    de solutions complexes dans le futur nous retient de réaliser des choses simples
+    dans le préent. L'histoire de la transition apporte un sentiment de déjà-vu et
+    sonne aussi comme une vigoureuse mise en garde contre des périls plus importants
+    encore.</p>
   questions:
   - 1164
   - 1165
@@ -2988,7 +2997,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-06-02'
+  updated: '2024-06-03'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
