@@ -8,15 +8,15 @@
   updated: '2020-12-13'
 - name: Anthropocène
   name_alternatives: ''
-  definition_short: Ère géologique actuelle, où les activités humaines ont un impact
-    sur la terre comparable aux forces géologiques.
+  definition_short: Un terme proposé pour caractériser notre époque, où les activités
+    humaines ont un impact sur la terre comparable aux forces géologiques.
   description: Le terme signifie « l'Ère de l'humain ». On fait coïncider le début
     de l’Anthropocène avec celui de la révolution industrielle, au XVIIIe siècle,
     succédant ainsi à l'Holocène.
   description_accessible_url: https://fr.wikipedia.org/wiki/Anthropoc%C3%A8ne
   language: FRENCH
   created: '2020-12-13'
-  updated: '2020-12-13'
+  updated: '2024-06-02'
 - name: Bioénergies
   name_alternatives: ''
   definition_short: Biogaz, biomasse, déchets ménagers
@@ -417,13 +417,13 @@
   created: '2022-12-28'
   updated: '2022-12-28'
 - name: Afforestation
-  name_alternatives: afforestation, l'afforestation
+  name_alternatives: ''
   definition_short: Plantation d'arbres sur une surface non boisée
   description: ''
   description_accessible_url: ''
   language: FRENCH
   created: '2023-01-19'
-  updated: '2023-01-25'
+  updated: '2024-06-02'
 - name: humique
   name_alternatives: ''
   definition_short: Qui a rapport avec l'humus, c'est à dire l'ensemble des matières
@@ -560,3 +560,47 @@
   language: FRENCH
   created: '2024-06-01'
   updated: '2024-06-01'
+- name: EHESS
+  name_alternatives: ''
+  definition_short: Ecole des Hautes Etudes en Sciences Sociales
+  description: ''
+  description_accessible_url: https://www.ehess.fr/fr
+  language: FRENCH
+  created: '2024-06-02'
+  updated: '2024-06-02'
+- name: CNRS
+  name_alternatives: ''
+  definition_short: Centre National de la Recherche Scientifique
+  description: ''
+  description_accessible_url: https://www.cnrs.fr/fr
+  language: FRENCH
+  created: '2024-06-02'
+  updated: '2024-06-02'
+- name: Etai
+  name_alternatives: ''
+  definition_short: Pièce de bois qui soutient le plafond d'une galerie
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2024-06-02'
+  updated: '2024-06-02'
+- name: Energie finale
+  name_alternatives: Energie disponible
+  definition_short: énergie livrée au consommateur pour sa consommation finale (essence
+    à la pompe, électricité au foyer, etc.).
+  description: ''
+  description_accessible_url: https://www.insee.fr/fr/metadonnees/definition/c1105
+  language: FRENCH
+  created: '2024-06-02'
+  updated: '2024-06-02'
+- name: accord de Paris
+  name_alternatives: COP15
+  definition_short: Accord mondial sur la limitation du réchauffement climatique
+  description: L'objectif primordial de l'accord est de maintenir « l'augmentation
+    de la température moyenne mondiale bien en dessous de 2°C au-dessus des niveaux
+    préindustriels » et de poursuivre les efforts « pour limiter l'augmentation de
+    la température à 1,5°C au-dessus des niveaux préindustriels d'ici 2100.
+  description_accessible_url: https://unfccc.int/fr/a-propos-des-ndcs/l-accord-de-paris
+  language: FRENCH
+  created: '2024-06-02'
+  updated: '2024-06-02'
