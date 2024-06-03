@@ -2927,7 +2927,22 @@
 - id: 106
   name: Sans transition
   slug: sans-transition
-  introduction: <p>Basé sur l'ouvrage de Jean-Baptiste Fressoz (draft)</p>
+  introduction: "<p><a href=\"https://fr.wikipedia.org/wiki/Jean-Baptiste_Fressoz\"\
+    >Jean-Baptiste Fressoz</a> est un historien des sciences, des techniques et de\
+    \ l'environnement. L'ouvrage qu'il a publié en 2023, <a href=\"https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557\"\
+    >Sans Transition</a> a suscité un intérêt marqué. Il ranconte une histoire radicalement\
+    \ nouvelle de l'énergie qui montre l'étrangeté de la notion de transition. Comment\
+    \ matières et énergies sont-elles reliées entre elles, croissent ensemble, s'accumulent\
+    \ et s'empilent les unes sur les autres, de façon symbiotique ? Pourquoi la notion\
+    \ de transition énergétique s'est-elle imposée et comment, à partir des années\
+    \ 70, ce futur sans passé est-il devenu celui des gouvernements, des entreprises\
+    \ et des experts, en somme, des gens raisonnable ? L'enjeu est fondamental car\
+    \ les liens entre énergies expliquent à la fois leur permance sur le très long\
+    \ terme ainsi que les obstacles titanesques qui se dressent sur le chemin de la\
+    \ décarbonation.<br />\r\nLe livre fourmille de chiffres et faits qui défient\
+    \ l'image conventionnelle qu'on a pu se forger des supposées transitions du passé.\
+    \ Avec l'aide de l'auteur, nous avons sélectionné quelques faits et chiffres inattendus\
+    \ de histoire récente. A vous de démeler la réalité des idées reçues.</p>"
   conclusion: ''
   questions:
   - 1164
@@ -2940,7 +2955,8 @@
   - 1242
   - 1244
   - 1245
-  question_count: 10
+  - 1246
+  question_count: 11
   tags:
   - 11
   - 13
@@ -2958,7 +2974,7 @@
   - 253
   - 256
   - 257
-  difficulty_average: 1.4
+  difficulty_average: 1.5
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/328992cb.jpg
   has_audio: false
@@ -2972,7 +2988,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-06-01'
+  updated: '2024-06-02'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
