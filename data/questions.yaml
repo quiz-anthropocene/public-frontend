@@ -50798,3 +50798,363 @@
   validation_date: null
   created: '2024-06-02'
   updated: '2024-06-03'
+- id: 1247
+  text: Vero o falso? Il clima è la stessa cosa del meteo.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Il meteo, di cui sentiamo parlare ogni giorno alla radio, riguarda\
+    \ il tempo di oggi o di domani e cambia continuamente. Il clima è il tempo generale\
+    \ di una regione nell'arco di anni o addirittura di secoli!\r\nSe il meteo cambia\
+    \ da un giorno all'altro, non ne possiamo trarre la conclusione che il clima stia\
+    \ cambiando."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.vikidia.org/wiki/Clima
+  answer_source_accessible_url_text: Che cos'è il clima
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b8ead069.jpeg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1248
+  text: Vero o falso? Negli ultimi secoli, l'attività umana ha avuto un impatto sul
+    clima.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Gli esseri umani si sono adattati a un'ampia varietà di climi.
+    Ma il clima sta cambiando e il nostro pianeta si sta surriscaldando. La scienza
+    del clima ha ormai pienamente dimostrato che questo fenomeno è causato dalle attività
+    umane, in particolare dall'uso di petrolio e carbone.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Sesto_Rapporto_IPCC
+  answer_source_scientific_url_text: Sesto rapporto IPCC
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/17229856.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1249
+  text: Quale di queste mie azioni crea un effetto serra?
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: prendo la macchina o l'aereo
+  answer_choice_b: mangio la carne
+  answer_choice_c: acquisto oggetti
+  answer_choice_d: gioco all'aria aperta
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: Tutto ciò che acquistiamo proviene dall'industria. Produrlo,
+    trasportarlo, farlo funzionare o smaltirlo emette molta CO2, un gas a effetto
+    serra. Lo stesso vale per il funzionamento di un'automobile o di un aereo. Le
+    mucche di cui si mangia la carne o di cui si beve il latte sono ruminanti che
+    emettono un altro gas, anch'esso causa dell'effetto serra.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Gas_serra
+  answer_source_scientific_url_text: Gas serra
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c6e6b396.jpeg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1250
+  text: 'Le energie fossili includono :'
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: l'energia nucleare
+  answer_choice_b: il petrolio
+  answer_choice_c: il sole
+  answer_choice_d: il carbone
+  answer_correct: bd
+  has_ordered_answers: true
+  answer_explanation: "I combustibili fossili sono il petrolio, il carbone e, naturalmente,\
+    \ il gas. 8 macchine su 10 nel mondo sono alimentate da questi combustibili fossili!\
+    \ La natura ha impiegato milioni e milioni di anni per produrli, a partire dalla\
+    \ decomposizione della materia vivente. Noi ne bruciamo una grande quantità, emettendo\
+    \ così moltissima anidride carbonica (CO2). Inoltre, la quantità disponibile è\
+    \ limitata : come un tubetto di dentifricio, ogni giorno ne rimane sempre meno.\
+    \ \r\nIl sole (come il vento) è considerato un'energia rinnovabile e questa energia\
+    \ viene utilizzata in particolare dai pannelli solari.\r\nL'energia nucleare non\
+    \ è una fonte di energia rinnovabile, ma non è nemmeno un combustibile fossile.\
+    \ Il suo utilizzo non emette praticamente CO2 e non contribuisce al cambiamento\
+    \ climatico, ma crea rifiuti pericolosi che durano molto a lungo."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Combustibile_fossile
+  answer_source_scientific_url_text: Combustibili fossili
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0eeeddba.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1251
+  text: A proposito dell'effetto serra, è vero che...
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: attualmente è in aumento a causa della CO2 e del metano emessi
+    dalle attività umane
+  answer_choice_b: non esisteva prima che l'uomo cominciasse a usare i combustibili
+    fossili
+  answer_choice_c: il suo aumento scalda la Terra
+  answer_choice_d: in sua assenza farebbe molto più freddo
+  answer_correct: acd
+  has_ordered_answers: true
+  answer_explanation: 'L''effetto serra è essenziale per la vita: proprio come i vetri
+    di una serra proteggono le piante dal freddo, alcuni gas presenti sul nostro pianeta
+    intrappolano nell''atmosfera parte del calore emesso dal sole. Senza questi gas,
+    noti come gas serra, la temperatura media della Terra sarebbe di -18°C! I principali
+    gas serra sono il vapore acqueo e la CO2. Tuttavia, oggi l''uomo emette troppi
+    gas a effetto serra, i quali surriscaldando eccessivamente il nostro pianeta.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.myclimate.org/it-ch/informarsi/dettaglio-faq/cosa-sono-i-gas-serra/
+  answer_source_accessible_url_text: Cosa sono i gas a effetto serra ?
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7f1ee166.jpeg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1252
+  text: Quando ruttano e scoreggiano, le mucche emettono...
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: CO2
+  answer_choice_b: Metano
+  answer_choice_c: Azoto
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Le mucche, soprattutto quando ruttano, rilasciano metano, un
+    gas a effetto serra che causa un riscaldamento globale ancora maggiore della CO2.
+    Questo avviene a causa dei microbi nel loro stomaco che riducono in poltiglia
+    l'erba che hanno brucato. L'allevamento di ruminanti è una delle principali cause
+    del riscaldamento globale, insieme ai trasporti, all'industria, agli edifici,
+    ai computer, ecc.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ansa.it/ansa_verified/verifica_dei_fatti/scienza/2023/05/31/e-vero-che-anche-mucche-e-maiali-contribuiscono-al-riscaldamento-globale_6c9dbdbb-591b-497f-94fb-17f49e3edc25.html
+  answer_source_accessible_url_text: E' vero che anche mucche e maiali contribuiscono
+    al riscaldamento globale?
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5f535179.jpeg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1253
+  text: Vero o falso ? Lo scioglimento della banchisa (il ghiaccio che galleggia sull'acqua)
+    fa aumentare il livello dell'oceano.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "La banchisa, che galleggia sull'acqua, non fa aumentare il\
+    \ livello dell'acqua sciogliendosi. Fai una prova con un cubetto di ghiaccio in\
+    \ un bicchiere d'acqua! \r\nAl contrario, i ghiacciai che si trovano sulla terra\
+    \ ferma (come quelli della Groenlandia) causano un aumento del livello del mare\
+    \ quando si sciolgono."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: https://www.youtube.com/watch?v=yFeLEIcTfmI
+  answer_video_url_text: Cubetti di ghiaccio in un bicchiere d'acqua - esperimento
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Aumento_del_livello_del_mare
+  answer_source_scientific_url_text: Aumento del livello del mare
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2c816cf1.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1254
+  text: Vero o falso ? Tutti gli esseri umani contribuiscono allo stesso modo al cambiamento
+    climatico.
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: 'Assolutamente no ! Ci sono grandi differenze tra un paese e
+    l''altro e anche all''interno di uno stesso paese. Come si vede nel grafico qui
+    sotto, sono i più ricchi a emettere di più, mentre la metà più povera della popolazione
+    contribuisce molto poco al cambiamento climatico. Tuttavia, sono i più poveri
+    a essere impattati per primi : il cambiamento climatico è quindi anche un problema
+    di ingiustizia.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: https://www.youtube.com/watch?v=SMa_7p_j9Ys
+  answer_video_url_text: Oxfam, l'1% più ricco emette C02 come 5 miliardi di persone
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.oxfamitalia.org/disuguaglianza-emissioni-co2/
+  answer_source_scientific_url_text: La disuguaglianza da emissioni di CO2 che soffoca
+    il pianeta
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85f417bd.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
+- id: 1255
+  text: Quali sono le conseguenze del cambiamento climatico ?
+  hint: ''
+  type: QCM-RM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Un aumento delle onde di calore
+  answer_choice_b: Un aumento dei periodi di siccità
+  answer_choice_c: Un aumento delle inondazioni
+  answer_choice_d: La disparizione di molteplici specie animali
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: Tutte le risposte sono vere. Il cambiamento climatico ha già
+    numerose conseguenze. L'aumento di temperatura è causa di ondate di calore et
+    di siccità (sempre meno d'acqua disponibile). Nel momento in cui l'atmosfera si
+    riscalda, anche i fenomeni d'evaporazione e della formazione di nuvole sono perturbati.
+    Questo può causare delle piogge intense che fanno esondare i fiumi e inondano
+    le terre. Non sono delle belle notizie nè per gli esseri umani, nè per le piante
+    e gli animali, che risentono di tutti questi cambiamenti. Certe specie spariscono
+    a causa del calore, della mancanza d'acqua o dello scioglimento dei ghiacciai.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://it.vikidia.org/wiki/Riscaldamento_globale
+  answer_source_scientific_url_text: Riscaldamento globale
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8553cbb3.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  created: '2024-06-04'
+  updated: '2024-06-04'
