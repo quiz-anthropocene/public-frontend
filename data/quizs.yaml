@@ -2941,11 +2941,11 @@
     \ fourmille de chiffres et de faits qui vont à rebours de l'image qu'on a de ces\
     \ supposées transitions du passé. Avec l'aide de l'auteur, nous en avons sélectionné\
     \ quelques uns pour exercer votre sagacité.</p>"
-  conclusion: "<p>A travers ces quelques questions, nous avons pu pointer du doigt\
-    \ le danger de faire reposer nos visions du futur sur de la mauvaise histoire.\
-    \ Il est essentiel de comprendre les réelles dynamiques passées entre énergie\
-    \ et matières.<br />\r\nNée avec l'âge atomique, envisagée par des pays riches\
-    \ comme une réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>\
+  conclusion: "<p>A travers ces quelques questions, vous avez pu pointer du doigt\
+    \ le danger de faire reposer nos visions du futur sur de la mauvaise histoire,\
+    \ et l'importance de comprendre les réelles dynamiques passées entre énergie et\
+    \ matières.<br />\r\nNée avec l'âge atomique, envisagée par des pays riches comme\
+    \ une réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>\
     \ a été reprise, sans justification sérieuse, pour penser le défi écologique.\
     \ Grâce à elle, le mal devient le remède, les industries émettrices deviennent\
     \ vertes et l'innovation est notre bouée de sauvetage. Méfions-nous de l'attrait\
@@ -2997,7 +2997,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-06-03'
+  updated: '2024-06-04'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
@@ -3316,3 +3316,42 @@
   spotlight: false
   created: '2024-05-28'
   updated: '2024-05-28'
+- id: 115
+  name: L'affresco del clima spiegato alla mia famiglia
+  slug: il-clima-spiegato-alla-mia-famiglia
+  introduction: <p>L'Affresco del Clima Junior spiegato alla mia famiglia Questo quiz
+    si rivolge principalmente ai bambini che hanno appena partecipato a un laboratorio
+    sull'Affresco del Clima Junior. Hai appena partecipato a un'Affresco Junior e
+    vuoi condividere l'esperienza con la tua famiglia? Ecco un piccolo quiz a cui
+    sottoporrli. Le domande si basano sulle schede del gioco, sta a te mettere alla
+    prova le loro conoscenze!</p>
+  conclusion: '<p>Ben fatto!  Allora, avete imparato qualcosa? Il vostro prossimo
+    compito: riflettere con i vostri amici e la vostra famiglia su ciò che potreste
+    fare per ridurre le emissioni di gas a effetto serra!</p>'
+  questions:
+  - 1247
+  - 1248
+  - 1249
+  - 1250
+  - 1251
+  - 1252
+  - 1253
+  - 1254
+  - 1255
+  question_count: 9
+  tags: []
+  difficulty_average: 1.0
+  language: ITALIAN
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/d5d86b51.jpeg
+  has_audio: false
+  authors:
+  - 79
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-06-04'
+  publish: true
+  publish_date: '2024-06-04'
+  spotlight: false
+  created: '2024-06-04'
+  updated: '2024-06-04'
