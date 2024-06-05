@@ -2560,7 +2560,6 @@
   questions:
   - 2
   - 102
-  - 186
   - 541
   - 577
   - 582
@@ -2570,9 +2569,9 @@
   - 1095
   - 1135
   - 1136
-  question_count: 12
+  question_count: 11
   tags: []
-  difficulty_average: 2.1
+  difficulty_average: 2.0
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b4413624.png
   has_audio: false
@@ -2586,7 +2585,7 @@
   publish_date: null
   spotlight: true
   created: '2023-02-07'
-  updated: '2023-02-13'
+  updated: '2024-06-04'
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles
@@ -2699,14 +2698,14 @@
   authors:
   - 73
   visibility: HIDDEN
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2023-02-22'
-  updated: '2024-05-14'
+  updated: '2024-06-04'
 - id: 101
   name: Das Junior Klima Puzzle erklärt an meiner Familie
   slug: das-junior-klima-puzzle-erklart-meiner-familie
@@ -3325,9 +3324,10 @@
     vuoi condividere l'esperienza con la tua famiglia? Ecco un piccolo quiz a cui
     sottoporrli. Le domande si basano sulle schede del gioco, sta a te mettere alla
     prova le loro conoscenze!</p>
-  conclusion: '<p>Ben fatto!  Allora, avete imparato qualcosa? Il vostro prossimo
-    compito: riflettere con i vostri amici e la vostra famiglia su ciò che potreste
-    fare per ridurre le emissioni di gas a effetto serra!</p>'
+  conclusion: '<p>Ben fatto!  Allora, avete imparato qualcosa? Troverai un buon riassunto
+    in <a href="https://www.youtube.com/watch?v=z1-5VMvr2Mg">questo video</a>. Il
+    vostro prossimo compito: riflettere con i vostri amici e la vostra famiglia su
+    ciò che potreste fare per ridurre le emissioni di gas a effetto serra!</p>'
   questions:
   - 1247
   - 1248

@@ -2833,11 +2833,6 @@
   question: 138
   order: 65
   created: '2023-02-07'
-- id: 740
-  quiz: 95
-  question: 186
-  order: 45
-  created: '2023-02-07'
 - id: 741
   quiz: 88
   question: 231
