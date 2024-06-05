@@ -7661,7 +7661,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-01-24'
+  updated: '2024-06-04'
 - id: 187
   text: Combien y a-t-il d’arbres en Amazonie ?
   hint: ''
@@ -50804,7 +50804,7 @@
   type: VF
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: Vrai
   answer_choice_b: Faux
@@ -50819,8 +50819,8 @@
     \ cambiando."
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
+  answer_video_url: https://www.youtube.com/watch?v=4bH0a5vGufs
+  answer_video_url_text: Il clima per bambini – I tipi di clima
   answer_source_accessible_url: https://it.vikidia.org/wiki/Clima
   answer_source_accessible_url_text: Che cos'è il clima
   answer_source_scientific_url: ''
@@ -50843,7 +50843,7 @@
   type: VF
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: Vrai
   answer_choice_b: Faux
@@ -50859,8 +50859,8 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.nostrofiglio.it/bambino/il-cambiamento-climatico-spiegato-ai-bambini
+  answer_source_accessible_url_text: Il cambiamento climatico spiegato ai bambini
   answer_source_scientific_url: https://it.wikipedia.org/wiki/Sesto_Rapporto_IPCC
   answer_source_scientific_url_text: Sesto rapporto IPCC
   answer_book_recommendation: ''
@@ -50880,7 +50880,7 @@
   type: QCM-RM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: prendo la macchina o l'aereo
   answer_choice_b: mangio la carne
@@ -50897,8 +50897,8 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://portalebambini.it/schede-scienze-effetto-serra/
+  answer_source_accessible_url_text: Effetto serra - portale bambini
   answer_source_scientific_url: https://it.wikipedia.org/wiki/Gas_serra
   answer_source_scientific_url_text: Gas serra
   answer_book_recommendation: ''
@@ -50918,7 +50918,7 @@
   type: QCM-RM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: l'energia nucleare
   answer_choice_b: il petrolio
@@ -50962,7 +50962,7 @@
   type: QCM-RM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: attualmente è in aumento a causa della CO2 e del metano emessi
     dalle attività umane
@@ -50980,10 +50980,10 @@
     gas a effetto serra, i quali surriscaldando eccessivamente il nostro pianeta.'
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
-  answer_source_accessible_url: https://www.myclimate.org/it-ch/informarsi/dettaglio-faq/cosa-sono-i-gas-serra/
-  answer_source_accessible_url_text: Cosa sono i gas a effetto serra ?
+  answer_video_url: https://www.youtube.com/watch?v=ctM-E64AdJ8
+  answer_video_url_text: Videoesperimenti - L'effetto serra
+  answer_source_accessible_url: https://portalebambini.it/schede-scienze-effetto-serra/
+  answer_source_accessible_url_text: Effetto serra - portale bambini
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -51003,7 +51003,7 @@
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: CO2
   answer_choice_b: Metano
@@ -51044,7 +51044,7 @@
   type: VF
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: Vrai
   answer_choice_b: Faux
@@ -51083,7 +51083,7 @@
   type: VF
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: Vrai
   answer_choice_b: Faux
@@ -51123,7 +51123,7 @@
   type: QCM-RM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 0
   language: ITALIAN
   answer_choice_a: Un aumento delle onde di calore
   answer_choice_b: Un aumento dei periodi di siccità
@@ -51143,10 +51143,10 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://it.vikidia.org/wiki/Riscaldamento_globale
-  answer_source_scientific_url_text: Riscaldamento globale
+  answer_source_accessible_url: https://it.vikidia.org/wiki/Riscaldamento_globale
+  answer_source_accessible_url_text: Riscaldamento globale
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8553cbb3.jpg
   answer_image_url_text: ''
