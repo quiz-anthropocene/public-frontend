@@ -3340,7 +3340,7 @@
   - 1255
   question_count: 9
   tags: []
-  difficulty_average: 1.0
+  difficulty_average: 0.0
   language: ITALIAN
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/d5d86b51.jpeg
   has_audio: false
@@ -3352,6 +3352,6 @@
   validation_date: '2024-06-04'
   publish: true
   publish_date: '2024-06-04'
-  spotlight: false
+  spotlight: true
   created: '2024-06-04'
-  updated: '2024-06-04'
+  updated: '2024-06-05'
