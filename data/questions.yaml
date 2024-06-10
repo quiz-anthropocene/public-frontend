@@ -50549,20 +50549,34 @@
   created: '2024-05-28'
   updated: '2024-06-03'
 - id: 1241
-  text: Centrale thermique de Drax (à rédiger)
+  text: 'Il faut s''y résoudre: il n''y a jamais eu de transition énergétique hors
+    du bois. Ni au 19ème, ni au 20ème siècle, ni dans les pays pauvres, ni dans les
+    pays riches. Le symbole parfait de cette non-transition est la centrale électrique
+    de Drax. Cette centrale thermique, qui fonctionnait initialement au charbon, a
+    été convertie à la biomasse entre 2010 et 2016.  Afin de satisfaire environs 1,5%
+    des besoins énergétiques, il a fallu brûler en 2021:'
   hint: ''
   type: QCM
-  category: null
+  category: 2
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: a
-  answer_choice_b: b
-  answer_choice_c: c
-  answer_choice_d: d
-  answer_correct: a
+  answer_choice_a: 'a: l''équivalent de 50% de la production forestière du pays'
+  answer_choice_b: 'b: Davantage que la production forestière du pays'
+  answer_choice_c: 'c: le double de la production forestière du pays'
+  answer_choice_d: 10% de la production forestière du pays
+  answer_correct: b
   has_ordered_answers: false
-  answer_explanation: ''
+  answer_explanation: 'Pour satisfaire 1,5% des besoins énergétiques du pays, il a
+    fallu brûler plus de 8 millions de tonnes de granules de bois, essentiellement
+    importées des États-Unis et du Canada. C''est 4 fois plus de bois que ce que brûlait
+    l''Angleterre au milieu du 18ème siècle. Une bonne chose pour le climat? Il semblerait
+    que non. Selon le think tank Ember, cette centrale émet plus de CO2 par KWh d''électricité
+    produite qu''une centrale fonctionnant au gaz ou au charbon: le bois étant moins
+    dense énergétiquement, il faut en brûler plus pour obtenir une quantité d''énergie
+    équivalente.   https://ember-climate.org/insights/research/drax-co2-emissions-biomass/
+    De plus une enquête a révélé qu''une certaine quantité de bois brûlé provenait
+    de forêts anciennes de l''ouest canadien, ce qui provoqua un tollé: https://www.bbc.com/news/science-environment-68381160'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50574,14 +50588,15 @@
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4275d8fd.jpg
   answer_image_url_text: ''
-  answer_extra_info: ''
+  answer_extra_info: Biomasse semble une bonne idée, mais quand on regarde dans le
+    détail, cela ne paraît aussi évident
   author: 2
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-03'
+  updated: '2024-06-09'
 - id: 1242
   text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
     territoire. Combien si l'on prend en compte le charbon incorporé pour ses importations
