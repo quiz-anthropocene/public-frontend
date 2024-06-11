@@ -2,7 +2,10 @@
   <section class="feedback-card small">
     <div class="row no-gutters margin-top-bottom-10">
       <div class="col-sm">
-        <h3 class="margin-5">{{ $t('feedback.yourOpinion') }} {{ (context.source) === 'question' ? $t('words.cette') : $t('words.ce') }} {{ context.source }}{{ $t('words.questionMark') }}</h3>
+        <h3 class="margin-5">
+          <span v-if="context.source === 'question'">{{ $t('feedback.yourOpinionQuestion') }}{{ $t('words.questionMark') }}</span>
+          <span v-if="context.source === 'quiz'">{{ $t('feedback.yourOpinionQuiz') }}{{ $t('words.questionMark') }}</span>
+        </h3>
       </div>
 
       <div class="col-sm action">
