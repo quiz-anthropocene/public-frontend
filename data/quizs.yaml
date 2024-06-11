@@ -2940,18 +2940,13 @@
     \ fourmille de chiffres et de faits qui vont à rebours de l'image qu'on a de ces\
     \ supposées transitions du passé. Avec l'aide de l'auteur, nous en avons sélectionné\
     \ quelques uns pour exercer votre sagacité.</p>"
-  conclusion: "<p>A travers ces quelques questions, vous avez pu pointer du doigt\
-    \ le danger de faire reposer nos visions du futur sur de la mauvaise histoire,\
-    \ et l'importance de comprendre les réelles dynamiques passées entre énergie et\
-    \ matières.<br />\r\nNée avec l'âge atomique, envisagée par des pays riches comme\
-    \ une réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>\
-    \ a été reprise, sans justification sérieuse, pour penser le défi écologique.\
-    \ Grâce à elle, le mal devient le remède, les industries émettrices deviennent\
-    \ vertes et l'innovation est notre bouée de sauvetage. Méfions-nous de l'attrait\
-    \ de solutions complexes dans le futur qui nous retiendraient d'entreprendre des\
-    \ actions simples dans le présent. L'histoire de la transition apporte un sentiment\
-    \ de déjà-vu et sonne aussi comme une vigoureuse mise en garde contre des périls\
-    \ plus importants encore.</p>"
+  conclusion: <p>Née avec l'âge atomique, envisagée par des pays riches comme une
+    réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>
+    a été reprise, sans justification sérieuse, pour penser le défi écologique. Grâce
+    à elle, le mal devient le remède, les industries émettrices deviennent vertes
+    et l'innovation est notre bouée de sauvetage. Attention donc à ne pas faire reposer
+    nos visions du futur sur de la mauvaise histoire, une histoire qui occulterait
+    les réelles dynamiques de symbiose entre énergie et matières.</p>
   questions:
   - 1164
   - 1165
@@ -2996,7 +2991,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-06-04'
+  updated: '2024-06-10'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
