@@ -14,9 +14,9 @@
     "Perfetto!",
     "Esattamente!",
     "Congratulazioni",
-    "Nizza",
+    "Evviva",
     "Ben fatto",
-    "Bravo"
+    "Complimenti"
   ],
   "about": {
     "about": "Informazioni",
@@ -91,6 +91,8 @@
     "suggestionSubmitted": "Faremo del nostro meglio per tenere conto del tuo suggerimento",
     "userEmail": "Per favore specifica la tua email <strong></strong> se desideri essere informato del tuo contributo!",
     "yourOpinion": "La tua opinione su",
+    "yourOpinionQuestion": "La tua opinione su questa domanda",
+    "yourOpinionQuiz": "La tua opinione su questo quiz",
     "yourSuggestion": "Il tuo suggerimento, commento, ..."
   },
   "footer": {
@@ -176,7 +178,7 @@
     "liked": "Mi è piaciuto",
     "linkGoFurther": "Collegamento accessibile per andare oltre",
     "moreQuizs": "Altri quizs",
-    "multipleAnswers": "risposte multiple possibili",
+    "multipleAnswers": "molteplici risposte possibili",
     "newQuestions": "Nuove domande",
     "nextQuestion": "Prossima domanda",
     "nextQuiz": "Prossimo quiz",
