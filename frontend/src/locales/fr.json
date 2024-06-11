@@ -91,6 +91,8 @@
     "suggestionSubmitted": "On fera de notre mieux pour prendre en compte votre suggestion",
     "userEmail": "Veuillez indiquer votre <strong>email</strong> si vous voulez être tenu au courant de votre contribution !",
     "yourOpinion": "Votre avis sur",
+    "yourOpinionQuestion": "Your opinion on this question",
+    "yourOpinionQuiz": "Your opinion on this quiz",
     "yourSuggestion": "Votre suggestion, commentaire, ..."
   },
   "footer": {
