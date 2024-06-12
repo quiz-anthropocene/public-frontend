@@ -2563,15 +2563,14 @@
   - 541
   - 577
   - 582
-  - 869
   - 875
   - 927
   - 1095
   - 1135
   - 1136
-  question_count: 11
+  question_count: 10
   tags: []
-  difficulty_average: 2.0
+  difficulty_average: 1.9
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b4413624.png
   has_audio: false
@@ -2585,7 +2584,7 @@
   publish_date: null
   spotlight: true
   created: '2023-02-07'
-  updated: '2024-06-04'
+  updated: '2024-06-12'
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles
@@ -3350,3 +3349,45 @@
   spotlight: true
   created: '2024-06-04'
   updated: '2024-06-11'
+- id: 116
+  name: Burger Quiz Expleo Juin 2024
+  slug: burger-quiz-expleo-juin-2024
+  introduction: "<p>Bienvenue au Burger Quiz de l'Anthropocène !<br />\r\nLes questions\
+    \ qui suivent vont aborder, dans l'ordre :</p>\r\n\r\n<p>une introduction à l'anthropocène,\
+    \ énergie, climat, inégalités, vulnérabilités, risques à venir, et finalement\
+    \ leviers d'action.</p>\r\n\r\n<p>Prêts ? A vous de jouer.</p>"
+  conclusion: ''
+  questions:
+  - 1
+  - 2
+  - 41
+  - 70
+  - 76
+  - 77
+  - 102
+  - 225
+  - 294
+  - 403
+  - 577
+  - 649
+  - 719
+  - 1095
+  - 1135
+  - 1155
+  question_count: 16
+  tags: []
+  difficulty_average: 1.9
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/4e2de211.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2024-06-12'
+  updated: '2024-06-12'

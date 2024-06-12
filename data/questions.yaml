@@ -40,12 +40,12 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2022-05-13'
+  updated: '2024-06-12'
 - id: 2
-  text: 'Imaginons : demain, toute l''énergie consommée en France par des machines
-    doit être alimentée par des hommes qui pédalent 8h par jour. Combien faudrait-il
-    en moyenne de travailleurs au service de chaque français pour continuer à vivre
-    comme aujourd’hui ?'
+  text: 'Imaginez : demain, toute l''énergie consommée en France doit être alimentée
+    par des humains. En supposant que chacun d''entre eux pédale 8h par jour pour
+    alimenter une dynamo, combien faudrait-il en moyenne de tels travailleurs au service
+    de chaque français pour continuer à vivre comme aujourd’hui ?'
   hint: ''
   type: QCM
   category: 5
@@ -85,7 +85,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2023-02-10'
+  updated: '2024-06-12'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
@@ -299,7 +299,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-03-07'
+  updated: '2024-06-12'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
@@ -1762,7 +1762,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-20'
+  updated: '2024-06-12'
 - id: 42
   text: Combien d'années faut-il à un excès de CO2 émis pour commencer à être évacué
     de l'atmosphère ?
@@ -2584,7 +2584,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-28'
+  updated: '2024-06-12'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -2970,7 +2970,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-28'
+  updated: '2024-06-12'
 - id: 71
   text: A combien s'élève l'empreinte carbone moyenne d'un Français (2018, en équivalent
     CO2) ?
@@ -3227,7 +3227,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-02-07'
+  updated: '2024-06-12'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -3268,7 +3268,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2024-06-12'
 - id: 78
   text: 'L''objectif de la COP21 à l''horizon 2050 est que chaque humain n''émette
     pas plus que 2 tonnes d''équivalent CO2 par an.
@@ -4309,13 +4309,16 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Selon l'étude ci-dessous, l'empreinte carbone d'un chien domestique
-    est deux fois supérieure à celle d'un Land Cruiser qui parcourt 10 000 kilomètres
-    par an. C'est la conclusion d'une étude menée par deux professeurs de l'université
-    de Victoria. Le calcul prend en compte les ingrédients de leur alimentation et
-    l'espace nécessaire à leur fabrication. Le résultat est controversé, mais il a
-    l'avantage d'attirer l'attention sur les émissions insoupçonnées de nos amis à
-    quatre pattes.
+  answer_explanation: "Selon une étude de 2009, l'empreinte carbone d'un chien domestique\
+    \ est deux fois supérieure à celle d'un Land Cruiser de 2t qui parcourt 10 000\
+    \ kilomètres par an. Le calcul prend en compte les ingrédients de leur alimentation\
+    \ et l'espace nécessaire à leur fabrication. Dans la foulée, ils ont trouvé qu'un\
+    \ chat correspondait à une Volkswagen Golf, un hamster à un téléviseur, et un\
+    \ poisson rouge à deux smartphones. \r\n10 années plus tard, une autre étude estimait\
+    \ que les 160 millions de chiens et chats américains étaient responsables de 25\
+    \ à 30 % de l’impact environnemental de la consommation de viande aux États-Unis,\
+    \ ou encore l'équivalent de la conduite de quelque 13 millions de voitures pendant\
+    \ un an."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -4336,7 +4339,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2023-04-23'
+  updated: '2024-06-12'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -9175,7 +9178,7 @@
   validator: 2
   validation_date: '2020-05-12'
   created: '2020-05-05'
-  updated: '2024-04-02'
+  updated: '2024-06-12'
 - id: 226
   text: Le 25 juillet 2019, le record de trafic aérien a été battu. Combien d'avions
     ont volé ce jour-là ?
@@ -11933,7 +11936,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-02-28'
+  updated: '2024-06-12'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -16334,7 +16337,7 @@
   validator: 5
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-03-26'
+  updated: '2024-06-12'
 - id: 404
   text: A combien de jours de consommation intérieure les stocks stratégiques pétroliers
     correspondent-ils en France ?
@@ -17847,7 +17850,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-02-17'
+  updated: '2024-06-12'
 - id: 441
   text: "Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à\
     \ celles d’un Indien ?\r\n(émissions territoriales)"
@@ -23309,7 +23312,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2023-10-07'
+  updated: '2024-06-12'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -26264,7 +26267,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2024-02-14'
+  updated: '2024-06-12'
 - id: 650
   text: Sur les 20 plus grands incendies depuis 90 ans en Californie, combien ont
     eu lieu après l'an 2000 ?
@@ -29377,7 +29380,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-02-28'
+  updated: '2024-06-12'
 - id: 720
   text: Quelle quantité d'énergie y a-t-il dans un litre de kérosène...  en kWh ?
   hint: On n'imagine pas les services pour pas très cher.
@@ -35889,7 +35892,7 @@
   validator: 38
   validation_date: '2021-03-02'
   created: '2021-02-23'
-  updated: '2023-02-10'
+  updated: '2024-06-12'
 - id: 870
   text: De toute l'énergie utile que l'humanité utilise actuellement, quelle est la
     part d'énergie thermique (chaleur) ?
@@ -38303,7 +38306,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-01-26'
+  updated: '2024-06-12'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -44497,10 +44500,10 @@
     ont confirmé que les espèces aquatiques vivant à proximité dans la rivière Whitelake
     sont complètement droguées. Les festivaliers ne respectent pas les consignes qui
     les invitent à uriner dans des zones adaptées, permettant un retraitement des
-    urines. Les résidus de Mdma et de cocaïne viennent alors perturber les cycles
+    urines. Les résidus de MDMA et de cocaïne viennent alors perturber les cycles
     de reproduction d'une espèce d'anguille rare et protégée en aval du festival.
     Organiser un évènement festif n'est pas neutre du point de vue environnemental
-    et il faut donc en mesurer les conséquences, parfois inattendues !
+    et il faut donc en mesurer les conséquences, parfois inattendues.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44526,7 +44529,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-02-07'
+  updated: '2024-06-12'
 - id: 1096
   text: Quelle quantité de matière la fabrication des décors de l'Opéra Bastille requiert-elle
     ?
@@ -46227,9 +46230,8 @@
   created: '2023-02-05'
   updated: '2023-02-07'
 - id: 1135
-  text: Votre dernière heure est bientôt venue...et vous souhaitez minimiser l'empreinte
-    carbone de votre passage dans l'au-delà - dans le respect de la loi bien sûr.
-    Quelle option choisissez-vous ?
+  text: Vous souhaitez quitter ce monde avec une empreinte carbone minimale. Quelle
+    option choisissez-vous ?
   hint: ''
   type: QCM
   category: 2
@@ -46275,7 +46277,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2023-02-21'
+  updated: '2024-06-12'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -47102,7 +47104,7 @@
   validator: 47
   validation_date: '2024-02-16'
   created: '2024-02-15'
-  updated: '2024-04-03'
+  updated: '2024-06-12'
 - id: 1156
   text: Avant la révolution industrielle, à quoi servaient les excreta des citadins
     ?
@@ -50548,9 +50550,8 @@
   created: '2024-05-28'
   updated: '2024-06-03'
 - id: 1241
-  text: 'Drax est le plus grosse centre thermique de Grande Bretagne, elle fournit
-    environs 1,5% des besoins énergétique du pays. Pour l''alimenter, il a fallu brûler
-    en 2021 :'
+  text: 'Drax est la plus grosse centrale électrique thermique de Grande Bretagne..
+    Pour l''alimenter, il a fallu brûler en 2021 :'
   hint: ''
   type: QCM
   category: 2
@@ -50563,17 +50564,13 @@
   answer_choice_d: le double de la production forestière du pays
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: "Fonctionnant initialement au charbon, elle a été convertie\
-    \ à la biomasse entre 2010 et 2016. Son alimentation requiert plus de 8 millions\
-    \ de tonnes de granules de bois. C'est plus que toute la production forestière\
-    \ du pays et quatre fois plus de bois que ce que brûlait l'Angleterre au milieu\
-    \ du 18ème siècle. Mais ces granules sont pour l'essentiel importées des États-Unis\
-    \ et du Canada - dont une partie de forêts anciennes. \r\nUne bonne chose pour\
-    \ le climat que cette évolution du charbon au bois ? Selon le think tank Ember,\
-    \ cette centrale émet plus de CO2 par KWh d'électricité produite qu'une centrale\
-    \ fonctionnant au gaz ou au charbon. Comme le bois est moins dense en énergie\
-    \ que le charbon, il faut en brûler plus pour obtenir une quantité d'énergie équivalente.\
-    \ Il faut se rendre à l'évidence : il n'y a jamais eu de transition hors du bois."
+  answer_explanation: Fonctionnant initialement au charbon, elle a été convertie à
+    la biomasse entre 2010 et 2016.  Elle fournit environ 1,5% des besoins énergétique
+    du pays. Son alimentation requiert plus de 8 millions de tonnes de granules de
+    bois. C'est plus que toute la production forestière du pays et quatre fois plus
+    de bois que ce que brûlait l'Angleterre au milieu du 18ème siècle. Mais ces granules
+    sont pour l'essentiel importées des États-Unis et du Canada - dont une partie
+    de forêts anciennes.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50585,16 +50582,20 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/01dc0852.jpg
-  answer_image_url_text: ''
-  answer_extra_info: Biomasse semble une bonne idée, mais quand on regarde dans le
-    détail, cela ne paraît aussi évident
+  answer_image_url_text: Centrale électrique de Drax
+  answer_extra_info: 'Qui plus est, il s''avère Une bonne chose pour le climat que
+    cette évolution du charbon au bois ? Selon le think tank Ember, cette centrale
+    émet plus de CO2 par KWh d''électricité produite qu''une centrale fonctionnant
+    au gaz ou au charbon. Comme le bois est moins dense en énergie que le charbon,
+    il faut en brûler plus pour obtenir une quantité d''énergie équivalente. Il faut
+    se rendre à l''évidence : il n''y a jamais eu de transition hors du bois.'
   author: 2
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-11'
+  updated: '2024-06-12'
 - id: 1242
   text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
     territoire. Combien si l'on prend en compte le charbon caché derrière ses importations
