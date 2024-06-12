@@ -47403,9 +47403,8 @@
   created: '2024-04-24'
   updated: '2024-05-15'
 - id: 1164
-  text: Vrai ou faux ? En 1900, la production de bois pour les mines de charbon en
-    Angleterre, représente la moitié de ce que le pays produisait au global pour se
-    chauffer en 1800.
+  text: Vrai ou faux ? En Angleterre, du fait de l'essor du charbon, on consomme bien
+    moins de bois en 1900 qu'en 1800 ?
   hint: ''
   type: VF
   category: null
@@ -47418,14 +47417,14 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Autant sinon plus ! Au début du XXè siècle, les mines britanniques
-    engloutissent chaque année entre 3 et 4,5 millions de m3 d''étais alors qu''un
-    siècle et demi auparavant, 3,6 millions de m3 de bois de feu était brûlé pour
-    se chauffer. La perception prévaut que le bois ne joue plus aucun rôle dans le
-    mix énergétique anglais à partir du milieu de XIXè siècle. En réalité, il est
-    essentiel à la production énergétique : sans bois pour étayer ses mines, l''Angleterre
-    n''aurait eu que très peu de charbon. Et, partant, peu d''acier, peu de locomotives
-    etc.'
+  answer_explanation: 'Au début du XXè siècle, les mines britanniques engloutissent
+    chaque année entre 3 et 4,5 millions de m3 de bois pour étayer leurs galeries,
+    alors qu''un siècle et demi auparavant, 3,6 millions de m3 de bois de feu était
+    brûlé pour se chauffer. La perception prévaut que le bois ne joue plus aucun rôle
+    dans le mix énergétique anglais à partir du milieu de XIXè siècle. En réalité,
+    il est essentiel à la production énergétique : sans bois pour étayer ses mines,
+    l''Angleterre n''aurait eu que très peu de charbon. Et, partant, peu d''acier,
+    peu de locomotives etc.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47447,7 +47446,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-03'
+  updated: '2024-06-11'
 - id: 1165
   text: Parmi ces différentes sources, laquelle produit le plus d'énergie finale globalement
     sur terre ?
@@ -50549,44 +50548,43 @@
   created: '2024-05-28'
   updated: '2024-06-03'
 - id: 1241
-  text: 'Il faut s''y résoudre: il n''y a jamais eu de transition énergétique hors
-    du bois. Ni au 19ème, ni au 20ème siècle, ni dans les pays pauvres, ni dans les
-    pays riches. Le symbole parfait de cette non-transition est la centrale électrique
-    de Drax. Cette centrale thermique, qui fonctionnait initialement au charbon, a
-    été convertie à la biomasse entre 2010 et 2016.  Afin de satisfaire environs 1,5%
-    des besoins énergétiques, il a fallu brûler en 2021:'
+  text: 'Drax est le plus grosse centre thermique de Grande Bretagne, elle fournit
+    environs 1,5% des besoins énergétique du pays. Pour l''alimenter, il a fallu brûler
+    en 2021 :'
   hint: ''
   type: QCM
   category: 2
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: 'a: l''équivalent de 50% de la production forestière du pays'
-  answer_choice_b: 'b: Davantage que la production forestière du pays'
-  answer_choice_c: 'c: le double de la production forestière du pays'
-  answer_choice_d: 10% de la production forestière du pays
-  answer_correct: b
+  answer_choice_a: 10% de la production forestière du pays
+  answer_choice_b: l'équivalent de 50% de la production forestière du pays
+  answer_choice_c: davantage que la production forestière du pays
+  answer_choice_d: le double de la production forestière du pays
+  answer_correct: c
   has_ordered_answers: false
-  answer_explanation: 'Pour satisfaire 1,5% des besoins énergétiques du pays, il a
-    fallu brûler plus de 8 millions de tonnes de granules de bois, essentiellement
-    importées des États-Unis et du Canada. C''est 4 fois plus de bois que ce que brûlait
-    l''Angleterre au milieu du 18ème siècle. Une bonne chose pour le climat? Il semblerait
-    que non. Selon le think tank Ember, cette centrale émet plus de CO2 par KWh d''électricité
-    produite qu''une centrale fonctionnant au gaz ou au charbon: le bois étant moins
-    dense énergétiquement, il faut en brûler plus pour obtenir une quantité d''énergie
-    équivalente.   https://ember-climate.org/insights/research/drax-co2-emissions-biomass/
-    De plus une enquête a révélé qu''une certaine quantité de bois brûlé provenait
-    de forêts anciennes de l''ouest canadien, ce qui provoqua un tollé: https://www.bbc.com/news/science-environment-68381160'
+  answer_explanation: "Fonctionnant initialement au charbon, elle a été convertie\
+    \ à la biomasse entre 2010 et 2016. Son alimentation requiert plus de 8 millions\
+    \ de tonnes de granules de bois. C'est plus que toute la production forestière\
+    \ du pays et quatre fois plus de bois que ce que brûlait l'Angleterre au milieu\
+    \ du 18ème siècle. Mais ces granules sont pour l'essentiel importées des États-Unis\
+    \ et du Canada - dont une partie de forêts anciennes. \r\nUne bonne chose pour\
+    \ le climat que cette évolution du charbon au bois ? Selon le think tank Ember,\
+    \ cette centrale émet plus de CO2 par KWh d'électricité produite qu'une centrale\
+    \ fonctionnant au gaz ou au charbon. Comme le bois est moins dense en énergie\
+    \ que le charbon, il faut en brûler plus pour obtenir une quantité d'énergie équivalente.\
+    \ Il faut se rendre à l'évidence : il n'y a jamais eu de transition hors du bois."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.bbc.com/news/science-environment-68381160
+  answer_source_accessible_url_text: 'Drax : la centrale de Drax brûle encore des
+    forêts rares, site de la BBC, février 2024'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4275d8fd.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/01dc0852.jpg
   answer_image_url_text: ''
   answer_extra_info: Biomasse semble une bonne idée, mais quand on regarde dans le
     détail, cela ne paraît aussi évident
@@ -50596,12 +50594,13 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-09'
+  updated: '2024-06-11'
 - id: 1242
   text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
-    territoire. Combien si l'on prend en compte le charbon incorporé pour ses importations
+    territoire. Combien si l'on prend en compte le charbon caché derrière ses importations
     ?
-  hint: ''
+  hint: Par exemple, le charbon brûlé pour faire fonctionner l'usine d'un produit
+    importé
   type: QCM
   category: 5
   tags: []
@@ -50613,8 +50612,7 @@
   answer_choice_d: 150 millions de tonnes
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Par exemple, le charbon brûlé pour faire fonctionner l'usine
-    d'un produit importé. C'est autant que la quantité brûlée sur le sol britannique
+  answer_explanation: . C'est autant que la quantité brûlée sur le sol britannique
     avant l'assaut de Margaret Thatcher contre l'industrie minière locale. Dans un
     monde globalisé, la décarbonation d'une économie nationale est un phénomène délicat
     à mesurer. Si l'on attribue les émissions aux pays producteurs et non aux consommateurs,
@@ -50642,7 +50640,7 @@
   validator: null
   validation_date: null
   created: '2024-05-30'
-  updated: '2024-06-03'
+  updated: '2024-06-11'
 - id: 1243
   text: William Nordhaus a obtenu un prix nobel pour ses travaux sur l'optimum du
     réchauffement climatique pour l'activité humaine. A combien évalue-t-il ce réchauffement
@@ -50821,8 +50819,8 @@
   tags: []
   difficulty: 0
   language: ITALIAN
-  answer_choice_a: Vrai
-  answer_choice_b: Faux
+  answer_choice_a: Vero
+  answer_choice_b: Falso
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
@@ -50850,7 +50848,7 @@
   validator: 2
   validation_date: '2024-06-04'
   created: '2024-06-04'
-  updated: '2024-06-04'
+  updated: '2024-06-11'
 - id: 1248
   text: Vero o falso? Negli ultimi secoli, l'attività umana ha avuto un impatto sul
     clima.
@@ -50860,8 +50858,8 @@
   tags: []
   difficulty: 0
   language: ITALIAN
-  answer_choice_a: Vrai
-  answer_choice_b: Faux
+  answer_choice_a: Vero
+  answer_choice_b: Falso
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: a
@@ -50888,7 +50886,7 @@
   validator: 2
   validation_date: '2024-06-04'
   created: '2024-06-04'
-  updated: '2024-06-04'
+  updated: '2024-06-11'
 - id: 1249
   text: Quale di queste mie azioni crea un effetto serra?
   hint: ''
@@ -51061,8 +51059,8 @@
   tags: []
   difficulty: 0
   language: ITALIAN
-  answer_choice_a: Vrai
-  answer_choice_b: Faux
+  answer_choice_a: Vero
+  answer_choice_b: Falso
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
@@ -51090,9 +51088,9 @@
   validator: 2
   validation_date: '2024-06-04'
   created: '2024-06-04'
-  updated: '2024-06-04'
+  updated: '2024-06-11'
 - id: 1254
-  text: Vero o falso ? Tutti gli esseri umani contribuiscono allo stesso modo al cambiamento
+  text: Vero o falso? Tutti gli esseri umani contribuiscono allo stesso modo al cambiamento
     climatico.
   hint: ''
   type: VF
@@ -51100,17 +51098,17 @@
   tags: []
   difficulty: 0
   language: ITALIAN
-  answer_choice_a: Vrai
-  answer_choice_b: Faux
+  answer_choice_a: Vero
+  answer_choice_b: Falso
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Assolutamente no ! Ci sono grandi differenze tra un paese e
+  answer_explanation: 'Assolutamente no! Ci sono grandi differenze tra un paese e
     l''altro e anche all''interno di uno stesso paese. Come si vede nel grafico qui
     sotto, sono i più ricchi a emettere di più, mentre la metà più povera della popolazione
     contribuisce molto poco al cambiamento climatico. Tuttavia, sono i più poveri
-    a essere impattati per primi : il cambiamento climatico è quindi anche un problema
+    a essere impattati per primi: il cambiamento climatico è quindi anche un problema
     di ingiustizia.'
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -51122,7 +51120,7 @@
   answer_source_scientific_url_text: La disuguaglianza da emissioni di CO2 che soffoca
     il pianeta
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85f417bd.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d3bd403f.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 79
@@ -51131,7 +51129,7 @@
   validator: 2
   validation_date: '2024-06-04'
   created: '2024-06-04'
-  updated: '2024-06-04'
+  updated: '2024-06-11'
 - id: 1255
   text: Quali sono le conseguenze del cambiamento climatico ?
   hint: ''

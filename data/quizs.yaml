@@ -2932,14 +2932,14 @@
     >Sans Transition, une nouvelle histoire de l'énergie</a>. Le livre revisite dans\
     \ un premier temps comment matières et énergies sont reliées, comment elle croissent\
     \ ensemble en s'empilant, de façon symbiotique. Il examine ensuite comment la\
-    \ notion de <em>transition énergétique </em>s'est imposée, comment ce ce futur\
-    \ sans passé est devenu celui des gouvernements, des entreprises et des experts\
+    \ notion de <em>transition énergétique </em>s'est imposée, comment ce <em>futur\
+    \ sans passé</em> est devenu celui des gouvernements, des entreprises et des experts\
     \ - en somme, des gens raisonnables. L'enjeu est fondamental car les liens entre\
     \ énergies expliquent à la fois leur permance sur le très long terme et les obstacles\
     \ titanesques qui se dressent sur le chemin de la décarbonation.<br />\r\nLe livre\
     \ fourmille de chiffres et de faits qui vont à rebours de l'image qu'on a de ces\
     \ supposées transitions du passé. Avec l'aide de l'auteur, nous en avons sélectionné\
-    \ quelques uns pour exercer votre sagacité.</p>"
+    \ quelques uns. A vous d'exercer votre sagacité.</p>"
   conclusion: <p>Née avec l'âge atomique, envisagée par des pays riches comme une
     réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>
     a été reprise, sans justification sérieuse, pour penser le défi écologique. Grâce
@@ -2991,7 +2991,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-06-10'
+  updated: '2024-06-11'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
@@ -3313,16 +3313,16 @@
 - id: 115
   name: L'affresco del clima spiegato alla mia famiglia
   slug: il-clima-spiegato-alla-mia-famiglia
-  introduction: <p>L'Affresco del Clima Junior spiegato alla mia famiglia Questo quiz
-    si rivolge principalmente ai bambini che hanno appena partecipato a un laboratorio
+  introduction: <p>L'Affresco del Clima Junior spiegato alla mia famiglia. Questo
+    quiz si rivolge principalmente ai bambini che hanno appena partecipato a un laboratorio
     sull'Affresco del Clima Junior. Hai appena partecipato a un'Affresco Junior e
     vuoi condividere l'esperienza con la tua famiglia? Ecco un piccolo quiz a cui
     sottoporrli. Le domande si basano sulle schede del gioco, sta a te mettere alla
     prova le loro conoscenze!</p>
-  conclusion: '<p>Ben fatto!  Allora, avete imparato qualcosa? Troverai un buon riassunto
-    in <a href="https://www.youtube.com/watch?v=z1-5VMvr2Mg">questo video</a>. Il
-    vostro prossimo compito: riflettere con i vostri amici e la vostra famiglia su
-    ciò che potreste fare per ridurre le emissioni di gas a effetto serra!</p>'
+  conclusion: '<p>Ben fatto!  Allora, tu e coloro che hanno giocato con te, avete
+    imparato qualcosa? Troverai un buon riassunto in <a href="https://www.youtube.com/watch?v=z1-5VMvr2Mg">questo
+    video</a>. Il vostro prossimo compito: riflettere con i vostri amici e la vostra
+    famiglia su ciò che potreste fare per ridurre le emissioni di gas a effetto serra!</p>'
   questions:
   - 1247
   - 1248
@@ -3337,7 +3337,7 @@
   tags: []
   difficulty_average: 0.0
   language: ITALIAN
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/d5d86b51.jpeg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/af3de490.jpeg
   has_audio: false
   authors:
   - 79
@@ -3349,4 +3349,4 @@
   publish_date: '2024-06-04'
   spotlight: true
   created: '2024-06-04'
-  updated: '2024-06-05'
+  updated: '2024-06-11'
