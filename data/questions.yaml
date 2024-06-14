@@ -4339,7 +4339,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-06-12'
+  updated: '2024-06-13'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -46230,8 +46230,8 @@
   created: '2023-02-05'
   updated: '2023-02-07'
 - id: 1135
-  text: Vous souhaitez quitter ce monde avec une empreinte carbone minimale. Quelle
-    option choisissez-vous ?
+  text: Votre dernière heure a bientôt sonné et vous souhaitez quitter ce monde avec
+    une empreinte carbone minimale. Quelle option choisissez-vous ?
   hint: ''
   type: QCM
   category: 2
@@ -46249,14 +46249,14 @@
     écologique légèrement inférieur à celui de la crémation. Attention, cela ne vaut
     que si vous choisissez une tombe simplement gazonnée, sans bâtiment, avec un cercueil
     fabriqué en France avec le moins de vernis et de poignées possibles. En moyenne
-    cependant, le 'cycle de vie' (si l'on puis dire) - creusement de la terre, fabrication
-    du cercueil et du monument, transport du défunt - d'une inhumation dégage 869
-    kg de CO2, c’est-à-dire près de 4 fois plus que la crémation. Peut-on faire moins
-    ? Potentiellement oui, avec notamment l'humusation, qui consiste à laisser le
-    corps se composter naturellement dans le sol. Cette pratique est cependant pour
-    l'instant interdite en Europe. Elle est au stade de l'expérimentation en Belgique
-    et vient d'être légalisée dans l'état de New York. L'empreinte est alors très
-    faible. Mais elle soulève d'autres questions.
+    cependant, le 'cycle de vie' (si l'on peut dire...) - creusement de la terre,
+    fabrication du cercueil et du monument, transport du défunt - d'une inhumation
+    dégage 869 kg de CO2, c’est-à-dire près de 4 fois plus que la crémation. Peut-on
+    faire moins ? Potentiellement oui, avec notamment l'humusation, qui consiste à
+    laisser le corps se composter naturellement dans le sol. Cette pratique est cependant
+    pour l'instant interdite en Europe. Elle est au stade de l'expérimentation en
+    Belgique et vient d'être légalisée dans l'état de New York. L'empreinte est alors
+    très faible, mais elle soulève d'autres questions.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46277,7 +46277,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2024-06-12'
+  updated: '2024-06-13'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
