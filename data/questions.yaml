@@ -50550,8 +50550,9 @@
   created: '2024-05-28'
   updated: '2024-06-03'
 - id: 1241
-  text: 'Drax est la plus grosse centrale électrique thermique de Grande Bretagne..
-    Pour l''alimenter, il a fallu brûler en 2021 :'
+  text: 'Drax est la plus grosse centrale électrique thermique de Grande Bretagne.
+    Elle fonctionne à la biomasse et pour l''alimenter, il a fallu brûler en 2021
+    :'
   hint: ''
   type: QCM
   category: 2
@@ -50564,13 +50565,13 @@
   answer_choice_d: le double de la production forestière du pays
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: Fonctionnant initialement au charbon, elle a été convertie à
-    la biomasse entre 2010 et 2016.  Elle fournit environ 1,5% des besoins énergétique
-    du pays. Son alimentation requiert plus de 8 millions de tonnes de granules de
-    bois. C'est plus que toute la production forestière du pays et quatre fois plus
-    de bois que ce que brûlait l'Angleterre au milieu du 18ème siècle. Mais ces granules
-    sont pour l'essentiel importées des États-Unis et du Canada - dont une partie
-    de forêts anciennes.
+  answer_explanation: "Fonctionnant initialement au charbon, elle a été convertie\
+    \ à la biomasse en 2016.  Elle fournit environ 1,5% des besoins énergétique du\
+    \ pays. \r\nSon alimentation requiert plus de 8 millions de tonnes de granules\
+    \ de bois. C'est plus que toute la production forestière du pays et quatre fois\
+    \ plus de bois que ce que brûlait l'Angleterre au milieu du 18ème siècle. Mais\
+    \ ces granules sont pour l'essentiel importées des États-Unis et du Canada - dont\
+    \ une partie de forêts anciennes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50595,7 +50596,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-12'
+  updated: '2024-06-14'
 - id: 1242
   text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
     territoire. Combien si l'on prend en compte le charbon caché derrière ses importations
