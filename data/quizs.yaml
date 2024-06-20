@@ -3336,7 +3336,7 @@
   tags: []
   difficulty_average: 0.0
   language: ITALIAN
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/af3de490.jpeg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b7fa1641.png
   has_audio: false
   authors:
   - 79
@@ -3348,7 +3348,7 @@
   publish_date: '2024-06-04'
   spotlight: true
   created: '2024-06-04'
-  updated: '2024-06-11'
+  updated: '2024-06-20'
 - id: 116
   name: Burger Quiz Expleo Juin 2024
   slug: burger-quiz-expleo-juin-2024
