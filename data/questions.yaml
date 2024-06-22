@@ -47450,17 +47450,18 @@
   created: '2024-05-24'
   updated: '2024-06-21'
 - id: 1165
-  text: Qu'est-ce qui produit globalement le plus d'énergie finale sur terre ?
+  text: Parmi ces sources d'énergie, lequelles produisent globalement le plus d'énergie
+    finale sur terre ?
   hint: ''
   type: QCM
   category: 5
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Bois
-  answer_choice_b: Hydroélectricité
-  answer_choice_c: Solaire + éolien
-  answer_choice_d: Nucléaire
+  answer_choice_a: Le bois
+  answer_choice_b: L'hydroélectricité
+  answer_choice_c: Le Solaire et l'éolien réunis
+  answer_choice_d: Le nucléaire
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: 'Après deux siècles de "transitions énergétiques", l''humanité
@@ -47493,7 +47494,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1166
   text: Vrai ou faux ? Aux Etats-Unis, la production de tubes d'acier pour l'industrie
     pétrolière excède la production totale d'acier du pays en 1900
@@ -47529,7 +47530,7 @@
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: Stockpile and Accessibility of Strategic and
-    Critical Materials in a TIme of War, partie 6 "Petroleum, gas and coal", Wasjington,
+    Critical Materials in a Time of War, partie 6 "Petroleum, gas and coal", Wasjington,
     US Printing Office,1954
   answer_book_recommendation: Sans Transition, p. 129
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/838fefff.jpg
@@ -47542,7 +47543,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-03'
+  updated: '2024-06-22'
 - id: 1167
   text: 'En 1978, un climatologue renommé prédit : « Le changement climatique aura
     des conséquences sensibles en 2000 (+1°C), sérieuses pour l''économie en 2038
@@ -47562,15 +47563,15 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'Ce qui est intéressant, c''est que cette dernière affirmation
-    de J.A. Laurmann, chercheur à Stanford, n''est pas une déclaration isolée et aventureuse
-    d''un chercheur qui s''aventure hors de son champ d''expertise. Elle illustre
-    l''air du temps. En 1985, la conférence de Villach qui préfigure la création du
-    GIEC reprend ainsi cet argument dilatoire : le voyant climatique est encore au
-    vert, et même au stade jaune, les experts estiment qu''il y aurait encore du temps
-    pour stimuler une transition douce. Aucune preuve n''était pourtant donnée l''appui
-    de ces affirmations, alors que ni l''histoire ni la prospective ne portaient à
-    le croire. A cette époque, les gravité et l''urgence des messages d''alerte étaient
-    tempérés par une croyance dans notre capacité à y faire face rapidement.'
+    de J.A. Laurmann n''est pas une formule isolée d''un chercheur qui s''aventure
+    hors de son champ d''expertise, elle est tout à fait dans l''air du temps. En
+    1985, la conférence de Villach qui préfigure la création du GIEC reprend ainsi
+    cet argument dilatoire : le voyant climatique est encore au vert, et même au stade
+    jaune, les experts estiment qu''il y aurait encore du temps pour stimuler une
+    transition douce. Aucune preuve n''était pourtant donnée l''appui de ces affirmations,
+    alors que ni l''histoire ni la prospective ne portaient à le croire. A cette époque,
+    paradoxalement, c''étaient les mêmes personnes qui lançaient des messages d''alerte
+    et qui rassuraient sur notre capacité à faire face.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47599,7 +47600,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1168
   text: Nel 2018, la concentrazione di CO2 nell'atmosfera ha superato le 410 ppm (parti
     per milione). Quando è stata l'ultima volta che è successo?
@@ -50468,9 +50469,9 @@
   created: '2024-05-28'
   updated: '2024-05-28'
 - id: 1239
-  text: Valourec est une société française qui produit des tubes pour l'industrie
-    pétrolière. Elle possède la plus grosse plantation d'eucalyptus en Brésil. Pour
-    quel usage ?
+  text: Valourec est une entreprise qui produit des tubes pour l'industrie pétrolière.
+    Elle possède la plus grosse plantation d'eucalyptus en Brésil. Pour quel usage
+    ?
   hint: ''
   type: QCM
   category: null
@@ -50484,13 +50485,15 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Il s'agit d'une exploitation forestière de 230 000 hectares.
-    Elle destinée à fournir en charbon de bois les installations sidérurgiques locales
-    de l'entreprise, pour une consommation annuelle de plus d'un million de m3. C'est
-    à peu près autant que toute la sidérurgie américaine à son pic, ou encore quatre
-    fois toute la sidérurgie française à son pic des années 1860. La masse annuelle
-    de bois qui y est récoltée, 3 millions de m3, dépasse sans doute la consommation
+    Elle est destinée à fournir en charbon de bois les installations sidérurgiques
+    locales de l'entreprise, pour une consommation annuelle de plus d'un million de
+    m3. C'est à peu près autant que toute la sidérurgie américaine à son pic, ou encore
+    quatre fois toute la sidérurgie française à son pic des années 1860. La masse
+    annuelle de bois qui y est récoltée, 3 millions de m3, dépasse sans doute la consommation
     de l'industrie pétrolière mondiale à la fin du XIXè siècle quand les derricks,
-    les tonneaux et les réservoirs étaient tous en bois.
+    les tonneaux et les réservoirs étaient tous en bois. Le pétrole s'est-il émancipé
+    du bois ? Ce seul exemple montre le contraire. L'histoire de l'énergie est moins
+    une histoire de transition que de symbiose avec les matières premières.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50514,7 +50517,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1240
   text: Quand est apparu le terme de géoingénierie ? - Marchetti - à rédiger
   hint: ''
@@ -50529,7 +50532,8 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: A quoi bon ralentir la croissance, ce qui a de nombreux inconvénients,
+    on a des solutions qui peuvent marcher. Hubris.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50548,7 +50552,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-03'
+  updated: '2024-06-22'
 - id: 1241
   text: 'La plus grosse centrale électrique thermique de Grande Bretagne, celle de
     Drax, fonctionne désormais à la biomasse. Pour l''alimenter, il a fallu brûler
@@ -50565,11 +50569,16 @@
   answer_choice_d: le double de la production forestière du pays
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: Cette centrale, qui fournit environ 1,5% des besoins énergétique
-    du pays, requiert plus de 8 millions de tonnes de granules de bois. C'est plus
-    que toute la production forestière du pays et quatre fois plus que ce que brûlait
-    l'Angleterre au milieu du 18ème siècle. Mais ces granules sont pour l'essentiel
-    importées des États-Unis et du Canada - dont une partie de forêts anciennes.
+  answer_explanation: "Cette centrale, qui fournit environ 1,5% des besoins énergétique\
+    \ du pays, requiert plus de 8 millions de tonnes de granules de bois. C'est plus\
+    \ que toute la production forestière du pays et quatre fois plus que ce que brûlait\
+    \ l'Angleterre au milieu du 18ème siècle. Mais ces granules sont pour l'essentiel\
+    \ importées des États-Unis et du Canada - dont une partie de forêts anciennes.\r\
+    \nDrax prétend produire une électricité sans carbone. C'est doublement faux :\
+    \ d'une part, elle contribue à la dégradation des forêts, de l'autre son fonctionnement\
+    \ dépend de bout en bout du pétrole, pour les machines forestières, les camions,\
+    \ les broyeurs etc. Elle témoigne de l'impasse d'une transition à rebours, d'une\
+    \ économie fossile prétendant redevenir organique, sans diminuer de taille."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50579,22 +50588,17 @@
     forêts rares, site de la BBC, février 2024'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
+  answer_book_recommendation: Sans Transition, p. 201
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/01dc0852.jpg
   answer_image_url_text: Centrale électrique de Drax
-  answer_extra_info: 'Qui plus est, il s''avère Une bonne chose pour le climat que
-    cette évolution du charbon au bois ? Selon le think tank Ember, cette centrale
-    émet plus de CO2 par KWh d''électricité produite qu''une centrale fonctionnant
-    au gaz ou au charbon. Comme le bois est moins dense en énergie que le charbon,
-    il faut en brûler plus pour obtenir une quantité d''énergie équivalente. Il faut
-    se rendre à l''évidence : il n''y a jamais eu de transition hors du bois.'
+  answer_extra_info: ''
   author: 2
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1242
   text: En 2016, la France a brûlé 6 millions de tonnes de charbon sur son territoire.
     Combien si l'on prend en compte le charbon caché derrière ses importations ?
@@ -50692,12 +50696,13 @@
   answer_choice_d: Du ministère de l'environnement du Nigéria
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: Le GIEC n'a été créé qu'en 1988. Le même rapport parle d'une
-    "dislocation économique". La même année, le rapport "Changing Climate" de l'Académie
-    des Sciences des États-Unis tire les mêmes conclusions. Plus que du doute, les
-    rapports publiés à cette période par les agences des pays riches expriment une
-    forme de résignation, couplée à une confiance sans faille dans leur capacité propre
-    d'adaptation par rapport aux autres pays.
+  answer_explanation: "Le même rapport parle d'une \"dislocation économique\". La\
+    \ même année, le rapport \"Changing Climate\" de l'Académie des Sciences des États-Unis\
+    \ tire les mêmes conclusions. On admet donc désormais que le changement climatique\
+    \ aura bien lieu. \r\nPlus que du doute, les rapports publiés à cette période\
+    \ par les agences des pays riches expriment une forme de résignation, couplée\
+    \ à une confiance sans faille dans leur capacité propre d'adaptation par rapport\
+    \ aux autres pays.\r\nA noter que le GIEC n'a été créé qu'en 1988."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50718,7 +50723,7 @@
   validator: null
   validation_date: null
   created: '2024-06-01'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1245
   text: 50 ans se sont écoulés depuis les premières alertes, et les émissions mondiales
     ont suivi les scénarios les plus pessimistes. Pour respecter l'accord de Paris
@@ -50747,10 +50752,7 @@
     \ d'âpres discussions.\r\n. Adaptation : Le groupe du travail n°2 du GIEC porte\
     \ en effet sur les impacts, les vulnérabilités et l'adaptation.\r\n. La transition\
     \ énergétique pour finir est devenue la grande affaire depuis les années 2000.\
-    \ Toutes les grandes entreprises se présentent comme engagées dans une transition.\
-    \ \r\nLa transition n'est pas la cause de la résignation climatique, elle n'en\
-    \ est que la justification. Elle a accompagné depuis plusieurs décennies la procrastination\
-    \ générale et continue à le faire."
+    \ Toutes les grandes entreprises se présentent comme engagées dans une transition."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50774,7 +50776,7 @@
   validator: null
   validation_date: null
   created: '2024-06-01'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1246
   text: Passons à l'histoire du terme de transition énergétique. A qui le doit-on
     ? (brouillon)
@@ -50784,13 +50786,13 @@
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Au premier parti écologiste brésilien, en 1965
-  answer_choice_b: A la Commission sur l'Energie Atomique des Etats-Unis, en 1953
-  answer_choice_c: Au rapport Meadows au Club de Rome, en 1972
-  answer_choice_d: A la compagnie pétrolière Exxon Mobil, en 1960
-  answer_correct: b
-  has_ordered_answers: false
-  answer_explanation: ''
+  answer_choice_a: A la Commission sur l'Energie Atomique des Etats-Unis, en 1953
+  answer_choice_b: Au premier parti écologiste brésilien, en 1965
+  answer_choice_c: A la compagnie pétrolière Exxon Mobil, en 1960
+  answer_choice_d: Au rapport Meadows au Club de Rome, en 1972
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Créé à cause d'une crise énergétique
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50809,7 +50811,7 @@
   validator: null
   validation_date: null
   created: '2024-06-02'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1247
   text: Vero o falso? Il clima è la stessa cosa del meteo.
   hint: ''
@@ -51170,3 +51172,38 @@
   validation_date: '2024-06-04'
   created: '2024-06-04'
   updated: '2024-06-04'
+- id: 1256
+  text: Passons à l'émergence du concept de transition énergétique. Dans quel contexte
+    est-il apparu ?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: Un contexte de crise énergétique, dans les années 73
+  answer_choice_b: La prise de conscience du changement climatique, en...
+  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis...
+  answer_choice_d: Un mouvement de promotion de l'énergie atomique
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: Sans Transition p. 230
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-06-22'
+  updated: '2024-06-22'
