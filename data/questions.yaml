@@ -50596,9 +50596,8 @@
   created: '2024-05-28'
   updated: '2024-06-21'
 - id: 1242
-  text: En 2016, la Grande-Bretagne a brûlé 9 millions de tonnes de charbon sur son
-    territoire. Combien si l'on prend en compte le charbon caché derrière ses importations
-    ?
+  text: En 2016, la France a brûlé 6 millions de tonnes de charbon sur son territoire.
+    Combien si l'on prend en compte le charbon caché derrière ses importations ?
   hint: Par exemple, le charbon brûlé pour faire fonctionner l'usine d'un produit
     importé
   type: QCM
@@ -50606,19 +50605,19 @@
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: 20 millions de tonnes
-  answer_choice_b: 50 millions de tonnes
-  answer_choice_c: 90 millions de tonnes
-  answer_choice_d: 150 millions de tonnes
+  answer_choice_a: 12 millions de tonnes
+  answer_choice_b: 30 millions de tonnes
+  answer_choice_c: 70 millions de tonnes
+  answer_choice_d: 100 millions de tonnes
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: C'est autant que la quantité brûlée sur le sol britannique avant
-    l'assaut de Margaret Thatcher contre l'industrie minière. Dans un monde globalisé,
-    la décarbonation d'une économie nationale est un phénomène délicat à mesurer.
-    Si l'on attribue les émissions aux pays producteurs et non aux consommateurs,
-    on peut avoir l'image d'une transition des pays riches d'Europe de hors du charbon.
-    La réalité est bien moins reluisante. La Suisse, le Luxembourg ou encore la Norvège
-    sont d'autres pays dont la dépendance au charbon importé est forte.
+  answer_explanation: Ces 70 millions de tonnes sont proches du maximum d'extraction
+    en France dans les années 1960. Dans un monde globalisé, la décarbonation d'une
+    économie nationale est un phénomène délicat à mesurer. Si l'on attribue les émissions
+    aux pays producteurs et non aux consommateurs, on peut avoir l'image d'une transition
+    des pays riches d'Europe hors du charbon. La réalité est bien moins reluisante.
+    La Suisse, le Luxembourg ou encore la Norvège sont d'autres pays dont la dépendance
+    au charbon importé est forte.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50631,7 +50630,7 @@
     Energy Reviews, Elsevier, vol. 81(P1), pages 978-993.'
   answer_book_recommendation: Sans Transition de Jean-Baptiste Fressoz, p. 18.
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40af1d3e.jpg
-  answer_image_url_text: Mineurs Anglais
+  answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -50639,7 +50638,7 @@
   validator: null
   validation_date: null
   created: '2024-05-30'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1243
   text: William Nordhaus a obtenu un prix nobel pour ses travaux sur l'optimum du
     réchauffement climatique pour l'activité humaine. A combien évalue-t-il ce réchauffement
