@@ -2941,10 +2941,11 @@
   conclusion: <p>Née avec l'âge atomique, envisagée par des pays riches comme une
     réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>
     écologique a été reprise, sans justification sérieuse, pour penser le défi écologique.
-    Grâce à elle, le mal devient le remède, les industries émettrices deviennent vertes
-    et l'innovation est notre bouée de sauvetage. Attention donc à ne pas faire reposer
-    nos visions du futur sur de la mauvaise histoire, une histoire qui occulterait
-    les réelles dynamiques de symbiose entre énergie et matières.</p>
+    Elle a avant tout justifié une forme de procrastination générale. Grâce à elle,
+    le mal devient le remède, les industries émettrices deviennent vertes et l'innovation
+    est notre bouée de sauvetage. Attention donc à ne pas faire reposer nos visions
+    du futur sur de la mauvaise histoire, une histoire qui occulterait les réelles
+    dynamiques de symbiose entre énergie et matières.</p>
   questions:
   - 1164
   - 1165
@@ -2957,7 +2958,8 @@
   - 1244
   - 1245
   - 1246
-  question_count: 11
+  - 1256
+  question_count: 12
   tags:
   - 11
   - 13
@@ -2975,7 +2977,7 @@
   - 253
   - 256
   - 257
-  difficulty_average: 1.5
+  difficulty_average: 1.6
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/328992cb.jpg
   has_audio: false
