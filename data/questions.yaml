@@ -2545,9 +2545,8 @@
   created: '2020-03-10'
   updated: '2022-12-12'
 - id: 61
-  text: On connaît la dernière grande extinction d'espèces, celle des dinosaures il
-    y a 66 millions d'année. A quelle vitesse les espèces disparaissent-elles par
-    rapport à la période pré-industrielle (avant 1850) ?
+  text: A quelle vitesse les espèces disparaissent-elles par rapport à la période
+    pré-industrielle (avant 1850) ?
   hint: ''
   type: QCM
   category: 4
@@ -2564,8 +2563,8 @@
   has_ordered_answers: true
   answer_explanation: En l'espace d'un siècle, l'impact de l'humanité sur la Terre
     risque d'être bien plus important que celui de l'astéroïde présumé être à l'origine
-    de la 5ème extinction. C'est pourquoi les scientifiques parlent d'ores et déjà
-    d'une 6ème extinction.
+    de la 5ème extinction, celle des dinosaures il y a 66 millions d'année. C'est
+    pourquoi les scientifiques parlent d'ores et déjà d'une 6ème extinction.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2584,7 +2583,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-06-12'
+  updated: '2024-06-22'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -17812,7 +17811,6 @@
   tags:
   - 1
   - 31
-  - 72
   difficulty: 2
   language: FRENCH
   answer_choice_a: '1'
@@ -17850,7 +17848,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-06-12'
+  updated: '2024-06-22'
 - id: 441
   text: "Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à\
     \ celles d’un Indien ?\r\n(émissions territoriales)"
@@ -47409,9 +47407,11 @@
     Angleterre en 1900 qu'en 1800.
   hint: ''
   type: VF
-  category: null
-  tags: []
-  difficulty: 1
+  category: 5
+  tags:
+  - 40
+  - 253
+  difficulty: 2
   language: FRENCH
   answer_choice_a: Vrai
   answer_choice_b: Faux
@@ -47444,18 +47444,23 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 83
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-21'
+  updated: '2024-06-22'
 - id: 1165
   text: Parmi ces sources d'énergie, lequelles produisent globalement le plus d'énergie
     finale sur terre ?
   hint: ''
   type: QCM
   category: 5
-  tags: []
+  tags:
+  - 29
+  - 45
+  - 46
+  - 95
+  - 253
   difficulty: 1
   language: FRENCH
   answer_choice_a: Le bois
@@ -47490,8 +47495,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 83
   validation_date: null
   created: '2024-05-24'
   updated: '2024-06-22'
@@ -47500,8 +47505,11 @@
     pétrolière excède la production totale d'acier du pays en 1900
   hint: ''
   type: VF
-  category: null
-  tags: []
+  category: 5
+  tags:
+  - 11
+  - 86
+  - 267
   difficulty: 1
   language: FRENCH
   answer_choice_a: Vrai
@@ -47539,21 +47547,22 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 83
   validation_date: null
   created: '2024-05-24'
   updated: '2024-06-22'
 - id: 1167
-  text: 'En 1978, un climatologue renommé prédit : « Le changement climatique aura
-    des conséquences sensibles en 2000 (+1°C), sérieuses pour l''économie en 2038
-    (+2°C) et catastrophiques au niveau global en 2078 (+5°C)». Il nuance : «Une réorientation
-    globale du système énergétique, c''est à dire une transition douce vers une autre
-    source d''énergie prendrait...»'
+  text: 'En 1978, un scientifique prédit : « Le changement climatique aura des conséquences
+    sensibles en 2000 (+1°C), sérieuses pour l''économie en 2038 (+2°C) et catastrophiques
+    au niveau global en 2078 (+5°C)». Il nuance : «Une réorientation globale du système
+    énergétique, c''est à dire une transition douce vers une autre source d''énergie
+    prendrait...»'
   hint: ''
   type: QCM
   category: 5
-  tags: []
+  tags:
+  - 225
   difficulty: 2
   language: FRENCH
   answer_choice_a: 30 ans
@@ -47563,15 +47572,14 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: 'Ce qui est intéressant, c''est que cette dernière affirmation
-    de J.A. Laurmann n''est pas une formule isolée d''un chercheur qui s''aventure
-    hors de son champ d''expertise, elle est tout à fait dans l''air du temps. En
-    1985, la conférence de Villach qui préfigure la création du GIEC reprend ainsi
-    cet argument dilatoire : le voyant climatique est encore au vert, et même au stade
-    jaune, les experts estiment qu''il y aurait encore du temps pour stimuler une
-    transition douce. Aucune preuve n''était pourtant donnée l''appui de ces affirmations,
-    alors que ni l''histoire ni la prospective ne portaient à le croire. A cette époque,
-    paradoxalement, c''étaient les mêmes personnes qui lançaient des messages d''alerte
-    et qui rassuraient sur notre capacité à faire face.'
+    du climatologue J.A. Laurmann n''est pas une formule isolée d''un chercheur qui
+    s''aventure hors de son champ d''expertise, elle est tout à fait dans l''air du
+    temps. En 1985, la conférence de Villach qui préfigure la création du GIEC reprend
+    ainsi cet argument dilatoire : le voyant climatique est encore au vert, et même
+    au stade jaune, les experts estiment qu''il y aurait encore du temps pour stimuler
+    une transition douce. L''alerte était assortie d''un message rassurant. Aucune
+    preuve n''était pourtant donnée l''appui de ces affirmations, alors que ni l''histoire
+    ni la prospective ne portaient à le croire.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47596,8 +47604,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 83
   validation_date: null
   created: '2024-05-28'
   updated: '2024-06-22'
@@ -50474,8 +50482,10 @@
     ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 5
+  tags:
+  - 40
+  - 86
   difficulty: 1
   language: FRENCH
   answer_choice_a: A produire des huiles essentielles pour diversifier son activité
@@ -50513,8 +50523,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 83
   validation_date: null
   created: '2024-05-28'
   updated: '2024-06-22'
@@ -50606,7 +50616,10 @@
     importé
   type: QCM
   category: 5
-  tags: []
+  tags:
+  - 1
+  - 40
+  - 72
   difficulty: 1
   language: FRENCH
   answer_choice_a: 12 millions de tonnes
@@ -50638,8 +50651,8 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 83
   validation_date: null
   created: '2024-05-30'
   updated: '2024-06-22'
@@ -50698,11 +50711,11 @@
   has_ordered_answers: false
   answer_explanation: "Le même rapport parle d'une \"dislocation économique\". La\
     \ même année, le rapport \"Changing Climate\" de l'Académie des Sciences des États-Unis\
-    \ tire les mêmes conclusions. On admet donc désormais que le changement climatique\
-    \ aura bien lieu. \r\nPlus que du doute, les rapports publiés à cette période\
-    \ par les agences des pays riches expriment une forme de résignation, couplée\
-    \ à une confiance sans faille dans leur capacité propre d'adaptation par rapport\
-    \ aux autres pays.\r\nA noter que le GIEC n'a été créé qu'en 1988."
+    \ tire les mêmes conclusions. Il est désormais admis dans ces sphères que le changement\
+    \ climatique aura bien lieu, et les rapports passent du doute à une forme de résignation,\
+    \ couplée à une confiance sans faille dans leur capacité propre d'adaptation,\
+    \ dans une forme de chacun pour soi.\r\nA noter que le GIEC n'a été créé qu'en\
+    \ 1988."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50719,7 +50732,7 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2024-06-01'
@@ -50731,7 +50744,9 @@
   hint: ''
   type: QCM-RM
   category: null
-  tags: []
+  tags:
+  - 14
+  - 79
   difficulty: 1
   language: FRENCH
   answer_choice_a: Des émissions dites négatives (absorption massive de CO2)
@@ -50772,7 +50787,7 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2024-06-01'
