@@ -50788,10 +50788,10 @@
   author: 2
   visibility: PUBLIC
   validation_status: TO_VALIDATE
-  validator: null
+  validator: 83
   validation_date: null
   created: '2024-06-01'
-  updated: '2024-06-22'
+  updated: '2024-06-24'
 - id: 1246
   text: Passons à l'histoire du terme de transition énergétique. A qui le doit-on
     ? (brouillon)
