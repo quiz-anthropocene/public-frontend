@@ -47419,8 +47419,8 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Au début du XIXè siècle, 3,6 millions de m3 de bois était brûlé\
-    \ pour se chauffer. Un siècle plus tard, les mines britanniques engloutissent\
+  answer_explanation: "Au début du XIXè siècle, 3,6 millions de m3 de bois étaient\
+    \ brûlés pour se chauffer. Un siècle plus tard, les mines britanniques engloutissent\
     \ à elles seules chaque année entre 3 et 4,5 millions de m3 de bois pour étayer\
     \ leurs galeries.\r\nL'idée reçue selon laquelle le bois ne joue plus aucun rôle\
     \ dans le mix énergétique anglais à partir du milieu du XIXè siècle est une illusion.\
@@ -47448,7 +47448,7 @@
   validator: 83
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-22'
+  updated: '2024-06-25'
 - id: 1165
   text: Parmi ces sources d'énergie, lequelles produisent globalement le plus d'énergie
     finale sur terre ?
