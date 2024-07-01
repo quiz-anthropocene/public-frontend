@@ -47465,7 +47465,7 @@
   language: FRENCH
   answer_choice_a: Le bois
   answer_choice_b: L'hydroélectricité
-  answer_choice_c: Le Solaire et l'éolien réunis
+  answer_choice_c: Le solaire et l'éolien réunis
   answer_choice_d: Le nucléaire
   answer_correct: a
   has_ordered_answers: true
@@ -47495,11 +47495,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 83
+  validation_status: DRAFT
+  validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 1166
   text: Vrai ou faux ? Aux Etats-Unis, la production de tubes d'acier pour l'industrie
     pétrolière excède la production totale d'acier du pays en 1900
@@ -47520,8 +47520,8 @@
   has_ordered_answers: true
   answer_explanation: "Cuves, pipelines, tubes de forage, tankers... A l'instar du\
     \ bois d'étais pour les mines, on observe une forte accélération de la consommation\
-    \ d'acier pour l'industrie pétrolière au début du XXè siècle. Les Etats-Unis seuls\
-    \ consommaient environ 2 millions de tonnes de tubes pétroliers en 1950 et 7 millions\
+    \ d'acier pour l'industrie pétrolière au début du XXè siècle. Les Etats-Unis consommaient\
+    \ à eux seuls environ 2 millions de tonnes de tubes pétroliers en 1950 et 7 millions\
     \ dans les années 2010. A cette date, l'extraction de pétrole et de gaz consommait\
     \ autant d'acier que toute l'économie américaine à la fin du XIXè siècle. Avec\
     \ en sus des besoins de maintenance importants dus à la corrosion du sel et des\
@@ -47551,7 +47551,7 @@
   validator: 83
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 1167
   text: 'En 1978, un scientifique prédit : « Le changement climatique aura des conséquences
     sensibles en 2000 (+1°C), sérieuses pour l''économie en 2038 (+2°C) et catastrophiques
@@ -47577,9 +47577,9 @@
     temps. En 1985, la conférence de Villach qui préfigure la création du GIEC reprend
     ainsi cet argument dilatoire : le voyant climatique est encore au vert, et même
     au stade jaune, les experts estiment qu''il y aurait encore du temps pour stimuler
-    une transition douce. L''alerte était assortie d''un message rassurant. Aucune
-    preuve n''était pourtant donnée l''appui de ces affirmations, alors que ni l''histoire
-    ni la prospective ne portaient à le croire.'
+    une transition douce. Les alertes étaient ainsi assorties d''un message rassurant.
+    Aucune preuve n''était pourtant donnée à l''appui de ces affirmations, alors que
+    ni l''histoire ni la prospective ne portaient à le croire.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47608,7 +47608,7 @@
   validator: 83
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 1168
   text: Nel 2018, la concentrazione di CO2 nell'atmosfera ha superato le 410 ppm (parti
     per milione). Quando è stata l'ultima volta che è successo?
@@ -50488,22 +50488,23 @@
   - 86
   difficulty: 1
   language: FRENCH
-  answer_choice_a: A produire des huiles essentielles pour diversifier son activité
-  answer_choice_b: A compenser les émissions de CO2 de l'entreprise
-  answer_choice_c: A offrir un sanctuaire pour la biodiversité amazonienne
-  answer_choice_d: A produire du charbon de bois
+  answer_choice_a: Produire des huiles essentielles pour diversifier son activité
+  answer_choice_b: Compenser les émissions de CO2 de l'entreprise
+  answer_choice_c: Offrir un sanctuaire pour la biodiversité amazonienne
+  answer_choice_d: Produire du charbon de bois pour faire de l'acier
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Il s'agit d'une exploitation forestière de 230 000 hectares.
-    Elle est destinée à fournir en charbon de bois les installations sidérurgiques
-    locales de l'entreprise, pour une consommation annuelle de plus d'un million de
-    m3. C'est à peu près autant que toute la sidérurgie américaine à son pic, ou encore
-    quatre fois toute la sidérurgie française à son pic des années 1860. La masse
-    annuelle de bois qui y est récoltée, 3 millions de m3, dépasse sans doute la consommation
-    de l'industrie pétrolière mondiale à la fin du XIXè siècle quand les derricks,
-    les tonneaux et les réservoirs étaient tous en bois. Le pétrole s'est-il émancipé
-    du bois ? Ce seul exemple montre le contraire. L'histoire de l'énergie est moins
-    une histoire de transition que de symbiose avec les matières premières.
+  answer_explanation: "Il s'agit d'une exploitation forestière de 230 000 hectares.\
+    \ Elle est destinée à fournir en charbon de bois les installations sidérurgiques\
+    \ locales de l'entreprise, pour une consommation annuelle de plus d'un million\
+    \ de m3. C'est à peu près autant que toute la sidérurgie américaine à son pic,\
+    \ ou encore quatre fois toute la sidérurgie française à son pic des années 1860.\
+    \ La masse annuelle de bois qui y est récoltée, 3 millions de m3, dépasse sans\
+    \ doute la consommation de l'industrie pétrolière mondiale à la fin du XIXè siècle\
+    \ quand les derricks, les tonneaux et les réservoirs étaient tous en bois.\r\n\
+    Le pétrole s'est-il émancipé du bois ? Ce seul exemple montre le contraire. L'histoire\
+    \ de l'énergie est moins une histoire de transition que de symbiose avec les matières\
+    \ premières."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50527,7 +50528,7 @@
   validator: 83
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 1240
   text: Quand est apparu le terme de géoingénierie ? - Marchetti - à rédiger
   hint: ''
@@ -50604,11 +50605,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 83
+  validation_date: '2024-06-30'
   created: '2024-05-28'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 1242
   text: En 2016, la France a brûlé 6 millions de tonnes de charbon sur son territoire.
     Combien si l'on prend en compte le charbon caché derrière ses importations ?
@@ -50732,18 +50733,18 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 83
+  validation_date: '2024-06-30'
   created: '2024-06-01'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 1245
   text: 50 ans se sont écoulés depuis les premières alertes, et les émissions mondiales
-    ont suivi les scénarios les plus pessimistes. Pour respecter l'accord de Paris
-    sur le climat, quelles sont les options désormais exposées par le GIEC ?
+    de CO2 ont suivi les scénarios les plus pessimistes. Pour respecter l'accord de
+    Paris sur le climat, quelles sont les options désormais exposées par le GIEC ?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 1
   tags:
   - 14
   - 79
@@ -50762,12 +50763,12 @@
     \ de plantation forestière supérieure à deux fois celle de l'Inde.\r\n. La décroissance\
     \ est encore un mot tabou, il est absent du rapport du groupe 3 du GIEC portant\
     \ sur les pistes d'actions d'atténuation. Même à titre d'hypothèse, aucun scénario\
-    \ n'envisage ainsi une quelconque diminution de la croissance économique. Les\
-    \ premières occurrences du mot 'sobriété' remontent au rapport de 2022, après\
-    \ d'âpres discussions.\r\n. Adaptation : Le groupe du travail n°2 du GIEC porte\
-    \ en effet sur les impacts, les vulnérabilités et l'adaptation.\r\n. La transition\
-    \ énergétique pour finir est devenue la grande affaire depuis les années 2000.\
-    \ Toutes les grandes entreprises se présentent comme engagées dans une transition."
+    \ n'envisage ainsi une quelconque diminution de la croissance économique. La première\
+    \ utilisation du mot 'sobriété' remonte au rapport de 2022, après d'âpres discussions.\r\
+    \n. Adaptation : Un autre rapport du GIEC porte en effet sur les impacts, les\
+    \ vulnérabilités et l'adaptation.\r\n. La transition énergétique pour finir est\
+    \ devenue la grande affaire depuis les années 2000. Toutes les grandes entreprises\
+    \ se présentent comme engagées dans une transition."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50787,11 +50788,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: VALIDATED
   validator: 83
-  validation_date: null
+  validation_date: '2024-06-30'
   created: '2024-06-01'
-  updated: '2024-06-24'
+  updated: '2024-06-30'
 - id: 1246
   text: Passons à l'histoire du terme de transition énergétique. A qui le doit-on
     ? (brouillon)
@@ -51197,8 +51198,8 @@
   difficulty: 3
   language: FRENCH
   answer_choice_a: Un contexte de crise énergétique, dans les années 73
-  answer_choice_b: La prise de conscience du changement climatique, en...
-  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis...
+  answer_choice_b: La prise de conscience du changement climatique, en
+  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis
   answer_choice_d: Un mouvement de promotion de l'énergie atomique
   answer_correct: d
   has_ordered_answers: true
@@ -51221,4 +51222,4 @@
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
