@@ -2927,16 +2927,16 @@
   slug: sans-transition
   introduction: "<p><a href=\"https://fr.wikipedia.org/wiki/Jean-Baptiste_Fressoz\"\
     >Jean-Baptiste Fressoz</a> est historien des sciences, des techniques et de l'environnement.\
-    \ Il a publié en 2023 l'ouvrage <a href=\"https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557\"\
-    >Sans Transition, une nouvelle histoire de l'énergie</a>. Le livre revisite dans\
-    \ un premier temps la façon dont matières et énergies sont intrinsèquement liées.\
-    \ Comment elle croissent ensemble en s'empilant, en une forme de symbiose. Il\
-    \ examine ensuite comment la notion de <em>transition énergétique </em>est apparue\
-    \ et s'est imposée. L'enjeu est fondamental car les liens entre énergies expliquent\
-    \ à la fois leur permance sur le très long terme et les obstacles titanesques\
-    \ qui se dressent sur le chemin de la décarbonation.<br />\r\nLe livre fourmille\
-    \ de chiffres et de faits qui vont à rebours des idées reçues. Avec l'aide de\
-    \ l'auteur, nous en avons sélectionné quelques uns. A vous d'exercer votre sagacité.<br\
+    \ Il a publié en 2023 <a href=\"https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557\"\
+    >Sans Transition, une nouvelle histoire de l'énergie</a>. Dans cet ouvrage, il\
+    \ revisite dans un premier temps la façon dont matières et énergies sont intrinsèquement\
+    \ liées, comment elle croissent ensemble en s'empilant, en une forme de symbiose.\
+    \ Il examine ensuite comment le terme de <em>transition énergétique </em>est apparu\
+    \ et s'est imposé. L'enjeu est fondamental car les liens entre énergies expliquent\
+    \ à la fois leur permanence sur le temps long et les obstacles titanesques qui\
+    \ se dressent sur le chemin de la décarbonation.<br />\r\nLe livre fourmille de\
+    \ chiffres et de faits qui vont à rebours des idées reçues. Avec l'aide de l'auteur,\
+    \ nous en avons sélectionné quelques uns. A vous d'exercer votre sagacité.<br\
     \ />\r\n<br />\r\nUn quiz élaboré avec l'aimable collaboration de Laurent Gaillard.</p>"
   conclusion: <p>Née avec l'âge atomique, envisagée par des pays riches comme une
     réponse lointaine à l'épuisement des énergies fossiles, la <em>transition</em>
@@ -2977,7 +2977,7 @@
   - 253
   - 256
   - 257
-  difficulty_average: 1.6
+  difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/328992cb.jpg
   has_audio: false
@@ -2991,7 +2991,7 @@
   publish_date: null
   spotlight: false
   created: '2024-05-24'
-  updated: '2024-06-22'
+  updated: '2024-06-30'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
