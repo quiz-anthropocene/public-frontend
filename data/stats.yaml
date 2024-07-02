@@ -1,10 +1,10 @@
-question_count: 1228
+question_count: 1238
 question_published_count: 652
 question_per_language_count:
 - language: FRENCH
   total: 1100
 - language: ITALIAN
-  total: 83
+  total: 93
 - language: ENGLISH
   total: 36
 - language: GERMAN
@@ -20,10 +20,10 @@ quiz_per_language_count:
   total: 5
 - language: GERMAN
   total: 1
-question_answer_count: 658733
-quiz_answer_count: 50793
-question_answer_count_last_30_days: 16685
-quiz_answer_count_last_30_days: 1079
+question_answer_count: 658902
+quiz_answer_count: 50801
+question_answer_count_last_30_days: 16854
+quiz_answer_count_last_30_days: 1087
 category_count: 8
 tag_count: 242
 question_feedback_count: 8085
