@@ -51223,3 +51223,409 @@
   validation_date: null
   created: '2024-06-22'
   updated: '2024-06-30'
+- id: 1257
+  text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
+    da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
+    al servizio di ogni italiano servirebbero per continuare a vivere come oggi?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: '20'
+  answer_choice_b: '100'
+  answer_choice_c: '400'
+  answer_choice_d: '1000'
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Un umano consuma circa 5 kWh al giorno solamente per nutrirsi.
+    Di questi, può produrre una potenza meccanica da 0,05 a 0,5 kWh a seconda che
+    utilizzi le sue braccia o le sue gambe. Jean-Marc Jancovici, per spiegare queste
+    cifre, parla di "schiavi energetici" di cui avremmo bisogno per perpetuare il
+    livello di vita di cui godiamo attualmente, in assenza di macchinari.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.grey-panthers.it/green/conoscere-lenergia/schiavi-energetici/
+  answer_source_accessible_url_text: 'Il contributo che l’energia dà alla nostra vita:
+    fino a quando avremo schiavi energetici al nostro servizio?'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ec712ff0.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1258
+  text: A Porto Rico, come è cambiata la popolazione di insetti negli ultimi 35 anni
+    ?
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: -10%
+  answer_choice_b: -30%
+  answer_choice_c: -50%
+  answer_choice_d: -80%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: 'In 35 anni, nella foresta tropicale di Luquillo a Porto Rico,
+    80% degli insetti della canopia forestale (ovvero quelli che vivono sulla chioma
+    degli alberi) si sono estiniti. Questa cifra sale a 98% per gli insetti che vivono
+    nel suolo. Secondo l''autore di questo studio, questo fenomeno è causato dal riscaldamento
+    climatico: tra il 1970 e oggi, la temperatura media della foresta pluviale è aumentata
+    di 2,2 gradi.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://fr.boell.org/it/2023/03/09/il-declino-degli-insetti-lapocalisse-ecologica
+  answer_source_accessible_url_text: Il declino degli insetti, l'apocalisse ecologica
+  answer_source_scientific_url: https://www.pnas.org/content/115/44/E10397
+  answer_source_scientific_url_text: Climate-driven declines in arthropod abundance
+    restructure a rainforest food web
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ae585995.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1259
+  text: Alcuni scienziati hanno monitorato l'andamento delle popolazioni di 30000
+    specie di vertebrati selvaggi lungo un arco di tempo di 40 anni, tra il 1970 ed
+    il 1910. Cosa hanno osservato ?
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Un forte aumento per un terzo di queste specie e una notevole diminuzione
+    per le altre.
+  answer_choice_b: Una relativa stabilità
+  answer_choice_c: Una dimunizione del 24%
+  answer_choice_d: Una dimunizione del 69%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le cause di questa diminuzione sono conosciute. Innanzitutto,
+    vi sono la perdita e la degradazione dell'habitat a causa della'agricoltura, dello
+    sfruttamento delle foreste, dell'urbanizazzione et dell'estrazione mineraria.
+    Inoltre, il sovrasfruttamento delle specie (caccia, pesca, bracconaggio), i cambiamenti
+    climatici, l'inquinamento e le specie invasive contribuiscono a questo fenomeno.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.isprambiente.gov.it/it/attivita/biodiversita/le-domande-piu-frequenti-sulla-biodiversita
+  answer_source_accessible_url_text: Le domande più frequenti sulla biodiversità
+  answer_source_scientific_url: https://www.ipbes.net/news/Media-Release-Global-Assessment
+  answer_source_scientific_url_text: Nature’s Dangerous Decline ‘Unprecedented’; Species
+    Extinction Rates ‘Accelerating’
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/be7e090b.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1260
+  text: Tra il 2011 ed il 2013, la Cina ha consumato tanto cemento quanto gli Stati
+    Uniti in...
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 10 anni
+  answer_choice_b: 50 anni
+  answer_choice_c: 100 anni
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 20 milioni di cinesi lasciano la campagna ogni anno per andare
+    ad abitare in grandi condomini recenti. Pochi di questi sono in legno e la maggior
+    parte sono in cemento e calcestruzzo, nonostante quest'industria sia uno dei più
+    grandi emettitori di gas serra.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.researchgate.net/publication/320827253_L'urbanizzazione_in_Cina_traguardi_e_nuove_sfide
+  answer_source_accessible_url_text: L'urbanizzazione in Cina
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e2991dd1.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1261
+  text: A livello globale, quanti barili di petrolio sono stati consumati al giorno
+    nel 2020?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 100.000 barili, ovvero l’energia che 1 miliardo di esseri umani
+    produrrebbero  in un giorno di lavoro manuale
+  answer_choice_b: 1 milione di barili , ovvero 10 miliardi di esseri umani usando
+    lo stesso esempio
+  answer_choice_c: 10 milioni di barili, ovvero 100 milliardi di esseri umani
+  answer_choice_d: 100 milioni di barili, ovvero 1000 milliardi di esseri umani
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Il petrolio viene consumato, più che mai, in grandissime quantità.
+    Ne è prova il superamento della soglia dei 100 milioni di barili al giorno alla
+    fine del 2018. Questo equivale a 16 miliardi di litri, ovvero 6.400 piscine olimpioniche.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.iea.org/reports/world-energy-outlook-2019/oil
+  answer_source_accessible_url_text: World energy outlook 2019 (IEA)
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/90de63d5.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1262
+  text: Se la pesca continua al ritmo attuale, gli scienziati stimano che non vi saranno
+    più pesci da catturare in mare..
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Nel 2030
+  answer_choice_b: Nel 2050
+  answer_choice_c: Nel 2100
+  answer_choice_d: Mai, ne resteranno sempre a sufficienza per potersi nutrire.
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: 'Questo è quanto emerge da uno studio canadese del 2006. Il
+    declino della biodiversità sta accelerando e nel 2048 non ci saranno quasi più
+    specie di pesci o di frutti di mare da consumare. Attualmente, 29% delle popolazioni
+    di queste specie sono crollate vertiginosamente : per questo motivo le loro catture
+    sono diminuite del 90%.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.regionieambiente.it/2050-pesci-spariranno/
+  answer_source_accessible_url_text: 'Allarme delle Nazioni Unite : nel 2050 i pesci
+    spariranno'
+  answer_source_scientific_url: https://www.vegolosi.it/news/oceani-vuoti-nel-2048-la-strage-silenziosa-dei-pesci/
+  answer_source_scientific_url_text: 'Oceani vuoti nel 2048 : la strage silenziosa
+    dei pesci'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/29333983.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1263
+  text: Quale sarà l’impatto di un aumento di 2°C della temperatura dell’aria (rispetto
+    all’era preindustriale) sulle barriere coralline?
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Nessun impatto osservabile
+  answer_choice_b: Una riduzione del 30%
+  answer_choice_c: Una riduzione del 60%
+  answer_choice_d: Una riduzione del 99%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le barriere coralline ospitano circa 1 milione di specie animali
+    e forniscono servizi a 500 milioni di persone (cibo, opere di protezione delle
+    coste, ecc.). Ad una temperatura di +1,5°C (che verrà raggiunta intorno al 2040)
+    quasi il 90% dei coralli subirà danni. A +2°C scompariranno quasi tutti i coralli
+    del pianeta.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: https://www.youtube.com/watch?v=J_TRf_hJhuo
+  answer_video_url_text: Australia's Great Barrier Reef disappearing due to climate
+    change
+  answer_source_accessible_url: https://www.nationalgeographic.it/come-il-riscaldamento-oceanico-influisce-sui-coralli
+  answer_source_accessible_url_text: Come il riscaldamento oceanico influisce sui
+    coralli
+  answer_source_scientific_url: http://whc.unesco.org/en/news/1676/
+  answer_source_scientific_url_text: 'Assessment: World Heritage coral reefs likely
+    to disappear by 2100 unless CO2 emissions drastically reduce'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/687e639d.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1264
+  text: Quanti metalli pesanti, solventi, fanghi tossici e altri rifiuti industriali
+    vengono scaricati ogni giorno nelle acque del mondo?
+  hint: ''
+  type: QCM
+  category: 3
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 1000 tonnellate, ovvero 4 aerei A380
+  answer_choice_b: 100000 tonnellate, ovvero 10 volte la Tour Eiffel
+  answer_choice_c: 1 milioni di tonnellate, ovvero 3 volte l'Empire State Building
+  answer_choice_d: 100 milioni di tonnellate, ovvero 20 volte la Grande Piramide di
+    Gizeh
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'Ogni anno, da 300 a 400 milioni di tonnellate di metalli pesanti,
+    solventi, fanghi tossici e altri rifiuti provenienti da siti industriali vengono
+    scaricati nelle acque mondiali, ovvero un milione di tonnellate al giorno. I fertilizzanti
+    che fluiscono negli ecosistemi costieri hanno prodotto più di 400 “zone morte”
+    negli oceani, che rappresentano circa 245.000 km2, un’area totale più grande del
+    Regno Unito. Fonte: rapporto IPBES 2019.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.fondazionemichelagnoli.it/news/la-perdita-di-biodiversita-una-perdita-senza-precedenti
+  answer_source_accessible_url_text: La perdita di biodiversità. Una perdita senza
+    precedenti
+  answer_source_scientific_url: https://www.ipbes.net/news/Media-Release-Global-Assessment
+  answer_source_scientific_url_text: 'Media Release: Nature’s Dangerous Decline ‘Unprecedented’;
+    Species Extinction Rates ‘Accelerating’'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c73a1693.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1265
+  text: Alla fine dell'estate, a settembre, la superficie della banchisa artica raggiunge
+    il suo valore minimo. Come ha evoluto questo valore nel corso degli ultimi 40
+    anni ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: è rimasto stabile
+  answer_choice_b: è diminuito del 10%
+  answer_choice_c: è diminuito del 50%
+  answer_choice_d: è diminuito del 90%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La causa di questo eccezionale scioglimento avvenuto nel corso
+    degli anni è ben nota. L’aumento delle temperature globali da diversi decenni
+    ha continuato ad accelerare ed è particolarmente marcato nel settore artico.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ilmeteo.net/notizie/scienza/livelli-record-negativi-anche-per-la-banchisa-polare-confermati-anno-scorso.html#:~:text=Localizzazione%20automatica-,La%20banchisa%20polare%20si%20riduce%20sempre%20di%20pi%C3%B9%3A%20livelli%20negativi,banchisa%20sia%20artica%20sia%20antartica.
+  answer_source_accessible_url_text: 'La banchisa polare si riduce sempre di più:
+    livelli negativi da record nel 2023'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
+- id: 1266
+  text: Gli sfollati climatici sono persone costrette a trasferirsi per ragioni ambientali.
+    Il loro numero è stato stimato a 25 milioni di persone nel 2016. Quale numero
+    stima l’IPCC entro il 2050?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 20 milioni
+  answer_choice_b: 50 milioni
+  answer_choice_c: 100 milioni
+  answer_choice_d: 220 milioni
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Nel 2010 gli sfollati per motivi di guerra erano tanti quanti
+    gli sfollati per motivi ambientali (22 milioni). Altri rapporti parlano addirittura
+    di un miliardo di sfollati climatici entro il 2050.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.wired.it/attualita/ambiente/2021/09/28/clima-migranti-cop26/
+  answer_source_accessible_url_text: Entro il 2050 216 milioni di persone dovranno
+    migrare a causa della crisi climatica
+  answer_source_scientific_url: https://altreconomia.it/la-crisi-climatica-causera-oltre-un-miliardo-di-sfollati-entro-il-2050/
+  answer_source_scientific_url_text: La crisi climatica causerà oltre un miliardo
+    di sfollati entro il 2050
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/72d9612c.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2024-07-02'
+  updated: '2024-07-02'
