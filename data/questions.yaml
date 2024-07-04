@@ -51203,7 +51203,13 @@
   answer_choice_d: Un mouvement de promotion de l'énergie atomique
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: 'Qui: Harrison Brown, chimiste. Quand? 1967. Pourquoi (contexte):
+    les fossiles viendraient un jour à manquer, l''atome (surgénération), permet l''accès
+    à une énergie infinie. Autre ''Larron'': Marion King Hubert, géologue chez Shell
+    et théoricien du pic du pétrole. '' considérés à l''échelle de l''histoire humaine,
+    charbon et pétrole ne paraîtront ''qu''un évènement éphémère''. A l''inverse,
+    l''uranium ouvre un futur énergétique sans fin à l''humanité But: obtenir de l''état
+    des financements pour le surgénérateur nucléaire.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51222,7 +51228,7 @@
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-06-30'
+  updated: '2024-07-03'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
