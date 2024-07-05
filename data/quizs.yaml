@@ -3392,3 +3392,41 @@
   spotlight: false
   created: '2024-06-12'
   updated: '2024-06-13'
+- id: 117
+  name: Introduzione all'antropocene - parte 1
+  slug: introduzione-allantropocene-parte-1
+  introduction: <p>L'Antropocene è un termine proposto dagli scienziati per designare
+    una nuova era geologica, in cui l'uomo è diventato una delle principali forze
+    geologiche sulla Terra. Il periodo più recente dell'antropocene viene talvolta
+    descritto come quello della grande accelerazione, poichè è il momento in cui molti
+    indicatori mostrano curve di tipo esponenziale. Questo quiz offre una prima panoramica
+    sull'impatto inaudito dell'uomo sul pianeta Terra.</p>
+  conclusion: <p>Siete pronti per continuare con la seconda parte del quiz? </p>
+  questions:
+  - 1257
+  - 1258
+  - 1259
+  - 1260
+  - 1261
+  - 1262
+  - 1263
+  - 1264
+  - 1265
+  - 1266
+  question_count: 10
+  tags: []
+  difficulty_average: 2.2
+  language: ITALIAN
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/be2cf715.jpg
+  has_audio: false
+  authors:
+  - 79
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2024-07-04'
+  updated: '2024-07-04'
