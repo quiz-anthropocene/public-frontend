@@ -51197,19 +51197,32 @@
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Un contexte de crise énergétique, dans les années 73
-  answer_choice_b: La prise de conscience du changement climatique, en
-  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis
-  answer_choice_d: Un mouvement de promotion de l'énergie atomique
+  answer_choice_a: La crainte d'un épuisement des énergies fossiles?
+  answer_choice_b: La prise de conscience du changement climatique?
+  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis?
+  answer_choice_d: Un mouvement de promotion de l'énergie atomique?
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Qui: Harrison Brown, chimiste. Quand? 1967. Pourquoi (contexte):
+  answer_explanation: 'Qui: (si l''idée d''une transition nucléaire apparaît très
+    tôt, l''expression plus précise de ''transition énergétique'' est quant à elle
+    plus tardive p233) Harrison Brown, chimiste. Quand? 1967. Pourquoi (contexte):
     les fossiles viendraient un jour à manquer, l''atome (surgénération), permet l''accès
-    à une énergie infinie. Autre ''Larron'': Marion King Hubert, géologue chez Shell
-    et théoricien du pic du pétrole. '' considérés à l''échelle de l''histoire humaine,
-    charbon et pétrole ne paraîtront ''qu''un évènement éphémère''. A l''inverse,
-    l''uranium ouvre un futur énergétique sans fin à l''humanité But: obtenir de l''état
-    des financements pour le surgénérateur nucléaire.'
+    à une énergie infinie. La question du nucléaire n''est pas économique, elle est
+    existentielle. Son but n''est pas d''être compétitif face au charbon quand il
+    est encore abondant, mais d''assurer sa relève quand il deviendra rare (p 228)
+    Autre ''Larron'': Marion King Hubert, géologue chez Shell et théoricien du pic
+    du pétrole. '' considérés à l''échelle de l''histoire humaine, charbon et pétrole
+    ne paraîtront ''qu''un évènement éphémère''. A l''inverse, l''uranium ouvre un
+    futur énergétique sans fin à l''humanité But: obtenir de l''état des financements
+    pour le surgénérateur nucléaire. Brown reprenait un terme de physique nucléaire-son
+    premier domaine d''expertise-, l''érigeait en analogue de la ''transition démographique''
+    et en faisait la clé du futur de l''humanité (p 236) Le surgénérateur représente
+    l''échappatoire essentielle du piège malthusien. L''abondance énergétique permettrait
+    de désaliniser l''eau des océans, de fabriquer des engrais azotés et de transformer
+    ainsi de vastes étendues arides en terres agricoles; elle permettrait aussi d''extraire
+    des minerais, de les raffiner, de recycler les métaux à l''infini et de protéger
+    l''environnement. p 236 Inspiration du terme TE calquée sur article célèbre (1945)
+    de Kingsley Davis sur la ''transition démographique'''
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51228,7 +51241,7 @@
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-07-03'
+  updated: '2024-07-06'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
