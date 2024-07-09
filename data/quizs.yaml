@@ -3395,7 +3395,7 @@
 - id: 117
   name: Introduzione all'antropocene - parte 1
   slug: introduzione-allantropocene-parte-1
-  introduction: <p>L'Antropocene è un termine proposto dagli scienziati per designare
+  introduction: <p>L'antropocene è un termine proposto dagli scienziati per designare
     una nuova era geologica, in cui l'uomo è diventato una delle principali forze
     geologiche sulla Terra. Il periodo più recente dell'antropocene viene talvolta
     descritto come quello della grande accelerazione, poichè è il momento in cui molti
@@ -3422,11 +3422,11 @@
   authors:
   - 79
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-07-04'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
