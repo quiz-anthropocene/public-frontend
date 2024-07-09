@@ -51271,7 +51271,7 @@
   answer_choice_a: '20'
   answer_choice_b: '100'
   answer_choice_c: '400'
-  answer_choice_d: '1000'
+  answer_choice_d: '1.000'
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Un umano consuma circa 5 kWh al giorno solamente per nutrirsi.
@@ -51281,16 +51281,18 @@
     livello di vita di cui godiamo attualmente, in assenza di macchinari.
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
+  answer_video_url: https://www.youtube.com/watch?v=S4O5voOCqAQ
+  answer_video_url_text: 'Olympic Cyclist Vs. Toaster: Can He Power It?'
   answer_source_accessible_url: https://www.grey-panthers.it/green/conoscere-lenergia/schiavi-energetici/
   answer_source_accessible_url_text: 'Il contributo che l’energia dà alla nostra vita:
     fino a quando avremo schiavi energetici al nostro servizio?'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ec712ff0.png
-  answer_image_url_text: ''
+  answer_book_recommendation: '"Il mondo senza fine" di Jean-Marc Jancovici (Oblomov
+    Edizioni, 2023)'
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8633b9ee.JPG
+  answer_image_url_text: 'Vignetta che mostra il concetto di schiavi energetici. Fonte:
+    "Il mondo senza fine" di Jean-Marc Jancovici (Oblomov Edizioni, 2023)'
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
@@ -51298,7 +51300,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1258
   text: A Porto Rico, come è cambiata la popolazione di insetti negli ultimi 35 anni
     ?
@@ -51341,9 +51343,9 @@
   created: '2024-07-02'
   updated: '2024-07-04'
 - id: 1259
-  text: Alcuni scienziati hanno monitorato l'andamento delle popolazioni di 30000
-    specie di vertebrati selvaggi lungo un arco di tempo di 40 anni, tra il 1970 ed
-    il 1910. Cosa hanno osservato ?
+  text: Alcuni scienziati hanno monitorato l'andamento delle popolazioni di 30.000
+    specie di vertebrati selvatici lungo un arco di tempo di 40 anni, tra il 1970
+    ed il 1910. Cosa hanno osservato ?
   hint: ''
   type: QCM
   category: 4
@@ -51366,14 +51368,15 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.isprambiente.gov.it/it/attivita/biodiversita/le-domande-piu-frequenti-sulla-biodiversita
-  answer_source_accessible_url_text: Le domande più frequenti sulla biodiversità
+  answer_source_accessible_url: https://www.lifegate.it/rapporto-wwf-estinzione-vertebrati
+  answer_source_accessible_url_text: Dal 1970 abbiamo sterminato il 60% dei vertebrati
   answer_source_scientific_url: https://www.ipbes.net/news/Media-Release-Global-Assessment
   answer_source_scientific_url_text: Nature’s Dangerous Decline ‘Unprecedented’; Species
     Extinction Rates ‘Accelerating’
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/be7e090b.png
-  answer_image_url_text: ''
+  answer_image_url_text: 'Declino del numero di vertebrati tra il 1970 ed il 2020
+    (fonte : WWF)'
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
@@ -51381,7 +51384,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1260
   text: Tra il 2011 ed il 2013, la Cina ha consumato tanto cemento quanto gli Stati
     Uniti in...
@@ -51398,9 +51401,9 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: 20 milioni di cinesi lasciano la campagna ogni anno per andare
-    ad abitare in grandi condomini recenti. Pochi di questi sono in legno e la maggior
-    parte sono in cemento e calcestruzzo, nonostante quest'industria sia uno dei più
-    grandi emettitori di gas serra.
+    ad abitare in grandi condomini recenti. Pochi di questi edifici sono in legno
+    e la maggior parte sono in cemento e calcestruzzo, nonostante quest'industria
+    sia uno dei più grandi emettitori di gas serra.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51411,7 +51414,9 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e2991dd1.png
-  answer_image_url_text: ''
+  answer_image_url_text: In 100 anni (tra il1901 ed il 2000), gli Stati Uniti hanno
+    consumato 4,5 gigatonnellate di cemento. La Cina ne ha consumate 6,6 in soli due
+    anni (tra il 2011 ed il 2013).
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
@@ -51419,7 +51424,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1261
   text: A livello globale, quanti barili di petrolio sono stati consumati al giorno
     nel 2020?
@@ -51491,7 +51496,7 @@
     dei pesci'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/29333983.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: 'Fonte: Sea Sheppard'
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
@@ -51499,7 +51504,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1263
   text: Quale sarà l’impatto di un aumento di 2°C della temperatura dell’aria (rispetto
     all’era preindustriale) sulle barriere coralline?
@@ -51533,7 +51538,7 @@
     to disappear by 2100 unless CO2 emissions drastically reduce'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/687e639d.png
-  answer_image_url_text: ''
+  answer_image_url_text: Coralli morti sul fondale marino
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
@@ -51541,7 +51546,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1264
   text: Quanti metalli pesanti, solventi, fanghi tossici e altri rifiuti industriali
     vengono scaricati ogni giorno nelle acque del mondo?
@@ -51551,8 +51556,8 @@
   tags: []
   difficulty: 3
   language: ITALIAN
-  answer_choice_a: 1000 tonnellate, ovvero 4 aerei A380
-  answer_choice_b: 100000 tonnellate, ovvero 10 volte la Tour Eiffel
+  answer_choice_a: 1.000 tonnellate, ovvero 4 aerei A380
+  answer_choice_b: 100.000 tonnellate, ovvero 10 volte la Tour Eiffel
   answer_choice_c: 1 milioni di tonnellate, ovvero 3 volte l'Empire State Building
   answer_choice_d: 100 milioni di tonnellate, ovvero 20 volte la Grande Piramide di
     Gizeh
@@ -51584,7 +51589,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1265
   text: Alla fine dell'estate, a settembre, la superficie della banchisa artica raggiunge
     il suo valore minimo. Come ha evoluto questo valore nel corso degli ultimi 40
@@ -51614,8 +51619,9 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ddb4c990.png
+  answer_image_url_text: L'immagine illustra la differenza di estensione della banchisa
+    (area fucsia) tra settembre 1979 (a sinistra) e settembre 2011 (a destra).
   answer_extra_info: ''
   author: 79
   visibility: PUBLIC
@@ -51623,7 +51629,7 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
 - id: 1266
   text: Gli sfollati climatici sono persone costrette a trasferirsi per ragioni ambientali.
     Il loro numero è stato stimato a 25 milioni di persone nel 2016. Quale numero
@@ -51647,12 +51653,12 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.wired.it/attualita/ambiente/2021/09/28/clima-migranti-cop26/
-  answer_source_accessible_url_text: Entro il 2050 216 milioni di persone dovranno
-    migrare a causa della crisi climatica
-  answer_source_scientific_url: https://altreconomia.it/la-crisi-climatica-causera-oltre-un-miliardo-di-sfollati-entro-il-2050/
-  answer_source_scientific_url_text: La crisi climatica causerà oltre un miliardo
+  answer_source_accessible_url: https://altreconomia.it/la-crisi-climatica-causera-oltre-un-miliardo-di-sfollati-entro-il-2050/
+  answer_source_accessible_url_text: La crisi climatica causerà oltre un miliardo
     di sfollati entro il 2050
+  answer_source_scientific_url: https://www.wired.it/attualita/ambiente/2021/09/28/clima-migranti-cop26/
+  answer_source_scientific_url_text: Entro il 2050 216 milioni di persone dovranno
+    migrare a causa della crisi climatica
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/72d9612c.jpg
   answer_image_url_text: ''
@@ -51663,4 +51669,4 @@
   validator: null
   validation_date: null
   created: '2024-07-02'
-  updated: '2024-07-04'
+  updated: '2024-07-08'
