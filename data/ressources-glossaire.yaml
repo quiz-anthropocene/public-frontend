@@ -604,3 +604,29 @@
   language: FRENCH
   created: '2024-06-02'
   updated: '2024-06-02'
+- name: géoingénierie
+  name_alternatives: géo-ingénierie
+  definition_short: Manipulation par l'homme du climat et de l'environnement à grande
+    échelle
+  description: ''
+  description_accessible_url: https://fr.wikipedia.org/wiki/G%C3%A9oing%C3%A9nierie
+  language: FRENCH
+  created: '2024-07-09'
+  updated: '2024-07-09'
+- name: technosolutionnisme
+  name_alternatives: ''
+  definition_short: confiance dans la technologie pour résoudre un problème créé par
+    des technologies antérieures
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2024-07-09'
+  updated: '2024-07-09'
+- name: zélateur
+  name_alternatives: zélateurs
+  definition_short: Partisan ou défenseur zélé d'une cause ou d'une personne
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2024-07-09'
+  updated: '2024-07-09'

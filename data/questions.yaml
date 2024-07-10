@@ -50530,35 +50530,31 @@
   created: '2024-05-28'
   updated: '2024-06-30'
 - id: 1240
-  text: Quand est apparu le terme de géo-ingénierie ?
+  text: Les techniques de géoingénierie consistent à manipuler et modifier le climat
+    et l'environnement de la Terre à grande échelle. Quand est apparu ce concept ?
   hint: ''
   type: QCM
   category: 1
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: '1977'
-  answer_choice_b: '1990'
-  answer_choice_c: ''
-  answer_choice_d: ''
-  answer_correct: a
+  answer_choice_a: '1880'
+  answer_choice_b: '1953'
+  answer_choice_c: '1977'
+  answer_choice_d: '2003'
+  answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Le terme de géo-ingénierie apparaîtrait pour la première fois
-    dans un article du physicien italien Cesare Marchetti datant de 1977. Il y est
-    question de remettre d''aplomb le cycle du carbone en injectant du C02 au large
-    de Gibraltar à l''aide d''un ''gigamixer''. Ce dernier rêvait déjà de contrôler
-    l''albédo terrestre avec des aérosols répandus dans l''atmosphère (page 315).
-    L''idée de pouvoir ainsi contrer le réchauffement climatique à l''aide de moyens
-    techniques serait plus ancienne encore: en 1965, dans le rapport ''Restoring the
-    Quality of our Environment'' remis au président américain Johnson par l''océanographe
-    Roger Revelle et le maintenant célèbre chimiste  Charles Keeling (à qui on doit
-    la courbe éponyme de l''évolution de CO2 enregistrée à Mona Loa, Hawaï), il était
-    déjà question de recouvrir les océans de particules réfléchissantes afin d''en
-    augmenter l''albédo (page 314 et 315). Il est troublant de constater qu''il n''est
-    jamais question de ralentir l''activité économique pour diminuer nos émissions.
-    A quoi bon, puisque nous aurons toujours le temps de trouver une solution technologique
-    au problème posé. Cette foi dans le technosolutionnisme est révélatrice d''une
-    forme d''hubris potentiellement destructeur.'
+  answer_explanation: "C'est en 1977 que le terme de géo-ingénierie apparaîtrait,\
+    \ dans un article du très influent physicien italien Cesare Marchetti. Il y est\
+    \ question de remettre d'aplomb le cycle du carbone en injectant du C02 au large\
+    \ de Gibraltar à l'aide d'un 'gigamixer'. Marchetti rêvait déjà de contrôler l'albédo\
+    \ terrestre avec des aérosols répandus dans l'atmosphère. Déjà en1965, dans un\
+    \ rapport remis au président Américain, il était proposé de recouvrir les océans\
+    \ de particules réfléchissantes afin d'en augmenter le pouvoir de réflexion.\r\
+    \nIl est troublant de constater qu'il n'est jamais question de ralentir l'activité\
+    \ économique pour diminuer les émissions. A quoi bon en effet, se demandent ses\
+    \ zélateurs, puisque nous aurons toujours le temps de trouver une solution technologique\
+    \ au problème posé ?"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50566,11 +50562,11 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://link.springer.com/article/10.1007/BF00162777
-  answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
+  answer_source_scientific_url_text: Marchetti, C. On geoengineering and the CO2 problem.
+    Climatic Change 1, 59–68 (1977)
+  answer_book_recommendation: Sans Transition, p. 314-315
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/01578c8c.jpg
-  answer_image_url_text: Photographie du physicien Cesare Marchetti, inventeur du
-    terme 'géo-ingénierie'
+  answer_image_url_text: Cesare Marchetti
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -50578,7 +50574,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-07-07'
+  updated: '2024-07-09'
 - id: 1241
   text: 'La plus grosse centrale électrique thermique de Grande Bretagne, celle de
     Drax, fonctionne désormais à la biomasse. Pour l''alimenter, il a fallu brûler
@@ -51204,31 +51200,28 @@
   created: '2024-06-04'
   updated: '2024-06-04'
 - id: 1256
-  text: Passons à l'émergence du concept de transition énergétique. Dans quel contexte
-    est-il apparu ?
+  text: Assez d'ordres de grandeur, examinons l'émergence du concept de transition
+    énergétique. Dans quel contexte est-il apparu ?
   hint: ''
   type: QCM
   category: 5
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Un mouvement de promotion de l'énergie atomique?
-  answer_choice_b: La crainte d'un épuisement des énergies fossiles?
-  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis?
-  answer_choice_d: La prise de conscience du changement climatique?
+  answer_choice_a: Un mouvement de promotion de l'énergie atomique
+  answer_choice_b: La crainte d'un épuisement des énergies fossiles
+  answer_choice_c: Une poussée des mouvements écologistes aux Etats-Unis
+  answer_choice_d: La prise de conscience du changement climatique
   answer_correct: abd
   has_ordered_answers: true
-  answer_explanation: "L'origine de la notion de transition est étroitement liée à\
-    \ l'atome:\r\nElle correspond au changement d'état d'un électron autour de son\
-    \ noyau.\r\nAux Etats Unis, dès les années 1950 , les savants atomistes abordaient\r\
-    \nla question énergétique sur le très long terme. Quelle sera la\r\nconsommation\
-    \ mondiale d'énergie en 2000, 2050 ou 2100? Y aura-t-il\r\nencore du charbon au\
-    \ 21ème ou 22ème siècle. Ou encore: quels\r\npourraient être les effets sur le\
-    \ climat de la combustion de\r\nl'essentiel des ressources fossiles? Parce que\
-    \ les promoteurs\r\naméricains du nucléaire défendent une option technologique\
-    \ de très\r\nlong terme, ils fabriquent une prospective énergétique nouvelle,\
-    \ une\r\nfuturologie portant à la fois sur la fin des fossiles et sur le\r\nchangement\
-    \ climatique. (page 223)"
+  answer_explanation: "La notion de transition trouve historiquement sa source au\
+    \ mouvement de promotion de l'énergie atomique aux Etats-Unis. Une transition,\
+    \ c'est changement d'état d'un électron autour de son noyau ! Dès les années 1950\
+    \ , les savants atomistes abordaient la question énergétique sur le très long\
+    \ terme, à l'horizon d'un siècle : y aura-t-il encore du charbon, quel impact\
+    \ sur le climat si l'on brûle l'essentiel des ressources fossiles ? Ils élaborent\
+    \ une prospective énergétique nouvelle, une\r\nfuturologie portant à la fois sur\
+    \ la fin des fossiles et sur le changement climatique."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51237,27 +51230,27 @@
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: ''
+  answer_book_recommendation: Sans Transition, p. 223
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/797d1857.jpg
-  answer_image_url_text: "Le rapport Putnam  jouera un rôle déterminant dans le domaine\r\
-    \nscientifique. Trois arguments en faveur de l'atome y sont développés :\r\nl'augmentation\
-    \ de la consommation énergétique américaine et mondiale,\r\nle renchérissement\
-    \ inévitable des fossiles et, déjà, la question du\r\nréchauffement climatique.\
-    \ (page 231)"
-  answer_extra_info: "Le terme de 'transition énergétique' a été inventé par le chimiste\r\
-    \nHarrison Brown, qu'il utilisa la première fois en 1967 lors d'une\r\nconférence,\
-    \ soit 14 ans après la publication du rapport Putnam. Il\r\nreste que cette notion\
-    \ prend racine dans le milieu atomistes des\r\nannées 1950. Harrison Brown est\
-    \ en effet un fervent promoteur de\r\nl'atome, qu'il tenait pour la clé du futur\
-    \ de l'humanité: pour sa sécurité énergétique, alimentaire, et la protection de\
-    \ l'environnement (page 236)"
+  answer_image_url_text: "Le rapport Putnam (1953) jouera un rôle déterminant dans\
+    \ le domaine\r\nscientifique. Trois arguments en faveur de l'atome y sont développés\
+    \ :\r\nl'augmentation de la consommation énergétique américaine et mondiale,\r\
+    \nle renchérissement inévitable des fossiles et, déjà, la question du\r\nréchauffement\
+    \ climatique. (page 231)"
+  answer_extra_info: 'Le terme de ''transition énergétique'' a été inventé par le
+    chimiste Harrison Brown, qu''il utilisa la première fois en 1967 lors d''une conférence,
+    soit 14 ans après la publication du rapport Putnam. Il reste que cette notion
+    prend racine dans le milieu atomistes des années 1950. Harrison Brown est en effet
+    un fervent promoteur de l''atome, qu''il tenait pour la clé du futur de l''humanité:
+    pour sa sécurité énergétique, alimentaire, et la protection de l''environnement
+    (page 236).'
   author: 2
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-07-07'
+  updated: '2024-07-09'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
