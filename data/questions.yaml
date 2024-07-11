@@ -51200,8 +51200,9 @@
   created: '2024-06-04'
   updated: '2024-06-04'
 - id: 1256
-  text: Assez d'ordres de grandeur, examinons l'émergence du concept de transition
-    énergétique. Dans quel contexte est-il apparu ?
+  text: Ces quelques questions illustrent comment, historiquement, matières et énergies
+    s'empilent et s'imbriquent en symbiose. Mais alors, dans quel contexte est apparu
+    le concept de transition énergétique ?
   hint: ''
   type: QCM
   category: 5
@@ -51214,14 +51215,17 @@
   answer_choice_d: La prise de conscience du changement climatique
   answer_correct: abd
   has_ordered_answers: true
-  answer_explanation: "La notion de transition trouve historiquement sa source au\
-    \ mouvement de promotion de l'énergie atomique aux Etats-Unis. Une transition,\
-    \ c'est changement d'état d'un électron autour de son noyau ! Dès les années 1950\
-    \ , les savants atomistes abordaient la question énergétique sur le très long\
-    \ terme, à l'horizon d'un siècle : y aura-t-il encore du charbon, quel impact\
-    \ sur le climat si l'on brûle l'essentiel des ressources fossiles ? Ils élaborent\
-    \ une prospective énergétique nouvelle, une\r\nfuturologie portant à la fois sur\
-    \ la fin des fossiles et sur le changement climatique."
+  answer_explanation: 'La notion de transition trouve historiquement sa source au
+    mouvement de promotion de l''énergie atomique aux Etats-Unis dans les années 1950
+    - une transition, c''est un changement d''état d''un électron ! Les savants atomistes
+    abordaient la question énergétique sur le très long terme, à l''horizon d''un
+    siècle : y aura-t-il encore du charbon ? Quel impact sur le climat si l''on brûle
+    l''essentiel des ressources fossiles ? Comment faire face à l''épuisement des
+    ressources ? Ils élaborent une prospective énergétique nouvelle, une futurologie
+    portant à la fois sur la fin des fossiles et sur le changement climatique. L''étonnant
+    est qu''on ait pu recycler cette futurologie là vers un problème qui n''a rien
+    à voir, à savoir la décarbonation de l''économie en une ou deux décennies, alors
+    que les énergies fossiles sont encore surabondantes.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51250,7 +51254,7 @@
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-07-09'
+  updated: '2024-07-10'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
