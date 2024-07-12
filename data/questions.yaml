@@ -40112,7 +40112,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.ecologie.gouv.fr/diagnostic-performance-energetique
+  answer_source_scientific_url: https://www.ecologie.gouv.fr/politiques-publiques/diagnostic-performance-energetique-dpe
   answer_source_scientific_url_text: Le diagnostic de performance énergétique
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000969-27a4.jpg
@@ -40124,7 +40124,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-28'
+  updated: '2024-07-12'
 - id: 970
   text: Qu'est-ce qu'on pourra faire plus dans un monde bas carbone ?
   hint: ''
