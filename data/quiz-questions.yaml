@@ -3568,11 +3568,6 @@
   question: 1245
   order: 800
   created: '2024-06-01'
-- id: 973
-  quiz: 106
-  question: 1246
-  order: 350
-  created: '2024-06-02'
 - id: 974
   quiz: 115
   question: 1247
