@@ -50570,11 +50570,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-07-09'
+  updated: '2024-07-15'
 - id: 1241
   text: 'La plus grosse centrale électrique thermique de Grande Bretagne, celle de
     Drax, fonctionne désormais à la biomasse. Pour l''alimenter, il a fallu brûler
@@ -51222,10 +51222,10 @@
     du charbon dans un siècle ? Quel impact sur le climat si l''on brûle l''essentiel
     des ressources fossiles ? Comment faire face à l''épuisement des ressources ?
     Ils élaborent une prospective énergétique nouvelle, une futurologie portant à
-    la fois sur la fin des fossiles et sur l''arrivée du changement climatique. L''étonnant
-    est que cette futurologie ait été recyclée vers un problème qui n''a rien à voir,
-    à savoir la décarbonation de l''économie en une ou deux décennies dans un contexte
-    d''énergies fossiles encore surabondantes.'
+    la fois sur la fin des fossiles et sur l''arrivée du changement climatique. Ce
+    qui est surprenant, c''est que cette futurologie ait été recyclée vers un problème
+    qui n''a rien à voir, à savoir la décarbonation de l''économie en deux ou trois
+    décennies dans un contexte d''énergies fossiles encore surabondantes.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51234,7 +51234,7 @@
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: Sans Transition, p. 223
+  answer_book_recommendation: Sans Transition, p. 223 et suivantes
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/797d1857.jpg
   answer_image_url_text: "Le rapport Putnam (1953) jouera un rôle déterminant dans\
     \ le domaine\r\nscientifique. Trois arguments en faveur de l'atome y sont développés\
@@ -51250,11 +51250,11 @@
     (page 236).'
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-07-11'
+  updated: '2024-07-15'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
