@@ -2981,16 +2981,16 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/328992cb.jpg
   has_audio: false
   authors:
-  - 83
+  - 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: TO_VALIDATE
+  validator: 83
   validation_date: null
   publish: false
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2024-05-24'
-  updated: '2024-07-11'
+  updated: '2024-07-15'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
