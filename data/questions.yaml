@@ -50765,7 +50765,7 @@
   answer_choice_b: La décroissance
   answer_choice_c: L'adaptation
   answer_choice_d: La transition énergétique
-  answer_correct: acd
+  answer_correct: ac
   has_ordered_answers: true
   answer_explanation: ". Émissions négatives : en effet, pour faire entrer une économie\
     \ mondiale en croissance dans des budgets carbone restreints, tous les scenarii\
@@ -50776,10 +50776,10 @@
     \ sur les pistes d'actions d'atténuation. Même à titre d'hypothèse, aucun scénario\
     \ n'envisage ainsi une quelconque diminution de la croissance économique. La première\
     \ utilisation du mot 'sobriété' remonte au rapport de 2022, après d'âpres discussions.\r\
-    \n. Adaptation : Un autre rapport du GIEC porte en effet sur les impacts, les\
-    \ vulnérabilités et l'adaptation.\r\n. La transition énergétique pour finir est\
-    \ devenue la grande affaire depuis les années 2000. Toutes les grandes entreprises\
-    \ se présentent comme engagées dans une transition."
+    \n. La décroissance fait l'objet d'un rapport spécifique, mais ne contribue pas\
+    \ en soi à l'atteinte de l'accord de Paris.\r\n. La transition énergétique pour\
+    \ finir est devenue la grande affaire depuis les années 2000. Toutes les grandes\
+    \ entreprises se présentent comme engagées dans une transition."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50803,7 +50803,7 @@
   validator: 83
   validation_date: '2024-06-30'
   created: '2024-06-01'
-  updated: '2024-06-30'
+  updated: '2024-07-17'
 - id: 1246
   text: Passons à l'histoire du terme de transition énergétique. A qui le doit-on
     ? (brouillon)
@@ -51204,7 +51204,7 @@
     s'empilent et s'imbriquent en symbiose. Mais alors, dans quel contexte est apparu
     le concept de transition énergétique ?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 5
   tags: []
   difficulty: 3
@@ -51254,7 +51254,7 @@
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-07-15'
+  updated: '2024-07-17'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
