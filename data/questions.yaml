@@ -47495,11 +47495,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-30'
+  updated: '2024-07-25'
 - id: 1166
   text: Vrai ou faux ? Aux Etats-Unis, la production de tubes d'acier pour l'industrie
     pétrolière excède la production totale d'acier du pays en 1900
@@ -50570,11 +50570,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-07-15'
+  updated: '2024-07-25'
 - id: 1241
   text: 'La plus grosse centrale électrique thermique de Grande Bretagne, celle de
     Drax, fonctionne désormais à la biomasse. Pour l''alimenter, il a fallu brûler
@@ -51250,11 +51250,11 @@
     (page 236).'
   author: 2
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   created: '2024-06-22'
-  updated: '2024-07-17'
+  updated: '2024-07-25'
 - id: 1257
   text: Immagina che domani tutta l'energia consumata in Italia debba essere alimentata
     da degli esseri umani che pedalano 8 ore al giorno. In media, quanti lavoratori
