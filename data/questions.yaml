@@ -61,7 +61,7 @@
   answer_choice_d: '1000'
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: On peut estimer qu'en un journée, un humain consomme en nourriture
+  answer_explanation: On peut estimer qu'en une journée, un humain consomme en nourriture
     environ 5 kWh dont il peut restituer en puissance mécanique 0,05 à 0,5 kWh selon
     qu'il utilise ses bras ou ses jambes. Jean-Marc Jancovici a popularisé pour illustrer
     ces chiffres la notion "d'esclave énergétique" à notre service pour nous fournir
@@ -85,7 +85,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2024-06-12'
+  updated: '2024-07-24'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
