@@ -50765,7 +50765,7 @@
   answer_choice_b: La décroissance
   answer_choice_c: L'adaptation
   answer_choice_d: La transition énergétique
-  answer_correct: ac
+  answer_correct: ad
   has_ordered_answers: true
   answer_explanation: ". Émissions négatives : en effet, pour faire entrer une économie\
     \ mondiale en croissance dans des budgets carbone restreints, tous les scenarii\
@@ -50803,7 +50803,7 @@
   validator: 83
   validation_date: '2024-06-30'
   created: '2024-06-01'
-  updated: '2024-07-17'
+  updated: '2024-07-26'
 - id: 1246
   text: Passons à l'histoire du terme de transition énergétique. A qui le doit-on
     ? (brouillon)
