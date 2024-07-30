@@ -47197,7 +47197,7 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Le phosphore provient de roche phosphatée transformée chimiquement,
-    exploitable un peu d'endroits.
+    exploitable en peu d'endroits.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47217,7 +47217,7 @@
   validator: 2
   validation_date: '2024-05-15'
   created: '2024-04-09'
-  updated: '2024-05-15'
+  updated: '2024-07-29'
 - id: 1159
   text: Quel est le principal intérêt des toilettes sèches ?
   hint: ''
