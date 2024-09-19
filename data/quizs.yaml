@@ -3350,7 +3350,7 @@
   created: '2024-06-04'
   updated: '2024-06-20'
 - id: 116
-  name: Burger Quiz Expleo Juin 2024
+  name: Burger Quiz de l'Anthropocène
   slug: burger-quiz-expleo-juin-2024
   introduction: "<p>Bienvenue au Burger Quiz de l'Anthropocène !<br />\r\nLes questions\
     \ qui suivent vont aborder, dans l'ordre :</p>\r\n\r\n<p>une introduction à l'anthropocène,\
@@ -3390,7 +3390,7 @@
   publish_date: null
   spotlight: false
   created: '2024-06-12'
-  updated: '2024-06-13'
+  updated: '2024-09-19'
 - id: 117
   name: Introduzione all'antropocene - parte 1
   slug: introduzione-allantropocene-parte-1
