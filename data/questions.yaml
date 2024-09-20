@@ -2969,7 +2969,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-06-12'
+  updated: '2024-09-19'
 - id: 71
   text: A combien s'élève l'empreinte carbone moyenne d'un Français (2018, en équivalent
     CO2) ?
@@ -3226,7 +3226,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-06-12'
+  updated: '2024-09-19'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -4338,7 +4338,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-06-13'
+  updated: '2024-09-19'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
