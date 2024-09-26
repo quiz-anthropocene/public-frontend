@@ -1740,9 +1740,9 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: C'est ce qui ressort d'une étude canadienne de 2006. Le déclin
-    de la biodiversité s’accélère et rythme il n’y aura presque plus d’espèces de
-    poissons ou de fruits de mer à consommer en 2048. A l’heure actuelle, 29% de ces
-    espèces se sont effondrées, c'est à dire que leurs prises ont chuté de 90%.
+    de la biodiversité s’accélère et à ce rythme il n’y aura presque plus d’espèces
+    de poissons ou de fruits de mer à consommer en 2048. A l’heure actuelle, 29% de
+    ces espèces se sont effondrées, c'est à dire que leurs prises ont chuté de 90%.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -1762,7 +1762,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-06-12'
+  updated: '2024-09-25'
 - id: 42
   text: Combien d'années faut-il à un excès de CO2 émis pour commencer à être évacué
     de l'atmosphère ?
@@ -4293,7 +4293,8 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 102
-  text: Vrai ou faux ? Un 4x4 émet plus de gaz à effet de serre qu'un chien de compagnie
+  text: Vrai ou faux ? Conduire un 4x4 émet plus de gaz à effet de serre qu'avoir
+    un chien de compagnie
   hint: ''
   type: VF
   category: 1
@@ -4338,7 +4339,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-09-19'
+  updated: '2024-09-25'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -47501,8 +47502,8 @@
   created: '2024-05-24'
   updated: '2024-07-25'
 - id: 1166
-  text: Vrai ou faux ? Aux Etats-Unis, la production de tubes d'acier pour l'industrie
-    pétrolière excède la production totale d'acier du pays en 1900
+  text: Vrai ou faux ? Aux États-Unis, la production actuelle de tubes d'acier pour
+    l'industrie pétrolière excède la production totale d'acier du pays en 1900
   hint: ''
   type: VF
   category: 5
@@ -47551,7 +47552,7 @@
   validator: 83
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-06-30'
+  updated: '2024-09-25'
 - id: 1167
   text: 'En 1978, un scientifique prédit : « Le changement climatique aura des conséquences
     sensibles en 2000 (+1°C), sérieuses pour l''économie en 2038 (+2°C) et catastrophiques
