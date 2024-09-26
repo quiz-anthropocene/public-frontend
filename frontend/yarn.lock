@@ -2368,10 +2368,10 @@ axe-core@^4.8.3:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.8.4.tgz#90db39a2b316f963f00196434d964e6e23648643"
   integrity sha512-CZLSKisu/bhJ2awW4kJndluz2HLZYIHh5Uy1+ZwDRkJi69811xgIXXfdU9HSLX0Th+ILrHj8qfL/5wzamsFtQg==
 
-axios@^1.6.7:
-  version "1.6.8"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.6.8.tgz#66d294951f5d988a00e87a0ffb955316a619ea66"
-  integrity sha512-v/ZHtJDU39mDpyBoFVkETcd/uNdxrWRrg3bKpOKzXFA6Bvqopts6ALSMU3y6ijYxbw2B+wPrIv46egTzJXCLGQ==
+axios@^1.7.4:
+  version "1.7.7"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.7.7.tgz#2f554296f9892a72ac8d8e4c5b79c14a91d0a47f"
+  integrity sha512-S4kL7XrjgBmvdGut0sN3yJxqYzrDOnivkBiN0OFs6hLiUam3UPvswUo0kqGyhqUZGEOytHyumEdXsAkgCOUf3Q==
   dependencies:
     follow-redirects "^1.15.6"
     form-data "^4.0.0"
@@ -2843,13 +2843,13 @@ chrome-trace-event@^1.0.2:
   resolved "https://registry.yarnpkg.com/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz#1015eced4741e15d06664a957dbbf50d041e26ac"
   integrity sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg==
 
-chromedriver@127:
-  version "127.0.2"
-  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-127.0.2.tgz#12c607b8d9b3fbe81d663161d28ded17e989bbf3"
-  integrity sha512-mYfJ/8FqzsdFOs2rPiAI4y0suFnv78cRnzZK0MHdSfSIDeRPbqZz0rNX4lrXt14hXc9vqXa+a8cMxlrhWtXKSQ==
+chromedriver@129:
+  version "129.0.0"
+  resolved "https://registry.yarnpkg.com/chromedriver/-/chromedriver-129.0.0.tgz#28d7ede5ab372b868ac0db5efff7036646b4d603"
+  integrity sha512-B1ccqD6hDjNrw94FeqdynIotn1ZV/TnFrkRz2Rync2kzSnq6D6IrSkN1w5Pnuvnc98QhN2xujxDXxkqEqy/PWg==
   dependencies:
     "@testim/chrome-version" "^1.1.4"
-    axios "^1.6.7"
+    axios "^1.7.4"
     compare-versions "^6.1.0"
     extract-zip "^2.0.1"
     proxy-agent "^6.4.0"
