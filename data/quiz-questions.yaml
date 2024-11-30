@@ -188,11 +188,6 @@
   question: 335
   order: 5
   created: '2021-01-12'
-- id: 46
-  quiz: 5
-  question: 243
-  order: 6
-  created: '2021-01-12'
 - id: 47
   quiz: 5
   question: 150
