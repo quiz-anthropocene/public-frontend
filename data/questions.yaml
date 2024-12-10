@@ -4323,7 +4323,7 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: http://www.slate.fr/story/12169/les-4x4-sont-plus-ecolos-que-les-chiens
+  answer_source_accessible_url: https://www.slate.fr/story/12169/les-4x4-sont-plus-ecolos-que-les-chiens
   answer_source_accessible_url_text: Votre chien pollue plus qu'un 4x4 (sauf si vous
     le mangez) | Slate.fr
   answer_source_scientific_url: https://www.newscientist.com/article/mg20427311-600-how-green-is-your-pet/
@@ -4339,7 +4339,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-09-25'
+  updated: '2024-11-29'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -9618,7 +9618,7 @@
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: La moyenne française est estimée à 4,5 tonnes de CO2 par habitant
-    (hors importations, sinon c'est de l'ordre de 11 tonnes). Donc juste au-dessus
+    (hors importations, sinon c'est de l'ordre de 9 à 10 tonnes). Donc juste au-dessus
     de la moyenne mondiale.
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -9639,7 +9639,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2024-04-02'
+  updated: '2024-11-29'
 - id: 237
   text: Quelle est la profondeur moyenne des océans ?
   hint: ''
@@ -9906,11 +9906,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1148674455801073666
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2024-11-29'
 - id: 244
   text: Quelle est la vitesse de circulation qui démarque une ligne ferroviaire classique
     d’une ligne à grande vitesse ?
@@ -30652,9 +30652,10 @@
   updated: '2024-03-12'
 - id: 747
   text: Plaçons-nous dans un scénario optimiste en termes d'émissions de gaz à effet
-    de serre ; à l'horizon 2100 en Europe, de combien de kilomètres par décennie une
-    espèce aquatique devra-t-elle migrer en moyenne pour retrouver un lac avec une
-    température habitable ?
+    de serre (équivalent à +1.6°C par rapport à l'ère pré-industrielle en 2100) ;
+    à l'horizon 2100 en Europe, de combien de kilomètres par décennie une espèce aquatique
+    devra-t-elle migrer en moyenne pour retrouver un lac avec une température habitable
+    ?
   hint: ''
   type: QCM
   category: 5
@@ -30697,7 +30698,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-03-12'
+  updated: '2024-11-29'
 - id: 748
   text: La côte du delta du Mékong au Vietnam recule. La montée du niveau de la mer
     ne suffit pas à l'expliquer. Quel recul peut-on observer en certains endroits
@@ -42506,7 +42507,7 @@
   updated: '2024-02-27'
 - id: 1052
   text: A quelles problématiques l'agriculture urbaine répond-t-elle ?
-  hint: Parmi les réponses suivantes, vous pouvez cocher jusqu'à 6 cases !
+  hint: Parmi les réponses suivantes, vous pouvez cocher jusqu'à 4 cases
   type: QCM-RM
   category: 8
   tags:
@@ -42550,7 +42551,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1053
   text: Quels sont les 3 piliers sur lesquels repose la biodiversité ?
   hint: ''
@@ -42596,7 +42597,7 @@
   validator: null
   validation_date: null
   created: '2022-07-28'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1054
   text: Les comportements de consommation ont-ils un impact direct sur les 4 enjeux
     des transitions écologiques, à savoir le changement climatique, l'érosion de la
@@ -42643,7 +42644,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1055
   text: Quelle a été la hausse enregistrée en France de la consommation de produits
     issus du commerce équitable entre 2013 et 2016 ?
@@ -42691,7 +42692,7 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1056
   text: En quoi consiste la finance durable ?
   hint: ''
@@ -42743,10 +42744,10 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1057
   text: Selon la Commission Européenne, combien d'emplois l'économie circulaire pourrait-elle
-    créer d'ici 2030?
+    créer d'ici 2030 ?
   hint: ''
   type: QCM
   category: null
@@ -42790,7 +42791,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2023-02-13'
+  updated: '2024-12-03'
 - id: 1058
   text: Qu'est ce qu'une forêt primaire ?
   hint: ''
@@ -42837,7 +42838,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2023-02-14'
+  updated: '2024-12-03'
 - id: 1059
   text: Combien de litres d'eau et de kilomètres sont nécessaires à la fabrication
     et commercialisation d'un jean neuf?
@@ -42888,7 +42889,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2023-03-17'
+  updated: '2024-12-03'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
@@ -42935,7 +42936,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1061
   text: En 1977 l’Unesco et le PNUE organise la conférence de Tbilissi sur le thème
     de l’Education à l’environnement. Le rapport indique que face à la complexité
@@ -42986,7 +42987,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1062
   text: Dans quelle commune de France un système de gouvernance collégiale a été expérimenté
     entre 2014 et 2020 ?
@@ -43030,7 +43031,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2023-02-13'
+  updated: '2024-12-03'
 - id: 1063
   text: Que décrit un DICRIM ?
   hint: ''
@@ -43072,7 +43073,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2023-02-13'
+  updated: '2024-12-03'
 - id: 1064
   text: Lesquelles des caractéristiques suivantes s'appliquent à l'agroécologie ?
     (
@@ -43116,7 +43117,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1065
   text: Quelle est la part d'eau douce sur Terre ?
   hint: ''
@@ -43162,7 +43163,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1066
   text: La culture n'est pas un secteur concerné par le changement climatique.
   hint: ''
@@ -43210,7 +43211,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2023-03-13'
+  updated: '2024-12-03'
 - id: 1067
   text: Quel est le pourcentage des trajets domicile-travail qui sont réalisés en
     voiture en France ?
@@ -43257,7 +43258,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1068
   text: En 2000 Paul Joseph Krutzen invente le mot Anthropocène pour indiquer que
     la Terre est entrée dans une nouvelle ère géologique. Pour bien vivre dans cette
@@ -43305,7 +43306,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1069
   text: L'énergie, c'est ce qui mesure la transformation du monde. Dans son rapport
     intitulé "Futur énergétique 2050" RTE indique que la France consomme aujourd'hui
@@ -43359,7 +43360,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2022-09-09'
+  updated: '2024-12-03'
 - id: 1070
   text: L'augmentation des terres artificialisées en France, cela représente en 10
     ans...
@@ -43445,7 +43446,7 @@
   validator: 2
   validation_date: '2022-11-05'
   created: '2022-08-04'
-  updated: '2024-02-27'
+  updated: '2024-12-03'
 - id: 1072
   text: Parmi les sols artificialisés, quelle proportion est occupée par les infrastructures
     de transport ?
@@ -43490,7 +43491,7 @@
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2023-02-14'
+  updated: '2024-12-03'
 - id: 1073
   text: Quel est le taux de pauvreté des familles monoparentales en France ?
   hint: ''

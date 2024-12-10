@@ -161,14 +161,13 @@
   - 102
   - 150
   - 236
-  - 243
   - 251
   - 335
   - 358
   - 402
   - 417
   - 440
-  question_count: 11
+  question_count: 10
   tags:
   - 72
   difficulty_average: 2.1
@@ -185,7 +184,7 @@
   publish_date: '2020-07-18'
   spotlight: false
   created: '2020-07-08'
-  updated: '2022-04-16'
+  updated: '2024-11-29'
 - id: 6
   name: Introduction à l'anthropocène - Partie 1
   slug: introduction-a-lanthropocene-partie-1
@@ -2158,10 +2157,30 @@
     https://www.renaissanceecologique.fr/\">Fresque de la Renaissance Ecologique</a>\
     \ créé du lien et permet de sortir du cloisonnement habituel, tout en fournissant\
     \ un moment convivial à organiser près de chez soi.</p>"
-  questions: []
-  question_count: 0
+  questions:
+  - 1052
+  - 1053
+  - 1054
+  - 1055
+  - 1056
+  - 1057
+  - 1058
+  - 1059
+  - 1060
+  - 1061
+  - 1062
+  - 1063
+  - 1064
+  - 1065
+  - 1066
+  - 1067
+  - 1068
+  - 1069
+  - 1071
+  - 1072
+  question_count: 20
   tags: []
-  difficulty_average: 0.0
+  difficulty_average: 1.6
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/228ef3e0.jpg
   has_audio: false
@@ -2175,7 +2194,7 @@
   publish_date: null
   spotlight: false
   created: '2022-07-06'
-  updated: '2022-11-04'
+  updated: '2024-12-03'
 - id: 87
   name: Les ressources en eau
   slug: les-ressources-en-eau-eaudyssee
@@ -2623,12 +2642,10 @@
   slug: fresque-de-la-renaissance-ecoloqieu
   introduction: ''
   conclusion: ''
-  questions:
-  - 1071
-  - 1072
-  question_count: 2
+  questions: []
+  question_count: 0
   tags: []
-  difficulty_average: 2.0
+  difficulty_average: 0.0
   language: FRENCH
   image_background_url: ''
   has_audio: false
@@ -2642,7 +2659,7 @@
   publish_date: null
   spotlight: false
   created: '2023-02-13'
-  updated: '2023-02-14'
+  updated: '2024-12-03'
 - id: 98
   name: Quelles actions pour un numérique responsable ?
   slug: quelles-actions-pour-un-numerique-responsable
