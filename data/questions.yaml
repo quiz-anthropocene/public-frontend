@@ -42688,15 +42688,15 @@
     et les effets sur la vie des femmes : https://www.youtube.com/watch?v=VtHLvAvSOCM'
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1056
   text: En quoi consiste la finance durable ?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 7
   tags: []
   difficulty: 2
@@ -42744,10 +42744,10 @@
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1057
   text: Selon la Commission Européenne, combien d'emplois l'économie circulaire pourrait-elle
-    créer d'ici 2030 ?
+    créer en Europe d'ici 2030 ?
   hint: ''
   type: QCM
   category: null
@@ -42770,9 +42770,8 @@
     et peut soutenir le virage vers la sobriété, la réutilisation, la réparabilité,
     la durabilité. Cela passe par la reconversion et la création de nouvelles filières
     dimensionnées pour chaque territoire et ses flux de matières premières.
-  answer_audio_url: https://www.economiecirculaire.org/articles/h/make-it-circular-des-podcasts-pour-comprendre-l-economie-circulaire.html
-  answer_audio_url_text: 'Make it Circular : Des podcasts pour comprendre l’économie
-    circulaire'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=ADJvT1_lr1I
   answer_video_url_text: 'Economie circulaire : définition & exemples | Ecologie Environnement
     (6 min)'
@@ -42791,7 +42790,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1058
   text: Qu'est ce qu'une forêt primaire ?
   hint: ''
@@ -42801,21 +42800,21 @@
   - 20
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Une forêt primaire est une forêt qui n’a été ni défrichée, ni exploitée,
-    ni modifiée de façon quelconque par l’homme
-  answer_choice_b: Une forêt dont toutes les expèces sont endémiques à la région
+  answer_choice_a: Elle n'a été ni défrichée, ni exploitée, ni modifiée de quelque
+    manière que ce soit par l’homme
+  answer_choice_b: Toutes ses espèces sont endémiques
   answer_choice_c: Une forêt qui a plus de 150 ans
   answer_choice_d: Une forêt plantée par une école primaire.
   answer_correct: a
   has_ordered_answers: false
   answer_explanation: 'La forêt riche d’environ 60 000 milles espèces d’arbres recouvre
-    1/3 des surfaces émergées de la terre. Ici, elle est un écheveau de relation entre
-    les êtres vivants qui abrite aussi bien des champignons, bactéries, plantes et
-    animaux et reste très diverse en fonction des latitudes. Cet écosystème avec un
-    sol vivant et fertile joue un rôle majeur dans la stabilisation du climat et des
-    risques d’inondation. Elle rend d’énormes services à l’homme : production de biomasse,
-    matériaux biosourcés, espace de promenade et loisirs, lieu d’initiation et de
-    rêve, puit de carbone, réservoir d’eau et de biodiversité mais sous la condition
+    un tiers des surfaces émergées de la terre. Ici, elle est un écheveau de relation
+    entre les êtres vivants qui abrite aussi bien des champignons, bactéries, plantes
+    et animaux et reste très diverse en fonction des latitudes. Cet écosystème avec
+    un sol vivant et fertile joue un rôle majeur dans la stabilisation du climat et
+    des risques d’inondation. Elle rend d’énormes services à l’homme : production
+    de biomasse, matériaux biosourcés, espace de promenade et loisirs, lieu d’initiation
+    et de rêve, puit de carbone, réservoir d’eau et de biodiversité mais sous la condition
     impérative d’être gérée durablement ou dans ses conditions originelles.'
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -42838,10 +42837,10 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1059
-  text: Combien de litres d'eau et de kilomètres sont nécessaires à la fabrication
-    et commercialisation d'un jean neuf?
+  text: Combien de litres d'eau sont nécessaires à la fabrication et commercialisation
+    d'un jean neuf?
   hint: La consommation est l'équivalent de la quantité d'eau moyenne utilisé par
     un français pendant 9 semaines !
   type: QCM
@@ -42853,23 +42852,24 @@
   - 105
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 30 litres d'eau et 1000 km pour un jean
-  answer_choice_b: 5 000 litres d’eau et 30 000 km pour un jean
-  answer_choice_c: 7 000 litres d’eau et 50 000 km pour un jean
-  answer_choice_d: 11 000 litres d’eau et 65 000 km pour un jean
+  answer_choice_a: 30 litres
+  answer_choice_b: 5 000 litres
+  answer_choice_c: 7 000 litres
+  answer_choice_d: 11 000 litres
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'L''import/export régit les flux de denrées et de marchandises
-    entre les territoires et se base sur une indispensable collaboration et complémentarité
-    entre ceux-ci. Il est nécessaire tant ponctuellement pour répondre à des situations
-    inédites (situations de crises politiques, sociales ou climatiques privant un
-    territoire de la partie ou totalité de ses ressources) que de façon permanente
-    (achats de produits de la mer pour un territoire continental par exemple). En
-    revanche, comme le commerce ou les comportements de consommation, l''import/export
-    peut être régi par des règles permettant de limiter l''impact sur les environnements
-    : limitation de l''import/export aux produits nécessaires et inaccessibles en
-    local, sobriété, choix des sources d''approvisionnement en fonction de la distance
-    parcourue par les produits, moyens de transport utilisés les moins impactants.'
+  answer_explanation: 'Les matériaux auront en outre parcouru 65 000 km ! L''import/export
+    régit les flux de denrées et de marchandises entre les territoires et se base
+    sur une indispensable collaboration et complémentarité entre ceux-ci. Il est nécessaire
+    tant ponctuellement pour répondre à des situations inédites (situations de crises
+    politiques, sociales ou climatiques privant un territoire de la partie ou totalité
+    de ses ressources) que de façon permanente (achats de produits de la mer pour
+    un territoire continental par exemple). En revanche, comme le commerce ou les
+    comportements de consommation, l''import/export peut être régi par des règles
+    permettant de limiter l''impact sur les environnements : limitation de l''import/export
+    aux produits nécessaires et inaccessibles en local, sobriété, choix des sources
+    d''approvisionnement en fonction de la distance parcourue par les produits, moyens
+    de transport utilisés les moins impactants.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=U9xoi7RSOwo
@@ -42889,7 +42889,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
@@ -42914,8 +42914,8 @@
     bleue qu’il génère contribue à l’éradication de la pauvreté, au développement
     économique et de l’emploi mais à condition que celle-ci soit respectueuse du climat,
     neutre en carbone et offre un modèle de tourisme et de transport durables.
-  answer_audio_url: https://www.radiofrance.fr/franceculture/podcasts/selection-sciences-12-emissions-sur-les-oceans
-  answer_audio_url_text: 'Sciences : 12 émissions sur les océans'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=k4G6eQJGcRM
   answer_video_url_text: L’impact du changement climatique sur les océans
   answer_source_accessible_url: https://wwz.ifremer.fr/L-ocean-pour-tous/Nos-ressources-pedagogiques/Comprendre-les-oceans/Ocean-et-climat/Dictionnaire-de-la-COP21-comprendre-les-liens-entre-oceans-et-climat
@@ -42932,17 +42932,17 @@
     \ les océans : https://livre.fnac.com/a16307384/Gilbert-Barnabe-Urgences-climatiques-et-ecologiques-les-solutions-de-l-Ocean#omnsearchpos=4#ficheResume"
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1061
-  text: En 1977 l’Unesco et le PNUE organise la conférence de Tbilissi sur le thème
-    de l’Education à l’environnement. Le rapport indique que face à la complexité
+  text: En 1977 l’UNESCO et le PNUE organise la conférence de Tbilissi sur le thème
+    de l’éducation à l’environnement. Le rapport indique que face à la complexité
     du sujet l’éducation a un rôle capital à jouer. La même année une circulaire donne
     naissance à l'éducation à l'environnement en France. En quelle année l'éducation
-    à l'environnement et au développement durable entre t’il dans le code de l’éducation
+    à l'environnement et au développement durable entre t-il dans le code de l’éducation
     ?
   hint: ''
   type: QCM
@@ -42967,8 +42967,8 @@
     de l’apprentissage continu et un vrai tremplin vers les métiers du commerce, de
     l’industrie, du bâtiment, de l’agriculture et de la finance pour parvenir au plein
     emploi.
-  answer_audio_url: https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/eduquer-face-a-l-anthropocene-1784898
-  answer_audio_url_text: 'COP26 : l''éducation face au changement climatique'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=Fse7xhXwiNA
   answer_video_url_text: L'éducation à l'environnement et au développement durable
     - cese
@@ -42987,7 +42987,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1062
   text: Dans quelle commune de France un système de gouvernance collégiale a été expérimenté
     entre 2014 et 2020 ?
@@ -43027,11 +43027,11 @@
     a porté des fruits. Très politique.
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1063
   text: Que décrit un DICRIM ?
   hint: ''
@@ -43053,7 +43053,7 @@
     qui se sent tranquille et confiante. Pour l'individu ou un groupe, c'est le sentiment
     d'être à l'abri de tout danger et risque. Incarnée par la robustesse de la muraille
     qui protège la ville, les échanges de flux qui y transitent se font en toute confiance
-    et sécurité
+    et sécurité.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -43073,7 +43073,7 @@
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1064
   text: Lesquelles des caractéristiques suivantes s'appliquent à l'agroécologie ?
     (
@@ -43098,8 +43098,8 @@
     régénérative, l’agroforesterie et des volets de la permaculture dans une perspective
     de développement durable en s’appuyant sur les fonctionnalités naturelles des
     écosystèmes.
-  answer_audio_url: https://fermesdavenir.org/fermes-davenir/outils/les-10-meilleurs-podcasts-sur-lagroecologie
-  answer_audio_url_text: Les 10 meilleurs podcasts sur l’agroécologie
+  answer_audio_url: ''
+  answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=_tnRhZytE8Y
   answer_video_url_text: Qu'est-ce que l'agroécologie?
   answer_source_accessible_url: https://agriculture.gouv.fr/quest-ce-que-lagroecologie
@@ -43117,7 +43117,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1065
   text: Quelle est la part d'eau douce sur Terre ?
   hint: ''
@@ -43140,9 +43140,8 @@
     \ douce accessible à l'utilisation humaine pour sa consommation ou pour les activités\
     \ agricoles est donc inférieure à 1% (eau de surface plus une partie des eaux\
     \ souterraines)."
-  answer_audio_url: https://www.wedemain.fr/podcasts/podcast-quel-avenir-pour-les-fleuves-face-au-changement-climatique/
-  answer_audio_url_text: Podcast – Quel avenir pour les fleuves face au changement
-    climatique ?
+  answer_audio_url: ''
+  answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/watch?v=Btuw6zFy-WI
   answer_video_url_text: Quel est l'impact du changement climatique sur le cycle de
     l'eau ?
@@ -43163,7 +43162,7 @@
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1066
   text: La culture n'est pas un secteur concerné par le changement climatique.
   hint: ''
@@ -43207,11 +43206,11 @@
   answer_extra_info: Nous avons un quiz spécifique sur le sujet depuis
   author: 65
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-03'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1067
   text: Quel est le pourcentage des trajets domicile-travail qui sont réalisés en
     voiture en France ?
@@ -43219,25 +43218,24 @@
   type: QCM
   category: 5
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
-  answer_choice_a: '55'
+  answer_choice_a: '45'
   answer_choice_b: '69'
-  answer_choice_c: '74'
-  answer_choice_d: '82'
+  answer_choice_c: '81'
+  answer_choice_d: '95'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "69% des trajets domicile-travail sont réalisés en voiture (moyenne\
-    \ nationale). Les transports représentent environ 29% des émissions de gaz à effet\
-    \ de serre en France et le routier a lui seul concentre 95% des émissions du secteur\
-    \ du transport. La réduction des émissions de GES mais aussi de la pollution de\
-    \ l’air et du bruit passe par le développement de solutions de mobilité alternatives\
-    \ pour les personnes et les marchandises.\r\nLa mobilité est déjà discrètement\
-    \ visible intramuros via la marche, à l’image des déplacement de courtes distance\
-    \ rendus possibles par l’aménagement urbain et les comportements de consommation\
-    \ de proximité. Elle est plus visiblement évoquée à travers la suite de moyens\
-    \ de transport qui coexistent extra-muros : les transports de personne, de marchandises,\
-    \ mais aussi des infrastructures de transport."
+  answer_explanation: 'Les transports représentent environ 29% des émissions de gaz
+    à effet de serre en France et le routier a lui seul concentre 95% des émissions
+    du secteur du transport. La réduction des émissions de GES mais aussi de la pollution
+    de l’air et du bruit passe par le développement de solutions de mobilité alternatives
+    pour les personnes et les marchandises. La mobilité est déjà discrètement visible
+    intramuros via la marche, à l’image des déplacement de courtes distance rendus
+    possibles par l’aménagement urbain et les comportements de consommation de proximité.
+    Elle est plus visiblement évoquée à travers la suite de moyens de transport qui
+    coexistent extra-muros : les transports de personne, de marchandises, mais aussi
+    des infrastructures de transport.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -43254,17 +43252,14 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-12-11'
   created: '2022-08-04'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1068
-  text: En 2000 Paul Joseph Krutzen invente le mot Anthropocène pour indiquer que
-    la Terre est entrée dans une nouvelle ère géologique. Pour bien vivre dans cette
-    nouvelle ère, la collaboration sera nécessaire. Selon le ministère de la Transition
-    Ecologique 69% des déplacements domicile-travail sont réalisés avec des véhicules
-    individuels. Quel est l'estimation du pourcentage du covoiturage?
+  text: Parmi les trajets réalisés en véhicule individuel, quelle proportion le sont
+    en covoiturage ?
   hint: ''
   type: QCM
   category: 3
@@ -43302,16 +43297,15 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1069
-  text: L'énergie, c'est ce qui mesure la transformation du monde. Dans son rapport
-    intitulé "Futur énergétique 2050" RTE indique que la France consomme aujourd'hui
-    en énergie finale 1600 TWh. Dans leur scénario quelle sera la consommation d'énergie
-    finale de la France en 2050 ?
+  text: Dans son rapport intitulé "Futur énergétique 20500", RTE indique que la France
+    consomme aujourd'hui en énergie finale 1600 TWh. Dans leur scénario, quelle sera
+    la consommation d'énergie finale de la France en 2050 ?
   hint: ''
   type: QCM
   category: 5
@@ -43356,11 +43350,11 @@
   answer_extra_info: ''
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-04'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1070
   text: L'augmentation des terres artificialisées en France, cela représente en 10
     ans...
@@ -43487,11 +43481,11 @@
   answer_extra_info: 'La vidéo publicitaire : à retirer'
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2024-12-11'
   created: '2022-08-04'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 1073
   text: Quel est le taux de pauvreté des familles monoparentales en France ?
   hint: ''

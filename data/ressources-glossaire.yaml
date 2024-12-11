@@ -408,14 +408,14 @@
   created: '2022-12-09'
   updated: '2022-12-09'
 - name: UNESCO
-  name_alternatives: ''
+  name_alternatives: l'UNESCO
   definition_short: Organisation des Nations Unies pour l'éducation, la science et
     la culture
   description: ''
   description_accessible_url: https://www.un.org/youthenvoy/fr/2013/08/unesco-organisation-nations-unies-leducation-science-culture/
   language: FRENCH
   created: '2022-12-28'
-  updated: '2022-12-28'
+  updated: '2024-12-11'
 - name: Afforestation
   name_alternatives: ''
   definition_short: Plantation d'arbres sur une surface non boisée
@@ -630,3 +630,20 @@
   language: FRENCH
   created: '2024-07-09'
   updated: '2024-07-09'
+- name: espèce endémique
+  name_alternatives: ''
+  definition_short: une espèce animale ou végétale présente naturellement sur un territoire
+    donné
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2024-12-11'
+  updated: '2024-12-11'
+- name: RTE
+  name_alternatives: ''
+  definition_short: Réseau de Transport d'Electricité
+  description: gestionnaire du réseau de transport d'électricité français
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2024-12-11'
+  updated: '2024-12-11'
