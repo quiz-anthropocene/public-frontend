@@ -2147,16 +2147,15 @@
     \n\r\n<p>Le quiz suivant vous invite à la découverte de ces enjeux.</p>"
   conclusion: "<p>Si chacun des 24 chantiers est important, il est essentiel de les\
     \ penser et les traiter de façon coordonnée.</p>\r\n\r\n<p>La fresque de la renaissance\
-    \ écologique répond ainsi à de nombreux besoins :</p>\r\n\r\n<ul>\r\n\t<li>Un\
-    \ outil simple pour des enjeux complexes : un dessin de grande dimension</li>\r\
-    \n\t<li>Une projection concrète et positive</li>\r\n\t<li>La construction d'une\
-    \ vision partagée pour travailler</li>\r\n\t<li>Des éléments et scènes de vie\
-    \ concrets pour se projeter facilement dans un avenir souhaitable</li>\r\n\t<li>Une\
-    \ mise en lumière des convergences entre les sujets de société.</li>\r\n</ul>\r\
-    \n\r\n<p>Que ce soit pour s'initier, approfondir, co-construire, la <a href=\"\
-    https://www.renaissanceecologique.fr/\">Fresque de la Renaissance Ecologique</a>\
-    \ créé du lien et permet de sortir du cloisonnement habituel, tout en fournissant\
-    \ un moment convivial à organiser près de chez soi.</p>"
+    \ écologique répond ainsi à de nombreux besoins :</p>\r\n\r\n<p>. Un outil simple\
+    \ pour des enjeux complexes : un dessin de grande dimension<br />\r\n. Une projection\
+    \ concrète et positive<br />\r\n. La construction d'une vision partagée pour travailler<br\
+    \ />\r\n. Des éléments et scènes de vie concrets pour se projeter facilement dans\
+    \ un avenir souhaitable<br />\r\n. Une mise en lumière des convergences entre\
+    \ les sujets de société.</p>\r\n\r\n<p>Que ce soit pour s'initier, approfondir,\
+    \ co-construire, la <a href=\"https://www.renaissanceecologique.fr/\">Fresque\
+    \ de la Renaissance Ecologique</a> créé du lien et permet de sortir du cloisonnement\
+    \ habituel, tout en fournissant un moment convivial à organiser près de chez soi.</p>"
   questions:
   - 1052
   - 1053
@@ -2180,21 +2179,21 @@
   - 1072
   question_count: 20
   tags: []
-  difficulty_average: 1.6
+  difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/228ef3e0.jpg
   has_audio: false
   authors:
   - 62
-  visibility: PUBLIC
-  validation_status: DRAFT
+  visibility: HIDDEN
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2022-07-06'
-  updated: '2024-12-03'
+  updated: '2024-12-11'
 - id: 87
   name: Les ressources en eau
   slug: les-ressources-en-eau-eaudyssee
