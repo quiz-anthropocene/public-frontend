@@ -155,13 +155,13 @@
   created: '2020-12-13'
   updated: '2020-12-13'
 - name: Anthropique
-  name_alternatives: anthropiques
+  name_alternatives: anthropique, anthropiques
   definition_short: Dû à l'activité humaine
   description: ''
   description_accessible_url: ''
   language: FRENCH
   created: '2020-12-13'
-  updated: '2023-01-21'
+  updated: '2024-12-11'
 - name: Arable
   name_alternatives: ''
   definition_short: Qui peut être labouré
