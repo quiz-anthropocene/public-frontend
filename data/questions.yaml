@@ -31619,9 +31619,9 @@
   difficulty: 0
   language: FRENCH
   answer_choice_a: il augmente actuellement à cause du CO2 et du méthane émis par
-    les activités de l’homme
-  answer_choice_b: il n’existait pas avant que l’homme se mette à utiliser des énergies
-    fossiles
+    les activités humaines
+  answer_choice_b: il n’existait pas avant que les humains ne se mettent à utiliser
+    des énergies fossiles
   answer_choice_c: Son augmentation réchauffe la terre
   answer_choice_d: Sans lui, il ferait beaucoup plus froid
   answer_correct: acd
@@ -31650,7 +31650,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-05'
+  updated: '2024-12-18'
 - id: 770
   text: L'hydrogène une énergie d'avenir pour le TA ?
   hint: Fo pas rêver...!
