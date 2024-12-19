@@ -2132,11 +2132,11 @@
   created: '2022-06-28'
   updated: '2023-01-25'
 - id: 86
-  name: Fresque de la Renaissance Ecologique - Le quizz
+  name: Fresque de la Renaissance Ecologique
   slug: fresque-de-la-renaissance-ecologique-le-quizz
   introduction: "<p>Les derniers rapports scientifiques, notamment du GIEC sur le\
-    \ climat, et de l'IPBES sur la biodiversité nous alertent sur la dégradation que\
-    \ l'homme inflige à la planète. Dans ce contexte, la Fresque de la Renaissance\
+    \ climat, et de l'IPBES sur la biodiversité, nous alertent sur la dégradation\
+    \ que l'homme inflige à la planète. Dans ce contexte, la Fresque de la Renaissance\
     \ Ecologique se donne comme objectif de comprendre et de mettre en lien ces problématiques\
     \ à quel point il était plus que nécessaire de comprendre les problématiques liées\
     \ au changement climatique, à l’effondrement de la biodiversité, à l’épuisement\
@@ -2193,7 +2193,7 @@
   publish_date: null
   spotlight: false
   created: '2022-07-06'
-  updated: '2024-12-11'
+  updated: '2024-12-18'
 - id: 87
   name: Les ressources en eau
   slug: les-ressources-en-eau-eaudyssee
