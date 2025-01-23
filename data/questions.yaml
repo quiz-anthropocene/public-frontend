@@ -47446,8 +47446,8 @@
   created: '2024-05-24'
   updated: '2024-07-11'
 - id: 1165
-  text: Parmi ces sources d'énergie, lequelles produisent globalement le plus d'énergie
-    finale sur terre ?
+  text: Parmi ces sources d'énergie, laquelle produit au total le plus d'énergie finale
+    sur terre ?
   hint: ''
   type: QCM
   category: 5
@@ -47495,7 +47495,7 @@
   validator: null
   validation_date: null
   created: '2024-05-24'
-  updated: '2024-07-25'
+  updated: '2025-01-22'
 - id: 1166
   text: Vrai ou faux ? Aux États-Unis, la production actuelle de tubes d'acier pour
     l'industrie pétrolière excède la production totale d'acier du pays en 1900
