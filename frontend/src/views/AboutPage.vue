@@ -41,6 +41,10 @@
     <p v-html="$t('about.aboutUsContact')"></p>
 
     <br />
+    <h3>{{ $t('about.helpUs') }} <small>💚</small></h3>
+    <p v-html="$t('about.helpUsDonation', {'helloasso_url': helloasso_url_tag})"></p>
+
+    <br />
     <h3>{{ $t('about.goFurther') }}</h3>
     <p>
       {{ $t('about.goFurtherPage') }} <router-link :to="{ name: 'ressources' }">{{ $t('about.goFurtherResourcesLink') }}</router-link> {{ $t('about.goFurtherInfo') }} </p>
@@ -68,6 +72,9 @@ export default {
   computed: {
     configuration() {
       return this.$store.state.configuration;
+    },
+    helloasso_url_tag() {
+      return `<a href="${this.configuration.helloasso_url}" target="_blank">HelloAsso</a>`;
     },
   },
 };
