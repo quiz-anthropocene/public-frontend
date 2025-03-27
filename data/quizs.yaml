@@ -2398,10 +2398,10 @@
     bananes standardisées...Que se passe-t-il lorsque les technologies et leurs conséquences
     inattendues deviennent si omniprésentes qu'il devient difficile de séparer ce
     qui est 'naturel' de ce qui ne l'est pas ? L'ouvrage 'A Bestiary of the Anthropocene'
-    nous invite à observer, naviguer et à nous orienter dans le tissu de plus en plus
-    artificiel du monde. Explorons ensemble quelques spécimens de ce bestaire d'êtres
-    et objets à la fois insolites et inquiétants, emblématiques de cet anthropocène,
-    cet<em> âge de l'humain</em>.</p>
+    nous invite à observer, à nous orienter dans le tissu de plus en plus artificiel
+    du monde. Explorons ensemble quelques spécimens de ce bestaire d'êtres et objets
+    à la fois insolites et inquiétants, emblématiques de cet anthropocène, cet<em>
+    âge de l'humain</em>.</p>
   conclusion: "<p>Un quiz en mémoire à l'auteur de l'ouvrage dont sont extraites ces\
     \ questions, Nicolas Nova, anthropologue, brutalement disparu à 47 ans en 2024.</p>\r\
     \n\r\n<p> </p>"
@@ -3451,8 +3451,8 @@
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
-  publish: false
-  publish_date: null
-  spotlight: false
+  publish: true
+  publish_date: '2025-03-27'
+  spotlight: true
   created: '2024-07-04'
-  updated: '2024-07-08'
+  updated: '2025-03-27'
