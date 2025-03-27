@@ -34823,8 +34823,8 @@
   created: '2021-01-26'
   updated: '2024-03-05'
 - id: 846
-  text: Quelle quantité de matières premières faut-il pour fabriquer une puce électronique
-    de 2 grammes ?
+  text: Quelle quantité de matières premières (y compris l'eau) faut-il pour fabriquer
+    une puce électronique de 2 grammes ?
   hint: C'est beaucoup et certainement plus que l'on en croit
   type: QCM
   category: 7
@@ -34861,7 +34861,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2024-03-05'
+  updated: '2025-03-26'
 - id: 847
   text: L'eau bleue, c'est l’eau issue des précipitations qui est disponible pour
     l’alimentation des animaux et, après traitement, pour les usages domestiques humains.
@@ -51664,3 +51664,49 @@
   validation_date: null
   created: '2024-07-02'
   updated: '2024-07-08'
+- id: 1267
+  text: Comparons nos poulets actuels à ceux d'avant l'époque romaine. Lesquelles
+    de ces affirmations sont vraies ?
+  hint: ''
+  type: QCM-RM
+  category: 2
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: Leur squelette est différent
+  answer_choice_b: Leur taille a doublé
+  answer_choice_c: Le poids total des poulets d'élevage excède celui de tous les autres
+    oiseaux sur terre
+  answer_choice_d: Ils engraissent beaucoup plus rapidement
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: Toutes les affirmations sont vraies. Par rapport à leur ancêtres
+    pré-romain, non seulement leur squelette mais la chimie de leurs os et leur génétique
+    sont différent. Au cours du XXe siècle, leur masse corporelle a été multipliée
+    par 5. On comptait 26 milliards en 2021. Leurs ossements fourniront une trace
+    géologique majeure pour les archéologues et géologues du futurs. En fait, le poulet
+    pourrait être considéré comme une espèce marqueur de l'âge de l'humain.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://christiandeperthuis.fr/2023/11/19/et-los-de-poulet-devint-le-symbole-de-lanthropocene/
+  answer_source_accessible_url_text: Et l’os de poulet devint le symbole de l’anthropocène,
+    Christian Perthuis, blog, 2023
+  answer_source_scientific_url: https://royalsocietypublishing.org/doi/10.1098/rsos.180325
+  answer_source_scientific_url_text: The broiler chicken as a signal of a human reconfigured
+    biosphere Carys E. Bennett , Richard Thomas , Mark Williams , Jan Zalasiewicz
+    , Matt Edgeworth , Holly Miller, Ben Coles , Alison Foster , Emily J. Burton and
+    Upenyu Marume, Dec 2018
+  answer_book_recommendation: A bestiary of the anthropocene, Nicolas Nova & Disnovation.org
+  answer_image_url: ''
+  answer_image_url_text: Un poulet âgé de cinq semaines, à côté de son ancêtre (la
+    poule rouge « de jungle ») âgée de six semaines
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-03-26'
+  updated: '2025-03-26'
