@@ -2395,18 +2395,29 @@
   slug: un-bestiaire-de-lanthropocene
   introduction: <p>Plastiglomérats, chiens robots de surveillance, fordite, gazon
     artificiel, arbres à antennes, Sars-Covid-2, montagnes décapitées, aigles anti-drones,
-    bananes standardisées...L'ouvrage 'A Bestiary of the Anthropocène' nous invite
+    bananes standardisées...L'ouvrage 'A Bestiary of the Anthropocene' nous invite
     à observer, naviguer et à nous orienter dans le tissu de plus en plus artificiel
-    du monde. Partons ensemble à la découverte de ce bestaire d'êtres et objets à
-    la fois insolites et inquiétants, emblématiques de cette <em>ère de l'humain</em>.</p>
-  conclusion: ''
+    du monde. Explorons ensemble quelques spécimens de ce bestaire d'êtres et objets
+    à la fois insolites et inquiétants, emblématiques de cette <em>ère de l'humain</em>.</p>
+  conclusion: "<p>L'ouvrage cherche ainsi à saisir ce moment précis où la biosphère\
+    \ et la technosphère fusionnent et s'imbriquent pour former un nouvel ensemble\
+    \ hybride. Que se passe-t-il lorsque les technologies et leurs conséquences inattendues\
+    \ deviennent si omniprésentes qu'il devient difficile de séparer ce qui est «\
+    \ naturel » de ce qui ne l'est pas ? Un poil vertigineux, n'est-ce pas ?</p>\r\
+    \n\r\n<p> </p>"
   questions:
   - 1090
-  question_count: 1
+  - 1091
+  - 1267
+  - 1268
+  - 1269
+  - 1270
+  - 1271
+  question_count: 7
   tags:
   - 26
   - 32
-  difficulty_average: 2.0
+  difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/84e6d9a7.jpg
   has_audio: false
@@ -2420,7 +2431,7 @@
   publish_date: null
   spotlight: false
   created: '2022-11-27'
-  updated: '2023-02-05'
+  updated: '2025-03-27'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture

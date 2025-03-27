@@ -44277,7 +44277,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-11-26'
-  updated: '2023-09-28'
+  updated: '2025-03-27'
 - id: 1091
   text: Halobates Sericeus, ou patineur d'eau, est un cousin de nos araignées d'eau,
     qui vit à la surface des océans. Avec l'accumulation de microplastiques à la surface,
@@ -44324,7 +44324,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-12-04'
-  updated: '2022-12-09'
+  updated: '2025-03-27'
 - id: 1092
   text: Pour produire une quantité donnée de végétal, le maïs nécessite...
   hint: ''
@@ -51709,4 +51709,194 @@
   validator: null
   validation_date: null
   created: '2025-03-26'
-  updated: '2025-03-26'
+  updated: '2025-03-27'
+- id: 1268
+  text: Qu'est-ce qu'un tétrapode côtier ?
+  hint: Pas sûr que ce soit un animal...
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Une classe de vertébrés marins avec deux paires de membres
+  answer_choice_b: Un bloc de béton à quatre pieds
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Les tétrapodes sont utilisés sur les côtes en ingénierie hydraulique,
+    pour limiter l'érosion ou comme brise-lame pour résister à la houle et aux vagues.
+    Grâce à leur masse, ils restent stables même dans les conditions les plus extrêmes,
+    mais se dégradent malgré tout sous l'effet du temps. Ils ont ainsi façonné une
+    partie de nos paysages côtiers.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/T%C3%A9trapode_(structure)
+  answer_source_accessible_url_text: Article wikipédia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-03-27'
+  updated: '2025-03-27'
+- id: 1269
+  text: Qu'entend-on par 'le monde urk'
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Le monde actuel tel qu'il est devenu et qui nous dégoûte
+  answer_choice_b: Un monde imaginaire dans un roman d'anticipation
+  answer_choice_c: Des infrastructures souterraines abandonnées
+  answer_choice_d: Une communauté humaine particulière dans un village hollandais
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Urk est effectivement le nom d'un village hollandais...Mais\
+    \ urk, abréviation de urkopplad en suédois signifie « déconnecté ». C'est un terme\
+    \ inventé par Björn Wallsten pour désigner les infrastructures urbaines en hibernation\
+    \ telles que les câbles et les tuyaux qui ont été laissés dans leur emplacement\
+    \ souterrain après avoir été déconnectés.\r\nAprès des décennies d'utilisation\
+    \ et de déconnexion, les canalisations de chauffage, les vestiges d'anciennes\
+    \ lignes de tramway, les lignes électriques désaffectées, les conduites de gaz\
+    \ et les câbles électriques lourds qui alimentaient des usines aujourd'hui désaffectées\
+    \ constituent un gisement de métaux sous les rues des villes. Bien que la législation\
+    \ environnementale ne soit pas conçue pour gérer ce type de stockage de métaux,\
+    \ ces vestiges d'infrastructures témoignent du gaspillage persistant des ressources\
+    \ minérales comme le cuivre. Compte tenu du coût de l'excavation et du faible\
+    \ prix des ressources, la récupération du métal n'est pas toujours très rentable.\
+    \ Cependant, les recherches actuelles en sciences de l'environnement visent à\
+    \ étudier les villes comme des mines et des sources de ressources pour de nombreux\
+    \ matériaux différents. Le monde d'Urk pourrait être exploité afin de réduire\
+    \ le gaspillage persistant des ressources minérales dans la société."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/Monde_urk
+  answer_source_accessible_url_text: Article wikipédia
+  answer_source_scientific_url: https://liu.se/en/article/welcome-to-the-world-of-the-urks
+  answer_source_scientific_url_text: Welcome to the world of urks,  Linköping University
+    2016
+  answer_book_recommendation: A Bestiary of Anthropocene, Nicolas Nova & Disnovation.org
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-03-27'
+  updated: '2025-03-27'
+- id: 1270
+  text: Une vache fistulée est...
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: '...une vache génétiquement modifiée'
+  answer_choice_b: '...une vache munie d''un hublot'
+  answer_choice_c: '...une vache atteinte d''une maladie de type épidémique'
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Les vaches fistulées, ou  canulées, sont des bovins qui ont\
+    \ été chirurgicalement équipés d'un dispositif permettant l'accès au rumen, l'un\
+    \ des quatre compartiments gastriques de l'animal où se déroule la majeure partie\
+    \ de la digestion. La canulation nécessite la pose d'un bouchon en plastique permanent\
+    \ et amovible sur le flanc de la vache, protégeant ainsi l'orifice du monde extérieur.\
+    \ Cette procédure est généralement réalisée dans le cadre de recherches vétérinaires\
+    \ et agronomiques, étudiant notamment la digestion ou la qualité nutritionnelle\
+    \ des aliments en milieu agricole, ainsi que l'amélioration du microbiome. Ce\
+    \ trou peut en effet permettre le transfert de microbes entre vaches saines et\
+    \ malades, un processus appelé « transfaunation ».\r\nL'idée de canuler les animaux\
+    \ a été documentée pour la première fois à la fin des années 1920, mais les rapports\
+    \ sur les vaches utilisées de cette manière pour la recherche scientifique remontent\
+    \ à 1833. Bien que les vaches fistulisées aient tendance à avoir une durée de\
+    \ vie plus longue en raison des soins qui leur sont prodigués, les défenseurs\
+    \ des droits des animaux critiquent depuis longtemps de telles activités."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/Vache_%C3%A0_hublot
+  answer_source_accessible_url_text: Article wikipédia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-03-27'
+  updated: '2025-03-27'
+- id: 1271
+  text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
+  hint: ''
+  type: VF
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Question piège : on n'élève pas des araignées, mais des chèvres\
+    \ pour cela ! \r\nPlus résistant que le Kevlar et plus extensible que le nylon,\
+    \ le BioSteel® est un matériau à base de fibres, fabriqué à partir d'une protéine\
+    \ recombinante semblable à la soie d'araignée, extraite du lait de chèvres génétiquement\
+    \ modifiées. Si la soie d'araignée a toujours été reconnue pour sa grande résistance,\
+    \ les tentatives de production en masse ont généralement échoué, principalement\
+    \ parce que les araignées peuvent se battre et se cannibaliser lorsqu'elles sont\
+    \ maintenues à proximité. Une entreprise et des chercheurs du Wyoming ont découvert\
+    \ comment contourner ce problème en insérant les gènes responsables de la production\
+    \ de soie de l'araignée à sphères dorées dans le génome des chèvres. Elles produisent\
+    \ du lait, qui peut être séparé et raffiné plusieurs fois, lyophilisé et transformé\
+    \ en poudre pouvant ensuite être filée en fibre, transformée en revêtement ou\
+    \ en adhésif.\r\nGrâce à leur élasticité et à leur résistance, ces fibres pourraient\
+    \ avoir plusieurs applications médicales, notamment pour la fabrication de ligaments\
+    \ ou de tendons artificiels pour les sutures oculaires et les réparations de mâchoires.\
+    \ La soie d'araignée produite par les chèvres pourrait également servir à la fabrication\
+    \ de gilets pare-balles et d'airbags automobiles améliorés. Les chercheurs étudient\
+    \ actuellement l'utilisation de protéines similaires dans la luzerne génétiquement\
+    \ modifiée, ce qui pourrait produire des quantités encore plus importantes de soie."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.theguardian.com/science/2012/jan/14/synthetic-biology-spider-goat-genetics
+  answer_source_accessible_url_text: Synthetic biology and the rise of the 'spider-goats',
+    the Guardian, 2012
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-03-27'
+  updated: '2025-03-27'
