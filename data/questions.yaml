@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2024-06-12'
+  updated: '2025-03-28'
 - id: 2
   text: 'Imaginez : demain, toute l''énergie consommée en France doit être alimentée
     par des humains. En supposant que chacun d''entre eux pédale 8h par jour pour
@@ -4036,7 +4036,7 @@
   validator: 5
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-11-04'
+  updated: '2025-03-28'
 - id: 96
   text: Quelle quantité d'aliments jette-t-on chaque année en France par personne
     ?
@@ -17997,11 +17997,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-03-28'
 - id: 445
   text: Quel est le poids relatif moyen de l’habillement dans l’empreinte carbone
     d'un Français ?
@@ -22942,11 +22942,11 @@
   answer_extra_info: ''
   author: 23
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-08-10'
-  updated: '2022-04-16'
+  updated: '2025-03-28'
 - id: 570
   text: Quelle surface arable est perdue chaque jour dans le monde du fait de la salinisation
     ?
@@ -23170,7 +23170,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2024-03-19'
+  updated: '2025-03-28'
 - id: 575
   text: Vrai ou faux ? La taille d'une société est liée aux croyances religieuses
     ?
@@ -36967,11 +36967,10 @@
   answer_choice_d: Le chocolat
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: "Le chocolat présente une empreinte de 17,000 litres pour 1\
-    \ kg ! Il est suivi de près par la viande de bœuf, qui est la viande la plus consommatrice\
-    \ d'eau (15,500 litres). Puis le coton (10,000 litres), et loin derrière le blé\
-    \ (1,800 litres).\r\nCes chiffres sont par kg. Une portion de chocolat de 50 g\
-    \ aura donc une empreinte eau bien moindre qu'un steak de bœuf de 400 g !"
+  answer_explanation: Le chocolat présente une empreinte de 17,000 litres pour 1 kg
+    ! Il est suivi de près par la viande de bœuf, qui est la viande la plus consommatrice
+    d'eau (15,500 litres). Puis le coton (10,000 litres), et loin derrière le blé
+    (1,800 litres).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -36993,7 +36992,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2023-02-14'
+  updated: '2025-03-28'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -38086,10 +38085,10 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-03-05'
+  updated: '2025-03-28'
 - id: 923
-  text: Quelle proportion des poissons pêchés le sont à la limite ou au-delà de leur
-    capacité de régénération ?
+  text: Parmi les poissons que l'on pêche, quelle proportion est exploitée à la limite
+    ou au-delà de leur capacité de régénération ?
   hint: ''
   type: QCM
   category: 2
@@ -38129,9 +38128,10 @@
   validator: 2
   validation_date: '2021-02-25'
   created: '2021-02-18'
-  updated: '2024-03-05'
+  updated: '2025-03-28'
 - id: 924
-  text: Parmi les fruits et légumes que nous consommons, combien sont importés ?
+  text: Quelle proportion des fruits et légumes que nous consommons vient de l'étranger
+    ?
   hint: ''
   type: QCM
   category: 2
@@ -38150,7 +38150,8 @@
     \ d’œuvre rendent notre système alimentaire particulièrement vulnérable.\r\nC’est\
     \ quand tout va bien qu’il faut relocaliser et soutenir nos productions locales,\
     \ afin qu’elles soient opérationnelles quand tout va mal. Qui plus est, ce qui\
-    \ est bon pour la résilience territoriale réduit aussi les impacts sur le climat."
+    \ est bon pour la résilience territoriale réduit aussi souvent les impacts sur\
+    \ le climat."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38171,7 +38172,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-03-05'
+  updated: '2025-03-28'
 - id: 925
   text: La moitié des céréales produites en France est exportée. Dans la moitié qui
     reste pour le marché français, quelle proportion est destinée à l’alimentation
@@ -38223,8 +38224,9 @@
   created: '2021-02-21'
   updated: '2024-03-05'
 - id: 926
-  text: A quelle empreinte forêt la consommation en œufs et produits laitiers d'un
-    Français correspond-elle ?
+  text: "L'empreinte forêt représente la surface de forêt nécessaire pour subvenir\
+    \ au mode de vie et de consommation donnés. \r\nA quelle empreinte forêt la consommation\
+    \ moyenne en œufs et produits laitiers d'un Français correspond-elle ?"
   hint: ''
   type: QCM
   category: 2
@@ -38239,10 +38241,9 @@
   answer_choice_d: 350 m²
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: L’Empreinte Forêt globale d’un Français est de 352 m². Dans
-    ces 352m2, 30m² sont pour les oeufs et 30m² pour les produits laitiers (via l'alimentation
-    animale). La déforestation représente environ 10% des émissions de CO2 à l’échelle
-    mondiale.
+  answer_explanation: L'empreinte moyenne total est de 352m2. 30m² sont pour les œufs
+    et 30m² pour les produits laitiers (via l'alimentation animale). La déforestation
+    représente environ 10% des émissions de CO2 à l’échelle mondiale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38261,7 +38262,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-03-05'
+  updated: '2025-03-28'
 - id: 927
   text: Imaginons que nous réunissions toutes les vaches du monde dans un même pays.
     En quelle position ce pays arriverait-il en termes d’émissions de gaz à effet
@@ -38306,7 +38307,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-06-12'
+  updated: '2025-03-28'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -38355,10 +38356,11 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-03-05'
+  updated: '2025-03-28'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
-    par l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes) ?
+    par et pour l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes)
+    ?
   hint: ''
   type: QCM
   category: 2
@@ -38403,7 +38405,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2024-02-28'
+  updated: '2025-03-28'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -39988,7 +39990,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2023-02-07'
+  updated: '2025-03-28'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -44185,7 +44187,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-09-28'
+  updated: '2025-03-28'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?

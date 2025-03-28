@@ -3449,3 +3449,38 @@
   spotlight: true
   created: '2024-07-04'
   updated: '2025-03-28'
+- id: 118
+  name: Quiz alimentation Eléfàn
+  slug: quiz-alimentation-elefan
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 1
+  - 95
+  - 574
+  - 894
+  - 922
+  - 923
+  - 924
+  - 927
+  - 928
+  - 929
+  - 966
+  - 1088
+  question_count: 12
+  tags: []
+  difficulty_average: 2.1
+  language: FRENCH
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-03-28'
+  updated: '2025-03-28'
