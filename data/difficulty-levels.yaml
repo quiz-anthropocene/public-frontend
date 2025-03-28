@@ -5,15 +5,15 @@
 - name: Easy
   value: 1
   emoji: 🏆
-  question_count: 104
+  question_count: 105
 - name: Medium
   value: 2
   emoji: 🏆🏆
-  question_count: 271
+  question_count: 275
 - name: Hard
   value: 3
   emoji: 🏆🏆🏆
-  question_count: 200
+  question_count: 203
 - name: Expert
   value: 4
   emoji: 🏆🏆🏆🏆
