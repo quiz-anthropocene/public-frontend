@@ -2694,14 +2694,14 @@
   authors:
   - 4
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2023-02-16'
-  updated: '2023-02-21'
+  updated: '2025-03-28'
 - id: 99
   name: L'affresco del Clima Junior spiegato alla mia fami
   slug: laffresco-del-clima-junior-spiegato-alla-mia-fami
@@ -3291,11 +3291,11 @@
   validation_status: VALIDATED
   validator: 1
   validation_date: '2024-05-28'
-  publish: false
-  publish_date: null
-  spotlight: false
+  publish: true
+  publish_date: '2025-03-27'
+  spotlight: true
   created: '2024-05-28'
-  updated: '2024-05-29'
+  updated: '2025-03-27'
 - id: 114
   name: Affresco del Clima JR - quiz famiglia
   slug: affresco-clima-junior
