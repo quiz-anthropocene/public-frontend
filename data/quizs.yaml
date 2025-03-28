@@ -2393,18 +2393,17 @@
 - id: 91
   name: Un bestiaire de l'Anthropocène
   slug: un-bestiaire-de-lanthropocene
-  introduction: <p>Plastiglomérats, chiens robots de surveillance, fordite, gazon
-    artificiel, arbres à antennes, Sars-Covid-2, montagnes décapitées, aigles anti-drones,
-    bananes standardisées...Que se passe-t-il lorsque les technologies et leurs conséquences
-    inattendues deviennent si omniprésentes qu'il devient difficile de séparer ce
-    qui est 'naturel' de ce qui ne l'est pas ? L'ouvrage 'A Bestiary of the Anthropocene'
-    nous invite à observer, à nous orienter dans le tissu de plus en plus artificiel
-    du monde. Explorons ensemble quelques spécimens de ce bestaire d'êtres et objets
-    à la fois insolites et inquiétants, emblématiques de cet anthropocène, cet<em>
-    âge de l'humain</em>.</p>
-  conclusion: "<p>Un quiz en mémoire à l'auteur de l'ouvrage dont sont extraites ces\
-    \ questions, Nicolas Nova, anthropologue, brutalement disparu à 47 ans en 2024.</p>\r\
-    \n\r\n<p> </p>"
+  introduction: <p>Gazon artificiel, montagnes décapitées, aigles anti-drones, bananes
+    standardisées...Que se passe-t-il lorsque les technologies et leurs conséquences
+    se mèlent si étroitement à notre environnement ?  L'ouvrage 'A Bestiary of the
+    Anthropocene' nous invite à nous arrêter et à réfléchir sur quelques spécimens
+    de ce bestaire d'êtres et objets à la fois insolites et inquiétants, emblématiques
+    de cet anthropocène, cet<em> âge de l'humain</em>.</p>
+  conclusion: "<p>Un quiz en mémoire à l'auteur de l'ouvrage <a href=\"https://www.bestiaryanthropocene.com/\"\
+    >A Bestiary of Anthropocene</a> dont sont extraites ces questions, Nicolas Nova,\
+    \ anthropologue, brutalement disparu à 47 ans en 2024. Pour aller plus loin, cette\
+    \ <a href=\"http://disnovation.org/bestiary_videoessay.php\">vidéo</a> de 15 min\
+    \ issue d'une exposition itinérante de disnovation.org</p>\r\n\r\n<p> </p>"
   questions:
   - 1090
   - 1091
@@ -2431,7 +2430,7 @@
   publish_date: null
   spotlight: false
   created: '2022-11-27'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
@@ -2800,14 +2799,14 @@
   authors:
   - 75
   visibility: HIDDEN
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2023-08-15'
-  updated: '2023-08-15'
+  updated: '2025-03-28'
 - id: 103
   name: Burger Quiz des sols, pour se mettre en apétit!
   slug: burger-quiz-des-sols-pour-se-mettre-en-apetit
@@ -3026,7 +3025,7 @@
     \ è estremamente educativo. Si tratta di un'introduzione, della durata di 3 ore,\
     \ ai meccanismi del clima e alle conseguenze del suo cambiamento. L'associazione\
     \ che l'ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni\
-    \ di persone nei primi 5 anni di attività.</p> \n\n<p>Questo quiz si concentra\
+    \ di persone nei primi 5 anni di attività.</p>\r\n\r\n<p>Questo quiz si concentra\
     \ sul Set di carte n°1 usato durante il laboratorio.</p>"
   conclusion: <p>Ora puoi affrontare il Set n°2! O, meglio ancora, iscriverti a un
     laboratorio. Maggiori informazioni <a href="https://climatefresk.org">qui</a>.</p>
@@ -3055,14 +3054,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 108
   name: Affresco del Clima - Set n°2
   slug: affresco-clima-set-2
@@ -3071,12 +3070,10 @@
     \ è estremamente educativo. Si tratta di un'introduzione, della durata di 3 ore,\
     \ ai meccanismi del clima e alle conseguenze del suo cambiamento. L'associazione\
     \ che l'ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni\
-    \ di persone nei primi 5 anni di attività.</p> \n\n<p>Questo quiz si concentra\
+    \ di persone nei primi 5 anni di attività.</p>\r\n\r\n<p>Questo quiz si concentra\
     \ sul Set di carte n°2 usato durante il laboratorio.</p>"
-  conclusion: '<p>Ora puoi affrontare il Set n°3! O, meglio ancora, iscriverti a un
+  conclusion: <p>Ora puoi affrontare il Set n°3! O, meglio ancora, iscriverti a un
     laboratorio. Maggiori informazioni <a href="https://climatefresk.org">qui</a>.</p>
-
-    '
   questions:
   - 1168
   - 1169
@@ -3104,14 +3101,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 109
   name: Affresco del Clima - Set n°3
   slug: affresco-clima-set-3
@@ -3120,7 +3117,7 @@
     \ è estremamente educativo. Si tratta di un'introduzione, della durata di 3 ore,\
     \ ai meccanismi del clima e alle conseguenze del suo cambiamento. L'associazione\
     \ che l'ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni\
-    \ di persone nei primi 5 anni di attività.</p> \n\n<p>Questo quiz si concentra\
+    \ di persone nei primi 5 anni di attività.</p>\r\n\r\n<p>Questo quiz si concentra\
     \ sul Set di carte n°3 usato durante il laboratorio.</p>"
   conclusion: <p>Ora puoi affrontare il Set n°4! Ma sarebbe proprio molto meglio partecipare
     a un laboratorio. Fallo <a href="https://climatefresk.org">qui</a>.</p>
@@ -3140,14 +3137,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 110
   name: Affresco del Clima - Set n°4
   slug: affresco-clima-set-4
@@ -3156,7 +3153,7 @@
     \ è estremamente educativo. Si tratta di un'introduzione, della durata di 3 ore,\
     \ ai meccanismi del clima e alle conseguenze del suo cambiamento. L'associazione\
     \ che l'ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni\
-    \ di persone nei primi 5 anni di attività.</p> \n\n<p>Questo quiz si concentra\
+    \ di persone nei primi 5 anni di attività.</p>\r\n\r\n<p>Questo quiz si concentra\
     \ sul Set di carte n°4 usato durante il laboratorio.</p>"
   conclusion: <p>Ora puoi affrontare il Set n°5! Ma sarebbe proprio molto meglio partecipare
     a un laboratorio. Fallo <a href="https://climatefresk.org">qui</a>.</p>
@@ -3173,14 +3170,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 111
   name: Affresco del Clima - Set n°5
   slug: affresco-clima-set-5
@@ -3189,7 +3186,7 @@
     \ è estremamente educativo. Si tratta di un'introduzione, della durata di 3 ore,\
     \ ai meccanismi del clima e alle conseguenze del suo cambiamento. L'associazione\
     \ che l'ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni\
-    \ di persone nei primi 5 anni di attività.</p> \n\n<p>Questo quiz si concentra\
+    \ di persone nei primi 5 anni di attività.</p>\r\n\r\n<p>Questo quiz si concentra\
     \ sul Set di carte n°5 usato durante il laboratorio.</p>"
   conclusion: <p>Hai completato tutti i Set?! Complimenti. Se non l'hai ancora fatto,
     iscriviti a un <a href="https://climatefresk.org">laboratorio</a>.</p>
@@ -3206,28 +3203,25 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 112
   name: Affresco del Clima - per approfondire
   slug: affresco-clima-approfondimento
-  introduction: '<p>L''Affresco del clima è un laboratorio divertente, partecipativo
-    e creativo sui cambiamenti climatici. Si basa sull''intelligenza collettiva ed
-    è estremamente educativo. Si tratta di un''introduzione, della durata di 3 ore,
-    ai meccanismi del clima e alle conseguenze del suo cambiamento. L''associazione
-    che l''ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni
-    di persone nei primi 5 anni di attività.</p>
-
-
-    <p>Questo quiz vi offre l''opportunità di consolidare le vostre conoscenze sulla
-    crisi climatica e persino approfondirle - le domande non sono legate alle 42 carte
-    del gioco.</p>'
+  introduction: "<p>L'Affresco del clima è un laboratorio divertente, partecipativo\
+    \ e creativo sui cambiamenti climatici. Si basa sull'intelligenza collettiva ed\
+    \ è estremamente educativo. Si tratta di un'introduzione, della durata di 3 ore,\
+    \ ai meccanismi del clima e alle conseguenze del suo cambiamento. L'associazione\
+    \ che l'ha creato ha sensibilizzato sulle questioni climatiche più di 1,5 milioni\
+    \ di persone nei primi 5 anni di attività.</p>\r\n\r\n<p>Questo quiz vi offre\
+    \ l'opportunità di consolidare le vostre conoscenze sulla crisi climatica e persino\
+    \ approfondirle - le domande non sono legate alle 42 carte del gioco.</p>"
   conclusion: <p><a href="https://climatefresk.org">https://climatefresk.org</a></p>
   questions:
   - 1196
@@ -3247,14 +3241,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 113
   name: Affresco del Clima - introduzione
   slug: affresco-clima-intro
@@ -3299,12 +3293,11 @@
 - id: 114
   name: Affresco del Clima JR - quiz famiglia
   slug: affresco-clima-junior
-  introduction: '<p>Questo quiz è rivolto principalmente alle ragazze e ai ragazzi
-    che hanno partecipato a un Affresco del Clima JUNIOR.<br />
-
-    Hai appena partecipato a un Affresco Junior e vuoi condividere l''esperienza con
-    la tua famiglia? Mettili alla prova con questo quiz e aiutati con le spiegazioni
-    per raccontare loro quello che hai imparato!</p>'
+  introduction: "<p>Questo quiz è rivolto principalmente alle ragazze e ai ragazzi\
+    \ che hanno partecipato a un Affresco del Clima JUNIOR.<br />\r\nHai appena partecipato\
+    \ a un Affresco Junior e vuoi condividere l'esperienza con la tua famiglia? Mettili\
+    \ alla prova con questo quiz e aiutati con le spiegazioni per raccontare loro\
+    \ quello che hai imparato!</p>"
   conclusion: '<p>Congratulazioni!  Allora, hai imparato o insegnato qualcosa? Una
     buona sintesi si trova in questo <a href="https://www.youtube.com/watch?v=x8-T09AWmH4">video</a>.
     Il prossimo compito: lancia una discussione in famiglia su cosa potete fare per
@@ -3328,14 +3321,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2025-03-28'
 - id: 115
   name: L'affresco del clima spiegato alla mia famiglia
   slug: il-clima-spiegato-alla-mia-famiglia
@@ -3448,11 +3441,11 @@
   authors:
   - 79
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-03-28'
   publish: true
   publish_date: '2025-03-27'
   spotlight: true
   created: '2024-07-04'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
