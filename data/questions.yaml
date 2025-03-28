@@ -44234,29 +44234,29 @@
   created: '2022-11-26'
   updated: '2023-02-04'
 - id: 1090
-  text: Qu'appelle-t-on le plastiglomérat ?
+  text: Que désigne le plastiglomérat ?
   hint: ''
   type: QCM
   category: 3
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: Une roche comportant des fragments de plastique
-  answer_choice_b: L'ensemble des acteurs industriels du plastique
+  answer_choice_a: Une roche mélée de fragments de plastique
+  answer_choice_b: Un lobby d'industriels du plastique
   answer_choice_c: Un matériau de construction à base de plastique recyclé
   answer_choice_d: Le continent de débris plastiques flottant sur l'océan Pacifique
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: Il s'agit en effet d'un nouveau type de roche qui a été découvert
-    sur des plages à Hawaï. On trouve dans sa composition du plastique fondu, des
-    débris marins et du basalt. Il est issu de la combustion de plastique lors de
-    feux de camp. Ailleurs sur terre, on a également repéré du 'plasticrust', un nouveau
-    type de pollution plastique sous forme de débris plastiques qui se nichent dans
-    les anfractuosités des roches exposées aux marées. Le plastique n'a que cent ans
-    d'existence, mais ces roches illustrent comment il peut s'amalgamer avec d'autres
-    éléments naturels, quasiment en temps réel par rapport aux échelles géologiques.
-    On peut les voir comme des reliques que nos civilisations industrielles lèguent
-    aux archéologues du futur.
+  answer_explanation: "Il s'agit d'un nouveau type de roche qui a été découvert sur\
+    \ des plages à Hawaï. On trouve dans sa composition du plastique fondu, des débris\
+    \ marins et du basalt. Il est issu de la combustion de plastique lors de feux\
+    \ de camp. \r\nAilleurs sur terre, on a également repéré du 'plasticrust', un\
+    \ nouveau type de pollution plastique sous forme de débris plastiques qui se nichent\
+    \ dans les anfractuosités des roches exposées aux marées. Le plastique n'a que\
+    \ cent ans d'existence, mais ces roches illustrent comment il peut s'amalgamer\
+    \ avec d'autres éléments naturels, quasiment en temps réel par rapport aux échelles\
+    \ géologiques. On peut les voir comme des reliques que nos civilisations industrielles\
+    \ lèguent aux archéologues du futur."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44277,11 +44277,11 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-11-26'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
 - id: 1091
-  text: Halobates Sericeus, ou patineur d'eau, est un cousin de nos araignées d'eau,
-    qui vit à la surface des océans. Avec l'accumulation de microplastiques à la surface,
-    sa population s'est largement développée. Pour quelle raison ?
+  text: Le patineur d'eau est un cousin de nos araignées d'eau, qui vit à la surface
+    des océans. Avec l'accumulation de microplastiques à la surface, sa population
+    s'est largement développée. Pour quelle raison ?
   hint: ''
   type: QCM
   category: 3
@@ -44295,14 +44295,14 @@
   answer_choice_d: Les microplastiques lui fournissent des abris contre ses prédateurs
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Le patineur d'eau se développe en effet à la surface du 'vortex
-    de plastique'. Il s'agit d'un immense espace marin dans le Pacifique, d'une surface
-    estimée en 2012 à 5 fois la France, de 30 mètres de profondeur maxi, et qui contient
-    plusieurs millions de tonnes de plastique. Le patineur pond normalement ses œufs
-    sur des débris de coquillages ou des plumes d'oiseaux. Les microplastique plastiques
-    lui offre un nouvel habitat pour la ponte. Son explosion démographique pourrait
-    profondément perturber l'ensemble de l'écosystème marin concerné en fragilisant
-    sa base.
+  answer_explanation: "Le patineur d'eau (Halobates Sericeus) se développe en effet\
+    \ à la surface du 'vortex de plastique'. Cet immense espace marin dans le Pacifique\
+    \ s'étend sur une surface estimée en 2012 à 5 fois la France, une profondeur de\
+    \ 30 mètres et contient plusieurs millions de tonnes de plastique.\r\nLe patineur\
+    \ pond normalement ses œufs sur des débris de coquillages ou des plumes d'oiseaux.\
+    \ Mais les microplastiques lui offrent un nouvel habitat pour la ponte. Son explosion\
+    \ démographique pourrait profondément perturber l'ensemble de l'écosystème marin concerné\
+    \ en fragilisant sa base."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44314,7 +44314,8 @@
   answer_source_scientific_url_text: Marine biology Increased oceanic microplastic
     debris enhances oviposition in an endemic pelagic insect, Miriam C. Goldstein
     , Marci Rosenberg and Lanna Cheng. Published 09 May 2012
-  answer_book_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
+  answer_book_recommendation: D'après A Bestiary of the Anthropocene, Nicolas Nova
+    & Disnovation.org
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2cf807f2.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -44324,7 +44325,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-12-04'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
 - id: 1092
   text: Pour produire une quantité donnée de végétal, le maïs nécessite...
   hint: ''
@@ -46951,11 +46952,11 @@
   answer_extra_info: ''
   author: 75
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2023-08-15'
-  updated: '2023-08-15'
+  updated: '2025-03-28'
 - id: 1153
   text: "A/ QUELQUES DÉFINITIONS\r\nFlexitarien, végétarien, végétalien, végan, pescetarien…\
     \ De nombreux termes sont utilisés pour décrire nos régimes alimentaires."
@@ -51680,12 +51681,13 @@
   answer_choice_d: Ils engraissent beaucoup plus rapidement
   answer_correct: abcd
   has_ordered_answers: true
-  answer_explanation: Toutes les affirmations sont vraies. Par rapport à leur ancêtres
-    pré-romain, non seulement leur squelette mais la chimie de leurs os et leur génétique
-    sont différent. Au cours du XXe siècle, leur masse corporelle a été multipliée
-    par 5. On comptait 26 milliards en 2021. Leurs ossements fourniront une trace
-    géologique majeure pour les archéologues et géologues du futurs. En fait, le poulet
-    pourrait être considéré comme une espèce marqueur de l'âge de l'humain.
+  answer_explanation: "Toutes les affirmations sont vraies. Non seulement leur squelette\
+    \ mais la chimie de leurs os et leur génétique sont différents. Au cours du seul\
+    \ XXe siècle, leur masse corporelle a été multipliée par 5. On en comptait 26\
+    \ milliards en 2021, trois fois plus que tous leurs autres oiseaux réunis.\r\n\
+    Les os si nombreux de ces poulets si particuliers que notre civilisation laissera\
+    \ derrière elle intrigueront peut-être les chercheurs chercheurs du futurs. Au\
+    \ point qu'on peut voir en cette espère un marqueur de l'âge de l'humain."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51709,26 +51711,26 @@
   validator: null
   validation_date: null
   created: '2025-03-26'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
 - id: 1268
-  text: Qu'est-ce qu'un tétrapode côtier ?
+  text: Certaines de nos côtes regorgent de tétrapodes. De quoi s'agit-il ?
   hint: Pas sûr que ce soit un animal...
   type: QCM
   category: 8
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Une classe de vertébrés marins avec deux paires de membres
-  answer_choice_b: Un bloc de béton à quatre pieds
+  answer_choice_a: D'une classe de vertébrés marins avec deux paires de membres
+  answer_choice_b: De blocs de béton à quatre pieds
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Les tétrapodes sont utilisés sur les côtes en ingénierie hydraulique,
-    pour limiter l'érosion ou comme brise-lame pour résister à la houle et aux vagues.
-    Grâce à leur masse, ils restent stables même dans les conditions les plus extrêmes,
-    mais se dégradent malgré tout sous l'effet du temps. Ils ont ainsi façonné une
-    partie de nos paysages côtiers.
+    pour limiter l'érosion ou comme brise-lame pour protéger de la houle et des vagues.
+    Grâce à leur masse, ils résistent aux tempêtes mais se dégradent malgré tout sous
+    l'effet du temps. Ils ont refaçonné considérablement une partie de nos paysages
+    côtiers.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51747,7 +51749,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''
@@ -51759,26 +51761,20 @@
   answer_choice_a: Le monde actuel tel qu'il est devenu et qui nous dégoûte
   answer_choice_b: Un monde imaginaire dans un roman d'anticipation
   answer_choice_c: Des infrastructures souterraines abandonnées
-  answer_choice_d: Une communauté humaine particulière dans un village hollandais
+  answer_choice_d: Le nom d'un village hollandais où vit une communauté particulière
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Urk est effectivement le nom d'un village hollandais...Mais\
-    \ urk, abréviation de urkopplad en suédois signifie « déconnecté ». C'est un terme\
-    \ inventé par Björn Wallsten pour désigner les infrastructures urbaines en hibernation\
-    \ telles que les câbles et les tuyaux qui ont été laissés dans leur emplacement\
-    \ souterrain après avoir été déconnectés.\r\nAprès des décennies d'utilisation\
-    \ et de déconnexion, les canalisations de chauffage, les vestiges d'anciennes\
-    \ lignes de tramway, les lignes électriques désaffectées, les conduites de gaz\
-    \ et les câbles électriques lourds qui alimentaient des usines aujourd'hui désaffectées\
-    \ constituent un gisement de métaux sous les rues des villes. Bien que la législation\
-    \ environnementale ne soit pas conçue pour gérer ce type de stockage de métaux,\
-    \ ces vestiges d'infrastructures témoignent du gaspillage persistant des ressources\
-    \ minérales comme le cuivre. Compte tenu du coût de l'excavation et du faible\
-    \ prix des ressources, la récupération du métal n'est pas toujours très rentable.\
-    \ Cependant, les recherches actuelles en sciences de l'environnement visent à\
-    \ étudier les villes comme des mines et des sources de ressources pour de nombreux\
-    \ matériaux différents. Le monde d'Urk pourrait être exploité afin de réduire\
-    \ le gaspillage persistant des ressources minérales dans la société."
+  answer_explanation: Urk est effectivement le nom d'un village hollandais...Mais
+    ici, urk est l'abréviation d'un mot suédois qui signifie « déconnecté ». Le sociologue
+    Björn Wallsten a proposé ce terme pour désigner les infrastructures urbaines souterraines
+    laissées en hibernation  avoir été déconnectées. Canalisations de chauffage, restes
+    d'anciennes lignes de tramway, lignes électriques, conduites de gaz... Autant
+    de gisements de métaux sous les rues de nos villes. Ces vestiges témoignent du
+    gaspillage persistant des ressources minérales, le cuivre en particulier. Compte
+    tenu du coût de l'excavation et du faible prix des ressources, la récupération
+    du métal n'est pas toujours très rentable. Cependant, les recherches actuelles
+    en sciences de l'environnement tendent à les considérer comme de véritables mines
+    urbaines que l'on pourrait ré-exploiter.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51788,7 +51784,7 @@
   answer_source_scientific_url: https://liu.se/en/article/welcome-to-the-world-of-the-urks
   answer_source_scientific_url_text: Welcome to the world of urks,  Linköping University
     2016
-  answer_book_recommendation: A Bestiary of Anthropocene, Nicolas Nova & Disnovation.org
+  answer_book_recommendation: D'après A Bestiary of Anthropocene, Nicolas Nova & Disnovation.org
   answer_image_url: ''
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -51798,7 +51794,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
 - id: 1270
   text: Une vache canulée est...
   hint: ''
@@ -51852,25 +51848,13 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Question piège : on n'élève pas des araignées, mais des chèvres\
-    \ pour cela ! \r\nPlus résistant que le Kevlar et plus extensible que le nylon,\
-    \ le BioSteel® est un matériau à base de fibres, fabriqué à partir d'une protéine\
-    \ recombinante semblable à la soie d'araignée, extraite du lait de chèvres génétiquement\
-    \ modifiées. Si la soie d'araignée a toujours été reconnue pour sa grande résistance,\
-    \ les tentatives de production en masse ont généralement échoué, principalement\
-    \ parce que les araignées peuvent se battre et se cannibaliser lorsqu'elles sont\
-    \ maintenues à proximité. Une entreprise et des chercheurs du Wyoming ont découvert\
-    \ comment contourner ce problème en insérant les gènes responsables de la production\
-    \ de soie de l'araignée à sphères dorées dans le génome des chèvres. Elles produisent\
-    \ du lait, qui peut être séparé et raffiné plusieurs fois, lyophilisé et transformé\
-    \ en poudre pouvant ensuite être filée en fibre, transformée en revêtement ou\
-    \ en adhésif.\r\nGrâce à leur élasticité et à leur résistance, ces fibres pourraient\
-    \ avoir plusieurs applications médicales, notamment pour la fabrication de ligaments\
-    \ ou de tendons artificiels pour les sutures oculaires et les réparations de mâchoires.\
-    \ La soie d'araignée produite par les chèvres pourrait également servir à la fabrication\
-    \ de gilets pare-balles et d'airbags automobiles améliorés. Les chercheurs étudient\
-    \ actuellement l'utilisation de protéines similaires dans la luzerne génétiquement\
-    \ modifiée, ce qui pourrait produire des quantités encore plus importantes de soie."
+  answer_explanation: 'Question piège : Ce ne sont pas des araignées, mais des chèvres
+    que l''on élève pour cette soie. Si la soie d''araignée a toujours été reconnue
+    pour sa grande résistance, les tentatives de production en masse ont en effet
+    échoué. Plus résistant que le Kevlar et plus extensible que le nylon, le BioSteel®
+    est un matériau à base de fibres, fabriqué à partir d''une protéine recombinante
+    semblable à la soie d''araignée. Il est extrait du lait de chèvres qui ont été
+    génétiquement modifiées à cette fin.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51890,4 +51874,38 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-03-27'
+  updated: '2025-03-28'
+- id: 1272
+  text: Test raphael
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: a
+  answer_choice_b: b
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 1
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-03-28'
+  updated: '2025-03-28'
