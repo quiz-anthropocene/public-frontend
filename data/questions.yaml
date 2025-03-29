@@ -783,9 +783,11 @@
   answer_choice_d: Faire un vol transatlantique en moins
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Tous les gestes ne se valent pas en impact, comme le montre
-    l'infographie.  La dernière option qui économise le plus d'émission pose bien
-    sûr d'autres question, et son évaluation même est sujet de controverse.
+  answer_explanation: "Tous les gestes ne se valent pas en impact, comme le montre\
+    \ l'infographie.  Pour la dernière option, cela suppose qu'on fait déjà des vols\
+    \ transatlantiques, ce qui est loin d'être le cas de tout le monde, heureusement.\r\
+    \nLa dernière ligne du tableau est extrêmement controversée, c'est pourquoi elle\
+    \ n'a fait pas l'objet des options proposés dans cette question."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -808,7 +810,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-03-28'
 - id: 20
   text: En 2018, quelle proportion de l'énergie consommée dans le monde l'a été sous
     forme d'électricité ?
@@ -3226,7 +3228,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-09-19'
+  updated: '2025-03-28'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -43399,11 +43401,11 @@
   answer_extra_info: "Renovation Energetique : \r\nPlan Climat de Paris"
   author: 65
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-03-28'
   created: '2022-08-04'
-  updated: '2023-09-28'
+  updated: '2025-03-28'
 - id: 1071
   text: Combien de décès prématurés sont imputables à la qualité de l'air chaque année
     dans le monde ?
@@ -46185,8 +46187,7 @@
   created: '2023-02-04'
   updated: '2023-02-07'
 - id: 1134
-  text: Selon une étude de l’ADEME, laquelle de ces actions permet d'éviter le plus
-    de déchets ménagers ?
+  text: Laquelle de ces actions permet d'éviter le plus de déchets ménagers ?
   hint: ''
   type: QCM
   category: 2
@@ -46199,11 +46200,11 @@
   answer_choice_d: Passer de l’eau en bouteille à l'eau du robinet
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Selon une étude datant de 2016, la gestion domestique des biodéchets
-    arrive loin devant (161kg/hab/an). Ils composent en effet la plus grande partie
-    de notre poubelle grise (33%). Viennent ensuite la consigne pour réemploi du verre,
-    les autocollants stop-pub et enfin l'utilisation de l'eau du robinet plutôt qu'en
-    bouteille.
+  answer_explanation: Selon une étude de l'ADEME datant de 2016, la gestion domestique
+    des biodéchets arrive loin devant (161kg/hab/an). Ils composent en effet la plus
+    grande partie de notre poubelle grise (33%). Viennent ensuite la consigne pour
+    réemploi du verre, les autocollants stop-pub et enfin l'utilisation de l'eau du
+    robinet plutôt qu'en bouteille.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46225,7 +46226,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2023-02-07'
+  updated: '2025-03-28'
 - id: 1135
   text: Votre dernière heure a bientôt sonné et vous souhaitez quitter ce monde avec
     une empreinte carbone minimale. Quelle option choisissez-vous ?
@@ -46274,7 +46275,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2024-06-13'
+  updated: '2025-03-28'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -47290,7 +47291,7 @@
   validator: 2
   validation_date: '2024-05-07'
   created: '2024-04-24'
-  updated: '2024-05-07'
+  updated: '2025-03-28'
 - id: 1161
   text: Quelle quantité moyenne de compost une famille de 4 personnes qui utilise
     des toilettes sèches produit-elle annuellement ?
