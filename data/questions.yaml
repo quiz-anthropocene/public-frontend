@@ -3518,8 +3518,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://fr.weforum.org/agenda/2018/12/les-plus-gros-pays-emetteurs-de-co2-au-monde/
-  answer_source_accessible_url_text: Les plus gros pays émetteurs de CO2 au monde
-    | Forum Économique Mondial
+  answer_source_accessible_url_text: ''
   answer_source_scientific_url: http://www.globalcarbonatlas.org/fr/CO2-emissions
   answer_source_scientific_url_text: Our Word in Data, Per Capita Emissions
   answer_book_recommendation: ''
@@ -3534,7 +3533,7 @@
   validator: 1
   validation_date: '2020-03-18'
   created: '2020-03-11'
-  updated: '2023-02-05'
+  updated: '2025-04-01'
 - id: 84
   text: Quelle proportion des émissions françaises de gaz à effet de serre les forêts
     françaises absorbent-elles ?
@@ -4065,7 +4064,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.ademe.fr/sites/default/files/assets/documents/pertes-gaspillages-alimentaires-etat-lieux-201605-synt.pdf
+  answer_source_scientific_url: https://infos.ademe.fr/agriculture-alimentation/2024/de-la-fourche-a-la-fourchette-les-dechets-alimentaires-saccumulent/
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000096-e2d7.jpeg
@@ -4077,7 +4076,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-04-01'
 - id: 97
   text: Si la Terre était un ballon de basket, la quantité d'eau potable correspondrait
     au volume de...
@@ -7069,9 +7068,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
+  answer_source_accessible_url: https://fr.wikipedia.org/wiki/Liste_des_pays_ayant_franchi_le_pic_de_production_du_p%C3%A9trole
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://data-ogauthority.opendata.arcgis.com/
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000171-1800.jpeg
@@ -7083,7 +7082,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-04-01'
 - id: 172
   text: Quel pays en Europe émet le plus de gaz à effet de serre dans l’agriculture
     ?
@@ -22129,7 +22128,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2025-04-01'
 - id: 549
   text: L'épaule humaine est spéciale dans l'évolution. Quel avantage nous a-t-elle
     progressivement procuré ?
@@ -31412,7 +31411,7 @@
   created: '2021-01-17'
   updated: '2024-03-05'
 - id: 764
-  text: Vrai ou faux ? Depuis quelques siècles, les activités humaines ont un impact
+  text: Vrai ou faux ? Depuis deux cents ans, les activités humaines ont un impact
     sur le climat
   hint: ''
   type: VF
@@ -31430,7 +31429,7 @@
   answer_explanation: Les humains ont su s’adapter à des climats très divers. Mais
     le climat se dérègle et notre planète est en surchauffe. Il est maintenant complètement
     prouvé par la science du climat que cela est causé par les activités humaines,
-    en particulier l'utilisation du pétrole ou du charbon.
+    en particulier l'utilisation du charbon, du gaz et du pétrole.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31450,7 +31449,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2023-02-14'
+  updated: '2025-04-01'
 - id: 765
   text: Est-ce que ça créé de l'effet de serre quand je...
   hint: ''
@@ -51911,4 +51910,4 @@
   validator: null
   validation_date: null
   created: '2025-03-28'
-  updated: '2025-03-28'
+  updated: '2025-04-01'
