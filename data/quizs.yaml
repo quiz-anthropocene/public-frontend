@@ -78,12 +78,11 @@
     \ théorie écologique de l’esprit et se questionne sur la singularité de l'humanité\
     \ dans son contexte évolutif. Il est le fondateur d'<a href=\"https://adrastia.org\"\
     >Adrastia</a>, une association qui s’intéresse aux risques d’effondrement de la\
-    \ civilisation thermo-industrielle et du groupe <a href=\"https://www.facebook.com/groups/transition.2030\"\
-    >Facebook Transition 2030</a>.</p>\r\n\r\n<p>Vincent nous a concocté un quiz teinté\
-    \ d'anthropologie, qui nous fait réfléchir sur les racines de cette emprise dérégulée\
-    \ que notre espèce imprime sur son environnement.<br />\r\nMise à jour janvier\
-    \ 2021 : Les réponses sont désormais agrémentées de commentaires audio de l'auteur\
-    \ pour aller plus loin. </p>"
+    \ civilisation thermo-industrielle et du groupe Facebook Transition 2030.</p>\r\
+    \n\r\n<p>Vincent nous a concocté un quiz teinté d'anthropologie, qui nous fait\
+    \ réfléchir sur les racines de cette emprise dérégulée que notre espèce imprime\
+    \ sur son environnement.<br />\r\nMise à jour janvier 2021 : Les réponses sont\
+    \ désormais agrémentées de commentaires audio de l'auteur pour aller plus loin. </p>"
   conclusion: <p>Si ce quiz vous a intéressé, vous le serez problablement par <a href="https://quizanthropocene.fr/quiz/18">celui-ci,</a>
     qui traite de questions similaires.</p>
   questions:
@@ -116,7 +115,7 @@
   publish_date: '2020-07-06'
   spotlight: true
   created: '2020-06-26'
-  updated: '2022-04-16'
+  updated: '2025-04-01'
 - id: 4
   name: Les pics de ressources
   slug: les-pics-de-ressources
@@ -3490,4 +3489,4 @@
   publish_date: null
   spotlight: false
   created: '2025-03-28'
-  updated: '2025-03-28'
+  updated: '2025-04-01'
