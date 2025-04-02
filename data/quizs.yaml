@@ -78,7 +78,7 @@
     \ théorie écologique de l’esprit et se questionne sur la singularité de l'humanité\
     \ dans son contexte évolutif. Il est le fondateur d'<a href=\"https://adrastia.org\"\
     >Adrastia</a>, une association qui s’intéresse aux risques d’effondrement de la\
-    \ civilisation thermo-industrielle et du groupe Facebook Transition 2030.</p>\r\
+    \ civilisation thermo-industrielle, ainsi que du groupe Facebook Transition 2030.</p>\r\
     \n\r\n<p>Vincent nous a concocté un quiz teinté d'anthropologie, qui nous fait\
     \ réfléchir sur les racines de cette emprise dérégulée que notre espèce imprime\
     \ sur son environnement.<br />\r\nMise à jour janvier 2021 : Les réponses sont\
@@ -1992,14 +1992,14 @@
   authors:
   - 55
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2022-05-30'
-  updated: '2022-05-30'
+  updated: '2025-04-01'
 - id: 83
   name: Le quiz de Maxence Cordiez sur le Pétrole
   slug: le-quiz-de-maxence-cordiez-sur-le-petrole
@@ -2838,14 +2838,14 @@
   authors:
   - 59
   visibility: HIDDEN
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2023-09-28'
-  updated: '2023-11-20'
+  updated: '2025-04-01'
 - id: 104
   name: Transition écologique de l'encadrement de l'Etat
   slug: transition-ecologique-des-cadres-sups-de-letat
