@@ -39950,7 +39950,7 @@
   created: '2021-12-01'
   updated: '2024-02-27'
 - id: 966
-  text: Si on arrête de consommer de la viande, est-ce qu'on réduit son empreinte
+  text: Si j'arrête de consommer de la viande, est-ce que je réduis son empreinte
     carbone alimentaire ?
   hint: ''
   type: QCM
@@ -39991,7 +39991,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-03-28'
+  updated: '2025-04-02'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -46228,7 +46228,8 @@
   updated: '2025-03-28'
 - id: 1135
   text: Votre dernière heure a bientôt sonné et vous souhaitez quitter ce monde avec
-    une empreinte carbone minimale. Quelle option choisissez-vous ?
+    une empreinte carbone minimale, en toute légalité. Quel est le meilleur choix
+    ?
   hint: ''
   type: QCM
   category: 2
@@ -46274,7 +46275,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-03-28'
+  updated: '2025-04-02'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
