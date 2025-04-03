@@ -2399,10 +2399,10 @@
     de ce bestaire d'êtres et objets à la fois insolites et inquiétants, emblématiques
     de cet anthropocène, cet<em> âge de l'humain</em>.</p>
   conclusion: "<p>Un quiz en mémoire à l'auteur de l'ouvrage <a href=\"https://www.bestiaryanthropocene.com/\"\
-    >A Bestiary of Anthropocene</a> dont sont extraites ces questions, Nicolas Nova,\
-    \ anthropologue, brutalement disparu à 47 ans en 2024. Pour aller plus loin, cette\
-    \ <a href=\"http://disnovation.org/bestiary_videoessay.php\">vidéo</a> de 15 min\
-    \ issue d'une exposition itinérante de disnovation.org</p>\r\n\r\n<p> </p>"
+    >A Bestiary of Anthropocene</a> dont sont extraites ces questions, l'anthropologue\
+    \ Nicolas Nova.<br />\r\nPour aller plus loin, cette <a href=\"http://disnovation.org/bestiary_videoessay.php\"\
+    >vidéo</a> de 15 min issue d'une exposition itinérante de disnovation.org</p>\r\
+    \n\r\n<p> </p>"
   questions:
   - 1090
   - 1091
@@ -2429,7 +2429,7 @@
   publish_date: null
   spotlight: false
   created: '2022-11-27'
-  updated: '2025-03-28'
+  updated: '2025-04-02'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
