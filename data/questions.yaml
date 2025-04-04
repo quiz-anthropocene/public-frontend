@@ -2942,9 +2942,9 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: 40%
-  answer_choice_b: 65%
-  answer_choice_c: 85%
-  answer_choice_d: 95%
+  answer_choice_b: 50%
+  answer_choice_c: 70%
+  answer_choice_d: 90%
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Pétrole (33%), Charbon (27%), Gaz (23%). Gardons en tête que
@@ -2971,7 +2971,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-09-19'
+  updated: '2025-04-03'
 - id: 71
   text: A combien s'élève l'empreinte carbone moyenne d'un Français (2018, en équivalent
     CO2) ?
@@ -35893,7 +35893,7 @@
   validator: 38
   validation_date: '2021-03-02'
   created: '2021-02-23'
-  updated: '2024-06-12'
+  updated: '2025-04-03'
 - id: 870
   text: De toute l'énergie utile que l'humanité utilise actuellement, quelle est la
     part d'énergie thermique (chaleur) ?
@@ -51716,7 +51716,8 @@
   created: '2025-03-26'
   updated: '2025-03-28'
 - id: 1268
-  text: Certaines de nos côtes regorgent de tétrapodes. De quoi s'agit-il ?
+  text: Les tétrapodes côtiers sont légions sur les bords de mer. De quoi s'agit-il
+    ?
   hint: Pas sûr que ce soit un animal...
   type: QCM
   category: 8
@@ -51752,7 +51753,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-03-28'
+  updated: '2025-04-03'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''

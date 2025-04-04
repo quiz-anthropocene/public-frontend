@@ -1749,8 +1749,7 @@
   - 866
   - 867
   - 868
-  - 869
-  question_count: 9
+  question_count: 8
   tags:
   - 14
   - 17
@@ -1760,7 +1759,7 @@
   - 246
   - 247
   - 248
-  difficulty_average: 2.6
+  difficulty_average: 2.5
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000077-7fc3.jpg
   has_audio: false
@@ -1774,7 +1773,7 @@
   publish_date: '2021-12-15'
   spotlight: true
   created: '2021-12-05'
-  updated: '2022-04-16'
+  updated: '2025-04-03'
 - id: 78
   name: Burger Quiz de l'Anthropocène
   slug: burger-quiz-de-lanthropocene

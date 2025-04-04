@@ -1993,11 +1993,6 @@
   question: 868
   order: 7
   created: '2021-12-05'
-- id: 547
-  quiz: 77
-  question: 869
-  order: 8
-  created: '2021-12-05'
 - id: 548
   quiz: 77
   question: 649
