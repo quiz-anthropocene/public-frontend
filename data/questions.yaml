@@ -46241,20 +46241,22 @@
   answer_choice_c: L'inhumation en caveau
   answer_choice_d: L'humusation (le compostage du corps)
   answer_correct: b
-  has_ordered_answers: true
-  answer_explanation: Selon une étude des services funéraires de la Ville de Paris,
-    c'est l'inhumation en pleine terre qui est la moins émettrice, avec un impact
-    écologique légèrement inférieur à celui de la crémation. Attention, cela ne vaut
-    que si vous choisissez une tombe simplement gazonnée, sans bâtiment, avec un cercueil
-    fabriqué en France avec le moins de vernis et de poignées possibles. En moyenne
-    cependant, le 'cycle de vie' (si l'on peut dire...) - creusement de la terre,
-    fabrication du cercueil et du monument, transport du défunt - d'une inhumation
-    dégage 869 kg de CO2, c’est-à-dire près de 4 fois plus que la crémation. Peut-on
-    faire moins ? Potentiellement oui, avec notamment l'humusation, qui consiste à
-    laisser le corps se composter naturellement dans le sol. Cette pratique est cependant
-    pour l'instant interdite en Europe. Elle est au stade de l'expérimentation en
-    Belgique et vient d'être légalisée dans l'état de New York. L'empreinte est alors
-    très faible, mais elle soulève d'autres questions.
+  has_ordered_answers: false
+  answer_explanation: "Selon une étude des services funéraires de la Ville de Paris,\
+    \ c'est l'inhumation en pleine terre qui est la moins émettrice, avec un impact\
+    \ écologique légèrement inférieur à celui de la crémation. Attention, cela ne\
+    \ vaut que si vous choisissez une tombe simplement gazonnée, sans bâtiment, avec\
+    \ un cercueil fabriqué en France avec le moins de vernis et de poignées possibles.\
+    \ En moyenne cependant, le 'cycle de vie' (si l'on peut dire...) - creusement\
+    \ de la terre, fabrication du cercueil et du monument, transport du défunt - d'une\
+    \ inhumation dégage 869 kg de CO2, c’est-à-dire près de 4 fois plus que la crémation.\
+    \ \r\nPeut-on faire moins ? Potentiellement oui, avec notamment l'humusation,\
+    \ qui consiste à laisser le corps se composter naturellement recouvert d'une couche\
+    \ de matières végétales broyées. En un an, la tombe se transforme en 1m3 d'humus\
+    \ sain et fertile. . L'empreinte est alors très faible - 10 à 50kg de CO2e. Cette\
+    \ pratique, au stade de l'expérimentation en Belgique et légalisée dans certains\
+    \ états américains, est cependant pour l'instant interdite en Europe. Elle soulève\
+    \ en effet d'autres questions que la seule empreinte carbone."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46275,7 +46277,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-04-02'
+  updated: '2025-04-04'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -51716,8 +51718,8 @@
   created: '2025-03-26'
   updated: '2025-03-28'
 - id: 1268
-  text: Les tétrapodes côtiers sont légions sur les bords de mer. De quoi s'agit-il
-    ?
+  text: Les tétrapodes côtiers ont colonisés nombre de nos bords de mer. Mais que
+    sont-ils ?
   hint: Pas sûr que ce soit un animal...
   type: QCM
   category: 8
@@ -51729,12 +51731,11 @@
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: b
-  has_ordered_answers: true
-  answer_explanation: Les tétrapodes sont utilisés sur les côtes en ingénierie hydraulique,
-    pour limiter l'érosion ou comme brise-lame pour protéger de la houle et des vagues.
-    Grâce à leur masse, ils résistent aux tempêtes mais se dégradent malgré tout sous
-    l'effet du temps. Ils ont refaçonné considérablement une partie de nos paysages
-    côtiers.
+  has_ordered_answers: false
+  answer_explanation: Ces tétrapodes sont utilisés sur les côtes en ingénierie hydraulique,
+    pour limiter l'érosion ou briser la houle et les vagues. Grâce à leur masse, ils
+    résistent aux tempêtes mais se dégradent malgré tout sous l'effet du temps. Ils
+    ont refaçonné considérablement une partie de nos paysages côtiers.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51753,7 +51754,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-04-03'
+  updated: '2025-04-04'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''
@@ -51809,7 +51810,7 @@
   language: FRENCH
   answer_choice_a: '...une vache génétiquement modifiée'
   answer_choice_b: '...une vache munie d''un hublot'
-  answer_choice_c: '...une vache atteinte d''une maladie de type épidémique'
+  answer_choice_c: '...le nom scientifique de la maladie de la vache folle'
   answer_choice_d: '...une vache victime d''un canular'
   answer_correct: b
   has_ordered_answers: false
@@ -51837,7 +51838,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-03-27'
+  updated: '2025-04-04'
 - id: 1271
   text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
   hint: ''
@@ -51912,4 +51913,4 @@
   validator: null
   validation_date: null
   created: '2025-03-28'
-  updated: '2025-04-01'
+  updated: '2025-04-04'
