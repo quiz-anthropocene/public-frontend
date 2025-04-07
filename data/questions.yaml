@@ -42,9 +42,9 @@
   created: '2020-03-07'
   updated: '2025-03-28'
 - id: 2
-  text: 'Imaginez : demain, toute l''énergie consommée en France doit être alimentée
-    par des humains. En supposant que chacun d''entre eux pédale 8h par jour pour
-    alimenter une dynamo, combien faudrait-il en moyenne de tels travailleurs au service
+  text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
+    français doit être alimentée par des humains, chacun pédalant 8h par jour pour
+    alimenter une dynamo. Combien faudrait-il en moyenne de tels travailleurs au service
     de chaque français pour continuer à vivre comme aujourd’hui ?'
   hint: ''
   type: QCM
@@ -85,7 +85,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2024-07-24'
+  updated: '2025-04-06'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
@@ -46255,8 +46255,9 @@
     \ de matières végétales broyées. En un an, la tombe se transforme en 1m3 d'humus\
     \ sain et fertile. . L'empreinte est alors très faible - 10 à 50kg de CO2e. Cette\
     \ pratique, au stade de l'expérimentation en Belgique et légalisée dans certains\
-    \ états américains, est cependant pour l'instant interdite en Europe. Elle soulève\
-    \ en effet d'autres questions que la seule empreinte carbone."
+    \ états américains, est cependant pour l'instant interdite en Europe, car elle\
+    \ soulève encore des réserves d'ordre sanitaire, juridique et culturelle. Il n'y\
+    \ a pas de cadre légal par exemple pour la valorisation de l'humus humain."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46277,7 +46278,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-04-04'
+  updated: '2025-04-06'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
