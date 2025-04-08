@@ -28,7 +28,7 @@
   answer_source_accessible_url: https://www.planetoscope.com/agriculture-alimentation/1556-le-gaspillage-alimentaire-dans-le-monde.html
   answer_source_accessible_url_text: 'Planetoscope - Statistiques : Le gaspillage
     alimentaire dans le monde'
-  answer_source_scientific_url: http://www.fao.org/food-loss-and-food-waste/fr/
+  answer_source_scientific_url: http://www.fao.org/food-loss-and-food-waste/en
   answer_source_scientific_url_text: Food Loss and Food Waste, FAO
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000001-9d71.jpg
@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 2
   text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
     français doit être alimentée par des humains, chacun pédalant 8h par jour pour
@@ -779,7 +779,7 @@
   language: FRENCH
   answer_choice_a: Abandonner sa voiture à essence
   answer_choice_b: Adopter un régime alimentaire à base de végétaux
-  answer_choice_c: Changer ses ampoules en ampoules basses consommation
+  answer_choice_c: Adopter des ampoules à basse consommation
   answer_choice_d: Faire un vol transatlantique en moins
   answer_correct: a
   has_ordered_answers: true
@@ -810,7 +810,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 20
   text: En 2018, quelle proportion de l'énergie consommée dans le monde l'a été sous
     forme d'électricité ?
@@ -4438,15 +4438,14 @@
   answer_choice_d: '1997'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'le GIEC a été créé en 1988 par l''Organisation Météorologique
-    Mondiale (OMM) et le Programme des Nations Unies pour l''Environnement (PNUE).
-    En fait, sur proposition du G7, et en particulier de Ronald Reagan et Margareth
-    Thatcher, pour des raisons très différentes l''un et l''autre. Il a pour but de
-    fournir des évaluations détaillées de l’état des connaissances scientifiques,
-    techniques et socio-économiques sur les changements climatique, leurs causes,
-    leurs répercussions potentielles et les stratégies d''atténuation et d''adaptation.
-    Le premier rapport d''évaluation du GIEC sur le changement climatique a été publié
-    en 1990. Cinq autres rapports ont suivi : 1995, 2001, 2007, 2014 et 2021-22.'
+  answer_explanation: 'le GIEC a été créé en 1988 par l''OMM et le PNUE. En fait,
+    sur proposition du G7, et en particulier de Ronald Reagan et Margareth Thatcher,
+    pour des raisons très différentes l''un et l''autre. Il a pour but de fournir
+    des évaluations détaillées de l’état des connaissances scientifiques, techniques
+    et socio-économiques sur les changements climatique, leurs causes, leurs répercussions
+    potentielles et les stratégies d''atténuation et d''adaptation. Le premier rapport
+    d''évaluation du GIEC sur le changement climatique a été publié en 1990. Cinq
+    autres rapports ont suivi : 1995, 2001, 2007, 2014 et 2021-22.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -4466,7 +4465,7 @@
   validator: 2
   validation_date: '2019-01-16'
   created: '2019-01-09'
-  updated: '2022-11-16'
+  updated: '2025-04-08'
 - id: 106
   text: Quelle est la première source d'énergie primaire dans le monde ?
   hint: ''
@@ -30473,7 +30472,7 @@
   created: '2021-01-06'
   updated: '2024-03-05'
 - id: 743
-  text: Un ménage français jette en moyenne 250kg par an de déchets à la poubelle
+  text: Un ménage français jette en moyenne 250 kg par an de déchets à la poubelle
     générale (grise), qui sont souvent délicats à traiter car mélangés. Quelle part
     de ce total pourrait facilement ne pas se retrouver dans cette poubelle ?
   hint: ''
@@ -30489,15 +30488,15 @@
   answer_choice_d: 99%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Sur les 250k par habitant et par an (en France) de déchets\
-    \ jetés dans la poubelle générale par les ménages, un tiers est putrescible et\
-    \ pourrait être composté ou nourrir des animaux, et un autre tiers pourrait être\
-    \ collecté sélectivement en vue d'un recyclage \"facile\" (papiers, verre, métaux\
-    \ …). Selon l'ADEME, en comptant d'autres déchets non-classés, c'est 70% qui pourraient\
-    \ éviter d'aller dans la poubelle grise. Le reste est composé de déchets dangereux\
-    \ (DEEE...), de plastiques, de déchets inertes divers non facilement recyclables...\
-    \ \r\nLa réduction à la source (zéro déchet, sobriété) est un autre levier majeur\
-    \ pour éviter ces 70%. Et un jour se passer totalement de poubelle grise ?"
+  answer_explanation: "Sur ces 250 kg jetés dans la poubelle générale, un tiers est\
+    \ putrescible et pourrait être composté ou servir à nourrir des animaux, et un\
+    \ autre tiers pourrait être collecté sélectivement en vue d'un recyclage \"facile\"\
+    \ (papiers, verre, métaux …). Selon l'ADEME, en comptant d'autres déchets non-classés,\
+    \ c'est 70% qui pourraient aller ailleurs que dans la poubelle grise. Le reste\
+    \ est composé de déchets dangereux (DEEE...), de plastiques, de déchets inertes\
+    \ divers non facilement recyclables... \r\nLa réduction à la source (zéro déchet,\
+    \ sobriété) est un autre levier majeur pour éviter ces 70%. Et un jour se passer\
+    \ totalement de poubelle grise ?"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30517,7 +30516,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-03-12'
+  updated: '2025-04-08'
 - id: 744
   text: Si tous les logements en France métropolitaine baissaient leur température
     moyenne de 1°C, de combien diminuerait-on la consommation de chauffage ?
@@ -39950,7 +39949,7 @@
   created: '2021-12-01'
   updated: '2024-02-27'
 - id: 966
-  text: Si j'arrête de consommer de la viande, est-ce que je réduis son empreinte
+  text: Si j'arrête de consommer de la viande, est-ce que je réduis mon empreinte
     carbone alimentaire ?
   hint: ''
   type: QCM
@@ -39961,17 +39960,18 @@
   - 72
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Non, ça ne change rien en fait
+  answer_choice_a: Non, ça ne change
   answer_choice_b: Oui, d'un facteur 2 en moyenne
   answer_choice_c: Oui, d'un facteur 4
   answer_choice_d: Oui, d'un facteur 10
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: La part de l'alimentation dans l'empreinte carbone d'un Français,
-    c'est 1,8 tCO2, dont environ la moitié pour la viande. Manger de la viande une
-    fois par jour, c'est ainsi émettre 2,2 tCO2e. Voir à ce sujet les cartes du jeu
-    Inventons Nos Vies Bas Carbone, et le détail des menus basés sur les facteurs
-    d'émissions de la base carbone ou le calculateur Nos Gestes Climat de l'Ademe.
+    c'est 1,8 tCO2e par an, dont environ la moitié pour la viande. Manger de la viande
+    une fois par jour conduit à l'émission de 2,2 tCO2e par an en moyenne. Voir à
+    ce sujet les cartes du jeu Inventons Nos Vies Bas Carbone, et le détail des menus
+    basés sur les facteurs d'émissions de la base carbone ou le calculateur Nos Gestes
+    Climat de l'ADEME.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -39991,7 +39991,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-04-02'
+  updated: '2025-04-08'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -40069,9 +40069,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://monimpacttransport.fr/
-  answer_source_accessible_url_text: 'Ministère de la Transition Ecologique : Combien
-    de CO2e émettez-vous pour vous déplacer ?'
+  answer_source_accessible_url: https://impactco2.fr/outils/transport
+  answer_source_accessible_url_text: 'Ministère de la Transition Ecologique : calculer
+    l’impact carbone des moyens de transport'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -40084,7 +40084,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-28'
+  updated: '2025-04-08'
 - id: 969
   text: Quelle différence d'émissions entre un logement classe E et classe A ?
   hint: ''
@@ -40196,9 +40196,7 @@
     \ smartphone) de réduction de l'impact, tout comme de réduire la qualité des vidéos\
     \ que l’on regarde. Le passage de la 4G à la 5G nous expose à un risque d'effet\
     \ rebond, c'est à dire un effet d'aubaine qui risque d'augmenter la consommation\
-    \ globale.\r\nIl y a bien évidemment plein d'autres leviers possibles. Voir le\
-    \ détail, source, et explications dans le guide de l'animateur du kit Inventons\
-    \ nos vies bas carbone."
+    \ globale."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -40217,7 +40215,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2024-02-27'
+  updated: '2025-04-08'
 - id: 999
   text: Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
     a émis plus de carbone qu'elle n'en a capté.
@@ -44253,7 +44251,7 @@
   answer_explanation: "Il s'agit d'un nouveau type de roche qui a été découvert sur\
     \ des plages à Hawaï. On trouve dans sa composition du plastique fondu, des débris\
     \ marins et du basalt. Il est issu de la combustion de plastique lors de feux\
-    \ de camp. \r\nAilleurs sur terre, on a également repéré du 'plasticrust', un\
+    \ de camp. \r\nAilleurs sur Terre, on a également repéré du 'plasticrust', un\
     \ nouveau type de pollution plastique sous forme de débris plastiques qui se nichent\
     \ dans les anfractuosités des roches exposées aux marées. Le plastique n'a que\
     \ cent ans d'existence, mais ces roches illustrent comment il peut s'amalgamer\
@@ -44265,8 +44263,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://le1hebdo.fr/journal/alerte-le-plastique-serial-killer-des-oceans/13/article/le-plastiglomrat-une-nouvelle-roche-261.html
-  answer_source_accessible_url_text: 'Le "plastiglomérat" : un nouvelle roche, le
-    un hebdo, Juin 2014'
+  answer_source_accessible_url_text: 'Le "plastiglomérat" : une nouvelle roche, le
+    1 hebdo, Juin 2014'
   answer_source_scientific_url: https://doi.org/10.1130/GSAT-G198A.1
   answer_source_scientific_url_text: An anthropogenic marker horizon in the future
     rock record, the Geological Society of America, 2014
@@ -44280,7 +44278,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-11-26'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1091
   text: Le patineur d'eau est un cousin de nos araignées d'eau, qui vit à la surface
     des océans. Avec l'accumulation de microplastiques à la surface, sa population
@@ -44297,7 +44295,7 @@
   answer_choice_c: Les micro-plastiques empoisonnent ses prédateurs
   answer_choice_d: Les microplastiques lui fournissent des abris contre ses prédateurs
   answer_correct: a
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: "Le patineur d'eau (Halobates Sericeus) se développe en effet\
     \ à la surface du 'vortex de plastique'. Cet immense espace marin dans le Pacifique\
     \ s'étend sur une surface estimée en 2012 à 5 fois la France, une profondeur de\
@@ -44319,7 +44317,7 @@
     , Marci Rosenberg and Lanna Cheng. Published 09 May 2012
   answer_book_recommendation: D'après A Bestiary of the Anthropocene, Nicolas Nova
     & Disnovation.org
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2cf807f2.jpg
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1091-patineurs.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -44328,7 +44326,7 @@
   validator: 55
   validation_date: '2022-12-07'
   created: '2022-12-04'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1092
   text: Pour produire une quantité donnée de végétal, le maïs nécessite...
   hint: ''
@@ -46208,8 +46206,8 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://librairie.ademe.fr/dechets-economie-circulaire/5417-dechets-chiffres-cles-l-essentiel-2021-9791029719622.html
-  answer_source_accessible_url_text: Les déchets, chiffres clefs 2021, ADEME
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj0x9_CrP78AhWrWaQEHVO7AQoQFnoECBMQAQ&url=https%3A%2F%2Fwww.zerodechettouraine.org%2Ffiles%2F2017-04%2Fademe-gisements-potentielsreduc-impactsenvtx-2016.pdf&usg=AOvVaw2XLE4Ad7Zc0z5yXTlf45A3
   answer_source_scientific_url_text: Etude d'évaluation des gisements d'évitement
     des potentiels de réduction de déchets et des impacts environnementaux évités,
@@ -46225,7 +46223,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1135
   text: Votre dernière heure a bientôt sonné et vous souhaitez quitter ce monde avec
     une empreinte carbone minimale, en toute légalité. Quel est le meilleur choix
@@ -46247,17 +46245,17 @@
     \ écologique légèrement inférieur à celui de la crémation. Attention, cela ne\
     \ vaut que si vous choisissez une tombe simplement gazonnée, sans bâtiment, avec\
     \ un cercueil fabriqué en France avec le moins de vernis et de poignées possibles.\
-    \ En moyenne cependant, le 'cycle de vie' (si l'on peut dire...) - creusement\
-    \ de la terre, fabrication du cercueil et du monument, transport du défunt - d'une\
-    \ inhumation dégage 869 kg de CO2, c’est-à-dire près de 4 fois plus que la crémation.\
-    \ \r\nPeut-on faire moins ? Potentiellement oui, avec notamment l'humusation,\
-    \ qui consiste à laisser le corps se composter naturellement recouvert d'une couche\
-    \ de matières végétales broyées. En un an, la tombe se transforme en 1m3 d'humus\
-    \ sain et fertile. . L'empreinte est alors très faible - 10 à 50kg de CO2e. Cette\
-    \ pratique, au stade de l'expérimentation en Belgique et légalisée dans certains\
-    \ états américains, est cependant pour l'instant interdite en Europe, car elle\
-    \ soulève encore des réserves d'ordre sanitaire, juridique et culturelle. Il n'y\
-    \ a pas de cadre légal par exemple pour la valorisation de l'humus humain."
+    \ En moyenne cependant, le 'cycle de vie' (si l'on peut dire...) - creuser la\
+    \ terre, fabriquer le cercueil et le monument, transporter le défunt - d'une inhumation\
+    \ dégage 869 kg de CO2, c’est-à-dire près de 4 fois plus que la crémation. \r\n\
+    Peut-on faire moins ? Potentiellement oui, avec notamment l'humusation, qui consiste\
+    \ à laisser le corps se composter naturellement recouvert d'une couche de matières\
+    \ végétales broyées. En un an, la tombe se transforme en 1m3 d'humus sain et fertile.\
+    \ . L'empreinte est alors très faible - 10 à 50kg de CO2e. Cette pratique, au\
+    \ stade de l'expérimentation en Belgique et légalisée dans certains états américains,\
+    \ est cependant pour l'instant interdite en Europe, car elle soulève encore des\
+    \ réserves d'ordre sanitaire, juridique et culturelle. Il n'y a pas de cadre légal\
+    \ par exemple pour la valorisation de l'humus humain."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46265,7 +46263,7 @@
   answer_source_accessible_url: https://www.nouvelobs.com/planete/20171006.OBS5665/cremation-ou-inhumation-vous-pouvez-mourir-ecolo.html
   answer_source_accessible_url_text: Crémation ou inhumation ? Vous pouvez mourir
     écolo ! L'Obs, 2017
-  answer_source_scientific_url: https://lnkd.in/eHg3ZEFz
+  answer_source_scientific_url: https://www.servicesfuneraires.fr/wp-content/uploads/2018/07/2017-SFVP-Durapole-Verteego-Etude-sur-l%E2%80%99empreinte-environnementale-des-rites-funeraires-CP.pdf
   answer_source_scientific_url_text: Etude sur l’empreinte environnementale des rites
     funéraires, Services funéraires de Paris, 2017
   answer_book_recommendation: ''
@@ -46278,7 +46276,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-04-06'
+  updated: '2025-04-08'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -51692,8 +51690,8 @@
     \ XXe siècle, leur masse corporelle a été multipliée par 5. On en comptait 26\
     \ milliards en 2021, trois fois plus que tous leurs autres oiseaux réunis.\r\n\
     Les os si nombreux de ces poulets si particuliers que notre civilisation laissera\
-    \ derrière elle intrigueront peut-être les chercheurs chercheurs du futurs. Au\
-    \ point qu'on peut voir en cette espère un marqueur de l'âge de l'humain."
+    \ derrière elle intrigueront peut-être les chercheurs du futur. Au point qu'on\
+    \ peut voir en cette espèce un marqueur de l'âge de l'humain."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51707,20 +51705,20 @@
     , Matt Edgeworth , Holly Miller, Ben Coles , Alison Foster , Emily J. Burton and
     Upenyu Marume, Dec 2018
   answer_book_recommendation: A bestiary of the anthropocene, Nicolas Nova & Disnovation.org
-  answer_image_url: ''
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1267-poulets.gif
   answer_image_url_text: Un poulet âgé de cinq semaines, à côté de son ancêtre (la
     poule rouge « de jungle ») âgée de six semaines
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-26'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1268
-  text: Les tétrapodes côtiers ont colonisés nombre de nos bords de mer. Mais que
-    sont-ils ?
+  text: Les tétrapodes côtiers ont colonisé nombre de nos bords de mer. Mais que sont-ils
+    ?
   hint: Pas sûr que ce soit un animal...
   type: QCM
   category: 8
@@ -51746,7 +51744,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1268-t%C3%A9trapodes.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -51755,7 +51753,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-04-04'
+  updated: '2025-04-08'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''
@@ -51770,13 +51768,13 @@
   answer_choice_d: Le nom d'un village hollandais où vit une communauté particulière
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Urk est effectivement le nom d'un village hollandais...Mais
-    ici, urk est l'abréviation d'un mot suédois qui signifie « déconnecté ». Le sociologue
+  answer_explanation: Urk est effectivement le nom d'un village hollandais, mais ici,
+    urk est l'abréviation d'un mot suédois qui signifie « déconnecté ». Le sociologue
     Björn Wallsten a proposé ce terme pour désigner les infrastructures urbaines souterraines
-    laissées en hibernation  avoir été déconnectées. Canalisations de chauffage, restes
-    d'anciennes lignes de tramway, lignes électriques, conduites de gaz... Autant
-    de gisements de métaux sous les rues de nos villes. Ces vestiges témoignent du
-    gaspillage persistant des ressources minérales, le cuivre en particulier. Compte
+    laissées en hibernation après avoir été déconnectées. Canalisations de chauffage,
+    restes d'anciennes lignes de tramway, lignes électriques, conduites de gaz...
+    Autant de gisements de métaux sous les rues de nos villes. Ces vestiges témoignent
+    du gaspillage persistant des ressources minérales, le cuivre en particulier. Compte
     tenu du coût de l'excavation et du faible prix des ressources, la récupération
     du métal n'est pas toujours très rentable. Cependant, les recherches actuelles
     en sciences de l'environnement tendent à les considérer comme de véritables mines
@@ -51791,7 +51789,7 @@
   answer_source_scientific_url_text: Welcome to the world of urks,  Linköping University
     2016
   answer_book_recommendation: D'après A Bestiary of Anthropocene, Nicolas Nova & Disnovation.org
-  answer_image_url: ''
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1269-urk.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -51800,7 +51798,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1270
   text: Une vache canulée est...
   hint: ''
@@ -51815,12 +51813,12 @@
   answer_choice_d: '...une vache victime d''un canular'
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: Ces bovins sont équipés d'une sorte de hublot permettant l'accès
-    au rumen, l'un des estomacs où se déroule la majeure partie de la digestion. Cela
-    nécessite la pose d'un bouchon en plastique amovible sur le flanc de la vache.
-    Cette procédure est  réalisée dans le cadre de recherches vétérinaires et agronomiques,
-    sur la digestion ou la qualité nutritionnelle des aliments en milieu agricole.
-    Les défenseurs des droits des animaux critiquent depuis longtemps de telles activités.
+  answer_explanation: Ces vaches sont équipées d'une sorte de hublot qui permet l'accès
+    au rumen, l'un de leurs 4 estomacs. Cela nécessite la pose d'un bouchon en plastique
+    amovible sur le flanc de la vache. Cette procédure est  réalisée dans le cadre
+    de recherches vétérinaires et agronomiques, sur la digestion ou la qualité nutritionnelle
+    des aliments en milieu agricole. Les défenseurs des droits des animaux critiquent
+    depuis longtemps de telles activités.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51830,7 +51828,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
-  answer_image_url: ''
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1270-vache-canul%C3%A9e.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -51839,7 +51837,7 @@
   validator: null
   validation_date: null
   created: '2025-03-27'
-  updated: '2025-04-04'
+  updated: '2025-04-08'
 - id: 1271
   text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
   hint: ''
