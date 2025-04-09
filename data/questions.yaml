@@ -30488,25 +30488,24 @@
   answer_choice_d: 99%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Sur ces 250 kg jetés dans la poubelle générale, un tiers est\
-    \ putrescible et pourrait être composté ou servir à nourrir des animaux, et un\
-    \ autre tiers pourrait être collecté sélectivement en vue d'un recyclage \"facile\"\
-    \ (papiers, verre, métaux …). Selon l'ADEME, en comptant d'autres déchets non-classés,\
-    \ c'est 70% qui pourraient aller ailleurs que dans la poubelle grise. Le reste\
-    \ est composé de déchets dangereux (DEEE...), de plastiques, de déchets inertes\
-    \ divers non facilement recyclables... \r\nLa réduction à la source (zéro déchet,\
-    \ sobriété) est un autre levier majeur pour éviter ces 70%. Et un jour se passer\
-    \ totalement de poubelle grise ?"
+  answer_explanation: "Sur ces 250 kg jetés dans la poubelle grise[chiffres 2019],\
+    \ un tiers est putrescible et pourrait être composté ou servir à nourrir des animaux.\
+    \ Un deuxième tiers pourrait être collecté sélectivement en vue d'un recyclage\
+    \ \"facile\" (papiers, verre, métaux …). D'après l'ADEME, c'est 70% qui pourraient\
+    \ aller ailleurs que dans la poubelle grise. Le reste est composé de déchets dangereux\
+    \ (DEEE...), de plastiques, de déchets inertes divers non facilement recyclables...\
+    \ \r\nLa réduction à la source (zéro déchet, sobriété) est un autre levier majeur\
+    \ pour éviter ces 70%. Et un jour se passer totalement de poubelle grise ?"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.ademe.fr/expertises/dechets/chiffres-cles-observation/dossier/caracterisation-dechets/campagne-nationale-caracterisation-dechets-menagers-assimiles
-  answer_source_accessible_url_text: La campagne nationale de caractérisation (des
-    déchets ménagers et assimilés) – Ademe
+  answer_source_accessible_url: https://agirpourlatransition.ademe.fr/collectivites/amenager-territoire/gestion-dechets
+  answer_source_accessible_url_text: 'Gestion des déchets : adoptez des pratiques
+    plus durables et favoriser l’économie circulaire, site ADEME'
   answer_source_scientific_url: https://www.actu-environnement.com/media/pdf/news-35407-chiffres-cles-dechets-2019.pdf
   answer_source_scientific_url_text: Déchets Chiffres-clés - ADEME 2019
-  answer_book_recommendation: '"L''age des low-techs", Ph. Bihouix'
+  answer_book_recommendation: L'age des low-techs, Ph. Bihouix
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000743-ce83.png
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -30516,7 +30515,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2025-04-08'
+  updated: '2025-04-09'
 - id: 744
   text: Si tous les logements en France métropolitaine baissaient leur température
     moyenne de 1°C, de combien diminuerait-on la consommation de chauffage ?
@@ -39960,7 +39959,7 @@
   - 72
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Non, ça ne change
+  answer_choice_a: Non, ça ne change rien
   answer_choice_b: Oui, d'un facteur 2 en moyenne
   answer_choice_c: Oui, d'un facteur 4
   answer_choice_d: Oui, d'un facteur 10
@@ -39976,9 +39975,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/empreinte-carbone/article/l-empreinte-carbone-de-la-france#label_onglet818
-  answer_source_accessible_url_text: L’empreinte carbone de la France - L'environnement
-    en France
+  answer_source_accessible_url: https://www.notre-environnement.gouv.fr/actualites/breves/article/en-2023-l-empreinte-carbone-et-les-emissions-de-ges-de-la-france-diminuent
+  answer_source_accessible_url_text: L’empreinte carbone de la France - site officiel
+    du gouvernement
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -39991,7 +39990,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-04-08'
+  updated: '2025-04-09'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -40201,8 +40200,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.hygiene-numerique.com/dossiers/sobriete-numerique-greenit-vos-leviers-daction-pour-reduire-votre-empreinte-environnementale/
+  answer_source_accessible_url_text: 'Sobriété numérique (GreenIT) : Vos leviers d’action
+    pour réduire votre empreinte environnementale'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -40215,7 +40215,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-04-08'
+  updated: '2025-04-09'
 - id: 999
   text: Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
     a émis plus de carbone qu'elle n'en a capté.
@@ -47270,17 +47270,23 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 350 mètres carrés, c'est la taille de jardin nécessaire pour
-    nourrir quatre personnes.
+  answer_explanation: "L'urine est un déchet organique simple à recycler, naturel\
+    \ et facilement exploitable. Elle contient des minéraux facilement assimilables\
+    \ par les plantes, comme l’azote pour la croissance, le potassium et le phosphore,\
+    \ du magnésium, du calcium, du souffre, du sodium, du chlore, des oligo-éléments…\
+    \ Et en plus d’être utile au jardin, son recyclage permet de diminuer les eaux\
+    \ usées à traiter. \r\nAvec l'urine d'une personne sur an, on fertilise 350 m2.\
+    \ C'est la taille de jardin nécessaire pour nourrir quatre personnes en légumes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.jardiner-autrement.fr/lurine-comme-engrais-au-jardin-oui-mais/
   answer_source_accessible_url_text: L'urine comme engrais au jardin ?
-  answer_source_scientific_url: http://www.ecosanres.org/pdf_files/EcoRanRes_Urine_Guide_FRENCH_111026.pdf
-  answer_source_scientific_url_text: Conseils pratiques pour une utilisation  de l’urine
-    en production agricole (Richert et al 2011) (résumé exécutif page VIII)
+  answer_source_scientific_url: https://www.leesu.fr/ocapi/wp-content/uploads/2018/12/EcoSanRes_Urine_Guide_FRENCH_111026.pdf
+  answer_source_scientific_url_text: onseils Pratiques pour une Utilisation de l’Urine
+    en Production Agricole - Anna Richert, Robert Gensch, Håkan Jönsson, Thor-Axel
+    Stenström et Linus Dagerskog
   answer_book_recommendation: Renaud de Looze, L’urine de l’or liquide au jardin,
     éditions de Terran, 2016
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5ed45471.jpg
@@ -47292,7 +47298,7 @@
   validator: 2
   validation_date: '2024-05-07'
   created: '2024-04-24'
-  updated: '2025-03-28'
+  updated: '2025-04-09'
 - id: 1161
   text: Quelle quantité moyenne de compost une famille de 4 personnes qui utilise
     des toilettes sèches produit-elle annuellement ?
@@ -51749,16 +51755,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 1
   language: FRENCH
@@ -51794,16 +51800,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1270
   text: Une vache canulée est...
   hint: ''
   type: QCM
-  category: null
+  category: 4
   tags: []
   difficulty: 1
   language: FRENCH
@@ -51833,16 +51839,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1271
   text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
   hint: ''
   type: VF
-  category: null
+  category: 4
   tags: []
   difficulty: 1
   language: FRENCH
@@ -51869,16 +51875,16 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
-  answer_image_url: ''
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1271-goat-spider.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1272
   text: Test raphael
   hint: ''

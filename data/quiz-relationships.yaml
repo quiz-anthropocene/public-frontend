@@ -213,3 +213,8 @@
   to_quiz: 114
   status: traduction
   created: '2024-05-28'
+- id: 45
+  from_quiz: 96
+  to_quiz: 76
+  status: similaire
+  created: '2025-04-08'
