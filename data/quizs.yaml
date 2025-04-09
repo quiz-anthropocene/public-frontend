@@ -1721,7 +1721,7 @@
   publish_date: '2021-11-26'
   spotlight: true
   created: '2021-11-16'
-  updated: '2024-02-22'
+  updated: '2025-04-08'
 - id: 77
   name: Archipel du Vivant
   slug: archipel-du-vivant
@@ -2634,11 +2634,18 @@
   - 1160
   question_count: 10
   tags:
-  - 98
-  - 100
+  - 4
+  - 5
+  - 13
+  - 33
+  - 34
+  - 36
+  - 55
+  - 228
+  - 231
   difficulty_average: 1.8
   language: FRENCH
-  image_background_url: ''
+  image_background_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/quizs/96-background.png
   has_audio: false
   authors:
   - 2
@@ -2648,7 +2655,7 @@
   validation_date: '2025-04-08'
   publish: false
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2023-02-07'
   updated: '2025-04-08'
 - id: 97
