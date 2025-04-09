@@ -51749,16 +51749,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 1
   language: FRENCH
@@ -51794,16 +51794,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1270
   text: Une vache canulée est...
   hint: ''
   type: QCM
-  category: null
+  category: 4
   tags: []
   difficulty: 1
   language: FRENCH
@@ -51833,16 +51833,16 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1271
   text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
   hint: ''
   type: VF
-  category: null
+  category: 4
   tags: []
   difficulty: 1
   language: FRENCH
@@ -51869,16 +51869,16 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: A Bestiary of the Anthropocene, Nicolas Nova & Disnovation.org
-  answer_image_url: ''
+  answer_image_url: https://raw.githubusercontent.com/quiz-anthropocene/public-frontend/refs/heads/master/data/images/questions/1271-goat-spider.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 1
+  validation_date: '2025-04-08'
   created: '2025-03-27'
-  updated: '2025-03-28'
+  updated: '2025-04-08'
 - id: 1272
   text: Test raphael
   hint: ''
