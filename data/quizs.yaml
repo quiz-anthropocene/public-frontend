@@ -2399,9 +2399,10 @@
     de cet anthropocène, cet<em> âge de l'humain</em>.</p>
   conclusion: "<p>Un quiz en mémoire à l'auteur de l'ouvrage <a href=\"https://www.bestiaryanthropocene.com/\"\
     >A Bestiary of Anthropocene</a> dont sont extraites ces questions, l'anthropologue\
-    \ Nicolas Nova.<br />\r\nPour aller plus loin, cette <a href=\"http://disnovation.org/bestiary_videoessay.php\"\
-    >vidéo</a> de 15 min issue d'une exposition itinérante de disnovation.org</p>\r\
-    \n\r\n<p> </p>"
+    \ Nicolas Nova.<br />\r\nPour s'immerger plus profondément dans les manifestations\
+    \ de ces objets et créatures, nous vous recommandons  cette <a href=\"http://disnovation.org/bestiary_videoessay.php\"\
+    >vidéo</a> de 15 min issue d'une exposition itinérante de disnovation.org sur\
+    \ la base de l'ouvrage.</p>\r\n\r\n<p> </p>"
   questions:
   - 1090
   - 1091
@@ -2412,8 +2413,11 @@
   - 1271
   question_count: 7
   tags:
+  - 9
   - 26
   - 32
+  - 86
+  - 97
   difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/84e6d9a7.jpg
@@ -2421,14 +2425,14 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 1
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2022-11-27'
-  updated: '2025-04-02'
+  updated: '2025-04-14'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
