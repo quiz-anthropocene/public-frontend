@@ -2618,19 +2618,19 @@
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles
-  introduction: <p><a href="https://nosgestesclimat.fr">Nos Gestes Climat</a>Face
-    aux dérèglements provoqués par les différents empreintes humaines évoquées dans
-    ce site, quelle part pour les actions à l'échelle individuelle ? Ce petit quiz
-    pour fixer quelques ordres de grandeur, et vous inspirer peut-être ?</p>
+  introduction: <p>Face aux dérèglements provoqués par les différents empreintes humaines
+    évoquées dans ce site, quelle part pour les actions à l'échelle individuelle ?
+    Ce petit quiz pour fixer quelques ordres de grandeur, et vous inspirer peut-être
+    ?</p>
   conclusion: "<p>Pour se mettre en action, voici des initiatives intéressantes pour\
-    \ activer votre levier individuel.</p>\r\n\r\n<p>Nos Gestes Climat, le site de\
-    \ l'ADEME pour mesurer rapidement votre empreinte carbone individuelle, un premier\
-    \ pas</p>\r\n\r\n<p><a href=\"https://mapetiteplanete.org/\">Ma Petite Planète</a>, \
-    \ un défi en équipe pour réaliser un maximum d’éco-gestes en 3 semaines.</p>\r\
-    \n\r\n<p><a href=\"https://cacommenceparmoi.org/\">Ca commence par moi </a>: un\
-    \ site et un livre par Julien Vidal recensant des centaines d’actions individuelles\
-    \ pour un mode de vie plus durable.<br />\r\nN'oublies pas non plus la dimension\
-    \ collective et politique de l'enjeu. A vous de joeur !</p>"
+    \ activer votre levier individuel.</p>\r\n\r\n<p><a href=\"https://nosgestesclimat.fr\"\
+    >Nos Gestes Climat</a>, le site de l'ADEME pour mesurer rapidement votre empreinte\
+    \ carbone individuelle, un premier pas</p>\r\n\r\n<p><a href=\"https://mapetiteplanete.org/\"\
+    >Ma Petite Planète</a>,  un défi en équipe pour réaliser un maximum d’éco-gestes\
+    \ en 3 semaines.</p>\r\n\r\n<p><a href=\"https://cacommenceparmoi.org/\">Ca commence\
+    \ par moi </a>: un site et un livre par Julien Vidal recensant des centaines d’actions\
+    \ individuelles pour un mode de vie plus durable.<br />\r\nN'oubliez pas non plus\
+    \ la dimension collective et politique de l'enjeu. A vous de jouer !</p>"
   questions:
   - 1
   - 19
@@ -2667,7 +2667,7 @@
   publish_date: null
   spotlight: true
   created: '2023-02-07'
-  updated: '2025-04-14'
+  updated: '2025-04-15'
 - id: 97
   name: Fresque de la Renaissance Ecologique
   slug: fresque-de-la-renaissance-ecoloqieu
