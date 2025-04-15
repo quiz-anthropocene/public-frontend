@@ -3994,9 +3994,8 @@
   updated: '2023-07-10'
 - id: 95
   text: On définit le degré d'autonomie alimentaire comme la part d'aliments qui sont
-    approvisionnés localement dans un certain rayon. L'aire urbaine d'Avignon est
-    celle qui possède le plus haut degré niveau d'autonomie alimentaire en France.
-    A combien s'élève-t-il ?
+    approvisionnés localement dans un certain rayon. C'est dans l'aire urbaine d'Avignon
+    qu'il est le plus élevé en France. A combien s'élève-t-il ?
   hint: Une large majorité de l’alimentation des aires urbaines provient de l’extérieur.
   type: QCM
   category: 2
@@ -4037,7 +4036,7 @@
   validator: 5
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2025-03-28'
+  updated: '2025-04-14'
 - id: 96
   text: Quelle quantité d'aliments jette-t-on chaque année en France par personne
     ?
@@ -38069,8 +38068,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: http://multimedia.ademe.fr/animations/alimentation/
-  answer_source_accessible_url_text: Qu'est-ce qu'on fait ?! - Manger mieux
-  answer_source_scientific_url: https://nosgestesclimat.fr/actions/plus/alimentation/d%C3%A9chets/vrac
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
   answer_source_scientific_url_text: Nos gestes climat - Faire ses courses en vrac
     et essayer de réduire les emballages alimentaires
   answer_book_recommendation: ''
@@ -38084,7 +38083,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-03-28'
+  updated: '2025-04-14'
 - id: 923
   text: Parmi les poissons que l'on pêche, quelle proportion est exploitée à la limite
     ou au-delà de leur capacité de régénération ?
@@ -38111,9 +38110,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.msc.org/fr/nos-actions/les-oceans-en-danger/surpeche-peche-illegale-et-destructrice
-  answer_source_accessible_url_text: MSC France | Surpêche, pêche illégale et destructrice
-    | Marine Stewardship Council
+  answer_source_accessible_url: https://www.msc.org/fr/nos-actions/mettre-fin-a-la-surpeche/surpeche
+  answer_source_accessible_url_text: MSC France | Qu’est-ce que la surpêche et quelles
+    sont les solutions ?
   answer_source_scientific_url: http://www.fao.org/3/ca9229fr/ca9229fr.pdf
   answer_source_scientific_url_text: 2020 - LA SITUATION MONDIALE DES PECHES ET DE
     L’AQUACULTURE LA DURABILITÉ EN ACTION
@@ -38127,7 +38126,7 @@
   validator: 2
   validation_date: '2021-02-25'
   created: '2021-02-18'
-  updated: '2025-03-28'
+  updated: '2025-04-14'
 - id: 924
   text: Quelle proportion des fruits et légumes que nous consommons vient de l'étranger
     ?
@@ -38327,14 +38326,13 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "En France, la grande distribution représente les trois quarts\
-    \ des dépenses de produits alimentaires. Les circuits courts, eux, ne représentent\
-    \ que 6 à 7%.\r\nUne crise énergétique soudaine aurait des impacts immédiats majeurs\
-    \ sur le système alimentaire. L’approvisionnement de la population repose très\
-    \ majoritairement sur les poids lourds, la grande distribution, les véhicules\
-    \ utilitaires de livraison et la voiture individuelle. Le système de production\
-    \ et de distribution fonctionne en flux tendu et ne dispose par conséquent que\
-    \ de très peu de stocks. Une perturbation des transports routiers peut rapidement\
-    \ compromettre localement ou plus largement la sécurité alimentaire."
+    \ des dépenses de produits alimentaires. Les circuits courts n'en représentent\
+    \ que 6 à 7%. \r\nL’approvisionnement de la population repose très majoritairement\
+    \ sur les poids lourds, la grande distribution, les véhicules utilitaires de livraison\
+    \ et la voiture individuelle. Le système de production et de distribution fonctionne\
+    \ en flux tendu et ne dispose par conséquent que de très peu de stocks. Une perturbation\
+    \ des transports routiers ou une crise énergétique soudaine par exemple auraient\
+    \ des impacts immédiats majeurs sur la sécurité alimentaire."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38355,7 +38353,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-03-28'
+  updated: '2025-04-14'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
     par et pour l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes)
@@ -44173,7 +44171,7 @@
     du consommateur pour aller faire les courses. En milieu ultra-rural comme majoritaire
     dans le Limousin, un consommateur doit utiliser la voiture rejoindre un commerce
     distant, et ainsi déplacer une tonne de métal pour ramener à la maison peut être
-    10kgs de nourriture. En comparaison, le transport par camion de 20tonnes de pommes
+    10kgs de nourriture. En comparaison, le transport par camion de 20 tonnes de pommes
     jusqu'à Paris est bien plus efficace.
   answer_extra_info: Dans le cadre de transport à l'international comme par exemple
     pour des pommes produites en Nouvelle Zélande, le transport prends alors une part
@@ -44186,7 +44184,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2025-03-28'
+  updated: '2025-04-14'
 - id: 1089
   text: Quelle quantité de microplastiques une baleine ingère-t-elle sur une saison
     ?
@@ -51733,7 +51731,7 @@
   language: FRENCH
   answer_choice_a: D'une classe de vertébrés marins avec deux paires de membres
   answer_choice_b: De blocs de béton à quatre pieds
-  answer_choice_c: ''
+  answer_choice_c: Un jeu de plage à 4 joueurs
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: false
@@ -51759,7 +51757,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-27'
-  updated: '2025-04-08'
+  updated: '2025-04-14'
 - id: 1269
   text: Qu'entend-on par 'le monde urk'
   hint: ''
