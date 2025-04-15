@@ -3873,11 +3873,6 @@
   question: 924
   order: 90
   created: '2025-03-28'
-- id: 1041
-  quiz: 118
-  question: 927
-  order: 500
-  created: '2025-03-28'
 - id: 1042
   quiz: 118
   question: 928
@@ -3897,11 +3892,6 @@
   quiz: 118
   question: 966
   order: 950
-  created: '2025-03-28'
-- id: 1046
-  quiz: 118
-  question: 574
-  order: 30
   created: '2025-03-28'
 - id: 1047
   quiz: 118

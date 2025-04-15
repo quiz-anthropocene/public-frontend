@@ -23169,7 +23169,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2025-03-28'
+  updated: '2025-04-15'
 - id: 575
   text: Vrai ou faux ? La taille d'une société est liée aux croyances religieuses
     ?
@@ -38305,7 +38305,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-03-28'
+  updated: '2025-04-15'
 - id: 928
   text: Dans quelle proportion les Français s'approvisionnent-ils dans les grandes
     surfaces pour leurs produits alimentaires ?
@@ -43068,11 +43068,11 @@
     réponse fausse, et inciter à aller le consulter.'
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-02'
-  updated: '2024-12-11'
+  updated: '2025-04-15'
 - id: 1064
   text: Lesquelles des caractéristiques suivantes s'appliquent à l'agroécologie ?
     (
