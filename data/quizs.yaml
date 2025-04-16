@@ -2428,11 +2428,11 @@
   validation_status: VALIDATED
   validator: 1
   validation_date: null
-  publish: true
+  publish: false
   publish_date: null
-  spotlight: true
+  spotlight: false
   created: '2022-11-27'
-  updated: '2025-04-14'
+  updated: '2025-04-15'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
