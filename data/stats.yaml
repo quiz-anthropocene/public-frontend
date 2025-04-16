@@ -10,7 +10,7 @@ question_per_language_count:
 - language: GERMAN
   total: 9
 quiz_count: 82
-quiz_published_count: 53
+quiz_published_count: 52
 quiz_per_language_count:
 - language: FRENCH
   total: 65
@@ -20,15 +20,15 @@ quiz_per_language_count:
   total: 5
 - language: GERMAN
   total: 1
-question_answer_count: 815461
-quiz_answer_count: 61460
-question_answer_count_last_30_days: 21291
-quiz_answer_count_last_30_days: 1618
+question_answer_count: 815572
+quiz_answer_count: 61467
+question_answer_count_last_30_days: 21224
+quiz_answer_count_last_30_days: 1615
 category_count: 8
 tag_count: 242
-question_feedback_count: 9642
-quiz_feedback_count: 1695
+question_feedback_count: 9659
+quiz_feedback_count: 1696
 contribution_count: 821
-question_feedback_count_last_30_days: 234
-quiz_feedback_count_last_30_days: 45
+question_feedback_count_last_30_days: 251
+quiz_feedback_count_last_30_days: 44
 contribution_count_last_30_days: 9
