@@ -4025,7 +4025,7 @@
     : Avignon et Valence, championnes de France'
   answer_source_scientific_url: https://www.utopies.com/publications/autonomie-alimentaire-des-villes/
   answer_source_scientific_url_text: 'Utopies - Note de position  #12 Autonomie alimentaire
-    des villesrapport autonomie alimentaire des villes'
+    des villes, 2019'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000095-e965.png
   answer_image_url_text: ''
@@ -4036,7 +4036,7 @@
   validator: 5
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2025-04-14'
+  updated: '2025-04-16'
 - id: 96
   text: Quelle quantité d'aliments jette-t-on chaque année en France par personne
     ?
@@ -38341,8 +38341,8 @@
   answer_source_accessible_url_text: 'Grande surface, petit commerce, Internet : où
     les Français font-ils leurs courses ?'
   answer_source_scientific_url: https://www.franceagrimer.fr/fam/content/download/56762/document/A4_vdef_%C3%A9volution%20d%C3%A9penses%20alimentaires%20m%C3%A9nages%20circuits%20distrib%202008_2017.pdf?version=4
-  answer_source_scientific_url_text: ÉVOLUTION DES DÉPENSES  ALIMENTAIRES DES MÉNAGES  DANS
-    LES CIRCUITS DE  DISTRIBUTION de 2008 à 2017
+  answer_source_scientific_url_text: Évolution des dépenses alimentaires des ménages
+    circuits de distribution de 2008 à 2017
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000928-2b57.jpg
   answer_image_url_text: ''
@@ -38353,7 +38353,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-04-14'
+  updated: '2025-04-16'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
     par et pour l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes)
