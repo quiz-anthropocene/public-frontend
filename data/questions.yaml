@@ -46182,7 +46182,8 @@
   created: '2023-02-04'
   updated: '2023-02-07'
 - id: 1134
-  text: Laquelle de ces actions permet d'éviter le plus de déchets ménagers ?
+  text: Laquelle de ces actions permet le mieux de réduire les déchets ménagers à
+    leur source ?
   hint: ''
   type: QCM
   category: 2
@@ -46195,11 +46196,17 @@
   answer_choice_d: Passer de l’eau en bouteille à l'eau du robinet
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Selon une étude de l'ADEME datant de 2016, la gestion domestique
-    des biodéchets arrive loin devant (161kg/hab/an). Ils composent en effet la plus
-    grande partie de notre poubelle grise (33%). Viennent ensuite la consigne pour
-    réemploi du verre, les autocollants stop-pub et enfin l'utilisation de l'eau du
-    robinet plutôt qu'en bouteille.
+  answer_explanation: "Selon une étude de l'ADEME datant de 2016, la gestion domestique\
+    \ des biodéchets arrive loin devant (161kg/hab/an). Ils composent en effet la\
+    \ plus grande partie de notre poubelle grise (33%). Viennent ensuite la consigne\
+    \ pour réemploi du verre, les autocollants stop-pub et enfin l'utilisation de\
+    \ l'eau du robinet plutôt qu'en bouteille.\r\nDepuis 2024, la collecte des biodéchets\
+    \ est devenue obligatoire pour toutes les collectivités. Cela signifie que les\
+    \ biodéchets (épluchures, restes de repas, etc.) sont censés être séparés et valorisés\
+    \ par les collectivités, soit par collecte dédiée, soit via compostage de proximité\
+    \ ou domestique. De ce fait, le bénéfice marginal de composter chez soi est moins\
+    \ important qu'en 2016, parce que ce flux de déchets est désormais déjà détourné\
+    \ des ordures ménagères résiduelles (la “poubelle grise”)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46221,7 +46228,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-04-08'
+  updated: '2025-04-20'
 - id: 1135
   text: Votre dernière heure a bientôt sonné et vous souhaitez quitter ce monde avec
     une empreinte carbone minimale, en toute légalité. Quel est le meilleur choix
