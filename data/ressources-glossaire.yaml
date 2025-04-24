@@ -655,3 +655,11 @@
   language: FRENCH
   created: '2025-04-09'
   updated: '2025-04-09'
+- name: bestiaire
+  name_alternatives: ''
+  definition_short: recueil d'images ayant trait aux animaux, réels ou imaginaires
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2025-04-23'
+  updated: '2025-04-23'
