@@ -33550,10 +33550,10 @@
   has_ordered_answers: true
   answer_explanation: "La concentration atmosphérique de CO2 pendant les périodes\
     \ interglaciaires (telle que celle où nous sommes depuis 10 000 ans) était d’environ\
-    \ 280ppm.\r\nLorsque les calottes glaciaires recouvraient l'intégralité du Canada\
+    \ 280ppm. Lorsque les calottes glaciaires recouvraient l'intégralité du Canada\
     \ et une bonne partie de l'Europe, la concentration atmosphérique en CO2 était\
-    \ de 180 ppm.\r\nSeulement 100 ppm séparent l’âge de glace du monde dans lequel\
-    \ notre civilisation est apparue et s’est développée.\r\n\r\nEn 2020, la concentration\
+    \ de 180 ppm. Seulement 100 ppm séparent l’âge de glace du monde dans lequel notre\
+    \ civilisation est apparue et s’est développée. \r\nEn 2020, la concentration\
     \ atmosphérique de CO2 était de 415ppm..."
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -33576,7 +33576,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2024-03-05'
+  updated: '2025-04-23'
 - id: 816
   text: La concentration en CO2 dans l’atmosphère a atteint 415 ppm en 2020, soit
     140 ppm de plus qu’au début de la révolution industrielle. Avant cela, combien
@@ -33621,7 +33621,7 @@
   created: '2021-01-18'
   updated: '2024-03-05'
 - id: 817
-  text: Combien d'années faut-il remonter dans le passé pour retrouver une concentration
+  text: De combien d'années faut-il remonter dans le passé pour retrouver une concentration
     atmosphérique en CO2 supérieure à celle atteinte en 2020 ?
   hint: ''
   type: QCM
@@ -33659,7 +33659,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2024-03-05'
+  updated: '2025-04-23'
 - id: 818
   text: A quel niveau se trouvait le niveau de la mer durant le pliocène il y a 3
     millions d’années, lorsque la concentration en CO2 était au niveau de 2020 ?
@@ -33894,7 +33894,7 @@
   has_ordered_answers: true
   answer_explanation: "Selon de récentes études, le remplacement des faunes terrestres\
     \ s'est effectué il y a 252,3 millions d'années, tandis que l'extinction est datée\
-    \ à 251,9 millions d'années dans les environnements marins.\r\nIl s’est donc écoulé\
+    \ à 251,9 millions d'années dans les environnements marins. Il s’est donc écoulé\
     \ environ 300 000 ans entre l’extinction des espèces terrestres et celle des espèces\
     \ marines.\r\nC’est une durée très importante à notre échelle, mais cela reste\
     \ très court à l'échelle géologique !"
@@ -33933,7 +33933,7 @@
   validator: 2
   validation_date: '2021-01-25'
   created: '2021-01-18'
-  updated: '2024-03-05'
+  updated: '2025-04-23'
 - id: 824
   text: Les extinctions de masses sont souvent associées à des épisodes volcaniques
     intenses. La violence particulière de l'extinction du Permien-Trias il y a 250
@@ -43913,8 +43913,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://lejournal.cnrs.fr/billets/le-sol-cet-inconnu-quon-pietine
-  answer_source_accessible_url_text: Billet du professeur Marc-André Selosse dans
-    Libération
+  answer_source_accessible_url_text: Le sol, cet inconnu qu’on piétine…Journal du
+    CNRS / Libération, 2021
   answer_source_scientific_url: http://acces.ens-lyon.fr/acces/thematiques/CCCIC/ressources/litho_point6
   answer_source_scientific_url_text: 'Cours de l''ENS : Cycle du carbone et effet
     de serre'
@@ -43928,7 +43928,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-09-28'
+  updated: '2025-04-23'
 - id: 1084
   text: 'Depuis le début de l’ère industrielle, beaucoup de sols ont changé d''affectation,
     notamment, en défrichant et travaillant la terre pour les transformer en terres
@@ -44008,8 +44008,8 @@
   answer_source_accessible_url_text: Ministère de l'agriculture - comment les sols
     atténuent les effets du changement climatique
   answer_source_scientific_url: https://link.springer.com/article/10.1007/s11104-020-04651-9
-  answer_source_scientific_url_text: Article "Eco-functionality of organic matter
-    in soils" de Hoffland et al., Plant and Soil 2020
+  answer_source_scientific_url_text: Eco-functionality of organic matter in soils,
+    Hoffland et al., Plant and Soil, 2020
   answer_book_recommendation: https://www.inrae.fr/actualites/stocker-4-1000-carbone-sols-potentiel-france
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/42f9898d.jpg
   answer_image_url_text: ''
@@ -44020,7 +44020,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-01-25'
+  updated: '2025-04-23'
 - id: 1086
   text: Le cycle de l'azote fait partie des limites planétaires évoquées par les scientifiques,
     et le seuil d'alerte a été largement dépassé. Pour quelles raisons ?
@@ -44725,8 +44725,8 @@
   updated: '2023-01-31'
 - id: 1100
   text: Pour son édition de 2021 en plein COVID, la Fête du Court-Métrage a décidé
-    de proposer les films pour enfants en téléchargement, et les films pour adultes
-    en streaming. Pour quelle raison ?
+    de proposer les films pour enfants en téléchargement, et les autres en streaming.
+    Pour quelle raison ?
   hint: Eat Sleep Rave Repeat
   type: QCM
   category: 2
@@ -44768,7 +44768,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-26'
-  updated: '2023-01-30'
+  updated: '2025-04-23'
 - id: 1101
   text: Par rapport à un livre vendu en libraire, l'impact carbone d'un livre proposé
     en bibliothèque est...
@@ -44862,7 +44862,7 @@
   created: '2022-12-28'
   updated: '2023-02-01'
 - id: 1103
-  text: 'L''empreinte carbone moyenne d''un DJ professionnel en tournée est :'
+  text: 'L''empreinte carbone moyenne d''un DJ renommé en tournée est :'
   hint: Last night a dj took a flight
   type: QCM
   category: 1
@@ -44905,10 +44905,10 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2023-01-31'
+  updated: '2025-04-23'
 - id: 1104
-  text: Les Scènes Nationales sont des théâtres publics français labellisés. A combien
-    de représentations un spectacle donne-t-il lieu en moyenne ?
+  text: Une fois créé, un spectacle donne lieu à des représentations. Sur le périmètre
+    des Scènes Nationales, combien de fois un spectacle est-il joué en moyenne ?
   hint: Obsolescence programmée
   type: QCM
   category: 2
@@ -44948,7 +44948,7 @@
   validator: 2
   validation_date: '2023-01-30'
   created: '2022-12-28'
-  updated: '2024-01-24'
+  updated: '2025-04-23'
 - id: 1105
   text: Vrai ou faux ? Les prairies peuvent devenir des puits de carbone importants
   hint: ''
