@@ -2612,9 +2612,9 @@
   validation_date: '2023-02-10'
   publish: true
   publish_date: null
-  spotlight: true
+  spotlight: false
   created: '2023-02-07'
-  updated: '2024-06-12'
+  updated: '2025-04-24'
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles
@@ -2967,9 +2967,9 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: true
+  spotlight: false
   created: '2024-04-03'
-  updated: '2024-05-16'
+  updated: '2025-04-24'
 - id: 106
   name: Sans transition
   slug: sans-transition
