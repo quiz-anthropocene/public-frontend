@@ -2478,9 +2478,9 @@
   validation_date: '2023-01-30'
   publish: true
   publish_date: '2023-01-30'
-  spotlight: true
+  spotlight: false
   created: '2022-12-26'
-  updated: '2023-02-14'
+  updated: '2025-04-24'
 - id: 93
   name: Population and Overpopulation
   slug: population-and-overpopulation
@@ -2575,9 +2575,9 @@
   validation_date: '2023-02-07'
   publish: true
   publish_date: '2023-02-07'
-  spotlight: true
+  spotlight: false
   created: '2023-02-02'
-  updated: '2023-02-07'
+  updated: '2025-04-24'
 - id: 95
   name: Les questions les plus insolites
   slug: questions-insolites
@@ -2924,9 +2924,9 @@
   validation_date: '2024-02-27'
   publish: true
   publish_date: '2024-02-27'
-  spotlight: true
+  spotlight: false
   created: '2024-02-14'
-  updated: '2024-02-27'
+  updated: '2025-04-24'
 - id: 105
   name: Des toilettes à l'assiette
   slug: des-toilettes-a-lassiette
