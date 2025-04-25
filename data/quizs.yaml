@@ -2967,7 +2967,7 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2024-04-03'
   updated: '2025-04-24'
 - id: 106
