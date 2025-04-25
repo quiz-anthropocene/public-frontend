@@ -20,13 +20,13 @@ quiz_per_language_count:
   total: 5
 - language: GERMAN
   total: 1
-question_answer_count: 819190
-quiz_answer_count: 61703
-question_answer_count_last_30_days: 21661
-quiz_answer_count_last_30_days: 1633
+question_answer_count: 819262
+quiz_answer_count: 61709
+question_answer_count_last_30_days: 18757
+quiz_answer_count_last_30_days: 1351
 category_count: 8
 tag_count: 242
-question_feedback_count: 9681
+question_feedback_count: 9682
 quiz_feedback_count: 1701
 contribution_count: 823
 question_feedback_count_last_30_days: 255
