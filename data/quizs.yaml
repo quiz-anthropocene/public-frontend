@@ -3299,7 +3299,7 @@
   tags: []
   difficulty_average: 2.0
   language: ITALIAN
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000079-9514.jpg
   has_audio: false
   authors:
   - 81
@@ -3311,7 +3311,7 @@
   publish_date: '2025-03-27'
   spotlight: true
   created: '2024-05-28'
-  updated: '2025-03-27'
+  updated: '2025-04-29'
 - id: 114
   name: Affresco del Clima JR - quiz famiglia
   slug: affresco-clima-junior
