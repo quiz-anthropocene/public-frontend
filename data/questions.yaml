@@ -2233,7 +2233,7 @@
   validator: 1
   validation_date: null
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-07'
 - id: 53
   text: D'après l'ONU, le nombre de décès causés chaque année dans le monde par la
     pollution est de...
@@ -3113,11 +3113,9 @@
   answer_choice_d: 10ème
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Si internet était un pays, il serait le troisième plus gros
-    consommateur d’électricité au monde, derrière la Chine et les États-Unis, avec
-    quelques 1,500 térawattheures (TWh) par an, avancent des experts. Mais il faut
-    un peu relativiser ces chiffres avec le nombre d'utilisateurs, qui se chiffre
-    en milliards.
+  answer_explanation: Un tel internetland arriverait derrière derrière la Chine et
+    les États-Unis, avec quelques 1,500 térawattheures (TWh) par an, avancent des
+    experts (chiffres 2020). L'arrivée de l'IA amplifie encore le phénomène.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -3140,7 +3138,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-07'
 - id: 75
   text: Quelle proportion du CO2 les 10% les plus riches de la planète émettent-ils
     ?
@@ -3576,7 +3574,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-05-07'
 - id: 85
   text: Combien d'hectares (10,000 m2) la forêt française metropolitaine couvre-t-elle
     ?
@@ -11935,7 +11933,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-06-12'
+  updated: '2025-05-07'
 - id: 295
   text: Quelle est la première utilisation du bois récolté en France métropolitaine
     ?
@@ -12775,7 +12773,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-05-07'
 - id: 316
   text: Quelle est la dernière année où les émissions des Français ont été inférieures
     à 2 tonnes de CO2 par habitant ? (2 tonnes par an et par habitant, c'est l'objectif
@@ -34178,11 +34176,11 @@
   validator: 2
   validation_date: '2021-01-28'
   created: '2021-01-21'
-  updated: '2024-03-05'
+  updated: '2025-05-07'
 - id: 830
-  text: 'Au niveau mondial, et toutes étapes du cycle de vie confondues, quelle part
-    le numérique représente-t-il dans nos émissions de gaz à effet de serre ? (référence
-    : 2018)'
+  text: 'Au niveau mondial, et sur l''ensemble du cycle de vie des produits, quelle
+    part le numérique représente-t-il dans nos émissions de gaz à effet de serre ?
+    (référence : 2018)'
   hint: C'est plus que l'aviation civile
   type: QCM
   category: 2
@@ -34191,7 +34189,7 @@
   - 100
   difficulty: 2
   language: FRENCH
-  answer_choice_a: négligeable, c'est dématérialisé
+  answer_choice_a: négligeable car c'est dématérialisé
   answer_choice_b: 2%
   answer_choice_c: 4%
   answer_choice_d: 10%
@@ -34200,8 +34198,7 @@
   answer_explanation: "Si on compte les émissions de GES dues à la fabrication plus\
     \ celles dues à l'usage (principalement électricité), le secteur du numérique\
     \ représente déjà près de 4% de nos émissions de GES, soit plus que l'aviation\
-    \ civile.\r\nA noter : la part liée aux déchets n'est pas documentée à ce jour\
-    \ (elle est sans doute très faible - malheureusement)."
+    \ civile.\r\nA noter : la part liée aux déchets n'est pas documentée à ce jour."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -34221,7 +34218,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2024-03-05'
+  updated: '2025-05-07'
 - id: 831
   text: Quelle part du trafic internet la vidéo représente-t-elle ?
   hint: C'est plus que ce que l'on croit :)
@@ -34305,7 +34302,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2024-03-05'
+  updated: '2025-05-07'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -46407,23 +46404,22 @@
   updated: '2024-02-27'
 - id: 1139
   text: Dans les logiciels et applications sur smartphone, quelle est la proportion
-    de fonctionnalités réellement utilisées ?
+    de fonctionnalités qui ne sont jamais utilisées ?
   hint: ''
   type: QCM
   category: 2
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 20%
-  answer_choice_b: 36%
-  answer_choice_c: 55 %
-  answer_choice_d: 80%
-  answer_correct: bc
+  answer_choice_a: 10%
+  answer_choice_b: 30%
+  answer_choice_c: 45%
+  answer_choice_d: 60%
+  answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'C''est une question peu documentée mais essentielle: quelle
-    proportion de fonctionnalités développées utilise-t''on *vraiment* ? Une étude
-    du groupe Standish sur une centaine de projets numérique montre 45% des fonctionnalités
-    n''ont jamais utilisées, et 19% d''entre elles sont très utilisées.'
+  answer_explanation: C'est ce qui ressort d'une étude du groupe Standish sur une
+    centaine de projets numérique. 45% des fonctionnalités n'ont jamais été utilisées.
+    Seules 19% d'entre elles sont très utilisées.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46433,7 +46429,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/742281a5.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 4
@@ -46442,7 +46438,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2023-02-21'
+  updated: '2025-05-07'
 - id: 1140
   text: Vero o falso? Il Clima è la stessa cosa delle previsioni meteo.
   hint: ''
@@ -49490,16 +49486,16 @@
   answer_source_scientific_url: https://www.lifegate.it/storie-paesi-combattono-desertificazione
   answer_source_scientific_url_text: Storie di paesi che combattono la desertificazione
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85b198c4.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-05-07'
   created: '2024-05-28'
-  updated: '2024-05-29'
+  updated: '2025-05-07'
 - id: 1215
   text: Ogni anno, l'Internal Displacement Monitoring Centre (IDMC) misura il numero
     di sfollati interni nel mondo a causa di disastri naturali o conflitti. Nel 2019,
