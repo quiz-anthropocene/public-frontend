@@ -470,14 +470,11 @@
     \ d’ici 2025.</p>\r\n\r\n<p>Ce quiz est centré sur les cartes du 4ème lot distribué\
     \ lors d'une fresque.</p>"
   conclusion: <p><a href="https://fresqueduclimat.org">https://fresqueduclimat.org</a></p>
-  questions:
-  - 52
-  - 294
-  - 315
-  question_count: 3
+  questions: []
+  question_count: 0
   tags:
   - 142
-  difficulty_average: 2.7
+  difficulty_average: 0.0
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000013-eb5a.jpg
   has_audio: false
@@ -491,7 +488,7 @@
   publish_date: null
   spotlight: false
   created: '2020-07-29'
-  updated: '2024-05-28'
+  updated: '2025-05-07'
 - id: 14
   name: La Fresque du Climat - Lot 5
   slug: la-fresque-du-climat-lot-5
@@ -3504,3 +3501,31 @@
   spotlight: false
   created: '2025-03-28'
   updated: '2025-04-15'
+- id: 119
+  name: Burger Quiz AI France 17 avril 2025
+  slug: burger-quiz-ai-france-17-avril-2025
+  introduction: "<p>Bienvenue au Burger Quiz de l'Anthropocène !<br />\r\nFocus du\
+    \ jour : le numérique.<br />\r\nAttention, c'est parti !</p>"
+  conclusion: ''
+  questions:
+  - 74
+  - 84
+  - 829
+  - 832
+  question_count: 4
+  tags: []
+  difficulty_average: 2.2
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/64601ed7.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-05-07'
+  updated: '2025-05-07'
