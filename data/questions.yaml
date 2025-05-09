@@ -46367,10 +46367,10 @@
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: 10% Mobile / 20% Data Center / 70% Infrastructure réseau
-  answer_choice_b: 33% Mobile / 33% Data Center / 33% Infrastructure réseau
-  answer_choice_c: 50% Mobile / 40% Data Center / 10% Infrastructure réseau
-  answer_choice_d: 85% Mobile / 10% Data Center / 5% Infrastructure réseau
+  answer_choice_a: 12% Mobile / 18% Data Center / 70% Infrastructure réseau
+  answer_choice_b: 37% Mobile / 40% Data Center / 23% Infrastructure réseau
+  answer_choice_c: 48% Mobile / 42% Data Center / 10% Infrastructure réseau
+  answer_choice_d: 79% Mobile / 16% Data Center / 5% Infrastructure réseau
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Héberger son site dans un data center, c'est utiliser des ressources\
@@ -46386,13 +46386,13 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.greenit.fr/wp-content/uploads/2021/02/2021-01-iNum-etude-impacts-numerique-France-rapport-0.8.pdf
-  answer_source_accessible_url_text: Impacts  environnementaux  du numérique  en France
-    - Green IT
+  answer_source_accessible_url: https://www.arcep.fr/uploads/tx_gspublication/dossier-presse-Etude-Ademe-Arcep-lot3_mars2023.pdf
+  answer_source_accessible_url_text: 'Etude ADEME-Arcep : évaluation de l’empreinte
+    environnementale du numérique en France en 2020, 2030 et 2050'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0ac27474.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 4
@@ -46401,7 +46401,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2024-02-27'
+  updated: '2025-05-08'
 - id: 1139
   text: Dans les logiciels et applications sur smartphone, quelle est la proportion
     de fonctionnalités qui ne sont jamais utilisées ?
@@ -46417,9 +46417,13 @@
   answer_choice_d: 60%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: C'est ce qui ressort d'une étude du groupe Standish sur une
-    centaine de projets numérique. 45% des fonctionnalités n'ont jamais été utilisées.
-    Seules 19% d'entre elles sont très utilisées.
+  answer_explanation: "C'est ce qui ressort d'une étude du groupe Standish sur une\
+    \ centaine de projets numérique. 45% des fonctionnalités n'ont jamais été utilisées\
+    \ et seules 19% d'entre elles sont très utilisées.\r\nMaintenir des fonctionnalités\
+    \ utilisables alors qu'elles ne sont pas utilisées alourdit la maintenance et\
+    \ la dette technique, et par conséquent l'empreinte environnementale d'un service\
+    \ numérique, sans pour autant apporter de valeur. C'est aux rôles projets et design\
+    \ (PO, UX, chefs de projets...) de challenger le besoin pour éviter ce problème."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46438,7 +46442,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2025-05-07'
+  updated: '2025-05-08'
 - id: 1140
   text: Vero o falso? Il Clima è la stessa cosa delle previsioni meteo.
   hint: ''
@@ -51920,3 +51924,44 @@
   validation_date: null
   created: '2025-03-28'
   updated: '2025-04-04'
+- id: 1273
+  text: Les nouvelles technologies  permettent de faire mieux, plus vite et plus léger
+  hint: ''
+  type: VF
+  category: 8
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: D'après l'association GreenIT, le poids des logiciels a été
+    multiplié par 171
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.greenit.fr/2020/08/18/x171-la-croissance-du-poids-de-nos-logiciels/
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9f383190.jpg
+  answer_image_url_text: ''
+  answer_extra_info: "L'association Green IT a étudié la différence entre le poids\
+    \ de Windows 98 + Office 97 versus Windows 10 + Office 2019. La comparaison est\
+    \ particulièrement intéressante pour ce genre de logiciel et d'environnement,\
+    \ puisque nos usages n'ont pas changé entretemps. \r\nQuelle solution ? Comme\
+    \ le mentionne l'article : \r\n\"On arrête donc d’installer les mises à jour évolutives\
+    \ sans réfléchir. Mais on continue, bien entendu, à installer les mises à jour\
+    \ de sécurité et les correctifs.\""
+  author: 4
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-05-08'
+  updated: '2025-05-08'
