@@ -2689,13 +2689,14 @@
   created: '2023-02-13'
   updated: '2024-12-03'
 - id: 98
-  name: Quelles actions pour un numérique responsable ?
+  name: Quiz numérique ecoresponsable
   slug: quelles-actions-pour-un-numerique-responsable
   introduction: "<p>Vous avez peut déjà fait le quiz \"<a href=\"https://quizanthropocene.fr/quiz/le-numerique-est-il-ecologique\"\
     >Le numérique est-il écologique</a>\" ou celui de la <a href=\"https://quizanthropocene.fr/quiz/fresque-du-numerique\"\
     >Fresque du Numérique </a>mais saurez-vous reconnaître quels pièges éviter quand\
-    \ il faut développer une solution numérique plus sobre et plus utile ?</p>\r\n\
-    \r\n<p> </p>"
+    \ il faut développer une solution numérique plus sobre et plus utile ?<br />\r\
+    \nDigital League vous invite à tester vos connaissances ou découvrir quelques\
+    \ bonnes pratiques !<br />\r\n </p>\r\n\r\n<p> </p>"
   conclusion: <p>Vous l'aurez compris, quand on crée un service numérique, il faut
     jouer collectif pour activer tous les leviers de la sobriété ! Vous pouvez également
     faire l'Atelier Numérique Responsable en équipe pour sensibiliser vos collègues
@@ -2703,11 +2704,12 @@
   questions:
   - 1138
   - 1139
-  question_count: 2
+  - 1273
+  question_count: 3
   tags: []
-  difficulty_average: 2.5
+  difficulty_average: 2.0
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/405f9c6b.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/84b34ef8.jpg
   has_audio: false
   authors:
   - 4
@@ -2719,7 +2721,7 @@
   publish_date: null
   spotlight: false
   created: '2023-02-16'
-  updated: '2025-03-28'
+  updated: '2025-05-08'
 - id: 99
   name: L'affresco del Clima Junior spiegato alla mia fami
   slug: laffresco-del-clima-junior-spiegato-alla-mia-fami
