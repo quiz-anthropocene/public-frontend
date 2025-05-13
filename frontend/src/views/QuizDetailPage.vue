@@ -22,7 +22,7 @@
 
       <div class="card-body">
         <h2 class="card-title">
-          Quiz{{ $t('words.semiColon') }} {{ quiz.name }}
+          {{ quiz.name }}
           <span v-if="quiz.has_audio" class="label small" style="vertical-align:top">🔉{{ $t('messages.audioComments') }}</span>
         </h2>
 
