@@ -144,7 +144,7 @@ const store = new Vuex.Store({
       commit('SET_QUIZ_PUBLISHED_LIST', { list: quizsPublished });
       const quizsSpotlighted = quizsPublished
         .filter((q) => q.spotlight) // only display spotlighted quizs
-        .sort((a, b) => (a.validation_date && b.validation_date) ? b.validation_date.localeCompare(a.validation_date) : false) // order by validation_date date (latest first)
+        .sort((a, b) => ((a.validation_date && b.validation_date) ? b.validation_date.localeCompare(a.validation_date) : false)) // order by validation_date date (latest first)
         .slice(0, state.quizsToSpotlight);
       commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: quizsSpotlighted });
 
@@ -440,7 +440,7 @@ const store = new Vuex.Store({
     getQuizsPublishedByFilter: (state) => (filter) => state.quizsPublished
       .filter((q) => (filter.tag ? q.tags.map((qt) => qt.name).includes(filter.tag) : true))
       .filter((q) => (filter.author ? q.authors.map((qa) => qa.full_name).includes(filter.author) : true))
-      .sort((a, b) => ((filter.sort === 'date_old') ? (a.created.localeCompare(b.created)) : (b.id - a.id))),
+      .sort((a, b) => ((a.validation_date && b.validation_date) ? b.validation_date.localeCompare(a.validation_date) : false)), // order by validation_date date (latest first)
     getQuizRelationshipsById: (state) => (quizId) => state.quizRelationships.filter((qr) => (qr.from_quiz === quizId) || (qr.to_quiz === quizId)),
     getQuizStatsById: (state) => (quizId) => state.quizStats.find((q) => (q.quiz_id === quizId)),
   },

@@ -9,7 +9,7 @@ export default {
   QUIZ_SORT_DEFAULT: 'date_new',
   QUIZ_SORT_CHOICE_LIST: [
     { key: 'date_new', value: 'Plus récents' },
-    { key: 'date_old', value: 'Plus anciens' },
+    // { key: 'date_old', value: 'Plus anciens' },
   ],
   LANGUAGE_CHOICE_LIST: [
     { code: 'fr', value: 'FRENCH', name: 'Français' },
