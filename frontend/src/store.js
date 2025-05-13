@@ -144,7 +144,7 @@ const store = new Vuex.Store({
       commit('SET_QUIZ_PUBLISHED_LIST', { list: quizsPublished });
       const quizsSpotlighted = quizsPublished
         .filter((q) => q.spotlight) // only display spotlighted quizs
-        .sort((a, b) => b.id - a.id) // biggest/latest id first
+        .sort((a, b) => (a.validation_date && b.validation_date) ? b.validation_date.localeCompare(a.validation_date) : false) // order by validation_date date (latest first)
         .slice(0, state.quizsToSpotlight);
       commit('SET_QUIZ_SPOTLIGHTED_LIST', { list: quizsSpotlighted });
 
