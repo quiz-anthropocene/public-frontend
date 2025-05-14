@@ -3531,3 +3531,33 @@
   spotlight: false
   created: '2025-05-07'
   updated: '2025-05-07'
+- id: 120
+  name: L'élevage
+  slug: lelevage
+  introduction: <p>Un quiz proposé par l'association <a href="https://www.l214.com/">L214</a>.</p>
+  conclusion: ''
+  questions:
+  - 37
+  - 929
+  - 966
+  - 1243
+  - 1267
+  - 1270
+  - 1272
+  question_count: 7
+  tags: []
+  difficulty_average: 2.0
+  language: FRENCH
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-05-14'
+  updated: '2025-05-14'
