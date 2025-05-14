@@ -2721,7 +2721,7 @@
   publish_date: null
   spotlight: false
   created: '2023-02-16'
-  updated: '2025-05-08'
+  updated: '2025-05-14'
 - id: 99
   name: L'affresco del Clima Junior spiegato alla mia fami
   slug: laffresco-del-clima-junior-spiegato-alla-mia-fami
@@ -3506,23 +3506,33 @@
 - id: 119
   name: Burger Quiz AI France 17 avril 2025
   slug: burger-quiz-ai-france-17-avril-2025
-  introduction: "<p>Bienvenue au Burger Quiz de l'Anthropocène !<br />\r\nFocus du\
-    \ jour : le numérique.<br />\r\nAttention, c'est parti !</p>"
-  conclusion: ''
+  introduction: "<p><a href=\"https://www.econum.fr/\">Eco Num</a>Bienvenue au Burger\
+    \ Quiz de l'Anthropocène !<br />\r\nFocus du jour : le numérique.<br />\r\nAttention,\
+    \ c'est parti !</p>"
+  conclusion: "<p>Nous espérons que ce quiz vous aura intéressé !<br />\r\nPour aller\
+    \ plus loin sur ce site, vous pouvez vous frotter aux quiz <a href=\"https://quizanthropocene.fr/quiz/fresque-du-numerique\"\
+    >Fresque du Numérique</a> et <a href=\"https://quizanthropocene.fr/quiz/le-numerique-est-il-ecologique\"\
+    >Le numérique est-il écologique ?</a><br />\r\nEt sinon : </p>\r\n\r\n<p>L'atelier\
+    \ <a href=\"http://fresquedunumerique.org\">Fresque du Numérique</a><br />\r\n\
+    Le Jeu <a href=\"https://www.econum.fr/\">Eco Num</a>.</p>"
   questions:
   - 74
-  - 84
+  - 76
   - 829
   - 832
-  question_count: 4
+  - 853
+  - 863
+  - 872
+  - 971
+  question_count: 8
   tags: []
-  difficulty_average: 2.2
+  difficulty_average: 2.1
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/64601ed7.png
   has_audio: false
   authors:
   - 2
-  visibility: PUBLIC
+  visibility: HIDDEN
   validation_status: DRAFT
   validator: null
   validation_date: null
@@ -3530,7 +3540,7 @@
   publish_date: null
   spotlight: false
   created: '2025-05-07'
-  updated: '2025-05-07'
+  updated: '2025-05-14'
 - id: 120
   name: L'élevage
   slug: lelevage
