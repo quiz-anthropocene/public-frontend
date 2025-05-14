@@ -3098,7 +3098,7 @@
   updated: '2022-04-16'
 - id: 74
   text: Si Internet était un pays, en quelle position arriverait-il en termes de consommation
-    d'électricité ?
+    d'électricité ? (chiffres 2019)
   hint: ''
   type: QCM
   category: 2
@@ -3138,7 +3138,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-07'
+  updated: '2025-05-14'
 - id: 75
   text: Quelle proportion du CO2 les 10% les plus riches de la planète émettent-ils
     ?
@@ -3226,7 +3226,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-03-28'
+  updated: '2025-05-14'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -3574,7 +3574,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2025-05-07'
+  updated: '2025-05-14'
 - id: 85
   text: Combien d'hectares (10,000 m2) la forêt française metropolitaine couvre-t-elle
     ?
@@ -34259,7 +34259,7 @@
   updated: '2024-03-05'
 - id: 832
   text: Au niveau mondial, quelle part des déchets électroniques est collectée afin
-    d'être recyclée ?
+    d'être recyclée ? (chiffres 2017)
   hint: C'est très peu
   type: QCM
   category: 2
@@ -34302,7 +34302,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-05-07'
+  updated: '2025-05-14'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -35149,8 +35149,9 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://bonpote.com/propos-5-paradoxe-de-jevons-et-effet-rebond/
   answer_source_accessible_url_text: 'Propos 5 : Paradoxe de Jevons et effet rebond'
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.hautconseilclimat.fr/publications/maitriser-limpact-carbone-de-la-5g/
+  answer_source_scientific_url_text: Maîtriser l’impact carbone de la 5G, Haut Conseil
+    pour le Climat, 2020
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000853-a343.jpg
   answer_image_url_text: ''
@@ -35161,7 +35162,7 @@
   validator: 2
   validation_date: '2021-02-06'
   created: '2021-01-30'
-  updated: '2022-04-16'
+  updated: '2025-05-14'
 - id: 854
   text: L'économie mondiale mobilise chaque année 100 milliards de tonnes. Imaginons
     une seconde que l'économie soit devenue parfaitement circulaire, quelle proportion
@@ -35592,36 +35593,38 @@
   - 37
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 1,600 litres
-  answer_choice_b: 12,500 litres
-  answer_choice_c: 28,000 litres
-  answer_choice_d: 40,000 litres
+  answer_choice_a: 5 000 litres
+  answer_choice_b: 15 000 litres
+  answer_choice_c: 30 000 litres
+  answer_choice_d: 400 000 litres
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: En réalité, il faut entre 1,500 et 2,500 litres d'eau pour fabriquer
     un ordinateur. Le reste - soit environ 26,000 litres - est l'eau nécessaire pour
     diluer les nombreux polluants qui ont été émis pour la fabrication et l'extraction
     des minerais. Dans les faits, cette pollution n'est pas forcément diluée, et provoque
-    donc des pollutions locales.
+    donc des pollutions locales. L'ADEME évoque même un chiffre de 195 000 litres
+    !
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.eau-seine-normandie.fr/NL15/qu-est-ce-que-l-empreinte-eau
+  answer_source_accessible_url_text: Qu’est-ce que l’empreinte eau ? Agence de l'Eau
+    Seine Normandie
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ebebff7a.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 49
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: 2
-  validation_date: null
+  validation_date: '2025-05-14'
   created: '2021-02-14'
-  updated: '2022-04-16'
+  updated: '2025-05-14'
 - id: 864
   text: 'Les principales causes de mortalité et de vie en mauvaise santé dans les
     pays riches sont, dans l''ordre :'
@@ -35990,7 +35993,7 @@
   - 36
   difficulty: 1
   language: FRENCH
-  answer_choice_a: non, c'est du même ordre
+  answer_choice_a: pas vraiment
   answer_choice_b: oui, de 10%
   answer_choice_c: oui, de 50%
   answer_choice_d: oui, de 90%
@@ -36020,7 +36023,7 @@
   validator: 2
   validation_date: '2021-03-30'
   created: '2021-03-23'
-  updated: '2022-04-16'
+  updated: '2025-05-14'
 - id: 873
   text: Combien de figurines Playmobil® a-t-on produites depuis leur arrivée sur le
     marché en 1974 ?
@@ -40210,7 +40213,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-04-09'
+  updated: '2025-05-14'
 - id: 999
   text: Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
     a émis plus de carbone qu'elle n'en a capté.
@@ -44486,15 +44489,15 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Le festival a mis en place depuis de nombreuses années des mesures
-    pour limiter son impact sur la biodiversité locale, et notamment la mise en place
-    d'un tri des déchets afin de rendre le site en l'état, mais de récentes études
-    ont confirmé que les espèces aquatiques vivant à proximité dans la rivière Whitelake
-    sont complètement droguées. Les festivaliers ne respectent pas les consignes qui
-    les invitent à uriner dans des zones adaptées, permettant un retraitement des
-    urines. Les résidus de MDMA et de cocaïne viennent alors perturber les cycles
-    de reproduction d'une espèce d'anguille rare et protégée en aval du festival.
-    Organiser un évènement festif n'est pas neutre du point de vue environnemental
-    et il faut donc en mesurer les conséquences, parfois inattendues.
+    pour limiter son impact sur la biodiversité locale, notamment la mise en place
+    d'un tri des déchets afin de rendre le site en l'état. Cependant, de récentes
+    études ont confirmé que les espèces aquatiques vivant à proximité dans la rivière
+    Whitelake sont complètement droguées. Les festivaliers ne respectent pas les consignes
+    qui les invitent à uriner dans des zones adaptées qui retraitent les urines. Les
+    résidus de MDMA et de cocaïne viennent alors perturber les cycles de reproduction
+    d'une espèce d'anguille rare et protégée en aval du festival. Organiser un évènement
+    festif n'est pas neutre du point de vue environnemental et il faut donc en mesurer
+    les conséquences, parfois inattendues.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44520,7 +44523,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2024-06-12'
+  updated: '2025-05-14'
 - id: 1096
   text: Quelle quantité de matière la fabrication des décors de l'Opéra Bastille requiert-elle
     ?
@@ -46401,7 +46404,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2025-05-08'
+  updated: '2025-05-14'
 - id: 1139
   text: Dans les logiciels et applications sur smartphone, quelle est la proportion
     de fonctionnalités qui ne sont jamais utilisées ?
@@ -46442,7 +46445,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2025-05-08'
+  updated: '2025-05-14'
 - id: 1140
   text: Vero o falso? Il Clima è la stessa cosa delle previsioni meteo.
   hint: ''
@@ -51951,4 +51954,4 @@
   validator: null
   validation_date: null
   created: '2025-05-08'
-  updated: '2025-05-13'
+  updated: '2025-05-14'
