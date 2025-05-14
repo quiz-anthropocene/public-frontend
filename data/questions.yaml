@@ -1590,7 +1590,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-14'
 - id: 38
   text: Entre 2010 et 2019, quel est le pays d'Europe qui a le plus fortement réduit
     l'intensité carbone de sa production d'électricité ?
@@ -38399,7 +38399,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-03-28'
+  updated: '2025-05-14'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -39985,7 +39985,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-04-09'
+  updated: '2025-05-14'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -44025,7 +44025,7 @@
   type: QCM-RM
   category: 3
   tags: []
-  difficulty: 2
+  difficulty: 3
   language: FRENCH
   answer_choice_a: L'élevage
   answer_choice_b: l’utilisation d’engrais industriels pour la production végétale
@@ -44066,7 +44066,7 @@
   validator: 2
   validation_date: '2023-01-19'
   created: '2022-11-25'
-  updated: '2023-02-22'
+  updated: '2025-05-14'
 - id: 1087
   text: Entre -15 millions et -7 millions d’années, la terre s’est refroidie de 5°C.
     Quelle est l’explication la plus probable à ce jour pour l’expliquer ?
@@ -47014,33 +47014,22 @@
   created: '2023-08-15'
   updated: '2023-08-15'
 - id: 1154
-  text: "A/ QUELQUES DÉFINITIONS\r\nFlexitarien, végétarien, végétalien, végan, pescetarien…\
-    \ De nombreux termes sont utilisés pour décrire nos régimes alimentaires."
+  text: Combien de poissons sauvages pour nourrir un poisson d'élevage en moyenne
+    ?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 4
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Q1- Les végétariens ne consomment pas de viande, mais contrairement
-    aux végétaliens, certains peuvent consommer du poisson, du lait, ou des œufs.
-  answer_choice_b: Q2- Une personne « flexitarienne » est une personne qui consomme
-    de la viande ou du poisson 1 fois par jour ou moins.
-  answer_choice_c: Aucune des affirmations n'est vraie
-  answer_choice_d: ''
-  answer_correct: c
+  answer_choice_a: '1'
+  answer_choice_b: '20'
+  answer_choice_c: '100'
+  answer_choice_d: '400'
+  answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "> Les alimentations végétariennes regroupent les alimentations\
-    \ excluant toute chair animale : pas de viande, mais aussi pas de poisson et crustacés.\r\
-    \nCertaines personnes végétariennes peuvent consommer des produits laitiers et/ou\
-    \ des œufs. Quand elles excluent tous les produits d’origine animale (laits, œuf,\
-    \ miel), on parle alors de personnes végétaliennes.\r\n> Une personne est dite\
-    \ flexitarienne (contraction de « flexible » et « végétarienne ») quand elle réduit\
-    \ significativement sa consommation de viande et de poisson (SOURCE). \r\nIl n’existe\
-    \ pas de fréquence de consommation « officielle » pour considérer une personne\
-    \ comme flexitarienne, mais la consommation de viande et poisson 1 fois par jour,\
-    \ soit 7 fois par semaine, correspond à la consommation moyenne en France sans\
-    \ régime particulier. (SOURCE)"
+  answer_explanation: La pisciculture repose sur l'exploitation massive d'autres poissons
+    sauvages. Le chiffre de 400 correspond à un maximum.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -47053,13 +47042,13 @@
   answer_image_url: ''
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 75
+  author: 2
   visibility: HIDDEN
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2023-08-15'
-  updated: '2023-08-15'
+  updated: '2025-05-14'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -50682,22 +50671,21 @@
   created: '2024-05-30'
   updated: '2024-07-11'
 - id: 1243
-  text: William Nordhaus a obtenu un prix nobel pour ses travaux sur l'optimum du
-    réchauffement climatique pour l'activité humaine. A combien évalue-t-il ce réchauffement
-    optimal ?
+  text: Classez ces aliments du plus gourmand au moins gourmand en eau
   hint: ''
   type: QCM
-  category: 1
+  category: 2
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: '0'
-  answer_choice_b: +1°C
-  answer_choice_c: +2°C
-  answer_choice_d: +3,5°C
-  answer_correct: c
+  answer_choice_a: 1. Viande 2. Pois chiche 3. Tofu
+  answer_choice_b: 1. Viande. 2. Tofu 3. Pois chiche
+  answer_choice_c: 1. Tofu 2. Viande 3. Pois chiche
+  answer_choice_d: 1. Pois chiche. 2 Tofu 3. Viande
+  answer_correct: a
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: Il existe différentes méthodes de calcul. Mais les produits
+    d'origine animale nécessitent en général bien plus d'eau que les végétaux.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50707,7 +50695,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: Sans Transition, p. 282
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cafc8800.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -50716,7 +50704,7 @@
   validator: null
   validation_date: null
   created: '2024-05-31'
-  updated: '2024-06-01'
+  updated: '2025-05-14'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -51726,7 +51714,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-26'
-  updated: '2025-04-08'
+  updated: '2025-05-14'
 - id: 1268
   text: Les tétrapodes côtiers ont colonisé nombre de nos bords de mer. Mais que sont-ils
     ?
@@ -51848,7 +51836,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-27'
-  updated: '2025-04-08'
+  updated: '2025-05-14'
 - id: 1271
   text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
   hint: ''
@@ -51891,18 +51879,19 @@
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1272
-  text: Test raphael
+  text: Quelle est la part des émissions de gaz à effet de serre issues de l'élevage
+    ? (chiffres 2021)
   hint: ''
   type: QCM
-  category: null
+  category: 1
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: FRENCH
-  answer_choice_a: a
-  answer_choice_b: b
-  answer_choice_c: ''
-  answer_choice_d: ''
-  answer_correct: a
+  answer_choice_a: 5,5%
+  answer_choice_b: 14,5%
+  answer_choice_c: 18,5%
+  answer_choice_d: 25,5%
+  answer_correct: b
   has_ordered_answers: true
   answer_explanation: ''
   answer_audio_url: ''
@@ -51914,16 +51903,16 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ada34422.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b0f95ce8.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 1
+  author: 2
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2025-03-28'
-  updated: '2025-05-13'
+  updated: '2025-05-14'
 - id: 1273
   text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers'
   hint: ''
