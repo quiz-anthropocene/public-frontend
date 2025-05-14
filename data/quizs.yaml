@@ -3506,9 +3506,8 @@
 - id: 119
   name: Burger Quiz AI France 17 avril 2025
   slug: burger-quiz-ai-france-17-avril-2025
-  introduction: "<p><a href=\"https://www.econum.fr/\">Eco Num</a>Bienvenue au Burger\
-    \ Quiz de l'Anthropocène !<br />\r\nFocus du jour : le numérique.<br />\r\nAttention,\
-    \ c'est parti !</p>"
+  introduction: "<p>Bienvenue au Burger Quiz de l'Anthropocène !<br />\r\nFocus du\
+    \ jour : le numérique.<br />\r\nPrêt ? C'est parti !</p>"
   conclusion: "<p>Nous espérons que ce quiz vous aura intéressé !<br />\r\nPour aller\
     \ plus loin sur ce site, vous pouvez vous frotter aux quiz <a href=\"https://quizanthropocene.fr/quiz/fresque-du-numerique\"\
     >Fresque du Numérique</a> et <a href=\"https://quizanthropocene.fr/quiz/le-numerique-est-il-ecologique\"\
