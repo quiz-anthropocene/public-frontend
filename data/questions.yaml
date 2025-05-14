@@ -40081,7 +40081,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-04-08'
+  updated: '2025-05-14'
 - id: 969
   text: Quelle différence d'émissions entre un logement classe E et classe A ?
   hint: ''
@@ -51954,4 +51954,46 @@
   validator: null
   validation_date: null
   created: '2025-05-08'
+  updated: '2025-05-14'
+- id: 1274
+  text: 'L’éditeur de jeux Ubisoft a mis en place une stratégie de réduction d’impact
+    pour l’un de ses sites. L’économie d’électricité réalisée est de l’ordre de :'
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 12 %
+  answer_choice_b: 20 %
+  answer_choice_c: 34 %
+  answer_choice_d: 40 %
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "Une étude menée par Boavizta révèle que Ubisoft aura réduit\
+    \ de près de -40 % l'électricité consommée par l'un des sites.\r\n\r\nSoit une\
+    \ économie potentielle supérieure à 1M€ par an, grâce à la mise en veille des\
+    \ espaces de travail et l'allongement de vie des équipements numériques. Pour\
+    \ y parvenir, il a fallut 3 ans à une nouvelle personne recrutée pour être placée\
+    \ directement au sein de la DSI, avec comme mission de réduire l'empreinte environnementale.\
+    \ Celle-ci a dû créer son réseau en interne, évangéliser la thématique du numérique\
+    \ responsable puis passer à l'action."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: Source
+  answer_source_accessible_url: https://les-enovateurs.com/entreprises-numerique-responsable-arguments-convaincants-boavizta
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://les-enovateurs.com/entreprises-numerique-responsable-arguments-convaincants-boavizta
+  answer_source_scientific_url_text: Source
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 4
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-05-14'
   updated: '2025-05-14'
