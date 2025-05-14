@@ -34165,7 +34165,7 @@
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf
   answer_source_scientific_url_text: Empreinte  environnementale  du numérique  mondial
-    - Greenit.fr
+    - Greenit.fr, 2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000829-7001.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
@@ -34176,7 +34176,7 @@
   validator: 2
   validation_date: '2021-01-28'
   created: '2021-01-21'
-  updated: '2025-05-07'
+  updated: '2025-05-13'
 - id: 830
   text: 'Au niveau mondial, et sur l''ensemble du cycle de vie des produits, quelle
     part le numérique représente-t-il dans nos émissions de gaz à effet de serre ?
@@ -51914,7 +51914,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ada34422.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 1
@@ -51923,9 +51923,9 @@
   validator: null
   validation_date: null
   created: '2025-03-28'
-  updated: '2025-04-04'
+  updated: '2025-05-13'
 - id: 1273
-  text: Les nouvelles technologies  permettent de faire mieux, plus vite et plus léger
+  text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers'
   hint: ''
   type: VF
   category: 8
@@ -51938,8 +51938,12 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: D'après l'association GreenIT, le poids des logiciels a été
-    multiplié par 171
+  answer_explanation: "L'association GreenIT a étudié la différence entre le poids\
+    \ de Windows 98 + Office 97 versus Windows 10 + Office 2019, des environnements\
+    \ dans lesquels nos usages n'ont guère changé. Conclusion : le poids des logiciels\
+    \ en mémoire vive a été multiplié par 170. \r\nLa solution préconisée ? On arrête\
+    \  d’installer les mises à jour évolutives sans réfléchir, mais on continue à\
+    \ installer les mises à jour de sécurité et les correctifs."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51951,17 +51955,11 @@
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9f383190.jpg
   answer_image_url_text: ''
-  answer_extra_info: "L'association Green IT a étudié la différence entre le poids\
-    \ de Windows 98 + Office 97 versus Windows 10 + Office 2019. La comparaison est\
-    \ particulièrement intéressante pour ce genre de logiciel et d'environnement,\
-    \ puisque nos usages n'ont pas changé entretemps. \r\nQuelle solution ? Comme\
-    \ le mentionne l'article : \r\n\"On arrête donc d’installer les mises à jour évolutives\
-    \ sans réfléchir. Mais on continue, bien entendu, à installer les mises à jour\
-    \ de sécurité et les correctifs.\""
+  answer_extra_info: ''
   author: 4
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-05-08'
-  updated: '2025-05-08'
+  updated: '2025-05-13'
