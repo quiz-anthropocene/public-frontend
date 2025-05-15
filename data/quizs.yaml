@@ -2698,19 +2698,21 @@
     \nDigital League vous invite à tester vos connaissances ou découvrir quelques\
     \ bonnes pratiques !<br />\r\n </p>\r\n\r\n<p> </p>"
   conclusion: <p>Vous l'aurez compris, quand on crée un service numérique, il faut
-    jouer collectif pour activer tous les leviers de la sobriété ! Vous pouvez également
-    faire l'Atelier Numérique Responsable en équipe pour sensibiliser vos collègues
-    et partir du bon pied pour votre prochain projet.</p>
+    jouer collectif pour activer tous les leviers de la sobriété ! N'hésitez pas à
+    consulter notre <a href="https://digital-league.org/blog/actus-1/boite-a-outils-rse-et-nr-pour-survivre-jusqu-en-2050-307#scrollTop=0">boîte
+    à outils publique et gratuite</a> pour aider les entreprises à monter en compétence,
+    qu'importe votre niveau de maturité sur le sujet.</p>
   questions:
   - 1138
   - 1139
   - 1273
   - 1274
-  question_count: 4
+  - 1275
+  question_count: 5
   tags: []
-  difficulty_average: 1.8
+  difficulty_average: 1.6
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/84b34ef8.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/56022295.jpg
   has_audio: false
   authors:
   - 4
