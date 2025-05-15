@@ -51987,7 +51987,47 @@
   answer_source_scientific_url: https://les-enovateurs.com/entreprises-numerique-responsable-arguments-convaincants-boavizta
   answer_source_scientific_url_text: Source
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1fd58d27.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 4
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-05-14'
+  updated: '2025-05-14'
+- id: 1275
+  text: 'À chaque fois que je génère une image en GenAI, une étude d''Hugging Face
+    estime que cela requiert autant d’énergie que:'
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: faire 4 photocopies
+  answer_choice_b: recharger un smartphone
+  answer_choice_c: laisser une ampoule allumée 6 heures
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: En 2023, l'université Carnegie Mellon et la startup Hugging
+    Face ont voulu estimer l'empreinte énergetique de notre activités sur les LLM.
+    Parmi toutes les activités réalisables grâce à l'IA générative (résumé de texte,
+    classification de texte, détection d’objet, légende de photos…). Produire une
+    image est l’activité la plus gourmande en énergie, et équivaut à recharger son
+    téléphone - loin devant des tâches textuelles comme les synthèse de documents.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.01net.com/actualites/quelle-est-lempreinte-carbone-dune-image-generee-par-ia.html
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: https://arxiv.org/pdf/2311.16863.pdf
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/575561dc.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 4
