@@ -352,7 +352,7 @@
     en...
   hint: ''
   type: QCM
-  category: 2
+  category: 7
   tags:
   - 10
   - 57
@@ -389,7 +389,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-02-15'
+  updated: '2025-05-15'
 - id: 10
   text: « On a 40 ans de pétrole devant nous ! »
   hint: ''
@@ -3122,10 +3122,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lefigaro.fr/secteur/high-tech/internet-un-ogre-energetique-a-l-appetit-insatiable-en-electricite-20191120
   answer_source_accessible_url_text: Internet, un ogre énergétique à l’appétit insatiable
-    en électricité
+    en électricité, le Figaro, 2019
   answer_source_scientific_url: https://www.nature.com/articles/d41586-018-06610-y
   answer_source_scientific_url_text: How to stop data centres from gobbling up the
-    world’s electricity
+    world’s electricity, Nature, 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000074-4e92.jpg
   answer_image_url_text: 'Data center de Facebook à Luleå, en Suède. Crédit : Jonathan
@@ -3138,7 +3138,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-14'
+  updated: '2025-05-15'
 - id: 75
   text: Quelle proportion du CO2 les 10% les plus riches de la planète émettent-ils
     ?
@@ -34288,10 +34288,10 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.greenit.fr/2017/12/26/20-dechets-electroniques-recycles/
-  answer_source_accessible_url_text: Seulement 20 % des déchets électroniques recyclés
-    - Green IT
+  answer_source_accessible_url_text: Seulement 20 % des déchets électroniques recyclés,
+    GreenIT, 2017
   answer_source_scientific_url: https://www.itu.int/en/ITU-D/Climate-Change/Documents/GEM%202017/Global-E-waste%20Monitor%202017%20-%20Chapter%206.pdf
-  answer_source_scientific_url_text: Global E-waste Status  and Trends
+  answer_source_scientific_url_text: Global E-waste Status  and Trends, 2017
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000832-dc18.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
@@ -34302,7 +34302,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-05-14'
+  updated: '2025-05-15'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -35126,7 +35126,7 @@
   - 30
   difficulty: 3
   language: FRENCH
-  answer_choice_a: La 5G sera un catalyseur de progrès du fait de sa meilleure efficacité
+  answer_choice_a: Ce sera un catalyseur de progrès du fait de sa meilleure efficacité
     énergétique, d'une réduction de latence, de débits augmentés et d'une densité
     plus forte de terminaux connectable.
   answer_choice_b: L'usage sera limité du fait des équipements actuels non adaptés
@@ -35134,7 +35134,7 @@
   answer_choice_c: L'amélioration technologique et l'efficacité énergétique de la
     5G risquent de provoquer une augmentation de la consommation de services numériques,
     et donc son empreinte carbone.
-  answer_choice_d: La 5G va générer une forte croissance du secteur numérique grâce
+  answer_choice_d: Elle va générer une forte croissance du secteur numérique grâce
     à la relance des offres de réseaux, terminaux et data centers compatibles.
   answer_correct: c
   has_ordered_answers: false
@@ -35148,7 +35148,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://bonpote.com/propos-5-paradoxe-de-jevons-et-effet-rebond/
-  answer_source_accessible_url_text: 'Propos 5 : Paradoxe de Jevons et effet rebond'
+  answer_source_accessible_url_text: 'Propos 5 : Paradoxe de Jevons et effet rebond,
+    site Bonpote, 2020'
   answer_source_scientific_url: https://www.hautconseilclimat.fr/publications/maitriser-limpact-carbone-de-la-5g/
   answer_source_scientific_url_text: Maîtriser l’impact carbone de la 5G, Haut Conseil
     pour le Climat, 2020
@@ -35162,7 +35163,7 @@
   validator: 2
   validation_date: '2021-02-06'
   created: '2021-01-30'
-  updated: '2025-05-14'
+  updated: '2025-05-15'
 - id: 854
   text: L'économie mondiale mobilise chaque année 100 milliards de tonnes. Imaginons
     une seconde que l'économie soit devenue parfaitement circulaire, quelle proportion
@@ -36008,9 +36009,9 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://agirpourlatransition.ademe.fr/particuliers/conso/conso-responsable/acheter-smartphone-reconditionne-avantages
-  answer_source_accessible_url_text: Acheter un smartphone reconditionné, quels avantages
-    ? | Particuliers | Agir pour la transition écologique | ADEME
+  answer_source_accessible_url: https://librairie.ademe.fr/consommer-autrement/4398-pourquoi-preferer-un-smartphone-reconditionne-.html
+  answer_source_accessible_url_text: Pourquoi préférer un smartphone reconditionné
+    ? Librairie ADEME, 2025
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -36023,7 +36024,7 @@
   validator: 2
   validation_date: '2021-03-30'
   created: '2021-03-23'
-  updated: '2025-05-14'
+  updated: '2025-05-15'
 - id: 873
   text: Combien de figurines Playmobil® a-t-on produites depuis leur arrivée sur le
     marché en 1974 ?
@@ -40200,7 +40201,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.hygiene-numerique.com/dossiers/sobriete-numerique-greenit-vos-leviers-daction-pour-reduire-votre-empreinte-environnementale/
   answer_source_accessible_url_text: 'Sobriété numérique (GreenIT) : Vos leviers d’action
-    pour réduire votre empreinte environnementale'
+    pour réduire votre empreinte environnementale, 2020'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -40213,7 +40214,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-05-14'
+  updated: '2025-05-15'
 - id: 999
   text: Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
     a émis plus de carbone qu'elle n'en a capté.
