@@ -163,13 +163,14 @@
   - 251
   - 335
   - 358
+  - 392
   - 402
   - 417
   - 440
-  question_count: 10
+  question_count: 11
   tags:
   - 72
-  difficulty_average: 2.1
+  difficulty_average: 2.2
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000005-586a.jpg
   has_audio: false
@@ -183,7 +184,7 @@
   publish_date: '2020-07-18'
   spotlight: false
   created: '2020-07-08'
-  updated: '2024-11-29'
+  updated: '2025-05-16'
 - id: 6
   name: Introduction à l'anthropocène - Partie 1
   slug: introduction-a-lanthropocene-partie-1
@@ -3480,6 +3481,7 @@
   conclusion: ''
   questions:
   - 1
+  - 34
   - 95
   - 894
   - 922
@@ -3489,7 +3491,7 @@
   - 929
   - 966
   - 1088
-  question_count: 10
+  question_count: 11
   tags: []
   difficulty_average: 2.0
   language: FRENCH
@@ -3505,7 +3507,7 @@
   publish_date: null
   spotlight: false
   created: '2025-03-28'
-  updated: '2025-04-15'
+  updated: '2025-05-16'
 - id: 119
   name: Burger Quiz AI France 17 avril 2025
   slug: burger-quiz-ai-france-17-avril-2025
@@ -3543,7 +3545,7 @@
   publish_date: null
   spotlight: false
   created: '2025-05-07'
-  updated: '2025-05-14'
+  updated: '2025-05-16'
 - id: 120
   name: L'élevage
   slug: lelevage
