@@ -2188,9 +2188,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.goodplanet.info/2020/03/30/lurbanisation-mondiale-sopere-au-detriment-des-terres-agricoles/
   answer_source_accessible_url_text: L’urbanisation mondiale s’opère au détriment
-    des terres agricoles - GoodPlanet mag'
+    des terres agricoles, GoodPlanet mag', 2020
   answer_source_scientific_url: http://www.senat.fr/rap/r18-528/r18-5281.pdf
-  answer_source_scientific_url_text: RAPPORT D’INFORMATION - Sénat 2018/2019
+  answer_source_scientific_url_text: Rapport d'information sur la place de l’agriculture
+    française sur les marchés mondiaux, Sénat, 2018/2019
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000051-693d.jpg
   answer_image_url_text: ''
@@ -2201,7 +2202,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-17'
 - id: 52
   text: La progression du désert dans le monde, c'est chaque année...
   hint: ''
@@ -2213,10 +2214,10 @@
   - 172
   difficulty: 3
   language: FRENCH
-  answer_choice_a: 1,200 km² (superficie du département du Val-d'Oise)
-  answer_choice_b: 12,000 km² (superficie de la région Île-de-France)
-  answer_choice_c: 120,000 km² (superficie de la Grèce)
-  answer_choice_d: 1,200,000 km² (superficie de l'Afrique du Sud)
+  answer_choice_a: 1 200 km² (superficie du département du Val-d'Oise)
+  answer_choice_b: 12 000 km² (superficie de la région Île-de-France)
+  answer_choice_c: 120 000 km² (superficie de la Grèce)
+  answer_choice_d: 1 200 000 km² (superficie de l'Afrique du Sud)
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Soit 20% de la superficie de la France métropolitaine.
@@ -2239,7 +2240,7 @@
   validator: 1
   validation_date: null
   created: '2020-03-10'
-  updated: '2025-05-07'
+  updated: '2025-05-17'
 - id: 53
   text: D'après l'ONU, le nombre de décès causés chaque année dans le monde par la
     pollution est de...
@@ -2263,7 +2264,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://news.un.org/fr/story/2019/06/1044821
   answer_source_accessible_url_text: Face à la pollution de l'air qui tue une personne
-    toutes les 5 secondes, l'ONU appelle à agir | ONU Info
+    toutes les 5 secondes, l'ONU appelle à agir, ONU, 2019
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -2276,9 +2277,10 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-17'
 - id: 54
-  text: Les particules fines en France causent chaque année...
+  text: Combien de morts prématurées la pollution aux particules fines en France entraine-t-elle
+    chaque année ?
   hint: ''
   type: QCM
   category: 3
@@ -2287,9 +2289,9 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: des crises d'asthme, mais pas de mortalité avérée
-  answer_choice_b: 1000 morts
-  answer_choice_c: 5,000 morts
-  answer_choice_d: 50,000 morts
+  answer_choice_b: 1 000
+  answer_choice_c: 5 000
+  answer_choice_d: 50 000
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Avec 48,000 morts prématurées, la pollution atmosphérique constitue
@@ -2301,7 +2303,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.futura-sciences.com/sante/actualites/vie-pollution-air-fleau-reduit-plus-esperance-vie-monde-63256/
   answer_source_accessible_url_text: La pollution de l'air est le fléau qui réduit
-    le plus l'espérance de vie dans le monde
+    le plus l'espérance de vie dans le monde, Futura Sciences, 2024
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -2314,7 +2316,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-17'
 - id: 55
   text: Selon une enquête du Sénat de 2015, le coût de la pollution en France, c'est
     chaque année...
@@ -2340,7 +2342,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2015/07/15/la-pollution-de-l-air-coute-chaque-annee-101-3-milliards-d-euros-a-la-france_4683432_3244.html
   answer_source_accessible_url_text: 'Pollution : chaque année, un coût de 101,3 milliards
-    d’euros pour la France'
+    d’euros pour la France, Le Monde, 2015'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -2353,7 +2355,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-17'
 - id: 56
   text: Les déchets plastiques qui se déversent dans l'océan, c'est chaque jour...
   hint: ''
@@ -2365,9 +2367,9 @@
   difficulty: 4
   language: FRENCH
   answer_choice_a: 200 tonnes
-  answer_choice_b: 2,000 tonnes
-  answer_choice_c: 20,000 tonnes
-  answer_choice_d: 200,000 tonnes
+  answer_choice_b: 2 000 tonnes
+  answer_choice_c: 20 000 tonnes
+  answer_choice_d: 200 000 tonnes
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: 8 millions de tonnes par an, soit 22,000 tonnes par jour selon
@@ -2384,10 +2386,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.liberation.fr/planete/2019/11/14/chaque-annee-8-millions-de-tonnes-de-plastique-finissent-dans-les-oceans_1763117
   answer_source_accessible_url_text: Chaque année, 8 millions de tonnes de plastique
-    finissent dans les océans – Libération
+    finissent dans les océans, Libération, 2019
   answer_source_scientific_url: https://science.sciencemag.org/content/347/6223/768/
-  answer_source_scientific_url_text: Plastic waste inputs from land into the ocean
-    - Jambeck et al 2015
+  answer_source_scientific_url_text: Plastic waste inputs from land into the ocean,
+    Jambeck et al, 2015
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000056-dd09.jpeg
   answer_image_url_text: ''
@@ -2398,7 +2400,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-17'
 - id: 57
   text: Le 7ème continent, ce sont de vastes zones d'accumulations des déchets plastiques
     dans les océans. Leur surface est de l'ordre de...
