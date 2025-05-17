@@ -29,7 +29,7 @@
   answer_source_accessible_url_text: 'Planetoscope - Statistiques : Le gaspillage
     alimentaire dans le monde'
   answer_source_scientific_url: http://www.fao.org/food-loss-and-food-waste/en
-  answer_source_scientific_url_text: Food Loss and Food Waste, FAO
+  answer_source_scientific_url_text: Food Loss and Food Waste, FAO, 2025
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000001-9d71.jpg
   answer_image_url_text: Répartition des pertes de nourriture dans le monde
@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-04-08'
+  updated: '2025-05-16'
 - id: 2
   text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
     français doit être alimentée par des humains, chacun pédalant 8h par jour pour
@@ -72,7 +72,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://jancovici.com/transition-energetique/l-energie-et-nous/combien-suis-je-un-esclavagiste/
   answer_source_accessible_url_text: Combien suis-je un esclavagiste ? – Jean-Marc
-    Jancovici
+    Jancovici, 2005
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -85,7 +85,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-04-06'
+  updated: '2025-05-16'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
@@ -113,7 +113,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://bonpote.com/propos-5-paradoxe-de-jevons-et-effet-rebond/
-  answer_source_accessible_url_text: Bonpote, paradoxe de Jevons et effet rebond
+  answer_source_accessible_url_text: Paradoxe de Jevons et effet rebond, site Bonpote,
+    2020
   answer_source_scientific_url: https://www.lafabriqueecologique.fr/transition-energetique-le-role-incontournable-de-leffet-rebond/
   answer_source_scientific_url_text: 'Transition énergétique : le rôle incontournable
     de l’effet rebond'
@@ -130,7 +131,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2023-07-08'
+  updated: '2025-05-16'
 - id: 4
   text: A Porto Rico, sur les 35 dernières années, quelle a été l'évolution de la
     population des insectes ?
@@ -159,10 +160,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2019/02/11/le-declin-des-insectes-une-menace-grandissante-pour-les-ecosystemes-naturels_5422018_3244.html
   answer_source_accessible_url_text: Les insectes pourraient disparaître de la planète
-    d’ici 100 ans
+    d’ici 100 ans, Le Monde, 2019
   answer_source_scientific_url: https://www.pnas.org/content/115/44/E10397
   answer_source_scientific_url_text: Climate-driven declines in arthropod abundance
-    restructure a rainforest food web - Lister and Garcia 2018
+    restructure a rainforest food web, Lister and Garcia, 2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000004-ef1c.jpg
   answer_image_url_text: ''
@@ -174,7 +175,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 5
   text: Les hydrates de méthane sont une forme de glace au fond des océans. Ils peuvent
     devenir instables et libérer du méthane...
@@ -243,7 +244,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://ocean-climate.org/presentation-des-fiches-scientifiques-ocean-et-climat/locean-reservoir-de-chaleur/
-  answer_source_accessible_url_text: L’océan, réservoir de chaleur
+  answer_source_accessible_url_text: L’océan, réservoir de chaleur, Plateforme Océan
+    & Climat
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -256,7 +258,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 7
   text: Des scientifiques ont suivi l'abondance des populations de 30,000 espèces
     de vertébrés sauvages sur 40 ans, entre 1970 et 2010. Qu'ont-ils observé ?
@@ -285,10 +287,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/biodiversite/article/2016/10/27/la-moitie-des-vertebres-a-disparu-en-quarante-ans_5020936_1652692.html
   answer_source_accessible_url_text: Plus de la moitié des vertébrés ont disparu en
-    quarante ans
+    quarante ans, Le Monde, 2016
   answer_source_scientific_url: https://ipbes.net/news/Media-Release-Global-Assessment-Fr
   answer_source_scientific_url_text: 'Le dangereux déclin de la nature : Un taux d’extinction
-    des espèces « sans précédent » et qui s’accélère, IPBES, Mai 2019'
+    des espèces « sans précédent » et qui s’accélère, IPBES, 2019'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b2167c3f.png
   answer_image_url_text: Indice Planète vivante, qui mesure l’abondance de la biodiversité
@@ -299,7 +301,7 @@
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-06-12'
+  updated: '2025-05-16'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
@@ -330,7 +332,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://jancovici.com/changement-climatique/gaz-a-effet-de-serre-et-cycle-du-carbone/quels-sont-les-gaz-a-effet-de-serre-quels-sont-leurs-contribution-a-leffet-de-serre/
   answer_source_accessible_url_text: Quels sont les gaz à effet de serre ? – Jean-Marc
-    Jancovici
+    Jancovici, 2017
   answer_source_scientific_url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf
   answer_source_scientific_url_text: Carbon and Other Biogeochemical Cycles - IPCC
     report 2018
@@ -346,7 +348,7 @@
   validator: 39
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 9
   text: Entre 2011 et 2013, la Chine a consommé autant de ciment que les États-Unis
     en...
@@ -375,8 +377,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://blogs.alternatives-economiques.fr/gilles-raveaud/2015/04/02/la-chine-a-consomme-plus-de-ciment-en-3-ans-que-les-etats-unis-en-un-siecle
   answer_source_accessible_url_text: La Chine a consommé plus de ciment en 3 ans que
-    les Etats-Unis en un siècle | Economie humaine | Gilles Raveaud | Les blogs d'Alternatives
-    Économiques
+    les Etats-Unis en un siècle, Les blogs d'Alternatives Économiques, 2015
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -389,7 +390,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2025-05-15'
+  updated: '2025-05-16'
 - id: 10
   text: « On a 40 ans de pétrole devant nous ! »
   hint: ''
@@ -422,11 +423,11 @@
   answer_extra_info: ''
   author: 16
   visibility: PUBLIC
-  validation_status: REMOVED
+  validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2020-03-08'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 11
   text: Quel est le secteur le plus énergivore en France ?
   hint: ''
@@ -452,10 +453,12 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.connaissancedesenergies.org/fiche-pedagogique/mix-energetique-de-la-france
-  answer_source_accessible_url_text: 'Tout savoir sur le mix énergétique de la France
-    : production, consommation, facture énergétique, histoire'
+  answer_source_accessible_url_text: Mix énergétique de la France, Site Connaissance
+    des Energies
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-10/datalab-43-chiffres-cles-de-l-energie-edition-_2018-septembre2018.pdf#page20
-  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition 2018 - Datalab
+  answer_source_scientific_url_text: Chiffres clés de l’énergie Édition, Commissariat
+    général au développement durable du Ministère de la Transition Ecologique et Solidaire,
+    2018
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000011-1e66.png
   answer_image_url_text: ''
@@ -466,7 +469,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 12
   text: Qu'est ce qui produit le plus d'énergie ?
   hint: ''
@@ -532,7 +535,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://sciencepost.fr/petrole-la-barre-des-100-millions-de-barils-consommes-par-jour-a-ete-franchie/
   answer_source_accessible_url_text: 'Pétrole : la barre des 100 millions de barils
-    consommés par jour a été franchie'
+    consommés par jour a été franchie, Science Post, 2019'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -559,7 +562,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2024-02-19'
+  updated: '2025-05-16'
 - id: 14
   text: De combien serait la température moyenne à la surface de la Terre sans l’effet
     de serre naturel ?
@@ -599,7 +602,7 @@
   validator: 1
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 15
   text: Lequel de ces gaz n’est pas un gaz à effet de serre ?
   hint: ''
@@ -794,7 +797,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://jancovici.com/changement-climatique/agir-individuellement/effectuer-sa-ba-pour-agir-contre-le-changement-climatique-quelques-ordres-de-grandeur/
   answer_source_accessible_url_text: 'Effectuer sa « BA » pour agir contre le changement
-    climatique : quelques ordres de grandeur – Jean-Marc Jancovici'
+    climatique : quelques ordres de grandeur, site de Jean-Marc Jancovici, 2000'
   answer_source_scientific_url: https://iopscience.iop.org/article/10.1088/1748-9326/aa7541
   answer_source_scientific_url_text: 'The climate mitigation gap: education and government
     recommendations miss the most effective individual actions (Wynes and Nicholas
@@ -810,7 +813,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-04-08'
+  updated: '2025-05-16'
 - id: 20
   text: En 2018, quelle proportion de l'énergie consommée dans le monde l'a été sous
     forme d'électricité ?
@@ -827,7 +830,9 @@
   answer_choice_d: 50%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: En France, cette part monte à 25%.
+  answer_explanation: On a souvent tendance à confondre consommation d'énergie et
+    consommation d'électricité. L'électricité ne représente qu'une partie de la consommation
+    globale. En France, cette part monte à 25%.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -847,11 +852,10 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 21
   text: En 1850, la concentration de CO2 dans l'atmosphère s'élevait à 280 ppm (parties
-    par million, 1% = 10,000 ppm). Quelle est sa concentration actuelle (en 2019)
-    ?
+    par million, 1% = 10,000 ppm). Quelle est sa concentration en 2019 ?
   hint: ''
   type: QCM
   category: 1
@@ -887,7 +891,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lesechos.fr/monde/enjeux-internationaux/cop-25-les-six-chiffres-qui-ont-fait-mal-a-la-planete-en-2019-1151161
   answer_source_accessible_url_text: 'COP 25 : les six chiffres qui ont fait mal à
-    la planète en 2019 | Les Echos'
+    la planète en 2019, les Echos'
   answer_source_scientific_url: https://scripps.ucsd.edu/programs/keelingcurve/
   answer_source_scientific_url_text: The Keeling curve, suivi de la concentration
     atmosphérique de CO2 à l'observatoire Mauna Loa de Hawaï
@@ -902,7 +906,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-02-05'
+  updated: '2025-05-16'
 - id: 22
   text: Quelle quantité de carbone émet-on chaque année dans l'atmosphère ?
   hint: ''
@@ -936,7 +940,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/blog/huet/2019/12/04/368-gigatonnes-de-co2-emis-en-2019/
-  answer_source_accessible_url_text: 43,1 gigatonnes de CO2 émis en 2019 – {Sciences²}
+  answer_source_accessible_url_text: 43,1 gigatonnes de CO2 émis en 2019, Le Monde,
+    2019
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -949,7 +954,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 23
   text: Un puits de carbone est un réservoir qui absorbe et stocke durablement du
     carbone en circulation dans la biosphère. Quelle proportion des  émissions d'origine
@@ -1057,8 +1062,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2015/01/07/pour-limiter-le-rechauffement-a-2-c-combien-de-petrole-gaz-et-charbon-en-moins_4550929_3244.html
-  answer_source_accessible_url_text: 'Le Monde, 2015 : Pour limiter le réchauffement
-    à 2° C, combien de pétrole, gaz et charbon en moins ?'
+  answer_source_accessible_url_text: Pour limiter le réchauffement à 2° C, combien
+    de pétrole, gaz et charbon en moins ? Le Monde, 2015
   answer_source_scientific_url: https://www.nature.com/articles/nature14016
   answer_source_scientific_url_text: 'Nature, 2015 : The geographical distribution
     of fossil fuels unused when limiting global warming to 2 °C'
@@ -1074,7 +1079,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-20'
+  updated: '2025-05-16'
 - id: 26
   text: Lors de la dernière déglaciation, la Terre s'est réchauffée d'environ 5°C.
     En combien d'années ?
@@ -1089,7 +1094,7 @@
   difficulty: 1
   language: FRENCH
   answer_choice_a: 100 ans
-  answer_choice_b: 1000 ans
+  answer_choice_b: 1 000 ans
   answer_choice_c: 10 000 ans
   answer_choice_d: 125 000 ans
   answer_correct: c
@@ -1105,7 +1110,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://jancovici.com/changement-climatique/predire-lavenir/ou-nous-situons-nous-dans-lechelle-des-temperatures-par-rapport-au-passe/
   answer_source_accessible_url_text: Où nous situons-nous dans l’échelle des températures
-    par rapport au passé ? – Jean-Marc Jancovici
+    par rapport au passé ? Site de Jean-Marc Jancovici, 2004
   answer_source_scientific_url: https://www.nature.com/articles/nature10915
   answer_source_scientific_url_text: Global warming preceded by increasing carbon
     dioxide concentrations during the last deglaciation (Shakun et al 2012)
@@ -1119,7 +1124,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 27
   text: Le deuxième gaz à effet de serre anthropique (d'origine humaine) est le méthane.
     Il est produit en majeure partie par...
@@ -1146,8 +1151,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://jancovici.com/changement-climatique/risques/faut-il-redouter-les-hydrates-de-methane/
-  answer_source_accessible_url_text: Faut-il craindre les hydrates de méthane ? –
-    Jean-Marc Jancovici
+  answer_source_accessible_url_text: Faut-il craindre les hydrates de méthane ? Site
+    de Jean-Marc Jancovici, 2004
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -1160,7 +1165,7 @@
   validator: 39
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-01-06'
+  updated: '2025-05-16'
 - id: 28
   text: L'acidification de l'océan est une conséquence...
   hint: ''
@@ -1231,8 +1236,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://dr-petrole-mr-carbone.com/quand-la-depollution-de-lair-aggrave-le-rechauffement/
-  answer_source_accessible_url_text: Quand la dépollution de l’air aggrave le réchauffement…
-    | Dr Pétrole & Mr Carbone
+  answer_source_accessible_url_text: Quand la dépollution de l’air aggrave le réchauffement,
+    Site Dr Pétrole & Mr Carbone, 2018
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -1248,7 +1253,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2023-04-12'
+  updated: '2025-05-16'
 - id: 30
   text: La fonte de la banquise a un impact sur...
   hint: ''
@@ -1459,7 +1464,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 35
   text: Le pergélisol (ou permafrost), c'est un sol dont la température se maintient
     en dessous de 0°C. Il couvre 20% de la surface terrestre. Que libère-t-il principalement
@@ -1490,9 +1495,9 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.france24.com/fr/20180125-le-permafrost-cette-bombe-a-retardement-sous-larctique
   answer_source_accessible_url_text: Le permafrost, cette bombe à retardement sous
-    l'Arctique
+    l'Arctique, France 24, 2018
   answer_source_scientific_url: https://www.nature.com/articles/480032a
-  answer_source_scientific_url_text: High risk of permafrost thaw - Schuur and Abbott
+  answer_source_scientific_url_text: High risk of permafrost thaw, Schuur and Abbott,
     2011
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000035-6f2d.jpg
@@ -1504,7 +1509,7 @@
   validator: 27
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 36
   text: DOUBLON Outre le changement climatique, les émissions de CO2 ont aussi une
     influence inquiétante sur...
@@ -1575,7 +1580,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/planete/article/2015/09/07/80-de-la-deforestation-est-due-a-l-agriculture_4747867_3244.html
-  answer_source_accessible_url_text: 80 % de la déforestation est due à l’agriculture
+  answer_source_accessible_url_text: 80 % de la déforestation est due à l’agriculture,
+    le Monde, 2015
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -1590,7 +1596,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-14'
+  updated: '2025-05-16'
 - id: 38
   text: Entre 2010 et 2019, quel est le pays d'Europe qui a le plus fortement réduit
     l'intensité carbone de sa production d'électricité ?
@@ -1781,7 +1787,7 @@
   answer_choice_a: 1 an
   answer_choice_b: 10 ans
   answer_choice_c: 100 ans
-  answer_choice_d: 1000 ans
+  answer_choice_d: 1 000 ans
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: La durée de séjour - plus précisément, la demi-vie - d'une particule
@@ -1793,8 +1799,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://jancovici.com/changement-climatique/gaz-a-effet-de-serre-et-cycle-du-carbone/quels-sont-les-gaz-a-effet-de-serre-quels-sont-leurs-contribution-a-leffet-de-serre/
-  answer_source_accessible_url_text: Quels sont les gaz à effet de serre ? – Jean-Marc
-    Jancovici
+  answer_source_accessible_url_text: Quels sont les gaz à effet de serre ? Site de
+    Jean-Marc Jancovici, 2017
   answer_source_scientific_url: https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global
   answer_source_scientific_url_text: Wikipedia, Potentiel de réchaufement global (PRG)
   answer_book_recommendation: ''
@@ -1810,7 +1816,7 @@
   validator: 1
   validation_date: '2022-11-05'
   created: '2020-03-10'
-  updated: '2022-11-06'
+  updated: '2025-05-16'
 - id: 43
   text: Quel jour de l'année un Français atteint-il l'empreinte écologique d'un Malien
     ?
@@ -1873,15 +1879,15 @@
     animales et fournissent des services à 500 millions de personnes (nourriture,
     travaux de protection côtière...). A une température de +1,5°C (qui sera atteinte
     aux environ de 2040) ce sont près de 90% des coraux qui subiront des dégradations.
-    A +2°C la quasi totalité des coraux de la planète disparaitront.
+    A +2°C la quasi totalité des coraux de la planète disparaitra.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://dai.ly/x45uiki
   answer_video_url_text: Les images du blanchissement de la barrière de corail - Le
     Monde
   answer_source_accessible_url: https://www.nationalgeographic.fr/environnement/les-recifs-coralliens-pourraient-disparaitre-avant-2050
-  answer_source_accessible_url_text: Les rÃ©cifs coralliens pourraient disparaÃ®tre
-    avant 2050 | National Geographic
+  answer_source_accessible_url_text: Les récifs coralliens pourraient disparaÃ®tre
+    avant 2050, National Geographic
   answer_source_scientific_url: http://whc.unesco.org/en/news/1676/
   answer_source_scientific_url_text: 'Assessment: World Heritage coral reefs likely
     to disappear by 2100 unless CO2 emissions drastically reduce'
@@ -1895,7 +1901,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 45
   text: Quelle quantité de métaux lourds, solvants, boues toxiques et autres déchets
     industriels est déversée dans les eaux du monde chaque jour ?
@@ -1908,7 +1914,7 @@
   - 216
   difficulty: 4
   language: FRENCH
-  answer_choice_a: 1000 tonnes,  soit 4 avions A380
+  answer_choice_a: 1 000 tonnes,  soit 4 avions A380
   answer_choice_b: 100 000 tonnes, soit 10 fois la Tour Eiffel
   answer_choice_c: 1 million de tonnes, soit 3 fois l'Empire State Building
   answer_choice_d: 100 millions de tonnes, soit 20 fois la Grande pyramide de Gizeh
@@ -1926,8 +1932,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.consoglobe.com/rapport-ipbes-05-2019-cg
-  answer_source_accessible_url_text: Rapport IPBES - Des preuves inquiétantes du déclin
-    de la biodiversité
+  answer_source_accessible_url_text: Des preuves inquiétantes du déclin de la biodiversité,
+    site Consoglobe 2019
   answer_source_scientific_url: https://ipbes.net/news/Media-Release-Global-Assessment-Fr
   answer_source_scientific_url_text: Plateforme intergouvernementale sur la biodiversité
     et les services écosystémiques (IPBES en anglais)
@@ -1942,7 +1948,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-05-16'
 - id: 46
   text: '[DOUBLON] Selon le rapport du GIEC de 2014, le degré de certitude qu''on
     a que le dérèglement climatique est dû à l''augmentation des gaz à effet de serre
@@ -2012,7 +2018,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: http://www.meteo-paris.com/actualites/banquise-arctique-fin-de-la-fonte-estivale-2e-etendue-la-plus-faible-22-septembre-2019.html
   answer_source_accessible_url_text: 'Actualités météo: Banquise Arctique : fin de
-    la fonte estivale, 2e étendue la plus faible 25/09/2019'
+    la fonte estivale, 2e étendue la plus faible, site Météo Paris, 2019'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -2025,7 +2031,7 @@
   validator: 39
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 48
   text: Quand on dit que la température moyenne augmentera de +3 à +5°C d'ici 2100,
     cela veut dire sur les terres émergées...
@@ -2097,11 +2103,11 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/idees/article/2018/03/27/defense-il-y-a-davantage-de-refugies-climatiques-que-de-refugies-lies-aux-conflits-dans-le-monde_5277061_3232.html
-  answer_source_accessible_url_text: 'Tribune Le Monde 2018 : « Il y a davantage de
-    réfugiés climatiques que de réfugiés liés aux conflits dans le monde »'
+  answer_source_accessible_url_text: « Il y a davantage de réfugiés climatiques que
+    de réfugiés liés aux conflits dans le monde », Tribune dans le Monde, 2018
   answer_source_scientific_url: https://www.pnas.org/doi/10.1073/pnas.1910114117
-  answer_source_scientific_url_text: PNAS, Mai 2020 - Future of the human climate
-    niche
+  answer_source_scientific_url_text: Future of the human climate niche, PNAS, Mai
+    2020
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5fa3a137.jpg
   answer_image_url_text: ''
@@ -2112,7 +2118,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-07'
+  updated: '2025-05-16'
 - id: 50
   text: Dans le monde, l'érosion et l'épuisement des sols réduisent les surfaces arables.
     De combien d'hectares par an ?
@@ -2123,10 +2129,10 @@
   - 17
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 100,000 hectares (superficie de Hong-Kong)
-  answer_choice_b: 1 million d'hectares (superficie de Chypre)
-  answer_choice_c: 10 millions d’hectares (superficie de la Corée du Sud)
-  answer_choice_d: 100 millions d'hectares (superficie de l’Égypte)
+  answer_choice_a: 100 000 hectares - soit la superficie de Hong-Kong
+  answer_choice_b: 1 million d'hectares - soit la superficie de Chypre
+  answer_choice_c: 10 millions d’hectares - soit la superficie de la Corée du Sud
+  answer_choice_d: 100 millions d'hectares - soit la superficie de l’Égypte
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Soit plus de 20% de la surface de la France métropolitaine.
@@ -2149,7 +2155,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 51
   text: En 24 heures, quelle surface de terres arables disparait dans le monde ?
   hint: ''
@@ -3315,7 +3321,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 79
   text: De combien s'est élevé le niveau moyen des mers depuis 1900 ?
   hint: ''
@@ -4337,7 +4343,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-11-29'
+  updated: '2025-05-16'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -6232,7 +6238,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-05-16'
 - id: 151
   text: Quel est le potentiel de réchauffement global sur 100 ans du gaz hexafluorure
     de soufre (formule SF6) utilisé dans l’industrie comparé à celui du CO2 ?
@@ -9636,7 +9642,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2024-11-29'
+  updated: '2025-05-16'
 - id: 237
   text: Quelle est la profondeur moyenne des océans ?
   hint: ''
@@ -10233,7 +10239,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 252
   text: Quelle est la part de la France dans les émissions de gaz à effet de serre
     de l’Union Européenne ?
@@ -13584,7 +13590,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 336
   text: Combien y a-t-il de raffineries en France métropolitaine ?
   hint: ''
@@ -14501,7 +14507,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-05-16'
 - id: 359
   text: Quelle est la puissance installée de tous les moyens de production électrique
     en service dans le monde ? (France = 130 GW)
@@ -15892,7 +15898,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-05-16'
 - id: 393
   text: En France, quel secteur dépasse 30% du total des émissions de gaz à effet
     de serre ?
@@ -16288,7 +16294,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-05-16'
 - id: 403
   text: Si rien n'est fait pour atténuer le changement climatique, combien d'humains
     risquent de vivre d'ici 50 ans dans des zones plus chaudes que le Sahara actuellement
@@ -16938,7 +16944,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2025-05-16'
 - id: 418
   text: Comment a évolué l’empreinte carbone des français entre 1995 et 2017 ?
   hint: Les émissions territoriales de la France ont baissé, mais maintenant beaucoup
@@ -17846,7 +17852,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-06-22'
+  updated: '2025-05-16'
 - id: 441
   text: "Comment les émissions moyennes de CO2 d’un Américain se comparent-elles à\
     \ celles d’un Indien ?\r\n(émissions territoriales)"
