@@ -2587,18 +2587,18 @@
     aux quiz plus sérieux !</p>
   questions:
   - 2
+  - 76
   - 102
   - 541
   - 577
   - 582
-  - 875
   - 927
   - 1095
   - 1135
   - 1136
   question_count: 10
   tags: []
-  difficulty_average: 1.9
+  difficulty_average: 1.8
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b4413624.png
   has_audio: false
@@ -2612,7 +2612,7 @@
   publish_date: null
   spotlight: false
   created: '2023-02-07'
-  updated: '2025-04-24'
+  updated: '2025-05-17'
 - id: 96
   name: Actions individuelles
   slug: actions-individuelles
@@ -3545,7 +3545,7 @@
   publish_date: null
   spotlight: false
   created: '2025-05-07'
-  updated: '2025-05-16'
+  updated: '2025-05-17'
 - id: 120
   name: L'élevage
   slug: lelevage
