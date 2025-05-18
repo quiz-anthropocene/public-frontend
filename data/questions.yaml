@@ -2580,7 +2580,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.lemonde.fr/biodiversite/article/2017/07/10/la-sixieme-extinction-de-masse-des-animaux-s-accelere-de-maniere-dramatique_5158718_1652692.html
-  answer_source_accessible_url_text: La sixième extinction de masse des animaux s’accélère
+  answer_source_accessible_url_text: La sixième extinction de masse des animaux s’accélère,
+    Le Monde, 2017
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -2593,7 +2594,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-06-22'
+  updated: '2025-05-17'
 - id: 62
   text: De combien d'habitants la population mondiale s'accroît-elle chaque année
     ?
@@ -3234,7 +3235,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-14'
+  updated: '2025-05-17'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -36161,7 +36162,7 @@
   validator: 2
   validation_date: '2021-03-24'
   created: '2021-03-17'
-  updated: '2024-02-20'
+  updated: '2025-05-17'
 - id: 876
   text: Les moteurs à bois pour les voitures, ça existe ? Choisissez les affirmations
     correctes.
