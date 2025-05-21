@@ -22124,7 +22124,7 @@
   answer_source_scientific_url_text: Archaeological assessment reveals Earth’s early
     transformation through land use (Stephens et al 2019)
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000548-0aea.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/076ceb1c.jpeg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 8
@@ -22133,7 +22133,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2025-04-01'
+  updated: '2025-05-20'
 - id: 549
   text: L'épaule humaine est spéciale dans l'évolution. Quel avantage nous a-t-elle
     progressivement procuré ?
@@ -22330,7 +22330,7 @@
   answer_source_scientific_url_text: Human Brain Expansion during Evolution Is Independent
     of Fire Control and Cooking (Cornélio et al 2016)
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000553-f8ba.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/20bc6803.jpeg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 8
@@ -22339,7 +22339,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2024-03-19'
+  updated: '2025-05-20'
 - id: 554
   text: Depuis l’an 2000, en combien d’années la Chine est-elle capable de produire
     autant de ciment que les États-Unis tout au long du 20ème siècle ?
@@ -22411,7 +22411,7 @@
   answer_source_scientific_url_text: Supercomputer model simulations reveal cause
     of Neanderthal extinction
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000555-40b0.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4bad9abe.jpeg
   answer_image_url_text: Crânes d'Homo sapiens (à gauche) et de Néandertalien (à droite)
   answer_extra_info: ''
   author: 8
@@ -22420,7 +22420,7 @@
   validator: 2
   validation_date: '2020-07-02'
   created: '2020-06-25'
-  updated: '2024-03-19'
+  updated: '2025-05-20'
 - id: 556
   text: On développe les énergies renouvelables, notamment le photovoltaïque, pour
     éviter la consommation de charbon. Sur la période 2000 à 2018, comment se comparent
