@@ -52008,8 +52008,7 @@
   created: '2025-05-14'
   updated: '2025-05-14'
 - id: 1275
-  text: 'À chaque fois que je génère une image en GenAI, une étude d''Hugging Face
-    estime que cela requiert autant d’énergie que:'
+  text: 'Quand je génère une image en GenAI, cela requiert autant d’énergie que :'
   hint: ''
   type: QCM
   category: null
@@ -52033,12 +52032,17 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.01net.com/actualites/quelle-est-lempreinte-carbone-dune-image-generee-par-ia.html
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: https://arxiv.org/pdf/2311.16863.pdf
+  answer_source_accessible_url_text: Quelle est l’empreinte carbone d’une image générée
+    par IA ?, 01Net, 2023
+  answer_source_scientific_url: https://arxiv.org/pdf/2311.16863.pdf
+  answer_source_scientific_url_text: 'Power Hungry Processing: Watts Driving the Cost
+    of AI Deployment? ALEXANDRA SASHA LUCCIONI and YACINE JERNITE, Hugging Face, Canada/USA
+    EMMA STRUBELL, Carnegie Mellon University, Allen Institute for AI, 2024'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/575561dc.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: Empreinte CO2 de différents types de tâches en 'boîte à moustache',
+    avec le trait du milieu qui représente la médiane, et le rectangle et les traits
+    verticaux qui donnent une idée de la dispersion des données
   answer_extra_info: ''
   author: 4
   visibility: PUBLIC
@@ -52046,4 +52050,4 @@
   validator: null
   validation_date: null
   created: '2025-05-14'
-  updated: '2025-05-14'
+  updated: '2025-05-22'
