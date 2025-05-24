@@ -663,3 +663,20 @@
   language: FRENCH
   created: '2025-04-23'
   updated: '2025-04-23'
+- name: GenAI
+  name_alternatives: intelligence artificielle générative
+  definition_short: intelligence artificielle qui crée des contenus à partir de demandes
+    textuelles
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2025-05-23'
+  updated: '2025-05-23'
+- name: IA
+  name_alternatives: ''
+  definition_short: intelligence artificielle
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2025-05-23'
+  updated: '2025-05-23'
