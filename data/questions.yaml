@@ -51982,13 +51982,15 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Une étude menée par Boavizta révèle que Ubisoft aura réduit\
-    \ de près de -40 % l'électricité consommée par l'un des sites.\r\n\r\nSoit une\
-    \ économie potentielle supérieure à 1M€ par an, grâce à la mise en veille des\
-    \ espaces de travail et l'allongement de vie des équipements numériques. Pour\
+    \ de près de -40 % l'électricité consommée par l'un des sites.\r\n\r\nCe chiffre\
+    \ représente une économie estimée à plus' 1M€ par an, grâce à la mise en veille\
+    \ des espaces de travail et l'allongement de vie des équipements numériques. Pour\
     \ y parvenir, il a fallut 3 ans à une nouvelle personne recrutée pour être placée\
     \ directement au sein de la DSI, avec comme mission de réduire l'empreinte environnementale.\
     \ Celle-ci a dû créer son réseau en interne, évangéliser la thématique du numérique\
-    \ responsable puis passer à l'action."
+    \ responsable puis passer à l'action.\r\nCette action est un exemple des initiatives\
+    \ que les entreprises du secteur numérique qui peinent souvent à identifier quels\
+    \ sont les sujets immédiats sur lesquels ils peuvent agir pour baisser leur empreinte."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52009,7 +52011,7 @@
   validator: null
   validation_date: null
   created: '2025-05-14'
-  updated: '2025-05-23'
+  updated: '2025-05-26'
 - id: 1275
   text: 'Quand je génère une image en GenAI, cela dégage autant d''émissions que :'
   hint: ''
