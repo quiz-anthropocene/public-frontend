@@ -310,3 +310,9 @@
   question_count: 11
   quiz_count: 1
   created: '2024-05-13'
+- id: 87
+  first_name: Fred
+  last_name: Tordo
+  question_count: 0
+  quiz_count: 0
+  created: '2024-11-25'
