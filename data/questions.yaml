@@ -50707,7 +50707,7 @@
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
-  answer_book_recommendation: Sans Transition, p. 282
+  answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cafc8800.png
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -50717,7 +50717,7 @@
   validator: null
   validation_date: null
   created: '2024-05-31'
-  updated: '2025-05-14'
+  updated: '2025-05-27'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -51710,7 +51710,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://christiandeperthuis.fr/2023/11/19/et-los-de-poulet-devint-le-symbole-de-lanthropocene/
   answer_source_accessible_url_text: Et l’os de poulet devint le symbole de l’anthropocène,
-    Christian Perthuis, blog, 2023
+    blog de Christian Perthuis, 2023
   answer_source_scientific_url: https://royalsocietypublishing.org/doi/10.1098/rsos.180325
   answer_source_scientific_url_text: The broiler chicken as a signal of a human reconfigured
     biosphere Carys E. Bennett , Richard Thomas , Mark Williams , Jan Zalasiewicz
@@ -51727,7 +51727,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-26'
-  updated: '2025-05-14'
+  updated: '2025-05-27'
 - id: 1268
   text: Les tétrapodes côtiers ont colonisé nombre de nos bords de mer. Mais que sont-ils
     ?
@@ -51945,7 +51945,10 @@
     \ dans lesquels nos usages n'ont guère changé. Conclusion : le poids des logiciels\
     \ en mémoire vive a été multiplié par 170. \r\nLa solution préconisée ? On arrête\
     \  d’installer les mises à jour évolutives sans réfléchir, mais on continue à\
-    \ installer les mises à jour de sécurité et les correctifs."
+    \ installer les mises à jour de sécurité et les correctifs.\r\nPour les concepteurs\
+    \ de produits et services numériques, il s'agit de questionner les besoins formuler\
+    \ et les mettre en adéquation avec les besoins réels, et anticiper l'impact sur\
+    \ l'architecture du projet"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51964,7 +51967,7 @@
   validator: 2
   validation_date: '2025-05-23'
   created: '2025-05-08'
-  updated: '2025-05-23'
+  updated: '2025-05-27'
 - id: 1274
   text: 'L’éditeur de jeux Ubisoft a mis en place une stratégie de réduction d’impact
     pour l’un de ses sites. L’économie d’électricité qu''il a réalisée est de l’ordre
@@ -52056,3 +52059,38 @@
   validation_date: '2025-05-23'
   created: '2025-05-14'
   updated: '2025-05-23'
+- id: 1276
+  text: Quelle est la principale cause de la déforestation mondiale ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: L'appétit féroces des castors
+  answer_choice_b: l'appétit de nos voitures électriques pour les métaux
+  answer_choice_c: Notre propre appétit
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'et oui 80% même , cause majeure de la déforestation : élevage
+    & soja en Amérique du sud , huile de palme en Indonésie , cacao au Congo'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://news.un.org/fr/story/2021/11/1108082#:~:text=Climat%20et%20environnement-,L'expansion%20agricole%20est%20responsable%20de%20pr%C3%A8s%20de%2090%25%20de,nouvelle%20prospection%20mondiale%20par%20t%C3%A9l%C3%A9d%C3%A9tection.
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 87
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-05-27'
+  updated: '2025-05-27'
