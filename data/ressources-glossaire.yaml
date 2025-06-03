@@ -680,3 +680,22 @@
   language: FRENCH
   created: '2025-05-23'
   updated: '2025-05-23'
+- name: FAO
+  name_alternatives: ''
+  definition_short: Food and Agriculture Administration
+  description: Organisation pour l'alimentation et l'agriculture. Agence spécialisée
+    des Nations Unies qui mène les efforts internationaux vers l'élimination de la
+    faim.
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2025-06-03'
+  updated: '2025-06-03'
+- name: végétalien
+  name_alternatives: végétalienne
+  definition_short: adepte d'un régie alimentaire supprimant tout produit d'origine
+    animale
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2025-06-03'
+  updated: '2025-06-03'

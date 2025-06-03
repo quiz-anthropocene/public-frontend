@@ -1588,7 +1588,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-16'
+  updated: '2025-06-03'
 - id: 38
   text: Entre 2010 et 2019, quel est le pays d'Europe qui a le plus fortement réduit
     l'intensité carbone de sa production d'électricité ?
@@ -38393,10 +38393,10 @@
     l'agriculture, FAO 2009
   answer_book_recommendation: "Source INRAE : https://www.inrae.fr/actualites/infographie-elevage-occupation-terres\r\
     \nSource FAO : http://www.fao.org/3/a0701e/a0701e11.pdf"
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000929-063f.png
-  answer_image_url_text: 29% de la planète est occupée par des terres, dont 71% de
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9e84009e.png
+  answer_image_url_text: '29% de la planète est occupée par des terres, dont 71% de
     cette surface terrestre est habitable. La surface habitable elle, est dédiée à
-    50% à l'agriculture.
+    50% à l''agriculture. Source : FAO'
   answer_extra_info: ''
   author: 15
   visibility: PUBLIC
@@ -38404,7 +38404,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-05-14'
+  updated: '2025-06-03'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -39990,7 +39990,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-05-14'
+  updated: '2025-06-03'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -47053,7 +47053,7 @@
   validator: null
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-05-14'
+  updated: '2025-06-03'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -50709,7 +50709,7 @@
   validator: null
   validation_date: null
   created: '2024-05-31'
-  updated: '2025-05-27'
+  updated: '2025-06-03'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -51674,7 +51674,7 @@
   created: '2024-07-02'
   updated: '2025-03-27'
 - id: 1267
-  text: Comparons nos poulets actuels à ceux d'avant l'époque romaine. Lesquelles
+  text: Comparons les poulets actuels à ceux d'avant l'époque romaine. Lesquelles
     de ces affirmations sont vraies ?
   hint: ''
   type: QCM-RM
@@ -51692,8 +51692,9 @@
   answer_explanation: "Toutes les affirmations sont vraies. Non seulement leur squelette\
     \ mais la chimie de leurs os et leur génétique sont différents. Au cours du seul\
     \ XXe siècle, leur masse corporelle a été multipliée par 5. On en comptait 26\
-    \ milliards en 2021, trois fois plus que tous leurs autres oiseaux réunis.\r\n\
-    Les os si nombreux de ces poulets si particuliers que notre civilisation laissera\
+    \ milliards en 2021, trois fois plus que tous leurs autres oiseaux réunis. Leur\
+    \ durée de vie est de 35 jours en élevage, contre 8 ans d'espérance naturelle.\r\
+    \nLes os si nombreux de ces poulets si particuliers que notre civilisation laissera\
     \ derrière elle intrigueront peut-être les chercheurs du futur. Au point qu'on\
     \ peut voir en cette espèce un marqueur de l'âge de l'humain."
   answer_audio_url: ''
@@ -51719,7 +51720,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-26'
-  updated: '2025-05-27'
+  updated: '2025-06-03'
 - id: 1268
   text: Les tétrapodes côtiers ont colonisé nombre de nos bords de mer. Mais que sont-ils
     ?
@@ -51841,7 +51842,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-27'
-  updated: '2025-05-14'
+  updated: '2025-06-03'
 - id: 1271
   text: Vrai ou faux ? On élève des araignées pour leur soie ultra-solide
   hint: ''
@@ -51917,7 +51918,7 @@
   validator: null
   validation_date: null
   created: '2025-03-28'
-  updated: '2025-05-14'
+  updated: '2025-06-03'
 - id: 1273
   text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers'
   hint: ''
@@ -52119,7 +52120,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-02'
+  updated: '2025-06-03'
 - id: 1278
   text: Parmi les affirmations suivantes, lesquelles sont valides ?
   hint: ''
@@ -52156,7 +52157,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-02'
+  updated: '2025-06-03'
 - id: 1279
   text: en France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
@@ -52191,10 +52192,10 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-02'
+  updated: '2025-06-03'
 - id: 1280
-  text: Combien de calories végétales faut-il pour produire une calorie d'origine
-    animale ?
+  text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
+    calories végétales ?
   hint: ''
   type: QCM
   category: null
@@ -52202,10 +52203,10 @@
   difficulty: 2
   language: FRENCH
   answer_choice_a: 1 calorie
-  answer_choice_b: 4 à 11
-  answer_choice_c: 15 à 20
-  answer_choice_d: 20 à 50
-  answer_correct: b
+  answer_choice_b: 2 à 4
+  answer_choice_c: 4 à 11
+  answer_choice_d: Plus que 15
+  answer_correct: c
   has_ordered_answers: true
   answer_explanation: ''
   answer_audio_url: ''
@@ -52226,4 +52227,74 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-02'
+  updated: '2025-06-03'
+- id: 1281
+  text: Classez les animaux suivants des plus au moins exploitées (en France)
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: 1. Poulets 2. Poules pondeuses 3. Poissons 4. Vaches 5. Cochons
+  answer_choice_b: 1. Poissons 2. Poulets 3. Poules pondeuses 4. Cochons 5. Vaches
+  answer_choice_c: 1. Poissons. 2. Poules pondeuses 3. Poulets 4. Vaches 5. Cochons
+  answer_choice_d: 1. Poules pondeuses 2. Poissons 3. Poulets 4. Cochons 5. Vaches
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Poisson : plus d'un milliard par an\r\nPoulets : 700 millions\r\
+    \nPoules pondeuses : 40 millions\r\nCochons : 23 millions\r\nVaches : 4 millions"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-03'
+  updated: '2025-06-03'
+- id: 1282
+  text: Pour produire 1g de protéine animale, combien en faut-il de végétal ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: '5'
+  answer_choice_b: '10'
+  answer_choice_c: '15'
+  answer_choice_d: '20'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Cela signifie 90% de perte. Si l'on restreint le calcul aux
+    seuls végétaux que l'humain pourrait consommer, le chiffre reste de 62%.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7ac31edf.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-03'
+  updated: '2025-06-03'

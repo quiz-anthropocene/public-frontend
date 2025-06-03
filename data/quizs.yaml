@@ -3552,16 +3552,20 @@
   introduction: <p>Un quiz proposé par l'association <a href="https://www.l214.com/">L214</a>.</p>
   conclusion: ''
   questions:
-  - 37
   - 929
-  - 966
+  - 1154
   - 1243
   - 1267
-  - 1270
   - 1272
-  question_count: 7
+  - 1277
+  - 1278
+  - 1279
+  - 1280
+  - 1281
+  - 1282
+  question_count: 11
   tags: []
-  difficulty_average: 2.0
+  difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/44e08a85.png
   has_audio: false
@@ -3575,4 +3579,4 @@
   publish_date: null
   spotlight: false
   created: '2025-05-14'
-  updated: '2025-05-27'
+  updated: '2025-06-03'
