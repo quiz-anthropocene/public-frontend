@@ -46382,20 +46382,20 @@
     \ mutualisées qui partagent la dépense énergétique associées à l'hébergement,\
     \ et utiliser des infrastructures soumises à des normes et labels qui visent une\
     \ efficience énergétique maximale... à condition bien sûr que les infrastructures\
-    \ physiques soient proportionnelles aux besoins !\r\nA contrario, nos terminaux\
+    \ physiques soient proportionnées aux besoins !\r\nA contrario, nos terminaux\
     \ ne sont pas mutualisés, leurs écrans sont gourmands en énergie et il faut également\
     \ comptabiliser l'empreinte carbone de leur production, proportionnellement bien\
-    \ plus importante. \r\nConclusion: une solution digitale sobre s'assure que ses\
-    \ utilisateurs n'aient pas besoin de renouveler leur téléphone trop souvent."
+    \ plus importante. Conclusion : une solution digitale sobre s'assure que ses utilisateurs\
+    \ n'aient pas besoin de renouveler leur téléphone trop souvent."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.arcep.fr/uploads/tx_gspublication/dossier-presse-Etude-Ademe-Arcep-lot3_mars2023.pdf
-  answer_source_accessible_url_text: 'Etude ADEME-Arcep : évaluation de l’empreinte
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.arcep.fr/uploads/tx_gspublication/dossier-presse-Etude-Ademe-Arcep-lot3_mars2023.pdf
+  answer_source_scientific_url_text: 'Etude ADEME-Arcep : évaluation de l’empreinte
     environnementale du numérique en France en 2020, 2030 et 2050'
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/0ac27474.jpg
   answer_image_url_text: ''
@@ -46406,7 +46406,7 @@
   validator: null
   validation_date: null
   created: '2023-02-16'
-  updated: '2025-05-14'
+  updated: '2025-06-03'
 - id: 1139
   text: Dans les logiciels et applications sur smartphone, quelle est la proportion
     de fonctionnalités qui ne sont jamais utilisées ?
@@ -52159,7 +52159,7 @@
   created: '2025-06-02'
   updated: '2025-06-03'
 - id: 1279
-  text: en France, quelle proportion des animaux d'élevage sont enfermés en élevage
+  text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
   hint: ''
   type: QCM
@@ -52289,6 +52289,40 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7ac31edf.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-03'
+  updated: '2025-06-03'
+- id: 1283
+  text: هذا سؤال اختبار باللغة العربية
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: الجواب أ
+  answer_choice_b: إجابة أخرى
+  answer_choice_c: إجابة أخرى
+  answer_choice_d: إجابة أخرى
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
