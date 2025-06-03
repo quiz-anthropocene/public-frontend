@@ -177,39 +177,31 @@
   created: '2020-03-07'
   updated: '2025-05-16'
 - id: 5
-  text: Les hydrates de méthane sont une forme de glace au fond des océans. Ils peuvent
-    devenir instables et libérer du méthane...
+  text: Combien d'animaux sont abattus en France pour l'alimentation ?
   hint: ''
   type: QCM
-  category: 1
+  category: 4
   tags:
   - 15
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Dès maintenant
-  answer_choice_b: A partir de +1°C de hausse de la température de l'air
-  answer_choice_c: A partir de +2°C de hausse de la température de l'air
-  answer_choice_d: A partir de +5°C de hausse de la température de l'air
+  answer_choice_a: 500 par heure
+  answer_choice_b: 500 par minute
+  answer_choice_c: 500 par seconde
+  answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Des scientifiques craignent que le réchauffement climatique,
-    en élevant suffisamment la température du pergélisol, permette que les hydrates
-    qui y sont présents fondent au moins partiellement : cela aurait pour effet de
-    relâcher d''énormes quantités de méthane dans l''atmosphère, lequel viendrait
-    à son tour augmenter l''effet de serre, d''où un effet d''emballement. Florent
-    Dominé, du CNRS, évoque une augmentation de 5 à 8 °C de la température d''ici
-    à 2100.'
+  answer_explanation: ''
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://jancovici.com/changement-climatique/risques/faut-il-redouter-les-hydrates-de-methane/
-  answer_source_accessible_url_text: Faut-il craindre les hydrates de méthane ? –
-    Jean-Marc Jancovici
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000005-8055.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3c3783ad.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -218,7 +210,7 @@
   validator: null
   validation_date: null
   created: '2020-03-07'
-  updated: '2022-04-16'
+  updated: '2025-06-02'
 - id: 6
   text: L'effet de serre additionnel créé par les activités humaines emprisonne de
     l'énergie. Quelle proportion de celle-ci se retrouve absorbée par les océans ?
@@ -52094,3 +52086,144 @@
   validation_date: null
   created: '2025-05-27'
   updated: '2025-05-27'
+- id: 1277
+  text: Combien d'animaux sont abattus en France pour l'alimentation ?
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 500 par heure
+  answer_choice_b: 500 par minute
+  answer_choice_c: 500 par seconde
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1b660d56.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-02'
+  updated: '2025-06-02'
+- id: 1278
+  text: Parmi les affirmations suivantes, lesquelles sont valides ?
+  hint: ''
+  type: QCM-RM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: La consommation annuelle de boeuf moyenne d'un Français émet autant
+    de carbone que 2 aller-retours Paris - Pékin
+  answer_choice_b: Un régime végétalien émet 2,5 fois moins de gaz à effet de serre
+    qu'un régime alimentaire traditionnel
+  answer_choice_c: Pour réduire son empreinte carbone, manger végétal est 6 fois plus
+    efficace que manger local
+  answer_choice_d: ''
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-02'
+  updated: '2025-06-02'
+- id: 1279
+  text: en France, quelle proportion des animaux d'élevage sont enfermés en élevage
+    intensif ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 50%
+  answer_choice_b: 70%
+  answer_choice_c: 80%
+  answer_choice_d: 95%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-02'
+  updated: '2025-06-02'
+- id: 1280
+  text: Combien de calories végétales faut-il pour produire une calorie d'origine
+    animale ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: 1 calorie
+  answer_choice_b: 4 à 11
+  answer_choice_c: 15 à 20
+  answer_choice_d: 20 à 50
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-02'
+  updated: '2025-06-02'
