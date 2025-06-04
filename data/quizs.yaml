@@ -3568,7 +3568,6 @@
     \ C'est à vous.</p>"
   conclusion: ''
   questions:
-  - 929
   - 1154
   - 1243
   - 1267
@@ -3576,12 +3575,13 @@
   - 1277
   - 1278
   - 1279
-  - 1280
   - 1281
   - 1282
+  - 1284
+  - 1285
   question_count: 11
   tags: []
-  difficulty_average: 1.7
+  difficulty_average: 1.6
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/44e08a85.png
   has_audio: false

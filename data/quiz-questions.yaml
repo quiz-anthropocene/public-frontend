@@ -3918,11 +3918,6 @@
   question: 1273
   order: 300
   created: '2025-05-08'
-- id: 1058
-  quiz: 120
-  question: 929
-  order: 100
-  created: '2025-05-14'
 - id: 1060
   quiz: 120
   question: 1267
@@ -4008,15 +4003,10 @@
   question: 1279
   order: 60
   created: '2025-06-03'
-- id: 1081
-  quiz: 120
-  question: 1280
-  order: 80
-  created: '2025-06-03'
 - id: 1082
   quiz: 120
   question: 1281
-  order: 65
+  order: 10
   created: '2025-06-03'
 - id: 1083
   quiz: 120
@@ -4027,4 +4017,14 @@
   quiz: 120
   question: 1154
   order: 70
+  created: '2025-06-03'
+- id: 1085
+  quiz: 120
+  question: 1284
+  order: 68
+  created: '2025-06-03'
+- id: 1086
+  quiz: 120
+  question: 1285
+  order: 75
   created: '2025-06-03'
