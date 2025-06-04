@@ -47022,15 +47022,15 @@
   text: Combien de poissons sauvages pour nourrir un poisson d'élevage en moyenne
     ?
   hint: ''
-  type: QCM-RM
+  type: QCM
   category: 4
   tags: []
   difficulty: 1
   language: FRENCH
   answer_choice_a: '1'
   answer_choice_b: '20'
-  answer_choice_c: '100'
-  answer_choice_d: '400'
+  answer_choice_c: '400'
+  answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: La pisciculture repose sur l'exploitation massive d'autres poissons
@@ -50686,7 +50686,7 @@
   answer_choice_a: 1. Viande 2. Pois chiche 3. Tofu
   answer_choice_b: 1. Viande. 2. Tofu 3. Pois chiche
   answer_choice_c: 1. Tofu 2. Viande 3. Pois chiche
-  answer_choice_d: 1. Pois chiche. 2 Tofu 3. Viande
+  answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: Il existe différentes méthodes de calcul. Mais les produits
@@ -51686,17 +51686,17 @@
   answer_choice_b: Leur taille a doublé
   answer_choice_c: Le poids total des poulets d'élevage excède celui de tous les autres
     oiseaux sur terre
-  answer_choice_d: Ils engraissent beaucoup plus rapidement
-  answer_correct: abcd
+  answer_choice_d: Ils vivent plus longtemps
+  answer_correct: abc
   has_ordered_answers: true
-  answer_explanation: "Toutes les affirmations sont vraies. Non seulement leur squelette\
-    \ mais la chimie de leurs os et leur génétique sont différents. Au cours du seul\
-    \ XXe siècle, leur masse corporelle a été multipliée par 5. On en comptait 26\
-    \ milliards en 2021, trois fois plus que tous leurs autres oiseaux réunis. Leur\
-    \ durée de vie est de 35 jours en élevage, contre 8 ans d'espérance naturelle.\r\
-    \nLes os si nombreux de ces poulets si particuliers que notre civilisation laissera\
-    \ derrière elle intrigueront peut-être les chercheurs du futur. Au point qu'on\
-    \ peut voir en cette espèce un marqueur de l'âge de l'humain."
+  answer_explanation: "Non seulement leur squelette mais la chimie de leurs os et\
+    \ leur génétique sont différents. Au cours du seul XXe siècle, leur masse corporelle\
+    \ a été multipliée par 5. On en comptait 26 milliards en 2021, trois fois plus\
+    \ que tous leurs autres oiseaux réunis. Leur durée de vie est de 35 jours en élevage,\
+    \ contre 8 ans d'espérance naturelle.\r\nCes animaux requièrent de surcroît beaucoup\
+    \ de soin (à développer).\r\nLes os si nombreux de ces poulets si particuliers\
+    \ que notre civilisation laissera derrière elle intrigueront peut-être les chercheurs\
+    \ du futur. Au point qu'on peut voir en cette espèce un marqueur de l'âge de l'humain."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52122,23 +52122,22 @@
   created: '2025-06-02'
   updated: '2025-06-03'
 - id: 1278
-  text: Parmi les affirmations suivantes, lesquelles sont valides ?
+  text: Vrai ou faux ? Pour le climat, il est équivalent de manger local ou de manger
+    végétal.
   hint: ''
-  type: QCM-RM
+  type: VF
   category: null
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: La consommation annuelle de boeuf moyenne d'un Français émet autant
-    de carbone que 2 aller-retours Paris - Pékin
-  answer_choice_b: Un régime végétalien émet 2,5 fois moins de gaz à effet de serre
-    qu'un régime alimentaire traditionnel
-  answer_choice_c: Pour réduire son empreinte carbone, manger végétal est 6 fois plus
-    efficace que manger local
+  answer_choice_a: Vrai
+  answer_choice_b: Faux
+  answer_choice_c: ''
   answer_choice_d: ''
-  answer_correct: abc
+  answer_correct: b
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: "climat = émissions de GES\r\nvégétal = 6 fois plus de réduction.\r\
+    \nTransport = infime partie"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52168,12 +52167,12 @@
   difficulty: 1
   language: FRENCH
   answer_choice_a: 50%
-  answer_choice_b: 70%
-  answer_choice_c: 80%
-  answer_choice_d: 95%
-  answer_correct: c
+  answer_choice_b: 80%
+  answer_choice_c: 98%
+  answer_choice_d: ''
+  answer_correct: b
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: 98% = situation des cochons et des lapins
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52229,21 +52228,22 @@
   created: '2025-06-02'
   updated: '2025-06-03'
 - id: 1281
-  text: Classez les animaux suivants des plus au moins exploitées (en France)
+  text: Quels sont les animaux les plus 'exploités' en France
   hint: ''
   type: QCM
   category: 4
   tags: []
   difficulty: 3
   language: FRENCH
-  answer_choice_a: 1. Poulets 2. Poules pondeuses 3. Poissons 4. Vaches 5. Cochons
-  answer_choice_b: 1. Poissons 2. Poulets 3. Poules pondeuses 4. Cochons 5. Vaches
-  answer_choice_c: 1. Poissons. 2. Poules pondeuses 3. Poulets 4. Vaches 5. Cochons
-  answer_choice_d: 1. Poules pondeuses 2. Poissons 3. Poulets 4. Cochons 5. Vaches
-  answer_correct: b
+  answer_choice_a: Les poissons
+  answer_choice_b: Les poulets
+  answer_choice_c: Les poules pondeuses
+  answer_choice_d: Les cochons
+  answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Poisson : plus d'un milliard par an\r\nPoulets : 700 millions\r\
-    \nPoules pondeuses : 40 millions\r\nCochons : 23 millions\r\nVaches : 4 millions"
+  answer_explanation: "Poisson : plus d'un milliard par an. Inclut pêche et pisciculture\
+    \ ?\r\nPoulets : 700 millions\r\nPoules pondeuses : 40 millions\r\nCochons : 23\
+    \ millions\r\nVaches : 4 millions"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52323,6 +52323,77 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-03'
+  updated: '2025-06-03'
+- id: 1284
+  text: Dans les élevages quelle est l'espérance de vie d'une poule pondeuse ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 1,5 ans
+  answer_choice_b: 5 ans
+  answer_choice_c: 8 ans
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: 8 ans = en refuge
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-03'
+  updated: '2025-06-03'
+- id: 1285
+  text: Quelle proportion des terres agricoles mondiales sont utilisées par et pour
+    l'élevage ?
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 17%
+  answer_choice_b: 37%
+  answer_choice_c: 57%
+  answer_choice_d: 77%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Ce sont ainsi les 3/4 des terres agricoles qui sont utilisées
+    pour l'élevage ou pour l'alimentation animale. L'élevage est l'une des principales
+    causes de la déforestation.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5190ab52.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
