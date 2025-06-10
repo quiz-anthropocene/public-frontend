@@ -47033,18 +47033,26 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: La pisciculture repose sur l'exploitation massive d'autres poissons
-    sauvages. Le chiffre de 400 correspond à un maximum.
+  answer_explanation: "La pisciculture est parfois présentée comme une alternative\
+    \ pour éviter de vider les océans. Pour les poissons carnivores, comme les saumons,\
+    \ c’est pourtant l’inverse qui a lieu : ils sont nourris avec des huiles et farines\
+    \ de poissons… issus de la surpêche.\r\nLe chiffre proposé de 400 correspond à\
+    \ une valeur maximale.\r\nAu-delà du gaspillage en termes de calories, la pisciculture\
+    \ génère d’importantes souffrances : les animaux sont condamnés à tourner en rond\
+    \ toute leur vie dans des bassins lisses, sans aucune distraction, sans aucun\
+    \ endroit à explorer où se cacher, entassés les uns sur les autres. Dans les élevages\
+    \ de saumons, certains se laissent même mourir."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://www.l214.com/animaux/poissons/la-vie-des-poissons/
+  answer_source_accessible_url_text: Site L214 - La vie des poissons
+  answer_source_scientific_url: https://www.ciwf.org.uk/media/7444572/ciwf_rethink-salmon_21_lr_singles_web.pdf?utm_campaign=fish&utm_source=link&utm_medium=ciwf
+  answer_source_scientific_url_text: 'Underwater cages, parasites and dead fish: why
+    a moratorium on Scottish salmon farming expansion is imperative, Onekind, 2021'
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1c663b1f.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -47053,7 +47061,7 @@
   validator: null
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -51689,14 +51697,19 @@
   answer_choice_d: Ils vivent plus longtemps
   answer_correct: abc
   has_ordered_answers: true
-  answer_explanation: "Non seulement leur squelette mais la chimie de leurs os et\
-    \ leur génétique sont différents. Au cours du seul XXe siècle, leur masse corporelle\
-    \ a été multipliée par 5. On en comptait 26 milliards en 2021, trois fois plus\
-    \ que tous leurs autres oiseaux réunis. Leur durée de vie est de 35 jours en élevage,\
-    \ contre 8 ans d'espérance naturelle.\r\nCes animaux requièrent de surcroît beaucoup\
-    \ de soin (à développer).\r\nLes os si nombreux de ces poulets si particuliers\
+  answer_explanation: "Les poulets de chair (glossaire) ont fait l’objet d’une intense\
+    \ sélection génétique ces dernières décennies. Au cours du seul XXe siècle, leur\
+    \ masse corporelle a été multipliée par 5 et leur ossature a complètement changé.\
+    \ Cette sélection a aussi comme résultat de les faire grossir plus vite.Ils sont\
+    \ désormais tués à l’âge de 35 jours, 4 fois plus jeune qu’en 1950. Elle est aussi\
+    \  source de nombreuses souffrances : difficulté à se déplacer, douleurs articulaires,\
+    \ cœurs et poumons défaillants…La mortalité est de 4% avant leur âge d’abattage.\
+    \ Dans les refuges animalistes qui recueillent ceux qui ont été sauvés de l’abattage,\
+    \ ils font l’objet de nombreux soins et dépenses vétérinaires car ils sont particulièrement\
+    \ fragiles\r\nOn comptait 26 milliards de poulets en 2021, trois fois plus que\
+    \ tous leurs autres oiseaux réunis. Les os si nombreux de ces poulets si particuliers\
     \ que notre civilisation laissera derrière elle intrigueront peut-être les chercheurs\
-    \ du futur. Au point qu'on peut voir en cette espèce un marqueur de l'âge de l'humain."
+    \ du futur. Au point qu'on peut voir en cette espèce un marqueur de l’anthropocène."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51720,7 +51733,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-26'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1268
   text: Les tétrapodes côtiers ont colonisé nombre de nos bords de mer. Mais que sont-ils
     ?
@@ -51899,18 +51912,23 @@
   answer_choice_d: 25,5%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: "C’est légèrement plus que les émissions directes (consommation\
+    \ de carburant) du secteur des transports.\r\nLes espèces qui émettent le plus\
+    \ de GES sont les bovins, qu’ils soient élevés pour la viande ou pour leur lait.\
+    \ Ainsi, réduire son impact environnemental implique de végétaliser toute son\
+    \ alimentation, produits laitiers compris."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.viande.info/elevage-viande-gaz-effet-serre
+  answer_source_accessible_url_text: Site viande.info, L’élevage accentue l’effet
+    de serre et la déforestation
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b0f95ce8.png
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ce467a58.png
+  answer_image_url_text: 'Source : site viande.info'
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -51918,7 +51936,7 @@
   validator: null
   validation_date: null
   created: '2025-03-28'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1273
   text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers'
   hint: ''
@@ -52101,17 +52119,22 @@
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: ''
+  answer_explanation: 'Ce chiffre inclut les animaux aquatiques, qui constituent donc
+    l’immense majorité. S’agissant des animaux terrestres, ils sont tués à une cadence
+    de 35 chaque seconde dans les abattoirs. Les cadences effrénées d’abattage génèrent
+    de grandes souffrances, comme le montrent les nombreuses enquêtes réalisées par
+    l’association : coups pour faire avancer les animaux, étourdissements ratés, animaux
+    égorgés encore conscients…'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.l214.com/enquetes/videos/
+  answer_source_accessible_url_text: Site L214 - enquêtes vidéos
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1b660d56.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2c2d5985.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -52120,7 +52143,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1278
   text: Vrai ou faux ? Pour le climat, il est équivalent de manger local ou de manger
     végétal.
@@ -52136,19 +52159,25 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "climat = émissions de GES\r\nvégétal = 6 fois plus de réduction.\r\
-    \nTransport = infime partie"
+  answer_explanation: "Pour réduire son impact carbone, il est 6 fois plus efficace\
+    \ de manger bio et local que de manger végétal.\r\nEn effet, la part du transport\
+    \ dans l’impact carbone des aliments est extrêmement faible comparé aux émissions\
+    \ liées à l’activité d’élevage et de production en elle-même"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
+  answer_source_accessible_url: https://ourworldindata.org/grapher/food-emissions-supply-chain
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e4b509bb.png
+  answer_image_url_text: 'Emissions de gaz à effet de serre par kilo pour différents
+    produits alimentaires, selon les phases de leur cycle de vie: Production primaire
+    (élevage), transformation, transport, distribution, emballage, pertes. On voit
+    sur les premières lignes : boeuf, chocolat, mouton et agneau. Site Our world in
+    data, https://ourworldindata.org/grapher/food-emissions-supply-chain'
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -52156,7 +52185,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
@@ -52172,17 +52201,28 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 98% = situation des cochons et des lapins
+  answer_explanation: "Près de 85 % des Françaises et Français s’opposent à l’élevage\
+    \ intensif (IFOP 2024). Pourtant, plus de 80 % des animaux sont enfermés dans\
+    \ des bâtiments d’où ils ne sortiront que pour être emmenés à l’abattoir. La souffrance\
+    \ y est généralisée, du fait des densités extrêmes, du manque de soins, de pratiques\
+    \ violentes. Par exemple, l’élimination de porcelets et lapereaux non désirés\
+    \ en claquant leur tête contre le sol, coupe à vif des queues et des testicules\
+    \ des porcelets, des becs des poules.\r\nLe chiffre de 98 % renvoie à la situation\
+    \ des lapins et des cochons. Ainsi, même la charcuterie et la viande de lapin\
+    \ vendue dans les boucheries proviennent d’élevages intensifs. De même, les poissons\
+    \ issus de la pisciculture sont tous élevés de façon intensive."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://www.l214.com/animaux/statistiques-pourcentage-elevage-intensif-viande-lait-oeufs//
+  answer_source_accessible_url_text: 'Site L214 - Élevage intensif : plus de 8 animaux
+    sur 10 en France'
+  answer_source_scientific_url: https://www.ifop.com/publication/les-francais-et-le-bien-etre-des-animaux-3/
+  answer_source_scientific_url_text: 'Enquête IFOP : Les Français et le bien-être
+    des animaux, 2024'
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6bd26e7a.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -52191,7 +52231,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1280
   text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
     calories végétales ?
@@ -52228,7 +52268,7 @@
   created: '2025-06-02'
   updated: '2025-06-03'
 - id: 1281
-  text: Quels sont les animaux les plus 'exploités' en France
+  text: Quels animaux sont tués en le plus grand nombre en France ?
   hint: ''
   type: QCM
   category: 4
@@ -52241,19 +52281,29 @@
   answer_choice_d: Les cochons
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Poisson : plus d'un milliard par an. Inclut pêche et pisciculture\
-    \ ?\r\nPoulets : 700 millions\r\nPoules pondeuses : 40 millions\r\nCochons : 23\
-    \ millions\r\nVaches : 4 millions"
+  answer_explanation: "Les poissons sont les grands oubliés de la cause animale. On\
+    \ ressent généralement moins d’empathie envers les animaux qui nous ressemblent\
+    \ peu. Leur capacité à ressentir des émotions - positives et négatives - ainsi\
+    \ que la douleur, fait pourtant désormais consensus chez les scientifiques. Les\
+    \ poissons sont plusieurs milliards à être tués chaque année, rien que du fait\
+    \ de la pêche française. Auxquels il faut rajouter 200 000 par la pisciculture.\r\
+    \nQuant aux animaux terrestres, les poulets représentent 75 % des animaux tués\
+    \ (près de 700 millions). Les poules pondeuses sont 40 millions et les cochons\
+    \ 22 millions. On voit souvent le conseil de commencer par diminuer sa consommation\
+    \ de viande, le premier réflexe est souvent d’arrêter la viande rouge. Si cette\
+    \ action a indéniablement un impact sur le climat, elle se traduit cependant souvent\
+    \ par une hausse de la consommation de poissons ou de poulets. Et donc d’animaux\
+    \ tués."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.l214.com/animaux/statistiques-nombre-animaux-abattus-france-viande//
+  answer_source_accessible_url_text: 'Site L214 : Animaux abattus en France'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/972da55d.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -52262,7 +52312,7 @@
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1282
   text: Pour produire 1g de protéine animale, combien en faut-il de végétal ?
   hint: ''
@@ -52277,14 +52327,19 @@
   answer_choice_d: '20'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Cela signifie 90% de perte. Si l'on restreint le calcul aux
-    seuls végétaux que l'humain pourrait consommer, le chiffre reste de 62%.
+  answer_explanation: 'Soit 90% de perte. Si l''on restreint le calcul aux végétaux
+    que l''humain pourrait consommer, le chiffre reste de 62%. L’élevage génère donc
+    un gaspillage massif des ressources alimentaires : il serait beaucoup plus soutenable
+    de consommer directement les céréales et légumineuses avec lesquelles nous nourrissons
+    les animaux. Si les pays riches et émergents divisaient par deux leur consommation
+    de viande, la ration calorique des habitant.e.s des pays en développement augmenterait
+    et au moins 2,2 millions d''enfants échapperaient à la malnutrition chronique.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.viande.info/elevage-viande-sous-alimentation
+  answer_source_accessible_url_text: Site viande.info, Élevage et sous-alimentation
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -52297,7 +52352,7 @@
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1283
   text: هذا سؤال اختبار باللغة العربية
   hint: ''
@@ -52333,7 +52388,7 @@
   created: '2025-06-03'
   updated: '2025-06-03'
 - id: 1284
-  text: Dans les élevages quelle est l'espérance de vie d'une poule pondeuse ?
+  text: Dans les élevages, quelle est l'espérance de vie d'une poule pondeuse ?
   hint: ''
   type: QCM
   category: null
@@ -52346,7 +52401,13 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 8 ans = en refuge
+  answer_explanation: "Les poules pondeuses sont abattues dès que leur productivité\
+    \ commence à décliner, à 1 an et demi environ, alors que leur espérance de vie\
+    \ est d’environ 8 ans.\r\nDe fait, tous les animaux d’élevage sont abattus jeunes,\
+    \ voire très jeunes, bien avant leur espérance de vie. Par exemple, les cochons\
+    \ sont abattus dès 6 mois (espérance de vie en refuge : 20 ans), les vaches laitières\
+    \ à 5 ans (espérance de vie en refuge : 20 ans). Autrement dit, même l’alimentation\
+    \ végétarienne implique la mort prématurée d’animaux."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52356,7 +52417,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/73c0934a.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -52365,7 +52426,7 @@
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1285
   text: Quelle proportion des terres agricoles mondiales sont utilisées par et pour
     l'élevage ?
@@ -52381,15 +52442,19 @@
   answer_choice_d: 77%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Ce sont ainsi les 3/4 des terres agricoles qui sont utilisées
-    pour l'élevage ou pour l'alimentation animale. L'élevage est l'une des principales
-    causes de la déforestation.
+  answer_explanation: 3/4 des terres agricoles sont utilisées pour l'élevage ou pour
+    l'alimentation animale. L'élevage est l'une des principales causes de la déforestation,
+    qu’il s’agisse de générer de nouvelles pâtures ou de cultiver toujours plus de
+    céréales et de légumineuses pour l’alimentation des animaux. Ainsi, le soja massivement
+    produit en Amazonie n’est pas destiné à la consommation humaine, mais à l’alimentation
+    animale. Le soja destiné aux humains et aux humaines est produit en Europe.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.viande.info/elevage-viande-gaz-effet-serre
+  answer_source_accessible_url_text: Site viande.info, L’élevage accentue l’effet
+    de serre et la déforestation
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -52402,4 +52467,4 @@
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
