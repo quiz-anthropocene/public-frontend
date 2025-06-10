@@ -3550,23 +3550,42 @@
 - id: 120
   name: L'élevage
   slug: lelevage
-  introduction: "<p><a href=\"https://www.l214.com/\" target=\"_blank\">L214</a> est\
-    \ une association de défense des animaux utilisés comme ressources alimentaires\
-    \ : viande, lait, œufs, poissons. Elle réalise des <a href=\"http://www.l214.com/enquetes/videos/\"\
-    \ target=\"_blank\">enquêtes</a> qui révélent les conditions d’élevage, de transport\
-    \ et d’abattage des animaux. Lanceuse d’alerte, L214 souhaite changer le regard\
-    \ que notre société porte sur les animaux et interroger la légitimité de les faire\
-    \ souffrir ou de les tuer sans nécessité. Elle s’emploie par ses actions à faire\
-    \ reculer les pratiques les plus cruelles pour les animaux et à favoriser la transition\
-    \ vers une alimentation végétale. Ses missions  s’articulent autour de 3 axes :</p>\r\
-    \n\r\n<ul>\r\n\t<li>Soulever la question animale auprès des citoyens et dans le\
-    \ débat public.</li>\r\n\t<li>Faire reculer les pires pratiques d’élevage, de\
-    \ transport et d’abattage.</li>\r\n\t<li>Promouvoir l’alimentation végétale pour\
-    \ réduire le nombre d’animaux tués.</li>\r\n</ul>\r\n\r\n<p>L214 a élaboré pour\
-    \ nous ce quiz autour de ces thématiques. Comme ailleurs sur ce site, tous les\
-    \ chiffres et faits sont sourcés, nous vous invitons à consulter les sources fournies.\
-    \ C'est à vous.</p>"
-  conclusion: ''
+  introduction: "<p> </p>\r\n\r\n<p>Les questions qui suivent sont issues de quiz\
+    \ créés par l’association L214 pour le public et pour ses bénévoles. <br />\r\n\
+    <a href=\"https://www.l214.com/\" style=\"text-decoration:none\"><u>L214</u></a>\
+    \ est une association de défense des animaux utilisés comme ressources alimentaires\
+    \ : viande, lait, œufs, poissons. Elle réalise des<a href=\"http://www.l214.com/enquetes/videos/\"\
+    \ style=\"text-decoration:none\"> <u>enquêtes</u></a> qui révèlent les conditions\
+    \ d’élevage, de transport et d’abattage des animaux. Lanceuse d’alerte, l'association\
+    \ souhaite changer le regard que notre société porte sur les animaux et interroger\
+    \ la légitimité de les faire souffrir ou de les tuer sans nécessité. Elle s’emploie\
+    \ par ses actions à faire reculer les pratiques les plus cruelles pour les animaux\
+    \ et à favoriser la transition vers une alimentation végétale.</p>"
+  conclusion: "<p>En cherchant à maximiser la production de poisson, de viande, de\
+    \ lait et d’œufs, l’humanité a transformé les animaux d’élevage en machines biologiques,\
+    \ confinés dans des espaces réduits, nourris au soja importé, souvent cultivé\
+    \ au prix de la déforestation. Cette logique de rendement engendre des morts par\
+    \ milliards, de la souffrance, des émissions massives de gaz à effet de serre,\
+    \ pollue les sols et les eaux, et met en péril le reste du vivant. Ainsi, cette\
+    \ exploitation n’est pas pas seulement un mode de production. C’est le reflet\
+    \ d’un système où la nature est instrumentalisée, réduite à une ressource à exploiter.\
+    \ L’exploitation animale est ainsi au cœur même des enjeux de l’Anthropocène.<br\
+    \ />\r\nComment agir ? Pour les animaux comme pour l’environnement, il est urgent\
+    \ de végétaliser notre alimentation. Les sites <a href=\"http://vegan-pratique.fr\"\
+    \ style=\"text-decoration:none\"><u>vegan-pratique.fr</u></a> et de l’<a href=\"\
+    https://www.vegetarisme.fr/\" style=\"text-decoration:none\"><u>Association Végétarienne\
+    \ de France</u></a> rassemblent des informations nutritionnelles, ainsi que des\
+    \ recettes. Pour se lancer, rien de mieux que de participer au <a href=\"https://veganuary.com/\"\
+    \ style=\"text-decoration:none\"><u>Veganuary</u></a><u>,</u> qui consiste à tester\
+    \ durant un mois l’alimentation vegan, tout en recevant chaque jour par mail des\
+    \ informations, conseils et recettes. Le site <a href=\"https://www.happycow.net/europe/france/\"\
+    \ style=\"text-decoration:none\"><u>Happycow</u></a>, quant à lui, permet de trouver\
+    \ des restaurants végétariens et vegan autour de soi, partout dans le monde. Enfin,\
+    \ l’Observatoire national des alimentations végétales (<a href=\"https://onav.fr/\"\
+    \ style=\"text-decoration:none\"><u>ONAV</u></a>) rassemble les informations scientifiques\
+    \ sur les impacts sanitaires et écologiques de la végétalisation de l’alimentation\
+    \ et accompagne et forme les <a href=\"http://professionnel.le\" style=\"text-decoration:none\"\
+    ><u>professionnel.le</u></a>.s de santé</p>"
   questions:
   - 1154
   - 1243
@@ -3595,4 +3614,4 @@
   publish_date: null
   spotlight: false
   created: '2025-05-14'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
