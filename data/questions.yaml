@@ -47042,8 +47042,9 @@
     \ toute leur vie dans des bassins lisses, sans aucune distraction, sans aucun\
     \ endroit à explorer où se cacher, entassés les uns sur les autres. Dans les élevages\
     \ de saumons, certains se laissent même mourir."
-  answer_audio_url: ''
-  answer_audio_url_text: ''
+  answer_audio_url: https://www.radiofrance.fr/franceinter/podcasts/l-edito-carre/la-douleur-des-poissons-2389147
+  answer_audio_url_text: France Inter, la terre au carré, la douleur des poissons,
+    2018
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.l214.com/animaux/poissons/la-vie-des-poissons/
@@ -47056,12 +47057,12 @@
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
-  visibility: HIDDEN
+  visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-06-10'
+  updated: '2025-06-11'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -50697,8 +50698,18 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Il existe différentes méthodes de calcul. Mais les produits
-    d'origine animale nécessitent en général bien plus d'eau que les végétaux.
+  answer_explanation: "Il existe différentes méthodes de calcul, mais les produits\
+    \ d'origine animale nécessitent en général bien plus d'eau que les végétaux. En\
+    \ particulier, le soja souffre de nombreux préjugés, alors que c’est une légumineuse\
+    \ particulièrement intéressante : riche en protéines, facile à produire, le soja\
+    \ est aussi extrêmement peu gourmand en eau (22 fois moins que la viande de bœuf\
+    \ !). De plus, il se décline sous de multiples formes - tofu, steaks, yaourts,\
+    \ laits, fromages – ce qui en fait une alternative écologique et saine à de nombreux\
+    \ produits d’origine animale.\r\nAjoutons que l’élevage, y compris la pisciculture,\
+    \ est la plus grande source de polluants de l’eau : principalement à travers les\
+    \ déchets animaux, les antibiotiques, les hormones, les produits chimiques des\
+    \ tanneries, les engrais et les pesticides utilisés pour les cultures fourragères...\
+    \ (FAO, 2006, part V)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -50717,7 +50728,7 @@
   validator: null
   validation_date: null
   created: '2024-05-31'
-  updated: '2025-06-03'
+  updated: '2025-06-10'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -51697,19 +51708,15 @@
   answer_choice_d: Ils vivent plus longtemps
   answer_correct: abc
   has_ordered_answers: true
-  answer_explanation: "Les poulets de chair (glossaire) ont fait l’objet d’une intense\
-    \ sélection génétique ces dernières décennies. Au cours du seul XXe siècle, leur\
-    \ masse corporelle a été multipliée par 5 et leur ossature a complètement changé.\
-    \ Cette sélection a aussi comme résultat de les faire grossir plus vite.Ils sont\
-    \ désormais tués à l’âge de 35 jours, 4 fois plus jeune qu’en 1950. Elle est aussi\
-    \  source de nombreuses souffrances : difficulté à se déplacer, douleurs articulaires,\
-    \ cœurs et poumons défaillants…La mortalité est de 4% avant leur âge d’abattage.\
-    \ Dans les refuges animalistes qui recueillent ceux qui ont été sauvés de l’abattage,\
-    \ ils font l’objet de nombreux soins et dépenses vétérinaires car ils sont particulièrement\
-    \ fragiles\r\nOn comptait 26 milliards de poulets en 2021, trois fois plus que\
-    \ tous leurs autres oiseaux réunis. Les os si nombreux de ces poulets si particuliers\
-    \ que notre civilisation laissera derrière elle intrigueront peut-être les chercheurs\
-    \ du futur. Au point qu'on peut voir en cette espèce un marqueur de l’anthropocène."
+  answer_explanation: 'Les poulets de chair ont fait l’objet d’une intense sélection
+    génétique ces dernières décennies. Au cours du seul XXe siècle, leur masse corporelle
+    a été multipliée par 5 et leur ossature a complètement changé. Cette sélection
+    implique aussi une croissance ultra-rapide : ils sont désormais tués à l’âge de
+    35 jours (soit à peine plus d’un mois), 4 fois plus jeune qu’en 1950. On comptait
+    26 milliards de poulets en 2021, trois fois plus que tous leurs autres oiseaux
+    réunis. Les os si nombreux de ces poulets si particuliers que notre civilisation
+    laissera derrière elle intrigueront peut-être les chercheurs du futur. Au point
+    qu''on peut voir en cette espèce un marqueur de l’anthropocène.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -51733,7 +51740,7 @@
   validator: 1
   validation_date: '2025-04-08'
   created: '2025-03-26'
-  updated: '2025-06-10'
+  updated: '2025-06-11'
 - id: 1268
   text: Les tétrapodes côtiers ont colonisé nombre de nos bords de mer. Mais que sont-ils
     ?
@@ -52134,7 +52141,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2c2d5985.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b7347773.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -52143,7 +52150,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-10'
+  updated: '2025-06-11'
 - id: 1278
   text: Vrai ou faux ? Pour le climat, il est équivalent de manger local ou de manger
     végétal.
@@ -52204,23 +52211,24 @@
   answer_explanation: "Près de 85 % des Françaises et Français s’opposent à l’élevage\
     \ intensif (IFOP 2024). Pourtant, plus de 80 % des animaux sont enfermés dans\
     \ des bâtiments d’où ils ne sortiront que pour être emmenés à l’abattoir. La souffrance\
-    \ y est généralisée, du fait des densités extrêmes, du manque de soins, de pratiques\
-    \ violentes. Par exemple, l’élimination de porcelets et lapereaux non désirés\
-    \ en claquant leur tête contre le sol, coupe à vif des queues et des testicules\
-    \ des porcelets, des becs des poules.\r\nLe chiffre de 98 % renvoie à la situation\
-    \ des lapins et des cochons. Ainsi, même la charcuterie et la viande de lapin\
-    \ vendue dans les boucheries proviennent d’élevages intensifs. De même, les poissons\
-    \ issus de la pisciculture sont tous élevés de façon intensive."
+    \ y est généralisée, du fait des densités extrêmes, du manque de soins et de pratiques\
+    \ violentes. Par exemple, l’élimination de porcelets et lapereaux chétifs sont\
+    \ éliminés par claquage contre le sol ou le mur, les queues et testicules des\
+    \ porcelets, ainsi que les becs des poules, sont coupés à vif.\r\nLe chiffre de\
+    \ 98 % renvoie à la situation des lapins et des cochons. Ainsi, même la charcuterie\
+    \ et la viande de lapin vendues dans les boucheries proviennent d’élevages intensifs.\
+    \ De même, les poissons issus de la pisciculture ont tous été élevés de façon\
+    \ intensive."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.l214.com/animaux/statistiques-pourcentage-elevage-intensif-viande-lait-oeufs//
-  answer_source_accessible_url_text: 'Site L214 - Élevage intensif : plus de 8 animaux
+  answer_source_accessible_url: https://www.ifop.com/publication/les-francais-et-le-bien-etre-des-animaux-3/
+  answer_source_accessible_url_text: Sondage IFOP, les Français et le bien-être des
+    animaux, 2024
+  answer_source_scientific_url: https://www.l214.com/animaux/statistiques-pourcentage-elevage-intensif-viande-lait-oeufs//
+  answer_source_scientific_url_text: 'Site L214, Élevage intensif : plus de 8 animaux
     sur 10 en France'
-  answer_source_scientific_url: https://www.ifop.com/publication/les-francais-et-le-bien-etre-des-animaux-3/
-  answer_source_scientific_url_text: 'Enquête IFOP : Les Français et le bien-être
-    des animaux, 2024'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6bd26e7a.png
   answer_image_url_text: ''
@@ -52231,7 +52239,7 @@
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-10'
+  updated: '2025-06-11'
 - id: 1280
   text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
     calories végétales ?
@@ -52268,7 +52276,8 @@
   created: '2025-06-02'
   updated: '2025-06-03'
 - id: 1281
-  text: Quels animaux sont tués en le plus grand nombre en France ?
+  text: Quels sont les animaux qui sont tués en plus grand nombre en France pour l’alimentation
+    ?
   hint: ''
   type: QCM
   category: 4
@@ -52286,14 +52295,13 @@
     \ peu. Leur capacité à ressentir des émotions - positives et négatives - ainsi\
     \ que la douleur, fait pourtant désormais consensus chez les scientifiques. Les\
     \ poissons sont plusieurs milliards à être tués chaque année, rien que du fait\
-    \ de la pêche française. Auxquels il faut rajouter 200 000 par la pisciculture.\r\
-    \nQuant aux animaux terrestres, les poulets représentent 75 % des animaux tués\
-    \ (près de 700 millions). Les poules pondeuses sont 40 millions et les cochons\
-    \ 22 millions. On voit souvent le conseil de commencer par diminuer sa consommation\
-    \ de viande, le premier réflexe est souvent d’arrêter la viande rouge. Si cette\
-    \ action a indéniablement un impact sur le climat, elle se traduit cependant souvent\
-    \ par une hausse de la consommation de poissons ou de poulets. Et donc d’animaux\
-    \ tués."
+    \ de la pêche française (+ 200 000 pour la pisciculture).\r\nQuant aux animaux\
+    \ terrestres, les poulets représentent 75 % des animaux tués (près de 700 millions).\
+    \ Les poules pondeuses sont 40 millions et les cochons 22 millions. Lorsque l’on\
+    \ essaie de diminuer sa consommation de viande,le premier réflexe est souvent\
+    \ d’arrêter la viande rouge. Si cette action a indéniablement un impact sur le\
+    \ climat, elle se traduit cependant souvent par une hausse de la consommation\
+    \ de poissons ou de poulets. Et donc d’animaux tués."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52312,9 +52320,9 @@
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-10'
+  updated: '2025-06-11'
 - id: 1282
-  text: Pour produire 1g de protéine animale, combien en faut-il de végétal ?
+  text: Pour produire 1g de protéine animale, combien en faut-il de végétale ?
   hint: ''
   type: QCM
   category: null
@@ -52327,13 +52335,14 @@
   answer_choice_d: '20'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Soit 90% de perte. Si l''on restreint le calcul aux végétaux
-    que l''humain pourrait consommer, le chiffre reste de 62%. L’élevage génère donc
-    un gaspillage massif des ressources alimentaires : il serait beaucoup plus soutenable
-    de consommer directement les céréales et légumineuses avec lesquelles nous nourrissons
-    les animaux. Si les pays riches et émergents divisaient par deux leur consommation
-    de viande, la ration calorique des habitant.e.s des pays en développement augmenterait
-    et au moins 2,2 millions d''enfants échapperaient à la malnutrition chronique.'
+  answer_explanation: 'Soit 90% de perte. Si l''on restreint le calcul aux seuls végétaux
+    que l''être humain pourrait consommer, le chiffre reste de 62%. L’élevage génère
+    donc un gaspillage massif des ressources alimentaires : il serait beaucoup plus
+    soutenable de consommer directement les céréales et légumineuses avec lesquelles
+    nous nourrissons les animaux. Si les pays riches et émergents divisaient par deux
+    leur consommation de viande, la ration calorique des habitant.e.s des pays en
+    développement augmenterait et au moins 2,2 millions d''enfants échapperaient à
+    la malnutrition chronique.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52468,3 +52477,52 @@
   validation_date: null
   created: '2025-06-03'
   updated: '2025-06-10'
+- id: 1286
+  text: Comparons les poulets actuels à ceux d'avant l'époque romaine. Lesquelles
+    de ces affirmations sont vraies ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Leur squelette est différent
+  answer_choice_b: Leur taille a doublé
+  answer_choice_c: Le poids total des poulets d'élevage excède celui de tous les autres
+    oiseaux sur terre
+  answer_choice_d: Ils vivent plus longtemps
+  answer_correct: abc
+  has_ordered_answers: true
+  answer_explanation: 'Les poulets de chair ont fait l’objet d’une intense sélection
+    génétique ces dernières décennies. Au cours du seul XXe siècle, leur masse corporelle
+    a été multipliée par 5 et leur ossature a complètement changé. Cette sélection
+    implique aussi une croissance ultra-rapide : ils sont désormais tués à l’âge de
+    35 jours (soit à peine plus d’un mois), 4 fois plus jeune qu’en 1950. Elle est
+    aussi source de nombreuses souffrances : difficulté à se déplacer, douleurs articulaires,
+    cœurs et poumons défaillants…La mortalité est de 4% avant leur âge d’abattage.
+    Dans les refuges animalistes qui recueillent ceux qui ont été sauvés de l’abattage,
+    ils font l’objet de nombreux soins et dépenses vétérinaires car ils sont particulièrement
+    fragiles On comptait 26 milliards de poulets en 2021, trois fois plus que tous
+    leurs autres oiseaux réunis. Les os si nombreux de ces poulets si particuliers
+    que notre civilisation laissera derrière elle intrigueront peut-être les chercheurs
+    du futur. Au point qu''on peut voir en cette espèce un marqueur de l’anthropocène.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.l214.com/animaux/poulets/la-selection-genetique-des-poulets-de-chair/
+  answer_source_accessible_url_text: Site L214 - La sélection génétique des poulets
+    de chair
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bb2b7e0f.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-11'
+  updated: '2025-06-11'
