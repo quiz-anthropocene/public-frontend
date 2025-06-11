@@ -3548,13 +3548,13 @@
   created: '2025-05-07'
   updated: '2025-06-03'
 - id: 120
-  name: L'élevage
+  name: Alimentation et condition animale
   slug: lelevage
   introduction: "<p> </p>\r\n\r\n<p>Les questions qui suivent sont issues de quiz\
-    \ créés par l’association L214 pour le public et pour ses bénévoles. <br />\r\n\
-    <a href=\"https://www.l214.com/\" style=\"text-decoration:none\"><u>L214</u></a>\
-    \ est une association de défense des animaux utilisés comme ressources alimentaires\
-    \ : viande, lait, œufs, poissons. Elle réalise des<a href=\"http://www.l214.com/enquetes/videos/\"\
+    \ créés par l’association L214 pour le public et pour ses bénévoles. <a href=\"\
+    https://www.l214.com/\" style=\"text-decoration:none\"><u>L214</u></a> est une\
+    \ association de défense des animaux utilisés comme ressources alimentaires :\
+    \ viande, lait, œufs, poissons. Elle réalise des<a href=\"http://www.l214.com/enquetes/videos/\"\
     \ style=\"text-decoration:none\"> <u>enquêtes</u></a> qui révèlent les conditions\
     \ d’élevage, de transport et d’abattage des animaux. Lanceuse d’alerte, l'association\
     \ souhaite changer le regard que notre société porte sur les animaux et interroger\
@@ -3563,19 +3563,20 @@
     \ et à favoriser la transition vers une alimentation végétale.</p>"
   conclusion: "<p>En cherchant à maximiser la production de poisson, de viande, de\
     \ lait et d’œufs, l’humanité a transformé les animaux d’élevage en machines biologiques,\
-    \ confinés dans des espaces réduits, nourris au soja importé, souvent cultivé\
-    \ au prix de la déforestation. Cette logique de rendement engendre des morts par\
-    \ milliards, de la souffrance, des émissions massives de gaz à effet de serre,\
-    \ pollue les sols et les eaux, et met en péril le reste du vivant. Ainsi, cette\
-    \ exploitation n’est pas pas seulement un mode de production. C’est le reflet\
-    \ d’un système où la nature est instrumentalisée, réduite à une ressource à exploiter.\
-    \ L’exploitation animale est ainsi au cœur même des enjeux de l’Anthropocène.<br\
-    \ />\r\nComment agir ? Pour les animaux comme pour l’environnement, il est urgent\
-    \ de végétaliser notre alimentation. Les sites <a href=\"http://vegan-pratique.fr\"\
-    \ style=\"text-decoration:none\"><u>vegan-pratique.fr</u></a> et de l’<a href=\"\
-    https://www.vegetarisme.fr/\" style=\"text-decoration:none\"><u>Association Végétarienne\
-    \ de France</u></a> rassemblent des informations nutritionnelles, ainsi que des\
-    \ recettes. Pour se lancer, rien de mieux que de participer au <a href=\"https://veganuary.com/\"\
+    \ en grande majorité confinés dans des espaces réduits, nourris au soja et céréales\
+    \ importés, souvent cultivés au prix de la déforestation. Cette logique de rendement\
+    \ engendre la mort  de milliards d’individus sensibles, de la souffrance, des\
+    \ émissions massives de gaz à effet de serre, pollue les sols et les eaux, et\
+    \ met en péril d’autres êtres vivants. Ainsi, cette exploitation n’est pas seulement\
+    \ un mode de production. C’est le reflet d’un système où les êtres sensibles sont\
+    \ instrumentalisés, réduits à une ressource à exploiter. L’exploitation animale\
+    \ est ainsi une manifestation majeure de l’Anthropocène.<br />\r\nComment agir\
+    \ ? Pour les animaux comme pour l’environnement, il est urgent de végétaliser\
+    \ notre alimentation. Les sites <a href=\"http://vegan-pratique.fr\" style=\"\
+    text-decoration:none\"><u>vegan-pratique.fr</u></a> et de l’<a href=\"https://www.vegetarisme.fr/\"\
+    \ style=\"text-decoration:none\"><u>Association Végétarienne de France</u></a>\
+    \ rassemblent des informations nutritionnelles, ainsi que des recettes. Pour se\
+    \ lancer, rien de mieux que de participer au <a href=\"https://veganuary.com/\"\
     \ style=\"text-decoration:none\"><u>Veganuary</u></a><u>,</u> qui consiste à tester\
     \ durant un mois l’alimentation vegan, tout en recevant chaque jour par mail des\
     \ informations, conseils et recettes. Le site <a href=\"https://www.happycow.net/europe/france/\"\
@@ -3589,7 +3590,6 @@
   questions:
   - 1154
   - 1243
-  - 1267
   - 1272
   - 1277
   - 1278
@@ -3598,11 +3598,12 @@
   - 1282
   - 1284
   - 1285
+  - 1286
   question_count: 11
   tags: []
-  difficulty_average: 1.6
+  difficulty_average: 1.5
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/44e08a85.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/754623ba.png
   has_audio: false
   authors:
   - 2
@@ -3614,4 +3615,4 @@
   publish_date: null
   spotlight: false
   created: '2025-05-14'
-  updated: '2025-06-10'
+  updated: '2025-06-11'
