@@ -146,4 +146,8 @@ Erreur `UnicodeDecodeError: charmap codec can't decode byte`
 #### Misc
 
 - Si vous avez nodejs > v17, il y aura un problème avec openssl, faites un downgrade à la version 16 LTS
-- Les tests échouent avec une erreur `Local Chrome version is XXX, but the installed chromedriver is for version YYY` ? Il faut mettre à jour `chromedriver` dans `package.json`, puis lancer un `yarn install`.
+- Les tests échouent avec une erreur `Local Chrome version is XXX, but the installed chromedriver is for version YYY` ? Il faut mettre à jour `chromedriver`.
+  - `git checkout -b <username>/update-packages-chromedriver-XXX`
+  - bump la version dans `package.json`
+  - lancer un `yarn install`
+  - git commit -am "chore: Update dependencies (chromedriver)"
