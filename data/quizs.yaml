@@ -3606,13 +3606,13 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/754623ba.png
   has_audio: false
   authors:
-  - 2
+  - 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
   created: '2025-05-14'
-  updated: '2025-06-11'
+  updated: '2025-06-15'
