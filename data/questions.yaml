@@ -52117,7 +52117,8 @@
   hint: ''
   type: QCM
   category: 4
-  tags: []
+  tags:
+  - 242
   difficulty: 1
   language: FRENCH
   answer_choice_a: 500 par heure
@@ -52144,20 +52145,21 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b7347773.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-11'
+  updated: '2025-06-15'
 - id: 1278
   text: Vrai ou faux ? Pour le climat, il est équivalent de manger local ou de manger
     végétal.
   hint: ''
   type: VF
-  category: null
-  tags: []
+  category: 4
+  tags:
+  - 242
   difficulty: 1
   language: FRENCH
   answer_choice_a: Vrai
@@ -52186,20 +52188,21 @@
     sur les premières lignes : boeuf, chocolat, mouton et agneau. Site Our world in
     data, https://ourworldindata.org/grapher/food-emissions-supply-chain'
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-10'
+  updated: '2025-06-15'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
   hint: ''
   type: QCM
   category: null
-  tags: []
+  tags:
+  - 242
   difficulty: 1
   language: FRENCH
   answer_choice_a: 50%
@@ -52233,13 +52236,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6bd26e7a.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-11'
+  updated: '2025-06-15'
 - id: 1280
   text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
     calories végétales ?
@@ -52281,7 +52284,8 @@
   hint: ''
   type: QCM
   category: 4
-  tags: []
+  tags:
+  - 242
   difficulty: 3
   language: FRENCH
   answer_choice_a: Les poissons
@@ -52314,20 +52318,21 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/972da55d.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-11'
+  updated: '2025-06-15'
 - id: 1282
   text: Pour produire 1g de protéine animale, combien en faut-il de végétale ?
   hint: ''
   type: QCM
   category: null
-  tags: []
-  difficulty: 1
+  tags:
+  - 242
+  difficulty: 2
   language: FRENCH
   answer_choice_a: '5'
   answer_choice_b: '10'
@@ -52355,13 +52360,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7ac31edf.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-10'
+  updated: '2025-06-15'
 - id: 1283
   text: هذا سؤال اختبار باللغة العربية
   hint: ''
@@ -52400,7 +52405,7 @@
   text: Dans les élevages, quelle est l'espérance de vie d'une poule pondeuse ?
   hint: ''
   type: QCM
-  category: null
+  category: 4
   tags: []
   difficulty: 1
   language: FRENCH
@@ -52429,20 +52434,21 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/73c0934a.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-10'
+  updated: '2025-06-15'
 - id: 1285
   text: Quelle proportion des terres agricoles mondiales sont utilisées par et pour
     l'élevage ?
   hint: ''
   type: QCM
   category: 4
-  tags: []
+  tags:
+  - 242
   difficulty: 1
   language: FRENCH
   answer_choice_a: 17%
@@ -52470,20 +52476,21 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5190ab52.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-03'
-  updated: '2025-06-10'
+  updated: '2025-06-15'
 - id: 1286
   text: Comparons les poulets actuels à ceux d'avant l'époque romaine. Lesquelles
     de ces affirmations sont vraies ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 4
+  tags:
+  - 97
   difficulty: 1
   language: FRENCH
   answer_choice_a: Leur squelette est différent
@@ -52519,10 +52526,10 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bb2b7e0f.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2025-06-11'
-  updated: '2025-06-11'
+  updated: '2025-06-15'
