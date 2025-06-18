@@ -3603,7 +3603,7 @@
   tags: []
   difficulty_average: 1.5
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/754623ba.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/810cdf44.jpg
   has_audio: false
   authors:
   - 96
@@ -3615,4 +3615,4 @@
   publish_date: null
   spotlight: false
   created: '2025-05-14'
-  updated: '2025-06-15'
+  updated: '2025-06-17'
