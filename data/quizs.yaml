@@ -3550,17 +3550,13 @@
 - id: 120
   name: Alimentation et condition animale
   slug: lelevage
-  introduction: "<p> </p>\r\n\r\n<p>Les questions qui suivent sont issues de quiz\
-    \ créés par l’association L214 pour le public et pour ses bénévoles. <a href=\"\
-    https://www.l214.com/\" style=\"text-decoration:none\"><u>L214</u></a> est une\
-    \ association de défense des animaux utilisés comme ressources alimentaires :\
-    \ viande, lait, œufs, poissons. Elle réalise des<a href=\"http://www.l214.com/enquetes/videos/\"\
-    \ style=\"text-decoration:none\"> <u>enquêtes</u></a> qui révèlent les conditions\
-    \ d’élevage, de transport et d’abattage des animaux. Lanceuse d’alerte, l'association\
-    \ souhaite changer le regard que notre société porte sur les animaux et interroger\
-    \ la légitimité de les faire souffrir ou de les tuer sans nécessité. Elle s’emploie\
-    \ par ses actions à faire reculer les pratiques les plus cruelles pour les animaux\
-    \ et à favoriser la transition vers une alimentation végétale.</p>"
+  introduction: "<p> </p>\r\n\r\n<p>Qu’est-ce qui se cache derrière nos assiettes\
+    \ en termes de condition animale ? Quel rapport à l’animal comme ressource avons-nous\
+    \ forgé à l’âge de l’humain ? Les questions qui suivent portent sur les conditions\
+    \ d’élevage, de transport et d’abattage de ces animaux, ainsi que sur leur nombre.<br\
+    \ />\r\nCertaines de sources proviennent du site <a href=\"https://www.l214.com/\"\
+    \ style=\"text-decoration:none\"><u>L214</u></a>, une association de défense des\
+    \ animaux utilisés comme ressources alimentaires.</p>"
   conclusion: "<p>En cherchant à maximiser la production de poisson, de viande, de\
     \ lait et d’œufs, l’humanité a transformé les animaux d’élevage en machines biologiques,\
     \ en grande majorité confinés dans des espaces réduits, nourris au soja et céréales\
@@ -3615,4 +3611,4 @@
   publish_date: null
   spotlight: false
   created: '2025-05-14'
-  updated: '2025-06-17'
+  updated: '2025-06-18'
