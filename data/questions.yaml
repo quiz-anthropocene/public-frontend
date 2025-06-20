@@ -47024,7 +47024,9 @@
   hint: ''
   type: QCM
   category: 4
-  tags: []
+  tags:
+  - 223
+  - 242
   difficulty: 1
   language: FRENCH
   answer_choice_a: '1'
@@ -47034,10 +47036,11 @@
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: "La pisciculture est parfois présentée comme une alternative\
-    \ pour éviter de vider les océans. Pour les poissons carnivores, comme les saumons,\
-    \ c’est pourtant l’inverse qui a lieu : ils sont nourris avec des huiles et farines\
-    \ de poissons… issus de la surpêche.\r\nLe chiffre proposé de 400 correspond à\
-    \ une valeur maximale.\r\nAu-delà du gaspillage en termes de calories, la pisciculture\
+    \ pour éviter de vider les océans. Pour les poissons carnivores, (saumon, truite,\
+    \ bar, daurade royale, turbot), qui constituent la majorité des espèces élevées\
+    \ en Europe, c’est pourtant l’inverse qui a lieu : ils sont nourris avec des huiles\
+    \ et farines de poissons… issus de la surpêche.\r\nLe chiffre proposé de 400 correspond\
+    \ à une valeur maximale.\r\nAu-delà du gaspillage en termes de calories, la pisciculture\
     \ génère d’importantes souffrances : les animaux sont condamnés à tourner en rond\
     \ toute leur vie dans des bassins lisses, sans aucune distraction, sans aucun\
     \ endroit à explorer où se cacher, entassés les uns sur les autres. Dans les élevages\
@@ -47056,13 +47059,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f431aad9.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-06-17'
+  updated: '2025-06-20'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -50697,7 +50700,7 @@
   answer_choice_c: 1. Tofu 2. Viande 3. Pois chiche
   answer_choice_d: ''
   answer_correct: a
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: "Il existe différentes méthodes de calcul, mais les produits\
     \ d'origine animale nécessitent en général bien plus d'eau que les végétaux. En\
     \ particulier, le soja souffre de nombreux préjugés, alors que c’est une légumineuse\
@@ -50722,13 +50725,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cafc8800.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2024-05-31'
-  updated: '2025-06-10'
+  updated: '2025-06-20'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -51910,13 +51913,14 @@
   hint: ''
   type: QCM
   category: 1
-  tags: []
+  tags:
+  - 242
   difficulty: 3
   language: FRENCH
-  answer_choice_a: 5,5%
-  answer_choice_b: 14,5%
-  answer_choice_c: 18,5%
-  answer_choice_d: 25,5%
+  answer_choice_a: 5%
+  answer_choice_b: 15%
+  answer_choice_c: 20%
+  answer_choice_d: 30%
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: "C’est légèrement plus que les émissions directes (consommation\
@@ -51929,7 +51933,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.viande.info/elevage-viande-gaz-effet-serre
-  answer_source_accessible_url_text: Site viande.info, L’élevage accentue l’effet
+  answer_source_accessible_url_text: Site viande.info, l’élevage accentue l’effet
     de serre et la déforestation
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -51937,13 +51941,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ce467a58.png
   answer_image_url_text: 'Source : site viande.info'
   answer_extra_info: ''
-  author: 2
+  author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-03-28'
-  updated: '2025-06-10'
+  updated: '2025-06-20'
 - id: 1273
   text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers'
   hint: ''
@@ -52143,15 +52147,16 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b7347773.png
-  answer_image_url_text: ''
+  answer_image_url_text: Nombre d'animaux abattus pour leur viande en France, 1961
+    à 2023. Site ourworldindata.org
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1278
   text: Vrai ou faux ? Pour le climat, il est équivalent de manger local ou de manger
     végétal.
@@ -52190,17 +52195,17 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
   hint: ''
   type: QCM
-  category: null
+  category: 4
   tags:
   - 242
   difficulty: 1
@@ -52238,11 +52243,11 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1280
   text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
     calories végétales ?
@@ -52293,7 +52298,7 @@
   answer_choice_c: Les poules pondeuses
   answer_choice_d: Les cochons
   answer_correct: a
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: "Les poissons sont les grands oubliés de la cause animale. On\
     \ ressent généralement moins d’empathie envers les animaux qui nous ressemblent\
     \ peu. Leur capacité à ressentir des émotions - positives et négatives - ainsi\
@@ -52320,16 +52325,16 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1282
   text: Pour produire 1g de protéine animale, combien en faut-il de végétale ?
   hint: ''
   type: QCM
-  category: null
+  category: 4
   tags:
   - 242
   difficulty: 2
@@ -52353,7 +52358,7 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.viande.info/elevage-viande-sous-alimentation
-  answer_source_accessible_url_text: Site viande.info, Élevage et sous-alimentation
+  answer_source_accessible_url_text: Site viande.info, élevage et sous-alimentation
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -52362,11 +52367,11 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1283
   text: هذا سؤال اختبار باللغة العربية
   hint: ''
@@ -52436,11 +52441,11 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1285
   text: Quelle proportion des terres agricoles mondiales sont utilisées par et pour
     l'élevage ?
@@ -52478,16 +52483,16 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
 - id: 1286
   text: Comparons les poulets actuels à ceux d'avant l'époque romaine. Lesquelles
     de ces affirmations sont vraies ?
   hint: ''
-  type: QCM
+  type: QCM-RM
   category: 4
   tags:
   - 97
@@ -52495,11 +52500,11 @@
   language: FRENCH
   answer_choice_a: Leur squelette est différent
   answer_choice_b: Leur taille a doublé
-  answer_choice_c: Le poids total des poulets d'élevage excède celui de tous les autres
+  answer_choice_c: Ils vivent plus longtemps
+  answer_choice_d: Le poids total des poulets d'élevage excède celui de tous les autres
     oiseaux sur terre
-  answer_choice_d: Ils vivent plus longtemps
-  answer_correct: abc
-  has_ordered_answers: true
+  answer_correct: abd
+  has_ordered_answers: false
   answer_explanation: 'Les poulets de chair ont fait l’objet d’une intense sélection
     génétique ces dernières décennies. Au cours du seul XXe siècle, leur masse corporelle
     a été multipliée par 5 et leur ossature a complètement changé. Cette sélection
@@ -52508,7 +52513,7 @@
     aussi source de nombreuses souffrances : difficulté à se déplacer, douleurs articulaires,
     cœurs et poumons défaillants…La mortalité est de 4% avant leur âge d’abattage.
     Dans les refuges animalistes qui recueillent ceux qui ont été sauvés de l’abattage,
-    ils font l’objet de nombreux soins et dépenses vétérinaires car ils sont particulièrement
+    ils doivent faire l’objet de nombreux soins vétérinaires car ils sont particulièrement
     fragiles On comptait 26 milliards de poulets en 2021, trois fois plus que tous
     leurs autres oiseaux réunis. Les os si nombreux de ces poulets si particuliers
     que notre civilisation laissera derrière elle intrigueront peut-être les chercheurs
@@ -52528,8 +52533,8 @@
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-06-20'
   created: '2025-06-11'
-  updated: '2025-06-15'
+  updated: '2025-06-20'
