@@ -3549,14 +3549,14 @@
   updated: '2025-06-03'
 - id: 120
   name: Alimentation et condition animale
-  slug: lelevage
-  introduction: "<p> </p>\r\n\r\n<p>Qu’est-ce qui se cache derrière nos assiettes\
-    \ en termes de condition animale ? Quel rapport à l’animal comme ressource avons-nous\
-    \ progressivement forgé à l’âge de l’humain ? Les questions qui suivent portent\
-    \ sur les conditions d’élevage, de transport et d’abattage de ces animaux, ainsi\
-    \ que sur leur nombre.<br />\r\nCertaines des sources données en référence proviennent\
-    \ du site <a href=\"https://www.l214.com/\" style=\"text-decoration:none\"><u>L214</u></a>,\
-    \ une association de défense des animaux utilisés comme ressources alimentaires.</p>"
+  slug: alimentation-et-condition-animale
+  introduction: "<p>Qu’est-ce qui se cache derrière nos assiettes en termes de condition\
+    \ animale ? Quel rapport à l’animal comme ressource avons-nous progressivement\
+    \ forgé à l’âge de l’humain ? Les questions qui suivent portent sur les conditions\
+    \ d’élevage, de transport et d’abattage de ces animaux, ainsi que sur leur nombre.<br\
+    \ />\r\nCertaines des sources données en référence proviennent du site <a href=\"\
+    https://www.l214.com/\" style=\"text-decoration:none\"><u>L214</u></a>, une association\
+    \ de défense des animaux utilisés comme ressources alimentaires.</p>"
   conclusion: "<p>En cherchant à maximiser la production de poisson, de viande, de\
     \ lait et d’œufs, l’humanité a transformé les animaux d’élevage en machines biologiques,\
     \ en grande majorité confinés dans des espaces réduits, nourris au soja et céréales\
@@ -3596,7 +3596,9 @@
   - 1285
   - 1286
   question_count: 11
-  tags: []
+  tags:
+  - 223
+  - 242
   difficulty_average: 1.5
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/810cdf44.jpg
