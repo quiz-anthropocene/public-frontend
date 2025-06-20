@@ -47045,11 +47045,11 @@
     \ toute leur vie dans des bassins lisses, sans aucune distraction, sans aucun\
     \ endroit à explorer où se cacher, entassés les uns sur les autres. Dans les élevages\
     \ de saumons, certains se laissent même mourir."
-  answer_audio_url: https://www.radiofrance.fr/franceinter/podcasts/l-edito-carre/la-douleur-des-poissons-2389147
-  answer_audio_url_text: France Inter, la terre au carré, la douleur des poissons,
-    2018
-  answer_video_url: ''
-  answer_video_url_text: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: https://videos-pub.ftv-publicite.fr/molotov/tv/1570/1570313/1570313.mp4?wmk=
+  answer_video_url_text: France Inter, éditorial de la terre au carré, la douleur
+    des poissons, 2018
   answer_source_accessible_url: https://www.l214.com/animaux/poissons/la-vie-des-poissons/
   answer_source_accessible_url_text: Site L214 - La vie des poissons
   answer_source_scientific_url: https://www.ciwf.org.uk/media/7444572/ciwf_rethink-salmon_21_lr_singles_web.pdf?utm_campaign=fish&utm_source=link&utm_medium=ciwf
@@ -52220,13 +52220,12 @@
     \ intensif (IFOP 2024). Pourtant, plus de 80 % des animaux sont enfermés dans\
     \ des bâtiments d’où ils ne sortiront que pour être emmenés à l’abattoir. La souffrance\
     \ y est généralisée, du fait des densités extrêmes, du manque de soins et de pratiques\
-    \ violentes. Par exemple, l’élimination de porcelets et lapereaux chétifs sont\
-    \ éliminés par claquage contre le sol ou le mur, les queues et testicules des\
-    \ porcelets, ainsi que les becs des poules, sont coupés à vif.\r\nLe chiffre de\
-    \ 98 % renvoie à la situation des lapins et des cochons. Ainsi, même la charcuterie\
-    \ et la viande de lapin vendues dans les boucheries proviennent d’élevages intensifs.\
-    \ De même, les poissons issus de la pisciculture ont tous été élevés de façon\
-    \ intensive."
+    \ violentes. Par exemple, porcelets et lapereaux chétifs sont tués par claquage\
+    \ contre le sol ou le mur ; les queues et testicules des porcelets, ainsi que\
+    \ les becs des poules, sont coupés à vif.\r\nLe chiffre de 98 % renvoie à la situation\
+    \ des lapins et des cochons. Ainsi, même la charcuterie et la viande de lapin\
+    \ vendues dans les boucheries proviennent d’élevages intensifs. De même, les poissons\
+    \ issus de la pisciculture ont tous été élevés de façon intensive."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52320,7 +52319,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/972da55d.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/640514cc.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 96
