@@ -3607,8 +3607,8 @@
   validation_status: VALIDATED
   validator: 2
   validation_date: '2025-06-20'
-  publish: false
-  publish_date: null
+  publish: true
+  publish_date: '2025-06-20'
   spotlight: true
   created: '2025-05-14'
   updated: '2025-06-20'
