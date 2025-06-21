@@ -52173,10 +52173,10 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Pour réduire son impact carbone, il est 6 fois plus efficace\
-    \ de manger bio et local que de manger végétal.\r\nEn effet, la part du transport\
-    \ dans l’impact carbone des aliments est extrêmement faible comparé aux émissions\
-    \ liées à l’activité d’élevage et de production en elle-même"
+  answer_explanation: Pour réduire son impact carbone, il est 6 fois plus efficace
+    de manger végétal que de manger bio et local. En effet, la part du transport dans
+    l’impact carbone des aliments est extrêmement faible comparée aux émissions liées
+    à l’activité d’élevage et de production en elle-même.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52199,7 +52199,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-20'
+  updated: '2025-06-21'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
