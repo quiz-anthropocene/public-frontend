@@ -9988,9 +9988,8 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 246
-  text: 'Les États-Unis représentent 4,5% de la population mondiale.
-
-    Mais quelle est leur part dans la consommation mondiale d’essence automobile ?'
+  text: "Les États-Unis représentent 4,5% de la population mondiale.\r\nMais quelle\
+    \ est leur part dans la consommation mondiale d’essence automobile ?"
   hint: ''
   type: QCM
   category: 2
@@ -10006,12 +10005,10 @@
   answer_choice_d: 50 %
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Les Américains consomment environ 540 milliards de litres d’essence
-    par an. Soit 3 fois la consommation... de la Chine (ou 50 fois celle de la France).
-
-
-    C''est considérable : 1/3 de l''essence automobile mondiale est engloutie par
-    à peine 5% de la population...'
+  answer_explanation: "Les Américains consomment environ 500 milliards de litres d’essence\
+    \ par an. Soit 3 fois la consommation... de la Chine (ou 50 fois celle de la France).\r\
+    \n\r\nC'est considérable : 1/3 de l'essence automobile mondiale est engloutie\
+    \ par à peine 5% de la population..."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -10031,7 +10028,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-23'
 - id: 247
   text: Quelle est la puissance moyenne fournie par un cycliste lors d’une épreuve
     du Tour de France ?
@@ -13151,17 +13148,16 @@
   - 80
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 5 000 puits  (1 tous les 45 km)
-  answer_choice_b: 20 000 puits  (1 tous les 20 km)
-  answer_choice_c: 100 000 puits  (1 tous les 10 km)
-  answer_choice_d: 1 000 000 puits  (1 tous les 3 km)
+  answer_choice_a: 5 000 puits  (1 tous les 100 km en moyenne en ligne droite)
+  answer_choice_b: 20 000 puits  (1 tous les 40 km)
+  answer_choice_c: 100 000 puits  (1 tous les 20 km)
+  answer_choice_d: 1 000 000 puits  (1 tous les 5 km)
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Il y a aux Etats-Unis presque 1 million de puits de pétrole
-    et de gaz en activité (chiffres 2018).
-
-    80% d’entre eux produisent moins de 15 barils par jour (~2400 litres) et ne contribuent
-    qu''à moins de 10% de la production totale du pays.'
+  answer_explanation: "Il y a aux Etats-Unis presque 1 million de puits de pétrole\
+    \ et de gaz en activité (chiffres 2018).\r\n80% d’entre eux produisent moins de\
+    \ 15 barils par jour (~2400 litres) et ne contribuent qu'à moins de 10% de la\
+    \ production totale du pays."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -13181,7 +13177,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-23'
 - id: 326
   text: En moyenne, combien y a-t-il de nouvelles voitures immatriculées en France
     chaque jour ? (toutes catégories confondues)
@@ -25249,8 +25245,8 @@
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 626
-  text: 'Vrai ou faux : les transports routiers des États-Unis émettent plus de CO2
-    que la totalité des secteurs et activités du continent africain ?'
+  text: 'Vrai ou faux : En 2018, les transports routiers des États-Unis émettent plus
+    de CO2 que la totalité des secteurs et activités du continent africain ?'
   hint: ''
   type: VF
   category: 1
@@ -25291,7 +25287,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2024-03-19'
+  updated: '2025-06-23'
 - id: 627
   text: La mer du nord est le seul gisement important de pétrole situé en Europe occidentale.
     En quelle année a-t-il passé ou doit-il passer son pic de production ?
