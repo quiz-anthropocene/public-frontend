@@ -382,7 +382,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2025-05-16'
+  updated: '2025-06-24'
 - id: 10
   text: « On a 40 ans de pétrole devant nous ! »
   hint: ''
@@ -4329,7 +4329,7 @@
   answer_source_scientific_url_text: New Scientist, How green is your pet? New Scientist,
     2009
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000102-5540.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7483ce4a.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -4338,7 +4338,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2025-05-16'
+  updated: '2025-06-24'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -6212,7 +6212,7 @@
   answer_explanation: '10 kg d''équivalent CO2 pour 1 kg de beurre. Ce chiffre tient
     compte de tout le processus d’élaboration : production, transformation, conditionnement,
     transport. Il faut en effet une vingtaine de litres de lait pour faire 1 kg de
-    beurre. On mange certes pas les mêmes quantités de beurre que du reste !'
+    beurre.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -6233,7 +6233,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2025-05-16'
+  updated: '2025-06-24'
 - id: 151
   text: Quel est le potentiel de réchauffement global sur 100 ans du gaz hexafluorure
     de soufre (formule SF6) utilisé dans l’industrie comparé à celui du CO2 ?
@@ -13536,10 +13536,8 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 335
-  text: 'Parmi ces boissons, laquelle a émis le plus de gaz à effet de serre lorsqu''elle
-    vous est servie au bistrot ?
-
-    (ingrédient uniquement, hors emballage)'
+  text: "Parmi ces boissons, laquelle a émis le plus de gaz à effet de serre lorsqu'elle\
+    \ vous est servie au bistrot ?\r\n(ingrédient uniquement, hors emballage)"
   hint: ''
   type: QCM
   category: 2
@@ -13553,24 +13551,20 @@
   answer_choice_d: Vin (15 cl)
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'C''est la bière qui arrive en tête, avec 666g d''équivalent
-    CO2 pour un demi de 25cl. La cause de ces émissions est la fermentation du houblon
-    par des levures qui transforme le sucre de la céréale en alcool et en CO2.
-
-
-    Le chocolat chaud suit de près, car le lait de vache est fortement émetteur de
-    gaz à effet de serre (les vaches rotent du méthane lors de leur digestion).
-
-
-    Le Coca-Cola et le verre de vin sont nettement en dessous.'
+  answer_explanation: "C'est la bière qui arrive en tête, avec 666g d'équivalent CO2\
+    \ pour un demi de 25cl. La cause de ces émissions est la fermentation du houblon\
+    \ par des levures qui transforme le sucre de la céréale en alcool et en CO2.\r\
+    \n\r\nLe chocolat chaud suit de près, car le lait de vache est fortement émetteur\
+    \ de gaz à effet de serre (les vaches rotent du méthane lors de leur digestion).\r\
+    \n\r\nLe Coca-Cola et le verre de vin sont nettement en dessous."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/fr/actualite/actualite/detail/id/23
-  answer_source_scientific_url_text: ADEME - Site Bilans GES
+  answer_source_scientific_url: https://impactco2.fr/outils/boisson
+  answer_source_scientific_url_text: Site impactco2.fr de l'ADEME - boissons
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000335-0b49.jpg
   answer_image_url_text: ''
@@ -13581,7 +13575,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2025-05-16'
+  updated: '2025-06-24'
 - id: 336
   text: Combien y a-t-il de raffineries en France métropolitaine ?
   hint: ''
@@ -16245,8 +16239,7 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 402
-  text: Combien de litres d'eau sont requis sur l’ensemble de la durée de vie d'un
-    jean (sans compter les lavages) ?
+  text: Combien de litres d'eau sont requis pour produire un jean ?
   hint: ''
   type: QCM
   category: 2
@@ -16285,7 +16278,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2025-05-16'
+  updated: '2025-06-24'
 - id: 403
   text: Si rien n'est fait pour atténuer le changement climatique, combien d'humains
     risquent de vivre d'ici 50 ans dans des zones plus chaudes que le Sahara actuellement
@@ -36988,7 +36981,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2025-03-28'
+  updated: '2025-06-24'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -38258,7 +38251,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-03-28'
+  updated: '2025-06-24'
 - id: 927
   text: Imaginons que nous réunissions toutes les vaches du monde dans un même pays.
     En quelle position ce pays arriverait-il en termes d’émissions de gaz à effet
@@ -52533,3 +52526,117 @@
   validation_date: '2025-06-20'
   created: '2025-06-11'
   updated: '2025-06-20'
+- id: 1287
+  text: Quelle est la consommation annuelle de sable (tous sables confondus), par
+    jour et par personne ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 17 g
+  answer_choice_b: 860 g
+  answer_choice_c: 2,4 kg
+  answer_choice_d: 17 kg
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le sable est le matériau le plus utilisé dans le monde. C'est
+    le matériau de base pour la construction.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-24'
+  updated: '2025-06-24'
+- id: 1288
+  text: Chaque personne en France jette par jour 1kg dans les poubelles. Mais Mais
+    quelle est la quantité totale de matières dont nous provoquons la consommation
+    chaque jour ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 3 kg
+  answer_choice_b: 14 kg
+  answer_choice_c: 63 kg
+  answer_choice_d: 309 kg
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: ''
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.connaissancedesenergies.org/sites/connaissancedesenergies.org/files/pdf-actualites/chiffres-cles-dechets-2015.pdf
+  answer_source_accessible_url_text: ADEME, les chiffres clefs des déchets 2015
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-24'
+  updated: '2025-06-24'
+- id: 1289
+  text: Il trasporto su strada negli Stati Uniti emette più CO2 di tutti i settori
+    e le attività del continente africano. Vero o falso?
+  hint: ''
+  type: VF
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Nel 2021, le emissioni di CO2 dell'intero continente africano\
+    \ sono state di 1,44 miliardi di tonnellate. Nello stesso periodo, il trasporto\
+    \ su strada negli Stati Uniti ha emesso 1,46 miliardi di tonnellate di CO2 (fonte:\
+    \ EPA, UNFCC).\r\nÈ impressionante pensare che i trasporti per 330 milioni di\
+    \ statunitensi emettano, da soli, più CO2 di TUTTE le attività di 1,2 miliardi\
+    \ di africani."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ourworldindata.org/grapher/ghg-emissions-by-world-region
+  answer_source_accessible_url_text: Emissioni annuali di gas serra per regione del
+    mondo, dal 1850 al 2022
+  answer_source_scientific_url: https://di.unfccc.int/detailed_data_by_party
+  answer_source_scientific_url_text: Dati dell'inventario dei gas a effetto serra
+    - Dati dettagliati per Paese - UNFCC
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d43d4eae.png
+  answer_image_url_text: ''
+  answer_extra_info: n°626 fr
+  author: 91
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-06-24'
+  updated: '2025-06-24'

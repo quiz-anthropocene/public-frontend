@@ -316,6 +316,12 @@
   question_count: 0
   quiz_count: 0
   created: '2024-11-25'
+- id: 91
+  first_name: Isaora
+  last_name: Bacquet
+  question_count: 0
+  quiz_count: 0
+  created: '2025-04-08'
 - id: 96
   first_name: Maud
   last_name: Grégoire
