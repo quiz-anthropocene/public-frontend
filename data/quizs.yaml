@@ -3614,3 +3614,31 @@
   spotlight: true
   created: '2025-05-14'
   updated: '2025-06-20'
+- id: 121
+  name: Empreinte matière
+  slug: empreinte-matiere
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 9
+  - 894
+  - 926
+  - 1287
+  - 1288
+  question_count: 5
+  tags: []
+  difficulty_average: 2.2
+  language: FRENCH
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-06-24'
+  updated: '2025-06-24'
