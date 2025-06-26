@@ -3642,3 +3642,33 @@
   spotlight: false
   created: '2025-06-24'
   updated: '2025-06-24'
+- id: 122
+  name: Burger Quiz Alimentation Fête de la Villeneuve
+  slug: burger-quiz-alimentation-fete-de-la-villeneuve
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 1
+  - 922
+  - 924
+  - 1154
+  - 1243
+  - 1278
+  - 1285
+  question_count: 7
+  tags: []
+  difficulty_average: 1.6
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/8db25a46.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-06-25'
+  updated: '2025-06-25'
