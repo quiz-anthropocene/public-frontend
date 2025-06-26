@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-05-16'
+  updated: '2025-06-25'
 - id: 2
   text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
     français doit être alimentée par des humains, chacun pédalant 8h par jour pour
@@ -1631,11 +1631,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-03-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 39
   text: En France, quelle part de la consommation annuelle de gaz représente le biométhane
     injecté dans le réseau de distribution ?
@@ -1673,11 +1673,11 @@
   answer_extra_info: https://www.energylab.sia-partners.com/observatoire-biomethane-2019
   author: 16
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-03-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 40
   text: En France, quelle part de la consommation annuelle d'électricité est issue
     des bioénergies  ?
@@ -1716,11 +1716,11 @@
     \nhttps://www.actu-environnement.com/ae/news/biogaz-raccordement-electricite-recul-30222.php4"
   author: 16
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-03-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-03-10'
-  updated: '2023-07-10'
+  updated: '2025-06-25'
 - id: 41
   text: Si la pêche se poursuit au rythme actuel, à quelle date les scientifiques
     estiment-ils qu'il n'y aura plus de poisson à pêcher dans les mers ?
@@ -3033,9 +3033,8 @@
   answer_correct: d
   has_ordered_answers: false
   answer_explanation: Transports 31%, Bâtiment 19%, Agriculture 19%, Industrie 18%.
-    Si on parle en empreinte carbone (comprenant les émissions hors de France), les
-    transports n'arrivent qu'en 3e position derrière les biens de consommation et
-    l'agriculture.
+    Si on parle en empreinte carbone (comprenant les émissions importées), les transports
+    n'arrivent qu'en 3e position derrière les biens de consommation et l'agriculture.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -3056,7 +3055,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 73
   text: La production d'énergie nucléaire contribue-t-elle à l'effet de serre ?
   hint: ''
@@ -3075,8 +3074,7 @@
   answer_explanation: Question polémique. Mais justement pas, du moins pour la production
     d'électricité, car il n'y a pas de combustion, donc pas de CO2 émis. Les seules
     émissions proviennent de la construction, de la maintenance et du démantèlement.
-    La méconnaissance des Français sur ce point est flagrante, comme montré dans l'article
-    donné en référence.
+    C'est un point mal connu, comme montré dans l'article donné en référence.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -3096,7 +3094,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 74
   text: Si Internet était un pays, en quelle position arriverait-il en termes de consommation
     d'électricité ? (chiffres 2019)
@@ -3861,11 +3859,10 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 92
-  text: 'L''objectif de la COP21 à l''horizon 2050 est que chaque humain sur terre
-    n''émette pas plus que 2,1 tonnes d''équivalent CO2 par an.
-
-    Imaginons que je n''émette rien d''autre de l''année. Combien de kilomètres pourrai-je
-    parcourir avec une Clio diesel pour rester dans ce budget ?'
+  text: "L'objectif de la COP21 à l'horizon 2050 est que chaque humain sur terre n'émette\
+    \ pas plus que 2,1 tonnes d'équivalent CO2 par an.\r\nImaginons que je n'émette\
+    \ rien d'autre de l'année. Combien de kilomètres pourrai-je parcourir avec une\
+    \ Clio diesel pour rester dans ce budget ?"
   hint: ''
   type: QCM
   category: 2
@@ -3880,14 +3877,9 @@
   answer_choice_d: 1 300 000 km
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Ou encore chauffer un appartement de 100m² relativement peu
-    énergivore.
-
-    Ou encore 1 aller-retour Paris-New York en avion.
-
-    Ou encore fabriquer 1,5 ordinateurs.
-
-    Mais c''est tout !'
+  answer_explanation: "Ou encore chauffer un appartement de 100m² relativement peu\
+    \ énergivore.\r\nOu encore 1 aller-retour Paris-New York en avion.\r\nOu encore\
+    \ fabriquer 1,5 ordinateurs.\r\nMais c'est tout !"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -3903,11 +3895,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2023-02-07'
+  updated: '2025-06-25'
 - id: 93
   text: DOUBLON 392 - Quelle quantité de matières est extraite du sol pour la fabrication
     d'un smartphone ?
@@ -4203,11 +4195,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 100
   text: La COP 27 a lieu en 2022 à Charm El cheikh en Egypte. Quand et où a eu lieu
     la première COP ?
@@ -4286,11 +4278,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 102
   text: Vrai ou faux ? Conduire un 4x4 émet plus de gaz à effet de serre qu'avoir
     un chien de compagnie
@@ -4888,11 +4880,11 @@
   answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/014.jpg'
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-01-31'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-01-24'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 117
   text: En 2017, quel pays est le premier fournisseur de la France en pétrole brut
     ?
@@ -4926,11 +4918,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-02-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-01-25'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 118
   text: DOUBLON Quelle était la concentration en CO2 dans l'atmosphère à l'ère pré-industrielle
     (dans les années 1850)  (en ppm, parties par millions, soit en dix-millièmes de
@@ -5045,11 +5037,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-02-06'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-01-30'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 121
   text: Quelle est la taille des données et modèles climatiques qui ont été utilisés
     par le GIEC dans leur dernier rapport d’évaluation en 2014 (en GigaOctets) ?
@@ -5158,11 +5150,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-02-11'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-02-04'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 124
   text: En France, quel est le secteur qui consomme le plus d’énergie ?
   hint: ''
@@ -5194,11 +5186,11 @@
   answer_extra_info: doublon avec la 11
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-02-13'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-02-06'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 125
   text: Quelle est la consommation moyenne de carburant d'un poids lourd en France
     ?
@@ -5310,19 +5302,17 @@
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000127-aa91.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'autre image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/025b.jpg
-
-
-    Source Fr : https://www.rte-france.com/fr/eco2mix/donnees-en-energie Source autres
-    pays : https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy supply&indicator=Total
-    primary energy supply (TPES) by source%20by%20source)'
+  answer_extra_info: "autre image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/025b.jpg\r\
+    \n\r\nSource Fr : https://www.rte-france.com/fr/eco2mix/donnees-en-energie Source\
+    \ autres pays : https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy\
+    \ supply&indicator=Total primary energy supply (TPES) by source%20by%20source)"
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-02-15'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-02-08'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 128
   text: Quel est le premier fournisseur de gaz de la France ?
   hint: ''
@@ -5355,11 +5345,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2019-02-18'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2019-02-11'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 129
   text: Sur la trajectoire actuelle d'émission, en quelle année les modèles du GIEC
     prévoient-ils que nous atteindrons +1,5°C de réchauffement par rapport au niveau
@@ -5677,11 +5667,11 @@
     \n- https://www.deplacementspros.com/photo/art/default/6075753-9067519.jpg"
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-06-25'
 - id: 137
   text: Les gaz à effet de serre qui s'accumulent sous l'action des activités humaines
     réchauffent la planète. Quelle part de l'énergie bloquée par ces gaz à effet de
@@ -5872,11 +5862,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-06-25'
 - id: 142
   text: En France, quelle est la part des forêts et des milieux semi-naturels (arbustes,
     herbes) dans le territoire métropolitain ?
@@ -6169,10 +6159,9 @@
   answer_choice_d: Russie
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: 'Les États-Unis totalisent plus de 20% de la production mondiale
-    de gaz, notamment grâce au boom du gaz de schiste depuis le début des années 2010.
-
-    La Russie est juste derrière en 2ème producteur mondial.'
+  answer_explanation: "Les États-Unis totalisent plus de 20% de la production mondiale\
+    \ de gaz, notamment grâce au boom du gaz de schiste depuis le début des années\
+    \ 2010.\r\nLa Russie est juste derrière en 2ème producteur mondial."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -6188,11 +6177,11 @@
   answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/047.jpg'
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 150
   text: Prenons la consommation de 1 kg des quatre aliments suivants. Lequel génère
     le plus de gaz à effet de serre ? (en équivalent CO2)
@@ -6235,8 +6224,9 @@
   created: '2020-04-26'
   updated: '2025-06-24'
 - id: 151
-  text: Quel est le potentiel de réchauffement global sur 100 ans du gaz hexafluorure
-    de soufre (formule SF6) utilisé dans l’industrie comparé à celui du CO2 ?
+  text: 'L''hexafluorure de soufre (formule : SF6) est un gaz utilisé dans l’industrie
+    comparé à celui du CO2 ? Quel est son pouvoir de réchauffement sur 100 ans comparé
+    au CO2 ?'
   hint: ''
   type: QCM
   category: 1
@@ -6244,10 +6234,10 @@
   - 12
   difficulty: 3
   language: FRENCH
-  answer_choice_a: '23'
-  answer_choice_b: '230'
-  answer_choice_c: 2 300
-  answer_choice_d: 23 000
+  answer_choice_a: 23 fois plus
+  answer_choice_b: 230 fois plus
+  answer_choice_c: 2 300 fois plus
+  answer_choice_d: 23 000 fois plus
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: 'Cela signifie que sur 100 ans, un kilo de SF6 a un effet équivalent
@@ -6275,7 +6265,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-06-25'
 - id: 152
   text: En France, quelle a été l’année la plus chaude depuis le début du 20ème siècle
     jusqu'en 2019 ?
@@ -6310,11 +6300,11 @@
   answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/050.jpg'
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-06-25'
 - id: 153
   text: Quelle est la part du pétrole et gaz (en tonnage) dans le commerce maritime
     international ?
@@ -6350,11 +6340,11 @@
   answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/051.jpg'
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 154
   text: En 2017, quel pays a construit et mis à l’eau le plus de navires pétroliers
     ? (en tonnage)
@@ -6607,11 +6597,9 @@
   created: '2020-04-26'
   updated: '2022-04-16'
 - id: 160
-  text: 'La France est le 10ème producteur d’électricité mondial, avec environ 550
-    TWh par an.
-
-    En comparaison, de combien la Chine a-t-elle augmenté sa production d''électricité
-    entre 2005 et 2015 ?'
+  text: "La France est le 10ème producteur d’électricité mondial, avec environ 550\
+    \ TWh par an.\r\nEn comparaison, de combien la Chine a-t-elle augmenté sa production\
+    \ d'électricité entre 2005 et 2015 ?"
   hint: ''
   type: QCM
   category: 5
@@ -6627,13 +6615,11 @@
   answer_choice_d: 6 fois la production française
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'En 10 ans, entre 2005 et 2015, la Chine est passée 1er producteur
-    mondial d''électricité (devant les États-Unis), en augmentant sa production de
-    plus de 3300 TWh, soit 6 fois la production totale d''électricité française.
-
-
-    Les deux tiers de cette augmentation ont été faite à partir de charbon, et 20%
-    à partir d''hydroélectricité.'
+  answer_explanation: "En 10 ans, entre 2005 et 2015, la Chine est passée 1er producteur\
+    \ mondial d'électricité (devant les États-Unis), en augmentant sa production de\
+    \ plus de 3300 TWh, soit 6 fois la production totale d'électricité française.\r\
+    \n\r\nLes deux tiers de cette augmentation ont été faite à partir de charbon,\
+    \ et 20% à partir d'hydroélectricité."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -6648,11 +6634,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 161
   text: Quelle est la part de la Chine dans la production mondiale de charbon ?
   hint: ''
@@ -6684,17 +6670,16 @@
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000161-6950.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/059.jpg
-
-    image alternative: https://ourworldindata.org/grapher/exports/coal-production-by-region.png
-    (affiche la production de charbon par région, pas par pays)'
+  answer_extra_info: "image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/059.jpg\r\
+    \nimage alternative: https://ourworldindata.org/grapher/exports/coal-production-by-region.png\
+    \ (affiche la production de charbon par région, pas par pays)"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 162
   text: En 2016, si on devait comparer les pertes par transformations du système énergétique
     chinois à la consommation totale d'un autre pays, lequel serait-ce ?
@@ -6729,11 +6714,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-25'
 - id: 163
   text: Combien de CO2 a été économisé grâce aux télépéages à 30 km/h sur les autoroutes
     ?
@@ -7152,11 +7137,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 174
   text: En France, quelle est la contribution des industries de l’énergie au PIB ?
   hint: ''
@@ -7347,11 +7332,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-06-25'
 - id: 179
   text: Combien y a-t-il de véhicules à moteur en circulation dans l’Union Européenne
     ?
@@ -8852,7 +8837,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-05-03'
+  updated: '2025-06-25'
 - id: 218
   text: Quelles sont les émissions pour la production en Europe d’un litre de boisson
     de la marque Coca-Cola (emballage, transport et ingrédients inclus) ?
@@ -38074,7 +38059,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-04-14'
+  updated: '2025-06-25'
 - id: 923
   text: Parmi les poissons que l'on pêche, quelle proportion est exploitée à la limite
     ou au-delà de leur capacité de régénération ?
@@ -38161,7 +38146,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-03-28'
+  updated: '2025-06-25'
 - id: 925
   text: La moitié des céréales produites en France est exportée. Dans la moitié qui
     reste pour le marché français, quelle proportion est destinée à l’alimentation
@@ -47054,7 +47039,7 @@
   validator: 2
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-06-20'
+  updated: '2025-06-25'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -50720,7 +50705,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2024-05-31'
-  updated: '2025-06-20'
+  updated: '2025-06-25'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -52188,7 +52173,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-21'
+  updated: '2025-06-25'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
@@ -52475,7 +52460,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-20'
+  updated: '2025-06-25'
 - id: 1286
   text: Comparons les poulets actuels à ceux d'avant l'époque romaine. Lesquelles
     de ces affirmations sont vraies ?
