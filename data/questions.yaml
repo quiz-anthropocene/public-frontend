@@ -5866,7 +5866,7 @@
   validator: null
   validation_date: null
   created: '2020-04-26'
-  updated: '2025-06-25'
+  updated: '2025-06-27'
 - id: 142
   text: En France, quelle est la part des forêts et des milieux semi-naturels (arbustes,
     herbes) dans le territoire métropolitain ?
@@ -13394,11 +13394,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1198199981590614017
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-27'
 - id: 332
   text: Dans l’Union Européenne, quel pays possède le plus de véhicules par habitant
     ?
@@ -13904,11 +13904,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1204864932136833031
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2023-07-10'
+  updated: '2025-06-27'
 - id: 345
   text: Si tous les terriens émettaient autant de CO2 par habitant que les Français,
     de combien varieraient les émissions mondiales ? (Elles s'élevaient à 36,5 milliards
@@ -13945,11 +13945,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1205231807945302016
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-27'
 - id: 346
   text: Quelles sont les émissions moyennes de CO2 par passager d’un TER roulant au
     gazole ?
@@ -14798,11 +14798,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1182537772659294209
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2023-07-10'
+  updated: '2025-06-27'
 - id: 367
   text: Sur les 54 pays du continent africain, combien émettent sur leur territoire
     plus de CO2 que la France ?
@@ -16565,11 +16565,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-06-04'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-28'
-  updated: '2024-03-26'
+  updated: '2025-06-27'
 - id: 410
   text: En France, quelle a été la part du nucléaire dans la production d'électricité
     en 2019 ?
@@ -16657,11 +16657,11 @@
     \n\r\nhttps://www.connaissancedesenergies.org/une-carte-pour-suivre-lintensite-carbone-de-la-consommation-electrique-170613"
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-06-04'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-28'
-  updated: '2024-03-26'
+  updated: '2025-06-27'
 - id: 412
   text: Au plus fort de la crise du Covid-19, les émissions quotidiennes mondiales
     de CO2 ont été similaires à celles observées en...
@@ -16950,11 +16950,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2024-03-26'
+  updated: '2025-06-27'
 - id: 419
   text: Que veut dire GIEC ?
   hint: ''
@@ -17296,11 +17296,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2025-06-27'
 - id: 428
   text: Dans leur dernier rapport de 2021, comment les scientifiques du GIEC estiment-ils
     la probabilité que le changement climatique actuel soit dû aux activités humaines
@@ -17690,11 +17690,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2025-06-27'
 - id: 438
   text: La Chine est le premier émetteur de GES au monde. Pourquoi ?  Lesquelles de
     ces explications sont correctes ?
@@ -19493,11 +19493,11 @@
   answer_extra_info: 'classement puissance installé: https://www.hydropower.org/country-profiles/region-europe'
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2025-06-27'
 - id: 484
   text: Comment est récupérée l'énergie dans une centrale géothermique ?
   hint: ''
@@ -19809,11 +19809,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2025-06-27'
 - id: 492
   text: Quelle part représentent les secteurs du transport et du bâtiment dans les
     émissions françaises de gaz à effet de serre ?
@@ -21835,17 +21835,16 @@
   answer_choice_d: '2008'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Le maximum d''émissions de CO2 émis en France a été en 1979,
-    avec 530 millions de tonnes de CO2. 1979, c''est aussi l''année du 2ème choc pétrolier,
-    et l''année de la mise en service de la centrale nucléaire de Fessenheim, tête
-    de série du parc nucléaire actuel. Ces deux événements ont largement contribué
-    aux économies d''énergies et à la baisse de la consommation d''énergies fossiles
-    (pétrole et charbon), conduisant de facto à une baisse des émissions de CO2.
-
-    Après un plateau, les émissions territoriales de CO2 se sont remises à baisser
-    vers les années 2000 suite à la désindustrialisation et aux délocalisations progressives
-    vers des pays étrangers, notamment la Chine. Les émissions territoriales françaises
-    sont maintenant d''environ 340 millions de tonnes par an.'
+  answer_explanation: "Le maximum d'émissions de CO2 émis en France a été en 1979,\
+    \ avec 530 millions de tonnes de CO2. 1979, c'est aussi l'année du 2ème choc pétrolier,\
+    \ et l'année de la mise en service de la centrale nucléaire de Fessenheim, tête\
+    \ de série du parc nucléaire actuel. Ces deux événements ont largement contribué\
+    \ aux économies d'énergies et à la baisse de la consommation d'énergies fossiles\
+    \ (pétrole et charbon), conduisant de facto à une baisse des émissions de CO2.\r\
+    \nAprès un plateau, les émissions territoriales de CO2 se sont remises à baisser\
+    \ vers les années 2000 suite à la désindustrialisation et aux délocalisations\
+    \ progressives vers des pays étrangers, notamment la Chine. Les émissions territoriales\
+    \ françaises sont maintenant d'environ 340 millions de tonnes par an."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -21860,11 +21859,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 40
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-06-27'
 - id: 543
   text: Entre 1990 et 1995 (effondrement de l'Union Soviétique), de combien ont baissé
     les émissions de CO2 de la Russie ?
@@ -22796,11 +22795,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 40
-  validation_date: '2020-07-11'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-06-27'
 - id: 567
   text: Vrai ou faux ? Le lavage de vos vêtements rejette plus de microplastiques
     que votre voiture

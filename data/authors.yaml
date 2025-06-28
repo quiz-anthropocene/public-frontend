@@ -1,7 +1,7 @@
 - id: 1
   first_name: Raphael
   last_name: Odini
-  question_count: 32
+  question_count: 30
   quiz_count: 2
   created: '2022-04-04'
 - id: 2
@@ -19,7 +19,7 @@
 - id: 5
   first_name: laydgeur
   last_name: ''
-  question_count: 150
+  question_count: 142
   quiz_count: 3
   created: '2022-04-16'
 - id: 6
@@ -31,7 +31,7 @@
 - id: 7
   first_name: Citoyens Pour le Climat
   last_name: ''
-  question_count: 21
+  question_count: 18
   quiz_count: 0
   created: '2022-04-16'
 - id: 8
