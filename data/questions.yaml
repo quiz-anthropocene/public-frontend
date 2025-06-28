@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 2
   text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
     français doit être alimentée par des humains, chacun pédalant 8h par jour pour
@@ -36965,7 +36965,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2025-06-24'
+  updated: '2025-06-28'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -38058,7 +38058,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 923
   text: Parmi les poissons que l'on pêche, quelle proportion est exploitée à la limite
     ou au-delà de leur capacité de régénération ?
@@ -38101,7 +38101,7 @@
   validator: 2
   validation_date: '2021-02-25'
   created: '2021-02-18'
-  updated: '2025-04-14'
+  updated: '2025-06-28'
 - id: 924
   text: Quelle proportion des fruits et légumes que nous consommons vient de l'étranger
     ?
@@ -38145,7 +38145,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 925
   text: La moitié des céréales produites en France est exportée. Dans la moitié qui
     reste pour le marché français, quelle proportion est destinée à l’alimentation
@@ -38328,7 +38328,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-04-16'
+  updated: '2025-06-28'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
     par et pour l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes)
@@ -39963,7 +39963,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-06-03'
+  updated: '2025-06-28'
 - id: 967
   text: Un aller/retour Paris - New-York, c'est l'équivalent en empreinte carbone
     de...
@@ -47038,7 +47038,7 @@
   validator: 2
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -50704,7 +50704,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2024-05-31'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 1244
   text: En 1983, un rapport conclut que les +2°C de réchauffement de la planète seront
     atteints au milieu du XXIè siècle et qu'il faudra se préparer à déménager de zones
@@ -52172,7 +52172,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
@@ -52219,7 +52219,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-20'
+  updated: '2025-06-28'
 - id: 1280
   text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
     calories végétales ?
@@ -52301,7 +52301,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-20'
+  updated: '2025-06-28'
 - id: 1282
   text: Pour produire 1g de protéine animale, combien en faut-il de végétale ?
   hint: ''
@@ -52459,7 +52459,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-25'
+  updated: '2025-06-28'
 - id: 1286
   text: Comparons les poulets actuels à ceux d'avant l'époque romaine. Lesquelles
     de ces affirmations sont vraies ?
