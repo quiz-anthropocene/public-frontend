@@ -3672,3 +3672,39 @@
   spotlight: false
   created: '2025-06-25'
   updated: '2025-06-25'
+- id: 123
+  name: Quiz sur l'alimentation - Fête de la Villeneuve
+  slug: quiz-sur-lalimentation-fete-de-la-villeneuve
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 1
+  - 894
+  - 922
+  - 923
+  - 924
+  - 928
+  - 966
+  - 1154
+  - 1243
+  - 1278
+  - 1279
+  - 1281
+  - 1285
+  question_count: 13
+  tags: []
+  difficulty_average: 1.8
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/aa989646.jpg
+  has_audio: false
+  authors:
+  - 90
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-06-28'
+  updated: '2025-06-28'

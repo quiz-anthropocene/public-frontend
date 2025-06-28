@@ -316,6 +316,12 @@
   question_count: 0
   quiz_count: 0
   created: '2024-11-25'
+- id: 90
+  first_name: Yousra
+  last_name: Tchorbo
+  question_count: 0
+  quiz_count: 0
+  created: '2025-02-19'
 - id: 91
   first_name: Isaora
   last_name: Bacquet
