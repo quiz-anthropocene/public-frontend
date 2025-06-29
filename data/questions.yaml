@@ -5866,7 +5866,7 @@
   validator: null
   validation_date: null
   created: '2020-04-26'
-  updated: '2025-06-27'
+  updated: '2025-06-29'
 - id: 142
   text: En France, quelle est la part des forêts et des milieux semi-naturels (arbustes,
     herbes) dans le territoire métropolitain ?
@@ -8953,11 +8953,11 @@
   answer_extra_info: les chiffres de la SNBC sont légèrement différents
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2024-04-02'
+  updated: '2025-06-29'
 - id: 221
   text: Quelle proportion des communes françaises sont classées à risque feux de forêts
     ?
@@ -8992,11 +8992,11 @@
   answer_extra_info: 'image originale: https://quiz-anthropocene.s3.fr-par.scw.cloud/questions/laydgeur/120.jpg'
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 222
   text: Quelle est l'origine naturelle des glaciations et des déglaciations de la
     période du quaternaire, commencée il y a 2.6 millions d'années et toujours en
@@ -9110,11 +9110,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-03'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 225
   text: 'L’Agence Française pour le Développement tente de conditionner ses aides
     au développement au travers de deux indicateurs : l’indice de développement humain
@@ -9200,11 +9200,11 @@
   answer_extra_info: 'graphique afp: https://pbs.twimg.com/media/DTz5DdNXcAARmq3.jpg'
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-12'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-05'
-  updated: '2024-04-02'
+  updated: '2025-06-29'
 - id: 227
   text: Quelle est la part en tonnage du transport maritime dans le commerce mondial
     ?
@@ -9538,11 +9538,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-10'
-  updated: '2024-04-02'
+  updated: '2025-06-29'
 - id: 235
   text: Quel est le pays de l'Union Européenne qui émet le plus de gaz à effet de
     serre ?
@@ -9577,11 +9577,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-10'
-  updated: '2024-04-02'
+  updated: '2025-06-29'
 - id: 236
   text: "En 2019, l'Agence internationale de l'énergie a publié un rapport sur les\
     \ émissions nationales de CO2 liées à l'énergie. La moyenne mondiale annuelle\
@@ -10088,11 +10088,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1151211826824323074
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 249
   text: En quelle année a été créé l’Organisation des Pays Exportateurs de Pétrole
     (OPEP) ?
@@ -10654,11 +10654,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1160996567823847425
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 263
   text: Quel est le premier moyen de production électrique dans l’Union Européenne
     ?
@@ -10963,11 +10963,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1164820093919887362
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-29'
 - id: 271
   text: Combien de pays sont membres du GIEC ?
   hint: ''
@@ -11784,11 +11784,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1175144001697136640
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-29'
 - id: 292
   text: Dans le monde, quelle part du trafic ferroviaire de passagers est électrifié
     ?
@@ -12269,11 +12269,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1181651497144205312
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 304
   text: En quelle année la France a passé son pic de production de pétrole ?
   hint: ''
@@ -12672,11 +12672,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1186870432005271555
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 314
   text: Quel est le secteur qui consomme le plus de gaz naturel en France ?
   hint: ''
@@ -17859,11 +17859,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2024-03-26'
+  updated: '2025-06-29'
 - id: 442
   text: La moyenne d’émissions de gaz à effet de serre en France est de 5 tCO2/an/hab,
     mais quelle est l’empreinte totale (émissions en France + émissions délocalisées)
@@ -18728,11 +18728,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 465
   text: Quelle est la place du nucléaire dans la production électrique mondiale ?
   hint: Le nucléaire est la 2ème source d'énergie décarbonée dans le monde.
@@ -18766,11 +18766,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 466
   text: Vrai ou faux ? Un panneau solaire produit plus d'énergie qu'il en a consommé
     pour sa fabrication
@@ -25170,11 +25170,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1275171016566808576
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-19'
+  updated: '2025-06-29'
 - id: 625
   text: '[DOUBLON] Au plus fort de la crise de la Covid, les émissions mondiales de
     CO2 ont baissé de quasiment 20%.
@@ -25778,11 +25778,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1281854223999803393
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 22
-  validation_date: '2020-12-12'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-12-05'
-  updated: '2024-03-12'
+  updated: '2025-06-29'
 - id: 639
   text: Quel est le premier poste d’émissions dans l’empreinte carbone de la ville
     de Paris ?
@@ -25945,11 +25945,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1284208421739405313
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-19'
+  updated: '2025-06-29'
 - id: 643
   text: Dans le monde, sur les 10 mois de juin les plus chauds enregistrés ces 140
     dernières années, combien ont eu lieu depuis 2010 ?
@@ -26743,11 +26743,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1324242278114873345
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 662
   text: 'Dans l’Union Européenne, quel pays produit le plus d’électricité à partir
     du pétrole ?
@@ -27462,11 +27462,11 @@
   answer_extra_info: ''
   author: 22
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-12-10'
-  updated: '2024-03-12'
+  updated: '2025-06-29'
 - id: 679
   text: Quelle est l'empreinte carbone du Bitcoin sur terre ?
   hint: ''
@@ -40190,8 +40190,8 @@
   created: '2021-11-29'
   updated: '2025-05-15'
 - id: 999
-  text: Vrai ou faux ? Sur les dix dernières années, la forêt amazonienne au Brésil
-    a émis plus de carbone qu'elle n'en a capté.
+  text: Vrai ou faux ? Sur la décennie 2000-2019, la forêt amazonienne au Brésil a
+    émis plus de carbone qu'elle n'en a capté.
   hint: ''
   type: VF
   category: 1
@@ -40241,7 +40241,7 @@
   validator: 1
   validation_date: '2021-05-09'
   created: '2021-05-02'
-  updated: '2024-02-27'
+  updated: '2025-06-29'
 - id: 1000
   text: Globally, how much electronic waste is collected in order to be recycled?
   hint: it is really not much!
