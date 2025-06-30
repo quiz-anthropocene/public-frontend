@@ -19,7 +19,7 @@
 - id: 5
   first_name: laydgeur
   last_name: ''
-  question_count: 130
+  question_count: 122
   quiz_count: 3
   created: '2022-04-16'
 - id: 6
@@ -229,7 +229,7 @@
 - id: 46
   first_name: Emmanuel
   last_name: Pont
-  question_count: 10
+  question_count: 9
   quiz_count: 2
   created: '2022-04-16'
 - id: 49

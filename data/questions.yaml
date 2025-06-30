@@ -12752,11 +12752,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1187618318041145345
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2025-05-07'
+  updated: '2025-06-29'
 - id: 316
   text: Quelle est la dernière année où les émissions des Français ont été inférieures
     à 2 tonnes de CO2 par habitant ? (2 tonnes par an et par habitant, c'est l'objectif
@@ -21201,18 +21201,15 @@
   answer_choice_d: Les transports terrestres
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'Les chiffres qui suivent sont des estimations valables à la
-    date de fin Novembre 2020, et peuvent évoluer en fonction de la pandémie.
-
-    Dans le monde, le secteur qui a le plus baissé ses émissions à cause de la pandémie
-    est le secteur des transports routiers avec -840 millions de tonnes de CO2 par
-    rapport à 2019, ce qui représente plus de la moitié de la baisse mondiale.
-
-    L''aviation est le secteur qui a le plus baissé en relatif, avec -33%, mais en
-    valeur absolue ça ne représente "que" -90 millions de tonnes.
-
-    L''industrie et la production électrique ont baissé respectivement de -220 et
-    -375 millions de tonnes de CO2 par rapport à2019.'
+  answer_explanation: "Les chiffres qui suivent sont des estimations valables à la\
+    \ date de fin Novembre 2020, et peuvent évoluer en fonction de la pandémie.\r\n\
+    Dans le monde, le secteur qui a le plus baissé ses émissions à cause de la pandémie\
+    \ est le secteur des transports routiers avec -840 millions de tonnes de CO2 par\
+    \ rapport à 2019, ce qui représente plus de la moitié de la baisse mondiale.\r\
+    \nL'aviation est le secteur qui a le plus baissé en relatif, avec -33%, mais en\
+    \ valeur absolue ça ne représente \"que\" -90 millions de tonnes.\r\nL'industrie\
+    \ et la production électrique ont baissé respectivement de -220 et -375 millions\
+    \ de tonnes de CO2 par rapport à2019."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -21233,11 +21230,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-07-01'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 528
   text: Lors de la pandémie de Covid, combien de supertankers sont restés au large
     de la Californie à cause de la baisse de la demande en pétrole ?
@@ -25734,11 +25731,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1281339597230936065
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 638
   text: Quelle est la puissance maximale développée par Usain Bolt lors d’un départ
     du 100m ?
@@ -25817,11 +25814,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1282765530487824387
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-12'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-12-05'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 640
   text: En quelle année a eu lieu ou aura lieu le pic de déforestation en France ?
   hint: ''
@@ -26355,11 +26352,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1319366405377150976
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-12'
+  updated: '2025-06-29'
 - id: 653
   text: On compte près de 5 millions de véhicules électriques en circulation dans
     le monde.  Combien en Chine ?
@@ -26697,11 +26694,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1323898618995216384
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-12'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-12-05'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 661
   text: Quelle est la part des importations pour la consommation de pétrole au sein
     de l'Union Européenne (sans compter le Royaume Uni) ?
@@ -26872,11 +26869,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1325911824680824832
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2025-06-29'
 - id: 665
   text: Quelle serait la place des États-Unis dans le classement mondial des émetteurs
     de CO2 si leurs émissions liées à l'électricité tombaient à zéro ?
@@ -27001,11 +26998,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1326996258414858240
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-26'
+  updated: '2025-06-29'
 - id: 668
   text: À quel âge un américain émet-il le plus de CO2 en moyenne ?
   hint: ''
@@ -36920,11 +36917,11 @@
   answer_extra_info: ''
   author: 46
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2022-04-13'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2022-04-06'
-  updated: '2022-06-14'
+  updated: '2025-06-29'
 - id: 894
   text: Lequel de ces produits présente la plus grande empreinte eau par kg ?
   hint: ''
