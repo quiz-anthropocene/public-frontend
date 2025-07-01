@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-06-28'
+  updated: '2025-07-01'
 - id: 2
   text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
     français doit être alimentée par des humains, chacun pédalant 8h par jour pour
@@ -85,7 +85,7 @@
   validator: 39
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-05-16'
+  updated: '2025-07-01'
 - id: 3
   text: Qu'appelle t-on l'effet rebond ?
   hint: ''
@@ -3225,7 +3225,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-17'
+  updated: '2025-07-01'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -23276,7 +23276,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2024-06-12'
+  updated: '2025-07-01'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -23487,7 +23487,7 @@
   validator: 1
   validation_date: '2020-09-25'
   created: '2020-09-18'
-  updated: '2023-03-16'
+  updated: '2025-07-01'
 - id: 583
   text: 'La population mondiale a été multipliée par 8 en :'
   hint: ''
@@ -23979,7 +23979,7 @@
   validator: 5
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2025-06-30'
+  updated: '2025-07-01'
 - id: 596
   text: Juste avant la faillite de Lehman Brothers en 2008, le prix du pétrole avait
     atteint des sommets. Quel fut alors le prix le plus haut atteint pour un baril
@@ -44476,7 +44476,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2025-05-14'
+  updated: '2025-07-01'
 - id: 1096
   text: Quelle quantité de matière la fabrication des décors de l'Opéra Bastille requiert-elle
     ?
@@ -46234,7 +46234,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-04-08'
+  updated: '2025-07-01'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
@@ -52279,7 +52279,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-06-28'
+  updated: '2025-07-01'
 - id: 1282
   text: Pour produire 1g de protéine animale, combien en faut-il de végétale ?
   hint: ''
