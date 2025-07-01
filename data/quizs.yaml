@@ -3708,3 +3708,34 @@
   spotlight: false
   created: '2025-06-28'
   updated: '2025-06-28'
+- id: 124
+  name: Burger Quiz Apéro sans débat Madre 2 juillet 2025
+  slug: burger-quiz-apero-sans-debat-madre-2-juillet-2025
+  introduction: ''
+  conclusion: ''
+  questions:
+  - 2
+  - 76
+  - 577
+  - 582
+  - 595
+  - 1095
+  - 1135
+  - 1281
+  question_count: 8
+  tags: []
+  difficulty_average: 2.1
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/86950165.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-07-01'
+  updated: '2025-07-01'
