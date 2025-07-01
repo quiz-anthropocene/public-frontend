@@ -13044,8 +13044,8 @@
   created: '2020-05-20'
   updated: '2022-04-16'
 - id: 323
-  text: Quelle est la part des énergies fossiles dans le mix énergétique de l’Union
-    Européenne ?
+  text: En 2019, quelle est la part des énergies fossiles dans le mix énergétique
+    de l’Union Européenne ?
   hint: ''
   type: QCM
   category: 5
@@ -13081,7 +13081,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 324
   text: Parmi les 10 plus gros émetteurs de CO2 dans le monde, combien y a-t'il de
     pays de l'Union Européenne ?
@@ -14150,11 +14150,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1207958658727993344
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-30'
 - id: 351
   text: Entre la première question de ce quiz le 7 janvier et aujourd’hui, combien
     de CO2 a été émis dans le monde ?
@@ -14347,11 +14347,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1215370576375828480
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-30'
 - id: 356
   text: Au niveau mondial, quelle est la place de 2019 dans le classement des années
     les plus chaudes depuis le début des observations ?
@@ -14388,11 +14388,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1215948088457732097
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-30'
 - id: 357
   text: Quelle est la région française qui fournit le plus de bois ? (tous bois confondus)
   hint: ''
@@ -14681,11 +14681,11 @@
     \n\r\nhttps://twitter.com/laydgeur/status/1219734466240950273"
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-30'
 - id: 364
   text: Parmi ces régions du globe, laquelle émet le plus de CO2 ?
   hint: ''
@@ -15173,11 +15173,11 @@
   answer_extra_info: "Semaine spéciale Royaume-Uni (brexit)\r\n\r\nhttps://twitter.com/laydgeur/status/1225722941742161921"
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-03-26'
+  updated: '2025-06-30'
 - id: 376
   text: Lequel de ces pics de production n’a PAS été passé par le Royaume-Uni ?
   hint: ''
@@ -15817,11 +15817,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1233852444418957314
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-30'
 - id: 392
   text: Quelle est l'empreinte carbone totale (fabrication, utilisation, rebut) d'un
     smartphone comme un iphone 11 ?
@@ -16062,11 +16062,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1237112036775133192
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 1
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2025-06-30'
 - id: 398
   text: Quelle est la première énergie utilisée en Italie ?
   hint: ''
@@ -19178,11 +19178,8 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 476
-  text: 'Les récifs coralliens représentent moins de 0,25 % de tout l’environnement
-    marin.
-
-    Quel pourcentage de la population aquatique est dépendant de cet habitat naturel
-    ?'
+  text: Quel proportion de la population aquatique est dépendant des coraux pour leur
+    habitat naturel ?
   hint: ''
   type: QCM
   category: 4
@@ -19196,13 +19193,12 @@
   answer_choice_d: 90%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'On estime que ce sont près de deux millions d’espèces différentes
-    qui vivent dans, sur et autour des récifs coralliens du monde.
-
-    Environ un quart des récifs coralliens mondiaux ont déjà subi des dégâts irréversibles,
-    et deux tiers sont gravement menacés.
-
-    En cause, encore et toujours les activités humaines.'
+  answer_explanation: "On estime que ce sont près de deux millions d’espèces différentes\
+    \ qui vivent dans, sur, et autour des récifs coralliens du monde. Ils représentent\
+    \ pourtant moins de 0,25 % de tout l’environnement marin.\r\nEnviron un quart\
+    \ des récifs coralliens mondiaux ont déjà subi des dégâts irréversibles, et deux\
+    \ tiers sont gravement menacés.\r\nEn cause, encore et toujours les activités\
+    \ humaines."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -19222,7 +19218,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 477
   text: En France, combien de mégots terminent ailleurs que dans un cendrier, chaque
     jour ?
@@ -22426,11 +22422,11 @@
   answer_extra_info: https://youtu.be/xgy0rW0oaFI
   author: 8
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-07-06'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-06-29'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 557
   text: Qui a découvert la radioactivité en 1896 ?
   hint: ''
@@ -22799,7 +22795,7 @@
   updated: '2025-06-27'
 - id: 567
   text: Vrai ou faux ? Le lavage de vos vêtements rejette plus de microplastiques
-    que votre voiture
+    que les pneus de votre voiture
   hint: ''
   type: VF
   category: 3
@@ -22820,7 +22816,8 @@
     la durée de vie d'un pneu. Ces particules se retrouvent dans les océans, les organismes
     marins, et contribuent à la fonte des calottes glaciaires (la présence de microplastique
     affecte en effet l’albédo de la glace océanique – c’est-à-dire la manière dont
-    la glace reflète l’énergie solaire).
+    la glace reflète l’énergie solaire). A noter que le passage aux voitures électriques
+    ne change rien à cette pollution.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -22840,7 +22837,7 @@
   validator: 1
   validation_date: '2020-07-30'
   created: '2020-07-23'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 568
   text: Quelle proportion de la population mondiale se trouvera dans une situation
     de péril vital si la température moyenne augmente de 2° ?
@@ -23914,17 +23911,12 @@
   answer_choice_d: 40%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Quand un arbre brûle, en quelques minutes, le carbone stocké
-    pendant des décennies retourne dans l''atmosphère. Ces émissions et l''effet de
+  answer_explanation: Quand un arbre brûle, en quelques minutes, le carbone stocké
+    pendant des décennies retourne dans l'atmosphère. Ces émissions et l'effet de
     serre additionnel induit viennent alors renforcer le phénomène même qui a facilité
-    ces incendies, à savoir les sécheresses et les canicules.
-
-    Les feux destructeurs des deux dernières années en Australie, en Amazonie, dans
-    l''Ouest Américain, en Sibérie et en Indonésie ne sont pas une parenthèse historique.
-    Leur fréquence et leur violence vont augmenter.
-
-    Le trait de la boucle de rétroaction entre incendies et effet de serre additionnel
-    n''a ainsi pas fini de s''épaissir.'
+    ces incendies, à savoir les sécheresses et les canicules. C'est une boucle de
+    rétroaction. Avec le réchauffement climatique, les méga feux de forêt vont vont
+    augmenter en fréquence et en intensité.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -23944,7 +23936,7 @@
   validator: 5
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 595
   text: "Des scientifiques ont tenté d'estimer le « coût ultime de la tonne de carbone\
     \ », c'est à dire en prenant en compte son impact sur les générations futures,\
@@ -23959,9 +23951,9 @@
   difficulty: 4
   language: FRENCH
   answer_choice_a: 100$ / tonne
-  answer_choice_b: 1,000$ / tonne
-  answer_choice_c: 10,000$ / tonne
-  answer_choice_d: 100,000$ / tonne
+  answer_choice_b: 1 000$ / tonne
+  answer_choice_c: 10 000$ / tonne
+  answer_choice_d: 100 000$ / tonne
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: Les scientifiques de l'université de Chicaco ont pour cela bâti
@@ -23987,7 +23979,7 @@
   validator: 5
   validation_date: '2020-11-24'
   created: '2020-11-17'
-  updated: '2024-03-19'
+  updated: '2025-06-30'
 - id: 596
   text: Juste avant la faillite de Lehman Brothers en 2008, le prix du pétrole avait
     atteint des sommets. Quel fut alors le prix le plus haut atteint pour un baril
@@ -24523,11 +24515,11 @@
   answer_extra_info: ''
   author: 22
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-12'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-12-05'
-  updated: '2024-03-12'
+  updated: '2025-06-30'
 - id: 609
   text: Quelle est l’énergie la plus utilisée en France ?
   hint: ''
@@ -24644,11 +24636,11 @@
   answer_extra_info: Bilan des gaz à effet de serre comme définis dans la loi. https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024354907/2011-07-13
   author: 22
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-11-25'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-18'
-  updated: '2024-03-19'
+  updated: '2025-06-30'
 - id: 612
   text: En Europe, à quelle hauteur les entreprises soumises aux quotas d’émissions
     émettent-elles de GES ?
@@ -25379,11 +25371,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1277691935000494081
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2023-07-10'
+  updated: '2025-06-30'
 - id: 630
   text: Lorsqu’il sort d’un réacteur nucléaire, quelle part du combustible usé est
     considéré comme déchets ?
@@ -25553,9 +25545,10 @@
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 634
-  text: Si la proposition de François Ruffin sur le quota carbone individuel pour
-    l’aviation était en place, quelle serait la distance parcourable (ou cumulable)
-    chaque année ?
+  text: Le député François Ruffin a émis en 2020 l'idée de fixer un quota carbone
+    individuel de km en avion sur la base des émissions actuelles. Si cette mesure
+    se mettait en place, quelle serait la distance maxi allouée à chaque Français.e
+    ?
   hint: ''
   type: QCM
   category: 1
@@ -25565,27 +25558,20 @@
   language: FRENCH
   answer_choice_a: 15 km
   answer_choice_b: 150 km
-  answer_choice_c: 1500 km
+  answer_choice_c: 1 500 km
   answer_choice_d: 15 000 km
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'La proposition de François Ruffin consiste à répartir les émissions
-    de l''aviation en donnant à chaque français un quota de CO2 à émettre via ce moyen
-    de transport.
-
-    La France a émis 23,3 millions de tonnes de CO2 pour faire voler des avions (5,3
-    en domestique et 18 pour l''international), et environ 60% des passagers étaient
-    français.
-
-    Donc chaque français aurait droit à ~205 kg de CO2 par an, qu''il pourrait choisir
-    de dépenser ou de cumuler. 205 kg de CO2 ça correspond par ex un trajet aller/retour
-    Paris-Bastia, Bordeaux-Strasbourg, Lille-Marseille ou encore Lyon - Rennes, soit
-    environ 1500 km aller-retour.
-
-    Pour voyager plus loin en avion, il faudrait donc cumuler ce quota sur plusieurs
-    années, tout en sachant qu''il serait calé sur la stratégie nationale bas carbone
-    (SNBC) dont les émissions sont prévues à la baisse pour respecter nos engagements
-    climatiques.'
+  answer_explanation: "Faisons le calcul. La France a émis 23,3 millions de tonnes\
+    \ de CO2 pour faire voler des avions (5,3 en domestique et 18 pour l'international),\
+    \ et environ 60% des passagers étaient français.\r\nDonc chaque français aurait\
+    \ droit à ~205 kg de CO2 par an, qu'il pourrait choisir de dépenser ou de cumuler.\
+    \ 205 kg de CO2 ça correspond par ex un trajet aller/retour Paris-Bastia, Bordeaux-Strasbourg,\
+    \ Lille-Marseille ou encore Lyon - Rennes, soit environ 1500 km aller-retour.\r\
+    \nPour voyager plus loin en avion, il faudrait donc cumuler ce quota sur plusieurs\
+    \ années, tout en sachant qu'il serait calé sur la stratégie nationale bas carbone\
+    \ (SNBC) dont les émissions sont prévues à la baisse pour respecter nos engagements\
+    \ climatiques."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -25597,22 +25583,17 @@
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000634-2645.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'https://twitter.com/laydgeur/status/1280240217321070594
-
-
-
-    Sources complémentaires :
-
-    Émissions de l''aviation : https://di.unfccc.int/detailed_data_by_party- Enquête
-    passager de la DGAC : https://ecologique-solidaire.gouv.fr/sites/default/files/ENPA_2015_2016.pdf-
-    Stratégie nationale bas carbone : https://ecologique-solidaire.gouv.fr/strategie-nati'
+  answer_extra_info: "https://twitter.com/laydgeur/status/1280240217321070594\r\n\r\
+    \n\r\nSources complémentaires :\r\nÉmissions de l'aviation : https://di.unfccc.int/detailed_data_by_party-\
+    \ Enquête passager de la DGAC : https://ecologique-solidaire.gouv.fr/sites/default/files/ENPA_2015_2016.pdf-\
+    \ Stratégie nationale bas carbone : https://ecologique-solidaire.gouv.fr/strategie-nati"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 635
   text: En France, laquelle de ces activités émet le plus de gaz à effet de serre
     ?
@@ -25653,7 +25634,7 @@
   updated: '2022-04-16'
 - id: 636
   text: "Avant 1750 au Royaume-Uni, il n'arrivait jamais que le thermomètre dépasse\
-    \ les 40°C (1 fois tous les 300 ans).\r\nScénario 'on ne change rien à nos habitudes',\
+    \ les 40°C.\r\nSi l'humanité ne dévie pas de sa trajectoire climatique actuelle,\
     \ à quelle fréquence cela arrivera-t-il à l'horizon 2100 ?"
   hint: ''
   type: QCM
@@ -25665,7 +25646,7 @@
   - 204
   difficulty: 3
   language: FRENCH
-  answer_choice_a: Tous les 3 ans
+  answer_choice_a: Une fois tous les 3 ans
   answer_choice_b: Tous les 10 ans
   answer_choice_c: Tous les 30 ans
   answer_choice_d: Tous les 50 ans
@@ -25674,7 +25655,7 @@
   answer_explanation: "Au Royaume-Uni, des températures de 40°C apparaissaient tous\
     \ les 300-1000 ans à l'ère pré-industrielle.\r\nActuellement c'est tous les 100-300\
     \ ans.\r\nAvec un scénario d’émissions modérées (RCP 4.5 du GIEC), de telles températures\
-    \ apparaîtront en 2100 tous les 10-11 ans.\r\nAvec des émissions fortes (scénario\
+    \ apparaîtront en 2100 tous les 10-11 ans. Avec des émissions fortes (scénario\
     \ RCP 8.5 du GIEC), ce sera tous les 3-4 ans."
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -25697,7 +25678,7 @@
   validator: 2
   validation_date: '2020-12-12'
   created: '2020-12-05'
-  updated: '2024-03-12'
+  updated: '2025-06-30'
 - id: 637
   text: En quelle année le pétrole est-il devenu la première énergie utilisée dans
     le monde ?
@@ -26103,11 +26084,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1286043854278459393
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2025-06-30'
 - id: 647
   text: Quelle proportion du sol de la France métropolitaine est artificialisée (routes,
     bâtiments...)
@@ -26143,11 +26124,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1286580801291911168
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-12'
+  updated: '2025-06-30'
 - id: 648
   text: En 2017, quelle est la région française qui a émis le plus de en gaz à effet
     de serre ?
@@ -26313,11 +26294,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1319008577865076738
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-19'
+  updated: '2025-06-30'
 - id: 652
   text: "Le pétrole est la 1ère source d'énergie consommée en France.\r\nQuelle est\
     \ la 2ème ?"
@@ -26472,11 +26453,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1321191996661420041
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-12-05'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-12'
+  updated: '2025-06-30'
 - id: 656
   text: Comment a varié la consommation électrique française pendant le discours de
     Macron du 28 octobre 2020 annonçant un reconfinement ?
@@ -31324,11 +31305,11 @@
     \nhttps://www.carbonbrief.org/meeting-two-degree-climate-target-means-80-per-cent-of-worlds-coal-is-unburnable-study-says"
   author: 2
   visibility: PUBLIC
-  validation_status: VALIDATED
+  validation_status: REMOVED
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-05'
+  updated: '2025-06-30'
 - id: 763
   text: Quelle proportion des réserves connues de charbon devons-nous laisser sous
     terre pour espérer contenir la hausse de température moyenne sous 2°C ?
@@ -31375,7 +31356,7 @@
   validator: 1
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-05'
+  updated: '2025-06-30'
 - id: 764
   text: Vrai ou faux ? Depuis deux cents ans, les activités humaines ont un impact
     sur le climat
@@ -45812,9 +45793,9 @@
   created: '2023-02-02'
   updated: '2023-02-15'
 - id: 1126
-  text: D'après le GIEC, quels sont les effets déjà observés du changement climatique
+  text: Parmi les suivants, quels sont les effets déjà observés du changement climatique
     sur l'agriculture ?
-  hint: Il n'y en a pas qu'un.
+  hint: Il n'y en a pas qu'un
   type: QCM-RM
   category: 1
   tags: []
@@ -45850,10 +45831,10 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-03'
-  updated: '2023-02-07'
+  updated: '2025-06-30'
 - id: 1127
-  text: D'après le GIEC , à partir de quel seuil de réchauffement y a-t-il un risque
-    de bascule vers des risques de rupture de la production alimentaire ?
+  text: A partir de quel seuil de réchauffement global le GIEC estime-t-il qu'il y
+    a un risque de rupture des chaines de production alimentaire ?
   hint: ''
   type: QCM
   category: 1
@@ -45888,7 +45869,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-03'
-  updated: '2023-02-07'
+  updated: '2025-06-30'
 - id: 1128
   text: Combien de temps faut-il à un système agricole (élevage, cultures pérennes)
     pour faire face au changement climatique ?
