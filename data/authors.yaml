@@ -7,7 +7,7 @@
 - id: 2
   first_name: Matthieu
   last_name: Massart
-  question_count: 139
+  question_count: 138
   quiz_count: 15
   created: '2022-04-04'
 - id: 4
@@ -19,7 +19,7 @@
 - id: 5
   first_name: laydgeur
   last_name: ''
-  question_count: 122
+  question_count: 110
   quiz_count: 3
   created: '2022-04-16'
 - id: 6
@@ -37,7 +37,7 @@
 - id: 8
   first_name: Vincent
   last_name: Mignerot
-  question_count: 13
+  question_count: 12
   quiz_count: 1
   created: '2022-04-16'
 - id: 9
@@ -121,7 +121,7 @@
 - id: 22
   first_name: Kim
   last_name: Nguyen-Huu
-  question_count: 4
+  question_count: 2
   quiz_count: 0
   created: '2022-04-16'
 - id: 23
