@@ -3040,9 +3040,9 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2024-05-24'
-  updated: '2025-06-03'
+  updated: '2025-07-02'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1

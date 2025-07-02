@@ -1867,10 +1867,10 @@
   answer_choice_d: 99% de réduction
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Les massifs coralliens hébergent environ 1 million d'espèces
-    animales et fournissent des services à 500 millions de personnes (nourriture,
-    travaux de protection côtière...). A une température de +1,5°C (qui sera atteinte
-    aux environ de 2040) ce sont près de 90% des coraux qui subiront des dégradations.
+  answer_explanation: Les massifs coralliens hébergent environ un quart des espèces
+    marines et fournissent des services à 500 millions de personnes (nourriture, travaux
+    de protection côtière...). A une température de +1,5°C (qui sera atteinte aux
+    environ de 2040) ce sont près de 90% des coraux qui subiront des dégradations.
     A +2°C la quasi totalité des coraux de la planète disparaitra.
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -18607,9 +18607,9 @@
   has_ordered_answers: true
   answer_explanation: 'Un réchauffement climatique de 2°C aurait des impacts significativement
     plus importants qu’à 1,5°C : évènements extrêmes, hausse du niveau marin, écosystèmes,
-    production alimentaire, acidification des océans. Et les efforts d’adaptation
-    seront également plus importants. Il y aura aussi des situations où il sera impossible
-    de s''adapter.'
+    baisse de la production alimentaire, acidification des océans, effondrement des
+    écosystèmes. Et les efforts d’adaptation seront également plus importants. Il
+    y aura aussi des situations où il sera impossible de s''adapter.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32214,12 +32214,12 @@
   answer_explanation: "Il fallait en effet cocher toutes les réponses pour cette dernière\
     \ question. Le changement climatique a déjà de nombreux impacts. Comme la température\
     \ augmente, il y a plus souvent des jours où il fait trop chaud, et des sécheresses\
-    \ car il y a de moins en moins d’eau. Lorsque l’atmosphère se réchauffe, tout\
-    \ est perturbé : l’évaporation, la formation des nuages... Cela peut causer des\
-    \ pluies intenses qui font déborder les rivières et inonder les terres. Ce ne\
-    \ sont pas des bonnes nouvelles pour les hommes.\r\nLes plantes et les animaux\
-    \ sont aussi affectés par tous ces changements et certaines espèces disparaissent\
-    \ à cause de la chaleur, du manque d’eau ou de la banquise qui fond."
+    \ car l'eau du sol s'évapore. Lorsque l’atmosphère se réchauffe, tout est perturbé\
+    \ : l’évaporation, la formation des nuages... Cela peut causer des pluies intenses\
+    \ qui font déborder les rivières et inonder les terres. Ce ne sont pas des bonnes\
+    \ nouvelles pour les humains.\r\nLes plantes et les animaux sont aussi affectés\
+    \ par tous ces changements et certaines espèces disparaissent à cause de la chaleur,\
+    \ du manque d’eau ou de la banquise qui fond."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32239,7 +32239,7 @@
   validator: 1
   validation_date: '2021-01-30'
   created: '2021-01-23'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 785
   text: Le solaire et l’éolien ne fournissent de l’énergie que de façon intermittente.
     De combien faut-il augmenter la puissance installée pour avoir l’équivalent d’une
