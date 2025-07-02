@@ -1878,7 +1878,7 @@
   answer_video_url_text: Les images du blanchissement de la barrière de corail - Le
     Monde
   answer_source_accessible_url: https://www.nationalgeographic.fr/environnement/les-recifs-coralliens-pourraient-disparaitre-avant-2050
-  answer_source_accessible_url_text: Les récifs coralliens pourraient disparaÃ®tre
+  answer_source_accessible_url_text: Les récifs coralliens pourraient disparaître
     avant 2050, National Geographic
   answer_source_scientific_url: http://whc.unesco.org/en/news/1676/
   answer_source_scientific_url_text: 'Assessment: World Heritage coral reefs likely
@@ -1893,7 +1893,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 45
   text: Quelle quantité de métaux lourds, solvants, boues toxiques et autres déchets
     industriels est déversée dans les eaux du monde chaque jour ?
@@ -2043,9 +2043,16 @@
   answer_choice_d: +9°C à +15°C
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: La surface de la Terre est recouverte à 70 % par les océans,
-    les 30 % restants étant les terres, et le réchauffement est plus fort sur les
-    terres émergées que sur les océans.
+  answer_explanation: "La surface de la Terre est recouverte à environ 70 % par les\
+    \ océans et à 30 % par des terres émergées. Le réchauffement climatique est plus\
+    \ marqué sur les continents que sur les océans, et cela s’explique par plusieurs\
+    \ phénomènes.\r\n1. Capacité thermique : Il faut beaucoup plus d’énergie pour\
+    \ chauffer l’eau que pour chauffer la terre. C’est pourquoi les terres se réchauffent\
+    \ et réagissent plus rapidement aux changements climatiques.\r\n2. Évaporation\
+    \ et refroidissement : L’évaporation de l’eau au-dessus des océans consomme de\
+    \ l’énergie (chaleur latente), ce qui freine le réchauffement de l’eau.\r\n3.\
+    \ Transfert de chaleur : Les océans mélangent la chaleur verticalement grâce aux\
+    \ courants marins, répartissant ainsi l’énergie en profondeur."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2057,7 +2064,8 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000048-ed71.png
-  answer_image_url_text: L'océan est en bleu, les terres en rouge.
+  answer_image_url_text: Anomalies de température. Océans en bleu, terres émergées
+    en rouge
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
@@ -2065,7 +2073,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 49
   text: Les déplacés climatiques sont des personnes contraintes de se relocaliser
     pour des raisons environnementales. Leur nombre était estimé à 25 millions de
@@ -2101,7 +2109,7 @@
   answer_source_scientific_url_text: Future of the human climate niche, PNAS, Mai
     2020
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5fa3a137.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f99de1e3.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -2110,7 +2118,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 50
   text: Dans le monde, l'érosion et l'épuisement des sols réduisent les surfaces arables.
     De combien d'hectares par an ?
@@ -16435,7 +16443,8 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000406-3b2e.png
-  answer_image_url_text: ''
+  answer_image_url_text: Augmentation de t° par rapport à l'ère pré-industrielle,
+    selon différents modèles climatiques
   answer_extra_info: super question Raphaël !
   author: 1
   visibility: PUBLIC
@@ -16443,7 +16452,7 @@
   validator: 2
   validation_date: '2020-05-30'
   created: '2020-05-23'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 407
   text: Si l'océan était un pays, quel serait son classement en termes de PIB ?
   hint: ''
@@ -18286,9 +18295,11 @@
   answer_choice_d: 100 ans
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Les normales climatiques sont des produits statistiques calculés
-    sur des périodes de 30 ans. Elles permettent de caractériser le climat sur cette
-    période et servent de référence.
+  answer_explanation: "Le climat désigne les caractéristiques statistiques (moyenne,\
+    \ maxima et minima, dispersion), calculées sur une longue période de temps, des\
+    \ observations de paramètres tels que la température, la pression, la pluviométrie\
+    \ ou la vitesse du vent, en un lieu géographique et à une date donnés. \r\nLes\
+    \ normales climatiques sont actuellement établies sur des périodes de 30 ans."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -18298,9 +18309,8 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000453-0d2c.png
-  answer_image_url_text: Anomalies de température en France par rapport à la moyenne
-    de référence 1981-2010 (période de 30 ans)
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4a7b9622.jpg
+  answer_image_url_text: ''
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
@@ -18308,7 +18318,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 454
   text: Sur le dernier million d'années, quel est le facteur dont des variations déclenchent
     les périodes glaciaires ?
@@ -18585,7 +18595,6 @@
   category: 1
   tags:
   - 24
-  - 32
   - 79
   difficulty: 0
   language: FRENCH
@@ -18597,8 +18606,9 @@
   has_ordered_answers: true
   answer_explanation: 'Un réchauffement climatique de 2°C aurait des impacts significativement
     plus importants qu’à 1,5°C : évènements extrêmes, hausse du niveau marin, écosystèmes,
-    production alimentaire, acidification des océans, ... Et les efforts d’adaptation
-    seront également plus imports.'
+    production alimentaire, acidification des océans. Et les efforts d’adaptation
+    seront également plus importants. Il y aura aussi des situations où il sera impossible
+    de s''adapter.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -18614,11 +18624,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 462
   text: Quelle est le premier poste de consommation d'énergie d’un européen moyen
     ?
@@ -25633,9 +25643,9 @@
   created: '2020-11-28'
   updated: '2022-04-16'
 - id: 636
-  text: "Avant 1750 au Royaume-Uni, il n'arrivait jamais que le thermomètre dépasse\
-    \ les 40°C.\r\nSi l'humanité ne dévie pas de sa trajectoire climatique actuelle,\
-    \ à quelle fréquence cela arrivera-t-il à l'horizon 2100 ?"
+  text: Avant 1750, il n'arrivait jamais que le thermomètre dépasse les 40°C au Royaume-Uni.
+    Si l'humanité ne dévie pas de sa trajectoire climatique actuelle, à quelle fréquence
+    cela arrivera-t-il à l'horizon 2100 ?
   hint: ''
   type: QCM
   category: 1
@@ -25654,9 +25664,9 @@
   has_ordered_answers: true
   answer_explanation: "Au Royaume-Uni, des températures de 40°C apparaissaient tous\
     \ les 300-1000 ans à l'ère pré-industrielle.\r\nActuellement c'est tous les 100-300\
-    \ ans.\r\nAvec un scénario d’émissions modérées (RCP 4.5 du GIEC), de telles températures\
-    \ apparaîtront en 2100 tous les 10-11 ans. Avec des émissions fortes (scénario\
-    \ RCP 8.5 du GIEC), ce sera tous les 3-4 ans."
+    \ ans.\r\nAvec un scénario d’émissions modérées (SSP 4.5 du GIEC), de telles températures\
+    \ apparaîtront en 2100 tous les 10-11 ans. Avec des émissions fortes (SSP 8.5\
+    \ du GIEC), ce sera tous les 3-4 ans."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -25678,7 +25688,7 @@
   validator: 2
   validation_date: '2020-12-12'
   created: '2020-12-05'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 637
   text: En quelle année le pétrole est-il devenu la première énergie utilisée dans
     le monde ?
