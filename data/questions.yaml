@@ -16302,7 +16302,7 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.lemonde.fr/planete/article/2020/05/04/d-ici-a-2070-un-tiers-de-l-humanite-pourrait-vivre-dans-des-endroits-aussi-chauds-que-le-sahara_6038639_3244.html?utm_source=PaidSocial&utm_medium=Facebook&utm_campaign=Fidelisation_Article&xtor=CS2-33281034-%5BFB%5D-%5Bteaser%5D-%5Babos%5D
+  answer_source_accessible_url: https://www.lemonde.fr/planete/article/2020/05/04/d-ici-a-2070-un-tiers-de-l-humanite-pourrait-vivre-dans-des-endroits-aussi-chauds-que-le-sahara_6038639_3244.html
   answer_source_accessible_url_text: D’ici à 2070, un tiers de l’humanité pourrait
     vivre dans des endroits aussi chauds que le Sahara
   answer_source_scientific_url: https://www.pnas.org/content/early/2020/04/28/1910114117
@@ -16317,7 +16317,7 @@
   validator: 5
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 404
   text: A combien de jours de consommation intérieure les stocks stratégiques pétroliers
     correspondent-ils en France ?
@@ -16409,8 +16409,8 @@
   created: '2020-05-20'
   updated: '2024-03-26'
 - id: 406
-  text: Vrai ou Faux ? Les 5 dernières années (2015 à 2019) ont été les plus chaudes
-    jamais observées dans le monde
+  text: Vrai ou Faux ? Les 5 années les plus chaudes dans le monde sont toutes après
+    2015.
   hint: ''
   type: VF
   category: 1
@@ -16426,13 +16426,12 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Dans l’ordre: 2016, 2019, 2015, 2017 et 2018. D’après l’Organisation
-    météorologique mondiale (OMM), 2019 a été la deuxième année la plus chaude jamais
-    enregistrée depuis les premiers relevés en 1850. Elle se classe derrière 2016,
-    marquée par un épisode El Niño très intense, un phénomène qui accentue le réchauffement
-    sur le long terme en entraînant des températures anormalement élevées des eaux
-    de l’est du Pacifique Sud. L’année 2019 conclut la décennie la plus chaude de
-    l’histoire.'
+  answer_explanation: Les années les plus chaudes enregistrées depuis le début des
+    relevés sont principalement concentrées au cours des trois dernières décennies.
+    Parmi celles-ci, 2023 détient le record de l'année la plus chaude jamais enregistrée,
+    suivie de près par 2016, 2020, 2019, 2015 et 2017. Ces années ont vu des températures
+    globales moyennes dépassant de plus d'un degré Celsius les moyennes préindustrielles
+    (avant 1880).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -16442,9 +16441,8 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000406-3b2e.png
-  answer_image_url_text: Augmentation de t° par rapport à l'ère pré-industrielle,
-    selon différents modèles climatiques
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e318c416.png
+  answer_image_url_text: ''
   answer_extra_info: super question Raphaël !
   author: 1
   visibility: PUBLIC
@@ -18298,16 +18296,19 @@
   answer_explanation: "Le climat désigne les caractéristiques statistiques (moyenne,\
     \ maxima et minima, dispersion), calculées sur une longue période de temps, des\
     \ observations de paramètres tels que la température, la pression, la pluviométrie\
-    \ ou la vitesse du vent, en un lieu géographique et à une date donnés. \r\nLes\
-    \ normales climatiques sont actuellement établies sur des périodes de 30 ans."
+    \ ou la vitesse du vent, en un lieu géographique et à une date donnés. Le GIEC\
+    \ est passé récemment à une échelle de 20 ans pour faire face à la variabilité\
+    \ accrue du climat.\r\nLes normales climatiques sont actuellement établies sur\
+    \ des périodes de 30 ans."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: http://www.meteofrance.fr/climat-passe-et-futur/comprendre-le-climat-mondial/les-mots-de-la-climatologie
   answer_source_accessible_url_text: METEO FRANCE - Le site institutionnel de Météo-France
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.carbonbrief.org/analysis-what-the-new-ipcc-report-says-about-when-world-may-pass-1-5c-and-2c/
+  answer_source_scientific_url_text: 'Analysis: What the new IPCC report says about
+    when world may pass 1.5C and 2C, Carbon Brief, 2021'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4a7b9622.jpg
   answer_image_url_text: ''
@@ -35779,12 +35780,12 @@
   language: FRENCH
   answer_choice_a: +5%
   answer_choice_b: -10%
-  answer_choice_c: -20%
-  answer_choice_d: -30%
+  answer_choice_c: -30%
+  answer_choice_d: -40%
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: Il est attendu qu'une hausse d’1°C de la température moyenne
-    générera une perte de 10% des rendements agricoles. Mais aussi une augmentation
+    générera une perte de 11 à 24% des rendements agricoles. Mais aussi une augmentation
     de 20% des départs de feux (domino biologique) et une augmentation de 20 à 40%
     des risques d’affrontements armés (domino politique et social), et des mouvements
     migratoires qui se compteront en centaines de millions d’humains.
@@ -35792,11 +35793,12 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.europeanscientist.com/fr/agriculture-fr/rechauffement-climatique-et-rendement-agricole/
-  answer_source_accessible_url_text: Le réchauffement climatique pèse sur le rendement
+  answer_source_accessible_url: https://www.terre-net.fr/changement-climatique/article/884008/les-rendements-agricoles-mondiaux-vont-chuter-de-11-a-24-d-ici-2100
+  answer_source_accessible_url_text: Les rendements agricoles mondiaux vont chuter
+    de 11 à 24 % d'ici 2100, site terre-net, 2025
+  answer_source_scientific_url: https://www.europeanscientist.com/fr/agriculture-fr/rechauffement-climatique-et-rendement-agricole/
+  answer_source_scientific_url_text: Le réchauffement climatique pèse sur le rendement
     agricole européen
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000868-308b.jpg
   answer_image_url_text: ''
@@ -35807,7 +35809,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
 - id: 869
   text: Globalement, qu'est-ce qui absorbe le plus de carbone ?
   hint: ''

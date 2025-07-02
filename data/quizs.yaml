@@ -3743,9 +3743,8 @@
   name: Chaleurs extrêmes
   slug: chaleurs-extremes
   introduction: <p>Une fois n'est pas coutume, voici un quiz pour coller à l'actualité
-    climatique du moment (1er juillet 2025).</p>
-  conclusion: <p>C'est fini. Si vous avez sué à grosses gouttes, le site décline toute
-    responsabilité.</p>
+    caniculaire (1er juillet 2025).</p>
+  conclusion: ''
   questions:
   - 44
   - 48
@@ -3759,7 +3758,8 @@
   - 784
   - 868
   question_count: 11
-  tags: []
+  tags:
+  - 203
   difficulty_average: 1.8
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/caab7f63.png
@@ -3767,11 +3767,11 @@
   authors:
   - 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 12
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2025-07-01'
-  updated: '2025-07-01'
+  updated: '2025-07-02'
