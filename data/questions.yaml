@@ -3233,7 +3233,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-07-01'
+  updated: '2025-07-03'
 - id: 77
   text: Quelle est la contribution des 50% les plus pauvres de la population mondiale
     aux émissions de gaz à effet de serre ?
@@ -4685,7 +4685,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000111-8083.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5f024ab1.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 5
@@ -4694,7 +4694,7 @@
   validator: 2
   validation_date: '2019-01-24'
   created: '2019-01-17'
-  updated: '2022-04-16'
+  updated: '2025-07-03'
 - id: 112
   text: Qu’est-ce qui fournit le plus d’énergie ?
   hint: ''
@@ -16428,16 +16428,18 @@
   has_ordered_answers: true
   answer_explanation: Les années les plus chaudes enregistrées depuis le début des
     relevés sont principalement concentrées au cours des trois dernières décennies.
-    Parmi celles-ci, 2023 détient le record de l'année la plus chaude jamais enregistrée,
-    suivie de près par 2016, 2020, 2019, 2015 et 2017. Ces années ont vu des températures
-    globales moyennes dépassant de plus d'un degré Celsius les moyennes préindustrielles
-    (avant 1880).
+    Parmi celles-ci, 2024 détient le record de l'année la plus chaude jamais enregistrée,
+    suivie de près par 2023, 2016, 2020, 2019, 2015 et 2017. Ces années ont vu des
+    températures globales moyennes dépassant de plus d'un degré Celsius les moyennes
+    préindustrielles (avant 1880).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.lemonde.fr/blog/huet/2020/03/11/le-climat-en-2019-selon-lomm/
-  answer_source_accessible_url_text: Le climat en 2019 selon l’OMM – {Sciences²}
+  answer_source_accessible_url: https://www.lemonde.fr/planete/article/2025/01/10/2024-annee-la-plus-chaude-jamais-enregistree-et-premiere-a-depasser-le-seuil-de-1-5-c-de-rechauffement-climatique_6490633_3244.html
+  answer_source_accessible_url_text: 2024, année la plus chaude jamais enregistrée
+    et première à dépasser le seuil de 1,5 °C de réchauffement climatique, le Monde,
+    2025
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -16450,7 +16452,7 @@
   validator: 2
   validation_date: '2020-05-30'
   created: '2020-05-23'
-  updated: '2025-07-02'
+  updated: '2025-07-03'
 - id: 407
   text: Si l'océan était un pays, quel serait son classement en termes de PIB ?
   hint: ''
@@ -23287,7 +23289,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2025-07-01'
+  updated: '2025-07-03'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -25976,7 +25978,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2025-07-01'
+  updated: '2025-07-03'
 - id: 644
   text: De quand date la glaciation du continent Antarctique ?
   hint: ''
@@ -34138,7 +34140,7 @@
   validator: 2
   validation_date: '2021-01-28'
   created: '2021-01-21'
-  updated: '2025-05-13'
+  updated: '2025-07-03'
 - id: 830
   text: 'Au niveau mondial, et sur l''ensemble du cycle de vie des produits, quelle
     part le numérique représente-t-il dans nos émissions de gaz à effet de serre ?
@@ -34264,7 +34266,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-05-15'
+  updated: '2025-07-03'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -35125,7 +35127,7 @@
   validator: 2
   validation_date: '2021-02-06'
   created: '2021-01-30'
-  updated: '2025-05-15'
+  updated: '2025-07-03'
 - id: 854
   text: L'économie mondiale mobilise chaque année 100 milliards de tonnes. Imaginons
     une seconde que l'économie soit devenue parfaitement circulaire, quelle proportion
@@ -35587,7 +35589,7 @@
   validator: 2
   validation_date: '2025-05-14'
   created: '2021-02-14'
-  updated: '2025-05-14'
+  updated: '2025-07-03'
 - id: 864
   text: 'Les principales causes de mortalité et de vie en mauvaise santé dans les
     pays riches sont, dans l''ordre :'
@@ -35987,7 +35989,7 @@
   validator: 2
   validation_date: '2021-03-30'
   created: '2021-03-23'
-  updated: '2025-05-15'
+  updated: '2025-07-03'
 - id: 873
   text: Combien de figurines Playmobil® a-t-on produites depuis leur arrivée sur le
     marché en 1974 ?
@@ -40045,7 +40047,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-05-14'
+  updated: '2025-07-03'
 - id: 969
   text: Quelle différence d'émissions entre un logement classe E et classe A ?
   hint: ''
@@ -40177,7 +40179,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-05-15'
+  updated: '2025-07-03'
 - id: 999
   text: Vrai ou faux ? Sur la décennie 2000-2019, la forêt amazonienne au Brésil a
     émis plus de carbone qu'elle n'en a capté.
@@ -41597,7 +41599,7 @@
   answer_source_scientific_url: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser?country=WORLD&fuel=Oil&indicator=OilProductsConsBySector
   answer_source_scientific_url_text: IAE, Energy Statistics Data Browser
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e50093c4.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c8db9840.PNG
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 57
@@ -41606,7 +41608,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-10'
+  updated: '2025-07-03'
 - id: 1032
   text: Tous les pétroles extraits dans le monde ont-ils les mêmes propriétés physicochimiques
     ?
@@ -42256,7 +42258,7 @@
   answer_choice_a: Mais non, jamais un glacier n'a recouvert Grenoble
   answer_choice_b: 1 m
   answer_choice_c: 300 m
-  answer_choice_d: 1500 m
+  answer_choice_d: 1200 m
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: À la même époque, il existait deux autres calottes polaires
@@ -42284,7 +42286,7 @@
   validator: 2
   validation_date: '2022-07-29'
   created: '2022-06-28'
-  updated: '2022-07-29'
+  updated: '2025-07-03'
 - id: 1048
   text: Le climat naturel de la Terre alterne entre périodes glaciaires et périodes
     chaudes, dites interglaciaires. Nous vivons actuellement dans une période interglaciaire.
