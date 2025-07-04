@@ -627,15 +627,15 @@
   has_audio: false
   authors:
   - 2
-  visibility: PUBLIC
+  visibility: HIDDEN
   validation_status: VALIDATED
   validator: 1
   validation_date: '2020-08-11'
-  publish: true
+  publish: false
   publish_date: '2020-08-14'
   spotlight: false
   created: '2020-08-04'
-  updated: '2024-02-22'
+  updated: '2025-07-03'
 - id: 18
   name: Le quiz de Laurent Testot
   slug: le-quiz-de-laurent-testot
@@ -3754,10 +3754,9 @@
   - 453
   - 461
   - 636
-  - 643
   - 784
   - 868
-  question_count: 11
+  question_count: 10
   tags:
   - 203
   difficulty_average: 1.8
@@ -3774,4 +3773,42 @@
   publish_date: null
   spotlight: true
   created: '2025-07-01'
-  updated: '2025-07-02'
+  updated: '2025-07-03'
+- id: 126
+  name: Burger Quiz Genvia
+  slug: burger-quiz-genvia
+  introduction: "<p><br />\r\nBienvenue au Burger Quiz de l'Anthropocène ! Focus du\
+    \ jour : le numérique. Prêts ? C'est parti !</p>"
+  conclusion: "<p>J'espère que ce quiz vous aura intéressé !<br />\r\nPour aller plus\
+    \ loin sur ce site, vous pouvez vous frotter aux quiz <a href=\"https://quizanthropocene.fr/quiz/fresque-du-numerique\"\
+    >Fresque du Numérique</a> et <a href=\"https://quizanthropocene.fr/quiz/le-numerique-est-il-ecologique\"\
+    >Le numérique est-il écologique ?</a><br />\r\nEt aussi avec plus de temps : L'atelier\
+    \ <a href=\"http://fresquedunumerique.org\">Fresque du Numérique</a> et le jeu\
+    \ <a href=\"https://www.econum.fr/\">Eco Num</a>.</p>"
+  questions:
+  - 76
+  - 577
+  - 829
+  - 832
+  - 853
+  - 863
+  - 872
+  - 968
+  - 971
+  question_count: 9
+  tags: []
+  difficulty_average: 1.8
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/578664ad.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2025-07-03'
+  updated: '2025-07-03'
