@@ -198,8 +198,6 @@
   conclusion: <p>Vous êtes prêts à enchaîner sur la partie 2 ?</p>
   questions:
   - 2
-  - 4
-  - 7
   - 9
   - 13
   - 41
@@ -207,9 +205,10 @@
   - 45
   - 47
   - 49
-  question_count: 10
+  - 59
+  question_count: 9
   tags: []
-  difficulty_average: 2.7
+  difficulty_average: 2.8
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000006-b5bb.jpg
   has_audio: false
@@ -223,7 +222,7 @@
   publish_date: '2020-07-18'
   spotlight: false
   created: '2020-07-08'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 7
   name: Le Pétrole - Partie 1
   slug: le-petrole-partie-1
@@ -609,19 +608,18 @@
   conclusion: ''
   questions:
   - 4
-  - 7
   - 41
   - 44
   - 59
   - 60
   - 61
   - 1089
-  question_count: 8
+  question_count: 7
   tags:
   - 6
   - 49
   - 76
-  difficulty_average: 2.6
+  difficulty_average: 2.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000017-b87e.jpg
   has_audio: false
@@ -635,7 +633,7 @@
   publish_date: '2020-08-14'
   spotlight: false
   created: '2020-08-04'
-  updated: '2025-07-03'
+  updated: '2025-07-04'
 - id: 18
   name: Le quiz de Laurent Testot
   slug: le-quiz-de-laurent-testot
@@ -2889,9 +2887,9 @@
     \ En particulier, de consulter les sources fournies pour chacune des questions,\
     \ et de jouer à d'autres quiz proposés sur le site.</p>"
   questions:
-  - 7
   - 13
   - 16
+  - 59
   - 61
   - 65
   - 69
@@ -2916,7 +2914,7 @@
   - 100
   - 225
   - 269
-  difficulty_average: 2.1
+  difficulty_average: 2.2
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/27b3d956.JPG
   has_audio: false
@@ -2930,7 +2928,7 @@
   publish_date: '2024-02-27'
   spotlight: false
   created: '2024-02-14'
-  updated: '2025-04-24'
+  updated: '2025-07-04'
 - id: 105
   name: Des toilettes à l'assiette
   slug: des-toilettes-a-lassiette

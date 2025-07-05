@@ -175,7 +175,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2025-05-16'
+  updated: '2025-07-04'
 - id: 5
   text: Combien d'animaux sont abattus en France pour l'alimentation ?
   hint: ''
@@ -210,7 +210,7 @@
   validator: null
   validation_date: null
   created: '2020-03-07'
-  updated: '2025-06-02'
+  updated: '2025-07-04'
 - id: 6
   text: L'effet de serre additionnel créé par les activités humaines emprisonne de
     l'énergie. Quelle proportion de celle-ci se retrouve absorbée par les océans ?
@@ -289,11 +289,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: VALIDATED
+  validation_status: REMOVED
   validator: 1
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2025-05-16'
+  updated: '2025-07-04'
 - id: 8
   text: Si on arrêtait aujourd'hui toutes nos émissions de gaz à effet de serre, combien
     de temps faudrait-il pour revenir au niveau antérieur à la révolution industrielle
@@ -1869,9 +1869,9 @@
   has_ordered_answers: true
   answer_explanation: Les massifs coralliens hébergent environ un quart des espèces
     marines et fournissent des services à 500 millions de personnes (nourriture, travaux
-    de protection côtière...). A une température de +1,5°C (qui sera atteinte aux
-    environ de 2040) ce sont près de 90% des coraux qui subiront des dégradations.
-    A +2°C la quasi totalité des coraux de la planète disparaitra.
+    de protection côtière...). Avec une hausse de 1,5°C, ce sont près de 90% des coraux
+    qui subiront des dégradations. A +2°C la quasi totalité des coraux de la planète
+    disparaitra.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://dai.ly/x45uiki
@@ -1893,7 +1893,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-07-02'
+  updated: '2025-07-04'
 - id: 45
   text: Quelle quantité de métaux lourds, solvants, boues toxiques et autres déchets
     industriels est déversée dans les eaux du monde chaque jour ?
@@ -2210,8 +2210,6 @@
   category: 1
   tags:
   - 25
-  - 142
-  - 172
   difficulty: 3
   language: FRENCH
   answer_choice_a: 1 200 km² (superficie du département du Val-d'Oise)
@@ -2220,13 +2218,29 @@
   answer_choice_d: 1 200 000 km² (superficie de l'Afrique du Sud)
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Soit 20% de la superficie de la France métropolitaine.
+  answer_explanation: "Soit une avancée de 38m2 par seconde. On estime que depuis\
+    \ 10 000 ans environ que le climat se réchauffe, le désert n'arrête pas de progresser\
+    \ sous l'effet conjugué de l'érosion et de la sécheresse. L'érosion et l'usure\
+    \ des salles fabrique du sable ; les grandes étendues de sable, comme les grands\
+    \ ergs du Sahara, sont dispersées par le vent ; les dunes progressent et menacent\
+    \ les cultures. Environ 40 % des terres émergées sont arides ou semi arides dont\
+    \ 10 à 20 % sont affectés par la désertification ou sont déjà sous forme de déserts.\
+    \ \r\nLa désertification progresse également pendant les périodes de sécheresse,\
+    \ notamment sur les bordures du Sahara au Sahel. Elle progresse rapidement notamment\
+    \ à cause de la mauvaise utilisation des sols. En Afrique on estime que 36 pays\
+    \ sont menacés par la désertification ou la dégradation forte des sols agricoles.\
+    \ 75 % des terres fertiles africaines seraient affectés par une perte de leur\
+    \ richesse en nutriments et donc de leur capacité à faire pousser des récoltes.\
+    \ \r\nEnfin, on estime que les sols arides et semi arides sont responsables de\
+    \ l'émission de 300 millions de tonnes de CO2 dans l'atmosphère chaque année sous\
+    \ l'effet de la désertification, ce qui représenterait environ 4 % du total des\
+    \ émissions de CO2."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.planetoscope.com/sols/273-avancee-des-deserts-dans-le-monde.html
-  answer_source_accessible_url_text: 'Planetoscope - Statistiques : Avanc�e des d�serts
+  answer_source_accessible_url_text: 'Planétoscope - Statistiques : Avanc�e des d�serts
     dans le monde'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -2236,11 +2250,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: 1
   validation_date: null
   created: '2020-03-10'
-  updated: '2025-05-17'
+  updated: '2025-07-04'
 - id: 53
   text: D'après l'ONU, le nombre de décès causés chaque année dans le monde par la
     pollution est de...
@@ -2478,8 +2492,8 @@
   created: '2020-03-10'
   updated: '2022-04-16'
 - id: 59
-  text: Entre 1970 et 2012, les populations de mammifères, d'oiseaux, de reptiles
-    et d'amphibiens ont reculé d'environ...
+  text: Au cours des 50 dernières années (1970 - 2020), les populations de mammifères,
+    d'oiseaux, de reptiles et d'amphibiens ont reculé d'environ...
   hint: ''
   type: QCM
   category: 4
@@ -2490,12 +2504,30 @@
   language: FRENCH
   answer_choice_a: 15%
   answer_choice_b: 30%
-  answer_choice_c: 60%
-  answer_choice_d: 75%
+  answer_choice_c: 75%
+  answer_choice_d: 90%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 58% pour être exact (rapport 'Planète vivante' du WWF). Ainsi
-    que 75% des insectes volants en Europe.
+  answer_explanation: "La biodiversité est le fondement de la vie humaine et de nos\
+    \ sociétés. Pourtant, tous les indicateurs permettant de suivre l'état de la nature\
+    \ à l'échelle mondiale révèlent un déclin.\r\nCette baisse de 73 % est basée sur\
+    \ l'indice Planète vivante (IPV). Cet indice est basé sur près de 35 000 tendances\
+    \ démographiques et 5 495 espèces d'amphibiens, d'oiseaux, de poissons, de mammifères\
+    \ et de reptiles. Les populations d'eau douce ont subi le plus fort déclin, avec\
+    \ une baisse de 85 %, suivies par les populations terrestres (69 %) et marines\
+    \ (56 %).\r\nAu niveau régional, les déclins les plus rapides ont été observés\
+    \ en Amérique latine et dans les Caraïbes - un déclin catastrophique de 95 % -\
+    \ suivis par l'Afrique (76 %) et l'Asie et le Pacifique (60 %). Les déclins ont\
+    \ été moins spectaculaires en Europe et en Asie centrale (35 %) et en Amérique\
+    \ du Nord (39 %), mais cela reflète le fait que des impacts à grande échelle sur\
+    \ la nature étaient déjà apparents avant 1970 dans ces régions : certaines populations\
+    \ se sont stabilisées ou ont augmenté grâce aux efforts de conservation et aux\
+    \ réintroductions d'espèces. \r\nLa dégradation et la perte d'habitat, dues principalement\
+    \ à notre système alimentaire, sont les menaces les plus signalées dans chaque\
+    \ région, suivies par la surexploitation, les espèces envahissantes et les maladies.\
+    \ Parmi les autres menaces figurent le changement climatique (le plus souvent\
+    \ cité en Amérique latine et dans les Caraïbes) et la pollution (en particulier\
+    \ en Amérique du Nord et dans la région Asie-Pacifique)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -2503,10 +2535,10 @@
   answer_source_accessible_url: https://www.futura-sciences.com/planete/actualites/developpement-durable-alerte-rouge-planete-humanite-terre-perdu-69-faune-sauvage-depuis-1970-55431/
   answer_source_accessible_url_text: 'Extinction des espèces : les Hommes sont plus
     dangereux que le réchauffement climatique'
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://livingplanet.panda.org/
+  answer_source_scientific_url_text: WWF Living Planet Report 2024
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000059-13aa.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/72c1c9f3.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -2515,7 +2547,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-02-15'
+  updated: '2025-07-04'
 - id: 60
   text: Parmi les familles suivantes, quelle est celle dont la proportion d'espèces
     menacées est la plus forte ?
@@ -4245,11 +4277,11 @@
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-04-26'
-  updated: '2022-11-07'
+  updated: '2025-07-04'
 - id: 101
   text: Dans le cadre du système européen de quotas d'émission, à combien environ
     se chiffrait la tonne de CO2 en 2019 ?
@@ -9056,6 +9088,7 @@
   category: 1
   tags:
   - 12
+  - 51
   difficulty: 4
   language: FRENCH
   answer_choice_a: 1 %
@@ -9083,7 +9116,7 @@
   validator: null
   validation_date: null
   created: '2020-04-26'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 224
   text: Quelle est la proportion de l'hydraulique dans la production d'électricité
     mondiale en 2015 ?
@@ -16756,11 +16789,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 414
   text: Quelle est la différence entre météo et climat ?
   hint: ''
@@ -17909,7 +17942,7 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 443
-  text: L'empreinte carbone moyenne d'un Français est de l'ordre de 12 tonnes / an.
+  text: L'empreinte carbone moyenne d'un Français est de l'ordre de 10 tonnes / an.
     Lequel de ces postes y contribue le plus ?
   hint: ''
   type: QCM
@@ -17944,7 +17977,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 444
   text: Quelle est le poids relatif de nos choix alimentaires dans l’empreinte carbone
     ?
@@ -18368,13 +18401,13 @@
   difficulty: 1
   language: FRENCH
   answer_choice_a: Beaucoup plus rapide
-  answer_choice_b: 'D''origine humaine '
+  answer_choice_b: D'origine humaine
   answer_choice_c: Intensité plus forte
   answer_choice_d: ''
-  answer_correct: ''
+  answer_correct: ab
   has_ordered_answers: false
-  answer_explanation: Réchauffement actuel est beaucoup plus rapide (à l’échelle du
-    demi-siècle vs de 10.000 ans), et d’origine humaine
+  answer_explanation: Le réchauffement actuel est beaucoup plus rapide (à l’échelle
+    du demi-siècle vs de 10.000 ans), et d’origine humaine
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -18393,7 +18426,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 456
   text: Quelles sont les causes naturelles de changement climatique ?
   hint: ''
@@ -18427,7 +18460,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 457
   text: Vrai ou faux ? Le climat, c’est la même chose que la météo.
   hint: ''
@@ -18470,7 +18503,8 @@
   created: '2020-06-24'
   updated: '2022-04-16'
 - id: 458
-  text: Avec le réchauffement climatique, il fera plus chaud partout et tout le temps
+  text: Vrai ou faux ? Avec le réchauffement climatique, il fera plus chaud partout
+    et tout le temps
   hint: ''
   type: VF
   category: 1
@@ -18505,7 +18539,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 459
   text: Vrai ou faux ? Les éruptions volcaniques refroidissent le climat.
   hint: Des éruptions volcaniques majeures sont possiblement la cause de l'extinction
@@ -18663,11 +18697,11 @@
   answer_extra_info: ''
   author: 7
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 463
   text: Sur tout le cycle de vie d'un smartphone, quelle est la part de l'énergie
     consommée due à son usage (charge) ? DOUBLON 392
@@ -18801,7 +18835,7 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Environ 20x à 40x plus sur toute la durée de sa vie
+  answer_explanation: Environ 20 à 40 fois plus sur toute la durée de sa vie
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -18820,7 +18854,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 467
   text: 'Vrai ou faux : les panneaux photovoltaïques sont la seule manière d’exploiter
     l’énergie solaire'
@@ -19071,8 +19105,8 @@
   created: '2020-06-24'
   updated: '2023-02-14'
 - id: 473
-  text: Combien de temps faut-il pour biodégrader complètement le plastique présent
-    dans l’océan ?
+  text: Combien de temps faut-il à du plastique pour se biodégrader complètement dans
+    l’océan ?
   hint: ''
   type: QCM
   category: 3
@@ -19109,7 +19143,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 474
   text: Combien déversons-nous chaque année de plastiques dans les océans ?
   hint: ''
@@ -19862,11 +19896,11 @@
     4 D’OÙ VIENNENT LES ÉMISSIONS FRANÇAISES AUJOURD’HUI ?
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 493
   text: A quoi correspond la célèbre "courbe en crosse de hockey" (hockey stick) ?
   hint: ''
@@ -20059,11 +20093,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 498
   text: En quelle année le pétrole est devenue l’énergie la plus utilisée au monde
     ?
@@ -20096,11 +20130,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 499
   text: Combien y a-t-il d’éoliennes au Danemark (à terre et en mer) ?
   hint: ''
@@ -20131,11 +20165,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 500
   text: Si la Chine supprimait du jour au lendemain tout son charbon, quelle serait
     sa place dans le classement mondial des émissions de CO2 ?
@@ -20200,11 +20234,8 @@
   answer_choice_d: ''
   answer_correct: ''
   has_ordered_answers: false
-  answer_explanation: 'Domestique 160,1 Mt CO2
-
-    International 77,7
-
-    Total : 237,8 MtCO2'
+  answer_explanation: "Domestique 160,1 Mt CO2\r\nInternational 77,7\r\nTotal : 237,8\
+    \ MtCO2"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -20219,11 +20250,11 @@
   answer_extra_info: di.unfccc + carbon atlas
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 502
   text: En quelle année le Venezuela est-il devenu le pays possédant officiellement
     les plus grandes réserves de pétrole au monde ?
@@ -20255,11 +20286,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 503
   text: Combien d’années les États-Unis sont restés le premier émetteur de CO2 mondial
     ?
@@ -20337,11 +20368,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 505
   text: En Antarctique, à quelle profondeur sous la glace faut-il creuser pour trouver
     des bulles d’air datant de l’an zéro ?
@@ -20411,11 +20442,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 507
   text: Sur les 40 dernières années, de combien a augmenté la durée de la saison des
     incendies ?
@@ -20448,11 +20479,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 508
   text: Quelle énergie renouvelable emploie le plus de personnes en France ?
   hint: ''
@@ -20485,11 +20516,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 509
   text: En France, quelle est la part des carburants routiers dans la consommation
     des produits pétroliers raffinés ?
@@ -20523,11 +20554,11 @@
   answer_extra_info: Chiffres clés énergie page 45
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 510
   text: En 2017, combien de litres de gazole ont été consommés par les bus de Toulouse
     Métropole ?
@@ -20598,11 +20629,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 512
   text: Si toute la glace de l’Antarctique fondait, de combien s’élèverait le niveau
     de la mer ?
@@ -20646,7 +20677,7 @@
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2023-02-25'
+  updated: '2025-07-04'
 - id: 513
   text: Quand a eu lieu le grand événement d’oxydation ?
   hint: ''
@@ -20679,11 +20710,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 514
   text: Combien de temps met un super tanker chargé pour s’arrêter lorsqu’il navigue
     en vitesse de croisière ?
@@ -20787,11 +20818,11 @@
   answer_extra_info: rapport du GIEC AR5
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 517
   text: En 2015 a eu lieu la COP21 à Paris. Que signifie l’acronyme COP ?
   hint: ''
@@ -20866,11 +20897,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 519
   text: Combien d’études scientifiques sont citées dans les derniers rapports d’évaluation
     du GIEC de 2021-22 ?
@@ -21143,11 +21174,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 526
   text: Pendant le premier confinement (printemps 2020), de combien ont baissé les
     émissions journalières de CO2 en France ?
@@ -21280,11 +21311,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 529
   text: Lequel de ces volumes est le plus grand ?
   hint: ''
@@ -21295,7 +21326,7 @@
   language: FRENCH
   answer_choice_a: Fonte de la calotte du Groenland
   answer_choice_b: Consommation pétrole pays xx
-  answer_choice_c: 'Émissions CO2 pays xx '
+  answer_choice_c: Émissions CO2 pays xx
   answer_choice_d: Conso Gaz ?
   answer_correct: ''
   has_ordered_answers: false
@@ -21314,11 +21345,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 530
   text: Quelle est la quantité de béton utilisée chaque année dans le monde ?
   hint: ''
@@ -21777,11 +21808,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 541
   text: Considérons toute l'énergie capturée par l'effet de serre additionnel d'origine
     humaine, et comparons-la à l’énergie libérée par l'explosion de la bombe nucléaire
@@ -21900,11 +21931,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 544
   text: L’hexafluorure de soufre (SF6) est un gaz à effet de serre 23000 fois plus
     puissant que le CO2, avec une durée de vie de 3200 ans. Quelle quantité la France
@@ -22470,11 +22501,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 558
   text: Quelle est l'unité de mesure de la radioactivité ?
   hint: ''
@@ -22506,11 +22537,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 559
   text: Quel minerai radioactif, contenu dans le sous-sol de la Terre, permet de produire
     l'énergie nucléaire ?
@@ -22542,11 +22573,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 560
   text: Par quelle technique produit-on de l'électricité dans une centrale nucléaire
     ?
@@ -22578,11 +22609,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 561
   text: Combien pèse une pastille d'uranium ?
   hint: ''
@@ -22613,11 +22644,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 562
   text: Comment s'appellent les tubes en métal dans lesquels sont enfilées les pastilles
     d'uranium ?
@@ -22685,11 +22716,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 564
   text: Quelle est la place du nucléaire dans la production française d'électricité
     ?
@@ -22723,11 +22754,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 565
   text: Quel organisme s'assure en France du respect des exigences de sûreté nucléaire
     ?
@@ -22759,11 +22790,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-07-04'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 566
   text: Dans le monde, combien y a-t-il de réacteurs nucléaires âgés de plus de 50
     ans ?
@@ -23531,11 +23562,11 @@
   answer_extra_info: ''
   author: 28
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 584
   text: La concentration de CO2 dans l'atmosphère est aujourd'hui autour de 410 ppm.
     Elle n'a pas été aussi élevée depuis...
@@ -23604,11 +23635,11 @@
   answer_extra_info: ''
   author: 28
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 586
   text: 'D''après les derniers modèles climatiques, on prévoit d''ici 20 ans une augmentation
     supplémentaire de la température moyenne sur terre  d''environ :'
@@ -23640,11 +23671,11 @@
   answer_extra_info: ''
   author: 28
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 587
   text: 'L’Observatoire pyrénéen du changement climatique a annoncé en 2019 la fin
     des glaciers des Pyrénées d''ici :'
@@ -23652,7 +23683,7 @@
   type: QCM
   category: 1
   tags:
-  - 16
+  - 268
   difficulty: 3
   language: FRENCH
   answer_choice_a: '2030'
@@ -23680,7 +23711,7 @@
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 588
   text: 'Si les changements climatiques se poursuivent, les scientifiques prévoient
     la disparition totale des coraux d''ici :'
@@ -23713,11 +23744,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 589
   text: Le stress hydrique est une situation dans laquelle la demande en eau excède
     les ressources disponibles. Combien de personnes y sont exposées sur terre ?
@@ -23797,7 +23828,7 @@
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 591
   text: Qu'appelle t-on la 6ème extinction ?
   hint: ''
@@ -23829,11 +23860,11 @@
   answer_extra_info: ''
   author: 28
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 592
   text: Quelle est la part des animaux sauvages dans la biomasse des mammifères terrestres
     ?
@@ -23866,11 +23897,11 @@
   answer_extra_info: ''
   author: 28
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 593
   text: La frange des 1% les riches du monde émettent autant de gaz à effet de serre
     que...
@@ -23906,7 +23937,7 @@
   validator: null
   validation_date: null
   created: '2020-09-22'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 594
   text: Quelle proportion du CO2 d'origine humaine provient des destructions de forêts
     causées par l'homme ?
@@ -24339,9 +24370,8 @@
   created: '2020-11-17'
   updated: '2022-04-16'
 - id: 604
-  text: 'Le charbon est à la source de 41% de l''électricité mondiale. Par rapport
-    au pétrole, et par unité d''énergie thermique dégagée, ce combustible émet en
-    ordre de grandeur : '
+  text: 'Par rapport au pétrole, et par unité d''énergie thermique dégagée, le charbon
+    émet en ordre de grandeur :'
   hint: ''
   type: QCM
   category: 5
@@ -24353,7 +24383,7 @@
   language: FRENCH
   answer_choice_a: La même quantité de Gaz à Effet de Serre (GES)
   answer_choice_b: 50% de GES en plus
-  answer_choice_c: 50% de GES en plus
+  answer_choice_c: 2 fois plus de GES
   answer_choice_d: 10 fois plus de GES
   answer_correct: c
   has_ordered_answers: false
@@ -24376,12 +24406,12 @@
   validator: null
   validation_date: null
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 605
   text: 'Une trajectoire impliquant un réchauffement de 2°C maximum en 2050, avec
     une croissance du PIB mondial de 2% par an d''ici là, suppose une réduction de
     l''intensité carbone du PIB; en ordre de grandeur, par rapport à 2010, elle doit
-    : '
+    :'
   hint: ''
   type: QCM
   category: 1
@@ -24411,11 +24441,11 @@
   answer_extra_info: ''
   author: 41
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   created: '2020-12-05'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 606
   text: De quel pourcentage de nos GES la déforestation et le changement d'affectation
     des sols sont-ils responsables ?
@@ -24447,11 +24477,11 @@
   answer_extra_info: ''
   author: 41
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 607
   text: 'En 2014, la part des émissions mondiales de CO2 couvertes par une tarification
     du carbone (taxe ou système de quotas) est de :'
@@ -24487,7 +24517,7 @@
   validator: null
   validation_date: null
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 608
   text: Saviez-vous que le simple fait d'épargner génère à terme de l'effet de serre
     ? Quelle quantité en moyenne pour un Français ?
@@ -24725,11 +24755,11 @@
   answer_extra_info: ''
   author: 22
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-11-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 614
   text: Brûler 50kg de déchets verts, cela équivaut en termes d'émissions de particules
     fines à parcourir avec un véhicule diesel récent...
@@ -26269,7 +26299,7 @@
   validator: null
   validation_date: null
   created: '2020-11-28'
-  updated: '2024-03-19'
+  updated: '2025-07-04'
 - id: 651
   text: Vrai ou Faux ? En cumulé depuis un siècle, la France a émis plus de CO2 que
     tous les volcans de la terre sur la même période.
@@ -27540,11 +27570,11 @@
   answer_extra_info: https://www.boursorama.com/bourse/matieres-premieres/cours/8xBRN/
   author: 22
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-12-15'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 681
   text: Dans quel endroit est stocké définitivement le CO2 ?
   hint: ''
@@ -27575,11 +27605,11 @@
   answer_extra_info: ''
   author: 5
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2020-12-19'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 682
   text: Avec le Covid-19, l'année 2020 a vu une baisse des émissions mondiales de
     CO2. De combien ?
@@ -28323,12 +28353,9 @@
   answer_choice_d: '15'
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'Ou encore 2.5 tonnes de CO2 pour 1000 litres de kérosène.
-
-    C’est-à-dire que la contribution du consommateur représente plus de 83% des émissions
-    et celle du producteur 17%.
-
-    Elle est donc déterminante.'
+  answer_explanation: "Ou encore 2.5 tonnes de CO2 pour 1000 litres de kérosène.\r\
+    \nC’est-à-dire que la contribution du consommateur représente plus de 83% des\
+    \ émissions et celle du producteur 17%.\r\nElle est donc déterminante."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28344,11 +28371,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 698
   text: 'Quelle est la durée de persistance du CO2 dans l''atmosphère ? '
   hint: Oh la la
@@ -28409,13 +28436,9 @@
   answer_choice_d: x 36500
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: '36500 FOIS PLUS.
-
-    Si on considère qu’un vol LC AR c’est peu ou prou 24 heures, le CO2 reste 100
-    ans :
-
-    soit 365 x 100 = 36500 fois plus de temps dans l’atmosphère que la durée du voyage
-    AR.'
+  answer_explanation: "36500 FOIS PLUS.\r\nSi on considère qu’un vol LC AR c’est peu\
+    \ ou prou 24 heures, le CO2 reste 100 ans :\r\nsoit 365 x 100 = 36500 fois plus\
+    \ de temps dans l’atmosphère que la durée du voyage AR."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28430,11 +28453,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 700
   text: Quelle a été la part de l'aviation dans les émissions mondiale de CO2 en 2019
     ?
@@ -28531,7 +28554,7 @@
   created: '2021-01-06'
   updated: '2023-02-09'
 - id: 702
-  text: 'Quel est le poids d''un A380 au décollage ? '
+  text: Quel est le poids d'un A380 au décollage ?
   hint: 'MTOW : Max Take Off Weight'
   type: QCM
   category: 5
@@ -28547,10 +28570,9 @@
   answer_choice_d: '1000'
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: '550 tonnes au décollage, et selon les versions il peut même
-    monter à 575 tonnes.
-
-    Dont 240 tonnes (=300m3) de carburant et 50 tonnes de passagers.'
+  answer_explanation: "550 tonnes au décollage, et selon les versions il peut même\
+    \ monter à 575 tonnes.\r\nDont 240 tonnes (=300m3) de carburant et 50 tonnes de\
+    \ passagers."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28565,13 +28587,13 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 703
-  text: 'Quel est le poids du carburant d''un A380 au décollage ? '
+  text: Quel est le poids du carburant d'un A380 au décollage ?
   hint: Quelques citernes que les aéroports voudraient bien faire disparaitre des
     yeux des voyageurs
   type: QCM
@@ -28588,11 +28610,8 @@
   answer_choice_d: '840'
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: '240 tonnes, soit 300 m3
-
-    et même 320 m3 de capacité maximum.
-
-    Total fuel = Roulage + Voyage + Réserve'
+  answer_explanation: "240 tonnes, soit 300 m3\r\net même 320 m3 de capacité maximum.\r\
+    \nTotal fuel = Roulage + Voyage + Réserve"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28607,13 +28626,13 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 704
-  text: 'Quel est le poids des passagers d''un A380 au décollage ? '
+  text: Quel est le poids des passagers d'un A380 au décollage ?
   hint: à 100 kg le passager
   type: QCM
   category: 5
@@ -28629,12 +28648,9 @@
   answer_choice_d: '50'
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: '500 passagers => 50 tonnes
-
-    Selon les versions entre 400 et 550 passagers et un maximum de 853
-
-    Par convention on considère que le poids moyen d’un passager (Pax) est de 100kg
-    (yc bagages)'
+  answer_explanation: "500 passagers => 50 tonnes\r\nSelon les versions entre 400\
+    \ et 550 passagers et un maximum de 853\r\nPar convention on considère que le\
+    \ poids moyen d’un passager (Pax) est de 100kg (yc bagages)"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28649,13 +28665,13 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 705
-  text: 'Quel est le poids moyen relatif des passagers / poids total décollage ? '
+  text: Quel est le poids moyen relatif des passagers / poids total décollage ?
   hint: à 100 kg le passager
   type: QCM
   category: 5
@@ -28687,13 +28703,13 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 706
-  text: 'Quel est le poids moyen relatif du kérosène / poids total décollage ? '
+  text: Quel est le poids moyen relatif du kérosène / poids total décollage ?
   hint: Quelques citernes que les aéroports voudraient bien faire disparaitre des
     yeux des voyageurs
   type: QCM
@@ -28725,14 +28741,14 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 707
-  text: 'Quel est le poids moyen relatif de l''avion à vide / poids total décollage
-    ? '
+  text: Quel est le poids moyen relatif de l'avion à vide / poids total décollage
+    ?
   hint: 'OEW : Operating Empty Weight'
   type: QCM
   category: 5
@@ -28763,11 +28779,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 708
   text: A380 sur un vol AR, le poids des émissions de "CO2" rapportées au poids de
     l'avion ?
@@ -28780,31 +28796,19 @@
   - 217
   difficulty: 3
   language: FRENCH
-  answer_choice_a: ' x 1'
+  answer_choice_a: x 1
   answer_choice_b: x 2
   answer_choice_c: x 6
   answer_choice_d: x 15
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: 'Pour un AR en A380 les émissions de CO2 s’élèvent à :
-
-    6 fois plus que le poids de l’avion à vide…
-
-    Pour ceux qui aiment les détails :
-
-    300 m3 (=240 tonnes) de kérosène à 3 tonnes de CO2 / m3
-
-    => 900 tonnes de CO2 ou
-
-    =>1800 tonnes Aller-retour
-
-    Rapporté au poids de l’avion à vide 275 tonnes
-
-    1800 / 275 = 6.5
-
-    Avec un peu moins d’une rotation par jour, soit 275 par an,
-
-    un seul avion LC de 275 tonnes émettra « 500 000 tonnes de CO2 / an ».'
+  answer_explanation: "Pour un AR en A380 les émissions de CO2 s’élèvent à :\r\n6\
+    \ fois plus que le poids de l’avion à vide…\r\nPour ceux qui aiment les détails\
+    \ :\r\n300 m3 (=240 tonnes) de kérosène à 3 tonnes de CO2 / m3\r\n=> 900 tonnes\
+    \ de CO2 ou\r\n=>1800 tonnes Aller-retour\r\nRapporté au poids de l’avion à vide\
+    \ 275 tonnes\r\n1800 / 275 = 6.5\r\nAvec un peu moins d’une rotation par jour,\
+    \ soit 275 par an,\r\nun seul avion LC de 275 tonnes émettra « 500 000 tonnes\
+    \ de CO2 / an »."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28819,11 +28823,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 709
   text: A380 sur un vol AR, le poids des émissions de « CO2eq » rapportées au poids
     de l'avion ?
@@ -28836,24 +28840,18 @@
   - 218
   difficulty: 2
   language: FRENCH
-  answer_choice_a: ' x 1'
-  answer_choice_b: ' x 6'
-  answer_choice_c: ' x 12'
+  answer_choice_a: x 1
+  answer_choice_b: x 6
+  answer_choice_c: x 12
   answer_choice_d: x 18
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: '18 fois plus de CO2 que le poids propre de l’avion… !
-
-    CO2eq = CO2 + effets non CO2 = 3 x CO2
-
-    Comme le CO2 représente 6 fois le poids à vide de l’avion sur un AR
-
-    En termes de réchauffement climatique les émissions de CO2eq représenteront donc
-    6 x 3 = 18 fois le poids de l’avion à vide.
-
-    Ou 1800 x 3 = 5400 tonnes CO2eq pour chaque AR.
-
-    Par année 500 000 x 3 = 1 500 000 tonnes CO2eq'
+  answer_explanation: "18 fois plus de CO2 que le poids propre de l’avion… !\r\nCO2eq\
+    \ = CO2 + effets non CO2 = 3 x CO2\r\nComme le CO2 représente 6 fois le poids\
+    \ à vide de l’avion sur un AR\r\nEn termes de réchauffement climatique les émissions\
+    \ de CO2eq représenteront donc 6 x 3 = 18 fois le poids de l’avion à vide.\r\n\
+    Ou 1800 x 3 = 5400 tonnes CO2eq pour chaque AR.\r\nPar année 500 000 x 3 = 1 500\
+    \ 000 tonnes CO2eq"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28868,11 +28866,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 710
   text: Quelle a été la croissance du trafic aérien en 2018 ?
   hint: C'est plus qu'à la banque...
@@ -28933,18 +28931,13 @@
   answer_choice_d: '100000'
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'En 2019 : 24000 avions commerciaux
-
-    Une croissance sur les 20 prochaines années Stratosphérique ! Le marché n’en finit
-    pas de prendre de l’altitude, avec une demande mondiale estimée à 39 210 avions
-    neufs sur les vingt prochaines années (2019-2038) selon Airbus.
-
-    Conséquence : la flotte va plus que doubler à horizon 2038, à près de 48 000 appareils.
-
-    Cà c’était les prévisions pré-COVID… !
-
-    Sauf miracle le transport aérien est dans les starting-blocks pour redécoller
-    ASAP'
+  answer_explanation: "En 2019 : 24000 avions commerciaux\r\nUne croissance sur les\
+    \ 20 prochaines années Stratosphérique ! Le marché n’en finit pas de prendre de\
+    \ l’altitude, avec une demande mondiale estimée à 39 210 avions neufs sur les\
+    \ vingt prochaines années (2019-2038) selon Airbus.\r\nConséquence : la flotte\
+    \ va plus que doubler à horizon 2038, à près de 48 000 appareils.\r\nCà c’était\
+    \ les prévisions pré-COVID… !\r\nSauf miracle le transport aérien est dans les\
+    \ starting-blocks pour redécoller ASAP"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -28960,11 +28953,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 712
   text: Combien y a-t-il d'aéroports dans le monde (chiffres de 2019) ?
   hint: 195 pays dans le monde, faites le compte...
@@ -29032,17 +29025,12 @@
   answer_choice_d: '80'
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'D’une capacité de 80 millions de passagers, en 2018, l’aéroport
-    Charles de Gaulle a accueilli 72,2 millions de passagers (+4 % par rapport à 2017)
-
-    Avec le terminal 4 la capacité passerait à 115 millions de passager à l''horizon
-    2032
-
-    un doublement du nombre de passagers est anticipé d’ici 2040.
-
-    En Juillet 2020, l’Autorité Environnementale a rendu un avis très défavorable.
-
-    Avec la COVID, la pertinence du projet est remise en cause, mais pas annulée.'
+  answer_explanation: "D’une capacité de 80 millions de passagers, en 2018, l’aéroport\
+    \ Charles de Gaulle a accueilli 72,2 millions de passagers (+4 % par rapport à\
+    \ 2017)\r\nAvec le terminal 4 la capacité passerait à 115 millions de passager\
+    \ à l'horizon 2032\r\nun doublement du nombre de passagers est anticipé d’ici\
+    \ 2040.\r\nEn Juillet 2020, l’Autorité Environnementale a rendu un avis très défavorable.\r\
+    \nAvec la COVID, la pertinence du projet est remise en cause, mais pas annulée."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29058,11 +29046,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 714
   text: En 2018, quel a été le nombre de vols commerciaux dans le monde ?
   hint: Pour le transport aérien, le terrain de jeux est sans limites, plus qu'un
@@ -29127,14 +29115,11 @@
   answer_choice_d: '5100'
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: '1300 compagnies.
-
-    Les compagnies à bas coûts contribuent à une très forte intensification aérienne
-    en Europe : à ce jour, elles représentent 25 % du trafic mondial et plus de 40
-    % du trafic en Europe.
-
-    Elles ont surtout influencé les prix des autres compagnies, les contraignant à
-    réduire leurs coûts pour offrir des billets moins chers.'
+  answer_explanation: "1300 compagnies.\r\nLes compagnies à bas coûts contribuent\
+    \ à une très forte intensification aérienne en Europe : à ce jour, elles représentent\
+    \ 25 % du trafic mondial et plus de 40 % du trafic en Europe.\r\nElles ont surtout\
+    \ influencé les prix des autres compagnies, les contraignant à réduire leurs coûts\
+    \ pour offrir des billets moins chers."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29150,13 +29135,13 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 716
-  text: 'Quelle était la consommation moyenne de la flotte Air France en 2018 ? '
+  text: Quelle était la consommation moyenne de la flotte Air France en 2018 ?
   hint: Presque autant qu'une petite voiture
   type: QCM
   category: 5
@@ -29172,11 +29157,11 @@
   answer_choice_d: 7 litres/100 km
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: "Cela suppose que l’avion soit plein. Pour les vols courte distance\
-    \ (<1000 km), cela peut 7 litres/100 km/passager. Une petite voiture avec 2 passagers\
-    \ consomme moins que l'avion - mais les distances à parcourir ne sont pas comparables.\
-    \ Ces chiffres sont pour Air France, dont la flotte est l'une des plus modernes\
-    \ au monde, avec une consommation au km moindre que la moyenne mondiale. \n\n\n"
+  answer_explanation: Cela suppose que l’avion soit plein. Pour les vols courte distance
+    (<1000 km), cela peut 7 litres/100 km/passager. Une petite voiture avec 2 passagers
+    consomme moins que l'avion - mais les distances à parcourir ne sont pas comparables.
+    Ces chiffres sont pour Air France, dont la flotte est l'une des plus modernes
+    au monde, avec une consommation au km moindre que la moyenne mondiale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29191,11 +29176,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 717
   text: Combien de nouveaux aéroports y a-t-il à l'étude dans le monde ?
   hint: ''
@@ -29213,21 +29198,14 @@
   answer_choice_d: 1,150
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: 'Actuellement, 423 nouveaux aéroports sont prévus ou sont en
-    construction.
-
-    223 d''entre eux se trouvent dans la seule région Asie-Pacifique et
-
-    58 en Europe.
-
-    Pistes supplémentaires considérées comme numéro 121 dans le monde (28 en Europe)
-    sont également en projet ou en construction.
-
-    Les résidents protestent contre bon nombre de ces projets pour une multitude de
-    raisons, ainsi la réalisation de ces plans est toujours contestée.
-
-    Ce que le diagramme ne montre pas, ce sont 205 autres extensions de piste prévues,
-    262 nouveaux terminaux et 175 extensions de terminaux.'
+  answer_explanation: "Actuellement, 423 nouveaux aéroports sont prévus ou sont en\
+    \ construction.\r\n223 d'entre eux se trouvent dans la seule région Asie-Pacifique\
+    \ et\r\n58 en Europe.\r\nPistes supplémentaires considérées comme numéro 121 dans\
+    \ le monde (28 en Europe) sont également en projet ou en construction.\r\nLes\
+    \ résidents protestent contre bon nombre de ces projets pour une multitude de\
+    \ raisons, ainsi la réalisation de ces plans est toujours contestée.\r\nCe que\
+    \ le diagramme ne montre pas, ce sont 205 autres extensions de piste prévues,\
+    \ 262 nouveaux terminaux et 175 extensions de terminaux."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29242,11 +29220,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 718
   text: Entre la période 1961-1990 et 2046-2065, quelle évolution prévoit-on pour
     la quantité d'eau circulant dans les rivières françaises ?
@@ -29402,20 +29380,13 @@
   answer_choice_d: '50'
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'Et oui seulement 0.5 kWh.
-
-    Cad que 1 litre de kérosène (10 kWh) contient 20 fois plus d’énergie que n’en
-    dépense un grand sportif chaque jour.
-
-    Dans la vie courante notre activité physique est bien moindre et plus proche de
-    0.1 kWh par jour.
-
-    Cad que 1 litre de kérosène à 0.35€ (1.5€ pour l’essence) contient autant d’énergie
-    que tout être humain dépense en 100 jours.
-
-    Détail pour un sportif :
-
-    90 kg (avec sac à dos) x 9.81 x 2000 m de dénivelé / 3600 000 J/kWh = 0.5 kWh'
+  answer_explanation: "Et oui seulement 0.5 kWh.\r\nCad que 1 litre de kérosène (10\
+    \ kWh) contient 20 fois plus d’énergie que n’en dépense un grand sportif chaque\
+    \ jour.\r\nDans la vie courante notre activité physique est bien moindre et plus\
+    \ proche de 0.1 kWh par jour.\r\nCad que 1 litre de kérosène à 0.35€ (1.5€ pour\
+    \ l’essence) contient autant d’énergie que tout être humain dépense en 100 jours.\r\
+    \nDétail pour un sportif :\r\n90 kg (avec sac à dos) x 9.81 x 2000 m de dénivelé\
+    \ / 3600 000 J/kWh = 0.5 kWh"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29430,11 +29401,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 722
   text: Quel est le nombre d'hélicoptère dans le Monde en 2016 ?
   hint: Similaire aux avions
@@ -29452,11 +29423,10 @@
   answer_choice_d: '100000'
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: '25000 en 2016 et pourrait passer à 37400 en 2036.
-
-    Le marché des hélicoptères civils et parapublics va représenter un montant de
-    370 milliards d''euros ( 125 neuf + 245 Maintenance) sur la période 2017-2036,
-    selon une étude de marché d''Airbus Helicopters.'
+  answer_explanation: "25000 en 2016 et pourrait passer à 37400 en 2036.\r\nLe marché\
+    \ des hélicoptères civils et parapublics va représenter un montant de 370 milliards\
+    \ d'euros ( 125 neuf + 245 Maintenance) sur la période 2017-2036, selon une étude\
+    \ de marché d'Airbus Helicopters."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29472,13 +29442,13 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 723
-  text: 'Hélicoptère DRAGON : Quelle consommation par km ? '
+  text: 'Hélicoptère DRAGON : Quelle consommation par km ?'
   hint: Juste un peu moins que les hommes volants
   type: QCM
   category: 5
@@ -29494,11 +29464,8 @@
   answer_choice_d: '8.6'
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: '1.82 litre / km ou encore 182 litres / 100 km
-
-    Soit 36 voitures à 5 litres au 100.
-
-    On comprend vite l’intérêt des drones…'
+  answer_explanation: "1.82 litre / km ou encore 182 litres / 100 km\r\nSoit 36 voitures\
+    \ à 5 litres au 100.\r\nOn comprend vite l’intérêt des drones…"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29514,11 +29481,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 724
   text: 'Homme volant : Quelle quantité de carburant Frankie Zapata à utilisé pour
     traverser la Manche ? '
@@ -29628,21 +29595,14 @@
   answer_choice_d: '1446'
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: '1122 passagers pour un vol humanitaire de El Al, opération
-    « Salomon » en 1991 pour rapatrier quelques 14325 personnes depuis l’Ethiopie
-    Addis Abeba vers tel Aviv.
-
-    L’opération qui devait durer 2 semaines à été bouclée en 48 heures.
-
-    Pour la petite histoire le vol de 2500 km sur un B747-400 (660 places) serait
-    parti avec 1120 et arrivé avec 1124 passagers.
-
-    2 bébés seraient nés pendant le transport…
-
-    L’histoire ne dit pas si la compagnie a reçu des plaintes pour manque de place
-    pour déployer ses jambes.
-
-    Il semblerait selon certains que Ryanair pourrait s’inspirer de ce vol historique.'
+  answer_explanation: "1122 passagers pour un vol humanitaire de El Al, opération\
+    \ « Salomon » en 1991 pour rapatrier quelques 14325 personnes depuis l’Ethiopie\
+    \ Addis Abeba vers tel Aviv.\r\nL’opération qui devait durer 2 semaines à été\
+    \ bouclée en 48 heures.\r\nPour la petite histoire le vol de 2500 km sur un B747-400\
+    \ (660 places) serait parti avec 1120 et arrivé avec 1124 passagers.\r\n2 bébés\
+    \ seraient nés pendant le transport…\r\nL’histoire ne dit pas si la compagnie\
+    \ a reçu des plaintes pour manque de place pour déployer ses jambes.\r\nIl semblerait\
+    \ selon certains que Ryanair pourrait s’inspirer de ce vol historique."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://www.youtube.com/embed/IKd-x4dutrE
@@ -29658,11 +29618,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 727
   text: L'effet rebond est de partout ?
   hint: Souvent considéré comme un petit effet pervers
@@ -29682,23 +29642,13 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: 'Bien souvent l''homme a cherché à améliorer les process, et
-    l''efficacité des systèmes.
-
-    Louable démarche.
-
-    Au fil du temps il est parvenu à faire baisser la consommation unitaire.
-
-    Par exemple en 1960 une voiture pouvait consommer 9 litres pour 100 km, et aujourd''hui
-    4.5 Litre.
-
-    Dans l''intervalle le nombre de voitures a explosé il a été multiplié par 10.
-
-    C''était prévisible me direz-vous.
-
-    Le résultat est que la pollution engendrée a été multipliée par un ordre de 5.
-
-    C''est ce qu''on appelle le paradoxe de Jevons.'
+  answer_explanation: "Bien souvent l'homme a cherché à améliorer les process, et\
+    \ l'efficacité des systèmes.\r\nLouable démarche.\r\nAu fil du temps il est parvenu\
+    \ à faire baisser la consommation unitaire.\r\nPar exemple en 1960 une voiture\
+    \ pouvait consommer 9 litres pour 100 km, et aujourd'hui 4.5 Litre.\r\nDans l'intervalle\
+    \ le nombre de voitures a explosé il a été multiplié par 10.\r\nC'était prévisible\
+    \ me direz-vous.\r\nLe résultat est que la pollution engendrée a été multipliée\
+    \ par un ordre de 5.\r\nC'est ce qu'on appelle le paradoxe de Jevons."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29713,11 +29663,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 728
   text: 'Parmi ces innovations, lesquelles ont généré un effet rebond ? '
   hint: Vous allez bien en trouver 3 ?
@@ -29834,20 +29784,12 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: 'Le TA paye très peu ou pas de taxes, il paye aussi des "Contributions
-    et Redevances".
-
-    Mais ces contributions et redevances correspondent à des services qu''utilise
-    le TA.
-
-    Par exemple :
-
-    Contributions Aviation civile DGAC, Quota carbone européen, nuisance sonores…
-
-    Redevance pour la navigation aérienne, service de sécurité, contrôle de passagers,
-    aéroport
-
-    Dans ses communications le transport aérien regroupe tout sous le vocable de taxes.'
+  answer_explanation: "Le TA paye très peu ou pas de taxes, il paye aussi des \"Contributions\
+    \ et Redevances\".\r\nMais ces contributions et redevances correspondent à des\
+    \ services qu'utilise le TA.\r\nPar exemple :\r\nContributions Aviation civile\
+    \ DGAC, Quota carbone européen, nuisance sonores…\r\nRedevance pour la navigation\
+    \ aérienne, service de sécurité, contrôle de passagers, aéroport\r\nDans ses communications\
+    \ le transport aérien regroupe tout sous le vocable de taxes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -29863,11 +29805,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 731
   text: Quel est le taux de TVA appliqué sur le kérosène ? (question piège)
   hint: Question piège
@@ -30000,15 +29942,11 @@
   answer_choice_d: 70%
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'En France la TICPE, c''est 69 c€ par litre.
-
-    Si on compare sur un litre d''essence hors TVA à la pompe environ 1€ :
-
-    soit 1.2€ TTC, dont 0.2€ de TVA, la TICPE à 0.69 € c''est 3,5 fois plus
-
-    La bonne réponse serait donc plutôt 70%, bien que ce ne soit pas comparable puisque
-    le « TA » en est exonéré depuis 75 ans, et que la TVA pour les vol intérieur se
-    limite à 10%.'
+  answer_explanation: "En France la TICPE, c'est 69 c€ par litre.\r\nSi on compare\
+    \ sur un litre d'essence hors TVA à la pompe environ 1€ :\r\nsoit 1.2€ TTC, dont\
+    \ 0.2€ de TVA, la TICPE à 0.69 € c'est 3,5 fois plus\r\nLa bonne réponse serait\
+    \ donc plutôt 70%, bien que ce ne soit pas comparable puisque le « TA » en est\
+    \ exonéré depuis 75 ans, et que la TVA pour les vol intérieur se limite à 10%."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30024,11 +29962,11 @@
   answer_extra_info: https://www.ouest-france.fr/leditiondusoir/2018-01-18/pourquoi-le-kerosene-est-il-completement-detaxe-83f0840c-e9bc-4e3b-ab81-83495ba02ee5
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 734
   text: Quel est la part de coût du kérosène dans le prix d'un billet d'avion ?
   hint: Pas assez essentiel
@@ -30889,7 +30827,7 @@
   created: '2021-01-11'
   updated: '2024-03-05'
 - id: 753
-  text: 'Quelles émissions maxi atteintes par des individus de l’aviation privée ? '
+  text: Quelles émissions maxi atteintes par des individus de l’aviation privée ?
   hint: à peine croyable
   type: QCM
   category: 2
@@ -30920,11 +30858,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-11'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 754
   text: Quelle est la part du Fret ( vs passagers ) dans l’aviation commerciale en
     2018 ?
@@ -31532,8 +31470,8 @@
   created: '2021-01-17'
   updated: '2024-03-05'
 - id: 768
-  text: Si l’on prend en compte tout le cycle de vie (construction, utilisation, démantellement),
-    quelle est la source d'énergie la moins carbonée, en France ?
+  text: Si l’on prend en compte tout le cycle de vie (construction, utilisation, démantelement),
+    quelles sont les deux source d'énergie les moins carbonées en France ?
   hint: ''
   type: QCM-RM
   category: 2
@@ -31568,7 +31506,7 @@
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 769
   text: A propos de l’effet de serre, est-il vrai de dire que...
   hint: ''
@@ -31770,11 +31708,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 774
   text: Efficacité énergétique d’une voiture 100% Hydrogène ?
   hint: ''
@@ -31872,14 +31810,10 @@
   answer_choice_d: 143 Mnt
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: '70 Mnt d’H2.
-
-    Utilisées principalement pour la production d’engrais et le raffinage du pétrole
-    ‒ a engendré l’émission de 800 millions de tonnes de CO2,
-
-    Un chiffre comparable aux émissions du transport aérien commercial
-
-    (918 millions de tonnes en 2018).'
+  answer_explanation: "70 Mnt d’H2.\r\nUtilisées principalement pour la production\
+    \ d’engrais et le raffinage du pétrole ‒ a engendré l’émission de 800 millions\
+    \ de tonnes de CO2,\r\nUn chiffre comparable aux émissions du transport aérien\
+    \ commercial\r\n(918 millions de tonnes en 2018)."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31895,11 +31829,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 777
   text: Si l’aéroport de Toulouse devait fournir de l’hydrogène, de combien d’éoliennes
     (ou de panneaux solaires) en km² devrait-il disposer pour fournir les 3.8 millions
@@ -31967,16 +31901,10 @@
   answer_choice_d: 50000 éoliennes
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: '5000 éoliennes – 14000 éoliennes – 20000 éoliennes – 50000
-    éoliennes
-
-    Les chercheurs ont calculé qu''il faudrait entre
-
-    10 et 18.000 éoliennes, soit l''équivalent d''un département français,
-
-    1 000 km² de panneaux photovoltaïques, ou
-
-    16 réacteurs nucléaires.'
+  answer_explanation: "5000 éoliennes – 14000 éoliennes – 20000 éoliennes – 50000\
+    \ éoliennes\r\nLes chercheurs ont calculé qu'il faudrait entre\r\n10 et 18.000\
+    \ éoliennes, soit l'équivalent d'un département français,\r\n1 000 km² de panneaux\
+    \ photovoltaïques, ou\r\n16 réacteurs nucléaires."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -31992,11 +31920,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 779
   text: Du fait d'un trop fort pompage des eaux souterraines, on a observé un affaissement
     de la surface du sol dans l'ensemble de la vallée de San Joaquin aux Etats-Unis.
@@ -32117,11 +32045,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-17'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 782
   text: Copy of Quel volume d’H2 gazeux pour 1 litre d’essence ?
   hint: ''
@@ -33037,15 +32965,14 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 803
-  text: 'Le smog est une brume brunâtre provenant d''un mélange de polluants dans
-    l''atmosphère. Quand et comment s''est-on rendu compte qu''il était mauvais pour
-    la santé ? '
+  text: Le smog est une brume brunâtre provenant d'un mélange de polluants dans l'atmosphère.
+    Quand et comment s'est-on rendu compte qu'il était mauvais pour la santé ?
   hint: ''
   type: QCM
   category: 3
@@ -33080,7 +33007,7 @@
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 804
   text: Vrai ou faux ? Avec le changement climatique, on s'attend à ce que des cyclones
     viennent frapper les côtes françaises dans les années à venir
@@ -33218,11 +33145,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 808
   text: D'ici 2050, on prévoit qu'il y aura plus de déchets plastiques que de poissons
     dans les océans. Vrai ou faux ?
@@ -33261,7 +33188,7 @@
   created: '2021-01-06'
   updated: '2022-04-16'
 - id: 809
-  text: Vrai ou faux ? Les poissons ne sont pas gênés par le réchauffement climatique.
+  text: Vrai ou faux ? Les poissons ne sont pas gênés par le réchauffement climatique
   hint: ''
   type: VF
   category: 1
@@ -33295,7 +33222,7 @@
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 810
   text: Vrai ou faux ? C'est triste de voir des espèces se réduire ou disparaître,
     mais ça n'a pas d'importance réelle pour l'homme.
@@ -33331,10 +33258,10 @@
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 811
-  text: Vrai ou faux ? Les forêts sont importantes pour réguler nos ressources en
-    eau
+  text: Vrai ou faux ? Les forêts jouent un rôle important pour réguler nos ressources
+    en eau
   hint: ''
   type: VF
   category: 1
@@ -33372,7 +33299,7 @@
   validator: null
   validation_date: null
   created: '2021-01-06'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 812
   text: Parmi toute l’eau présente sur Terre, quel est le pourcentage d’eau douce
     accessible ?
@@ -33389,10 +33316,10 @@
   answer_choice_d: 70%
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: 'Notre « Planète bleue » se compose à 70% d’eau. 97% est de
-    l’eau salée et seulement 3% de l’eau douce, plus ou moins accessible. Cette eau
-    douce est stockée sous la forme de neige ou de glace (69%), dans les aquifères
-    (30%) ou sous forme d''eau de surface liquide (rivières, lacs, etc.) (1%). '
+  answer_explanation: Notre « Planète bleue » se compose à 70% d’eau. 97% est de l’eau
+    salée et seulement 3% de l’eau douce, plus ou moins accessible. Cette eau douce
+    est stockée sous la forme de neige ou de glace (69%), dans les aquifères (30%)
+    ou sous forme d'eau de surface liquide (rivières, lacs, etc.) (1%).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -33407,11 +33334,11 @@
   answer_extra_info: ''
   author: 33
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-09'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 813
   text: De combien a diminué le volume annuel des ressources en eau douce disponibles
     par personne à l’échelle mondiale au cours de ces vingt dernières années ?
@@ -34311,9 +34238,9 @@
   created: '2021-02-01'
   updated: '2022-04-16'
 - id: 834
-  text: 'Combien y a-t-il de grands barrages dans le monde (hauteur de mur supérieure
+  text: Combien y a-t-il de grands barrages dans le monde (hauteur de mur supérieure
     à 15m ou comprise entre 5m et 15m avec un réservoir de plus de 3 millions de m3)
-    ? '
+    ?
   hint: ''
   type: QCM
   category: 7
@@ -34346,11 +34273,11 @@
   answer_extra_info: ''
   author: 33
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-02-01'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 835
   text: Quel est le pays qui compte le plus de grands barrages (hauteur de mur supérieure
     à 15m ou comprise entre 5m et 15m avec un réservoir de plus de 3 millions de m3)
@@ -34431,7 +34358,7 @@
   created: '2021-02-01'
   updated: '2022-04-16'
 - id: 837
-  text: 'Quel est le plus grand barrage du monde ? '
+  text: Quel est le plus grand barrage du monde ?
   hint: ''
   type: QCM
   category: 7
@@ -34461,13 +34388,13 @@
   answer_extra_info: ''
   author: 33
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-02-02'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 838
-  text: 'Quelle est la capacité volumique du plus grand barrage du monde ? '
+  text: Quelle est la capacité volumique du plus grand barrage du monde ?
   hint: ''
   type: QCM
   category: 7
@@ -34497,11 +34424,11 @@
   answer_extra_info: ''
   author: 33
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-02-02'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 839
   text: Quel est le nombre de morts par terawatt-heure d'énergie hydraulique produite
     (1 terawatth-heure correspond à la consommation annuelle d'environ 27000 européens)?
@@ -34607,11 +34534,11 @@
   answer_extra_info: ''
   author: 33
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-02-02'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 842
   text: Quelle est la quantité d'eau nécessaire pour produire 1 kg de viande bovine
     ?
@@ -34656,8 +34583,8 @@
   created: '2021-02-21'
   updated: '2023-02-14'
 - id: 843
-  text: 'Combien existe-t-il dans le monde de zones de conflits potentiels dus à l''eau
-    ? '
+  text: Combien existe-t-il dans le monde de zones de conflits potentiels dus à l'eau
+    ?
   hint: ''
   type: QCM
   category: 7
@@ -34671,9 +34598,9 @@
   answer_choice_d: 15,000
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: 'Avec plus de 260 bassins transfrontaliers (partagés entre au
-    moins 2 pays), on dénombre aujourd''hui plus de 300 zones de conflits potentiels
-    dus à l''eau. '
+  answer_explanation: Avec plus de 260 bassins transfrontaliers (partagés entre au
+    moins 2 pays), on dénombre aujourd'hui plus de 300 zones de conflits potentiels
+    dus à l'eau.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -34692,7 +34619,7 @@
   validator: null
   validation_date: null
   created: '2021-02-02'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 844
   text: Quelle proportion de l'eau sur terre est de l'eau douce ?
   hint: ''
@@ -36973,9 +36900,9 @@
   answer_choice_d: 1. RD. Congo / 2. France / 3. Chine / 4. Etats-Unis
   answer_correct: a
   has_ordered_answers: false
-  answer_explanation: "1. RD. Congo : 1,500 litres par jour et par habitant ; \n2.\
-    \ Chine : 2,900 l/j/hab ; \n3. France : 4,900 l/j/hab ; \n4. Etats-Unis : 7,800\
-    \ l/j/hab"
+  answer_explanation: "1. RD. Congo : 1,500 litres par jour et par habitant ; \r\n\
+    2. Chine : 2,900 l/j/hab ; \r\n3. France : 4,900 l/j/hab ; \r\n4. Etats-Unis :\
+    \ 7,800 l/j/hab"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -36990,11 +36917,11 @@
   answer_extra_info: ''
   author: 49
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-05-02'
-  updated: '2022-05-02'
+  updated: '2025-07-04'
 - id: 896
   text: L'empreinte eau d'un pays va bien au-delà de ses frontières. Sur lequel de
     ces fleuves les Etats Unis ont-il la plus forte empreinte ?
@@ -37230,9 +37157,8 @@
   answer_choice_d: '128'
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: '90 $ / MWh Pour le LCOE - Levelised Cost Of Electricity
-
-    Ce cout passe à 56 $ / MWh éolien à terre'
+  answer_explanation: "90 $ / MWh Pour le LCOE - Levelised Cost Of Electricity\r\n\
+    Ce cout passe à 56 $ / MWh éolien à terre"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -37248,11 +37174,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 902
   text: Quel est le montant de la taxe carbone en France - $ / t CO2e ?
   hint: ''
@@ -37358,11 +37284,11 @@
   answer_extra_info: ''
   author: 9
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-01-18'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 905
   text: A quelle altitude volent les avions Long Courrier ?
   hint: Turboréacteur
@@ -39674,11 +39600,11 @@
   answer_extra_info: ''
   author: 24
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-04-28'
-  updated: '2023-02-14'
+  updated: '2025-07-04'
 - id: 960
   text: Quelle part de la population tire de la mer sa seule source de protéines /
     dépend de la mer pour pourvoir à ses besoins alimentaires de base ?
@@ -39782,11 +39708,11 @@
   answer_extra_info: ''
   author: 24
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-04-28'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 963
   text: Quel est le nombre de conteneurs max sur porte conteneurs
   hint: ''
@@ -40709,11 +40635,11 @@
   answer_extra_info: ''
   author: 34
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2021-03-29'
-  updated: '2022-04-16'
+  updated: '2025-07-04'
 - id: 1012
   text: Quelle est la part des vols internationaux dans le trafic mondial ?
   hint: ''
@@ -42605,11 +42531,11 @@
     Razmig Keucheyan sur les besoins artificiels et superflus.
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-07-29'
-  updated: '2024-12-03'
+  updated: '2025-07-04'
 - id: 1055
   text: Quelle a été la hausse enregistrée en France de la consommation de produits
     issus du commerce équitable entre 2013 et 2016 ?
@@ -42751,11 +42677,11 @@
   answer_extra_info: Revoir le commentaire
   author: 65
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-12-11'
+  updated: '2025-07-04'
 - id: 1058
   text: Qu'est ce qu'une forêt primaire ?
   hint: ''
@@ -42823,7 +42749,7 @@
   answer_choice_d: 11 000 litres
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Les matériaux auront en outre parcouru 65 000 km ! L''import/export
+  answer_explanation: 'De plus, les matériaux auront parcouru 65 000 km ! L''import/export
     régit les flux de denrées et de marchandises entre les territoires et se base
     sur une indispensable collaboration et complémentarité entre ceux-ci. Il est nécessaire
     tant ponctuellement pour répondre à des situations inédites (situations de crises
@@ -42854,7 +42780,7 @@
   validator: null
   validation_date: null
   created: '2022-08-01'
-  updated: '2024-12-11'
+  updated: '2025-07-04'
 - id: 1060
   text: Quelle est la surface du globe recouverte par les océans ?
   hint: C'est bien plus que la surface terrestre !
@@ -43681,11 +43607,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2022-10-28'
-  updated: '2022-10-28'
+  updated: '2025-07-04'
 - id: 1079
   text: Vrai ou faux ? Le GIEC reçoit des financements privés
   hint: ''
@@ -45038,9 +44964,10 @@
   hint: ''
   type: QCM
   category: 6
-  tags: []
+  tags:
+  - 27
   difficulty: 2
-  language: FRENCH
+  language: ENGLISH
   answer_choice_a: It doubled
   answer_choice_b: It has increased fivefold
   answer_choice_c: It has increased tenfold
@@ -45064,11 +44991,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2023-01-31'
-  updated: '2023-01-31'
+  updated: '2025-07-04'
 - id: 1108
   text: Among the following population projections to 2100, which ones are considered
     realistic by demographers?
@@ -45077,7 +45004,7 @@
   category: 6
   tags: []
   difficulty: 2
-  language: FRENCH
+  language: ENGLISH
   answer_choice_a: 9 billion
   answer_choice_b: 10 billion
   answer_choice_c: 11 billion
@@ -45106,11 +45033,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2023-01-31'
-  updated: '2023-01-31'
+  updated: '2025-07-04'
 - id: 1109
   text: India is set to become the most populated country in the world. What is the
     average number of children per woman in there?
@@ -45916,11 +45843,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2023-02-03'
-  updated: '2023-02-07'
+  updated: '2025-07-04'
 - id: 1129
   text: 'Parlons science : que désignent les paramètres de Milankovitch ?'
   hint: ''
@@ -45972,19 +45899,20 @@
   created: '2023-02-04'
   updated: '2023-02-07'
 - id: 1130
-  text: Vrai ou faux ? Les éruptions volcaniques peuvent refroidir le climat
+  text: Vrai ou faux ? A court-terme, les éruptions volcaniques réchauffent le climat
   hint: ''
   type: VF
   category: 1
-  tags: []
+  tags:
+  - 66
   difficulty: 1
   language: FRENCH
   answer_choice_a: Vrai
   answer_choice_b: Faux
   answer_choice_c: ''
   answer_choice_d: ''
-  answer_correct: a
-  has_ordered_answers: false
+  answer_correct: b
+  has_ordered_answers: true
   answer_explanation: 'Les éruptions volcaniques rejettent dans l''atmosphère des
     cendres, des poussières et des gaz : soufre (SO2, H2S), halogènes (Hcl, Hbr) et
     vapeur d''eau. Les émissions de soufre et de cendres agissent sur le climat en
@@ -46009,17 +45937,18 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-07'
+  updated: '2025-07-04'
 - id: 1131
-  text: Vrai ou faux ? Les éruptions volcaniques peuvent réchauffer le climat
+  text: Vrai ou faux ? A long terme, les éruptions volcaniques réchauffent le climat
   hint: ''
   type: VF
   category: 1
-  tags: []
+  tags:
+  - 66
   difficulty: 3
   language: FRENCH
   answer_choice_a: Vrai
@@ -46030,7 +45959,7 @@
   has_ordered_answers: true
   answer_explanation: Les éruptions volcaniques émettent des cendres et des aérosols
     qui refroidissent le climat à court-terme. Mais elles émettent également du CO2,
-    ce qui peut réchauffer le climat. Il y a 252 millions d’années, d’intenses éruptions
+    ce qui réchauffe le climat. Il y a 252 millions d’années, d’intenses éruptions
     volcaniques ont ainsi créé un effet de serre important, pour partie responsable
     de l’extinction massive des espèces du permien. Mais aujourd’hui, les émissions
     humaines sont 150 fois supérieures aux émissions des volcans.
@@ -46048,11 +45977,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2023-02-04'
-  updated: '2023-02-06'
+  updated: '2025-07-04'
 - id: 1132
   text: 'Adopté à l’issue de la COP21, l''Accord de Paris (2015) fixe comme objectif
     de :'
@@ -46322,11 +46251,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2023-02-07'
-  updated: '2023-02-16'
+  updated: '2025-07-04'
 - id: 1138
   text: En France, comment se répartit en moyenne l'énergie consommée par l'utilisation
     d'un téléphone mobile ?
@@ -46372,12 +46301,13 @@
   created: '2023-02-16'
   updated: '2025-06-03'
 - id: 1139
-  text: Dans les logiciels et applications sur smartphone, quelle est la proportion
-    de fonctionnalités qui ne sont jamais utilisées ?
+  text: Dans les logiciels et applications sur smartphone, quelle part des fonctionnalités
+    proposées n'est jamais utilisée ?
   hint: ''
   type: QCM
   category: 2
-  tags: []
+  tags:
+  - 30
   difficulty: 2
   language: FRENCH
   answer_choice_a: 10%
@@ -46397,7 +46327,7 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.standishgroup.com/sample_research_files/Modernization.pdf
+  answer_source_accessible_url: https://www.standishgroup.com/
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -46407,11 +46337,11 @@
   answer_extra_info: ''
   author: 4
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2025-07-04'
   created: '2023-02-16'
-  updated: '2025-05-14'
+  updated: '2025-07-04'
 - id: 1140
   text: Vero o falso? Il Clima è la stessa cosa delle previsioni meteo.
   hint: ''
@@ -46977,11 +46907,11 @@
   answer_extra_info: ''
   author: 75
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2023-08-15'
-  updated: '2023-08-15'
+  updated: '2025-07-04'
 - id: 1154
   text: Combien de poissons sauvages pour nourrir un poisson d'élevage en moyenne
     ?
@@ -50826,11 +50756,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2024-06-02'
-  updated: '2024-07-11'
+  updated: '2025-07-04'
 - id: 1247
   text: Vero o falso? Il clima è la stessa cosa del meteo.
   hint: ''
@@ -51970,16 +51900,13 @@
   answer_choice_d: 40 %
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "Une étude menée par Boavizta révèle que Ubisoft aura réduit\
-    \ de près de -40 % l'électricité consommée par l'un des sites.\r\n\r\nCe chiffre\
-    \ représente une économie estimée à plus' 1M€ par an, grâce à la mise en veille\
-    \ des espaces de travail et l'allongement de vie des équipements numériques. Pour\
-    \ y parvenir, il a fallut 3 ans à une nouvelle personne recrutée pour être placée\
-    \ directement au sein de la DSI, avec comme mission de réduire l'empreinte environnementale.\
-    \ Celle-ci a dû créer son réseau en interne, évangéliser la thématique du numérique\
-    \ responsable puis passer à l'action.\r\nCette action est un exemple des initiatives\
-    \ que les entreprises du secteur numérique qui peinent souvent à identifier quels\
-    \ sont les sujets immédiats sur lesquels ils peuvent agir pour baisser leur empreinte."
+  answer_explanation: 'Une étude menée par Boavizta révèle que Ubisoft aura réduit
+    de près de 40 % l''électricité consommée par l''un des sites. Ce chiffre représente
+    une économie estimée à plus de 1M€ par an. Les leviers : mise en veille des espaces
+    de travail et l''allongement de la durée de vie des équipements numériques. Elle
+    est le fruit du travail d''une personne recrutée spécialement à cette fin. C''est
+    un exemple d''initiative que les entreprises du secteur numérique peuvent prendre
+    pour pour baisser leur empreinte.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52000,7 +51927,7 @@
   validator: null
   validation_date: null
   created: '2025-05-14'
-  updated: '2025-05-26'
+  updated: '2025-07-04'
 - id: 1275
   text: 'Quand je génère une image en GenAI, cela dégage autant d''émissions que :'
   hint: ''
@@ -52050,7 +51977,8 @@
   hint: ''
   type: QCM
   category: 1
-  tags: []
+  tags:
+  - 19
   difficulty: 1
   language: FRENCH
   answer_choice_a: L'appétit féroces des castors
@@ -52079,7 +52007,7 @@
   validator: null
   validation_date: null
   created: '2025-05-27'
-  updated: '2025-05-27'
+  updated: '2025-07-04'
 - id: 1277
   text: Combien d'animaux sont abattus en France pour l'alimentation ?
   hint: ''
@@ -52241,11 +52169,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: null
   validation_date: null
   created: '2025-06-02'
-  updated: '2025-06-03'
+  updated: '2025-07-04'
 - id: 1281
   text: Quels sont les animaux qui sont tués en plus grand nombre en France pour l’alimentation
     ?
@@ -52538,13 +52466,14 @@
   created: '2025-06-24'
   updated: '2025-06-24'
 - id: 1288
-  text: Chaque personne en France jette par jour 1kg dans les poubelles. Mais Mais
-    quelle est la quantité totale de matières dont nous provoquons la consommation
-    chaque jour ?
+  text: Chaque personne en France jette par jour 1kg dans les poubelles. Mais quelle
+    est la quantité totale de matières dont nous provoquons la consommation chaque
+    jour ?
   hint: ''
   type: QCM
   category: null
-  tags: []
+  tags:
+  - 250
   difficulty: 1
   language: FRENCH
   answer_choice_a: 3 kg
@@ -52572,7 +52501,7 @@
   validator: null
   validation_date: null
   created: '2025-06-24'
-  updated: '2025-06-24'
+  updated: '2025-07-04'
 - id: 1289
   text: Il trasporto su strada negli Stati Uniti emette più CO2 di tutti i settori
     e le attività del continente africano. Vero o falso?
