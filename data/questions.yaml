@@ -46148,14 +46148,14 @@
     \ En moyenne cependant, le 'cycle de vie' (si l'on peut dire...) - creuser la\
     \ terre, fabriquer le cercueil et le monument, transporter le défunt - d'une inhumation\
     \ dégage 869 kg de CO2, c’est-à-dire près de 4 fois plus que la crémation. \r\n\
-    Peut-on faire moins ? Potentiellement oui, avec notamment l'humusation, qui consiste\
-    \ à laisser le corps se composter naturellement recouvert d'une couche de matières\
-    \ végétales broyées. En un an, la tombe se transforme en 1m3 d'humus sain et fertile.\
-    \ . L'empreinte est alors très faible - 10 à 50kg de CO2e. Cette pratique, au\
-    \ stade de l'expérimentation en Belgique et légalisée dans certains états américains,\
-    \ est cependant pour l'instant interdite en Europe, car elle soulève encore des\
-    \ réserves d'ordre sanitaire, juridique et culturelle. Il n'y a pas de cadre légal\
-    \ par exemple pour la valorisation de l'humus humain."
+    Peut-on faire moins ? Potentiellement oui, avec notamment l'humusation - ou terramation\
+    \ - qui consiste à laisser le corps se composter naturellement recouvert d'une\
+    \ couche de matières végétales broyées. En un an, la tombe se transforme en 1m3\
+    \ d'humus sain et fertile. . L'empreinte est alors très faible - 10 à 50kg de\
+    \ CO2e. Cette pratique, au stade de l'expérimentation en Belgique et légalisée\
+    \ dans certains états américains, est cependant pour l'instant interdite en Europe,\
+    \ car elle soulève encore des réserves d'ordre sanitaire, juridique et culturelle.\
+    \ Il n'y a pas de cadre légal par exemple pour la valorisation de l'humus humain."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -46176,7 +46176,7 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-05'
-  updated: '2025-07-01'
+  updated: '2025-07-08'
 - id: 1136
   text: Vrai ou faux ? La pollution de l'air gêne les champions d'échecs pour se concentrer
   hint: ''
