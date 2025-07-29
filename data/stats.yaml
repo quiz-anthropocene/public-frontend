@@ -22,8 +22,8 @@ quiz_per_language_count:
   total: 1
 question_answer_count: 856877
 quiz_answer_count: 64297
-question_answer_count_last_30_days: 11182
-quiz_answer_count_last_30_days: 805
+question_answer_count_last_30_days: 10984
+quiz_answer_count_last_30_days: 791
 category_count: 8
 tag_count: 242
 question_feedback_count: 10178
