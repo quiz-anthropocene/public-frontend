@@ -3793,9 +3793,10 @@
   - 872
   - 968
   - 971
-  question_count: 9
+  - 1273
+  question_count: 10
   tags: []
-  difficulty_average: 1.8
+  difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/578664ad.png
   has_audio: false
@@ -3809,4 +3810,4 @@
   publish_date: null
   spotlight: false
   created: '2025-07-03'
-  updated: '2025-07-03'
+  updated: '2025-08-26'
