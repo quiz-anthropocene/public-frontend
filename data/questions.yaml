@@ -51843,7 +51843,8 @@
   created: '2025-03-28'
   updated: '2025-06-20'
 - id: 1273
-  text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers'
+  text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers en
+    mémoire vive'
   hint: ''
   type: VF
   category: 8
@@ -51870,7 +51871,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.greenit.fr/2020/08/18/x171-la-croissance-du-poids-de-nos-logiciels/
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: 'Rapport Green IT : la croissance du poids de
+    nos logiciels, 2020'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -51883,7 +51885,7 @@
   validator: 2
   validation_date: '2025-05-23'
   created: '2025-05-08'
-  updated: '2025-08-26'
+  updated: '2025-10-07'
 - id: 1274
   text: 'L’éditeur de jeux Ubisoft a mis en place une stratégie de réduction d’impact
     pour l’un de ses sites. L’économie d’électricité qu''il a réalisée est de l’ordre
