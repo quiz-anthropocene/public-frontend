@@ -52518,7 +52518,7 @@
   answer_choice_c: ''
   answer_choice_d: ''
   answer_correct: a
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: "Nel 2021, le emissioni di CO2 dell'intero continente africano\
     \ sono state di 1,44 miliardi di tonnellate. Nello stesso periodo, il trasporto\
     \ su strada negli Stati Uniti ha emesso 1,46 miliardi di tonnellate di CO2 (fonte:\
@@ -52545,4 +52545,403 @@
   validator: null
   validation_date: null
   created: '2025-06-24'
-  updated: '2025-06-24'
+  updated: '2025-10-14'
+- id: 1290
+  text: "Gli Stati Uniti rappresentano il 4,5% della popolazione mondiale.\r\nMa qual\
+    \ è la loro quota nel consumo globale di benzina?"
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 5%
+  answer_choice_b: 15%
+  answer_choice_c: 35%
+  answer_choice_d: 50%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Gli americani consumano ogni anno circa 504 miliardi di litri\
+    \ di benzina. E' parecchio: 40% della benzina è consumato da appena il 5% della\
+    \ popolazione…\r\nIn termini di consumo procapite, uno statunitense medio consuma\
+    \ 1 515 litri/anno, contro i 201 di un italiano e i 16 di un indiano."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.eia.gov/international/overview/world
+  answer_source_scientific_url_text: Internazionale - Amministrazione dell'energia
+    degli Stati Uniti (EIA)
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bf894e11.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1291
+  text: Se le auto, i pick-up e i furgoni statunitensi fossero un Paese, come si collocherebbe
+    nella classifica delle emissioni globali di CO2?
+  hint: ''
+  type: VF
+  category: null
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Le auto, i pick-up e i furgoni negli Stati Uniti emettono circa\
+    \ 1,45 miliardi di tonnellate di CO2 ogni anno.\r\nSe fossero un Paese, questo\
+    \ sarebbe il sesto più grande emettitore di CO2 al mondo, tra Indonesia e Giappone."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ourworldindata.org/explorers/co2?time=2020..latest&facet=none&country=ITA~CHN~IND~BRA~RUS~IDN~JPN~DEU~IRN~MEX~GBR&pickerSort=asc&hideControls=false&Gas+or+Warming=CO%E2%82%82&Accounting=Territorial&Fuel+or+Land+Use+Change=Fossil+%2B+land+use+change&Count=Per+country
+  answer_source_accessible_url_text: Emissioni annuali di CO2 per i primi 6 emettitori
+    (2020-2022)
+  answer_source_scientific_url: https://di.unfccc.int/detailed_data_by_party
+  answer_source_scientific_url_text: Dati dell'inventario dei gas serra
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3736c137.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1292
+  text: Il settore dei trasporti negli Stati Uniti emette più gas serra dei trasporti
+    di Cina, India, e Russia messi insieme. Vero o falso?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: "Nel 2014, il settore dei trasporti negli Stati Uniti ha emesso\
+    \ 1,69 miliardi di tonnellate (Gt) di CO2.\r\nSi tratta di una cifra leggermente\
+    \ superiore a tutte le emissioni prodotte in quell'anno dai trasporti in Cina\
+    \ (0,82 Gt), India (0,27 Gt), Russia (0,25 Gt)."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.iea.org/data-and-statistics?country=USA&fuel=CO2%20emissions&indicator=CO2BySector
+  answer_source_scientific_url_text: Panoramica dei dati - AIE
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/37647ee3.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1293
+  text: "Gli Stati Uniti sono stati il primo Paese al mondo a emettere più di 1 miliardo\
+    \ di tonnellate di CO2 all'anno.\r\nIn che anno è successo?"
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: '1906'
+  answer_choice_b: '1926'
+  answer_choice_c: '1946'
+  answer_choice_d: '1966'
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Nel 1906, gli Stati Uniti sono stati il primo Paese al mondo\
+    \ a emettere più di 1 miliardo di tonnellate di CO2 all'anno. All'epoca, questo\
+    \ costituiva oltre il 40% delle emissioni globali.\r\nOggi il Paese emette una\
+    \ quantità di CO2 5 volte superiore. Mentre il mondo sta emettendo 14 volte più\
+    \ CO2 rispetto al 1906."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://ourworldindata.org/grapher/annual-co2-emissions-per-country
+  answer_source_scientific_url_text: Emissioni annuali di CO₂ - Our World in Data
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dae713ac.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1294
+  text: "Gli Stati Uniti sono il terzo produttore mondiale di carbone.\r\nQuanti anni\
+    \ possono durare le loro riserve?"
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 50 anni
+  answer_choice_b: 200 anni
+  answer_choice_c: 350 anni
+  answer_choice_d: 500 anni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Gli Stati Uniti hanno riserve accertate di 250 miliardi di\
+    \ tonnellate di carbone (di gran lunga il primo Paese al mondo, con il 25% del\
+    \ totale mondiale).\r\nAl ritmo attuale di produzione (685 milioni di tonnellate\
+    \ estratte ogni anno, ovvero un cubo di 750 metri per lato), hanno davanti a sé\
+    \ 360 anni di produzione, cioè almeno fino all'anno 2380.\r\nSe venisse bruciata,\
+    \ questa quantità di carbone basterebbe da sola ad aumentare la temperatura del\
+    \ pianeta di circa +0,5°C, cosa che dà agli americani un'enorme influenza sul\
+    \ cambiamento climatico."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-full-report.pdf#page42
+  answer_source_scientific_url_text: BP Statistical Review of World Energy 2019 |
+    68a edizione
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bbccec7f.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1295
+  text: Se tutti gli esseri umani avessero il tenore di vita di uno statunitense medio,
+    di quanti pianeti Terra avremmo bisogno?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: '2'
+  answer_choice_b: '5'
+  answer_choice_c: '8'
+  answer_choice_d: '11'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'impronta ecologica totale degli Stati Uniti è pari a circa
+    il 20% della capacità della Terra, mentre la sua popolazione è poco più del 4%
+    di quella mondiale. Se tutti gli esseri umani vivessero come loro, avremmo bisogno
+    di circa 5 pianeti.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.overshootday.org/newsroom/press-release-july-2019-italian/
+  answer_source_accessible_url_text: 'Il giorno del sovrasfruttamento nel 2019 cade
+    il 29 luglio: la data  più anticipata sino ad ora'
+  answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=231&yr=2016
+  answer_source_scientific_url_text: Global Footprint Network - Calcolatore impronta
+    ecologica dei Paesi
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/09266977.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1296
+  text: Per quanti anni gli Stati Uniti sono rimasti il maggior emettitore di CO2
+    al mondo?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 25 anni
+  answer_choice_b: 55 anni
+  answer_choice_c: 85 anni
+  answer_choice_d: 115 anni
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "Gli Stati Uniti sono diventati il primo emettitore di CO2 al\
+    \ mondo nel 1890, dopo aver superato il Regno Unito, e lo sono rimasti fino al\
+    \ 2006, quando sono stati superati dalla Cina. Una durata totale di 116 anni.\r\
+    \nIn questo periodo, hanno emesso un totale cumulativo di 330 miliardi di tonnellate\
+    \ di CO2, più del totale combinato di Cina, India e Russia."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+  answer_source_scientific_url_text: Emissioni di CO₂ e di gas serra - Our World in
+    Data
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1297
+  text: Nel 2018, quanti pozzi di petrolio e gas erano in funzione negli Stati Uniti?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 5.000 pozzi
+  answer_choice_b: 20.000 pozzi
+  answer_choice_c: 100.000 pozzi
+  answer_choice_d: 1.000.000 di pozzi
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "Negli Stati Uniti ci sono quasi 1 milione di pozzi di petrolio\
+    \ e gas attivi (dati del 2018), ovvero circa 1 ogni 9 km2.\r\n80% di essi producono\
+    \ meno di 15 barili al giorno (~2.400 litri) e contribuiscono a meno del 10% della\
+    \ produzione totale del Paese."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.eia.gov/petroleum/wells/
+  answer_source_scientific_url_text: Pozzi di petrolio e gas degli Stati Uniti per
+    tasso di produzione - Amministrazione dell'energia degli Stati Uniti (EIA)
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f6315a5b.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1298
+  text: Quanti giorni impiega uno statunitense ad emettere la stessa quantità di CO2
+    di un bengalese in un anno?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 3 giorni
+  answer_choice_b: 15 giorni
+  answer_choice_c: 30 giorni
+  answer_choice_d: 60 giorni
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Nel 2022, le emissioni di CO2 degli USA sono state di 15,4\
+    \ tonnellate per abitante, rispetto alle 5,1 dell'Italia e le 0,65 del Bangladesh.\
+    \ Uno statunitense impiega quindi 15 giorni (e un italiano 47) per emettere come\
+    \ un bengalese in un anno.\r\nQuindi le emissioni di CO2 di 337 milioni di americani\
+    \ equivalgono a quelle di... 8 miliardi di etiopi.\r\nGli americani sono tra i\
+    \ maggiori emettitori di CO2 del pianeta, con due settori predominanti: la produzione\
+    \ di elettricità (60% di combustibili fossili, gas e carbone) e i trasporti (auto,\
+    \ pick-up, aerei). Stiamo parlando di emissioni territoriali (inventario nazionale,\
+    \ non impronta di carbonio)."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://globalcarbonatlas.org/emissions/carbon-emissions/
+  answer_source_scientific_url_text: Pozzi di petrolio e gas degli Stati Uniti per
+    tasso di produzione - Amministrazione dell'energia degli Stati Uniti (EIA)
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2b981753.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
+- id: 1299
+  text: Quali di questi paesi producono più elettricità delle sole centrali a gas
+    degli Stati Uniti?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 4
+  language: FRENCH
+  answer_choice_a: Cina
+  answer_choice_b: Russia
+  answer_choice_c: India
+  answer_choice_d: Giappone
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: "Solo un Paese al mondo (oltre agli Stati Uniti) produce più\
+    \ elettricità delle centrali a gas americane: la Cina.\r\nLe centrali a gas degli\
+    \ Stati Uniti hanno quindi prodotto da sole più elettricità dell'intera India\
+    \ e dei suoi 1,3 miliardi di abitanti, dell'intera Russia o dell'intero Giappone\
+    \ (rispettivamente il 3°, 4° e 5° produttore di elettricità al mondo)."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-full-report.pdf#page56
+  answer_source_scientific_url_text: Rassegna statistica BP sull'energia mondiale
+    2019
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b20004de.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-10-14'
+  updated: '2025-10-14'
