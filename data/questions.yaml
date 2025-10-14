@@ -23320,7 +23320,7 @@
   validator: 2
   validation_date: '2020-09-21'
   created: '2020-09-14'
-  updated: '2025-07-03'
+  updated: '2025-10-14'
 - id: 578
   text: Dans quel pays ont été inventés l'imprimerie, le papier, la poudre à canon
     et la boussole ?
@@ -34193,7 +34193,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-07-03'
+  updated: '2025-10-14'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -35516,7 +35516,7 @@
   validator: 2
   validation_date: '2025-05-14'
   created: '2021-02-14'
-  updated: '2025-07-03'
+  updated: '2025-10-14'
 - id: 864
   text: 'Les principales causes de mortalité et de vie en mauvaise santé dans les
     pays riches sont, dans l''ordre :'
@@ -35916,7 +35916,7 @@
   validator: 2
   validation_date: '2021-03-30'
   created: '2021-03-23'
-  updated: '2025-07-03'
+  updated: '2025-10-14'
 - id: 873
   text: Combien de figurines Playmobil® a-t-on produites depuis leur arrivée sur le
     marché en 1974 ?
@@ -39973,7 +39973,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-07-03'
+  updated: '2025-10-14'
 - id: 969
   text: Quelle différence d'émissions entre un logement classe E et classe A ?
   hint: ''
