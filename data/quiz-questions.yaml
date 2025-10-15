@@ -903,11 +903,6 @@
   question: 360
   order: 6
   created: '2021-01-12'
-- id: 304
-  quiz: 54
-  question: 626
-  order: 7
-  created: '2021-01-12'
 - id: 305
   quiz: 54
   question: 246
