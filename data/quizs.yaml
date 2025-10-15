@@ -789,16 +789,15 @@
   - 439
   - 503
   - 539
-  - 626
   - 666
   - 668
-  question_count: 12
+  question_count: 11
   tags:
   - 11
   - 13
   - 31
   - 80
-  difficulty_average: 2.6
+  difficulty_average: 2.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000054-c005.jpg
   has_audio: false
@@ -812,7 +811,7 @@
   publish_date: '2020-12-08'
   spotlight: false
   created: '2020-11-28'
-  updated: '2022-04-16'
+  updated: '2025-10-15'
 - id: 55
   name: Technologies de capture et stockage du CO2
   slug: technologies-de-capture-et-stockage-du-co2

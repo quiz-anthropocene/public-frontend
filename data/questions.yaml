@@ -20309,13 +20309,11 @@
   answer_choice_d: 115 ans
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: 'Les États-Unis sont devenus le 1er émetteur de CO2 mondial
-    en 1890 en dépassant le Royaume-Uni, jusqu''en 2006 où ils ont été dépassés par
-    la Chine. Soit une durée totale de 116 ans.
-
-
-    Durée pendant laquelle ils ont émis en cumulé 330 milliards de tonnes de CO2,
-    soit plus que le cumul de la Chine, de l''Inde et de la Russie.'
+  answer_explanation: "Les États-Unis sont devenus le 1er émetteur de CO2 mondial\
+    \ en 1890 en dépassant le Royaume-Uni, jusqu'en 2006 où ils ont été dépassés par\
+    \ la Chine. Soit une durée totale de 116 ans.\r\n\r\nDurée pendant laquelle ils\
+    \ ont émis en cumulé 330 milliards de tonnes de CO2, soit plus que le cumul de\
+    \ la Chine, de l'Inde et de la Russie."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -20326,7 +20324,7 @@
   answer_source_scientific_url_text: CO₂ and Greenhouse Gas Emissions - Our World
     in Data
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000503-fbe3.svg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/223cfc97.png
   answer_image_url_text: de 1890 à 2006
   answer_extra_info: ''
   author: 5
@@ -20335,7 +20333,7 @@
   validator: 1
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2022-04-16'
+  updated: '2025-10-15'
 - id: 504
   text: Combien de tonnes de glace continentale faut-il fondre pour faire monter le
     niveau des mers d’un mm ?
@@ -25296,7 +25294,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2025-06-23'
+  updated: '2025-10-15'
 - id: 627
   text: La mer du nord est le seul gisement important de pétrole situé en Europe occidentale.
     En quelle année a-t-il passé ou doit-il passer son pic de production ?
@@ -52813,7 +52811,7 @@
   answer_source_scientific_url_text: Emissioni di CO₂ e di gas serra - Our World in
     Data
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85370a8f.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -52822,7 +52820,7 @@
   validator: null
   validation_date: null
   created: '2025-10-14'
-  updated: '2025-10-14'
+  updated: '2025-10-15'
 - id: 1297
   text: Nel 2018, quanti pozzi di petrolio e gas erano in funzione negli Stati Uniti?
   hint: ''
@@ -52831,15 +52829,15 @@
   tags: []
   difficulty: 2
   language: ITALIAN
-  answer_choice_a: 5.000 pozzi
-  answer_choice_b: 20.000 pozzi
-  answer_choice_c: 100.000 pozzi
-  answer_choice_d: 1.000.000 di pozzi
+  answer_choice_a: 5 000 pozzi
+  answer_choice_b: 20 000 pozzi
+  answer_choice_c: 100 000 pozzi
+  answer_choice_d: 1 000 000 di pozzi
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Negli Stati Uniti ci sono quasi 1 milione di pozzi di petrolio\
     \ e gas attivi (dati del 2018), ovvero circa 1 ogni 9 km2.\r\n80% di essi producono\
-    \ meno di 15 barili al giorno (~2.400 litri) e contribuiscono a meno del 10% della\
+    \ meno di 15 barili al giorno (~2 400 litri) e contribuiscono a meno del 10% della\
     \ produzione totale del Paese."
   answer_audio_url: ''
   answer_audio_url_text: ''
@@ -52860,7 +52858,7 @@
   validator: null
   validation_date: null
   created: '2025-10-14'
-  updated: '2025-10-14'
+  updated: '2025-10-15'
 - id: 1298
   text: Quanti giorni impiega uno statunitense ad emettere la stessa quantità di CO2
     di un bengalese in un anno?
