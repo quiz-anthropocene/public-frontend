@@ -811,7 +811,7 @@
   publish_date: '2020-12-08'
   spotlight: false
   created: '2020-11-28'
-  updated: '2025-10-15'
+  updated: '2025-10-19'
 - id: 55
   name: Technologies de capture et stockage du CO2
   slug: technologies-de-capture-et-stockage-du-co2
@@ -1243,7 +1243,7 @@
   publish_date: '2021-03-21'
   spotlight: false
   created: '2021-03-11'
-  updated: '2022-11-04'
+  updated: '2025-10-19'
 - id: 66
   name: Un voyage sur des millions d'années
   slug: un-voyage-sur-des-millions-dannees
@@ -3811,20 +3811,20 @@
   created: '2025-07-03'
   updated: '2025-10-14'
 - id: 127
-  name: Nato negli USA
+  name: Born in the USA
   slug: nato-negli-stati-uniti
   introduction: '<p>Gli Stati Uniti sono entrati a far parte del nostro immaginario
     collettivo: cowboy, New York, Hollywood, Silicon Valley... il sogno americano!
     Ma gli Stati Uniti sono anche un consumatore sfrenato di petrolio, uno dei maggiori
     produttori mondiali di combustibili fossili e uno dei maggiori emettitori mondiali
-    di CO2. Scoprite il lato (ecologicamente) oscuro degli Stati Uniti attraverso
-    queste domande.</p>'
+    di CO2. Scopri il lato (ecologicamente) oscuro degli Stati Uniti attraverso queste
+    domande.</p>'
   conclusion: "<p>Oggi, quando si pensa al petrolio si pensa al Medio Oriente, all'Arabia\
     \ Saudita... ma il paese petrolifero per eccellenza sono gli Stati Uniti! Attenzione\
     \ però, i nostri stili di vita europei non sono poi così distanti.</p>\r\n\r\n\
-    <p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Ah, e già che siamo in tema petrolio, date\
-    \ un'occhiata alla nostra pagina dei quiz, ne troverete altri sull’argomento per\
-    \ placare la vostra sete di conoscenza ;)</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>"
+    <p>Ah, e già che siamo in tema petrolio, dai un'occhiata alla nostra pagina dei\
+    \ quiz, ne troverai altri sull’argomento per placare la tua sete di conoscenza\
+    \ ;)</p>\r\n\r\n<p> </p>"
   questions:
   - 1289
   - 1290
@@ -3848,11 +3848,11 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2025-10-14'
-  updated: '2025-10-14'
+  updated: '2025-10-19'
