@@ -2,7 +2,7 @@
   value: FRENCH
   code: fr
   emoji: 🇫🇷
-  question_count: 535
+  question_count: 536
   quiz_count: 45
 - name: English
   value: ENGLISH
@@ -20,8 +20,8 @@
   value: ITALIAN
   code: it
   emoji: 🇮🇹
-  question_count: 31
-  quiz_count: 3
+  question_count: 41
+  quiz_count: 4
 - name: German
   value: GERMAN
   code: de
