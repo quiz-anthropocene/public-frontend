@@ -218,3 +218,13 @@
   to_quiz: 76
   status: similaire
   created: '2025-04-08'
+- id: 46
+  from_quiz: 127
+  to_quiz: 65
+  status: similaire
+  created: '2025-10-19'
+- id: 47
+  from_quiz: 127
+  to_quiz: 54
+  status: traduction
+  created: '2025-10-19'
