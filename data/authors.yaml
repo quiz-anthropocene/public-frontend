@@ -7,7 +7,7 @@
 - id: 2
   first_name: Matthieu
   last_name: Massart
-  question_count: 141
+  question_count: 149
   quiz_count: 15
   created: '2022-04-04'
 - id: 4
@@ -307,8 +307,8 @@
 - id: 81
   first_name: Elena
   last_name: Diato
-  question_count: 11
-  quiz_count: 1
+  question_count: 14
+  quiz_count: 2
   created: '2024-05-13'
 - id: 87
   first_name: Fred
@@ -322,12 +322,6 @@
   question_count: 0
   quiz_count: 0
   created: '2025-02-19'
-- id: 91
-  first_name: Isaora
-  last_name: Bacquet
-  question_count: 0
-  quiz_count: 0
-  created: '2025-04-08'
 - id: 96
   first_name: Maud
   last_name: Grégoire
