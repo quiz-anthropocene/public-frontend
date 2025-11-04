@@ -150,4 +150,4 @@ Erreur `UnicodeDecodeError: charmap codec can't decode byte`
   - `git checkout -b <username>/update-packages-chromedriver-XXX`
   - bump la version dans `package.json`
   - lancer un `yarn install`
-  - git commit -am "chore: Update dependencies (chromedriver)"
+  - git commit -am "chore: Update dependencies (chromedriver XXX)"
