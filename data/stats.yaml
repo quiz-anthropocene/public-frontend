@@ -22,13 +22,13 @@ quiz_per_language_count:
   total: 1
 question_answer_count: 886083
 quiz_answer_count: 66302
-question_answer_count_last_30_days: 9233
-quiz_answer_count_last_30_days: 675
+question_answer_count_last_30_days: 8915
+quiz_answer_count_last_30_days: 649
 category_count: 8
 tag_count: 242
 question_feedback_count: 10318
 quiz_feedback_count: 1885
 contribution_count: 842
-question_feedback_count_last_30_days: 60
-quiz_feedback_count_last_30_days: 21
+question_feedback_count_last_30_days: 46
+quiz_feedback_count_last_30_days: 17
 contribution_count_last_30_days: 2
