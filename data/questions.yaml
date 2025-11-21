@@ -34041,23 +34041,21 @@
   answer_choice_d: Les data centers
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: 'Nos équipements numériques / terminaux utilisateurs sont tellement
-    nombreux qu''en 2019 ils consomment environ 2 fois plus que les data centers (qui
-    sont pourtant des "grosses machines" !) : 30% de l''énergie primaire mobilisée
-    par le secteur du numérique sert à l''utilisation de nos équipements, et seulement
-    15% pour les data centers.'
+  answer_explanation: Nos équipements numériques / terminaux utilisateurs sont tellement
+    nombreux qu'en 2025 ils consomment environ autant que tous les data centers (qui
+    sont pourtant des "grosses machines" !) et les infrastructures réseau réunis.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf
-  answer_source_scientific_url_text: Empreinte  environnementale  du numérique  mondial
-    - Greenit.fr, 2019
+  answer_source_scientific_url: https://greenit.eco/nos-etudes-et-essais/impacts-environnementaux-du-numerique-dans-le-monde-2025/
+  answer_source_scientific_url_text: Impacts environnementaux du numérique dans le
+    monde 2025, rapport Green IT
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000829-7001.png
-  answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/37ae122e.png
+  answer_image_url_text: 'Source : carte n°2 de la la Fresque du Numérique, V3.0'
   answer_extra_info: ''
   author: 18
   visibility: PUBLIC
@@ -34065,7 +34063,7 @@
   validator: 2
   validation_date: '2021-01-28'
   created: '2021-01-21'
-  updated: '2025-07-03'
+  updated: '2025-11-20'
 - id: 830
   text: 'Au niveau mondial, et sur l''ensemble du cycle de vie des produits, quelle
     part le numérique représente-t-il dans nos émissions de gaz à effet de serre ?
