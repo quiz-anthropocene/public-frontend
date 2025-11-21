@@ -968,7 +968,7 @@
   - 30
   difficulty_average: 2.1
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000059-3ba6.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b7cf3b0d.png
   has_audio: false
   authors:
   - 18
@@ -980,7 +980,7 @@
   publish_date: '2021-01-31'
   spotlight: false
   created: '2021-01-21'
-  updated: '2025-06-03'
+  updated: '2025-11-20'
 - id: 60
   name: Le numérique est-il écologique ?
   slug: le-numerique-est-il-ecologique
