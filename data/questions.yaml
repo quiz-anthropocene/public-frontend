@@ -3177,7 +3177,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-15'
+  updated: '2025-11-27'
 - id: 75
   text: Quelle proportion du CO2 les 10% les plus riches de la planète émettent-ils
     ?
@@ -15909,7 +15909,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2025-05-16'
+  updated: '2025-11-27'
 - id: 393
   text: En France, quel secteur dépasse 30% du total des émissions de gaz à effet
     de serre ?
@@ -34063,7 +34063,7 @@
   validator: 2
   validation_date: '2021-01-28'
   created: '2021-01-21'
-  updated: '2025-11-20'
+  updated: '2025-11-27'
 - id: 830
   text: 'Au niveau mondial, et sur l''ensemble du cycle de vie des produits, quelle
     part le numérique représente-t-il dans nos émissions de gaz à effet de serre ?
@@ -34096,7 +34096,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000830-c363.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a5456d53.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
   answer_extra_info: ''
   author: 18
@@ -34105,7 +34105,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-05-07'
+  updated: '2025-11-27'
 - id: 831
   text: Quelle part du trafic internet la vidéo représente-t-elle ?
   hint: C'est plus que ce que l'on croit :)
@@ -34143,7 +34143,7 @@
   validator: 2
   validation_date: '2021-01-31'
   created: '2021-01-24'
-  updated: '2024-03-05'
+  updated: '2025-11-27'
 - id: 832
   text: Au niveau mondial, quelle part des déchets électroniques est collectée afin
     d'être recyclée ? (chiffres 2017)
@@ -34189,7 +34189,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-10-14'
+  updated: '2025-11-27'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -34885,7 +34885,7 @@
   language: FRENCH
   answer_choice_a: 2 g CO2e
   answer_choice_b: 4 g CO2e
-  answer_choice_c: 19 g CO2
+  answer_choice_c: 20 g CO2
   answer_choice_d: 150 g CO2e
   answer_correct: b
   has_ordered_answers: true
@@ -34915,7 +34915,7 @@
   validator: 2
   validation_date: '2021-02-02'
   created: '2021-01-26'
-  updated: '2023-04-05'
+  updated: '2025-11-27'
 - id: 851
   text: Quelles est la distance moyenne parcourue par une donnée numérique (email,
     téléchargement, vidéo, requête web,…) ?
@@ -52941,3 +52941,41 @@
   validation_date: null
   created: '2025-10-14'
   updated: '2025-10-20'
+- id: 1300
+  text: Quelle est la part du numérique dans la consommation électrique dans le monde
+    (chiffres 2020) ?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: 1%
+  answer_choice_b: 4%
+  answer_choice_c: 8%
+  answer_choice_d: 20%
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: En 2020, une étude estimait que le secteur du numérique consommait
+    environ 4 % de l’électricité globale dans sa phase d'utilisation. Elle augmente
+    sous l'effet de l'essor de l’IA et des data centers).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.sciencedirect.com/science/article/abs/pii/S0308596123002124
+  answer_source_scientific_url_text: ICT sector electricity consumption and greenhouse
+    gas emissions – 2020 outcome, Science Direc, 2020
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cb6e4ff8.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-27'
+  updated: '2025-11-27'
