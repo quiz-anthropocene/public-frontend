@@ -957,16 +957,16 @@
     du Numérique</a>.</p>
   questions:
   - 74
-  - 91
   - 392
   - 829
   - 830
   - 831
   - 832
+  - 1300
   question_count: 7
   tags:
   - 30
-  difficulty_average: 2.1
+  difficulty_average: 2.3
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/b7cf3b0d.png
   has_audio: false
@@ -980,7 +980,7 @@
   publish_date: '2021-01-31'
   spotlight: false
   created: '2021-01-21'
-  updated: '2025-11-20'
+  updated: '2025-11-27'
 - id: 60
   name: Le numérique est-il écologique ?
   slug: le-numerique-est-il-ecologique
@@ -3856,3 +3856,46 @@
   spotlight: true
   created: '2025-10-14'
   updated: '2025-10-19'
+- id: 128
+  name: La Fresque du Numérique
+  slug: la-fresque-du-numerique
+  introduction: '<p>La <a href="https://fresquedunumerique.org">Fresque du Numérique</a> est
+    un atelier collectif et pédagogique qui permet de comprendre les impacts écologiques
+    du numérique, et de réfléchir à des solutions pour les réduire, le tout en passant
+    un bon moment ! Elle reprend le principe de la <a href="https://fresqueduclimat.org">Fresque
+    du Climat</a> : des cartes que les participants doivent relier entre elles selons
+    les causes et les effets, le contenu étant basé sur des sources vérifiées. Ce
+    quiz vous permet de découvrir quelques informations étonnantes sur l''impact environnemental
+    du numérique. Voici quelques questions inspirées de cet atelier pour vous donner
+    une idée des questions traitées.</p>'
+  conclusion: <p>Et oui, le numérique, ce n'est donc pas que de la dématérialisation,
+    mais des impacts bien réels. La bonne nouvelle, c'est que les pistes pour les
+    réduire sont nombreuses. Pour aller plus loin,nous vous recommandons de participer
+    à un atelier. Plus d'information sur le site de la <a href="https://fresquedunumerique.org">Fresque
+    du Numérique</a>.</p>
+  questions:
+  - 74
+  - 392
+  - 829
+  - 830
+  - 831
+  - 832
+  - 1300
+  question_count: 7
+  tags:
+  - 30
+  difficulty_average: 2.3
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/3c3764d7.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: true
+  created: '2025-11-27'
+  updated: '2025-11-27'
