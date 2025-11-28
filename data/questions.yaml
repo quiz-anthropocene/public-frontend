@@ -34177,9 +34177,10 @@
   answer_source_accessible_url: https://www.greenit.fr/2017/12/26/20-dechets-electroniques-recycles/
   answer_source_accessible_url_text: Seulement 20 % des déchets électroniques recyclés,
     GreenIT, 2017
-  answer_source_scientific_url: https://www.itu.int/en/ITU-D/Climate-Change/Documents/GEM%202017/Global-E-waste%20Monitor%202017%20-%20Chapter%206.pdf
-  answer_source_scientific_url_text: Global E-waste Status  and Trends, 2017
-  answer_book_recommendation: ''
+  answer_source_scientific_url: https://unitar.org/about/news-stories/press/global-e-waste-monitor-2024-electronic-waste-rising-five-times-faster-documented-e-waste-recycling
+  answer_source_scientific_url_text: UNITAR, The Global E-waste Monitor, 2024
+  answer_book_recommendation: "Egalement : ADEME, Étude numérique et métaux, 2024\r\
+    \nEcologic, Étude gisement DEEE, 2021"
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000832-dc18.png
   answer_image_url_text: 'Source : la Fresque du Numérique, fresquedunumerique.org'
   answer_extra_info: ''
@@ -34189,7 +34190,7 @@
   validator: 2
   validation_date: '2021-01-29'
   created: '2021-01-22'
-  updated: '2025-11-27'
+  updated: '2025-11-28'
 - id: 833
   text: 'Selon vous, est-ce que les barrages réduisent le risque d''inondation ?  '
   hint: ''
@@ -52958,7 +52959,7 @@
   has_ordered_answers: true
   answer_explanation: En 2020, une étude estimait que le secteur du numérique consommait
     environ 4 % de l’électricité globale dans sa phase d'utilisation. Elle augmente
-    sous l'effet de l'essor de l’IA et des data centers).
+    sous l'effet de l'essor de l’IA et des data centers.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52978,4 +52979,4 @@
   validator: null
   validation_date: null
   created: '2025-11-27'
-  updated: '2025-11-27'
+  updated: '2025-11-28'
