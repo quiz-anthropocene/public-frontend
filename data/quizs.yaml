@@ -972,15 +972,15 @@
   has_audio: false
   authors:
   - 18
-  visibility: PUBLIC
-  validation_status: VALIDATED
+  visibility: HIDDEN
+  validation_status: REMOVED
   validator: 2
   validation_date: '2021-01-28'
   publish: true
   publish_date: '2021-01-31'
   spotlight: false
   created: '2021-01-21'
-  updated: '2025-11-27'
+  updated: '2025-11-28'
 - id: 60
   name: Le numérique est-il écologique ?
   slug: le-numerique-est-il-ecologique
