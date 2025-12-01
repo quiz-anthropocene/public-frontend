@@ -52980,3 +52980,438 @@
   validation_date: null
   created: '2025-11-27'
   updated: '2025-11-28'
+- id: 1301
+  text: Quel pourcentage des émissions mondiales de gaz à effet de serre est attribué
+    à l’industrie textile, selon les estimations disponibles ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 3%
+  answer_choice_b: 4-8%
+  answer_choice_c: 15%
+  answer_choice_d: 18-22%
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Selon l’ADEME, l’industrie textile est responsable d’environ
+    10 % des émissions mondiales de gaz à effet de serre. D’autres travaux internationaux
+    situent cette contribution entre 4 et 8 %, selon les périmètres retenus et les
+    méthodes de calcul. Dans tous les cas, la filière textile reste l’un des secteurs
+    les plus émetteurs, et son impact continue de croître avec l’augmentation des
+    volumes de production.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://librairie.ademe.fr/changement-climatique/7181-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-filiere-mode-et-textile-9791029722929.html
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1302
+  text: Quelle est l’étape la plus polluante du processus de fabrication textile ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: La production des fibres
+  answer_choice_b: La filature
+  answer_choice_c: La teinture et la finition
+  answer_choice_d: Le transport
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "\"La teinture et la finition des textiles constituent l'une\
+    \ des étapes les plus polluantes du cycle de vie textile. Selon Quantis, l'ennoblissement\
+    \ (teintures, impressions, blanchiment) représente à lui seul 36% des émissions\
+    \ de gaz à effet de serre de l'industrie. Cette phase consomme énormément d'eau\
+    \ et de produits chimiques toxiques.\r\n Les rejets de teinture contaminent les\
+    \ cours d'eau, notamment en Asie du Sud. \r\nEt il ne faut pas oublier que la\
+    \ production des matièrres premières est aussi très émissive et que les textiles\
+    \ parcourent plusieurs fois le monde avant d'arriver chez le consommateur.\""
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://librairie.ademe.fr/index.php?controller=attachment&id_attachment=4418
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1e939c26.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1303
+  text: Quel pourcentage de la pollution d'eau industrielle est causée par les processus
+    de teinture et de finition des textiles?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 2%
+  answer_choice_b: 5%
+  answer_choice_c: 10%
+  answer_choice_d: 20%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Selon la Fondation Ellen MacArthur, les procédés de teinture
+    et de finition procédés représentent environ 20 % de la pollution mondiale des
+    eaux industrielles. Lorsque les effluents ne sont pas correctement traités, ils
+    contaminent les cours d’eau et les sols dans de nombreuses régions productrices.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.researchgate.net/publication/265893071_Textile_dyeing_industry_an_environmental_hazard
+  answer_source_scientific_url_text: Pollution des eaux de la teinture
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1304
+  text: Combien d’eau faut-il en moyenne pour fabriquer un t-shirt en coton ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 200 litres
+  answer_choice_b: 700 litres
+  answer_choice_c: 1400 litres
+  answer_choice_d: 2700 litres
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Selon les travaux du Water Footprint Network (Hoekstra & Chapagain),
+    repris par le Parlement européen et l’ADEME, la fabrication d’un t-shirt en coton
+    nécessite en moyenne environ 2 700 litres d’eau. Ce calcul intègre l’eau de pluie
+    utilisée par la plante (eau verte), l’eau d’irrigation (eau bleue) et l’eau nécessaire
+    au traitement des pollutions liées à la culture et à la transformation du coton
+    (eau grise). À titre de comparaison, la production d’un jean peut nécessiter autour
+    de 10 000 litres d’eau.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://waterfootprint.org/resources/Report18.pdf
+  answer_source_scientific_url_text: L'empreinte eau de la consommation de coton
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1305
+  text: Combien d’articles textiles ont été vendus en 2024 dans le monde ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Environ 100 milliards
+  answer_choice_b: Environ 150 milliards
+  answer_choice_c: Environ 300 milliards
+  answer_choice_d: Environ 500 milliards
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Selon les travaux de la Fondation Ellen MacArthur et de plusieurs\
+    \ analyses internationales (McKinsey, Textile Exchange), environ 100 milliards\
+    \ d’articles textiles sont vendus chaque année dans le monde. La production mondiale\
+    \ de vêtements a doublé entre 2000 et 2015, et continue de croître sous l’effet\
+    \ de la fast fashion et de la baisse des prix moyens. Ce chiffre suit depuis une\
+    \ augmentation d'environ 3-5% par an.\r\n\r\n En France, 3,5 milliards de pièces\
+    \ neuves ont été mises sur le marché en 2024 alors que la production de textile\
+    \ s'est écroulée depuis les années 2000."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1306
+  text: Combien d’articles d’habillement, linge et chaussures les Français ont-ils
+    achetés en moyenne en 2024 ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: '17'
+  answer_choice_b: '42'
+  answer_choice_c: '72'
+  answer_choice_d: '139'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Selon le Baromètre Industrie Mode 2024 de Refashion, les Français\
+    \ ont acheté en moyenne 42 articles neufs en 2024 (26 vêtements, 12 articles de\
+    \ linge de maison et 4 paires de chaussures). \r\nLe marché du seconde main progresse\
+    \ également : en 2023, les acheteurs français de seconde main ont acquis en moyenne\
+    \ 7,3 pièces et plus d’1/3 des Francais ont achete au moins une ou plusieurs pièces\
+    \ de seconde main."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://refashion.fr/news/barometre-industrie-mode-2024
+  answer_source_accessible_url_text: Baromètre de la mode - Refashion 2024
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1307
+  text: Quelle part de fibres textiles produite dans le monde est d'origine synthétique
+    ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 65%
+  answer_choice_b: 75%
+  answer_choice_c: 85%
+  answer_choice_d: 95%
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Selon le Materials Market Report 2023 publié par Textile Exchange,\
+    \ les fibres synthétiques représentent plus de 65 % de la production mondiale\
+    \ de fibres textiles en 2022. \r\nLa part du coton, qui dominait historiquement\
+    \ le marché, est passée de plus de 60 % dans les années 1960 à moins de 25 % aujourd’hui.\
+    \ Cette évolution s’explique par la croissance rapide du polyester, une fibre\
+    \ peu coûteuse et produite à grande échelle à partir de ressources fossiles."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://textileexchange.org/app/uploads/2023/11/Materials-Market-Report-2023.pdf
+  answer_source_scientific_url_text: Le marché global des fibres
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85710f75.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1308
+  text: Combien de fibres microplastiques peuvent être libérées lors d’une seule lessive
+    de vêtements en polyester ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 150 000 fibres
+  answer_choice_b: 350 000 fibres
+  answer_choice_c: 700 000 fibres
+  answer_choice_d: 1 500 000 fibres
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Selon le Parlement européen et la Fondation Ellen MacArthur,
+    une seule lessive de textiles synthétiques peut libérer plus de 700 000 fibres
+    microplastiques. Ces fibres très fines passent en partie à travers les systèmes
+    de traitement des eaux et contribuent à la pollution microplastique des milieux
+    aquatiques. Les premières lessives d’un vêtement neuf peuvent en libérer davantage,
+    en raison du relâchement initial des fibres.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://content.ellenmacarthurfoundation.org/m/7f818b40f06e1afd/original/Summary-of-findings-A-New-Textiles-Economy.pdf
+  answer_source_scientific_url_text: L'économie textile - Fondation Ellen MacArthur
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b86e04e9.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1309
+  text: Quelle proportion des microplastiques primaires présents dans les océans provient
+    des textiles synthétiques ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 8%
+  answer_choice_b: 27%
+  answer_choice_c: 45%
+  answer_choice_d: 70%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "\"Ces micro-plastiques viennent pour une grande partie des\
+    \ eux usées par le lavage de nos vêtements.\r\nChaque lavage de matières synthétique\
+    \ rejette un nombre très important de micro-plastiques qui ne sont que très peu\
+    \ filtrés par les stations de traitement des eaux.\r\nLa dégradation des filets\
+    \ de pêche laissés à l'abandon dans l'océan compte aussi pour une part.\""
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.theoceanrace.com/en/news/14778_70-of-ocean-microplastics-are-the-type-found-in-clothes-textiles-fishing-gear-and-Europe-is-a-hotspot
+  answer_source_accessible_url_text: Les microplastiques dans l'océan
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e4a94fe5.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1310
+  text: Pour un t-shirt vendu 29 € en Europe, quelle part revient aux ouvrières et
+    ouvriers qui l’ont confectionné ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 0,18€
+  answer_choice_b: 0,66€
+  answer_choice_c: 1,20€
+  answer_choice_d: 1,60€
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Selon Oxfam, les ouvrières et ouvriers de la confection perçoivent
+    environ 0,18 € pour un t-shirt vendu 29 € en Europe, soit moins de 1 % du prix
+    final. Ce chiffre reflète la très faible part de la valeur captée par les personnes
+    qui fabriquent les vêtements, principalement dans des pays à bas salaires.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.oxfamfrance.org/agir-oxfam/seconde-main-definition-et-conseils/
+  answer_source_accessible_url_text: Textile et économie circulaire
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'
+- id: 1311
+  text: Quelle proportion des textiles collectés chaque année en France sont réutilisés
+    ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 13.9%
+  answer_choice_b: 25,1%
+  answer_choice_c: 43,2%
+  answer_choice_d: 58,6%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "Selon les données de Refashion (RA 2023), 58,6 % des textiles\
+    \ collectés sont destinés à la réutilisation.\r\nCela inclut :\r\nUne petite part\
+    \ réutilisée en France (quelques %)\r\nLa grande majorité exportée à l’étranger\
+    \ pour être revendue en seconde main"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://rapport-activite-2023.refashion.fr/static/kpi-s-ra23-4-vdef.pdf
+  answer_source_accessible_url_text: Rapport de Refashion
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/443c312a.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-11-30'
+  updated: '2025-11-30'

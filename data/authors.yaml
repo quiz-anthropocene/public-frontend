@@ -328,3 +328,9 @@
   question_count: 11
   quiz_count: 1
   created: '2025-05-14'
+- id: 97
+  first_name: Alexis
+  last_name: Louat
+  question_count: 0
+  quiz_count: 0
+  created: '2025-11-04'
