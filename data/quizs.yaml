@@ -2425,9 +2425,9 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: true
+  spotlight: false
   created: '2022-11-27'
-  updated: '2025-04-24'
+  updated: '2025-12-02'
 - id: 92
   name: Les impacts environnementaux de la culture
   slug: les-impacts-environnementaux-de-la-culture
@@ -3859,14 +3859,15 @@
 - id: 128
   name: La Fresque du Numérique
   slug: la-fresque-du-numerique
-  introduction: '<p>La <a href="https://fresquedunumerique.org">Fresque du Numérique</a> est
-    un atelier collectif et pédagogique qui permet de comprendre les impacts écologiques
-    du numérique, et de réfléchir à des solutions pour les réduire, le tout en passant
-    un bon moment ! Elle reprend le principe de la <a href="https://fresqueduclimat.org">Fresque
+  introduction: '<p>La <a href="https://fresquedunumerique.org">Fresque du Numérique</a>,
+    c''est un atelier collectif et pédagogique qui permet de comprendre les impacts
+    écologiques du numérique, et de réfléchir à des solutions pour les réduire, le
+    tout en passant un bon moment. Elle reprend le principe de la <a href="https://fresqueduclimat.org">Fresque
     du Climat</a> : des cartes que les participants doivent relier entre elles selons
-    les causes et les effets, le contenu étant basé sur des sources vérifiées. Ce
-    quiz, mis à jour suite à une évolution de l''atelier, vous fera découvrir quelques
-    aspects méconnus des impacts environnementaux du numérique.</p>'
+    des liens d''implication, le contenu étant basé sur des sources vérifiées. Le
+    monde du numérique évolue, l''atelier évolue. Voici donc une légère mise à jour
+    de ce quiz, qui vous fera découvrir quelques aspects méconnus des impacts environnementaux
+    du numérique.</p>'
   conclusion: <p>Et oui, le numérique, ce n'est donc pas que de la dématérialisation,
     mais des impacts bien réels. La bonne nouvelle, c'est que les pistes pour les
     réduire sont nombreuses. Pour aller plus loin,nous vous recommandons de participer
