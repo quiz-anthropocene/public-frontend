@@ -52981,13 +52981,13 @@
   created: '2025-11-27'
   updated: '2025-11-28'
 - id: 1301
-  text: Quel pourcentage des émissions mondiales de gaz à effet de serre est attribué
-    à l’industrie textile, selon les estimations disponibles ?
+  text: Quel part des émissions mondiales de gaz à effet de serre est attribué à l’industrie
+    textile ?
   hint: ''
   type: QCM
   category: 1
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
   answer_choice_a: 3%
   answer_choice_b: 4-8%
@@ -52995,8 +52995,8 @@
   answer_choice_d: 18-22%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Selon l’ADEME, l’industrie textile est responsable d’environ
-    10 % des émissions mondiales de gaz à effet de serre. D’autres travaux internationaux
+  answer_explanation: Selon l’ADEME, l’industrie textile compte pour environ 10 %
+    des émissions mondiales de gaz à effet de serre. D’autres travaux internationaux
     situent cette contribution entre 4 et 8 %, selon les périmètres retenus et les
     méthodes de calcul. Dans tous les cas, la filière textile reste l’un des secteurs
     les plus émetteurs, et son impact continue de croître avec l’augmentation des
@@ -53006,7 +53006,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://librairie.ademe.fr/changement-climatique/7181-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-filiere-mode-et-textile-9791029722929.html
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: 'Réalisation d''un bilan des émissions de gaz
+    à effet de serre : filière mode et textile  Guide sectoriel 2024 de l''ADEME.'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -53019,14 +53020,14 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1302
   text: Quelle est l’étape la plus polluante du processus de fabrication textile ?
   hint: ''
   type: QCM
   category: null
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
   answer_choice_a: La production des fibres
   answer_choice_b: La filature
@@ -53034,8 +53035,8 @@
   answer_choice_d: Le transport
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "\"La teinture et la finition des textiles constituent l'une\
-    \ des étapes les plus polluantes du cycle de vie textile. Selon Quantis, l'ennoblissement\
+  answer_explanation: "Ce sont en effet la teinture et la finition des textiles qui\
+    \ sont les étapes les plus polluantes du cycle de vie. Selon Quantis, l'ennoblissement\
     \ (teintures, impressions, blanchiment) représente à lui seul 36% des émissions\
     \ de gaz à effet de serre de l'industrie. Cette phase consomme énormément d'eau\
     \ et de produits chimiques toxiques.\r\n Les rejets de teinture contaminent les\
@@ -53047,7 +53048,9 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url_text: 'Guide sectoriel d’écoconception : textile d’habillement.
+    Leviers d’actions : des premiers pas aux pistes spécifiques d’approfondissement.
+    Rapport final ADEME, mars 2025'
   answer_source_scientific_url: https://librairie.ademe.fr/index.php?controller=attachment&id_attachment=4418
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -53060,15 +53063,15 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1303
-  text: Quel pourcentage de la pollution d'eau industrielle est causée par les processus
-    de teinture et de finition des textiles?
+  text: Quelle est la contribution des processus de teinture et de finition à la pollution
+    d'eau industrielle au global ?
   hint: ''
   type: QCM
   category: null
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: FRENCH
   answer_choice_a: 2%
   answer_choice_b: 5%
@@ -53087,7 +53090,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://www.researchgate.net/publication/265893071_Textile_dyeing_industry_an_environmental_hazard
-  answer_source_scientific_url_text: Pollution des eaux de la teinture
+  answer_source_scientific_url_text: Textile dyeing industry, an environmental hazard.
+    Natural Science, January 2012, Rita Kant, Panjab University
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -53098,7 +53102,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1304
   text: Combien d’eau faut-il en moyenne pour fabriquer un t-shirt en coton ?
   hint: ''
@@ -53113,13 +53117,12 @@
   answer_choice_d: 2700 litres
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Selon les travaux du Water Footprint Network (Hoekstra & Chapagain),
-    repris par le Parlement européen et l’ADEME, la fabrication d’un t-shirt en coton
-    nécessite en moyenne environ 2 700 litres d’eau. Ce calcul intègre l’eau de pluie
-    utilisée par la plante (eau verte), l’eau d’irrigation (eau bleue) et l’eau nécessaire
-    au traitement des pollutions liées à la culture et à la transformation du coton
-    (eau grise). À titre de comparaison, la production d’un jean peut nécessiter autour
-    de 10 000 litres d’eau.
+  answer_explanation: Ce chiffre provient des travaux du Water Footprint Network.
+    Ils sont repris par le Parlement européen et l’ADEME. Ce calcul intègre l’eau
+    de pluie utilisée par la plante (eau verte), l’eau d’irrigation (eau bleue) et
+    l’eau nécessaire au traitement des pollutions liées à la culture et à la transformation
+    du coton (eau grise). A titre de comparaison, la production d’un jean mobilise
+    10 000 litres d’eau.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53127,7 +53130,8 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://waterfootprint.org/resources/Report18.pdf
-  answer_source_scientific_url_text: L'empreinte eau de la consommation de coton
+  answer_source_scientific_url_text: The water footprint of cotton consumption, UNESCO,
+    2025
   answer_book_recommendation: ''
   answer_image_url: ''
   answer_image_url_text: ''
@@ -53138,7 +53142,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1305
   text: Combien d’articles textiles ont été vendus en 2024 dans le monde ?
   hint: ''
@@ -53153,14 +53157,13 @@
   answer_choice_d: Environ 500 milliards
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Selon les travaux de la Fondation Ellen MacArthur et de plusieurs\
-    \ analyses internationales (McKinsey, Textile Exchange), environ 100 milliards\
-    \ d’articles textiles sont vendus chaque année dans le monde. La production mondiale\
+  answer_explanation: "C'est l'ordre de grandeur qui ressort des travaux de la Fondation\
+    \ Ellen MacArthur et de plusieurs analyses internationales. La production mondiale\
     \ de vêtements a doublé entre 2000 et 2015, et continue de croître sous l’effet\
     \ de la fast fashion et de la baisse des prix moyens. Ce chiffre suit depuis une\
-    \ augmentation d'environ 3-5% par an.\r\n\r\n En France, 3,5 milliards de pièces\
-    \ neuves ont été mises sur le marché en 2024 alors que la production de textile\
-    \ s'est écroulée depuis les années 2000."
+    \ augmentation d'environ 3-5% par an.\r\nEn France, ce sont 3,5 milliards de pièces\
+    \ neuves qui ont été mises sur le marché en 2024. La production française de de\
+    \ textile s'est, elle, écroulée depuis les années 2000."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53179,9 +53182,9 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1306
-  text: Combien d’articles d’habillement, linge et chaussures les Français ont-ils
+  text: Combien d’articles d’habillement, linge et chaussures les Français se sont-ils
     achetés en moyenne en 2024 ?
   hint: ''
   type: QCM
@@ -53195,12 +53198,10 @@
   answer_choice_d: '139'
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Selon le Baromètre Industrie Mode 2024 de Refashion, les Français\
-    \ ont acheté en moyenne 42 articles neufs en 2024 (26 vêtements, 12 articles de\
-    \ linge de maison et 4 paires de chaussures). \r\nLe marché du seconde main progresse\
-    \ également : en 2023, les acheteurs français de seconde main ont acquis en moyenne\
-    \ 7,3 pièces et plus d’1/3 des Francais ont achete au moins une ou plusieurs pièces\
-    \ de seconde main."
+  answer_explanation: "Ces 42 articles se répartissent en : 26 vêtements, 12 articles\
+    \ de linge de maison et 4 paires de chaussures. \r\nLe marché de la seconde main\
+    \ progresse également : en 2023, 7,3 pièces par personnne, et plus d'un Français\
+    \ sur trois a déjà acheté une pièce de seconde main."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53219,15 +53220,15 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1307
-  text: Quelle part de fibres textiles produite dans le monde est d'origine synthétique
+  text: Quelle part des fibres textiles produite dans le monde est d'origine synthétique
     ?
   hint: ''
   type: QCM
   category: null
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: FRENCH
   answer_choice_a: 65%
   answer_choice_b: 75%
@@ -53235,12 +53236,10 @@
   answer_choice_d: 95%
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Selon le Materials Market Report 2023 publié par Textile Exchange,\
-    \ les fibres synthétiques représentent plus de 65 % de la production mondiale\
-    \ de fibres textiles en 2022. \r\nLa part du coton, qui dominait historiquement\
-    \ le marché, est passée de plus de 60 % dans les années 1960 à moins de 25 % aujourd’hui.\
-    \ Cette évolution s’explique par la croissance rapide du polyester, une fibre\
-    \ peu coûteuse et produite à grande échelle à partir de ressources fossiles."
+  answer_explanation: La part du coton, qui dominait historiquement le marché, est
+    passée de plus de 60 % en masse dans les années 1960 à moins de 25 % aujourd’hui.
+    Cette évolution s’explique par la croissance rapide du polyester, une fibre peu
+    coûteuse et produite à grande échelle à partir de ressources fossiles.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53251,7 +53250,8 @@
   answer_source_scientific_url_text: Le marché global des fibres
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85710f75.png
-  answer_image_url_text: ''
+  answer_image_url_text: Poids et % de la production de fibres en 2022. Fibres végétales,
+    animales, cellulose, synthétiques.
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53259,7 +53259,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1308
   text: Combien de fibres microplastiques peuvent être libérées lors d’une seule lessive
     de vêtements en polyester ?
@@ -53275,9 +53275,7 @@
   answer_choice_d: 1 500 000 fibres
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Selon le Parlement européen et la Fondation Ellen MacArthur,
-    une seule lessive de textiles synthétiques peut libérer plus de 700 000 fibres
-    microplastiques. Ces fibres très fines passent en partie à travers les systèmes
+  answer_explanation: Ces fibres très fines passent en partie à travers les systèmes
     de traitement des eaux et contribuent à la pollution microplastique des milieux
     aquatiques. Les premières lessives d’un vêtement neuf peuvent en libérer davantage,
     en raison du relâchement initial des fibres.
@@ -53291,7 +53289,8 @@
   answer_source_scientific_url_text: L'économie textile - Fondation Ellen MacArthur
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b86e04e9.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: Les impacts de l'industrie textile vont augmenter considérablement
+    d'ici 2050
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53299,7 +53298,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1309
   text: Quelle proportion des microplastiques primaires présents dans les océans provient
     des textiles synthétiques ?
@@ -53307,7 +53306,7 @@
   type: QCM
   category: null
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: FRENCH
   answer_choice_a: 8%
   answer_choice_b: 27%
@@ -53315,22 +53314,24 @@
   answer_choice_d: 70%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "\"Ces micro-plastiques viennent pour une grande partie des\
-    \ eux usées par le lavage de nos vêtements.\r\nChaque lavage de matières synthétique\
+  answer_explanation: "Ces micro-plastiques viennent pour une grande partie des eaux\
+    \ usées, via le lavage de nos vêtements.\r\nChaque lavage de matières synthétique\
     \ rejette un nombre très important de micro-plastiques qui ne sont que très peu\
     \ filtrés par les stations de traitement des eaux.\r\nLa dégradation des filets\
-    \ de pêche laissés à l'abandon dans l'océan compte aussi pour une part.\""
+    \ de pêche laissés à l'abandon dans l'océan compte aussi pour une part."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.theoceanrace.com/en/news/14778_70-of-ocean-microplastics-are-the-type-found-in-clothes-textiles-fishing-gear-and-Europe-is-a-hotspot
-  answer_source_accessible_url_text: Les microplastiques dans l'océan
+  answer_source_accessible_url_text: 70% of ocean microplastics are the type found
+    in clothes, textiles & fishing gear - and Europe is a hotspot. The Ocean Race,
+    2025
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e4a94fe5.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: Concentration de micro-plastiques dans les océans
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53338,7 +53339,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1310
   text: Pour un t-shirt vendu 29 € en Europe, quelle part revient aux ouvrières et
     ouvriers qui l’ont confectionné ?
@@ -53346,7 +53347,7 @@
   type: QCM
   category: null
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
   answer_choice_a: 0,18€
   answer_choice_b: 0,66€
@@ -53363,7 +53364,8 @@
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.oxfamfrance.org/agir-oxfam/seconde-main-definition-et-conseils/
-  answer_source_accessible_url_text: Textile et économie circulaire
+  answer_source_accessible_url_text: 5 bonnes raisons de choisir la seconde main,
+    Rapport Oxfam, 2021
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -53376,36 +53378,39 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
 - id: 1311
-  text: Quelle proportion des textiles collectés chaque année en France sont réutilisés
-    ?
+  text: Quelle proportion des textiles collectés chaque année en France est destinée
+    à la réutilisation ?
   hint: ''
   type: QCM
   category: null
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: 13.9%
-  answer_choice_b: 25,1%
-  answer_choice_c: 43,2%
-  answer_choice_d: 58,6%
+  answer_choice_a: 14%
+  answer_choice_b: 25%
+  answer_choice_c: 43%
+  answer_choice_d: 59%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "Selon les données de Refashion (RA 2023), 58,6 % des textiles\
-    \ collectés sont destinés à la réutilisation.\r\nCela inclut :\r\nUne petite part\
-    \ réutilisée en France (quelques %)\r\nLa grande majorité exportée à l’étranger\
-    \ pour être revendue en seconde main"
+  answer_explanation: 58,6 % des textiles, linges de maison et chaussures collectés
+    en France sont destinés à la réutilisation. Une petite part est revendue en seconde
+    main en France, tandis que la majorité est exportée pour être triée puis revendue
+    sur des marchés de seconde main. Un tiers des textiles collectés sont recyclés,
+    notamment pour fabriquer de l’isolant, des chiffons d’essuyage ou de nouvelles
+    fibres, et près de 8 % sont orientés vers d’autres formes de valorisation.
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: ''
-  answer_video_url_text: ''
-  answer_source_accessible_url: https://rapport-activite-2023.refashion.fr/static/kpi-s-ra23-4-vdef.pdf
-  answer_source_accessible_url_text: Rapport de Refashion
+  answer_video_url: https://www.youtube.com/watch?v=hogsMzze2aw
+  answer_video_url_text: 'Vidéo Refashion : La 2ème vie des Textiles d''Habillement,
+    Linge de Maison et Chaussures'
+  answer_source_accessible_url: https://refashion.fr/nos-actions-et-resultats
+  answer_source_accessible_url_text: 'Rapport Refashion : nos actions et résultats'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/443c312a.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/42f611e4.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 97
@@ -53414,4 +53419,83 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
+- id: 1312
+  text: Quel pourcentage des textiles usagés mis sur le marché en France est effectivement
+    collecté chaque année ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 12 %
+  answer_choice_b: 22 %
+  answer_choice_c: 36 %
+  answer_choice_d: 60 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'Selon Refashion, environ 36 % des textiles, linges de maison
+    et chaussures mis sur le marché sont collectés séparément chaque année. Une grande
+    partie du reste ne contribue pas immédiatement aux déchets : elle demeure dans
+    les placards des ménages, stockée pendant des mois ou des années avant d’être
+    triée. Le reste, jeté avec les ordures ménagères, ne peut plus être orienté vers
+    la réutilisation ou le recyclage.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://refashion.fr/news/barometre-industrie-mode-2024
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-12-01'
+  updated: '2025-12-01'
+- id: 1313
+  text: Parmi ces comportements, lequel contribue le plus à augmenter l’impact environnemental
+    d’un vêtement ?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Le laver à 30 °C plutôt qu’à 40 °C
+  answer_choice_b: Le porter peu de fois avant de s’en séparer
+  answer_choice_c: Le faire sécher à l’air libre
+  answer_choice_d: Le réparer pour prolonger sa durée de vie
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L’essentiel de l’impact d’un vêtement est lié à sa production.
+    Le fait de le porter très peu de fois puis de le remplacer par un vêtement neuf
+    augmente fortement cet impact. Allonger la durée d’usage (le porter plus souvent,
+    le réparer, l’acheter d’occasion) est l’un des leviers les plus efficaces pour
+    réduire l’empreinte environnementale de nos vêtements.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 97
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2025-12-01'
+  updated: '2025-12-01'
