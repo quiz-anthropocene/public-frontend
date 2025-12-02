@@ -3900,30 +3900,26 @@
   created: '2025-11-27'
   updated: '2025-11-28'
 - id: 129
-  name: Les impacts du textile
+  name: Les impacts du textile sur l'environnement
   slug: les-impacts-du-textile
-  introduction: "<p>Le textile fait partie de notre quotidien, des vêtements que nous\
-    \ portons aux objets que nous utilisons. La majeure partie de sa production étant\
-    \ aujourd’hui réalisée hors d’Europe, ses impacts restent souvent éloignés de\
-    \ notre regard. Ce quiz propose de prendre du recul et de mieux comprendre l’empreinte\
-    \ environnementale et sociale de cette industrie.</p>\r\n\r\n<p>Un quiz élaboré\
-    \ par l’association EnJeux Durables.</p>\r\n\r\n<p>* Source : Refashion, Rapport\
-    \ Annuel 2022<br />\r\n** Source : European Commission, “EU Strategy for Sustainable\
-    \ and Circular Textiles”, 2022<br />\r\nPour aller plus loin : ADEME, “Tout comprendre\
-    \ sur la mode et la fast fashion”, 2023<br />\r\nhttps://pro.refashion.fr/eco-design/sites/default/files/fichiers/guide-tout-comprendre-mode-et-fast-fashion.pdf</p>\r\
-    \n\r\n<p> </p>"
-  conclusion: "<p>La filière textile a des effets importants sur l’environnement :\
-    \ consommation de ressources, émissions de gaz à effet de serre, pollution liée\
-    \ aux fibres synthétiques, usage de produits chimiques, déchets en fin de vie.\
-    \ Une partie de ces impacts se produit lors de la fabrication à l’étranger, et\
-    \ une autre se manifeste ici, à travers notre consommation, notre entretien et\
-    \ la gestion des textiles usagés.</p>\r\n\r\n<p>La bonne nouvelle, c’est que chacun\
-    \ peut agir. Réduire les achats inutiles, privilégier la qualité, faire durer,\
-    \ réparer, choisir l’occasion, refuser le superflu et recycler ce qui ne peut\
-    \ plus être porté. Des gestes simples, accessibles et qui, répétés à grande échelle,\
-    \ allègent réellement la pression sur l’environnement.<br />\r\nÀ nous de changer\
-    \ le/a mo(n)de.<br />\r\nUn quiz élaboré par l’association EnJeux Durables.</p>\r\
-    \n\r\n<p> </p>"
+  introduction: <p>Le textile fait partie de notre quotidien, des vêtements que nous
+    portons aux objets que nous utilisons. La majeure partie de sa production étant
+    aujourd’hui réalisée hors d’Europe, ses impacts restent souvent éloignés de notre
+    regard. Ce quiz propose de prendre du recul et de mieux comprendre l’empreinte
+    environnementale et sociale de cette industrie.</p>
+  conclusion: "<p>Vous avez eu un petit apperçu des impacts environnementaux de la\
+    \ filière textile : consommation de ressources, émissions de gaz à effet de serre,\
+    \ pollution liée aux fibres synthétiques, usage de produits chimiques, déchets\
+    \ en fin de vie. La majeure partie des impacts se produit lors de la fabrication\
+    \ à l’étranger. Le reste se manifeste chez nous, à travers notre consommation,\
+    \ notre entretien et la gestion des textiles usagés.</p>\r\n\r\n<p>La bonne nouvelle,\
+    \ c’est que chacun peut agir. Réduire les achats inutiles, privilégier la qualité,\
+    \ faire durer, réparer, choisir l’occasion, refuser le superflu et recycler ce\
+    \ qui ne peut plus être porté. Des gestes simples, accessibles et qui, répétés\
+    \ à grande échelle, allègent réellement la pression sur l’environnement. À nous\
+    \ de changer la mode pour changer le monde. <br />\r\nUn quiz élaboré par l’association\
+    \ <a href=\"https://www.enjeuxdurables.eu/\">EnJeux Durables</a>.</p>\r\n\r\n\
+    <p> </p>"
   questions:
   - 1301
   - 1302
@@ -3938,9 +3934,9 @@
   - 1311
   question_count: 11
   tags: []
-  difficulty_average: 1.0
+  difficulty_average: 1.1
   language: FRENCH
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/31a26952.jpg
   has_audio: false
   authors:
   - 97
@@ -3952,4 +3948,4 @@
   publish_date: null
   spotlight: false
   created: '2025-11-28'
-  updated: '2025-11-30'
+  updated: '2025-12-01'
