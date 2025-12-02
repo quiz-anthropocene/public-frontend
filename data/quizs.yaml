@@ -3865,9 +3865,8 @@
     un bon moment ! Elle reprend le principe de la <a href="https://fresqueduclimat.org">Fresque
     du Climat</a> : des cartes que les participants doivent relier entre elles selons
     les causes et les effets, le contenu étant basé sur des sources vérifiées. Ce
-    quiz vous permet de découvrir quelques informations étonnantes sur l''impact environnemental
-    du numérique. Voici quelques questions inspirées de cet atelier pour vous donner
-    une idée des questions traitées.</p>'
+    quiz, mis à jour suite à une évolution de l''atelier, vous fera découvrir quelques
+    aspects méconnus des impacts environnementaux du numérique.</p>'
   conclusion: <p>Et oui, le numérique, ce n'est donc pas que de la dématérialisation,
     mais des impacts bien réels. La bonne nouvelle, c'est que les pistes pour les
     réduire sont nombreuses. Pour aller plus loin,nous vous recommandons de participer
@@ -3884,21 +3883,27 @@
   question_count: 7
   tags:
   - 30
+  - 37
+  - 39
+  - 73
+  - 100
+  - 220
+  - 229
   difficulty_average: 2.3
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/3c3764d7.png
   has_audio: false
   authors:
-  - 2
+  - 18
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: VALIDATED
   validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
   spotlight: true
   created: '2025-11-27'
-  updated: '2025-11-28'
+  updated: '2025-12-02'
 - id: 129
   name: Les impacts du textile sur l'environnement
   slug: les-impacts-du-textile
@@ -3932,9 +3937,10 @@
   - 1309
   - 1310
   - 1311
-  question_count: 11
+  - 1312
+  question_count: 12
   tags: []
-  difficulty_average: 1.1
+  difficulty_average: 1.8
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/31a26952.jpg
   has_audio: false
@@ -3948,4 +3954,4 @@
   publish_date: null
   spotlight: false
   created: '2025-11-28'
-  updated: '2025-12-01'
+  updated: '2025-12-02'

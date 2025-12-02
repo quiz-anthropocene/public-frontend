@@ -53011,7 +53011,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/33b75398.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 97
@@ -53020,9 +53020,10 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1302
-  text: Quelle est l’étape la plus polluante du processus de fabrication textile ?
+  text: Quelle est l’étape la plus impactante pour l'environnement de tout le processus
+    de fabrication textile ?
   hint: ''
   type: QCM
   category: null
@@ -53063,7 +53064,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1303
   text: Quelle est la contribution des processus de teinture et de finition à la pollution
     d'eau industrielle au global ?
@@ -53083,6 +53084,8 @@
     et de finition procédés représentent environ 20 % de la pollution mondiale des
     eaux industrielles. Lorsque les effluents ne sont pas correctement traités, ils
     contaminent les cours d’eau et les sols dans de nombreuses régions productrices.
+    Les régions fortement productrice ont donc une eau de très mauvais qualité, ce
+    qui affecte l'ensemble de la biodiversité locale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53093,7 +53096,7 @@
   answer_source_scientific_url_text: Textile dyeing industry, an environmental hazard.
     Natural Science, January 2012, Rita Kant, Panjab University
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3cb1fbc9.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 97
@@ -53102,7 +53105,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1304
   text: Combien d’eau faut-il en moyenne pour fabriquer un t-shirt en coton ?
   hint: ''
@@ -53117,12 +53120,13 @@
   answer_choice_d: 2700 litres
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Ce chiffre provient des travaux du Water Footprint Network.
-    Ils sont repris par le Parlement européen et l’ADEME. Ce calcul intègre l’eau
-    de pluie utilisée par la plante (eau verte), l’eau d’irrigation (eau bleue) et
-    l’eau nécessaire au traitement des pollutions liées à la culture et à la transformation
-    du coton (eau grise). A titre de comparaison, la production d’un jean mobilise
-    10 000 litres d’eau.
+  answer_explanation: "Ce chiffre provient des travaux du Water Footprint Network.\
+    \ Ils sont repris par le Parlement européen et l’ADEME. Ce calcul intègre l’eau\
+    \ de pluie utilisée par la plante (eau verte), l’eau d’irrigation (eau bleue)\
+    \ et l’eau nécessaire au traitement des pollutions liées à la culture et à la\
+    \ transformation du coton (eau grise). A titre de comparaison, la production d’un\
+    \ jean mobilise 10 000 litres d’eau.\r\nC'est notamment la production intensive\
+    \ du coton en Ouzbékistant qui a induit la disparition de la mer d'Aral."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53133,8 +53137,8 @@
   answer_source_scientific_url_text: The water footprint of cotton consumption, UNESCO,
     2025
   answer_book_recommendation: ''
-  answer_image_url: ''
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3422a193.jpg
+  answer_image_url_text: Bateau reposant dans le sable de la mer d'Aral, Ouzbékistan
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53142,7 +53146,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1305
   text: Combien d’articles textiles ont été vendus en 2024 dans le monde ?
   hint: ''
@@ -53211,7 +53215,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e94c2d8e.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 97
@@ -53220,7 +53224,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1307
   text: Quelle part des fibres textiles produite dans le monde est d'origine synthétique
     ?
@@ -53275,10 +53279,13 @@
   answer_choice_d: 1 500 000 fibres
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Ces fibres très fines passent en partie à travers les systèmes
-    de traitement des eaux et contribuent à la pollution microplastique des milieux
-    aquatiques. Les premières lessives d’un vêtement neuf peuvent en libérer davantage,
-    en raison du relâchement initial des fibres.
+  answer_explanation: "Ces fibres très fines passent en partie à travers les systèmes\
+    \ de traitement des eaux et contribuent à la pollution microplastique des milieux\
+    \ aquatiques et à la santé de nombreux écosystèmes. \r\nLes premières lessives\
+    \ d’un vêtement neuf peuvent en libérer davantage, en raison du relâchement initial\
+    \ des fibres.\r\nPour éviter cela, on peut donc privilégier des fibres non synthétiques,\
+    \ utiliser moins l'essorage et utiliser un filtre spécifique en sortie de machine\
+    \ à laver."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53298,7 +53305,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1309
   text: Quelle proportion des microplastiques primaires présents dans les océans provient
     des textiles synthétiques ?
@@ -53459,7 +53466,7 @@
   validator: null
   validation_date: null
   created: '2025-12-01'
-  updated: '2025-12-01'
+  updated: '2025-12-02'
 - id: 1313
   text: Parmi ces comportements, lequel contribue le plus à augmenter l’impact environnemental
     d’un vêtement ?
