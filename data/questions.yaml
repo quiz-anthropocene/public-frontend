@@ -53215,16 +53215,16 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e94c2d8e.jpg
-  answer_image_url_text: ''
-  answer_extra_info: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2a83be43.jpg
+  answer_image_url_text: Shopping compulsif, les faits et les chiffres - ADEME
+  answer_extra_info: Différence de perception dans notre consommation avec la réalité
   author: 97
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2025-12-03'
 - id: 1307
   text: Quelle part des fibres textiles produite dans le monde est d'origine synthétique
     ?
