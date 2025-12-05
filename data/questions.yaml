@@ -53155,11 +53155,11 @@
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Environ 100 milliards
-  answer_choice_b: Environ 150 milliards
-  answer_choice_c: Environ 300 milliards
-  answer_choice_d: Environ 500 milliards
-  answer_correct: a
+  answer_choice_a: Environ 20 milliards
+  answer_choice_b: Environ 30 milliards
+  answer_choice_c: Environ 50 milliards
+  answer_choice_d: Environ 100 milliards
+  answer_correct: d
   has_ordered_answers: true
   answer_explanation: "C'est l'ordre de grandeur qui ressort des travaux de la Fondation\
     \ Ellen MacArthur et de plusieurs analyses internationales. La production mondiale\
@@ -53186,10 +53186,10 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2025-12-04'
 - id: 1306
-  text: Combien d’articles d’habillement, linge et chaussures les Français se sont-ils
-    achetés en moyenne en 2024 ?
+  text: Combien d’articles d’habillement, linge et chaussures chaque Françai a-t-il
+    acheté en moyenne en 2024 ?
   hint: ''
   type: QCM
   category: null
@@ -53197,10 +53197,10 @@
   difficulty: 1
   language: FRENCH
   answer_choice_a: '17'
-  answer_choice_b: '42'
-  answer_choice_c: '72'
-  answer_choice_d: '139'
-  answer_correct: b
+  answer_choice_b: '31'
+  answer_choice_c: '42'
+  answer_choice_d: '75'
+  answer_correct: c
   has_ordered_answers: true
   answer_explanation: "Ces 42 articles se répartissent en : 26 vêtements, 12 articles\
     \ de linge de maison et 4 paires de chaussures. \r\nLe marché de la seconde main\
@@ -53224,7 +53224,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-03'
+  updated: '2025-12-04'
 - id: 1307
   text: Quelle part des fibres textiles produite dans le monde est d'origine synthétique
     ?
