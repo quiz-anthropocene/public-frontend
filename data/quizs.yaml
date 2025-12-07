@@ -3938,8 +3938,7 @@
   - 1309
   - 1310
   - 1311
-  - 1312
-  question_count: 12
+  question_count: 11
   tags: []
   difficulty_average: 1.8
   language: FRENCH
@@ -3955,4 +3954,4 @@
   publish_date: null
   spotlight: false
   created: '2025-11-28'
-  updated: '2025-12-02'
+  updated: '2025-12-06'
