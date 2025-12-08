@@ -53158,7 +53158,7 @@
   answer_choice_a: Environ 20 milliards
   answer_choice_b: Environ 30 milliards
   answer_choice_c: Environ 50 milliards
-  answer_choice_d: Environ 100 milliards
+  answer_choice_d: Environ 130 milliards
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "C'est l'ordre de grandeur qui ressort des travaux de la Fondation\
@@ -53186,7 +53186,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-04'
+  updated: '2025-12-07'
 - id: 1306
   text: Combien d’articles d’habillement, linge et chaussures chaque Françai a-t-il
     acheté en moyenne en 2024 ?
