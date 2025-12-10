@@ -40058,8 +40058,8 @@
   created: '2021-11-29'
   updated: '2022-04-16'
 - id: 971
-  text: Quels leviers puis-je activer pour réduire la part du numérique dans mon empreinte
-    ?
+  text: Parmi les propositions suivantes, quels leviers sont efficaces à mon niveau
+    pour réduire la part du numérique dans mon empreinte ?
   hint: ''
   type: QCM-RM
   category: 1
@@ -40068,10 +40068,10 @@
   - 72
   difficulty: 2
   language: FRENCH
-  answer_choice_a: faire durer mon smarphone/ordinateur plus longtemps
-  answer_choice_b: réduire la qualité d'affichage de visionnage des vidéos en ligne
+  answer_choice_a: Faire durer mon smarphone/ordinateur plus longtemps
+  answer_choice_b: Réduire la qualité d'affichage de visionnage des vidéos en ligne
   answer_choice_c: passer de la 4G à la 5G
-  answer_choice_d: regarder des vidéos de chien plutôt que des vidéos de chat
+  answer_choice_d: Regarder des vidéos de chien plutôt que des vidéos de chat
   answer_correct: ab
   has_ordered_answers: false
   answer_explanation: "Le secteur du numérique est tout sauf virtuel en terme d'impact\
@@ -40102,7 +40102,7 @@
   validator: 2
   validation_date: '2021-12-06'
   created: '2021-11-29'
-  updated: '2025-07-03'
+  updated: '2025-12-09'
 - id: 999
   text: Vrai ou faux ? Sur la décennie 2000-2019, la forêt amazonienne au Brésil a
     émis plus de carbone qu'elle n'en a capté.
@@ -44489,11 +44489,10 @@
     l''environnement. Enfin, la production et le tournage des films, bien que parfois
     spectaculaire en matière d''impacts est mutualisée à l''échelle des salles de
     cinéma qui les diffusent. Quand des voitures neuves sont détruites à hauteur de
-    30 millions d''euros sont détruites pour produire l''avant-dernier James Bond,
-    sa très large diffusion induit une quote-part d''impact très faible à l''échelle
-    d''une salle. Une piste face à ces impacts consisterait à rendre obligatoire l''évaluation
-    du poids carbone des films, comme le propose le plan Action ! du Centre National
-    du Cinéma.'
+    30 millions d''euros pour produire un James Bond, sa très large diffusion induit
+    une quote-part d''impact très faible à l''échelle d''une salle. Une piste face
+    à ces impacts consisterait à rendre obligatoire l''évaluation du poids carbone
+    des films, comme le propose le plan Action ! du Centre National du Cinéma.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -44514,7 +44513,7 @@
   validator: 2
   validation_date: '2023-01-25'
   created: '2022-12-26'
-  updated: '2023-01-31'
+  updated: '2025-12-09'
 - id: 1098
   text: Vrai ou faux ? Conserver les grandes peintures de l'humanité a un impact environnemental
     faible.
@@ -52597,9 +52596,9 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Le auto, i pick-up e i furgoni negli Stati Uniti emettono circa\
-    \ 1,45 miliardi di tonnellate di CO2 ogni anno.\r\nSe fossero un Paese, questo\
-    \ sarebbe il sesto più grande emettitore di CO2 al mondo, tra Indonesia e Giappone."
+  answer_explanation: Le auto, i pick-up e i furgoni negli Stati Uniti emettono circa
+    1,45 miliardi di tonnellate di CO2 ogni anno. Se fossero un Paese, questo sarebbe
+    il sesto più grande emettitore di CO2 al mondo, tra Indonesia e Giappone.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52619,7 +52618,7 @@
   validator: 2
   validation_date: null
   created: '2025-10-14'
-  updated: '2025-10-20'
+  updated: '2025-12-09'
 - id: 1292
   text: Il settore dei trasporti negli Stati Uniti emette più gas serra dei trasporti
     di Cina, India, e Russia messi insieme. Vero o falso?
