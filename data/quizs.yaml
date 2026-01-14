@@ -3908,11 +3908,12 @@
 - id: 129
   name: Les impacts du textile
   slug: les-impacts-du-textile
-  introduction: <p>Le textile fait partie de notre quotidien, des vêtements que nous
-    portons aux objets que nous utilisons. La majeure partie de sa production étant
-    aujourd’hui réalisée hors d’Europe, ses impacts restent souvent éloignés de notre
-    regard. Ce quiz propose de prendre du recul et de mieux comprendre l’empreinte
-    environnementale et sociale de cette industrie.</p>
+  introduction: "<p>Le textile fait partie de notre quotidien, des vêtements que nous\
+    \ portons aux objets que nous utilisons.<br />\r\nLa majeure partie de sa production\
+    \ étant aujourd’hui réalisée hors d’Europe, ses impacts restent souvent éloignés\
+    \ de notre regard.</p>\r\n\r\n<p><br />\r\nEssayons de mieux comprendre l’empreinte\
+    \ environnementale et sociale de cette industrie de la production à la fin de\
+    \ vie.<br />\r\nImaginez découvrir l'histoire de votre dernier t-shirt ...</p>"
   conclusion: "<p>Vous avez eu un petit apperçu des impacts environnementaux de la\
     \ filière textile : consommation de ressources, émissions de gaz à effet de serre,\
     \ pollution liée aux fibres synthétiques, usage de produits chimiques, déchets\
@@ -3923,9 +3924,9 @@
     \ faire durer, réparer, choisir l’occasion, refuser le superflu et recycler ce\
     \ qui ne peut plus être porté. Des gestes simples, accessibles et qui, répétés\
     \ à grande échelle, allègent réellement la pression sur l’environnement. À nous\
-    \ de changer la mode pour changer le monde. <br />\r\nUn quiz élaboré par l’association\
-    \ <a href=\"https://www.enjeuxdurables.eu/\">EnJeux Durables</a>.</p>\r\n\r\n\
-    <p> </p>"
+    \ de changer la mode pour changer le monde. <br />\r\n<br />\r\nEt vous, qu'allez-cous\
+    \ changer maintenant?<br />\r\n<br />\r\nUn quiz élaboré par l’association <a\
+    \ href=\"https://www.enjeuxdurables.eu/\">EnJeux Durables</a>.</p>\r\n\r\n<p> </p>"
   questions:
   - 1301
   - 1302
@@ -3954,4 +3955,4 @@
   publish_date: null
   spotlight: false
   created: '2025-11-28'
-  updated: '2025-12-06'
+  updated: '2026-01-13'
