@@ -52980,8 +52980,8 @@
   created: '2025-11-27'
   updated: '2025-11-28'
 - id: 1301
-  text: Quel part des émissions mondiales de gaz à effet de serre est attribué à l’industrie
-    textile ?
+  text: Quelle  part des émissions mondiales de gaz à effet de serre est attribuée
+    à l’industrie textile ?
   hint: ''
   type: QCM
   category: 1
@@ -52994,19 +52994,18 @@
   answer_choice_d: 18-22%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Selon l’ADEME, l’industrie textile compte pour environ 10 %
-    des émissions mondiales de gaz à effet de serre. D’autres travaux internationaux
-    situent cette contribution entre 4 et 8 %, selon les périmètres retenus et les
-    méthodes de calcul. Dans tous les cas, la filière textile reste l’un des secteurs
-    les plus émetteurs, et son impact continue de croître avec l’augmentation des
-    volumes de production.
+  answer_explanation: Selon l’ADEME (Agence de l'Environnement et de la Maîtrise de
+    l'Énergie) , l’industrie textile compte pour environ 10 % des émissions mondiales
+    de gaz à effet de serre. D’autres travaux internationaux situent cette contribution
+    entre 4 et 8 %, selon les périmètres retenus et les méthodes de calcul. Dans tous
+    les cas, la filière textile reste l’un des secteurs les plus émetteurs, et son
+    impact continue de croître avec l’augmentation des volumes de production.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://librairie.ademe.fr/changement-climatique/7181-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-filiere-mode-et-textile-9791029722929.html
-  answer_source_accessible_url_text: 'Réalisation d''un bilan des émissions de gaz
-    à effet de serre : filière mode et textile  Guide sectoriel 2024 de l''ADEME.'
+  answer_source_accessible_url_text: Filière mode et textile -   Guide 2024 de l'ADEME.
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -53019,10 +53018,10 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2026-01-13'
 - id: 1302
   text: Quelle est l’étape la plus impactante pour l'environnement de tout le processus
-    de fabrication textile ?
+    de fabrication des textiles ?
   hint: ''
   type: QCM
   category: null
@@ -53036,23 +53035,22 @@
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: "Ce sont en effet la teinture et la finition des textiles qui\
-    \ sont les étapes les plus polluantes du cycle de vie. Selon Quantis, l'ennoblissement\
-    \ (teintures, impressions, blanchiment) représente à lui seul 36% des émissions\
-    \ de gaz à effet de serre de l'industrie. Cette phase consomme énormément d'eau\
-    \ et de produits chimiques toxiques.\r\n Les rejets de teinture contaminent les\
-    \ cours d'eau, notamment en Asie du Sud. \r\nEt il ne faut pas oublier que la\
-    \ production des matièrres premières est aussi très émissive et que les textiles\
-    \ parcourent plusieurs fois le monde avant d'arriver chez le consommateur.\""
+    \ sont les étapes les plus polluantes du cycle de vie. \r\nSelon une étude de\
+    \ Quantis, l'ennoblissement (teintures, impressions, blanchiment) représente à\
+    \ lui seul 36% des émissions de gaz à effet de serre de l'industrie. \r\nCette\
+    \ phase consomme énormément d'eau et de produits chimiques toxiques.\r\nLes teintures\
+    \ contiennent des métaux lourds (chrome, plomb, cadmium) et des produits chimiques\
+    \ non biodégradables. Ces rejets empoisonnent les rivières et affectent la santé\
+    \ des populations riveraines."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
-  answer_source_accessible_url_text: 'Guide sectoriel d’écoconception : textile d’habillement.
-    Leviers d’actions : des premiers pas aux pistes spécifiques d’approfondissement.
-    Rapport final ADEME, mars 2025'
+  answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://librairie.ademe.fr/index.php?controller=attachment&id_attachment=4418
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url_text: 'Guide sectoriel d’écoconception : textile d’habillement.
+    ADEME, mars 2025'
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1e939c26.jpg
   answer_image_url_text: ''
@@ -53063,10 +53061,10 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2026-01-13'
 - id: 1303
   text: Quelle est la contribution des processus de teinture et de finition à la pollution
-    d'eau industrielle au global ?
+    d'eau industrielle au niveau mondial ?
   hint: ''
   type: QCM
   category: null
@@ -53079,12 +53077,12 @@
   answer_choice_d: 20%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Selon la Fondation Ellen MacArthur, les procédés de teinture
-    et de finition procédés représentent environ 20 % de la pollution mondiale des
-    eaux industrielles. Lorsque les effluents ne sont pas correctement traités, ils
-    contaminent les cours d’eau et les sols dans de nombreuses régions productrices.
-    Les régions fortement productrice ont donc une eau de très mauvais qualité, ce
-    qui affecte l'ensemble de la biodiversité locale.
+  answer_explanation: "Selon la Fondation Ellen MacArthur, les procédés de teinture\
+    \ et de finition procédés représentent environ 20 % de la pollution mondiale des\
+    \ eaux industrielles. \r\nLorsque les effluents ne sont pas correctement traités,\
+    \ ils contaminent les cours d’eau et les sols dans de nombreuses régions productrices.\
+    \ Les régions fortement productrice ont donc une eau de très mauvais qualité,\
+    \ ce qui affecte l'ensemble de la biodiversité locale."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53096,7 +53094,7 @@
     Natural Science, January 2012, Rita Kant, Panjab University
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3cb1fbc9.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: Eau de rivière polluée par des colorants
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53104,9 +53102,9 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2026-01-13'
 - id: 1304
-  text: Combien d’eau faut-il en moyenne pour fabriquer un t-shirt en coton ?
+  text: Combien d’eau faut-il en moyenne pour produire un t-shirt en coton ?
   hint: ''
   type: QCM
   category: null
@@ -53119,13 +53117,13 @@
   answer_choice_d: 2700 litres
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "Ce chiffre provient des travaux du Water Footprint Network.\
-    \ Ils sont repris par le Parlement européen et l’ADEME. Ce calcul intègre l’eau\
+  answer_explanation: "Ce chiffre provient des travaux du Water Footprint Network\
+    \ qui sont repris par le Parlement européen et l’ADEME. Ce calcul intègre l’eau\
     \ de pluie utilisée par la plante (eau verte), l’eau d’irrigation (eau bleue)\
     \ et l’eau nécessaire au traitement des pollutions liées à la culture et à la\
-    \ transformation du coton (eau grise). A titre de comparaison, la production d’un\
-    \ jean mobilise 10 000 litres d’eau.\r\nC'est notamment la production intensive\
-    \ du coton en Ouzbékistant qui a induit la disparition de la mer d'Aral."
+    \ transformation du coton (eau grise) mais aussi l'eau nécessaire au lavage et\
+    \ à la teinteure du coton. \r\nA titre de comparaison, la production d’un jean\
+    \ mobilise 10 000 litres d’eau."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53137,7 +53135,9 @@
     2025
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3422a193.jpg
-  answer_image_url_text: Bateau reposant dans le sable de la mer d'Aral, Ouzbékistan
+  answer_image_url_text: "Bateau reposant dans le sable de la mer d'Aral, Ouzbékistan\r\
+    \nLa mer d'Aral a vu sa surface diminuer de 90% en 60 ans suite à la plantation\
+    \ intenssive de de coton par l'URSS et à l'irrigation de ces champs."
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53145,7 +53145,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2026-01-13'
 - id: 1305
   text: Combien d’articles textiles ont été vendus en 2024 dans le monde ?
   hint: ''
@@ -53154,29 +53154,32 @@
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: Environ 20 milliards
+  answer_choice_a: Moins de 20 milliards
   answer_choice_b: Environ 30 milliards
-  answer_choice_c: Environ 50 milliards
-  answer_choice_d: Environ 130 milliards
+  answer_choice_c: Environ 60 milliards
+  answer_choice_d: Plus de 100 milliards
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "C'est l'ordre de grandeur qui ressort des travaux de la Fondation\
     \ Ellen MacArthur et de plusieurs analyses internationales. La production mondiale\
     \ de vêtements a doublé entre 2000 et 2015, et continue de croître sous l’effet\
-    \ de la fast fashion et de la baisse des prix moyens. Ce chiffre suit depuis une\
-    \ augmentation d'environ 3-5% par an.\r\nEn France, ce sont 3,5 milliards de pièces\
-    \ neuves qui ont été mises sur le marché en 2024. La production française de de\
-    \ textile s'est, elle, écroulée depuis les années 2000."
+    \ de la fast fashion et de la baisse des prix moyens. \r\nCe chiffre suit depuis\
+    \ une augmentation d'environ 3-5% par an et il était d'environ 100 milliards en\
+    \ 2014. Cela laisse penser que le chiffre réel pourrait être beaucoup plus élevé.\r\
+    \nEn France, ce sont 3,5 milliards de pièces neuves qui ont été mises sur le marché\
+    \ en 2024. La production française de de textile s'est, elle, écroulée depuis\
+    \ les années 2000."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://content.ellenmacarthurfoundation.org/m/7f818b40f06e1afd/original/Summary-of-findings-A-New-Textiles-Economy.pdf?utm_source%3Dchatgpt.com&sa=D&source=editors&ust=1764362439996500&usg=AOvVaw2F1gJunYF-98eLsvkRIy5d
+  answer_source_accessible_url_text: 'A new textiles economy : redesigning fashion''s
+    future, Fondation Ellen MAcarthur 2017'
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40a9be18.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 97
@@ -53185,10 +53188,10 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-07'
+  updated: '2026-01-13'
 - id: 1306
-  text: Combien d’articles d’habillement, linge et chaussures chaque Françai a-t-il
-    acheté en moyenne en 2024 ?
+  text: Combien d’articles d’habillement, linge de maison et chaussures neufs chaque
+    français a-t-il acheté en moyenne en 2024 ?
   hint: ''
   type: QCM
   category: null
@@ -53216,14 +53219,15 @@
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2a83be43.jpg
   answer_image_url_text: Shopping compulsif, les faits et les chiffres - ADEME
-  answer_extra_info: Différence de perception dans notre consommation avec la réalité
+  answer_extra_info: Analyse des pratiques liées aux achats de produits d'habillement,
+    ADEME
   author: 97
   visibility: PUBLIC
   validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-04'
+  updated: '2026-01-13'
 - id: 1307
   text: Quelle part des fibres textiles produite dans le monde est d'origine synthétique
     ?
@@ -53278,13 +53282,13 @@
   answer_choice_d: 1 500 000 fibres
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Ces fibres très fines passent en partie à travers les systèmes\
+  answer_explanation: "Ces fibres, très fines, passent en partie à travers les systèmes\
     \ de traitement des eaux et contribuent à la pollution microplastique des milieux\
-    \ aquatiques et à la santé de nombreux écosystèmes. \r\nLes premières lessives\
-    \ d’un vêtement neuf peuvent en libérer davantage, en raison du relâchement initial\
-    \ des fibres.\r\nPour éviter cela, on peut donc privilégier des fibres non synthétiques,\
-    \ utiliser moins l'essorage et utiliser un filtre spécifique en sortie de machine\
-    \ à laver."
+    \ aquatiques et à la détérioration de nombreux écosystèmes. \r\nLes premières\
+    \ lessives d’un vêtement neuf peuvent en libérer davantage, en raison du relâchement\
+    \ initial des fibres.\r\nPour éviter cela, on peut donc privilégier des fibres\
+    \ non synthétiques, utiliser moins l'essorage et utiliser un filtre spécifique\
+    \ en sortie de machine à laver."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53304,7 +53308,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2026-01-13'
 - id: 1309
   text: Quelle proportion des microplastiques primaires présents dans les océans provient
     des textiles synthétiques ?
@@ -53321,10 +53325,10 @@
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Ces micro-plastiques viennent pour une grande partie des eaux\
-    \ usées, via le lavage de nos vêtements.\r\nChaque lavage de matières synthétique\
+    \ usées, via le lavage de nos vêtements.\r\nChaque lavage de matières synthétiques\
     \ rejette un nombre très important de micro-plastiques qui ne sont que très peu\
     \ filtrés par les stations de traitement des eaux.\r\nLa dégradation des filets\
-    \ de pêche laissés à l'abandon dans l'océan compte aussi pour une part."
+    \ de pêche laissés à l'abandon dans l'océan compte aussi pour une part non négligeable."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53345,7 +53349,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2026-01-13'
 - id: 1310
   text: Pour un t-shirt vendu 29 € en Europe, quelle part revient aux ouvrières et
     ouvriers qui l’ont confectionné ?
@@ -53361,10 +53365,11 @@
   answer_choice_d: 1,60€
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: Selon Oxfam, les ouvrières et ouvriers de la confection perçoivent
-    environ 0,18 € pour un t-shirt vendu 29 € en Europe, soit moins de 1 % du prix
-    final. Ce chiffre reflète la très faible part de la valeur captée par les personnes
-    qui fabriquent les vêtements, principalement dans des pays à bas salaires.
+  answer_explanation: "Selon Oxfam, les ouvrières ( qui sont nettement majoraitaires\
+    \ dans cette industrie) et ouvriers de la confection perçoivent environ 0,18 €\
+    \ pour un t-shirt vendu 29 € en Europe, soit moins de 1 % du prix final.\r\n Ce\
+    \ chiffre reflète la très faible part de la valeur captée par les personnes qui\
+    \ fabriquent les vêtements, principalement dans des pays à bas salaires."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53376,7 +53381,7 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9f6d3b0a.png
-  answer_image_url_text: ''
+  answer_image_url_text: Décomposition du prix d'un t-shirt
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
@@ -53384,7 +53389,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-02'
+  updated: '2026-01-13'
 - id: 1311
   text: Quelle proportion des textiles collectés chaque année en France est destinée
     à la réutilisation ?
@@ -53425,7 +53430,7 @@
   validator: null
   validation_date: null
   created: '2025-11-30'
-  updated: '2025-12-01'
+  updated: '2026-01-13'
 - id: 1312
   text: Quel pourcentage des textiles usagés mis sur le marché en France est effectivement
     collecté chaque année ?
@@ -53456,7 +53461,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ce268053.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 97
@@ -53465,7 +53470,7 @@
   validator: null
   validation_date: null
   created: '2025-12-01'
-  updated: '2025-12-06'
+  updated: '2026-01-13'
 - id: 1313
   text: Parmi ces comportements, lequel contribue le plus à augmenter l’impact environnemental
     d’un vêtement ?
