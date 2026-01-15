@@ -52985,7 +52985,8 @@
   hint: ''
   type: QCM
   category: 1
-  tags: []
+  tags:
+  - 88
   difficulty: 2
   language: FRENCH
   answer_choice_a: 3%
@@ -53008,23 +53009,25 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/33b75398.jpg
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9565e3ae.png
+  answer_image_url_text: T-shirt 'Climate Stripes' pour alerter sur le réchauffement
+    climatique
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1302
-  text: Quelle est l’étape la plus impactante pour l'environnement de tout le processus
-    de fabrication des textiles ?
+  text: Dans la fabrication des textiles, quelles sont les étapes les plus polluantes
+    ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 7
+  tags:
+  - 88
   difficulty: 2
   language: FRENCH
   answer_choice_a: La production des fibres
@@ -53053,18 +53056,19 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1303
   text: Quelle est la contribution des processus de teinture et de finition à la pollution
     d'eau industrielle au niveau mondial ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 7
+  tags:
+  - 88
   difficulty: 3
   language: FRENCH
   answer_choice_a: 2%
@@ -53073,10 +53077,10 @@
   answer_choice_d: 20%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Dans de nombreuses régions productrices, lorsque les effluents
-    ne sont pas correctement traités, ils contaminent les cours d’eau et les sols
-    Les régions fortement productrice ont donc une eau de très mauvais qualité, ce
-    qui affecte l'ensemble de la biodiversité locale.
+  answer_explanation: Dans de nombreuses régions productrices, les effluents ne sont
+    pas correctement traités et contaminent les cours d’eau et les sols. Les régions
+    fortement productrices ont ainsi une eau de très mauvais qualité, ce qui affecte
+    l'ensemble de la biodiversité locale.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53092,17 +53096,18 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1304
   text: Combien d’eau faut-il en moyenne pour produire un t-shirt en coton ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 7
+  tags:
+  - 88
   difficulty: 1
   language: FRENCH
   answer_choice_a: 200 litres
@@ -53134,17 +53139,18 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1305
   text: Combien d’articles textiles ont été vendus en 2024 dans le monde ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 7
+  tags:
+  - 88
   difficulty: 1
   language: FRENCH
   answer_choice_a: Moins de 20 milliards
@@ -53153,15 +53159,13 @@
   answer_choice_d: Plus de 100 milliards
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "C'est l'ordre de grandeur qui ressort des travaux de la Fondation\
-    \ Ellen MacArthur et de plusieurs analyses internationales. La production mondiale\
-    \ de vêtements a doublé entre 2000 et 2015, et continue de croître sous l’effet\
-    \ de la fast fashion et de la baisse des prix moyens. \r\nCe chiffre suit depuis\
-    \ une augmentation d'environ 3-5% par an et il était d'environ 100 milliards en\
-    \ 2014. Cela laisse penser que le chiffre réel pourrait être beaucoup plus élevé.\r\
-    \nEn France, ce sont 3,5 milliards de pièces neuves qui ont été mises sur le marché\
-    \ en 2024. La production française de de textile s'est, elle, écroulée depuis\
-    \ les années 2000."
+  answer_explanation: "La production mondiale de vêtements a doublé entre 2000 et\
+    \ 2015, et continue de croître sous l’effet de la fast fashion et de la baisse\
+    \ des prix moyens. Ce chiffre suit depuis une augmentation d'environ 3-5% par\
+    \ an. Il était d'environ 100 milliards en 2014. La quantité actuelle est problablement\
+    \ beaucoup plus élevée.\r\nEn France, ce sont 3,5 milliards de pièces neuves qui\
+    \ ont été mises sur le marché en 2024. La production française de de textile s'est,\
+    \ elle, écroulée depuis les années 2000."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53177,21 +53181,22 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1306
-  text: Combien d’articles d’habillement, linge de maison et chaussures neufs chaque
-    français a-t-il acheté en moyenne en 2024 ?
+  text: Combien d’articles neufs les Français ont-t-il achetés en moyenne en 2024
+    ? (vêtements, linge de maison et chaussures)
   hint: ''
   type: QCM
-  category: null
-  tags: []
-  difficulty: 1
+  category: 7
+  tags:
+  - 88
+  difficulty: 2
   language: FRENCH
-  answer_choice_a: '17'
+  answer_choice_a: 17 par personne
   answer_choice_b: '31'
   answer_choice_c: '42'
   answer_choice_d: '75'
@@ -53216,18 +53221,19 @@
     ADEME
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1307
   text: Quelle part des fibres textiles produite dans le monde est d'origine synthétique
     ?
   hint: ''
   type: QCM
   category: 7
-  tags: []
+  tags:
+  - 88
   difficulty: 3
   language: FRENCH
   answer_choice_a: 65%
@@ -53236,10 +53242,10 @@
   answer_choice_d: 95%
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: La part du coton, qui dominait historiquement le marché, est
-    passée de plus de 60 % en poids dans les années 1960 à moins de 25 % aujourd’hui.
-    Cette évolution s’explique par la croissance rapide du polyester, une fibre peu
-    coûteuse et produite à grande échelle à partir de ressources fossiles.
+  answer_explanation: A contrario, la part du coton, qui dominait historiquement le
+    marché, est passée de plus de 60 % en poids dans les années 1960 à moins de 25
+    % aujourd’hui. Cette évolution s’explique par la croissance rapide du polyester,
+    une fibre peu coûteuse et produite à grande échelle à partir de ressources fossiles.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53255,17 +53261,17 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1308
   text: Combien de fibres microplastiques peuvent être libérées lors d’une seule lessive
     de vêtements en polyester ?
   hint: ''
   type: QCM
-  category: null
+  category: 7
   tags: []
   difficulty: 1
   language: FRENCH
@@ -53284,7 +53290,7 @@
     \ en sortie de machine à laver.\r\n\r\nCes résidus de textile correspondent à\
     \ 70% du plastique rejeté dans les océans. Au total, les humains rejettent entre\
     \ 10 et 20 millions de tonnes de plastique chaque année dans les océans ce qui\
-    \ estd ésastreux pour les écosystèmes."
+    \ est désastreux pour les écosystèmes."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53300,11 +53306,11 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1309
   text: Quelle proportion des microplastiques primaires présents dans les océans provient
     des textiles synthétiques ?
@@ -53349,8 +53355,9 @@
     ouvriers qui l’ont confectionné ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
+  category: 7
+  tags:
+  - 88
   difficulty: 2
   language: FRENCH
   answer_choice_a: 0,18€
@@ -53379,19 +53386,20 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1311
   text: Quelle proportion des textiles collectés chaque année en France est destinée
     à la réutilisation ?
   hint: ''
   type: QCM
-  category: null
-  tags: []
-  difficulty: 1
+  category: 7
+  tags:
+  - 88
+  difficulty: 2
   language: FRENCH
   answer_choice_a: 14%
   answer_choice_b: 25%
@@ -53401,7 +53409,7 @@
   has_ordered_answers: true
   answer_explanation: Une petite part est revendue en seconde main en France, tandis
     que la majorité est exportée pour être triée puis revendue sur des marchés de
-    seconde main. Un tiers des textiles collectés sont recyclés, notamment pour fabriquer
+    seconde main. Un tiers des textiles collectés est recyclé, notamment pour fabriquer
     de l’isolant, des chiffons d’essuyage ou de nouvelles fibres, et près de 8 % sont
     orientés vers d’autres formes de valorisation.
   answer_audio_url: ''
@@ -53419,11 +53427,11 @@
   answer_extra_info: ''
   author: 97
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
 - id: 1312
   text: Quel pourcentage des textiles usagés mis sur le marché en France est effectivement
     collecté chaque année ?

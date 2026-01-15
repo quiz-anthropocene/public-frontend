@@ -3911,22 +3911,21 @@
   introduction: "<p>Des vêtements que nous portons aux objets que nous utilisons,\
     \ le textile fait partie de notre quotidien. <br />\r\nComme la majeure partie\
     \ de sa production est aujourd’hui réalisée hors d’Europe, ses impacts restent\
-    \ souvent ignorés.<br />\r\nImaginez découvrir l'histoire de votre dernier t-shirt\
-    \ ...Tentons ensemble de mieux en comprendre l’empreinte environnementale et sociale,\
-    \ depuis la production jusqu'à sa mise au rebut.</p>"
-  conclusion: "<p>Vous avez eu un petit apperçu des impacts environnementaux de la\
-    \ filière textile : consommation de ressources, émissions de gaz à effet de serre,\
-    \ pollution liée aux fibres synthétiques, usage de produits chimiques, déchets\
-    \ en fin de vie. La majeure partie d'entre eux sont à l’étranger. Le reste se\
-    \ manifeste chez nous, à travers notre consommation, notre entretien et la gestion\
-    \ des textiles usagés.</p>\r\n\r\n<p>La bonne nouvelle, c’est que chacun peut\
-    \ agir. Réduire les achats inutiles, privilégier la qualité, faire durer, réparer,\
-    \ choisir l’occasion, refuser le superflu et recycler ce qui ne peut plus être\
-    \ porté. Des gestes simples, accessibles et qui, répétés à grande échelle, allègent\
-    \ réellement la pression sur l’environnement. À nous de changer la mode pour changer\
-    \ le monde. <br />\r\n<br />\r\nEt vous, qu'allez-vous changer maintenant ?<br\
-    \ />\r\n<br />\r\nUn quiz élaboré par l’association <a href=\"https://www.enjeuxdurables.eu/\"\
-    >EnJeux Durables</a></p>"
+    \ souvent ignorés.<br />\r\nQuelle est l'histoire de votre dernier t-shirt ? Tentons\
+    \ ensemble de mieux en comprendre l’empreinte environnementale et sociale, depuis\
+    \ la production jusqu'à sa mise au rebut.</p>"
+  conclusion: "<p>Voici donc premier aperçu des impacts de la filière textile : consommation\
+    \ de ressources, émissions de gaz à effet de serre, pollution liée aux fibres\
+    \ synthétiques, usage de produits chimiques, déchets en fin de vie. La majeure\
+    \ partie d'entre eux sont à l’étranger. Les autres se manifestent chez nous, à\
+    \ travers notre consommation, notre entretien et la gestion des textiles usagés.</p>\r\
+    \n\r\n<p>La bonne nouvelle, c’est que chacun peut agir. Réduire les achats inutiles,\
+    \ privilégier la qualité, faire durer, réparer, choisir l’occasion, refuser le\
+    \ superflu et recycler ce qui ne peut plus être porté. Des gestes simples, accessibles\
+    \ et qui, répétés à grande échelle, allègent réellement la pression sur l’environnement.\
+    \ À nous de changer la mode pour changer le monde. <br />\r\n<br />\r\nEt vous,\
+    \ qu'allez-vous changer maintenant ?<br />\r\n<br />\r\nUn quiz élaboré par l’association\
+    \ <a href=\"https://www.enjeuxdurables.eu/\">EnJeux Durables</a></p>"
   questions:
   - 1301
   - 1302
@@ -3939,19 +3938,21 @@
   - 1310
   - 1311
   question_count: 10
-  tags: []
-  difficulty_average: 1.7
+  tags:
+  - 9
+  - 88
+  difficulty_average: 1.9
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/31a26952.jpg
   has_audio: false
   authors:
   - 97
-  visibility: HIDDEN
-  validation_status: TO_VALIDATE
-  validator: null
-  validation_date: null
-  publish: false
+  visibility: PUBLIC
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2026-01-15'
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2025-11-28'
-  updated: '2026-01-14'
+  updated: '2026-01-15'
