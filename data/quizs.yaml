@@ -3037,7 +3037,7 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2024-05-24'
   updated: '2026-01-15'
 - id: 107
@@ -3768,7 +3768,7 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2025-07-01'
   updated: '2026-01-15'
 - id: 126
