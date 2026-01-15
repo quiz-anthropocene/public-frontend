@@ -3908,25 +3908,25 @@
 - id: 129
   name: Les impacts du textile
   slug: les-impacts-du-textile
-  introduction: "<p>Le textile fait partie de notre quotidien, des vêtements que nous\
-    \ portons aux objets que nous utilisons.<br />\r\nLa majeure partie de sa production\
-    \ étant aujourd’hui réalisée hors d’Europe, ses impacts restent souvent éloignés\
-    \ de notre regard.</p>\r\n\r\n<p><br />\r\nEssayons de mieux comprendre l’empreinte\
-    \ environnementale et sociale de cette industrie de la production à la fin de\
-    \ vie.<br />\r\nImaginez découvrir l'histoire de votre dernier t-shirt ...</p>"
+  introduction: "<p>Des vêtements que nous portons aux objets que nous utilisons,\
+    \ le textile fait partie de notre quotidien. <br />\r\nComme la majeure partie\
+    \ de sa production est aujourd’hui réalisée hors d’Europe, ses impacts restent\
+    \ souvent ignorés.<br />\r\nImaginez découvrir l'histoire de votre dernier t-shirt\
+    \ ...Tentons ensemble de mieux en comprendre l’empreinte environnementale et sociale,\
+    \ depuis la production jusqu'à sa mise au rebut.</p>"
   conclusion: "<p>Vous avez eu un petit apperçu des impacts environnementaux de la\
     \ filière textile : consommation de ressources, émissions de gaz à effet de serre,\
     \ pollution liée aux fibres synthétiques, usage de produits chimiques, déchets\
-    \ en fin de vie. La majeure partie des impacts se produit lors de la fabrication\
-    \ à l’étranger. Le reste se manifeste chez nous, à travers notre consommation,\
-    \ notre entretien et la gestion des textiles usagés.</p>\r\n\r\n<p>La bonne nouvelle,\
-    \ c’est que chacun peut agir. Réduire les achats inutiles, privilégier la qualité,\
-    \ faire durer, réparer, choisir l’occasion, refuser le superflu et recycler ce\
-    \ qui ne peut plus être porté. Des gestes simples, accessibles et qui, répétés\
-    \ à grande échelle, allègent réellement la pression sur l’environnement. À nous\
-    \ de changer la mode pour changer le monde. <br />\r\n<br />\r\nEt vous, qu'allez-cous\
-    \ changer maintenant?<br />\r\n<br />\r\nUn quiz élaboré par l’association <a\
-    \ href=\"https://www.enjeuxdurables.eu/\">EnJeux Durables</a>.</p>\r\n\r\n<p> </p>"
+    \ en fin de vie. La majeure partie d'entre eux sont à l’étranger. Le reste se\
+    \ manifeste chez nous, à travers notre consommation, notre entretien et la gestion\
+    \ des textiles usagés.</p>\r\n\r\n<p>La bonne nouvelle, c’est que chacun peut\
+    \ agir. Réduire les achats inutiles, privilégier la qualité, faire durer, réparer,\
+    \ choisir l’occasion, refuser le superflu et recycler ce qui ne peut plus être\
+    \ porté. Des gestes simples, accessibles et qui, répétés à grande échelle, allègent\
+    \ réellement la pression sur l’environnement. À nous de changer la mode pour changer\
+    \ le monde. <br />\r\n<br />\r\nEt vous, qu'allez-vous changer maintenant ?<br\
+    \ />\r\n<br />\r\nUn quiz élaboré par l’association <a href=\"https://www.enjeuxdurables.eu/\"\
+    >EnJeux Durables</a></p>"
   questions:
   - 1301
   - 1302
@@ -3936,12 +3936,11 @@
   - 1306
   - 1307
   - 1308
-  - 1309
   - 1310
   - 1311
-  question_count: 11
+  question_count: 10
   tags: []
-  difficulty_average: 1.8
+  difficulty_average: 1.7
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/31a26952.jpg
   has_audio: false
@@ -3955,4 +3954,4 @@
   publish_date: null
   spotlight: false
   created: '2025-11-28'
-  updated: '2026-01-13'
+  updated: '2026-01-14'
