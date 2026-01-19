@@ -53267,7 +53267,7 @@
   created: '2025-11-30'
   updated: '2026-01-15'
 - id: 1308
-  text: Combien de fibres microplastiques peuvent être libérées lors d’une seule lessive
+  text: Combien de microfibres plastiques peuvent être libérées lors d’une seule lessive
     de vêtements en polyester ?
   hint: ''
   type: QCM
@@ -53275,22 +53275,25 @@
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: 150 000 fibres
-  answer_choice_b: 350 000 fibres
-  answer_choice_c: 700 000 fibres
-  answer_choice_d: 1 500 000 fibres
+  answer_choice_a: L’équivalent de quelques lessives standard
+  answer_choice_b: L’équivalent de plusieurs semaines de lessives
+  answer_choice_c: L’équivalent de plusieurs mois de lessives
+  answer_choice_d: L’équivalent d’une année entière de lessives
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Ces fibres, très fines, passent en partie à travers les systèmes\
-    \ de traitement des eaux et contribuent à la pollution microplastique des milieux\
-    \ aquatiques et à la détérioration de nombreux écosystèmes. \r\nLes premières\
-    \ lessives d’un vêtement neuf peuvent en libérer davantage, en raison du relâchement\
-    \ initial des fibres.\r\nPour éviter cela, on peut donc privilégier des fibres\
-    \ non synthétiques, utiliser moins l'essorage et utiliser un filtre spécifique\
-    \ en sortie de machine à laver.\r\n\r\nCes résidus de textile correspondent à\
-    \ 70% du plastique rejeté dans les océans. Au total, les humains rejettent entre\
-    \ 10 et 20 millions de tonnes de plastique chaque année dans les océans ce qui\
-    \ est désastreux pour les écosystèmes."
+  answer_explanation: "Lors d’une seule lessive, un vêtement en polyester peut libérer\
+    \ jusqu’à 700 000 microfibres plastiques, invisibles à l’œil nu. Cela représente\
+    \ plusieurs dizaines de millions de fibres plastiques par an pour une famille,\
+    \ uniquement via le lavage de ses vêtements.\r\nCes microfibres sont si fines\
+    \ qu’une grande partie échappe aux stations d’épuration, se retrouve dans les\
+    \ rivières puis dans les océans, où elles sont ingérées par le plancton, les poissons\
+    \ et les oiseaux marins. Contrairement aux fibres naturelles, le polyester ne\
+    \ se dégrade pas : chaque fibre libérée peut persister pendant des décennies,\
+    \ s’accumulant progressivement dans les écosystèmes et la chaîne alimentaire.\
+    \ Les premières lessives d’un vêtement neuf sont particulièrement polluantes,\
+    \ en raison du relâchement initial des fibres. \r\nPour limiter cet impact, il\
+    \ faut privilégier les fibres naturelles. Et sinon : réduire l’essorage, les laver\
+    \ moins souvent et utiliser un filtre ou un sac de lavage anti-microfibres."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -53310,7 +53313,7 @@
   validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-15'
+  updated: '2026-01-19'
 - id: 1309
   text: Quelle proportion des microplastiques primaires présents dans les océans provient
     des textiles synthétiques ?
