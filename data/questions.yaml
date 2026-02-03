@@ -30657,14 +30657,15 @@
   language: FRENCH
   answer_choice_a: 3%
   answer_choice_b: 15%
-  answer_choice_c: 35%
-  answer_choice_d: 50%
+  answer_choice_c: 45%
+  answer_choice_d: 60%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Avec la montée du niveau des mers, les zones cotières situées
-    à très basse altitude subissent des intrusions d'eau salée dans leur eaux souterraines
-    de plus en plus loin vers l'intérieur des terres. Cela peut poser des problèmes
-    d'approvisionnement en eau pour certaines populations côtières.
+  answer_explanation: Selon les données de l’ARS, la moitié des Réunionnais disposent
+    d’une eau de bonne qualité, mais l’autre moitié est alimentée par des eaux dont
+    la sécurité sanitaire est insuffisante. L’élévation prévisible du niveau de la
+    mer accentue également le risque de salinisation des aquifères situés en partie
+    littorale, soit 46 % de l’eau utilisée pour les besoins de la population.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30672,8 +30673,9 @@
   answer_source_accessible_url: http://wikhydro.developpement-durable.gouv.fr/index.php/Changement_climatique_-_accentuation_de_la_salinit%C3%A9_des_eaux_souterraines_littorales
   answer_source_accessible_url_text: Changement climatique - accentuation de la salinité
     des eaux souterraines littorales - Wikhydro
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.assemblee-nationale.fr/dyn/docs/RINFANR5L16B2069.raw
+  answer_source_scientific_url_text: Assemblée Nationale, Rapport d'information sur
+    l’adaptation de la politique de l’eau au défi climatique, 2024
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000749-8dad.jpg
   answer_image_url_text: "Schéma de principe des interactions entre eaux souterraines\
@@ -30687,7 +30689,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-03-12'
+  updated: '2026-01-30'
 - id: 750
   text: Quelle part de la population mondiale voyage en avion ?
   hint: ''
@@ -32758,12 +32760,12 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.eaudyssee.org/empreinte-eau-explications/
   answer_source_accessible_url_text: Explications sur le site Eau’dyssée
-  answer_source_scientific_url: https://waterfootprint.org/media/downloads/Report56-WaterFootprintFrance.pdf
+  answer_source_scientific_url: https://www.waterfootprint.org/resources/Report56-WaterFootprintFrance.pdf
   answer_source_scientific_url_text: Ercin, A.E., Mekonnen, M.M and Hoekstra, A.Y.
     (2012) The water footprint of France, Value of Water Research Report Series No.
     56, UNESCO-IHE
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4245750f.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/96ae903b.png
   answer_image_url_text: Irrigation d'un champ de coton
   answer_extra_info: ''
   author: 49
@@ -32772,7 +32774,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2025-03-20'
+  updated: '2026-01-30'
 - id: 798
   text: 'Vrai ou faux : les produits d’origine animale ont en moyenne une empreinte
     eau plus élevée que ceux d’origine végétale'
@@ -35564,7 +35566,7 @@
   created: '2021-02-14'
   updated: '2024-03-05'
 - id: 865
-  text: Quelle proportion de la population mondiale n'a pas accès à l'eau potable
+  text: Quelle proportion de la population mondiale est en situation de stress hydrique
     ?
   hint: ''
   type: QCM
@@ -35576,11 +35578,11 @@
   answer_choice_a: 10%
   answer_choice_b: 20%
   answer_choice_c: 30%
-  answer_choice_d: 40%
+  answer_choice_d: Plus de la moitié
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Selon l'ONU, à l'horizon 2025, entre la moitié et les deux\
-    \ tiers de l’humanité – soit entre 4 et 5,3 milliards d’humains – devraient être\
+    \ tiers de l’humanité – soit entre 4 et 5,3 milliards d’humains – devrait être\
     \ en situation dite de stress hydrique. Et selon une étude scientifique récente\
     \ : \r\n- 80% de la population mondiale est exposée à des risques de pénurie ;\r\
     \n- en 2030, 40% de la demande mondiale en eau ne sera pas couverte ;\r\n- en\
@@ -35606,7 +35608,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2024-03-05'
+  updated: '2026-01-30'
 - id: 866
   text: Quelle est la part des énergies renouvelables (hors hydroélectricité) dans
     le mix énergétique mondial en 2020 ?
@@ -36855,10 +36857,10 @@
   answer_choice_d: Le chocolat
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: Le chocolat présente une empreinte de 17,000 litres pour 1 kg
+  answer_explanation: Le chocolat présente une empreinte de 17 000 litres pour 1 kg
     ! Il est suivi de près par la viande de bœuf, qui est la viande la plus consommatrice
-    d'eau (15,500 litres). Puis le coton (10,000 litres), et loin derrière le blé
-    (1,800 litres).
+    d'eau (15 500 litres). Puis le coton (10 000 litres), et loin derrière le blé
+    (1 800 litres).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -36880,7 +36882,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2025-06-28'
+  updated: '2026-01-30'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''

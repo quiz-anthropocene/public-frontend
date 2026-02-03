@@ -699,3 +699,20 @@
   language: FRENCH
   created: '2025-06-03'
   updated: '2025-06-03'
+- name: Stress hydrique
+  name_alternatives: stress hydrique
+  definition_short: Situation où la ressource en eau disponible est inférieur à la
+    demande
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2026-01-30'
+  updated: '2026-01-30'
+- name: ARS
+  name_alternatives: ''
+  definition_short: Agence Régionale de Santé
+  description: ''
+  description_accessible_url: ''
+  language: FRENCH
+  created: '2026-01-30'
+  updated: '2026-01-30'
