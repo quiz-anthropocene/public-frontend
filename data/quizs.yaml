@@ -3956,3 +3956,47 @@
   spotlight: true
   created: '2025-11-28'
   updated: '2026-01-15'
+- id: 130
+  name: Risorse idriche e ciclo dell'acqua
+  slug: risorse-idriche-e-ciclo-dellacqua
+  introduction: "<p>Le risorse idriche hanno un ruolo centrale sia nella nostra vita\
+    \ quotidiana sia nel funzionamento del sistema Terra. Tuttavia, lo sfruttamento\
+    \ eccessivo e la crisi climatica alterano il ciclo dell'acqua, con gravi conseguenze\
+    \ sui sistemi viventi che da esso dipendono.<br />\r\nQuiz adattato da Elena Diato</p>"
+  conclusion: <p>Questi sono alcuni dei diversi impatti che l’essere umano ha sulle
+    risorse idriche del pianeta. Dalla neve sulle cime delle montagne alle acque sotterranee,
+    dai canali di irrigazione ai nostri rubinetti, tutte le società, i geosistemi
+    e gli ecosistemi che dipendono dal ciclo dell'acqua.</p>
+  questions:
+  - 1314
+  - 1315
+  - 1316
+  - 1317
+  - 1318
+  - 1319
+  - 1320
+  - 1321
+  - 1322
+  - 1323
+  - 1324
+  - 1325
+  - 1326
+  - 1327
+  question_count: 14
+  tags:
+  - 37
+  difficulty_average: 1.6
+  language: ITALIAN
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 81
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2026-02-04'
+  updated: '2026-02-05'

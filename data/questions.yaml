@@ -30657,14 +30657,15 @@
   language: FRENCH
   answer_choice_a: 3%
   answer_choice_b: 15%
-  answer_choice_c: 35%
-  answer_choice_d: 50%
+  answer_choice_c: 45%
+  answer_choice_d: 60%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Avec la montée du niveau des mers, les zones cotières situées
-    à très basse altitude subissent des intrusions d'eau salée dans leur eaux souterraines
-    de plus en plus loin vers l'intérieur des terres. Cela peut poser des problèmes
-    d'approvisionnement en eau pour certaines populations côtières.
+  answer_explanation: Selon les données de l’ARS, la moitié des Réunionnais disposent
+    d’une eau de bonne qualité, mais l’autre moitié est alimentée par des eaux dont
+    la sécurité sanitaire est insuffisante. L’élévation prévisible du niveau de la
+    mer accentue également le risque de salinisation des aquifères situés en partie
+    littorale, soit 46 % de l’eau utilisée pour les besoins de la population.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -30672,8 +30673,9 @@
   answer_source_accessible_url: http://wikhydro.developpement-durable.gouv.fr/index.php/Changement_climatique_-_accentuation_de_la_salinit%C3%A9_des_eaux_souterraines_littorales
   answer_source_accessible_url_text: Changement climatique - accentuation de la salinité
     des eaux souterraines littorales - Wikhydro
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.assemblee-nationale.fr/dyn/docs/RINFANR5L16B2069.raw
+  answer_source_scientific_url_text: Assemblée Nationale, Rapport d'information sur
+    l’adaptation de la politique de l’eau au défi climatique, 2024
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000749-8dad.jpg
   answer_image_url_text: "Schéma de principe des interactions entre eaux souterraines\
@@ -30687,7 +30689,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-03-12'
+  updated: '2026-01-30'
 - id: 750
   text: Quelle part de la population mondiale voyage en avion ?
   hint: ''
@@ -31955,7 +31957,7 @@
   answer_source_scientific_url: https://www.usgs.gov/centers/ca-water-ls/science/land-subsidence-san-joaquin-valley?qt-science_center_objects=0#qt-science_center_objects
   answer_source_scientific_url_text: Land Subsidence in the San Joaquin Valley
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bc2df6ca.png
   answer_image_url_text: "Panneaux montrant le niveau historique du sol dans la vallée\
     \ de San Joaquin\r\n\r\nPhoto US Geological Survey in \"IHP and related UNESCO\
     \ Programmes in Water Resources 1984-1989\" (https://hydrologie.org/glu/ZZ/GP1240.HTM)"
@@ -31966,7 +31968,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-05'
+  updated: '2026-02-05'
 - id: 780
   text: Quelle est la part des bio-carburants (SAF – Sustainable Aviation Fuel) dans
     le TA ?
@@ -32758,12 +32760,12 @@
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.eaudyssee.org/empreinte-eau-explications/
   answer_source_accessible_url_text: Explications sur le site Eau’dyssée
-  answer_source_scientific_url: https://waterfootprint.org/media/downloads/Report56-WaterFootprintFrance.pdf
+  answer_source_scientific_url: https://www.waterfootprint.org/resources/Report56-WaterFootprintFrance.pdf
   answer_source_scientific_url_text: Ercin, A.E., Mekonnen, M.M and Hoekstra, A.Y.
     (2012) The water footprint of France, Value of Water Research Report Series No.
     56, UNESCO-IHE
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4245750f.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/96ae903b.png
   answer_image_url_text: Irrigation d'un champ de coton
   answer_extra_info: ''
   author: 49
@@ -32772,7 +32774,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2025-03-20'
+  updated: '2026-01-30'
 - id: 798
   text: 'Vrai ou faux : les produits d’origine animale ont en moyenne une empreinte
     eau plus élevée que ceux d’origine végétale'
@@ -32790,11 +32792,11 @@
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: "Cela s’explique en particulier par la grande quantité de nourriture\
-    \ nécessaire à l'élevage de certains animaux.\r\nPour un même poids de produit,\
-    \ les produits d’origine animale ont en général une empreinte eau plus grande\
-    \ que les produits d’origine végétale. La conclusion est la même pour l’empreinte\
-    \ eau rapportée au contenu en calories."
+  answer_explanation: Cela s’explique en particulier par la grande quantité de nourriture
+    nécessaire à l'élevage de certains animaux. Pour un même poids de produit, les
+    produits d’origine animale ont en général une empreinte eau plus grande que les
+    produits d’origine végétale. La conclusion est la même pour l’empreinte eau rapportée
+    au contenu en calories.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -32807,7 +32809,9 @@
     of Water Research Report Series No. 48, UNESCO-IHE, Delft, the Netherlands.
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a8156de6.png
-  answer_image_url_text: ''
+  answer_image_url_text: 'Nota : Le graphique ne montre pas l''empreinte eau, mais
+    les prélèvements en eau bleue uniquement : pas d’eau de pluie, Pas d’eau grise.
+    Les ordres de grandeur comparatifs entre produits restent valables.'
   answer_extra_info: ''
   author: 49
   visibility: PUBLIC
@@ -32815,7 +32819,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2023-02-14'
+  updated: '2026-02-04'
 - id: 799
   text: A combien s’élève l'empreinte eau d'un T-shirt ?
   hint: ''
@@ -35564,7 +35568,7 @@
   created: '2021-02-14'
   updated: '2024-03-05'
 - id: 865
-  text: Quelle proportion de la population mondiale n'a pas accès à l'eau potable
+  text: Quelle proportion de la population mondiale est en situation de stress hydrique
     ?
   hint: ''
   type: QCM
@@ -35576,11 +35580,11 @@
   answer_choice_a: 10%
   answer_choice_b: 20%
   answer_choice_c: 30%
-  answer_choice_d: 40%
+  answer_choice_d: Plus de la moitié
   answer_correct: d
   has_ordered_answers: true
   answer_explanation: "Selon l'ONU, à l'horizon 2025, entre la moitié et les deux\
-    \ tiers de l’humanité – soit entre 4 et 5,3 milliards d’humains – devraient être\
+    \ tiers de l’humanité – soit entre 4 et 5,3 milliards d’humains – devrait être\
     \ en situation dite de stress hydrique. Et selon une étude scientifique récente\
     \ : \r\n- 80% de la population mondiale est exposée à des risques de pénurie ;\r\
     \n- en 2030, 40% de la demande mondiale en eau ne sera pas couverte ;\r\n- en\
@@ -35606,7 +35610,7 @@
   validator: 38
   validation_date: '2021-03-01'
   created: '2021-02-22'
-  updated: '2024-03-05'
+  updated: '2026-01-30'
 - id: 866
   text: Quelle est la part des énergies renouvelables (hors hydroélectricité) dans
     le mix énergétique mondial en 2020 ?
@@ -36855,10 +36859,10 @@
   answer_choice_d: Le chocolat
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: Le chocolat présente une empreinte de 17,000 litres pour 1 kg
+  answer_explanation: Le chocolat présente une empreinte de 17 000 litres pour 1 kg
     ! Il est suivi de près par la viande de bœuf, qui est la viande la plus consommatrice
-    d'eau (15,500 litres). Puis le coton (10,000 litres), et loin derrière le blé
-    (1,800 litres).
+    d'eau (15 500 litres). Puis le coton (10 000 litres), et loin derrière le blé
+    (1 800 litres).
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -36880,7 +36884,7 @@
   validator: 2
   validation_date: '2022-05-13'
   created: '2022-05-06'
-  updated: '2025-06-28'
+  updated: '2026-01-30'
 - id: 895
   text: Classez ces quatre pays dans l'ordre croissant de leur empreinte eau par habitant.
   hint: ''
@@ -36981,12 +36985,11 @@
   answer_choice_d: A, D, C, B
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 96,5% de l'eau sur Terre se trouve dans les océans et les mers,
-    et 1% dans des lacs salés. Il n'y a donc que 2,5 % d'eau douce sur Terre. Cette
-    eau douce se répartit majoritairement entre les glaciers (53% de l'eau douce)
-    et les nappes (46% de l'eau douce). A peine 0,23% de l'eau douce sur Terre est
-    dans les rivières. Sur toute l'eau disponible sur Terre, à peine 1% est utilisable
-    par l'homme.
+  answer_explanation: Les ordres de grandeur sont présentés dans le graphique ci-dessous.
+    La très grande majorité de l'eau se trouve dans les océans et les lacs salés.
+    Seulement 2,5% de l'eau sur terre est de l'eau donc, très majoritairement dans
+    les glaciers et les nappes phréatiques. Le reste (lacs, rivières, plantes et animaux,
+    humidité dans le sol et dans l'atmosphère) ne représentent que 0,4% de l'eau douce.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -37007,7 +37010,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2023-02-14'
+  updated: '2026-02-03'
 - id: 898
   text: A l'échelle mondiale, quel est l'usage qui prélève le plus d'eau ?
   hint: ''
@@ -37064,12 +37067,12 @@
   answer_choice_d: 50%
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: Près de la moitié de la population mondiale subit actuellement
-    des pénuries d'eau au moins une partie de l'année en raison de facteurs climatiques
-    et non climatiques. Ce chiffre est issu du groupe de travail II du GIEC AR 6 de
-    2022, relatif aux impacts, à l'adaptation et à la vulnérabilité du changement
-    climatique. Le rapport indique en outre que cette proportion va augmenter avec
-    l’aggravation du dérèglement climatique.
+  answer_explanation: Environ la moitié de la population mondiale souffre actuellement
+    d'une grave pénurie d'eau pendant au moins une partie de l'année en raison de
+    facteurs climatiques et non climatiques. Ce chiffre est issu du groupe de travail
+    II du GIEC AR 6 de 2022, relatif aux impacts, à l'adaptation et à la vulnérabilité
+    du changement climatique. Le rapport indique en outre que cette proportion va
+    augmenter avec l’aggravation du dérèglement climatique.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -37094,7 +37097,7 @@
   validator: 2
   validation_date: '2022-05-11'
   created: '2022-05-04'
-  updated: '2023-02-14'
+  updated: '2026-02-04'
 - id: 900
   text: Quel est le cout du MWh Nucléaire étendu à 20 ans en $ / MWh ?
   hint: Bas carbone donc…
@@ -53267,15 +53270,15 @@
   created: '2025-11-30'
   updated: '2026-01-15'
 - id: 1308
-  text: Combien de microfibres plastiques peuvent être libérées lors d’une seule lessive
-    de vêtements en polyester ?
+  text: Lors d’une seule lessive de vêtements en polyester, la quantité de microfibres
+    plastiques rejetées équivaut à…
   hint: ''
   type: QCM
   category: 7
   tags: []
   difficulty: 1
   language: FRENCH
-  answer_choice_a: L’équivalent de quelques lessives standard
+  answer_choice_a: L’équivalent de quelques lessives (sans fibres plastiques synthétiques)
   answer_choice_b: L’équivalent de plusieurs semaines de lessives
   answer_choice_c: L’équivalent de plusieurs mois de lessives
   answer_choice_d: L’équivalent d’une année entière de lessives
@@ -53313,7 +53316,7 @@
   validator: 2
   validation_date: null
   created: '2025-11-30'
-  updated: '2026-01-19'
+  updated: '2026-02-03'
 - id: 1309
   text: Quelle proportion des microplastiques primaires présents dans les océans provient
     des textiles synthétiques ?
@@ -53514,3 +53517,598 @@
   validation_date: null
   created: '2025-12-01'
   updated: '2025-12-01'
+- id: 1314
+  text: Qual è la percentuale di acqua dolce sulla Terra?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 2,5%
+  answer_choice_b: 5%
+  answer_choice_c: 10%
+  answer_choice_d: 20%
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Sebbene più del 70% della superficie terrestre sia occupata
+    dall'acqua, il 97,5% di questa è costituita da acqua di mare, inadatta per quasi
+    qualsiasi uso perché salata. La percentuale di quella dolce, rispetto al totale
+    è solo il 2,5 %. Di questa quantità, ben il 70% è bloccata nei ghiacciai e nelle
+    calotte polari. Solo il 30% di quel 2.5 % quindi lo 0.75% del totale è concentrata
+    nei fiumi, nei laghi, nelle falde acquifere e nell'atmosfera.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.3bmeteo.com/giornale-meteo/acqua-dolce--un-bene-prezioso-e-limitato--quali-sono-i-numeri--141283
+  answer_source_accessible_url_text: Acqua dolce, un bene prezioso e limitato
+  answer_source_scientific_url: https://www.oxfamitalia.org/scarsita-dacqua-cause-conseguenze-e-soluzioni/
+  answer_source_scientific_url_text: 'Scarsità d’acqua: cause, conseguenze e soluzioni'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5b5f3295.png
+  answer_image_url_text: La sfera più grande rappresenta il volume di tutta l'acqua
+    terrestre, la sfera mediana solo l'acqua dolce. Infine, la sfera più piccola racchiude
+    l'acqua dolce terrestre disponibile per il consumo (laghi, fiumi, parte delle
+    falde acquifere). © Howard Perlman, USGS, Jack Cook, Woods Hole Oceanographic
+    Institution, Adam Nieman
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1315
+  text: 'Mettete in ordine questi serbatoi d''acqua dal più grande al più piccolo:
+    A. Oceani e mari; B. Fiumi e laghi; C. Acque sotterranee; D. Ghiacciai e calotte
+    polari'
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: C, D, A, B
+  answer_choice_b: A, B, D, C
+  answer_choice_c: A, C, D, B
+  answer_choice_d: A, D, C, B
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: 96,5% dell'acqua della Terra si trova negli oceani e nei mari
+    e l'1% nei laghi salati. La maggior parte dell'acqua dolce si trova nei ghiacciai
+    (69%) e nelle acque sotterranee (30%). Appena lo 0,23% dell'acqua dolce della
+    Terra si trova nei fiumi. Di tutta l'acqua disponibile sulla Terra, appena l'1%
+    è utilizzabile dall'uomo.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.usgs.gov/media/images/distribuzione-dellacqua-globale
+  answer_source_accessible_url_text: Distribuzione dell'acqua globale
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85b1ad86.gif
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1316
+  text: Qual è la principale fonte di energia che alimenta il ciclo idrologico globale,
+    influenzando processi chiave come l'evaporazione e la traspirazione?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: L'energia geotermica
+  answer_choice_b: La radiazione solare
+  answer_choice_c: L'attività vulcanica sottomarina
+  answer_choice_d: La gravità terrestre
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "I passaggi di stato dell'acqua, in particolare l'evaporazione\
+    \ e la traspirazione dalle piante, richiedono un notevole apporto di energia termica,\
+    \ fornita dalla radiazione solare.\r\nIl Sole irraggia energia sulla Terra, riscaldando\
+    \ le superfici acquatiche e terrestri. Questo calore fornisce l'energia necessaria\
+    \ per rompere i legami idrogeno nell'acqua liquida, consentendole di passare allo\
+    \ stato gassoso e salire in atmosfera.\r\nLa gravità terrestre è cruciale per\
+    \ la fase discendente del ciclo (precipitazione, deflusso superficiale e sotterraneo),\
+    \ ma non fornisce l'energia per l'evaporazione o la traspirazione.\r\nL'energia\
+    \ geotermica e l'attività vulcanica contribuiscono solo localmente, e il loro\
+    \ contributo energetico al ciclo idrologico globale è insignificante rispetto\
+    \ a quello solare."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Ciclo_dell%27acqua
+  answer_source_accessible_url_text: Wikipedia - Ciclo dell'acqua
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/99afbb75.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1317
+  text: In media, tra il 1961 e il 2020, la durata del manto nevoso a bassa quota
+    sulle Alpi si è ridotta di -6,2 giorni al decennio. Se il riscaldamento globale
+    non fosse contenuto, quanti giorni di neve si potrebbero perdere ulteriormente?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 15 giorni
+  answer_choice_b: 26 giorni
+  answer_choice_c: 36 giorni
+  answer_choice_d: 50 giorni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "L’aspetto più semplice da cogliere nell’impatto della crisi\
+    \ climatica sulle Alpi è la durata sempre più breve del manto nevoso. Secondo\
+    \ gli studi, in uno scenario emissivo pessimista, a 1500 metri di altitudine,\
+    \ si potrebbero perdere ben 36 su 95 giorni di innevamento all'anno entro il 2100.\r\
+    \nLe conseguenze di questa riduzione sono già molteplici: l'economia montana (stazioni\
+    \ sciistiche), l'impatto sugli ecosistemi, la riduzione della portata dei fiumi\
+    \ in primavera, ecc."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.rinnovabili.it/clima-e-ambiente/cambiamenti-climatici/neve-in-italia-crisi-climatica-alpi/
+  answer_source_accessible_url_text: 'C’è sempre meno neve in Italia: come cambiano
+    le montagne con la crisi climatica'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d2eec4d0.png
+  answer_image_url_text: Evolución de la temperatura media en rojo y de la altura
+    media de la nieve en azul en la estación de medición del puerto de Porte, en Francia.
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1318
+  text: Che percentuale delle piste da sci in Italia viene innevata artificialmente?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 30%
+  answer_choice_b: 60%
+  answer_choice_c: 90%
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: L’Italia è il Paese alpino più dipendente dalla neve programmata,
+    con il 90% delle piste innevate artificialmente, seguita da Austria (70%), Svizzera
+    (50%), Francia (39%) e Germania (25%). Questo corrisponde a circa 96.840.000 di
+    m³ di acqua usati per la neve artificiale, che corrispondono al consumo idrico
+    annuo di una città come Milano.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://irpimedia.irpi.eu/padronidellaneve-padroni-inverno-aziende-produttrici-neve-artificiale/
+  answer_source_accessible_url_text: I padroni dell'inverno
+  answer_source_scientific_url: https://www.duegradi.eu/news/impatto-ambientale-neve-artificiale/
+  answer_source_scientific_url_text: Impatto ambientale della neve artificiale
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1319
+  text: Le aree costiere di Sardegna, Puglia e Sicilia sono particolarmente interessate
+    dall'intrusione salina nelle falde acquifere dolci. Quali sono le cause?
+  hint: ''
+  type: QCM-RM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Innalzamento del livello del mare
+  answer_choice_b: Sovrasfruttamento delle falde acquifere
+  answer_choice_c: Siccità prolungate e alterazioni delle precipitazioni
+  answer_choice_d: Inquinamento industriale e fertilizzanti
+  answer_correct: ab
+  has_ordered_answers: true
+  answer_explanation: 'La causa principale è il sovrasfruttamento delle falde: l''acqua
+    dolce, meno densa, flotta sull''acqua salata; quando se ne estrae troppa dai pozzi,
+    questo provoca una risalita dell''acqua salata. Anche l''innalzamento del livello
+    del mare dovuto al cambiamento climatico gioca un ruolo. Gli altri due fattori
+    (alterazione delle precipitazioni e inquinamento) non sono "sbagliati", ma non
+    sono preponderanti in Italia (lo sono ad esempio nelle grandi metropoli degli
+    Stati uniti centrali).'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.yumpu.com/it/document/read/13653350/valutazione-del-rischio-di-salinizzazione-gruppo-183
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/93456258.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1320
+  text: "L'impronta idrica è definita come la quantità di acqua dolce utilizzata per\
+    \ produrre beni o servizi.\r\nCosa si prende in esame per misurare l'impronta\
+    \ idrica di qualcosa?"
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: L'acqua piovana, l'acqua prelevata dall'ambiente per la produzione,
+    e l'acqua necessaria per diluire gli inquinanti emessi
+  answer_choice_b: L’acqua prelevata per la produzione e non restituita all'ambiente
+    dopo l’utilizzo (ad esempio perché evaporata)
+  answer_choice_c: Tutta l’acqua prelevata dall'ambiente per la produzione, anche
+    se re-immessa in natura altrove
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Secondo la definizione del Water Footprint Network, l’impronta\
+    \ idrica è la somma di tre componenti:\r\n- L’impronta idrica blu rappresenta\
+    \ l'acqua dolce prelevata dalla superficie e dalle falde acquifere, utilizzata\
+    \ e non restituita\r\n- L’impronta idrica verde indica l’acqua piovana che evapora\
+    \ o traspira, nelle piante e nei terreni, soprattutto in riferimento alle aree\
+    \ coltivate.\r\n- L’acqua idrica grigia indica l'acqua teoricamente necessaria\
+    \ per diluire gli inquinanti emessi e riportare l'acqua allo stato iniziale prima\
+    \ dell'uso.\r\nL’impatto, però, non dipende solo dai volumi di acqua utilizzata\
+    \ o inquinata ma anche da dove e quando l’acqua è prelevata: se, ad esempio, proviene\
+    \ da un luogo dove le riserve idriche sono scarse, le conseguenze saranno più\
+    \ significative."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://economiacircolare.com/impronta-idrica-definizione-spiegazione-calcolo/
+  answer_source_accessible_url_text: L'impronta idrica
+  answer_source_scientific_url: https://it.wikipedia.org/wiki/Impronta_idrica
+  answer_source_scientific_url_text: Wikipedia - Impronta idrica
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/60dee4dc.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1321
+  text: Su scala globale, qual è il settore dal consumo idrico più elevato?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: L’agricoltura
+  answer_choice_b: L'industria
+  answer_choice_c: Gli usi domestici
+  answer_choice_d: La produzione di energia
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: In tutto il mondo, il 72% dell'acqua viene prelevata per l'agricoltura,
+    il 12% per uso industriale e il 16% per uso domestico (fonte FAO, 2021).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.fao.org/3/cb6241en/cb6241en.pdf
+  answer_source_scientific_url_text: FAO e UN Water. 2021. Progressi sul livello di
+    stress idrico. Stato globale e necessità di accelerazione per l'indicatore SDG
+    6.4.2, 2021. Roma. https://doi.org/10.4060/cb6241en
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cde973bf.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1322
+  text: In media, qual è l'impronta idrica giornaliera di un italiano?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 1 500 litri
+  answer_choice_b: 3 000 litri
+  answer_choice_c: 6 000 litri
+  answer_choice_d: 12 000 litri
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Un italiano medio ha un'impronta idrica di 6400 litri al giorno,\
+    \ per il cibo che mangia, i beni che acquista e i vestiti che indossa. Più della\
+    \ metà di questa impronta idrica è legata al consumo di prodotti agricoli, una\
+    \ piccola parte al consumo di prodotti industriali e meno del 5% agli usi domestici.\r\
+    \nGlobalmente, gli Stati Uniti hanno l'impronta idrica procapite più elevata (6800\
+    \ l/p/g), seguiti dai paesi dell'Europa meridionale (Grecia, Italia e Spagna:\
+    \ 6300-6600 l/p/g). I dati sono riferiti al periodo 1997-2001."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.waterfootprint.org/resources/Report16Vol1.pdf
+  answer_source_scientific_url_text: 'Water Footprint network: Water footprints of
+    nations'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6006208d.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1323
+  text: L'impronta idrica di un Paese si estende ben oltre i suoi confini. Su quale
+    di questi fiumi gli Stati Uniti hanno la maggiore impronta?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Il Rio delle Amazzoni (Sud America)
+  answer_choice_b: Il fiume Yangtze (Cina)
+  answer_choice_c: Il Mekong (Asia sudorientale)
+  answer_choice_d: Il fiume Gange (India)
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "L'impronta idrica esterna è definita come il volume di risorse\
+    \ idriche utilizzate in altre nazioni per produrre beni e servizi consumati dalla\
+    \ popolazione della nazione in esame.\r\n80% dell'impronta idrica degli Stati\
+    \ Uniti è interna, concentrata sul Mississippi per via di allevamento e aricoltura.\
+    \ Il restante 20% dell'impronta idrica statunitense è all'estero, in particolare\
+    \ sul fiume Yangtze, per via dei prodotti importati dalle fabbriche cinesi.\r\n\
+    \r\nPer l'Italia il rapporto è molto diverso: il 61% della nostra impronta idrica\
+    \ è all'estero (in particolare in altri paesi europei, Argentina e Brasile). Non\
+    \ siamo i soli: molti paesi hanno esternalizzato in modo significativo la propria\
+    \ impronta idrica senza considerare se i prodotti importati siano correlati all'esaurimento\
+    \ delle risorse idriche o all'inquinamento nei paesi produttori. Conoscere la\
+    \ dipendenza dalle risorse idriche altrui è importante sia per le politiche ambientali,\
+    \ sia per la propria sicurezza alimentare nazionale."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://waterfootprint.org/media/downloads/Report50-NationalWaterFootprints-Vol1.pdf
+  answer_source_scientific_url_text: 'Mekonnen, M.M. e Hoekstra, A.Y. (2011) Conti
+    nazionali dell''impronta idrica: l''impronta idrica verde, blu e grigia della
+    produzione e del consumo, Value of Water Research Report Series No. 50, UNESCO-IHE,
+    Delft, Paesi Bassi'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f529df67.jpg
+  answer_image_url_text: Yangtze
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1324
+  text: La costa del Delta del Mekong si sta ritirando, in alcuni punti perde fino
+    a 20 m/anno. Quali sono le cause di questo fenomeno?
+  hint: ''
+  type: QCM-RM
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Calo dei sedimenti del fiume a causa di canali e dighe
+  answer_choice_b: L'innalzamento del livello del mare
+  answer_choice_c: Calo dei sedimenti a causa delle cave di sabbia
+  answer_choice_d: Subsidenza dovuta all'eccessiva estrazione dalle falde acquifere
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: 'La costa del Delta del Mekong subisce una forte erosione dalle
+    onde e si sta gradualmente ritirando. In alcuni luoghi, questo ritiro ha raggiunto
+    i 20 metri nel giro di un anno. Questo ritiro è dovuto principalmente alla carenza
+    di sedimenti del fiume negli ultimi decenni. Questa carenza ha molteplici cause
+    legate all''attività umana: cave di sabbia, dighe a monte, canali che alimentano
+    le risaie, ecc.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.asianews.it/notizie-it/%80%8bDelta-del-Mekong-in-crisi-per-lo-sfruttamento-della-sabbia-e-delle-falde-acquifere-52856.html
+  answer_source_accessible_url_text: ​Delta del Mekong in crisi per lo sfruttamento
+    della sabbia e delle falde acquifere
+  answer_source_scientific_url: https://www.sciencedirect.com/science/article/abs/pii/B9780443236730000052
+  answer_source_scientific_url_text: Drivers and mechanisms of erosion in the Vietnamese
+    Mekong Delta
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f2d5feaf.jpg
+  answer_image_url_text: 'Esempio di erosione nel Delta del Mekong Fonte: vnexplorer.net'
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1325
+  text: Quale di questi prodotti ha la maggiore impronta idrica per kg?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Avocado
+  answer_choice_b: Grano
+  answer_choice_c: Carne bovina
+  answer_choice_d: Cioccolato
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Il cioccolato ha un'impronta di 17 000 litri per 1 kg! Segue
+    la carne bovina (15 500 litri), mentre frutta verdura e grano consumano molto
+    meno.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://waterfootprint.org/media/downloads/Mekonnen-Hoekstra-2011-WaterFootprintCrops.pdf
+  answer_source_scientific_url_text: 'Mekonnen, M.M. e Hoekstra, A.Y. (2011) The green,
+    blue and grey water footprint of crops and derived crop products, Hydrology and
+    Earth System Sciences, 15(5): 1577-1600.'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d25cf6cd.jpeg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1326
+  text: Diverse città del mondo stanno sprofondando, alcune anche di 30 cm/anno, con
+    enormi conseguenze sulle infrastrutture. Qual è la causa principale?
+  hint: ''
+  type: QCM
+  category: 7
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Costruzione eccessiva e localizzata (grattacieli)
+  answer_choice_b: Aumento dell'attività sismica e terremoti
+  answer_choice_c: Sovrasfruttamento delle falde acquifere
+  answer_choice_d: Innalzamento del livello del mare
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "L'estrazione intensiva di acqua dalle falde acquifere ha portato\
+    \ alla compattazione e al cedimento del suolo. Oltre all'impoverimento della falda,\
+    \ questo riduce le dimensioni dei pori (lo spazio tra i \"\"grani\"\" del terreno)\
+    \ e quindi la possibilità di ricaricare la falda in futuro, per non parlare dei\
+    \ rischi per la stabilità degli edifici in superficie.\r\nCirca l’8 percento della\
+    \ superficie terrestre rischia di sprofondare nei prossimi decenni, con un impatto\
+    \ su 1,2 miliardi di persone."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.nationalgeographic.it/perche-alcune-citta-nel-mondo-stanno-sprofondando
+  answer_source_accessible_url_text: 'National Geographic: Perché alcune città del
+    mondo stanno sprofondando'
+  answer_source_scientific_url: https://scienze.fanpage.it/nei-prossimi-decenni-la-tua-citta-rischia-di-sprofondare/
+  answer_source_scientific_url_text: Nei prossimi decenni la tua città rischia di
+    sprofondare
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7aac8c37.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
+- id: 1327
+  text: 'Vero o falso: in media, a parità di peso, i prodotti di origine animale hanno
+    un''impronta idrica superiore a quelli di origine vegetale'
+  hint: ''
+  type: VF
+  category: 7
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: "Ciò è dovuto in particolare alla grande quantità di cibo necessaria\
+    \ per allevare alcuni animali.\r\nA parità di peso del prodotto, i prodotti animali\
+    \ hanno generalmente un'impronta idrica maggiore rispetto ai prodotti vegetali.\
+    \ La conclusione è la stessa anche se si paragona l'impronta idrica in relazione\
+    \ al contenuto calorico."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://waterfootprint.org/media/downloads/Report-48-WaterFootprint-AnimalProducts-Vol1_1.pdf
+  answer_source_scientific_url_text: Mekonnen, M.M. e Hoekstra, A.Y. (2010) The green,
+    blue and grey water footprint of farm animals and animal products (L'impronta
+    idrica verde, blu e grigia degli animali da allevamento e dei prodotti di origine
+    animale), Value of Water Research Series No. 48, UNESCO-IHE, Delft, Paesi Bassi
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f41286a5.png
+  answer_image_url_text: 'Nota: il grafico non mostra l''impronta idrica, ma solo
+    i prelievi di acqua blu: nessuna acqua piovana né acqua grigia. Gli ordini di
+    grandezza comparativi tra i prodotti rimangono validi.'
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: null
+  validation_date: null
+  created: '2026-02-04'
+  updated: '2026-02-05'
