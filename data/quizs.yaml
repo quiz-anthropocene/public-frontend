@@ -3987,7 +3987,7 @@
   - 37
   difficulty_average: 1.6
   language: ITALIAN
-  image_background_url: ''
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/24a2fb5b.png
   has_audio: false
   authors:
   - 81
@@ -3999,4 +3999,4 @@
   publish_date: null
   spotlight: false
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-06'
