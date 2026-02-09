@@ -53553,13 +53553,13 @@
     falde acquifere). © Howard Perlman, USGS, Jack Cook, Woods Hole Oceanographic
     Institution, Adam Nieman
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1315
   text: 'Mettete in ordine questi serbatoi d''acqua dal più grande al più piccolo:
     A. Oceani e mari; B. Fiumi e laghi; C. Acque sotterranee; D. Ghiacciai e calotte
@@ -53593,13 +53593,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85b1ad86.gif
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1316
   text: Qual è la principale fonte di energia che alimenta il ciclo idrologico globale,
     influenzando processi chiave come l'evaporazione e la traspirazione?
@@ -53638,13 +53638,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/99afbb75.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1317
   text: In media, tra il 1961 e il 2020, la durata del manto nevoso a bassa quota
     sulle Alpi si è ridotta di -6,2 giorni al decennio. Se il riscaldamento globale
@@ -53682,13 +53682,13 @@
   answer_image_url_text: Evolución de la temperatura media en rojo y de la altura
     media de la nieve en azul en la estación de medición del puerto de Porte, en Francia.
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1318
   text: Che percentuale delle piste da sci in Italia viene innevata artificialmente?
   hint: ''
@@ -53720,13 +53720,13 @@
   answer_image_url: ''
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1319
   text: Le aree costiere di Sardegna, Puglia e Sicilia sono particolarmente interessate
     dall'intrusione salina nelle falde acquifere dolci. Quali sono le cause?
@@ -53761,13 +53761,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/93456258.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1320
   text: "L'impronta idrica è definita come la quantità di acqua dolce utilizzata per\
     \ produrre beni o servizi.\r\nCosa si prende in esame per misurare l'impronta\
@@ -53810,13 +53810,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/60dee4dc.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1321
   text: Su scala globale, qual è il settore dal consumo idrico più elevato?
   hint: ''
@@ -53847,13 +53847,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/cde973bf.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1322
   text: In media, qual è l'impronta idrica giornaliera di un italiano?
   hint: ''
@@ -53888,13 +53888,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6006208d.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1323
   text: L'impronta idrica di un Paese si estende ben oltre i suoi confini. Su quale
     di questi fiumi gli Stati Uniti hanno la maggiore impronta?
@@ -53938,13 +53938,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f529df67.jpg
   answer_image_url_text: Yangtze
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1324
   text: La costa del Delta del Mekong si sta ritirando, in alcuni punti perde fino
     a 20 m/anno. Quali sono le cause di questo fenomeno?
@@ -53980,13 +53980,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f2d5feaf.jpg
   answer_image_url_text: 'Esempio di erosione nel Delta del Mekong Fonte: vnexplorer.net'
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1325
   text: Quale di questi prodotti ha la maggiore impronta idrica per kg?
   hint: ''
@@ -54018,13 +54018,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d25cf6cd.jpeg
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1326
   text: Diverse città del mondo stanno sprofondando, alcune anche di 30 cm/anno, con
     enormi conseguenze sulle infrastrutture. Qual è la causa principale?
@@ -54061,13 +54061,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7aac8c37.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
 - id: 1327
   text: 'Vero o falso: in media, a parità di peso, i prodotti di origine animale hanno
     un''impronta idrica superiore a quelli di origine vegetale'
@@ -54105,10 +54105,10 @@
     i prelievi di acqua blu: nessuna acqua piovana né acqua grigia. Gli ordini di
     grandezza comparativi tra i prodotti rimangono validi.'
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-05'
+  updated: '2026-02-09'
