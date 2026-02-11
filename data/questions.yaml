@@ -53561,9 +53561,9 @@
   created: '2026-02-04'
   updated: '2026-02-09'
 - id: 1315
-  text: 'Mettete in ordine questi serbatoi d''acqua dal più grande al più piccolo:
-    A. Oceani e mari; B. Fiumi e laghi; C. Acque sotterranee; D. Ghiacciai e calotte
-    polari'
+  text: "Mettete in ordine questi serbatoi d'acqua dal più grande al più piccolo:\r\
+    \nA. oceani e mari; B. fiumi e laghi; C. acque sotterranee; D. ghiacciai e calotte\
+    \ polari"
   hint: ''
   type: QCM
   category: 7
@@ -53590,7 +53590,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/85b1ad86.gif
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c0baa74a.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -53599,7 +53599,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1316
   text: Qual è la principale fonte di energia che alimenta il ciclo idrologico globale,
     influenzando processi chiave come l'evaporazione e la traspirazione?
@@ -53617,7 +53617,7 @@
   has_ordered_answers: true
   answer_explanation: "I passaggi di stato dell'acqua, in particolare l'evaporazione\
     \ e la traspirazione dalle piante, richiedono un notevole apporto di energia termica,\
-    \ fornita dalla radiazione solare.\r\nIl Sole irraggia energia sulla Terra, riscaldando\
+    \ fornita dalla radiazione solare. Il Sole irraggia energia sulla Terra, riscaldando\
     \ le superfici acquatiche e terrestri. Questo calore fornisce l'energia necessaria\
     \ per rompere i legami idrogeno nell'acqua liquida, consentendole di passare allo\
     \ stato gassoso e salire in atmosfera.\r\nLa gravità terrestre è cruciale per\
@@ -53644,7 +53644,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1317
   text: In media, tra il 1961 e il 2020, la durata del manto nevoso a bassa quota
     sulle Alpi si è ridotta di -6,2 giorni al decennio. Se il riscaldamento globale
@@ -53672,15 +53672,15 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.rinnovabili.it/clima-e-ambiente/cambiamenti-climatici/neve-in-italia-crisi-climatica-alpi/
-  answer_source_accessible_url_text: 'C’è sempre meno neve in Italia: come cambiano
-    le montagne con la crisi climatica'
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: https://www.lanuovaecologia.it/clima-montagna-neve-alpi/
+  answer_source_accessible_url_text: Montagna, sulle Alpi -50% di neve negli ultimi
+    cento anni
+  answer_source_scientific_url: https://www.cimafoundation.org/aggiornamenti-neve-italia/
+  answer_source_scientific_url_text: 'Fondazione CIMA: monitoraggio dell’innevamento
+    sui monti italiani'
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d2eec4d0.png
-  answer_image_url_text: Evolución de la temperatura media en rojo y de la altura
-    media de la nieve en azul en la estación de medición del puerto de Porte, en Francia.
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/332e84ff.jpg
+  answer_image_url_text: 'Durata della neve al suolo (fonte: fondazione CIMA)'
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
@@ -53688,7 +53688,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1318
   text: Che percentuale delle piste da sci in Italia viene innevata artificialmente?
   hint: ''
@@ -53758,7 +53758,7 @@
   answer_source_scientific_url: https://www.yumpu.com/it/document/read/13653350/valutazione-del-rischio-di-salinizzazione-gruppo-183
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/93456258.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a7ec04a6.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -53767,7 +53767,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1320
   text: "L'impronta idrica è definita come la quantità di acqua dolce utilizzata per\
     \ produrre beni o servizi.\r\nCosa si prende in esame per misurare l'impronta\
@@ -53778,21 +53778,21 @@
   tags: []
   difficulty: 1
   language: ITALIAN
-  answer_choice_a: L'acqua piovana, l'acqua prelevata dall'ambiente per la produzione,
-    e l'acqua necessaria per diluire gli inquinanti emessi
-  answer_choice_b: L’acqua prelevata per la produzione e non restituita all'ambiente
-    dopo l’utilizzo (ad esempio perché evaporata)
-  answer_choice_c: Tutta l’acqua prelevata dall'ambiente per la produzione, anche
-    se re-immessa in natura altrove
+  answer_choice_a: L'acqua piovana, l'acqua dolce estratta dall'ambiente, e l'acqua
+    necessaria per diluire gli inquinanti emessi
+  answer_choice_b: L’acqua dolce estratta e non restituita all'ambiente dopo l’utilizzo
+    (ad esempio perché evaporata)
+  answer_choice_c: Tutta l’acqua dolce estratta per la produzione, anche se re-immessa
+    in natura altrove
   answer_choice_d: ''
   answer_correct: a
   has_ordered_answers: true
   answer_explanation: "Secondo la definizione del Water Footprint Network, l’impronta\
-    \ idrica è la somma di tre componenti:\r\n- L’impronta idrica blu rappresenta\
+    \ idrica è la somma di tre componenti:\r\n- l’impronta idrica blu rappresenta\
     \ l'acqua dolce prelevata dalla superficie e dalle falde acquifere, utilizzata\
-    \ e non restituita\r\n- L’impronta idrica verde indica l’acqua piovana che evapora\
+    \ e non restituita;\r\n- l’impronta idrica verde indica l’acqua piovana che evapora\
     \ o traspira, nelle piante e nei terreni, soprattutto in riferimento alle aree\
-    \ coltivate.\r\n- L’acqua idrica grigia indica l'acqua teoricamente necessaria\
+    \ coltivate;\r\n- l’acqua idrica grigia indica l'acqua teoricamente necessaria\
     \ per diluire gli inquinanti emessi e riportare l'acqua allo stato iniziale prima\
     \ dell'uso.\r\nL’impatto, però, non dipende solo dai volumi di acqua utilizzata\
     \ o inquinata ma anche da dove e quando l’acqua è prelevata: se, ad esempio, proviene\
@@ -53808,7 +53808,12 @@
   answer_source_scientific_url_text: Wikipedia - Impronta idrica
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/60dee4dc.jpg
-  answer_image_url_text: ''
+  answer_image_url_text: "Queste mappe mostrano l'impronta idrica annuale per abitante\
+    \ nel mondo (1996-2005), misurata in metri cubi per anno per persona (m³/anno/persona).\r\
+    \nAcqua blu: prelevata da fiumi, laghi e falde sotterranee (5-600+ m³/anno/persona).\r\
+    \nAcqua verde: acqua piovana utilizzata dalle colture (290-3000+ m³/anno/persona).\r\
+    \nAcqua grigia: necessaria per diluire gli inquinanti (5-1000+ m³/anno/persona).\r\
+    \nImpronta totale: somma dei tre tipi (550-3000+ m³/anno/persona)."
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
@@ -53816,7 +53821,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1321
   text: Su scala globale, qual è il settore dal consumo idrico più elevato?
   hint: ''
@@ -53897,7 +53902,7 @@
   updated: '2026-02-09'
 - id: 1323
   text: L'impronta idrica di un Paese si estende ben oltre i suoi confini. Su quale
-    di questi fiumi gli Stati Uniti hanno la maggiore impronta?
+    di questi fiumi gli Stati Uniti hanno l'impronta maggiore?
   hint: ''
   type: QCM
   category: 7
@@ -53910,16 +53915,16 @@
   answer_choice_d: Il fiume Gange (India)
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "L'impronta idrica esterna è definita come il volume di risorse\
-    \ idriche utilizzate in altre nazioni per produrre beni e servizi consumati dalla\
-    \ popolazione della nazione in esame.\r\n80% dell'impronta idrica degli Stati\
-    \ Uniti è interna, concentrata sul Mississippi per via di allevamento e aricoltura.\
-    \ Il restante 20% dell'impronta idrica statunitense è all'estero, in particolare\
-    \ sul fiume Yangtze, per via dei prodotti importati dalle fabbriche cinesi.\r\n\
-    \r\nPer l'Italia il rapporto è molto diverso: il 61% della nostra impronta idrica\
-    \ è all'estero (in particolare in altri paesi europei, Argentina e Brasile). Non\
-    \ siamo i soli: molti paesi hanno esternalizzato in modo significativo la propria\
-    \ impronta idrica senza considerare se i prodotti importati siano correlati all'esaurimento\
+  answer_explanation: "L'impronta idrica esterna di una nazione è la quantità di acqua\
+    \ utilizzata in altri Paesi per produrre beni e servizi consumati dalla popolazione\
+    \ della nazione in esame.\r\n80% dell'impronta idrica degli Stati Uniti è interna,\
+    \ concentrata sul Mississippi per via di allevamento e aricoltura. Il restante\
+    \ 20% dell'impronta idrica statunitense è all'estero, in particolare sul fiume\
+    \ Yangtze, per via dei prodotti importati dalle fabbriche cinesi.\r\n\r\nPer l'Italia\
+    \ il rapporto è molto diverso: il 61% della nostra impronta idrica è all'estero\
+    \ (in particolare in altri paesi europei, Argentina e Brasile).\r\nNon siamo i\
+    \ soli: molti paesi hanno esternalizzato in modo significativo la propria impronta\
+    \ idrica senza considerare se i prodotti importati siano correlati all'esaurimento\
     \ delle risorse idriche o all'inquinamento nei paesi produttori. Conoscere la\
     \ dipendenza dalle risorse idriche altrui è importante sia per le politiche ambientali,\
     \ sia per la propria sicurezza alimentare nazionale."
@@ -53944,7 +53949,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1324
   text: La costa del Delta del Mekong si sta ritirando, in alcuni punti perde fino
     a 20 m/anno. Quali sono le cause di questo fenomeno?
@@ -54008,14 +54013,15 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
+  answer_source_accessible_url: https://www.waterfootprint.org/media/downloads/Hoekstra-2008-WaterfootprintFood.pdf
+  answer_source_accessible_url_text: L'impronta idrica degli alimenti, Arjen Y. Hoekstra,
+    Università di Twente (NL)
   answer_source_scientific_url: https://waterfootprint.org/media/downloads/Mekonnen-Hoekstra-2011-WaterFootprintCrops.pdf
   answer_source_scientific_url_text: 'Mekonnen, M.M. e Hoekstra, A.Y. (2011) The green,
     blue and grey water footprint of crops and derived crop products, Hydrology and
     Earth System Sciences, 15(5): 1577-1600.'
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/d25cf6cd.jpeg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b08f7059.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -54024,7 +54030,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1326
   text: Diverse città del mondo stanno sprofondando, alcune anche di 30 cm/anno, con
     enormi conseguenze sulle infrastrutture. Qual è la causa principale?
@@ -54038,15 +54044,15 @@
   answer_choice_b: Aumento dell'attività sismica e terremoti
   answer_choice_c: Sovrasfruttamento delle falde acquifere
   answer_choice_d: Innalzamento del livello del mare
-  answer_correct: a
+  answer_correct: c
   has_ordered_answers: true
   answer_explanation: "L'estrazione intensiva di acqua dalle falde acquifere ha portato\
     \ alla compattazione e al cedimento del suolo. Oltre all'impoverimento della falda,\
-    \ questo riduce le dimensioni dei pori (lo spazio tra i \"\"grani\"\" del terreno)\
+    \ questo riduce le dimensioni dei pori (lo spazio tra i \"grani\" del terreno)\
     \ e quindi la possibilità di ricaricare la falda in futuro, per non parlare dei\
-    \ rischi per la stabilità degli edifici in superficie.\r\nCirca l’8 percento della\
-    \ superficie terrestre rischia di sprofondare nei prossimi decenni, con un impatto\
-    \ su 1,2 miliardi di persone."
+    \ rischi per la stabilità degli edifici in superficie.\r\nCirca l’8% della superficie\
+    \ terrestre rischia di sprofondare nei prossimi decenni, con un impatto su 1,2\
+    \ miliardi di persone."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -54059,7 +54065,7 @@
     sprofondare
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7aac8c37.png
-  answer_image_url_text: ''
+  answer_image_url_text: Esempi di subsidenza in zone agricole degli Stati Uniti
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
@@ -54067,7 +54073,7 @@
   validator: null
   validation_date: null
   created: '2026-02-04'
-  updated: '2026-02-09'
+  updated: '2026-02-10'
 - id: 1327
   text: 'Vero o falso: in media, a parità di peso, i prodotti di origine animale hanno
     un''impronta idrica superiore a quelli di origine vegetale'
