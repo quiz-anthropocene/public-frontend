@@ -3984,6 +3984,8 @@
   - 1327
   question_count: 14
   tags:
+  - 9
+  - 16
   - 37
   difficulty_average: 1.6
   language: ITALIAN
@@ -3992,11 +3994,11 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2026-02-04'
-  updated: '2026-02-06'
+  updated: '2026-02-11'
