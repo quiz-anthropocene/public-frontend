@@ -4361,7 +4361,7 @@
   answer_source_scientific_url_text: New Scientist, How green is your pet? New Scientist,
     2009
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7483ce4a.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8b60cf0e.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -4370,7 +4370,7 @@
   validator: 1
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2025-06-24'
+  updated: '2026-02-13'
 - id: 103
   text: En 2016, quel était l'approvisionnement mondial d'énergie primaire ? (1 Gtep
     = 1 milliard de tonnes équivalent pétrole)
@@ -9654,16 +9654,17 @@
   answer_source_scientific_url: https://www.iea.org/data-and-statistics/charts/fuel-share-of-co2-emissions-from-fuel-combustion-2019
   answer_source_scientific_url_text: Emissions from fuel combustion 2019 - IEA
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000236-e141.png
-  answer_image_url_text: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/1142f700.png
+  answer_image_url_text: Classement selon les émissions territoriales de CO2 liées
+    à l'énergie en 2017
   answer_extra_info: ''
   author: 1
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-17'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-10'
-  updated: '2025-05-16'
+  updated: '2026-02-13'
 - id: 237
   text: Quelle est la profondeur moyenne des océans ?
   hint: ''
@@ -13597,11 +13598,11 @@
   answer_extra_info: https://twitter.com/laydgeur/status/1200337898098372608
   author: 5
   visibility: PUBLIC
-  validation_status: VALIDATED
-  validator: 2
-  validation_date: '2020-05-27'
+  validation_status: REMOVED
+  validator: null
+  validation_date: null
   created: '2020-05-20'
-  updated: '2025-06-24'
+  updated: '2026-02-13'
 - id: 336
   text: Combien y a-t-il de raffineries en France métropolitaine ?
   hint: ''
@@ -54130,3 +54131,452 @@
   validation_date: null
   created: '2026-02-04'
   updated: '2026-02-11'
+- id: 1328
+  text: Una 4x4 (uso medio su un anno) emette più gas serra di un cane domestico.
+    Vero o falso?
+  hint: ''
+  type: VF
+  category: 2
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Vero
+  answer_choice_b: Falso
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: Un cane domestico ha un'impronta di carbonio (annuale) doppia
+    rispetto a quella di un Land Cruiser che percorre 10 000 chilometri all'anno.
+    Questa è la conclusione di uno studio condotto da due professori dell'Università
+    di Victoria. Il calcolo tiene conto degli ingredienti dei mangimi e dello spazio
+    necessario per produrli. Il risultato è controverso, ma ha il vantaggio di attirare
+    la nostra attenzione sulle insospettabili emissioni dei nostri amici a quattro
+    zampe.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.wateronline.info/2022/07/01/cani-e-gatti-inquinano-piu-dei-suv/
+  answer_source_accessible_url_text: Cani e gatti inquinano più dei SUV
+  answer_source_scientific_url: https://www.newscientist.com/article/mg20427311-600-how-green-is-your-pet/
+  answer_source_scientific_url_text: Quanto è ecologico il tuo animale domestico?
+    - New Scientist, 2009
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c3cd3056.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1329
+  text: Quanti giorni impiega uno statunitense ad emettere la stessa quantità di CO2
+    di un bengalese in un anno?
+  hint: ''
+  type: QCM
+  category: 2
+  tags:
+  - 72
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 3 giorni
+  answer_choice_b: 15 giorni
+  answer_choice_c: 30 giorni
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Nel 2022, le emissioni di CO2 degli USA sono state di 15,4\
+    \ tonnellate per abitante, rispetto alle 5,1 dell'Italia e le 0,65 del Bangladesh.\
+    \ Uno statunitense impiega quindi 15 giorni (e un italiano 47) per emettere come\
+    \ un bengalese in un anno.\r\nQuindi le emissioni di CO2 di 337 milioni di americani\
+    \ equivalgono a quelle di... 8 miliardi di etiopi.\r\nGli americani sono tra i\
+    \ maggiori emettitori di CO2 del pianeta, con due settori predominanti: la produzione\
+    \ di elettricità (60% di combustibili fossili, gas e carbone) e i trasporti (auto,\
+    \ pick-up, aerei). Stiamo parlando di emissioni territoriali (inventario nazionale,\
+    \ non impronta di carbonio)."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://globalcarbonatlas.org/emissions/carbon-emissions/
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/115acfd2.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1330
+  text: "Secondo l'Agenzia Internazionale dell'Energia, nel 2021 le emissioni globali\
+    \ di CO2 legate alla produzione di energia sono state di 4,3 tonnellate/abitante.\r\
+    \nCome si colloca l'Italia rispetto a questa media?"
+  hint: ''
+  type: VF
+  category: 2
+  tags:
+  - 72
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Sopra
+  answer_choice_b: Sotto
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: La media italiana è stimata in 5,2 tonnellate di CO2 per abitante.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.iea.org/data-and-statistics/data-tools/greenhouse-gas-emissions-from-energy-data-explorer
+  answer_source_accessible_url_text: Greenhouse Gas Emissions from Energy Data Explorer
+    - IEA
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c961a4e1.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1331
+  text: "L'obiettivo della COP21 per il 2050 è di limitare a 2 tonnellate di CO2eq\
+    \ le emissioni annue di ogni essere umano.\r\nImmaginiamo che io non faccia assolutamente\
+    \ nient'altro per tutto l'anno (niente riscaldamento, niente cibo, niente auto,\
+    \ niente acquisti...). Quanti voli andata e ritorno tra Parigi a New York posso\
+    \ permettermi se voglio rispettare questo obiettivo?"
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: '1'
+  answer_choice_b: '2'
+  answer_choice_c: '10'
+  answer_choice_d: '50'
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Un viaggio di andata e ritorno da Parigi a New York equivale
+    a 1,8 tonnellate di CO2 per persona.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://bonpote.com/en/why-stop-flying-to-tackle-climate-change/
+  answer_source_accessible_url_text: Why stop flying to tackle climate change
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9f853e16.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1332
+  text: "Quale di queste bevande ha emesso più gas serra al momento in cui la ordinate\
+    \ al bar?\r\n(solo ingredienti, escluso l'imballaggio)"
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Una birra piccola (25 cl)
+  answer_choice_b: Una Coca-Cola (30 cl)
+  answer_choice_c: Un caffè americano (40 cl)
+  answer_choice_d: Un bicchiere di vino (15 cl)
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: "La birra è in testa, principalmente per la fermentazione del\
+    \ luppolo: quando il lievito trasforma lo zucchero in alcol produce anche della\
+    \ CO2. Segue il caffé americano, e, con circa la metà delle emissioni, la Coca-Cola\
+    \ e il bicchiere di vino.\r\nAttenzione: non stiamo parlando di emissioni per\
+    \ litro, ma pesate sulla diversa quantià delle bevande elencate"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://impactco2.fr/boisson
+  answer_source_accessible_url_text: Comparatore dell'impronta di carbonio di diverse
+    bevande, ADEME (in Francese)
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c7999d92.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1333
+  text: L'Italia conta per l'1% delle emissioni globali di gas serra. Considerando
+    importazioni ed esportazioni, l'impronta di CO2 media di un italiano rispetto
+    a quella di un cinese è…
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 100 volte minore
+  answer_choice_b: circa la stessa
+  answer_choice_c: doppia
+  answer_choice_d: 10 volte di più
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Stiamo parlando qui di impronta, ovvero le emissioni dirette\
+    \ del territorio, escluse le esportazioni, con aggiunte le emissioni delle importazioni.\r\
+    \nAl 2022, l'impronta media di un un italiano e quella di un cinese erano praticamente\
+    \ uguali."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ourworldindata.org/explorers/co2?facet=none&Gas+or+Warming=CO%E2%82%82&Accounting=Consumption-based&Fuel+or+Land+Use+Change=Coal&Count=Per+capita&Relative+to+world+total=false&country=CHN~IND~ITA
+  answer_source_accessible_url_text: Impronta di carbonio procapite Italia e Cina
+    - OurWorldinData
+  answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
+  answer_source_scientific_url_text: Emissioni di CO2 | Atlante globale del carbonio
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9c6824af.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1334
+  text: Consideriamo il consumo di 1 kg dei seguenti quattro alimenti. Quale genera
+    più gas serra? (in CO2 equivalente)
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Burro
+  answer_choice_b: Salsicce
+  answer_choice_c: Salmone
+  answer_choice_d: Cioccolata
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: "1 kg di burro emette circa 21 kg di CO2 equivalente, proveniente\
+    \ per 3/4 dall'allevamento delle vacche.\r\nSeguono a ruota il samone e il cioccolato\
+    \ fondente, quest'ultimo principalmente a causa del cambio di uso del suolo (deforestazione).\r\
+    \nLe salsicce (di carne di maiale) hanno emissioni minori, ma occorre ricordare\
+    \ che gli allevamenti a grande scala hanno una serie di altri problemi ambientali."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.openpolis.it/limpronta-ecologica-degli-alimenti-e-le-etichette-europee/
+  answer_source_accessible_url_text: L'impronta ecologica degli alimenti nelle etichette
+    europee - Openopolis
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e1af920c.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1335
+  text: Quanto gas serra viene emesso per produrre 1 kg di salsicce di maiale e farle
+    arrivare sugli scaffali?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 500 g di CO2 equivalente
+  answer_choice_b: 1 kg di CO2 equivalente
+  answer_choice_c: 7 kg di CO2 equivalente
+  answer_choice_d: 15 kg di CO2 equivalente
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Quando arrivano sugli scaffali, le salsicce di maiale hanno\
+    \ prodotto 7,2 kg di CO2 equivalente. Di cui: circa la metà (40%) per dai mangimi,\
+    \ un quarto (24%) dall'allevamento, un quinto (20%) dal cambio di uso del suolo,\
+    \ e il rimanente (15%) per lavorazione, packaging, trasporto e vendita. [dati\
+    \ globali 2021]\r\nVa notato che, sebbene la produzione di carne emetta più gas\
+    \ a effetto serra rispetto a verdure e cereali, la carne di maiale è in fondo\
+    \ alla classifica, più o meno allo stesso livello del pollame e molto indietro\
+    \ rispetto alla carne di manzo."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.openpolis.it/limpronta-ecologica-degli-alimenti-e-le-etichette-europee/
+  answer_source_accessible_url_text: L'impronta ecologica degli alimenti nelle etichette
+    europee - Openopolis
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3cdfa141.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1336
+  text: Se tutti gli abitanti del pianeta adottassero lo stesso tenore di vita di
+    un italiano medio, di quanti pianeti sulla Terra avremmo bisogno? (dati 2016)
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: '1'
+  answer_choice_b: '3'
+  answer_choice_c: '5'
+  answer_choice_d: '8'
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: L'impronta ecologica - o impronta ambientale - è un indicatore
+    che conta la pressione esercitata dagli esseri umani sulle risorse naturali e
+    sui "servizi" forniti dal pianeta. In particolare, misura le superfici produttive
+    di terra e acqua necessarie per produrre le risorse e assorbire i rifiuti generati.
+    Questo può essere espresso in termini di numero di pianeti necessari per ogni
+    Paese. L'impronta dell'Italia è di 2,7 pianeti. Si parla anche del giorno del
+    superamento (figura a destra), un altro modo di rappresentare questo squilibrio
+    rispetto alla capacità di carico del pianeta.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.overshootday.org/newsroom/press-release-july-2019-italian/
+  answer_source_accessible_url_text: 'Il giorno del sovrasfruttamento nel 2019 cade
+    il 29 luglio: la data  più anticipata sino ad ora'
+  answer_source_scientific_url: https://data.footprintnetwork.org/?_ga=2.214287760.68485461.1592040579-1962221666.1592040579#/compareCountries?type=earth&cn=106,2002,351,100&yr=2019
+  answer_source_scientific_url_text: Impronta ecologica per paese, 2019 - Paragone
+    Europa, Italia, India e Cina
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/08c02383.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1337
+  text: Qual è  l'impronta idrica di un paio di jeans (lavaggi esclusi)?
+  hint: ''
+  type: QCM
+  category: null
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 100 litri
+  answer_choice_b: 1.000 litri
+  answer_choice_c: 5.000 litri
+  answer_choice_d: 10.000 litri
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Quando un paio di jeans arriva in negozio, ha già consumato
+    circa 10.000 litri d'acqua, percorso 65.000 chilometri e utilizzato 800 grammi
+    di cotone. La coltivazione del cotone è responsabile di 1/4 del consumo mondiale
+    di pesticidi, anche se rappresenta solo il 2,4% della terra coltivata!
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.alperia.eu/it/magazine/energy-tips/acqua-dimmi-cosa-indossi-e-ti-diro-quanta-acqua-sprechi
+  answer_source_accessible_url_text: Acqua. Dimmi cosa indossi e ti dirò quanta acqua
+    sprechi
+  answer_source_scientific_url: https://www.lifegate.it/quanta-acqua-serve-per-produrre-i-nostri-abiti
+  answer_source_scientific_url_text: Quanta acqua serve per produrre i nostri abiti
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c4d5cc73.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
+- id: 1338
+  text: Come sono cambiate le emissioni di gas serra dell'Italia tra il 1990 e il
+    2017?
+  hint: ''
+  type: QCM
+  category: 1
+  tags:
+  - 72
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: -20%
+  answer_choice_b: -10%
+  answer_choice_c: stabili
+  answer_choice_d: 10%
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Tra il 1990 e il 2021 le emissioni di gas serra dell'Italia
+    sono passate da 521 a 418 milioni di tonnellate di CO2 equivalente, con un calo
+    maggiore dal 2007-2008. Questa riduzione è conseguenza anche della crescita delle
+    rinnovabili e di un incremento dell’efficienza energetica, ma soprattutto della
+    riduzione dei consumi energetici e delle produzioni industriali a causa della
+    crisi economica e della delocalizzazione di alcuni settori produttivi all'estero.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.isprambiente.gov.it/it/attivita/cambiamenti-climatici/landamento-delle-emissioni
+  answer_source_accessible_url_text: L'andamento delle emissioni - ISPRA
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8ddb9989.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-13'
+  updated: '2026-02-13'
