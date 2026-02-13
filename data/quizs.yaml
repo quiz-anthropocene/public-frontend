@@ -159,18 +159,16 @@
   - 78
   - 102
   - 150
-  - 236
   - 251
-  - 335
   - 358
   - 392
   - 402
   - 417
   - 440
-  question_count: 11
+  question_count: 9
   tags:
   - 72
-  difficulty_average: 2.2
+  difficulty_average: 2.1
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/000005-586a.jpg
   has_audio: false
@@ -184,7 +182,7 @@
   publish_date: '2020-07-18'
   spotlight: false
   created: '2020-07-08'
-  updated: '2025-05-16'
+  updated: '2026-02-13'
 - id: 6
   name: Introduction à l'anthropocène - Partie 1
   slug: introduction-a-lanthropocene-partie-1
@@ -4002,3 +4000,43 @@
   spotlight: true
   created: '2026-02-04'
   updated: '2026-02-11'
+- id: 131
+  name: La nostra impronta di carbonio
+  slug: la-nostra-impronta-di-carbonio
+  introduction: "<p>L'impronta di carbonio è una misura delle emissioni di gas a effetto\
+    \ serra rilasciate nell'atmosfera dalle attività di una persona, un'azienda, una\
+    \ città, uno Stato. In sostanza, è la misura di quanto contribuiamo al riscaldamento\
+    \ globale di origine antropica (cioè attribuibile all’attività umana). E tu, conosci\
+    \ la tua impronta?<br />\r\nQuiz adattato da Elena diato</p>"
+  conclusion: <p>Complimenti! Se non l'hai ancora fatto, calcola la tua impronta di
+    carbonio L’<a href="https://www.lifegate.it/calcolatore-co2">qui</a>  o la tua
+    impronta ecologica <a href="https://www.footprintcalculator.org/home/it">qui</a></p>
+  questions:
+  - 1328
+  - 1329
+  - 1330
+  - 1331
+  - 1332
+  - 1333
+  - 1334
+  - 1335
+  - 1336
+  - 1337
+  - 1338
+  question_count: 11
+  tags: []
+  difficulty_average: 1.7
+  language: ITALIAN
+  image_background_url: ''
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2026-02-13'
+  updated: '2026-02-13'
