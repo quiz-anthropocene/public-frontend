@@ -9,11 +9,11 @@
 - name: Medium
   value: 2
   emoji: 🏆🏆
-  question_count: 252
+  question_count: 251
 - name: Hard
   value: 3
   emoji: 🏆🏆🏆
-  question_count: 195
+  question_count: 194
 - name: Expert
   value: 4
   emoji: 🏆🏆🏆🏆
