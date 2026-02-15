@@ -8,12 +8,12 @@
     </a>
     <p>
       {{ $t('license.terms') }} <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons BY-NC-SA 4.0</a>.
-      <ul>
-        <li>{{ $t('license.termsBY') }}</li>
-        <li>{{ $t('license.termsNC') }}</li>
-        <li>{{ $t('license.termsSA') }}</li>
-      </ul>
     </p>
+    <ul>
+      <li>{{ $t('license.termsBY') }}</li>
+      <li>{{ $t('license.termsNC') }}</li>
+      <li>{{ $t('license.termsSA') }}</li>
+    </ul>
 
     <br />
     <h3>{{ $t('license.commercialUse') }}</h3>

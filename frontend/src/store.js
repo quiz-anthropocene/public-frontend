@@ -1,5 +1,4 @@
-import Vue from 'vue';
-import Vuex from 'vuex';
+import { createStore } from 'vuex';
 
 import i18n from './i18n';
 import constants from './constants';
@@ -17,12 +16,10 @@ import quizStatsYamlData from '../../data/quiz-stats.yaml';
 import ressourcesSoutiensYamlData from '../../data/ressources-soutiens.yaml';
 import ressourcesAutresAppsYamlData from '../../data/ressources-autres-apps.yaml';
 
-Vue.use(Vuex);
-
 /**
  * Place to store app-wide variables
  */
-const store = new Vuex.Store({
+const store = createStore({
   state: {
     loading: false,
     error: null,
