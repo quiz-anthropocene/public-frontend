@@ -133,6 +133,9 @@
 import constants from '../constants';
 import { metaTagsGenerator } from '../utils';
 import FilterLabel from '../components/FilterLabel.vue';
+import { mapStores } from 'pinia';
+import { useMainStore } from '../stores/main';
+import { useResourcesStore } from '../stores/resources';
 
 export default {
   name: 'StatsPage',
@@ -153,66 +156,68 @@ export default {
   },
 
   computed: {
+    ...mapStores(useMainStore, useResourcesStore),
     data_last_updated() {
       return new Date(constants.DATA_LAST_UPDATED_DATETIME).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
     },
     question_published_count_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_published_count);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.question_published_count);
     },
     quiz_published_count_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.quiz_published_count);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.quiz_published_count);
     },
     question_answer_count_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_answer_count);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.question_answer_count);
     },
     quiz_answer_count_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.quiz_answer_count);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.quiz_answer_count);
     },
     question_answer_count_last_30_days_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_answer_count_last_30_days);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.question_answer_count_last_30_days);
     },
     quiz_answer_count_last_30_days_formatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.quiz_answer_count_last_30_days);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.quiz_answer_count_last_30_days);
     },
     feedback_agg_formatted() {
-      const feedbackAgg = this.$store.state.stats.question_feedback_count + this.$store.state.stats.quiz_feedback_count + this.$store.state.stats.contribution_count;
+      const feedbackAgg = this.mainStore.stats.question_feedback_count + this.mainStore.stats.quiz_feedback_count + this.mainStore.stats.contribution_count;
       return Intl.NumberFormat('fr-FR').format(feedbackAgg);
     },
     categories() {
-      return this.$store.state.categories
+      return this.resourcesStore.categories
         .filter((c) => c.question_count)
         .sort((a, b) => b.question_count - a.question_count);
     },
     quizTags() {
-      return this.$store.state.tags
+      return this.resourcesStore.tags
         .filter((t) => t.quiz_count)
         .sort((a, b) => b.quiz_count - a.quiz_count);
     },
     questionTags() {
-      return this.$store.state.tags
+      return this.resourcesStore.tags
         .filter((t) => t.question_count)
         .sort((a, b) => b.question_count - a.question_count);
     },
     quizAuthors() {
-      return this.$store.state.authors
+      return this.resourcesStore.authors
         .filter((a) => a.quiz_count)
         .sort((a, b) => b.quiz_count - a.quiz_count);
     },
     questionAuthors() {
-      return this.$store.state.authors
+      return this.resourcesStore.authors
         .filter((a) => a.question_count)
         .sort((a, b) => b.question_count - a.question_count);
     },
     difficultyLevels() {
-      return this.$store.state.difficultyLevels;
+      return this.resourcesStore.difficultyLevels;
     },
     languages() {
-      return this.$store.state.languages;
+      return this.resourcesStore.languages;
     },
   },
 
   mounted() {
-    // this.$store.dispatch('GET_STATS_DICT_FROM_LOCAL_YAML');  // done in App.vue
+    // const mainStore = useMainStore();
+    // mainStore.getStatsFromYaml();  // done in App.vue
   },
 
   methods: {

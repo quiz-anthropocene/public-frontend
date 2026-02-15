@@ -120,6 +120,9 @@
 
 <script>
 import QuizCard from '../components/QuizCard.vue';
+import { mapStores } from 'pinia';
+import { useMainStore } from '../stores/main';
+import { useQuizsStore } from '../stores/quizs';
 
 export default {
   name: 'HomePage',
@@ -138,17 +141,18 @@ export default {
   },
 
   computed: {
+    ...mapStores(useMainStore, useQuizsStore),
     quizPublishedCount() {
-      return this.$store.state.stats.quiz_published_count;
+      return this.mainStore.stats.quiz_published_count;
     },
     questionValidatedCount() {
-      return this.$store.state.stats.question_published_count;
+      return this.mainStore.stats.question_published_count;
     },
     quizsSpotlighted() {
-      return this.$store.state.quizsSpotlighted;
+      return this.quizsStore.quizsSpotlighted;
     },
     questionAnswerCountFormatted() {
-      return Intl.NumberFormat('fr-FR').format(this.$store.state.stats.question_answer_count || 250000);
+      return Intl.NumberFormat('fr-FR').format(this.mainStore.stats.question_answer_count || 250000);
     },
   },
 

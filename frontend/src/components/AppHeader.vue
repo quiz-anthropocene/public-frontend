@@ -20,6 +20,8 @@
 </template>
 
 <script>
+import { useMainStore } from '../stores/main';
+
 export default {
   name: 'AppHeader',
   props: {
@@ -36,7 +38,8 @@ export default {
       return this.$route.name;
     },
     configuration() {
-      return this.$store.state.configuration;
+      const mainStore = useMainStore();
+      return mainStore.configuration;
     },
   },
 

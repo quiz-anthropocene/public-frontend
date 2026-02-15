@@ -133,6 +133,9 @@ import QuizCard from '../components/QuizCard.vue';
 import QuestionAnswerCards from '../components/QuestionAnswerCards.vue';
 import FeedbackCard from '../components/FeedbackCard.vue';
 import ShareBox from '../components/ShareBox.vue';
+import { mapStores, mapState } from 'pinia';
+import { useMainStore } from '../stores/main';
+import { useQuizsStore } from '../stores/quizs';
 
 export default {
   name: 'QuizDetailPage',
@@ -169,12 +172,14 @@ export default {
   },
 
   computed: {
+    ...mapStores(useMainStore, useQuizsStore),
+    ...mapState(useMainStore, ['locale']),
     quiz() {
-      let quiz = this.$store.getters.getQuizById(parseInt(this.$route.params.quizId, 10));
+      let quiz = this.quizsStore.getQuizById(parseInt(this.$route.params.quizId, 10));
       // .slice(0) ? // .slice makes a copy of the array, instead of mutating the orginal
       // if the quiz is not found with its id, try with its slug
       if (!quiz) {
-        quiz = this.$store.getters.getQuizBySlug(this.$route.params.quizId);
+        quiz = this.quizsStore.getQuizBySlug(this.$route.params.quizId);
       }
       // if (!quiz) {
       //   this.quizNotFound = true;
@@ -182,26 +187,26 @@ export default {
       return quiz;
     },
     quizStats() {
-      const quizStats = this.$store.getters.getQuizStatsById(this.quiz.id);
+      const quizStats = this.quizsStore.getQuizStatsById(this.quiz.id);
       // .slice(0) ? // .slice makes a copy of the array, instead of mutating the orginal
       return quizStats;
     },
     quizRelationships() {
-      const quizRelationships = this.$store.getters.getQuizRelationshipsById(this.quiz.id);
+      const quizRelationships = this.quizsStore.getQuizRelationshipsById(this.quiz.id);
       // .slice(0) ? // .slice makes a copy of the array, instead of mutating the orginal
       return quizRelationships;
     },
     previousQuiz() {
       const previousQuizRelationship = this.quizRelationships.find((qr) => (qr.to_quiz === this.quiz.id) && (qr.status === constants.QUIZ_RELATIONSHIP_NEXT));
       if (previousQuizRelationship) {
-        return this.$store.getters.getQuizById(previousQuizRelationship.from_quiz);
+        return this.quizsStore.getQuizById(previousQuizRelationship.from_quiz);
       }
       return null;
     },
     nextQuiz() {
       const nextQuizRelationship = this.quizRelationships.find((qr) => (qr.from_quiz === this.quiz.id) && (qr.status === constants.QUIZ_RELATIONSHIP_NEXT));
       if (nextQuizRelationship) {
-        return this.$store.getters.getQuizById(nextQuizRelationship.to_quiz);
+        return this.quizsStore.getQuizById(nextQuizRelationship.to_quiz);
       }
       return null;
     },
@@ -210,7 +215,7 @@ export default {
         .filter((qr) => (qr.status === constants.QUIZ_RELATIONSHIP_SIMILAR) || (qr.status === constants.QUIZ_RELATIONSHIP_TWIN));
       if (similarQuizRelationships.length) {
         const similarQuizRelationshipsIdList = similarQuizRelationships.map((qr) => ((qr.to_quiz === this.quiz.id) ? qr.from_quiz : qr.to_quiz));
-        return this.$store.getters.getQuizsByIdList(similarQuizRelationshipsIdList);
+        return this.quizsStore.getQuizsByIdList(similarQuizRelationshipsIdList);
       }
       return null;
     },
@@ -228,7 +233,7 @@ export default {
       });
     },
     currentLocale() {
-      return this.$store.state.locale;
+      return this.locale;
     },
   },
 
@@ -255,7 +260,7 @@ export default {
 
   methods: {
     adaptLocale() {
-      if (this.quiz && this.$store.state.locale && this.quiz.language !== this.$store.state.locale.value) {
+      if (this.quiz && this.locale && this.quiz.language !== this.locale) {
         this.$i18n.locale = constants.LANGUAGE_CHOICE_LIST.find((l) => l.value === this.quiz.language).code;
       }
     },

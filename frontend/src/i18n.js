@@ -15,9 +15,12 @@ function loadLocaleMessages() {
 
 const i18n = createI18n({
   legacy: true, // Enable legacy mode for Options API
-  locale: process.env.VUE_APP_I18N_LOCALE || 'en',
-  fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || 'en',
+  locale: process.env.VUE_APP_I18N_LOCALE || 'fr',
+  fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || 'fr',
   messages: loadLocaleMessages(),
 });
+
+// Export global t function for use outside components
+export const t = (key) => i18n.global.t(key);
 
 export default i18n;
