@@ -83,6 +83,9 @@
 <script>
 import { postLinkClickEvent } from '../services/StatService';
 import HomeLink from './HomeLink.vue';
+import { mapStores, mapState } from 'pinia';
+import { useMainStore } from '../stores/main';
+import { useResourcesStore } from '../stores/resources';
 
 export default {
   name: 'AppFooter',
@@ -93,14 +96,13 @@ export default {
   },
 
   computed: {
+    ...mapStores(useMainStore, useResourcesStore),
+    ...mapState(useMainStore, ['configuration']),
     currentRoute() {
       return this.$route.name;
     },
-    configuration() {
-      return this.$store.state.configuration;
-    },
     languages() {
-      return this.$store.state.languages
+      return this.resourcesStore.languages
         .slice(0); // .slice makes a copy of the array, instead of mutating the orginal
     },
   },

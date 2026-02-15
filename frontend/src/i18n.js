@@ -1,7 +1,4 @@
-import Vue from 'vue';
-import VueI18n from 'vue-i18n';
-
-Vue.use(VueI18n);
+import { createI18n } from 'vue-i18n';
 
 function loadLocaleMessages() {
   const locales = require.context('./locales', true, /[A-Za-z0-9-_,\s]+\.json$/i);
@@ -16,10 +13,14 @@ function loadLocaleMessages() {
   return messages;
 }
 
-const i18n = new VueI18n({
-  locale: process.env.VUE_APP_I18N_LOCALE || 'en',
-  fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || 'en',
+const i18n = createI18n({
+  legacy: true, // Enable legacy mode for Options API
+  locale: process.env.VUE_APP_I18N_LOCALE || 'fr',
+  fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || 'fr',
   messages: loadLocaleMessages(),
 });
+
+// Export global t function for use outside components
+export const t = (key) => i18n.global.t(key);
 
 export default i18n;

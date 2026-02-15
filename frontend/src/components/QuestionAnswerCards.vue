@@ -144,6 +144,7 @@ import constants from '../constants';
 import { postLinkClickEvent } from '../services/StatService';
 import DifficultyBadge from './DifficultyBadge.vue';
 import FeedbackCard from './FeedbackCard.vue';
+import { useResourcesStore } from '../stores/resources';
 
 export default {
   name: 'QuestionAnswerCards',
@@ -169,7 +170,8 @@ export default {
 
   computed: {
     glossaire() {
-      return this.$store.state.ressources.glossaire;
+      const resourcesStore = useResourcesStore();
+      return resourcesStore.glossaire;
     },
     questionTextWithLineBreaks() {
       return this.question.text.replace(/(?:\r\n|\r|\n)/g, '<br />');

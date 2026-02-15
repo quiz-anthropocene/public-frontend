@@ -25,6 +25,7 @@
 import { metaTagsGenerator } from '../utils';
 import QuestionFilter from '../components/QuestionFilter.vue';
 import QuizCard from '../components/QuizCard.vue';
+import { useQuizsStore } from '../stores/quizs';
 
 export default {
   name: 'QuizListPage',
@@ -47,7 +48,8 @@ export default {
 
   computed: {
     quizsDisplayed() {
-      return this.$store.state.quizsDisplayed;
+      const quizsStore = useQuizsStore();
+      return quizsStore.quizsDisplayed;
     },
   },
 

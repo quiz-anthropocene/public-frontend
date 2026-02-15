@@ -37,6 +37,7 @@
 
 <script>
 import { metaTagsGenerator } from '../utils';
+import { useResourcesStore } from '../stores/resources';
 
 export default {
   name: 'GlossaryPage',
@@ -60,7 +61,8 @@ export default {
 
   computed: {
     glossaire() {
-      return this.$store.state.ressources.glossaire;
+      const resourcesStore = useResourcesStore();
+      return resourcesStore.glossaire;
     },
   },
 };
