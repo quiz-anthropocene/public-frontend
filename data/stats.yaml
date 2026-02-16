@@ -1,21 +1,21 @@
-question_count: 1336
+question_count: 1345
 question_published_count: 645
 question_per_language_count:
 - language: FRENCH
   total: 1135
 - language: ITALIAN
-  total: 154
+  total: 163
 - language: ENGLISH
   total: 38
 - language: GERMAN
   total: 9
-quiz_count: 97
+quiz_count: 98
 quiz_published_count: 57
 quiz_per_language_count:
 - language: FRENCH
   total: 75
 - language: ITALIAN
-  total: 16
+  total: 17
 - language: ENGLISH
   total: 5
 - language: GERMAN
