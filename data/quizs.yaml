@@ -4048,21 +4048,121 @@
     \n\r\n<p> </p>\r\n\r\n<p> </p>"
   conclusion: "<p> </p>\r\n\r\n<p>Le sapevi tutte? Mettiti alla prova con i quiz più\
     \ difficili...</p>\r\n\r\n<p> </p>"
-  questions: []
-  question_count: 0
+  questions:
+  - 1339
+  - 1340
+  - 1341
+  - 1342
+  - 1343
+  - 1344
+  - 1345
+  - 1346
+  - 1347
+  question_count: 9
   tags: []
-  difficulty_average: 0.0
+  difficulty_average: 2.0
   language: ITALIAN
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/56c568b3.png
   has_audio: false
   authors:
   - 81
   visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: 2
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: true
+  created: '2026-02-15'
+  updated: '2026-02-16'
+- id: 133
+  name: Il petrolio
+  slug: il-petrolio
+  introduction: "<p>Il petrolio è ovunque nelle nostre vite. Senza il petrolio non\
+    \ ci sarebbero la plastica, i detersivi, le strade asfaltate e anche alcune medicine...\
+    \ Potremo farne a meno? Questo quiz vi darà un'idea delle grandezze in gioco.</p>\r\
+    \n\r\n<p>Quiz adattato da Elena diato</p>\r\n\r\n<p> </p>"
+  conclusion: <p>Se questo quiz ha stuzzicato il tuo interesse, puoi approfondire
+    con un'ampia letteratura sull'argomento!</p>
+  questions:
+  - 1348
+  - 1349
+  - 1350
+  - 1351
+  - 1352
+  - 1353
+  - 1354
+  - 1355
+  - 1356
+  - 1357
+  - 1358
+  - 1359
+  - 1360
+  - 1361
+  - 1362
+  - 1363
+  - 1364
+  question_count: 17
+  tags: []
+  difficulty_average: 2.1
+  language: ITALIAN
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/8be75e70.jpg
+  has_audio: false
+  authors:
+  - 81
+  visibility: PUBLIC
   validation_status: DRAFT
-  validator: null
+  validator: 2
   validation_date: null
   publish: false
   publish_date: null
   spotlight: false
-  created: '2026-02-15'
-  updated: '2026-02-15'
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 134
+  name: popolazione-sovrappopolazione
+  slug: popolazione-sovrappopolazione
+  introduction: "<p> </p>\r\n\r\n<p>La crescita della popolazione mondiale è un fattore\
+    \ importante della crisi ecologica. Ma ne è la causa principale? E si può agire\
+    \ su questa crescita? Per che obiettivi e con quale scadenza? In questo quiz daremo\
+    \ uno sguardo alle cifre più significative su questa spinosa questione, e forse\
+    \ metteremo in discussione alcune idee preconcette.<br />\r\n<br />\r\n<br />\r\
+    \n<br />\r\nUn quiz sviluppato da Emmanuel Pont, autore del libro <a href=\"https://www.emmanuelpont.fr/\"\
+    >Smettere di fare figli per salvare il pianeta?</a> (in francese), e adattato\
+    \ da Elena Diato</p>\r\n\r\n<p> </p>"
+  conclusion: "<p> </p>\r\n\r\n<p>L'obiettivo di queste domande è fornire una visione\
+    \ più sfumata e articolata del dibattito sulla sovrappopolazione. Sebbene l'aumento\
+    \ della popolazione umana sia uno dei fattori dell'impronta umana sul pianeta,\
+    \ non costituisce una leva d'azione molto efficace. La \"popolazione massima\"\
+    \ che il pianeta può sopportare dipende da come viviamo e da come funzionano le\
+    \ nostre società. Allo stesso modo, su scala individuale, avere un figlio può\
+    \ avere un peso ecologico molto inferiore rispetto alle cifre che circolano, e\
+    \ che potrà essere ancora più basso a seconda di come vivrà quel bambino.</p>\r\
+    \n\r\n<p> </p>"
+  questions:
+  - 1365
+  - 1366
+  - 1367
+  - 1368
+  - 1369
+  - 1370
+  - 1371
+  - 1372
+  - 1373
+  question_count: 9
+  tags: []
+  difficulty_average: 2.6
+  language: ITALIAN
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/6f2e4a6b.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2026-02-16'
+  updated: '2026-02-16'
