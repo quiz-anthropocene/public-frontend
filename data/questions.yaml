@@ -482,14 +482,15 @@
     consommation électrique moyenne d'un foyer français.
   answer_audio_url: ''
   answer_audio_url_text: ''
-  answer_video_url: https://www.youtube.com/embed/Nb2S7oge8TQ?start=3600
-  answer_video_url_text: De quoi l'énergie est-elle le nom ?
+  answer_video_url: https://www.youtube.com/watch?v=Nb2S7oge8TQ
+  answer_video_url_text: De quoi l'énergie est-elle le nom ? Conférence d'Etienne
+    Klein
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2b97f404.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 16
@@ -498,7 +499,7 @@
   validator: 2
   validation_date: '2020-03-16'
   created: '2020-03-09'
-  updated: '2024-05-03'
+  updated: '2026-02-16'
 - id: 13
   text: A l'échelle mondiale, combien de barils de pétrole ont été consommés par jour
     en 2020 ?
@@ -41410,10 +41411,10 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://ec.europa.eu/eurostat/cache/infographs/energy/bloc-2a.html?etrans=fr
-  answer_source_accessible_url_text: D’où vient notre énergie? Eurostat
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://ec.europa.eu/eurostat/web/interactive-publications/energy-2025
+  answer_source_scientific_url_text: Shedding light on energy in Europe – 2025 edition
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/40231ff7.png
   answer_image_url_text: 'Source : Eurostat'
@@ -41424,7 +41425,7 @@
   validator: 2
   validation_date: '2022-11-04'
   created: '2022-06-08'
-  updated: '2022-11-10'
+  updated: '2026-02-16'
 - id: 1029
   text: Combien les importations de pétrole brut et de produits raffinés ont-elles
     coûté à la France en 2019 ?
@@ -54152,7 +54153,7 @@
   answer_choice_b: Falso
   answer_choice_c: ''
   answer_choice_d: ''
-  answer_correct: a
+  answer_correct: b
   has_ordered_answers: false
   answer_explanation: Un cane domestico ha un'impronta di carbonio (annuale) doppia
     rispetto a quella di un Land Cruiser che percorre 10 000 chilometri all'anno.
@@ -54180,7 +54181,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-13'
-  updated: '2026-02-13'
+  updated: '2026-02-16'
 - id: 1329
   text: Quanti giorni impiega uno statunitense ad emettere la stessa quantità di CO2
     di un bengalese in un anno?
@@ -54630,13 +54631,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/661ca75e.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: DRAFT
-  validator: null
+  validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-15'
+  updated: '2026-02-16'
 - id: 1340
   text: Qual è la percentuale di combustibili fossili nel consumo globale di energia?
   hint: ''
@@ -54644,7 +54645,7 @@
   category: 2
   tags: []
   difficulty: 2
-  language: FRENCH
+  language: ITALIAN
   answer_choice_a: 50%
   answer_choice_b: 65%
   answer_choice_c: 80%
@@ -54668,18 +54669,18 @@
   answer_image_url_text: Andamento del consumo di energia primaria nel mondo, per
     fonte
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: TO_VALIDATE
+  validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-15'
+  updated: '2026-02-16'
 - id: 1341
   text: Qual è l'impronta media di carbonio di un italiano (2023)?
   hint: ''
   type: QCM
-  category: null
+  category: 2
   tags: []
   difficulty: 3
   language: ITALIAN
@@ -54708,13 +54709,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ac054280.png
   answer_image_url_text: L'impronta media di un italiano, divisa per settori
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: DRAFT
-  validator: null
+  validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-15'
+  updated: '2026-02-16'
 - id: 1342
   text: Che percentuale di emissioni sono dovute al 10% più ricco della popolazione
     mondiale?
@@ -54752,13 +54753,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/827d35e8.JPG
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: DRAFT
-  validator: null
+  validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-15'
+  updated: '2026-02-16'
 - id: 1343
   text: Come è cambiata la temperatura media della Terra dal 1850 a oggi?
   hint: ''
@@ -54791,13 +54792,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4b4662f8.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
   validation_status: DRAFT
-  validator: null
+  validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-15'
+  updated: '2026-02-16'
 - id: 1344
   text: Quando diciamo che la temperatura media aumenterà tra +3° e +5°C da qui al
     2100, significa che sulla terraferma...
@@ -54830,10 +54831,1159 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6b6129df.png
   answer_image_url_text: L'oceano è in blu, la terra in rosso.
   answer_extra_info: ''
-  author: 2
+  author: 81
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: TO_VALIDATE
+  validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-15'
+  updated: '2026-02-16'
+- id: 1345
+  text: Quale di questi Paesi ha le più alte emissioni procapite?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Russia
+  answer_choice_b: Cina
+  answer_choice_c: Stati Uniti
+  answer_choice_d: Italia
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: "Di questi Paesi, gli Stati Uniti hanno le più alte emissioni\
+    \ procapite, con 14.3 tonnellate di CO2 all'anno. Seguono la Russia (12.5), Cina\
+    \ (8.4) e Italia (5.3) [dati 2023].\r\nQueste cifre contano solo le emissioni\
+    \ avvenute sul territorio nazionale, ma la proporzione resta simile anche considerando\
+    \ l'impronta complessiva (ovvero le emissioni di tutte le attività di un Paese,\
+    \ anche se avvenute all'estero - importazioni, ecc).\r\nIn questo caso avremmo:\
+    \ USA (16.5), Russia (10.1), Italia (7.4) e Cina (7.2) perché mentre Russia e\
+    \ Cina sono esportatori netti di emissioni (vendita di gas, esportazione di beni\
+    \ di consumo...), USA e Italia sono considerati importatori netti"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: 'Asud: report emissioni gas serra'
+  answer_source_accessible_url: https://asud.net/ultima/emission-gas-report-2024/
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://globalcarbonatlas.org/emissions/carbon-emissions/
+  answer_source_scientific_url_text: 'Global Carbon Atlas: emissioni per paese'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fac8be36.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: TO_VALIDATE
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1346
+  text: Nel 1850, la concentrazione di CO2 nell'atmosfera era di 280 ppm (parti per
+    milione, 1% = 10.000 ppm). Qual è la sua concentrazione attuale (2024)?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 280 ppm
+  answer_choice_b: 320 ppm
+  answer_choice_c: 425 ppm
+  answer_choice_d: 520 ppm
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: È questo aumento della concentrazione di CO2 nell'atmosfera
+    che, combinato con altri gas serra come il metano e il protossido di azoto, genera
+    un effetto serra addizionale che altera il clima. Secondo l'agenzia americana
+    NOAA, bisogna risalire a 3,6 milioni di anni fa per trovare una concentrazione
+    paragonabile. A quel tempo, la temperatura media globale era di 2 gradi più calda,
+    il livello del mare era più alto di 24 metri, le foreste ricoprivano l'Artico
+    e faceva molto caldo in quella che oggi è l'Europa... Al ritmo attuale, la concentrazione
+    di 450 ppm, che ufficialmente suona la campana a morto per l'obiettivo di limitare
+    il riscaldamento globale a +2°C, sarà raggiunta entro una dozzina di anni. Se
+    si considerano tutti i gas serra messi insieme, siamo addirittura a 504 ppm di
+    CO2 equivalente. E stiamo tornando verso l'Eocene, che era lontano decine di milioni
+    di anni. Con una temperatura media di circa 30°C, all'epoca non c'erano ghiacciai
+    sulla Terra.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://storieminerali.it/curva-keeling/
+  answer_source_accessible_url_text: La curva di Keeling, monitoraggio della concentrazione
+    di CO2 atmosferica presso l'osservatorio di Mauna Loa alle Hawaii
+  answer_source_scientific_url: https://climate.copernicus.eu/sites/default/files/2022-01/C3S-CAMS%20annual%20temp%20data%20and%20CO2%202021_press%20release_ITA%20%281%29_0.pdf
+  answer_source_scientific_url_text: '"Copernicus: Gli ultimi sette anni sono i più
+    caldi a livello globale; le concentrazioni di anidride carbonica e metano continuano
+    ad aumentare"'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bce42e64.jpg
+  answer_image_url_text: La concentrazione di anidride carbonica in atmosfera nelle
+    ultime centinaia di migliaia di anni. I dati in blu provengono dalle carote di
+    ghiaccio, quelli rossi vengono invece dalla curva di Keleing.
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1347
+  text: Tra il 1970 e il 2020, le popolazioni di vertebrati (mammiferi, uccelli, rettili
+    e anfibi…) sono diminuite di circa...
+  hint: ''
+  type: QCM
+  category: 4
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 15%
+  answer_choice_b: 30%
+  answer_choice_c: 60%
+  answer_choice_d: 75%
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: 'Del 73% per l''esattezza (rapporto WWF Living Planet): questo
+    significa che in cinquant''anni le dimensioni delle popolazioni di fauna selvatica
+    si sono ridotte di quasi tre quarti. Il calo è evidente in tutti gli ecosistemi:
+    -85% per le specie d''acqua dolce, -69% per quelle terrestri e -56% per quelle
+    marine. Nonostante gli sforzi politici, il declino continua, evidenziando una
+    crisi persistente per la biodiversità.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.wwf.ch/it/media/la-natura-lancia-un-grido-di-allarme-il-wwf-living-planet-report-rivela-che-il-73-delle-popolazioni
+  answer_source_accessible_url_text: Il grido d'allarme della natura
+  answer_source_scientific_url: https://www.worldwildlife.org/publications/2024-living-planet-report
+  answer_source_scientific_url_text: 'WWF: Living Planet Report 2024'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b1870d7f.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1348
+  text: Cosa produce più energia?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: La combustione di 1 litro di petrolio
+  answer_choice_b: La combustione di 1 litro di gas naturale a 200 bar
+  answer_choice_c: 50 m² di pannelli solari per 1 ora
+  answer_choice_d: 1 ora di vento a 80 km/h su una turbina eolica di 5 m di diametro
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: 'Il petrolio è una fonte di energia incredibilmente densa e
+    pratica: bruciandone 1 litro si ottengono 10 kWh, ovvero quanto 100 ore di una
+    persona che pedala su una dinamo. La turbina eolica ha valori di poco inferiori
+    (6 kWh), il gas naturale di circa la metà (5 kWh) e i pannelli solari circa 2.5
+    kWh'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Densit%C3%A0_energetica#Tavola_delle_densit%C3%A0_di_energia
+  answer_source_accessible_url_text: Tavola delle densità di energia - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/8909861b.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1349
+  text: Tutti i petroli del mondo hanno le stesse proprietà fisiche e chimiche?
+  hint: ''
+  type: VF
+  category: 5
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Si
+  answer_choice_b: 'No'
+  answer_choice_c: ''
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: A seconda della loro origine, i petroli contengono catene di
+    carbonio di lunghezza variabile. Sono quindi più o meno viscosi. Possono anche
+    contenere più o meno zolfo e impurità.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Petrolio#Caratterizzazione_e_classificazione_del_petrolio
+  answer_source_accessible_url_text: Caratterizzazione e classificazione del petrolio
+    - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1350
+  text: Il barile è l'unità di misura più comune per il petrolio. A quanto corrisponde?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 159 kg
+  answer_choice_b: 121 kg
+  answer_choice_c: 121 litri
+  answer_choice_d: 159 litri
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: Quando il petrolio fu estratto per la prima volta nel XIX secolo
+    in Pennsylvania (Stati Uniti d'America), si utilizzavano barili di forme diverse,
+    rendendo difficile il commercio perché i clienti non erano certi che volume stavano
+    acquistando. Nel 1866, i produttori di petrolio si accordarono per standardizzare
+    il volume dei barili a 42 galloni statunitensi, ovvero circa 159 litri.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Barile_(unit%C3%A0_di_misura)#Barile_di_petrolio
+  answer_source_accessible_url_text: Barile, unità di misura - Wikipedia
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/01057bf3.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1351
+  text: Qual è il primo produttore di petrolio al mondo?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Stati Uniti
+  answer_choice_b: Arabia Saudita
+  answer_choice_c: Russia
+  answer_choice_d: Cina
+  answer_correct: a
+  has_ordered_answers: false
+  answer_explanation: Dal 2017, gli Stati Uniti hanno riconquistato la posizione di
+    primo produttore mondiale di petrolio, persa nel 1976 quando vennero superati
+    dall'URSS e poi dall'Arabia Saudita.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ourworldindata.org/grapher/oil-production-by-country
+  answer_source_accessible_url_text: Oil production by country, 2022 - Statistical
+    Review of World Energy (Energy Institute, 2023)
+  answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2022-full-report.pdf
+  answer_source_scientific_url_text: bp Statistical Review of World Energy, 2022 (vedi
+    pagina 20)
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/fe570e95.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1352
+  text: Quanti sono i Paesi membri dell'OPEC?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: '5'
+  answer_choice_b: '9'
+  answer_choice_c: '12'
+  answer_choice_d: '21'
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'L’OPEC è stata fondata nel 1960 da cinque paesi: Iran, Iraq,
+    Kuwait, Arabia Saudita e Venezuela. Successivamente altri Paesi si sono uniti
+    (Qatar, Indonesia, Libia, Emirati Arabi Uniti, Algeria, Nigeria, Ecuador, Gabon,
+    Angola, Guinea Equatoriale e Congo) e alcuni si sono ritirati. Al 2024, l’Organizzazione
+    conta un totale di 12 Paesi membri.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.opec.org/opec_web/en/about_us/25.htm
+  answer_source_accessible_url_text: Member Countries - OPEC
+  answer_source_scientific_url: https://asvis.it/notizie/2-20345/nellera-del-declino-del-petrolio-si-rafforzera-il-potere-degli-stati-del-golfo
+  answer_source_scientific_url_text: Nell’era del declino del petrolio si rafforzerà
+    il potere degli Stati del Golfo
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/bd8561c8.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1353
+  text: Qual è la principale fonte di energia primaria nel mix energetico globale?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: Il carbone
+  answer_choice_b: Il gas
+  answer_choice_c: Il nucleare
+  answer_choice_d: Il petrolio
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: Nel 2019 abbiamo consumato 4,4 miliardi di tonnellate di petrolio,
+    pari al 31% del mix energetico totale. Seguono il carbone (27%), il gas (24%),
+    e le rinnovabili (14). Il nucleare è molto più indietro (4%).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2022-full-report.pdf
+  answer_source_accessible_url_text: bp Statistical Review of World Energy, 2022 (vedi
+    pagina 9)
+  answer_source_scientific_url: https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source
+  answer_source_scientific_url_text: Data overview - IEA
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6f53dce7.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1354
+  text: Quanto petrolio viene consumato ogni giorno nel mondo?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 1 milione di barili
+  answer_choice_b: 10 milioni di barili
+  answer_choice_c: 100 milioni di barili
+  answer_choice_d: 1 miliardo di barili
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Nel 2019, il consumo globale di petrolio si avvicinava a 100\
+    \ milioni di barili al giorno. Ciò equivale a 16 miliardi di litri, ovvero 6 400\
+    \ piscine olimpioniche.\r\nIl petrolio viene consumato in quantità maggiori rispetto\
+    \ al passato."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.swissinfo.ch/ita/petrolio-record-domanda-mondiale-sopra-100-mln-barili/44613892
+  answer_source_accessible_url_text: 'Petrolio: record domanda mondiale, sopra 100
+    mln barili'
+  answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2022-full-report.pdf
+  answer_source_scientific_url_text: bp Statistical Review of World Energy, 2022 (vedi
+    pagina 20)
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/13e3ea58.png
+  answer_image_url_text: Rassegna statistica BP sull'energia mondiale, 2021
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1355
+  text: Qual Paese del mondo costituisce il maggior consumatore di petrolio?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Cina
+  answer_choice_b: Stati Uniti
+  answer_choice_c: Russia
+  answer_choice_d: Canada
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: Gli Stati Uniti non sono solo il primo produttore di petrolio
+    al mondo, ma anche il primo consumatore.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ourworldindata.org/grapher/oil-consumption-by-country
+  answer_source_accessible_url_text: https://ourworldindata.org/grapher/oil-consumption-by-country
+  answer_source_scientific_url: https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2022-full-report.pdf
+  answer_source_scientific_url_text: bp Statistical Review of World Energy, 2022 (vedi
+    pagina 20)
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b04f4715.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1356
+  text: Se impilassimo tutti i barili di petrolio che l'Italia consuma in un anno,
+    a che altezza arriveremmo?
+  hint: Andremmo assai in alto...
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 8 km (sulla vetta dell'Everest)
+  answer_choice_b: 400 km (sulla Stazione Spaziale Internazionale)
+  answer_choice_c: 40.000 km (in orbita coi satelliti geostazionari)
+  answer_choice_d: 400.000 km (sulla Luna)
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Nel 2021 l'Italia ha consumato 67 miliardi di litri di petrolio,
+    ovvero circa 422 milioni di barili. Ogni barile è alto circa 80 cm, quindi se
+    li impilassimo raggiungeremmo un'altitudine di 335.000 km, quasi sufficiente per
+    arrivare alla luna (384.400 km).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://ourworldindata.org/grapher/oil-consumption-by-country?tab=chart&country=~ITA
+  answer_source_scientific_url_text: Consumo di petrolio annuo (in TWh) - Our World
+    in Data
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/46fa8321.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1357
+  text: Che percentuale del petrolio mondiale è utilizzata per scopi diversi dalla
+    produzione di energia?
+  hint: plastica, oli, solventi, catrame...
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 5%
+  answer_choice_b: 15%
+  answer_choice_c: 30%
+  answer_choice_d: 60%
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: "Gli usi non energetici del petrolio (17% della produzione globale)\
+    \ comprendono la produzione di materie plastiche, catrame e prodotti per l'industria\
+    \ chimica come lubrificanti, cere, vernici, fertilizzanti, ecc.\r\nTutto il resto\
+    \ della produzione viene bruciato, principalmente per la produzione di energia\
+    \ elettrica o come carburante nel settore dei trasporti."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.iea.org/data-and-statistics/charts/share-of-oil-final-consumption-by-sector-2019
+  answer_source_accessible_url_text: Share of oil final consumption by sector - EIA
+    2019
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/a9cd566a.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1358
+  text: Le petroliere di classe ULCC (Ultra Large Crude Carrier) sono quelle con una
+    capacità di trasporto superiore a 320.000 tonnellate. Quanto carburante consuma
+    in media al giorno una di queste petroliere?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 5 tonnellate al giorno
+  answer_choice_b: 25 tonnellate al giorno
+  answer_choice_c: 50 tonnellate al giorno
+  answer_choice_d: 100 tonnellate al giorno
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le petroliere più grandi hanno motori di circa 35.000 cavalli,
+    e consumano fino a 100 tonnellate di carburante al giorno.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/de065de1.jpg
+  answer_image_url_text: Il motore di una petroliera
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1359
+  text: Lo Stretto di Hormuz, all'ingresso del Golfo Persico, è la rotta attraverso
+    la quale passa la maggior parte delle petroliere del mondo. Quanti barili di petrolio
+    vi transitano ogni giorno?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 20.000 barili
+  answer_choice_b: 200.000 barili
+  answer_choice_c: 2 milioni barili
+  answer_choice_d: 20 milioni barili
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Ogni giorno, attraverso lo Stretto di Hormuz passano 18,5 milioni
+    di barili di petrolio, ovvero più di un terzo del commercio petrolifero marittimo
+    mondiale.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ispionline.it/it/pubblicazione/il-fronte-caldo-delle-rotte-marittime-152193
+  answer_source_accessible_url_text: Il fronte caldo delle rotte marittime - ISPI
+  answer_source_scientific_url: https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
+  answer_source_scientific_url_text: World Oil Transit Chokepoints Analysis Brief
+    - EIA
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3f96618c.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1360
+  text: Al 2021, quante automobili erano in circolazione nell'Unione Europea?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 50 milioni
+  answer_choice_b: 150 milioni
+  answer_choice_c: 250 milioni
+  answer_choice_d: 500 milioni
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Per l'esattezza 249,6 milioni di automobili, ovvero più di 6
+    veicoli ogni 10 abitanti. L'Italia è il Paese con il maggior numero di automobili
+    private pro capite (663 ogni 1.000 abitanti).
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ambientenonsolo.com/italia-record-di-autoveicoli-circolanti-per-abitanti-in-europa/
+  answer_source_accessible_url_text: Italia record di autoveicoli circolanti per abitanti
+    in Europa
+  answer_source_scientific_url: https://www.acea.be/statistics/tag/category/key-figures
+  answer_source_scientific_url_text: Key figures on the EU auto industry - ACEA -
+    Associazione europea dei produttori di automobili
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dbb21fdf.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1361
+  text: Che percentuale dei consumi energetici dell'Italia riguarda settore dei trasporti?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 5%
+  answer_choice_b: 30%
+  answer_choice_c: 60%
+  answer_choice_d: 90%
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Nel 2021 il settore dei trasporti in Italia ha consumato quasi
+    37 Mtep, cioè un terzo (32%) dei consumi energetici complessivi del Paese, principalmente
+    da petrolio, e principalmente per il trasporto stradale.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.qualenergia.it/articoli/un-terzo-consumi-energetici-italiani-vanno-per-trasporti/
+  answer_source_accessible_url_text: Un terzo dei consumi energetici italiani va ai
+    trasporti - Qualenergia.it
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1362
+  text: L'efficienza di un motore è il rapporto tra l'energia immessa sotto forma
+    di carburante e l'energia meccanica prodotta. Qual è l'efficienza ottimale di
+    un motore a combustione?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: 10%
+  answer_choice_b: 25%
+  answer_choice_c: 40%
+  answer_choice_d: 55%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "In condizioni di funzionamento ottimali, attualmente l'efficienza\
+    \ massima è del 36% per un motore a benzina e del 42% per un motore diesel. Il\
+    \ resto dell'energia fornita dal carburante viene dissipato come calore.\r\nPer\
+    \ giunta, i veicoli a motore vengono utilizzati principalmente per brevi tragitti\
+    \ nei centri abitati, il che significa che i motori sono sollecitati a bassi carichi\
+    \ e la loro efficienza è appena del 15%.\r\nNel 2024, è stato sviluppato in Cina\
+    \ un motore diesel con efficienza record (53%), ma non ancora commercializzato.\
+    \ L'efficienza di un motore elettrico invece va dall’80% a oltre il 90%."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://insideevs.it/features/370943/perche-il-motore-elettrico-e-piu-efficiente/
+  answer_source_accessible_url_text: Perché il motore elettrico è più efficiente
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c937f9a4.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1363
+  text: Nel 2019, chi è stato il principale fornitore di petrolio dell'Unione Europea?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Norvegia
+  answer_choice_b: Stati Uniti
+  answer_choice_c: Russia
+  answer_choice_d: Algeria
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Nel 2019, la Russia è stata il principale fornitore di petrolio,
+    gas e carbone dell'Unione Europea. La situazione è cambiata bruscamente nel 2022
+    con la guerra in Ucraina.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20230925-1
+  answer_source_accessible_url_text: Da dove viene la nostra energia? Eurostat
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/46c67e47.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1364
+  text: Il trasporto su gomma è il settore di maggior consumo di petrolio al mondo.
+    Qual è il secondo?
+  hint: ''
+  type: QCM
+  category: 5
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Trasporto marittimo
+  answer_choice_b: Trasporto aereo
+  answer_choice_c: Industria petrolchimica
+  answer_choice_d: Produzione di elettricità
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: Il settore petrolchimico è il secondo maggiore consumatore di
+    petrolio al mondo, dopo il trasporto su strada. Questi usi non energetici sono
+    dedicati alla conversione del petrolio in composti chimici di base, poi utilizzati
+    per produrre materie plastiche, fertilizzanti, fibre sintetiche, farmaci, cosmetici,
+    ecc.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser?country=WORLD&fuel=Oil&indicator=OilProductsConsBySector
+  answer_source_scientific_url_text: IAE, Energy Statistics Data Browser
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/649dd23d.PNG
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1365
+  text: Di quanto è aumentata la popolazione umana dal 1900?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: È raddoppiata
+  answer_choice_b: Moltiplicata x 5
+  answer_choice_c: Moltiplicata x 10
+  answer_choice_d: ''
+  answer_correct: b
+  has_ordered_answers: true
+  answer_explanation: Nel 1900 la popolazione umana era stimata in circa 1,6 miliardi.
+    Nel 2023 ha superato gli 8 miliardi.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Popolazione_mondiale
+  answer_source_accessible_url_text: Popolazione mondiale, Wikipedia
+  answer_source_scientific_url: https://ourworldindata.org/grapher/population?time=1900..latest
+  answer_source_scientific_url_text: Grafico della crescita della popolazione - Our
+    world in data
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b864829f.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1366
+  text: Quali di queste proiezioni demografiche per il 2100 sono considerate realistiche
+    dai demografi?
+  hint: La gamma di possibilità è ampia!
+  type: QCM-RM
+  category: 8
+  tags: []
+  difficulty: 1
+  language: ITALIAN
+  answer_choice_a: 9 miliardi di persone
+  answer_choice_b: 10 miliardi di persone
+  answer_choice_c: 11 miliardi di persone
+  answer_choice_d: 12 miliardi di persone
+  answer_correct: abcd
+  has_ordered_answers: true
+  answer_explanation: Anche se la demografia ha un'inerzia significativa (ad esempio,
+    la maggior parte delle persone che saranno vive nel 2050 sono già nate), non esiste
+    una sfera di cristallo per predire la popolazione futura. La prima grande domanda
+    è quanto rapidamente si ridurrà il tasso di natalità nei Paesi in cui oggi è alto
+    (la maggior parte dei quali in Africa). Il secondo è se il tasso di natalità continuerà
+    a diminuire nei Paesi ricchi, dove il tasso di fertilità è già inferiore a 2 figli
+    per donna.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.youtrend.it/2022/04/29/il-futuro-della-crescita-della-popolazione-mondiale/
+  answer_source_accessible_url_text: Il futuro della crescita della popolazione mondiale
+  answer_source_scientific_url: https://www.nature.com/articles/d41586-021-02522-6
+  answer_source_scientific_url_text: 'Nature, settembre 2021: Quanto aumenterà la
+    popolazione mondiale? I ricercatori non sono d''accordo'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9f77efaf.jpg
+  answer_image_url_text: Traiettorie stimate dalle 3 principali organizzazioni che
+    partecipano a questo esercizio
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1367
+  text: L'India è destinata a diventare il Paese più popoloso del mondo. Qual è oggi
+    il numero medio di figli per donna?
+  hint: Forse meno di quanto immagini
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 2,0
+  answer_choice_b: 2,5
+  answer_choice_c: 3,0
+  answer_choice_d: 3,5
+  answer_correct: a
+  has_ordered_answers: true
+  answer_explanation: Di recente l'India è scesa sotto la soglia di 2,1 figli per
+    donna, il tasso che garantisce la stabilità demografica a lungo termine. Dietro
+    questo dato medio, tuttavia, ci sono differenze significative tra singoli stati,
+    da un lato, e tra aree urbane e rurali, dall'altro.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.ispionline.it/it/pubblicazione/india-protagonista-alla-prova-del-dividendo-demografico-112605
+  answer_source_accessible_url_text: 'India: protagonista alla prova del dividendo
+    demografico - ISPI'
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/52903662.jpg
+  answer_image_url_text: Da iashris.com - https://indiainpixels.xyz, CC BY-SA 4.0,
+    https://commons.wikimedia.org/w/index.php?curid=112844699
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1368
+  text: Oggi l'umanità utilizza il 50% della superficie abitabile della Terra, la
+    maggior parte della quale è utilizzata per l'agricoltura. Quanta parte di questa
+    superficie agricola è utilizzata per l'allevamento?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 25%
+  answer_choice_b: 50%
+  answer_choice_c: 75%
+  answer_choice_d: 90%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: Da un lato, l'allevamento occupa vaste aree di pascolo (circa
+    2/3 della superficie agricola totale), ma consuma anche la metà dei cereali prodotti.
+    Se l'umanità smettesse di mangiare prodotti animali domani, si libererebbero in
+    un colpo solo 3/4 delle terre occupate dall'agricoltura.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://it.wikipedia.org/wiki/Impatto_ambientale_dell%27industria_dei_cibi_animali#Uso_delle_terre,_deforestazione_e_degradazione_del_suolo
+  answer_source_accessible_url_text: Impatto ambientale dell'industria dei cibi animali,
+    Wikipedia
+  answer_source_scientific_url: https://www.researchgate.net/publication/325532198_Reducing_food%27s_environmental_impacts_through_producers_and_consumers
+  answer_source_scientific_url_text: 'Science, giugno 2018: Ridurre l''impatto ambientale
+    degli alimenti attraverso produttori e consumatori'
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/39409c50.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1369
+  text: Qual è il rapporto tra le emissioni annuali di gas serra di un italiano e
+    quelle di un bangladese?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: 10 volte di più
+  answer_choice_b: 30 volte di più
+  answer_choice_c: 50 volte di più
+  answer_choice_d: 100 volte di più
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Le emissioni annuali di gas serra in Bangladesh sono 1.5 tonnellate
+    di CO2 eq per abitante (2022), rispetto a 6,5 per l'Italia. Inoltre, questo divario
+    non si sta significativamente riducendo. Lo stesso vale su scala globale, con
+    il 50% più povero responsabile di appena il 10% delle emissioni legate al consumo
+    umano.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.oxfamitalia.org/disuguaglianza-emissioni-co2/
+  answer_source_accessible_url_text: La disuguaglianza da CO2 che soffoca il pianeta
+    - Oxfam
+  answer_source_scientific_url: https://www.oxfamfrance.org/app/uploads/2020/09/Research-Report-Carbon-Inequality-Era-Embargoed-21-Sept-2020.pdf
+  answer_source_scientific_url_text: The carbon inequality era - Oxfam
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5d45e771.jpg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1370
+  text: Dal 1900 le emissioni di CO2 sono aumentate di 20 volte, mentre la popolazione
+    umana è aumentata di 5 volte. Che ruolo ha avuto la crescita della popolazione
+    in questo aumento delle emissioni?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Ne spiega un quarto
+  answer_choice_b: Rappresenta più della metà
+  answer_choice_c: Questo calcolo non ha senso
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'Si può fare una proporzione, ma il risultato significherà ben
+    poco. Questo calcolo globale mischia infatti un aumento di popolazione in Paesi
+    a basse emissioni con un aumento delle emissioni in Paesi con popolazioni stabili.
+    Non sappiamo nemmeno cosa sarebbe successo se la popolazione fosse cresciuta più
+    lentamente: avremmo davvero bruciato meno combustibili fossili?'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: Emissioni per persona e per continente dal 1900
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1371
+  text: È possibile stimare una popolazione umana massima sostenibile sulla Terra?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 2
+  language: ITALIAN
+  answer_choice_a: Sì, 100 milioni
+  answer_choice_b: Sì, 2 miliardi
+  answer_choice_c: Sì, 10 miliardi
+  answer_choice_d: No, la domanda è mal posta
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: Tutto dipende da ciò a cui puntiamo in termini di stile di vita
+    e dallo stato ecologico che consideriamo sostenibile. Ad esempio, ci sono molti
+    modi per nutrire 10 miliardi di persone in modo sostenibile entro il 2050. Invece,
+    ciò che difficilmente sarebbe sostenibile sono 10 miliardi di persone con l'attuale
+    stile di vita occidentale.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.iltascabile.com/scienze/siamo-troppi/
+  answer_source_accessible_url_text: Siamo troppi? - Il Tascabile
+  answer_source_scientific_url: https://na.unep.net/geas/archive/pdfs/GEAS_Jun_12_Carrying_Capacity.pdf
+  answer_source_scientific_url_text: One Planet, How Many People? A Review of Earth’s
+    Carrying Capacity
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6ae0b0e2.png
+  answer_image_url_text: Le azioni proposte dal World Resource Institute per sfamare
+    10 miliardi di persone entro il 2050 e il loro effetto sulle emissioni di gas
+    serra.
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1372
+  text: Immaginiamo di riuscire (gradualmente!) a dimezzare la popolazione. Quale
+    sarebbe l'effetto sulle emissioni di gas serra? Sarebbero...
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: Divise per 2
+  answer_choice_b: Divise per 1,5
+  answer_choice_c: Invariate
+  answer_choice_d: Difficile da dire
+  answer_correct: d
+  has_ordered_answers: true
+  answer_explanation: "Anche molti altri fattori cambiano in questo mondo:\r\n- se\
+    \ la domanda di combustibili fossili diminuisce, anche il loro prezzo diminuisce\
+    \ e la domanda aumenta di nuovo\r\n- il mondo diventa meno denso e quindi meno\
+    \ efficiente\r\n- il calo costituirebbe una scusa in più per rimandare decisioni\
+    \ politiche difficili.\r\nAd ogni modo, il riscaldamento globale dipende dalle\
+    \ emissioni accumulate, quindi emettere (la stessa quantità) più lentamente non\
+    \ fa che rimandare il problema."
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/61d855a3.jpeg
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
+- id: 1373
+  text: Immaginiamo che, seguendo l'esempio passato della Cina, domani si avvii in
+    tutto il mondo una politica del figlio unico. A parità di altre condizioni (speranza
+    di vita, ecc.), di quanto potrebbe ridursi la popolazione mondiale entro il 2100?
+  hint: ''
+  type: QCM
+  category: 8
+  tags: []
+  difficulty: 3
+  language: ITALIAN
+  answer_choice_a: -30%
+  answer_choice_b: -50%
+  answer_choice_c: -70%
+  answer_choice_d: ''
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: "Dipende da cosa si intende per \"\"politica cinese del figlio\
+    \ unico\"\". La politica del figlio unico ha portato a tassi di fertilità compresi\
+    \ tra 2,5 figli per donna (all'inizio) e 1,6 (recentemente).\r\nPer una politica\
+    \ rigida del figlio unico, cioè a un tasso di fertilità di 1 figlio per donna,\
+    \ la popolazione mondiale si ridurrebbe di 2/3 entro il 2100. Attenzione però:\
+    \ questo porterebbe a una piramide di età fortemente squilibrata (con una popolazione\
+    \ molto anziana, con più uomini che donne a causa degli aborti selettivi, e tutti\
+    \ i problemi di sanità, economia e sicurezza sociale che ne derivano)"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.ined.fr/en/everything_about_population/population-games/tomorrow-population/
+  answer_source_scientific_url_text: Imagine the population of tomorrow - INED
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4559c250.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 81
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: 2
+  validation_date: null
+  created: '2026-02-16'
+  updated: '2026-02-16'
