@@ -45425,12 +45425,11 @@
   answer_choice_d: 0°C
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Sans effet de serre, la température moyenne sur Terre serait
-    environ de -18°C si on considère l'albédo (part des rayonnements solaires renvoyés
-    vers l'espace) constant. Cependant, la faiblesse des températures entraînerait
-    une glaciation poussée et la glace (blanche) reflète la lumière du soleil. L'albédo
-    serait donc renforcé et la température se stabiliserait probablement au-dessous
-    de -50°C.
+  answer_explanation: Sans effet de serre, un calcul simple de physique donnerait
+    une température moyenne sur Terre serait environ de -18°C. Cependant, la faiblesse
+    des températures entraînerait une glaciation poussée. Et comme la glace (blanche)
+    reflète la lumière du soleil, moins de rayonnement serait absorbé. La température
+    se stabiliserait probablement au-dessous de -50°C.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -45449,7 +45448,7 @@
   validator: 55
   validation_date: '2023-02-15'
   created: '2023-02-02'
-  updated: '2023-02-15'
+  updated: '2026-02-17'
 - id: 1119
   text: Dans l'ordre, quels sont les trois gaz participant le plus à l'effet de serre
     dans l'atmosphère ?
@@ -45658,10 +45657,10 @@
   created: '2023-02-02'
   updated: '2023-02-07'
 - id: 1124
-  text: Lorsque, il y a 22 000 ans, la dernière ère glaciaire a pris fin, le niveau
-    des mers était 120 mètres plus bas qu'aujourd'hui et le nord de l'Europe était
-    recouvert de plusieurs kilomètres de glace. Quel est l'écart de température moyenne
-    mondiale entre cette période et la température moyenne préindustrielle ?
+  text: La dernière ère glaciaire a pris fin il y a 22 000 ans. Le niveau des mers
+    était 120 mètres plus bas qu'aujourd'hui et le nord de l'Europe était recouvert
+    de plusieurs kilomètres de glace. De combien s'est réchauffé le climat jusqu'à
+    la révolution industrielle ?
   hint: Cela paraît peu.
   type: QCM
   category: 1
@@ -45700,11 +45699,10 @@
   validator: 55
   validation_date: '2023-02-07'
   created: '2023-02-02'
-  updated: '2023-03-04'
+  updated: '2026-02-17'
 - id: 1125
-  text: Vrai ou faux ? Au cours des 800 000 dernières années, la terre a déjà connu
-    un niveau de concentration de dioxyde de carbone dans l'atmosphère égal ou supérieur
-    à la concentration actuelle.
+  text: Vrai ou faux ? Au cours des 800 000 dernières années, l'atmosphère sur terre
+    a déjà connu un niveau de CO2 comparable au niveau actuel.
   hint: ''
   type: VF
   category: 1
@@ -45740,7 +45738,7 @@
   validator: 55
   validation_date: '2023-02-15'
   created: '2023-02-02'
-  updated: '2023-02-15'
+  updated: '2026-02-17'
 - id: 1126
   text: Parmi les suivants, quels sont les effets déjà observés du changement climatique
     sur l'agriculture ?
