@@ -46939,13 +46939,13 @@
   answer_explanation: "La pisciculture est parfois présentée comme une alternative\
     \ pour éviter de vider les océans. Pour les poissons carnivores, (saumon, truite,\
     \ bar, daurade royale, turbot), qui constituent la majorité des espèces élevées\
-    \ en Europe, c’est pourtant l’inverse qui a lieu : ils sont nourris avec des huiles\
-    \ et farines de poissons… issus de la surpêche.\r\nLe chiffre proposé de 400 correspond\
-    \ à une valeur maximale.\r\nAu-delà du gaspillage en termes de calories, la pisciculture\
-    \ génère d’importantes souffrances : les animaux sont condamnés à tourner en rond\
-    \ toute leur vie dans des bassins lisses, sans aucune distraction, sans aucun\
-    \ endroit à explorer où se cacher, entassés les uns sur les autres. Dans les élevages\
-    \ de saumons, certains se laissent même mourir."
+    \ en Europe, c’est pourtant l’inverse qui se produit : ils sont nourris avec des\
+    \ huiles et farines de poissons… issus de la surpêche.\r\nLe chiffre proposé de\
+    \ 400 correspond à une valeur maximale.\r\nAu-delà du gaspillage en termes de\
+    \ calories, la pisciculture génère d’importantes souffrances : les animaux sont\
+    \ condamnés à tourner en rond toute leur vie dans des bassins lisses, sans aucune\
+    \ distraction, sans aucun endroit à explorer où se cacher, entassés les uns sur\
+    \ les autres. Dans les élevages de saumons, certains se laissent même mourir."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: https://videos-pub.ftv-publicite.fr/molotov/tv/1570/1570313/1570313.mp4?wmk=
@@ -46966,7 +46966,7 @@
   validator: 2
   validation_date: null
   created: '2023-08-15'
-  updated: '2025-06-28'
+  updated: '2026-02-23'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -52036,8 +52036,8 @@
     l’immense majorité. S’agissant des animaux terrestres, ils sont tués à une cadence
     de 35 chaque seconde dans les abattoirs. Les cadences effrénées d’abattage génèrent
     de grandes souffrances, comme le montrent les nombreuses enquêtes réalisées par
-    l’association : coups pour faire avancer les animaux, étourdissements ratés, animaux
-    égorgés encore conscients…'
+    L214 : coups pour faire avancer les animaux, étourdissements ratés, animaux égorgés
+    encore conscients…'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52048,8 +52048,8 @@
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b7347773.png
-  answer_image_url_text: Nombre d'animaux abattus pour leur viande en France, 1961
-    à 2023. Site ourworldindata.org
+  answer_image_url_text: Nombre d'animaux [terrestres] abattus pour leur viande en
+    France, 1961 à 2023. Site ourworldindata.org
   answer_extra_info: ''
   author: 96
   visibility: PUBLIC
@@ -52057,7 +52057,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-20'
+  updated: '2026-02-23'
 - id: 1278
   text: Vrai ou faux ? Pour le climat, il est équivalent de manger local ou de manger
     végétal.
@@ -52117,16 +52117,17 @@
   answer_choice_d: ''
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: "Près de 85 % des Françaises et Français s’opposent à l’élevage\
-    \ intensif (IFOP 2024). Pourtant, plus de 80 % des animaux sont enfermés dans\
-    \ des bâtiments d’où ils ne sortiront que pour être emmenés à l’abattoir. La souffrance\
-    \ y est généralisée, du fait des densités extrêmes, du manque de soins et de pratiques\
-    \ violentes. Par exemple, porcelets et lapereaux chétifs sont tués par claquage\
-    \ contre le sol ou le mur ; les queues et testicules des porcelets, ainsi que\
-    \ les becs des poules, sont coupés à vif.\r\nLe chiffre de 98 % renvoie à la situation\
-    \ des lapins et des cochons. Ainsi, même la charcuterie et la viande de lapin\
-    \ vendues dans les boucheries proviennent d’élevages intensifs. De même, les poissons\
-    \ issus de la pisciculture ont tous été élevés de façon intensive."
+  answer_explanation: "Alors qu'une immense majorité des Françaises et Français sont\
+    \ opposés à l’élevage intensif (85%, sondage IFOP 2024), plus de 80 % des animaux\
+    \ sont enfermés dans des bâtiments d’où ils ne sortiront que pour être emmenés\
+    \ à l’abattoir. La souffrance y est généralisée, du fait des densités extrêmes,\
+    \ du manque de soins et de pratiques violentes : porcelets et lapereaux chétifs\
+    \ tués par claquage contre le sol ou le mur, queues et testicules des porcelets,\
+    \ ainsi que becs des poules coupés à vif.\r\nLe chiffre de 98 % renvoie à une\
+    \ réalité : celle des lapins et des cochons. Ainsi, même la charcuterie et la\
+    \ viande de lapin vendues dans les boucheries proviennent d’élevages intensifs.\
+    \ De même, les poissons issus de la pisciculture ont tous été élevés de façon\
+    \ intensive."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52147,7 +52148,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-28'
+  updated: '2026-02-23'
 - id: 1280
   text: Pour produire une calorie d'origine animale, combien faut-il en moyenne de
     calories végétales ?
@@ -52409,15 +52410,15 @@
     génétique ces dernières décennies. Au cours du seul XXe siècle, leur masse corporelle
     a été multipliée par 5 et leur ossature a complètement changé. Cette sélection
     implique aussi une croissance ultra-rapide : ils sont désormais tués à l’âge de
-    35 jours (soit à peine plus d’un mois), 4 fois plus jeune qu’en 1950. Elle est
-    aussi source de nombreuses souffrances : difficulté à se déplacer, douleurs articulaires,
-    cœurs et poumons défaillants…La mortalité est de 4% avant leur âge d’abattage.
-    Dans les refuges animalistes qui recueillent ceux qui ont été sauvés de l’abattage,
-    ils doivent faire l’objet de nombreux soins vétérinaires car ils sont particulièrement
-    fragiles On comptait 26 milliards de poulets en 2021, trois fois plus que tous
-    leurs autres oiseaux réunis. Les os si nombreux de ces poulets si particuliers
-    que notre civilisation laissera derrière elle intrigueront peut-être les chercheurs
-    du futur. Au point qu''on peut voir en cette espèce un marqueur de l’anthropocène.'
+    35 jours, 4 fois plus jeune qu’en 1950. Elle est aussi source de nombreuses souffrances
+    : difficulté à se déplacer, douleurs articulaires, cœurs et poumons défaillants…La
+    mortalité est de 4% avant leur âge d’abattage. Dans les refuges animalistes qui
+    recueillent ceux qui ont été sauvés de l’abattage, ils doivent faire l’objet de
+    nombreux soins vétérinaires car ils sont particulièrement fragiles On comptait
+    26 milliards de poulets en 2021, trois fois plus que tous leurs autres oiseaux
+    réunis. Les os si nombreux de ces poulets si particuliers intrigueront peut-être
+    les chercheurs du futur. Au point qu''on peut voir en cette espèce un marqueur
+    de l’anthropocène.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -52437,7 +52438,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-11'
-  updated: '2025-06-20'
+  updated: '2026-02-23'
 - id: 1287
   text: Quelle est la consommation annuelle de sable (tous sables confondus), par
     jour et par personne ?
