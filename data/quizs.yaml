@@ -4008,11 +4008,11 @@
     \ globale di origine antropica (cioè attribuibile all’attività umana). E tu, conosci\
     \ la tua impronta?<br />\r\nQuiz adattato da Elena diato</p>"
   conclusion: <p>Complimenti! Se non l'hai ancora fatto, calcola la tua impronta di
-    carbonio L’<a href="https://www.lifegate.it/calcolatore-co2">qui</a>  o la tua
-    impronta ecologica <a href="https://www.footprintcalculator.org/home/it">qui</a></p>
+    carbonio <a href="https://www.lifegate.it/calcolatore-co2">qui</a> e la tua impronta
+    ecologica <a href="https://www.footprintcalculator.org/home/it">qui</a></p>
   questions:
+  - 1298
   - 1328
-  - 1329
   - 1330
   - 1331
   - 1332
@@ -4031,50 +4031,50 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2026-02-13'
-  updated: '2026-02-15'
+  updated: '2026-03-06'
 - id: 132
   name: 'Noi e il clima: dati essenziali'
   slug: noi-e-il-clima-dati-essenziali
   introduction: "<p> </p>\r\n\r\n<p>Benvenuto al quiz storico del sito! Verifica la\
     \ tua familiarità con il cambiamento climatico attraverso alcune nozioni essenziali.</p>\r\
-    \n\r\n<p> </p>\r\n\r\n<p>Quiz creato da Raphaël Odini e adattato da Elena diato</p>\r\
+    \n\r\n<p> </p>\r\n\r\n<p>Quiz creato da Raphaël Odini e adattato da Elena Diato</p>\r\
     \n\r\n<p> </p>\r\n\r\n<p> </p>"
   conclusion: "<p> </p>\r\n\r\n<p>Le sapevi tutte? Mettiti alla prova con i quiz più\
     \ difficili...</p>\r\n\r\n<p> </p>"
   questions:
+  - 1202
+  - 1211
+  - 1213
+  - 1222
   - 1339
-  - 1340
   - 1341
   - 1342
-  - 1343
-  - 1344
   - 1345
-  - 1346
   - 1347
   question_count: 9
   tags: []
-  difficulty_average: 2.0
+  difficulty_average: 2.1
   language: ITALIAN
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/56c568b3.png
   has_audio: false
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: VALIDATED
   validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
   spotlight: true
   created: '2026-02-15'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 133
   name: Il petrolio
   slug: il-petrolio
@@ -4111,14 +4111,14 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 134
   name: popolazione-sovrappopolazione
   slug: popolazione-sovrappopolazione

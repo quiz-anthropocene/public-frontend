@@ -48926,7 +48926,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2026-03-06'
 - id: 1203
   text: Che effetto hanno gli aerosol sul clima?
   hint: ''
@@ -49280,7 +49280,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2026-03-06'
 - id: 1212
   text: Quale Paese dell'Unione Europea è stato il primo ad adottare una strategia
     nazionale di adattamento ai cambiamenti climatici?
@@ -49356,13 +49356,10 @@
     di CO2 atmosferica presso l'osservatorio di Mauna Loa alle Hawaii
   answer_source_scientific_url: https://climate.copernicus.eu/sites/default/files/2022-01/C3S-CAMS%20annual%20temp%20data%20and%20CO2%202021_press%20release_ITA%20%281%29_0.pdf
   answer_source_scientific_url_text: 'Copernicus: Gli ultimi sette anni sono i più
-    caldi a
-
-    livello globale; le concentrazioni di anidride
-
-    carbonica e metano continuano ad aumentare'
+    caldi alivello globale; le concentrazioni di anidridecarbonica e metano continuano
+    ad aumentare'
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/833f28cf.jpg
   answer_image_url_text: ''
   answer_extra_info: https://ourworldindata.org/grapher/global-co-concentration-ppm
   author: 81
@@ -49371,7 +49368,7 @@
   validator: null
   validation_date: null
   created: '2024-05-28'
-  updated: '2024-05-28'
+  updated: '2026-03-06'
 - id: 1214
   text: Ogni anno i deserti del mondo continuano a crescere di...
   hint: ''
@@ -49733,7 +49730,7 @@
   validator: 1
   validation_date: '2024-05-28'
   created: '2024-05-28'
-  updated: '2024-05-29'
+  updated: '2026-03-06'
 - id: 1223
   text: Immaginate di riunire tutte le mucche del mondo in un unico Paese. In che
     posizione si troverebbe questo Paese per emissioni di gas serra (dirette e indirette)?
@@ -52870,8 +52867,8 @@
   created: '2025-10-14'
   updated: '2025-10-20'
 - id: 1298
-  text: Quanti giorni impiega uno statunitense ad emettere la stessa quantità di CO2
-    di un bengalese in un anno?
+  text: Quanto tempo impiega uno statunitense ad eguagliare le emissioni annuali di
+    CO2 di un abitante delle Filippine?
   hint: ''
   type: QCM
   category: 5
@@ -52879,18 +52876,18 @@
   difficulty: 2
   language: ITALIAN
   answer_choice_a: 3 giorni
-  answer_choice_b: 15 giorni
-  answer_choice_c: 30 giorni
-  answer_choice_d: 60 giorni
+  answer_choice_b: 35 giorni
+  answer_choice_c: 3 mesi
+  answer_choice_d: 6 mesi
   answer_correct: b
   has_ordered_answers: true
   answer_explanation: "Nel 2022, le emissioni di CO2 degli USA sono state di 15,4\
-    \ tonnellate per abitante, rispetto alle 5,1 dell'Italia e le 0,65 del Bangladesh.\
-    \ Uno statunitense impiega quindi 15 giorni (e un italiano 47) per emettere come\
-    \ un bengalese in un anno.\r\nQuindi le emissioni di CO2 di 337 milioni di americani\
-    \ equivalgono a quelle di... 8 miliardi di etiopi.\r\nGli americani sono tra i\
-    \ maggiori emettitori di CO2 del pianeta, con due settori predominanti: la produzione\
-    \ di elettricità (60% di combustibili fossili, gas e carbone) e i trasporti (auto,\
+    \ tonnellate per abitante, rispetto alle 5,1 dell'Italia e le 1,5 delle Filippine.\
+    \ Uno statunitense impiega quindi 1 mese per emettere come un filippino in un\
+    \ anno.\r\nQuindi le emissioni annuali di 337 milioni di americani equivalgono\
+    \ a quelle di... 3,5 miliardi di filippini.\r\nGli americani sono tra i maggiori\
+    \ emettitori di CO2 del pianeta, con due settori predominanti: la produzione di\
+    \ elettricità (60% di combustibili fossili, gas e carbone) e i trasporti (auto,\
     \ pick-up, aerei). Stiamo parlando di emissioni territoriali (inventario nazionale,\
     \ non impronta di carbonio)."
   answer_audio_url: ''
@@ -52900,10 +52897,9 @@
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: https://globalcarbonatlas.org/emissions/carbon-emissions/
-  answer_source_scientific_url_text: Pozzi di petrolio e gas degli Stati Uniti per
-    tasso di produzione - Amministrazione dell'energia degli Stati Uniti (EIA)
+  answer_source_scientific_url_text: Emissioni mondiali di gas serra
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/2b981753.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5fecb11f.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -52912,7 +52908,7 @@
   validator: 2
   validation_date: null
   created: '2025-10-14'
-  updated: '2025-10-20'
+  updated: '2026-03-06'
 - id: 1299
   text: Quali di questi paesi producono più elettricità delle sole centrali a gas
     degli Stati Uniti?
@@ -54315,13 +54311,13 @@
   answer_choice_b: Una Coca-Cola (30 cl)
   answer_choice_c: Un caffè americano (40 cl)
   answer_choice_d: Un bicchiere di vino (15 cl)
-  answer_correct: b
+  answer_correct: a
   has_ordered_answers: false
   answer_explanation: "La birra è in testa, principalmente per la fermentazione del\
     \ luppolo: quando il lievito trasforma lo zucchero in alcol produce anche della\
-    \ CO2. Segue il caffé americano, e, con circa la metà delle emissioni, la Coca-Cola\
+    \ CO2. Seguono il caffé americano, e, con circa la metà delle emissioni, la Coca-Cola\
     \ e il bicchiere di vino.\r\nAttenzione: non stiamo parlando di emissioni per\
-    \ litro, ma pesate sulla diversa quantià delle bevande elencate"
+    \ litro, ma pesate sulla diversa quantità delle bevande elencate"
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -54332,7 +54328,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c7999d92.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/077ecf49.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -54341,7 +54337,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-13'
-  updated: '2026-02-13'
+  updated: '2026-03-06'
 - id: 1333
   text: L'Italia conta per l'1% delle emissioni globali di gas serra. Considerando
     importazioni ed esportazioni, l'impronta di CO2 media di un italiano rispetto
@@ -54372,7 +54368,7 @@
   answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
   answer_source_scientific_url_text: Emissioni di CO2 | Atlante globale del carbonio
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9c6824af.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/63af63e1.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -54381,7 +54377,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-13'
-  updated: '2026-02-13'
+  updated: '2026-03-06'
 - id: 1334
   text: Consideriamo il consumo di 1 kg dei seguenti quattro alimenti. Quale genera
     più gas serra? (in CO2 equivalente)
@@ -54670,11 +54666,11 @@
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: REMOVED
   validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1341
   text: Qual è l'impronta media di carbonio di un italiano (2023)?
   hint: ''
@@ -54705,7 +54701,7 @@
     [ovvero emissioni basate sulla produzione meno le emissioni incorporate nelle
     esportazioni, più le emissioni incorporate nelle importazioni]
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ac054280.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dbaf32da.png
   answer_image_url_text: L'impronta media di un italiano, divisa per settori
   answer_extra_info: ''
   author: 81
@@ -54714,7 +54710,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1342
   text: Che percentuale di emissioni sono dovute al 10% più ricco della popolazione
     mondiale?
@@ -54773,11 +54769,12 @@
   answer_choice_d: +2°C
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Questa media si riferisce all'intero pianeta (terra, oceani)
-    e su un periodo di 30 anni. Secondo gli scenari dell'IPCC, nel 2100 l'aumento
-    sarà compreso tra i 2°C e i 5°C. Tuttavia, durante l'ultima glaciazione, 20 000
-    anni fa, la temperatura era di soli 5°C inferiore a quella attuale... e la deglaciazione
-    è durata 10 000 anni.
+  answer_explanation: Secondo gli scenari dell'IPCC, nel 2100 l'aumento sarà compreso
+    tra i 2°C e i 5°C (media riferita all'intero pianeta e misurata su un periodo
+    di 30 anni). Come termine di paragone, la temperatura media durante l'ultima glaciazione,
+    20 000 anni fa, era solamente 5°C inferiore a quella attuale, e ciononostante
+    il pianeta era un posto completamente diverso! E la deglaciazione è durata 10
+    000 anni, non 250.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -54788,16 +54785,16 @@
   answer_source_scientific_url_text: Time series of observed temperature anomalies
     for global average annual mean temperature
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4b4662f8.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/9f7fec41.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1344
   text: Quando diciamo che la temperatura media aumenterà tra +3° e +5°C da qui al
     2100, significa che sulla terraferma...
@@ -54832,11 +54829,11 @@
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: REMOVED
   validator: 2
   validation_date: null
   created: '2026-02-15'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1345
   text: Quale di questi Paesi ha le più alte emissioni procapite?
   hint: ''
@@ -54852,14 +54849,14 @@
   answer_correct: c
   has_ordered_answers: false
   answer_explanation: "Di questi Paesi, gli Stati Uniti hanno le più alte emissioni\
-    \ procapite, con 14.3 tonnellate di CO2 all'anno. Seguono la Russia (12.5), Cina\
-    \ (8.4) e Italia (5.3) [dati 2023].\r\nQueste cifre contano solo le emissioni\
+    \ procapite, con 14,3 tonnellate di CO2 all'anno. Seguono Russia (12,5), Cina\
+    \ (8,4) e Italia (5,3) [dati 2023].\r\nQueste cifre contano solo le emissioni\
     \ avvenute sul territorio nazionale, ma la proporzione resta simile anche considerando\
-    \ l'impronta complessiva (ovvero le emissioni di tutte le attività di un Paese,\
+    \ l'impronta complessiva (ovvero le emissioni di tutte le attività del Paese,\
     \ anche se avvenute all'estero - importazioni, ecc).\r\nIn questo caso avremmo:\
-    \ USA (16.5), Russia (10.1), Italia (7.4) e Cina (7.2) perché mentre Russia e\
+    \ USA (16,5), Russia (10,1), Italia (7,4) e Cina (7,2) perché mentre Russia e\
     \ Cina sono esportatori netti di emissioni (vendita di gas, esportazione di beni\
-    \ di consumo...), USA e Italia sono considerati importatori netti"
+    \ di consumo...), USA e Italia sono considerati importatori netti."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -54878,7 +54875,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1346
   text: Nel 1850, la concentrazione di CO2 nell'atmosfera era di 280 ppm (parti per
     milione, 1% = 10.000 ppm). Qual è la sua concentrazione attuale (2024)?
@@ -54926,11 +54923,11 @@
   answer_extra_info: ''
   author: 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: REMOVED
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1347
   text: Tra il 1970 e il 2020, le popolazioni di vertebrati (mammiferi, uccelli, rettili
     e anfibi…) sono diminuite di circa...
@@ -55036,7 +55033,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3ccc8fe6.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -55045,7 +55042,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1350
   text: Il barile è l'unità di misura più comune per il petrolio. A quanto corrisponde?
   hint: ''
@@ -55212,10 +55209,9 @@
   answer_choice_d: 1 miliardo di barili
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Nel 2019, il consumo globale di petrolio si avvicinava a 100\
-    \ milioni di barili al giorno. Ciò equivale a 16 miliardi di litri, ovvero 6 400\
-    \ piscine olimpioniche.\r\nIl petrolio viene consumato in quantità maggiori rispetto\
-    \ al passato."
+  answer_explanation: Nel 2019, il consumo globale di petrolio si avvicinava a 100
+    milioni di barili al giorno. Ciò equivale a 16 miliardi di litri, ovvero 6 400
+    piscine olimpioniche.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -55236,9 +55232,9 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1355
-  text: Qual Paese del mondo costituisce il maggior consumatore di petrolio?
+  text: Qual è il Paese del mondo con il maggior consumo di petrolio?
   hint: ''
   type: QCM
   category: 5
@@ -55272,7 +55268,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1356
   text: Se impilassimo tutti i barili di petrolio che l'Italia consuma in un anno,
     a che altezza arriveremmo?
@@ -55456,7 +55452,7 @@
   answer_source_scientific_url_text: Key figures on the EU auto industry - ACEA -
     Associazione europea dei produttori di automobili
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/dbb21fdf.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/12969552.PNG
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -55465,9 +55461,9 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1361
-  text: Che percentuale dei consumi energetici dell'Italia riguarda settore dei trasporti?
+  text: Che percentuale dei consumi energetici italiani riguarda il settore dei trasporti?
   hint: ''
   type: QCM
   category: 5
@@ -55493,7 +55489,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/b20daa09.jpg
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -55502,7 +55498,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1362
   text: L'efficienza di un motore è il rapporto tra l'energia immessa sotto forma
     di carburante e l'energia meccanica prodotta. Qual è l'efficienza ottimale di
@@ -55583,8 +55579,8 @@
   created: '2026-02-16'
   updated: '2026-02-16'
 - id: 1364
-  text: Il trasporto su gomma è il settore di maggior consumo di petrolio al mondo.
-    Qual è il secondo?
+  text: Nel mondo, il settore economico con il maggiore consumo di petrolio è il trasporto
+    su gomma. Qual è il secondo?
   hint: ''
   type: QCM
   category: 5
@@ -55620,7 +55616,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-06'
 - id: 1365
   text: Di quanto è aumentata la popolazione umana dal 1900?
   hint: ''

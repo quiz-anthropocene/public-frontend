@@ -4480,7 +4480,7 @@
   created: '2026-02-13'
 - id: 1187
   quiz: 131
-  question: 1329
+  question: 1298
   order: 20
   created: '2026-02-13'
 - id: 1188
@@ -4535,7 +4535,7 @@
   created: '2026-02-16'
 - id: 1198
   quiz: 132
-  question: 1340
+  question: 1222
   order: 20
   created: '2026-02-16'
 - id: 1199
@@ -4550,12 +4550,12 @@
   created: '2026-02-16'
 - id: 1201
   quiz: 132
-  question: 1343
+  question: 1211
   order: 50
   created: '2026-02-16'
 - id: 1202
   quiz: 132
-  question: 1344
+  question: 1202
   order: 60
   created: '2026-02-16'
 - id: 1203
@@ -4565,7 +4565,7 @@
   created: '2026-02-16'
 - id: 1204
   quiz: 132
-  question: 1346
+  question: 1213
   order: 80
   created: '2026-02-16'
 - id: 1205
