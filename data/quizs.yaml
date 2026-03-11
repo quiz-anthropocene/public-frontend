@@ -4120,25 +4120,24 @@
   created: '2026-02-16'
   updated: '2026-03-06'
 - id: 134
-  name: popolazione-sovrappopolazione
+  name: Popolazione o sovrappopolazione?
   slug: popolazione-sovrappopolazione
-  introduction: "<p> </p>\r\n\r\n<p>La crescita della popolazione mondiale è un fattore\
-    \ importante della crisi ecologica. Ma ne è la causa principale? E si può agire\
-    \ su questa crescita? Per che obiettivi e con quale scadenza? In questo quiz daremo\
-    \ uno sguardo alle cifre più significative su questa spinosa questione, e forse\
-    \ metteremo in discussione alcune idee preconcette.<br />\r\n<br />\r\n<br />\r\
-    \n<br />\r\nUn quiz sviluppato da Emmanuel Pont, autore del libro <a href=\"https://www.emmanuelpont.fr/\"\
-    >Smettere di fare figli per salvare il pianeta?</a> (in francese), e adattato\
-    \ da Elena Diato</p>\r\n\r\n<p> </p>"
+  introduction: "<p>La crescita della popolazione mondiale è un fattore importante\
+    \ della crisi ecologica. Ma ne è la causa principale? E si può / si deve agire\
+    \ su questa crescita?<br />\r\nIn questo quiz daremo uno sguardo alle cifre più\
+    \ significative di questa questione, e chissà, forse riusciremo a mettere in discussione\
+    \ qualche idea preconcetta.<br />\r\n<br />\r\nUn quiz sviluppato da Emmanuel\
+    \ Pont, autore del libro <a href=\"https://www.emmanuelpont.fr/\">Smettere di\
+    \ fare figli per salvare il pianeta?</a> (in francese), e adattato da Elena Diato</p>"
   conclusion: "<p> </p>\r\n\r\n<p>L'obiettivo di queste domande è fornire una visione\
     \ più sfumata e articolata del dibattito sulla sovrappopolazione. Sebbene l'aumento\
     \ della popolazione umana sia uno dei fattori dell'impronta umana sul pianeta,\
-    \ non costituisce una leva d'azione molto efficace. La \"popolazione massima\"\
-    \ che il pianeta può sopportare dipende da come viviamo e da come funzionano le\
-    \ nostre società. Allo stesso modo, su scala individuale, avere un figlio può\
-    \ avere un peso ecologico molto inferiore rispetto alle cifre che circolano, e\
-    \ che potrà essere ancora più basso a seconda di come vivrà quel bambino.</p>\r\
-    \n\r\n<p> </p>"
+    \ ridurlo non costituisce una leva d'azione molto efficace per una trasizione\
+    \ ecologica.<br />\r\nLa \"popolazione massima\" che il pianeta può sopportare\
+    \ dipende da come viviamo e da come funzionano le nostre società. Allo stesso\
+    \ modo, su scala individuale, fare figli può avere un peso ecologico molto inferiore\
+    \ rispetto alle stime circolate negli anni passati, e questo potrà essere ancora\
+    \ più basso a seconda di come vivrà quel bambino.</p>\r\n\r\n<p> </p>"
   questions:
   - 1365
   - 1366
@@ -4156,7 +4155,7 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/6f2e4a6b.png
   has_audio: false
   authors:
-  - 2
+  - 81
   visibility: PUBLIC
   validation_status: DRAFT
   validator: 2
@@ -4165,4 +4164,4 @@
   publish_date: null
   spotlight: false
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-10'

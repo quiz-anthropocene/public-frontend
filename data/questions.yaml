@@ -55738,8 +55738,8 @@
   updated: '2026-02-16'
 - id: 1368
   text: Oggi l'umanità utilizza il 50% della superficie abitabile della Terra, la
-    maggior parte della quale è utilizzata per l'agricoltura. Quanta parte di questa
-    superficie agricola è utilizzata per l'allevamento?
+    maggior parte per l'agricoltura. Quanta di questa superficie agricola è utilizzata
+    per l'allevamento?
   hint: ''
   type: QCM
   category: 8
@@ -55776,23 +55776,23 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-10'
 - id: 1369
   text: Qual è il rapporto tra le emissioni annuali di gas serra di un italiano e
-    quelle di un bangladese?
+    quelle di un abitante delle Filippine?
   hint: ''
   type: QCM
   category: 8
   tags: []
   difficulty: 3
   language: ITALIAN
-  answer_choice_a: 10 volte di più
-  answer_choice_b: 30 volte di più
-  answer_choice_c: 50 volte di più
-  answer_choice_d: 100 volte di più
-  answer_correct: d
+  answer_choice_a: sono simili
+  answer_choice_b: sono 2 volte più alte
+  answer_choice_c: sono 4 volte più alte
+  answer_choice_d: ''
+  answer_correct: c
   has_ordered_answers: true
-  answer_explanation: Le emissioni annuali di gas serra in Bangladesh sono 1.5 tonnellate
+  answer_explanation: Le emissioni annuali di gas serra in Bangladesh sono 1,5 tonnellate
     di CO2 eq per abitante (2022), rispetto a 6,5 per l'Italia. Inoltre, questo divario
     non si sta significativamente riducendo. Lo stesso vale su scala globale, con
     il 50% più povero responsabile di appena il 10% delle emissioni legate al consumo
@@ -55807,7 +55807,7 @@
   answer_source_scientific_url: https://www.oxfamfrance.org/app/uploads/2020/09/Research-Report-Carbon-Inequality-Era-Embargoed-21-Sept-2020.pdf
   answer_source_scientific_url_text: The carbon inequality era - Oxfam
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/5d45e771.jpg
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/7886840c.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 81
@@ -55816,7 +55816,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-10'
 - id: 1370
   text: Dal 1900 le emissioni di CO2 sono aumentate di 20 volte, mentre la popolazione
     umana è aumentata di 5 volte. Che ruolo ha avuto la crescita della popolazione
@@ -55847,7 +55847,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ed8b244f.jpg
   answer_image_url_text: Emissioni per persona e per continente dal 1900
   answer_extra_info: ''
   author: 81
@@ -55856,7 +55856,7 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-10'
 - id: 1371
   text: È possibile stimare una popolazione umana massima sostenibile sulla Terra?
   hint: ''
@@ -55913,13 +55913,15 @@
   answer_choice_d: Difficile da dire
   answer_correct: d
   has_ordered_answers: true
-  answer_explanation: "Anche molti altri fattori cambiano in questo mondo:\r\n- se\
-    \ la domanda di combustibili fossili diminuisce, anche il loro prezzo diminuisce\
-    \ e la domanda aumenta di nuovo\r\n- il mondo diventa meno denso e quindi meno\
-    \ efficiente\r\n- il calo costituirebbe una scusa in più per rimandare decisioni\
-    \ politiche difficili.\r\nAd ogni modo, il riscaldamento globale dipende dalle\
-    \ emissioni accumulate, quindi emettere (la stessa quantità) più lentamente non\
-    \ fa che rimandare il problema."
+  answer_explanation: "A un simile cambio demografico, cambierebbero anche molti altri\
+    \ fattori difficili da prevedere:\r\n- al calare della domanda di combustibili\
+    \ fossili, diminuirebbe anche il loro prezzo, cosa che potrebbe causare un nuovo\
+    \ aumento dei consumi;\r\n- territori meno densamente popolati sono anche meno\
+    \ efficienti (diminuiscono i servizi, aumentano i trasporti...);\r\n- il calo\
+    \ demografico costituirebbe una scusa in più per rimandare la necessaria transizione\
+    \ energetica...\r\nSenza cambiamenti nello stile di vita e nelle tecnologie, la\
+    \ riduzione demografica da sola non sarebbe sufficiente per raggiungere gli obiettivi\
+    \ climatici."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -55938,11 +55940,12 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-10'
 - id: 1373
-  text: Immaginiamo che, seguendo l'esempio passato della Cina, domani si avvii in
-    tutto il mondo una politica del figlio unico. A parità di altre condizioni (speranza
-    di vita, ecc.), di quanto potrebbe ridursi la popolazione mondiale entro il 2100?
+  text: "Immaginiamo che domani domani si avvii in tutto il mondo una politica del\
+    \ figlio unico simile a quella che aveva la Cina.\r\nA parità di altre condizioni\
+    \ (speranza di vita, ecc.), di quanto potrebbe ridursi la popolazione mondiale\
+    \ entro il 2100?"
   hint: ''
   type: QCM
   category: 8
@@ -55955,14 +55958,13 @@
   answer_choice_d: ''
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "Dipende da cosa si intende per \"\"politica cinese del figlio\
-    \ unico\"\". La politica del figlio unico ha portato a tassi di fertilità compresi\
-    \ tra 2,5 figli per donna (all'inizio) e 1,6 (recentemente).\r\nPer una politica\
-    \ rigida del figlio unico, cioè a un tasso di fertilità di 1 figlio per donna,\
-    \ la popolazione mondiale si ridurrebbe di 2/3 entro il 2100. Attenzione però:\
-    \ questo porterebbe a una piramide di età fortemente squilibrata (con una popolazione\
-    \ molto anziana, con più uomini che donne a causa degli aborti selettivi, e tutti\
-    \ i problemi di sanità, economia e sicurezza sociale che ne derivano)"
+  answer_explanation: "Dipende da cosa intendiamo per \"politica del figlio unico\"\
+    . In Cina, questa legge ha portato a tassi di fertilità compresi tra 2,5 figli\
+    \ per donna (all'inizio) e 1,6 (recentemente).\r\nSe applicata rigidamente, e\
+    \ cioè contando un tasso di fertilità di 1 figlio per donna, la popolazione mondiale\
+    \ si ridurrebbe di 2/3 entro il 2100. Attenzione però: questo porterebbe a una\
+    \ piramide di età fortemente squilibrata (con una popolazione molto anziana),\
+    \ e a tutti i problemi di sanità, economia e sicurezza sociale che ne derivano."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -55981,4 +55983,4 @@
   validator: 2
   validation_date: null
   created: '2026-02-16'
-  updated: '2026-02-16'
+  updated: '2026-03-10'
