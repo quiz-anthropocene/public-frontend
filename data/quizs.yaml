@@ -4157,7 +4157,7 @@
   authors:
   - 81
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: VALIDATED
   validator: 2
   validation_date: null
   publish: true
