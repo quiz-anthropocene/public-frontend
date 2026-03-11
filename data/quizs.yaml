@@ -3307,9 +3307,9 @@
   validation_date: '2024-05-28'
   publish: true
   publish_date: '2025-03-27'
-  spotlight: true
+  spotlight: false
   created: '2024-05-28'
-  updated: '2025-04-29'
+  updated: '2026-03-11'
 - id: 114
   name: Affresco del Clima JR - quiz famiglia
   slug: affresco-clima-junior
@@ -3386,9 +3386,9 @@
   validation_date: '2024-06-04'
   publish: true
   publish_date: '2024-06-04'
-  spotlight: true
+  spotlight: false
   created: '2024-06-04'
-  updated: '2024-06-20'
+  updated: '2026-03-11'
 - id: 116
   name: Burger Quiz de l'Anthropocène
   slug: burger-quiz-expleo-juin-2024
@@ -3466,9 +3466,9 @@
   validation_date: '2025-03-28'
   publish: true
   publish_date: '2025-03-27'
-  spotlight: true
+  spotlight: false
   created: '2024-07-04'
-  updated: '2025-03-28'
+  updated: '2026-03-11'
 - id: 118
   name: Focus alimentation Eléfàn
   slug: quiz-alimentation-elefan
@@ -4160,8 +4160,8 @@
   validation_status: DRAFT
   validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2026-02-16'
-  updated: '2026-03-10'
+  updated: '2026-03-11'
