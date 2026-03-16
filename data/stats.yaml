@@ -20,15 +20,15 @@ quiz_per_language_count:
   total: 5
 - language: GERMAN
   total: 1
-question_answer_count: 931745
-quiz_answer_count: 69475
-question_answer_count_last_30_days: 9691
-quiz_answer_count_last_30_days: 635
+question_answer_count: 933183
+quiz_answer_count: 69598
+question_answer_count_last_30_days: 11129
+quiz_answer_count_last_30_days: 758
 category_count: 8
 tag_count: 242
-question_feedback_count: 10797
-quiz_feedback_count: 1976
+question_feedback_count: 10810
+quiz_feedback_count: 1977
 contribution_count: 866
-question_feedback_count_last_30_days: 59
-quiz_feedback_count_last_30_days: 16
+question_feedback_count_last_30_days: 72
+quiz_feedback_count_last_30_days: 17
 contribution_count_last_30_days: 3
