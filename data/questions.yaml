@@ -212,7 +212,8 @@
   updated: '2025-07-04'
 - id: 6
   text: L'effet de serre additionnel créé par les activités humaines emprisonne de
-    l'énergie. Quelle proportion de celle-ci se retrouve absorbée par les océans ?
+    l'énergie. Quelle proportion de cette énergie se retrouve absorbée par les océans
+    ?
   hint: ''
   type: QCM
   category: 1
@@ -249,7 +250,7 @@
   validator: 5
   validation_date: '2020-03-15'
   created: '2020-03-08'
-  updated: '2025-05-16'
+  updated: '2026-03-19'
 - id: 7
   text: Des scientifiques ont suivi l'abondance des populations de 30,000 espèces
     de vertébrés sauvages sur 40 ans, entre 1970 et 2010. Qu'ont-ils observé ?
