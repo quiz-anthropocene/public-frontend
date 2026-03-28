@@ -2479,8 +2479,8 @@
   answer_source_accessible_url: https://www.novethic.fr/actualite/environnement/dechets/isr-rse/interdiction-des-sacs-plastiques-une-prise-de-conscience-mondiale-146197.html
   answer_source_accessible_url_text: 'Sacs plastiques : de plus en plus de pays les
     interdisent'
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.unep.org/fr/resources/rapports/turning-off-the-tap-fr
+  answer_source_scientific_url_text: PNUE – Rapport plastique 2023
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000058-106b.jpg
   answer_image_url_text: ''
@@ -2491,7 +2491,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2022-04-16'
+  updated: '2026-03-27'
 - id: 59
   text: Au cours des 50 dernières années (1970 - 2020), les populations de mammifères,
     d'oiseaux, de reptiles et d'amphibiens ont reculé d'environ...
@@ -4494,7 +4494,7 @@
   answer_source_accessible_url_text: Novethic - quand Margareth Thatcher et Ronald
     Reagan ont créé le GIEC
   answer_source_scientific_url: https://www.ipcc.ch/about/history/
-  answer_source_scientific_url_text: Histoire du GIEC (en anglais)
+  answer_source_scientific_url_text: Histoire du GIEC – ipcc.ch
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000105-f5a3.png
   answer_image_url_text: ''
@@ -4505,7 +4505,7 @@
   validator: 2
   validation_date: '2019-01-16'
   created: '2019-01-09'
-  updated: '2025-04-08'
+  updated: '2026-03-27'
 - id: 106
   text: Quelle est la première source d'énergie primaire dans le monde ?
   hint: ''
@@ -4753,19 +4753,19 @@
   answer_choice_d: Le déplacement d'un poids lourd de 38 tonnes roulant à 100 km/h
   answer_correct: c
   has_ordered_answers: false
-  answer_explanation: "Le litre d’essence dépasse les autres d’un facteur 2.\n- Énergie\
-    \ cinétique d’un camion de 38 tonnes qui roule à 100 km/h = 1/2*m*v², soit 15\
-    \ MJ. \n- Énergie potentielle d’un objet de 1 tonne qui tombe de 1500m = m*g*h,\
-    \ soit 15 MJ\n- Énergie d'1 kg de sucre : 17 MJ. \n- Énergie de combustion d’1\
-    \ l d'essence = 33 MJ. \nLa combustion d'1 litre d'essence permet de dégager en\
-    \ ordre de grandeur 100 heures d'un humain qui pédalerait sur une dynamo."
+  answer_explanation: "Le litre d’essence dépasse les autres d’un facteur 2.\r\n-\
+    \ Énergie cinétique d’un camion de 38 tonnes qui roule à 100 km/h = 1/2*m*v²,\
+    \ soit 15 MJ. \r\n- Énergie potentielle d’un objet de 1 tonne qui tombe de 1500m\
+    \ = m*g*h, soit 15 MJ\r\n- Énergie d'1 kg de sucre : 17 MJ. \r\n- Énergie de combustion\
+    \ d’1 l d'essence = 33 MJ. \r\nLa combustion d'1 litre d'essence permet de dégager\
+    \ en ordre de grandeur 100 heures d'un humain qui pédalerait sur une dynamo."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://fr.wikipedia.org/wiki/Ordres_de_grandeur_d%27%C3%A9nergie
-  answer_source_accessible_url_text: Ordres de grandeur d'énergie — Wikipédia
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New_liquides
+  answer_source_accessible_url_text: Impactco2 – comparateur d'empreinte carbone ADEME
+  answer_source_scientific_url: https://impactco2.fr/outils/comparateur
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000112-2c18.png
@@ -4777,7 +4777,7 @@
   validator: 2
   validation_date: '2019-01-25'
   created: '2019-01-18'
-  updated: '2022-04-16'
+  updated: '2026-03-27'
 - id: 113
   text: Quel est le volume d'un baril de pétrole ?
   hint: ''
@@ -7685,7 +7685,7 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: http://www.globalcarbonatlas.org/en/CO2-emissions
+  answer_source_scientific_url: https://globalcarbonbudget.org/carbonbudget/
   answer_source_scientific_url_text: CO2 Emissions | Global Carbon Atlas
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000186-7399.png
@@ -7697,7 +7697,7 @@
   validator: 2
   validation_date: '2020-05-03'
   created: '2020-04-26'
-  updated: '2024-06-04'
+  updated: '2026-03-27'
 - id: 187
   text: Combien y a-t-il d’arbres en Amazonie ?
   hint: ''
@@ -9545,8 +9545,9 @@
   answer_source_accessible_url: https://lejournal.cnrs.fr/articles/le-methane-en-augmentation-dans-latmosphere
   answer_source_accessible_url_text: Le méthane en augmentation dans l'atmosphère
     | CNRS Le journal
-  answer_source_scientific_url: http://www.globalcarbonatlas.org/en/CH4-emissions
-  answer_source_scientific_url_text: Global Carbon Atlas
+  answer_source_scientific_url: https://ourworldindata.org/grapher/methane-emissions-by-source
+  answer_source_scientific_url_text: Émissions de méthane par source – Our World in
+    Data
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000233-26e9.png
   answer_image_url_text: ''
@@ -9557,7 +9558,7 @@
   validator: 2
   validation_date: '2020-05-17'
   created: '2020-05-10'
-  updated: '2024-04-02'
+  updated: '2026-03-27'
 - id: 234
   text: Quel pays en Europe émet le plus de gaz à effet de serre par habitant ?
   hint: ''
@@ -10239,36 +10240,31 @@
   answer_choice_d: 50 kg d'équivalent CO2
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'La production, transformation et acheminement jusqu’au magasin
-    d’un kilo de saucisses de porc émet 4,4 kg d’équivalent CO2. C’est l’équivalent
-    d’environ 30 km avec une voiture moyenne.
-
-
-    Il faut noter que si produire de la viande émet plus de gaz à effet de serre que
-    des légumes et des céréales, la viande de porc est plutôt dans le bas du classement,
-    à peu près au même niveau que la volaille, et très loin derrière la viande de
-    boeuf.'
+  answer_explanation: "La production, transformation et acheminement jusqu’au magasin\
+    \ d’un kilo de saucisses de porc émet 4,4 kg d’équivalent CO2. C’est l’équivalent\
+    \ d’environ 30 km avec une voiture moyenne.\r\n\r\nIl faut noter que si produire\
+    \ de la viande émet plus de gaz à effet de serre que des légumes et des céréales,\
+    \ la viande de porc est plutôt dans le bas du classement, à peu près au même niveau\
+    \ que la volaille, et très loin derrière la viande de boeuf."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/fr/actualite/actualite/detail/id/23
-  answer_source_scientific_url_text: ADEME - Site Bilans GES
+  answer_source_scientific_url: https://impactco2.fr/outils/comparateur
+  answer_source_scientific_url_text: Impactco2 – comparateur d'empreinte carbone ADEME
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000251-fdf3.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'id: 135
-
-    https://twitter.com/laydgeur/status/1152311385189208065'
+  answer_extra_info: "id: 135\r\nhttps://twitter.com/laydgeur/status/1152311385189208065"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2025-05-16'
+  updated: '2026-03-27'
 - id: 252
   text: Quelle est la part de la France dans les émissions de gaz à effet de serre
     de l’Union Européenne ?
@@ -10453,10 +10449,10 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/impacts-du-changement-climatique-agriculture-et-foret
+  answer_source_scientific_url: https://www.ecologie.gouv.fr/politiques-publiques/impacts-du-changement-climatique-agriculture-foret
   answer_source_scientific_url_text: 'Impacts du changement climatique : Agriculture
     et Forêt'
-  answer_book_recommendation: ''
+  answer_book_recommendation: Impacts changement climatique sur l'agriculture – ecologie.gouv.fr
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000256-41b6.jpg
   answer_image_url_text: ''
   answer_extra_info: https://twitter.com/laydgeur/status/1155051966302699520
@@ -10466,7 +10462,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2026-03-27'
 - id: 257
   text: Si tous les habitants de la planète émettaient autant de CO2 que les Canadiens,
     à combien seraient les émissions mondiales ?
@@ -10531,9 +10527,9 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/impacts-du-changement-climatique-eau-et-biodiversite#e0
-  answer_source_scientific_url_text: 'Impacts du changement climatique : Eau et Biodiversité
-    | Ministère de la Transition écologique'
+  answer_source_scientific_url: https://www.ecologie.gouv.fr/politiques-publiques/impacts-du-changement-climatique-eau-biodiversite
+  answer_source_scientific_url_text: Impacts du changement climatique eau et biodiversité
+    – ecologie.gouv.fr
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000258-1323.jpg
   answer_image_url_text: Avancée de la chenille processionnaire du pin
@@ -10544,7 +10540,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2026-03-27'
 - id: 259
   text: Quelle quantité de charbon a été consommée en France en 2017 ?
   hint: ''
@@ -10653,24 +10649,22 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/fr/accueil/documentation-gene/index/page/New_liquides
-  answer_source_scientific_url_text: ADEME - Site Bilans GES
+  answer_source_accessible_url: https://impactco2.fr/outils/transport
+  answer_source_accessible_url_text: Impactco2 – empreinte carbone transport ADEME
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000261-ff78.jpg
   answer_image_url_text: ''
-  answer_extra_info: 'Modifiées les choix pour être raccord avec la réponse
-
-
-    https://twitter.com/laydgeur/status/1157382377083154433'
+  answer_extra_info: "Modifiées les choix pour être raccord avec la réponse\r\n\r\n\
+    https://twitter.com/laydgeur/status/1157382377083154433"
   author: 5
   visibility: PUBLIC
   validation_status: VALIDATED
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2026-03-27'
 - id: 262
   text: En quelle année les émissions de CO2 de la Chine ont-elles dépassé celles
     des États-Unis ?
@@ -10775,9 +10769,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/impacts-du-changement-climatique-sante-et-societe
-  answer_source_scientific_url_text: 'Impacts du changement climatique : Santé et
-    Société'
+  answer_source_scientific_url: https://www.ecologie.gouv.fr/politiques-publiques/impacts-du-changement-climatique-sante-societe
+  answer_source_scientific_url_text: Impacts CC santé et société – ecologie.gouv.fr
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000264-0f06.jpg
   answer_image_url_text: ''
@@ -10788,7 +10781,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2026-03-27'
 - id: 265
   text: En France, quelle est la part des produits pétroliers qui est utilisée pour
     des usages non énergétiques ?
@@ -10852,8 +10845,9 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
-  answer_source_scientific_url_text: CO2 Emissions | Global Carbon Atlas
+  answer_source_scientific_url: https://ourworldindata.org/grapher/co2-per-capita-by-source-with-flaring
+  answer_source_scientific_url_text: Émissions CO2 par habitant – Our World in Data
+    (GCP)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000266-746f.jpg
   answer_image_url_text: ''
@@ -10864,7 +10858,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2022-04-16'
+  updated: '2026-03-27'
 - id: 267
   text: Quel est le premier pays producteur d’électricité d’origine géothermique dans
     l’Union Européenne ?
@@ -12434,8 +12428,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/sites/default/files/ONERC_FichesIndicateur_Glacier.pdf
-  answer_source_scientific_url_text: Bilan de masse  du glacier d’Ossoue - ONERC
+  answer_source_scientific_url: https://www.ecologie.gouv.fr/politiques-publiques/impacts-du-changement-climatique-montagne-glaciers
+  answer_source_scientific_url_text: Impacts CC montagne et glaciers – ecologie.gouv.fr
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000306-8bb6.jpg
   answer_image_url_text: ''
@@ -12447,7 +12441,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2026-03-27'
 - id: 307
   text: En 2019, combien y avait-t-il d’éoliennes installées en France ?
   hint: ''
@@ -14503,22 +14497,21 @@
   answer_choice_d: 60 jours
   answer_correct: a
   has_ordered_answers: true
-  answer_explanation: '3 jours pour un Américain, et 10 jours pour un Français. Les
-    émissions de CO2 des 330 millions d''Américains correspondent à ce qu''émettraient...
-    40 milliards d’Ethiopiens.
-
-    Les Américains sont parmi les plus gros émetteurs de CO2 de la planète, avec deux
-    secteurs prédominants : la production électrique (mix électrique à 60% fossile,
-    gaz et charbon), et les transports (voitures, pick-ups, avions). On parle ici
-    des émissions territoriales.'
+  answer_explanation: "3 jours pour un Américain, et 10 jours pour un Français. Les\
+    \ émissions de CO2 des 330 millions d'Américains correspondent à ce qu'émettraient...\
+    \ 40 milliards d’Ethiopiens.\r\nLes Américains sont parmi les plus gros émetteurs\
+    \ de CO2 de la planète, avec deux secteurs prédominants : la production électrique\
+    \ (mix électrique à 60% fossile, gaz et charbon), et les transports (voitures,\
+    \ pick-ups, avions). On parle ici des émissions territoriales."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: http://www.globalcarbonatlas.org/fr/CO2-emissions
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://ourworldindata.org/grapher/co2-per-capita-by-source-with-flaring
+  answer_source_scientific_url_text: Émissions CO2 par habitant – Our World in Data
+    (GCP)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000358-28fd.jpg
   answer_image_url_text: ''
@@ -14529,7 +14522,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2025-05-16'
+  updated: '2026-03-27'
 - id: 359
   text: Quelle est la puissance installée de tous les moyens de production électrique
     en service dans le monde ? (France = 130 GW)
@@ -14884,8 +14877,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: http://globalcarbonatlas.org/en/CO2-emissions
-  answer_source_scientific_url_text: Global Carbon Atlas
+  answer_source_scientific_url: https://ourworldindata.org/grapher/annual-co2-emissions-per-country
+  answer_source_scientific_url_text: Émissions CO2 par pays – Our World in Data (GCP)
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000367-f802.png
   answer_image_url_text: ''
@@ -14896,7 +14889,7 @@
   validator: 1
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-03-26'
+  updated: '2026-03-27'
 - id: 368
   text: Quelle est la quantité moyenne de gaz à effet de serre émis pour chaque produit
     vendu chez Décathlon ? (tous produits confondus, sur tout le cycle de vie)
@@ -16392,9 +16385,8 @@
   answer_source_accessible_url: https://bfmbusiness.bfmtv.com/entreprise/carburant-quelles-sont-les-reserves-strategiques-francaises-de-petrole-1830383.html
   answer_source_accessible_url_text: 'Carburant: quelles sont les réserves stratégiques
     de pétrole en France?'
-  answer_source_scientific_url: https://www.ecologique-solidaire.gouv.fr/securite-dapprovisionnement-en-petrole
-  answer_source_scientific_url_text: Sécurité d'approvisionnement en pétrole - Ministère
-    de la transiton écologique
+  answer_source_scientific_url: https://www.ecologie.gouv.fr/politiques-publiques/securite-approvisionnement-petrole
+  answer_source_scientific_url_text: Sécurité approvisionnement pétrole – ecologie.gouv.fr
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000404-1446.jpg
   answer_image_url_text: ''
@@ -16405,7 +16397,7 @@
   validator: 2
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-04-02'
+  updated: '2026-03-27'
 - id: 405
   text: Quel est le potentiel de réchauffement global sur 100 ans du méthane (CH4)
     comparé à celui du CO2 ?
@@ -16439,8 +16431,8 @@
   answer_source_accessible_url: https://www.connaissancedesenergies.org/gaz-effet-de-serre-quest-ce-que-l-equivalent-co2-170807
   answer_source_accessible_url_text: 'Gaz à effet de serre : qu''est-ce que l''« équivalent
     CO2 » ?'
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?prg.htm
-  answer_source_scientific_url_text: Bilans GES
+  answer_source_scientific_url: https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/
+  answer_source_scientific_url_text: AR6 WGI Ch.7 – forçage radiatif et PRG – GIEC
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000405-1b7d.jpg
   answer_image_url_text: ''
@@ -16451,7 +16443,7 @@
   validator: 5
   validation_date: '2020-05-27'
   created: '2020-05-20'
-  updated: '2024-03-26'
+  updated: '2026-03-27'
 - id: 406
   text: Vrai ou Faux ? Les 5 années les plus chaudes dans le monde sont toutes après
     2015.
@@ -17299,9 +17291,8 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.ecologique-solidaire.gouv.fr/comprendre-giec
-  answer_source_accessible_url_text: Comprendre le GIEC | Ministère de la Transition
-    écologique
+  answer_source_accessible_url: https://www.ipcc.ch/languages-2/francais/
+  answer_source_accessible_url_text: Le GIEC en français – ipcc.ch
   answer_source_scientific_url: https://www.ipcc.ch/languages-2/francais/
   answer_source_scientific_url_text: Rapport du GIEC
   answer_book_recommendation: ''
@@ -17314,7 +17305,7 @@
   validator: 2
   validation_date: '2020-07-01'
   created: '2020-06-24'
-  updated: '2024-03-19'
+  updated: '2026-03-27'
 - id: 427
   text: Combien sont payés par l'ONU les chercheurs qui participent aux rapports GIEC
     ?
@@ -26087,8 +26078,8 @@
   answer_source_accessible_url: https://avenirclimatique.org/carbonometre/
   answer_source_accessible_url_text: 'Carbonomètre : le jeu pédagogique qui en dit
     long sur le climat !'
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?repas.htm
-  answer_source_scientific_url_text: Bilans GES - ADEME
+  answer_source_scientific_url: https://impactco2.fr/outils/alimentation
+  answer_source_scientific_url_text: Impactco2 – empreinte carbone repas ADEME
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000645-b850.png
   answer_image_url_text: ''
@@ -26099,7 +26090,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2024-03-12'
+  updated: '2026-03-27'
 - id: 646
   text: Actuellement, en combien de temps  la concentration moyenne de CO2 dans l’atmosphère
     augmente-t-elle de 1 ppm (10,000 ppm =1%) ?
@@ -27108,8 +27099,8 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.bilans-ges.ademe.fr/fr/accueil/authentification
-  answer_source_scientific_url_text: Bilans GES - ADEME
+  answer_source_scientific_url: https://impactco2.fr/
+  answer_source_scientific_url_text: Impactco2.fr – ADEME
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000669-1cef.png
   answer_image_url_text: ''
@@ -27120,7 +27111,7 @@
   validator: 2
   validation_date: '2020-12-05'
   created: '2020-11-28'
-  updated: '2024-03-12'
+  updated: '2026-03-27'
 - id: 670
   text: Combien de temps de pédalage faudrait-il à un cycliste du Tour de France pour
     chauffer l'eau d'une douche de 10min ?
@@ -31422,9 +31413,8 @@
   answer_video_url: https://www.youtube.com/watch?v=QvXntfdmQYQ
   answer_video_url_text: 'Oxfam : Les 1% les plus riches émettent 15% du CO2 - TV5MONDE
     INFO'
-  answer_source_accessible_url: https://www.novethic.fr/actualite/infographies/isr-rse/infographie-le-1-le-plus-riche-de-la-planete-emet-deux-fois-plus-de-co2-que-la-moitie-la-plus-pauvre-de-l-humanite-149017.html
-  answer_source_accessible_url_text: Les 1 % les plus riches de la planète émettent
-    deux fois plus de CO2 que la moitié la plus pauvre de l’humanité
+  answer_source_accessible_url: https://www.oxfamfrance.org/rapports/rapport-inegalites-carbone-2023/
+  answer_source_accessible_url_text: Oxfam – Rapport inégalités carbone 2023
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
@@ -31437,7 +31427,7 @@
   validator: 2
   validation_date: '2021-01-24'
   created: '2021-01-17'
-  updated: '2024-03-28'
+  updated: '2026-03-27'
 - id: 767
   text: Vrai ou faux ? La fonte de la banquise (la glace qui flotte) fait monter le
     niveau de l'océan.
