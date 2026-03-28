@@ -17,6 +17,7 @@
 <script>
 import { metaTagsGenerator } from '../utils';
 import QuestionAnswerCards from '../components/QuestionAnswerCards.vue';
+import { useQuestionsStore } from '../stores/questions';
 
 export default {
   name: 'QuestionDetailPage',
@@ -41,16 +42,20 @@ export default {
 
   computed: {
     question() {
-      return this.$store.getters.getQuestionById(parseInt(this.$route.params.questionId, 10));
+      const questionsStore = useQuestionsStore();
+      return questionsStore.getQuestionById(parseInt(this.$route.params.questionId, 10));
     },
     questionIndex() {
-      return this.$store.getters.getCurrentQuestionIndex(parseInt(this.$route.params.questionId, 10));
+      const questionsStore = useQuestionsStore();
+      return questionsStore.getCurrentQuestionIndex(parseInt(this.$route.params.questionId, 10));
     },
     questionFilters() {
-      return this.$store.state.questionFilters;
+      const questionsStore = useQuestionsStore();
+      return questionsStore.questionFilters;
     },
     questionsDisplayedCount() {
-      return this.$store.state.questionsDisplayed.length;
+      const questionsStore = useQuestionsStore();
+      return questionsStore.questionsDisplayed.length;
     },
   },
 
@@ -60,15 +65,17 @@ export default {
       // eslint-disable-next-line
       handler(newQuestion, oldQuestion) {
         if (newQuestion) {
+          const questionsStore = useQuestionsStore();
           this.emphasisNextButton = false;
-          this.questionSameFilterNextId = this.$store.getters.getNextQuestionByFilter(newQuestion.id).id;
+          this.questionSameFilterNextId = questionsStore.getNextQuestionByFilter(newQuestion.id).id;
         }
       },
     },
     // eslint-disable-next-line
     // questionFilters (newQuestionFilters, oldQuestionFilters) {
     //   if (newQuestionFilters) {
-    //     const nextQuestion = this.$store.getters.getNextQuestionByFilter();
+    //     const questionsStore = useQuestionsStore();
+    //     const nextQuestion = questionsStore.getNextQuestionByFilter();
     //     if (nextQuestion) {
     //       this.$router.push({ name: 'question-detail', params: { questionId: nextQuestion.id } });
     //     } else {

@@ -1,6 +1,4 @@
-import Vue from 'vue';
-import VueRouter from 'vue-router';
-import VueMeta from 'vue-meta';
+import { createRouter, createWebHistory } from 'vue-router';
 
 import HomePage from './views/HomePage.vue';
 import QuestionPage from './views/QuestionPage.vue';
@@ -18,9 +16,6 @@ import ContributePage from './views/ContributePage.vue';
 import AtelierPage from './views/AtelierPage.vue';
 import AtelierBiennale2021Page from './views/AtelierBiennale2021Page.vue';
 import NotFoundPage from './views/NotFoundPage.vue';
-
-Vue.use(VueRouter);
-Vue.use(VueMeta);
 
 const routes = [
   {
@@ -102,20 +97,20 @@ const routes = [
     component: AtelierBiennale2021Page,
   },
   {
-    // will match everything
-    path: '*',
+    // will match everything (Vue 3 catch-all syntax)
+    path: '/:pathMatch(.*)*',
     name: '404',
     component: NotFoundPage,
   },
 ];
 
-const router = new VueRouter({
-  mode: 'history',
+const router = createRouter({
+  history: createWebHistory(),
   routes,
   // eslint-disable-next-line
-  scrollBehavior (to, from, savedPosition) {
+  scrollBehavior(to, from, savedPosition) {
     if (to.hash) {
-      return { selector: to.hash };
+      return { el: to.hash };
     }
     return { x: 0, y: 0 };
   },

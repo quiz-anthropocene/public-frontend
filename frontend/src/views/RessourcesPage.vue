@@ -121,6 +121,8 @@
 <script>
 import { metaTagsGenerator } from '../utils';
 import FilterLabel from '../components/FilterLabel.vue';
+import { mapStores, mapState } from 'pinia';
+import { useResourcesStore } from '../stores/resources';
 
 export default {
   name: 'RessourcesPage',
@@ -137,8 +139,8 @@ export default {
   },
 
   mounted() {
-    this.$store.dispatch('GET_RESSOURCES_SOUTIENS_LIST_FROM_LOCAL_YAML');
-    this.$store.dispatch('GET_RESSOURCES_AUTRES_APPS_LIST_FROM_LOCAL_YAML');
+    this.resourcesStore.getSoutiensFromYaml();
+    this.resourcesStore.getAutresAppsFromYaml();
   },
 
   data() {
@@ -148,12 +150,8 @@ export default {
   },
 
   computed: {
-    soutiens() {
-      return this.$store.state.ressources.soutiens;
-    },
-    autresApps() {
-      return this.$store.state.ressources.autresApps;
-    },
+    ...mapStores(useResourcesStore),
+    ...mapState(useResourcesStore, ['soutiens', 'autresApps']),
   },
 };
 </script>

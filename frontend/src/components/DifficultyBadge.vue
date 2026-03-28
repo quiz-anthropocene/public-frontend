@@ -3,6 +3,8 @@
 </template>
 
 <script>
+import { useResourcesStore } from '../stores/resources';
+
 export default {
   name: 'DifficultyBadge',
   props: {
@@ -15,7 +17,8 @@ export default {
       return `${this.$t('messages.difficulty')} ${this.difficulty}/4`;
     },
     currentDifficultyLevelEmoji() {
-      return this.$store.getters.getDifficultyLevelEmojiByValue(parseInt(this.difficulty, 10));
+      const resourcesStore = useResourcesStore();
+      return resourcesStore.getDifficultyLevelEmojiByValue(parseInt(this.difficulty, 10));
     },
   },
 };

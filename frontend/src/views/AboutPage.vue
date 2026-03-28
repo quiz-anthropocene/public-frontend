@@ -55,6 +55,7 @@
 
 <script>
 import { metaTagsGenerator } from '../utils';
+import { useMainStore } from '../stores/main';
 
 export default {
   name: 'AboutPage',
@@ -71,7 +72,8 @@ export default {
 
   computed: {
     configuration() {
-      return this.$store.state.configuration;
+      const mainStore = useMainStore();
+      return mainStore.configuration;
     },
     helloasso_url_tag() {
       return `<a href="${this.configuration.helloasso_url}" target="_blank">HelloAsso</a>`;

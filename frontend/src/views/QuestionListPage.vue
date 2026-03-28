@@ -18,6 +18,7 @@
 import { metaTagsGenerator } from '../utils';
 import QuestionFilter from '../components/QuestionFilter.vue';
 import QuestionPreviewCard from '../components/QuestionPreviewCard.vue';
+import { useQuestionsStore } from '../stores/questions';
 
 export default {
   name: 'QuestionListPage',
@@ -39,7 +40,8 @@ export default {
 
   computed: {
     questionsDisplayed() {
-      return this.$store.state.questionsDisplayed;
+      const questionsStore = useQuestionsStore();
+      return questionsStore.questionsDisplayed;
     },
   },
 };

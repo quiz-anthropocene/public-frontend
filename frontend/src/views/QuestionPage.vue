@@ -5,6 +5,7 @@
 </template>
 
 <script>
+import { useQuestionsStore } from '../stores/questions';
 
 export default {
   name: 'QuestionPage',
@@ -18,7 +19,8 @@ export default {
 
   computed: {
     questions() {
-      return this.$store.state.questionsValidated;
+      const questionsStore = useQuestionsStore();
+      return questionsStore.questionsValidated;
     },
   },
 
@@ -26,13 +28,15 @@ export default {
   //   // eslint-disable-next-line
   //   questions (newQuestions, oldQuestions) {
   //     console.log('QuestionPage watch questions', oldQuestions, newQuestions)
-  //     this.$store.dispatch('UPDATE_QUESTION_FILTERS');
+  //     const questionsStore = useQuestionsStore();
+  //     questionsStore.updateFilters();
   //   },
   // },
 
   mounted() {
     if (this.questions) {
-      this.$store.dispatch('UPDATE_QUESTION_FILTERS');
+      const questionsStore = useQuestionsStore();
+      questionsStore.updateFilters();
     }
   },
 };

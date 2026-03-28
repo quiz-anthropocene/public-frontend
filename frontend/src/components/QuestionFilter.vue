@@ -103,6 +103,10 @@
 <script>
 import constants from '../constants';
 import FilterLabel from './FilterLabel.vue';
+import { mapStores, mapState } from 'pinia';
+import { useResourcesStore } from '../stores/resources';
+import { useQuestionsStore } from '../stores/questions';
+import { useQuizsStore } from '../stores/quizs';
 
 export default {
   name: 'QuestionFilter',
@@ -129,11 +133,12 @@ export default {
   },
 
   computed: {
-    categories() {
-      return this.$store.state.categories;
-    },
+    ...mapStores(useResourcesStore, useQuestionsStore, useQuizsStore),
+    ...mapState(useResourcesStore, ['categories', 'difficultyLevels']),
+    ...mapState(useQuestionsStore, ['questionFilters']),
+    
     tags() {
-      return this.$store.state.tags
+      return this.resourcesStore.tags
         .slice(0) // .slice makes a copy of the array, instead of mutating the orginal
         .filter((t) => {
           return (this.objectType === 'question') ? t.question_count : t.quiz_count;
@@ -141,7 +146,7 @@ export default {
         .sort((a, b) => a.name.localeCompare(b.name));
     },
     authors() {
-      return this.$store.state.authors
+      return this.resourcesStore.authors
         .slice(0) // .slice makes a copy of the array, instead of mutating the orginal
         .filter((a) => {
           return (this.objectType === 'question') ? a.question_count : a.quiz_count;
@@ -150,17 +155,11 @@ export default {
           return (this.objectType === 'question') ? (b.question_count - a.question_count) : (b.quiz_count - a.quiz_count);
         });
     },
-    difficultyLevels() {
-      return this.$store.state.difficultyLevels;
-    },
-    questionFilters() {
-      return this.$store.state.questionFilters;
-    },
     questionsDisplayedCount() {
-      return this.$store.state.questionsDisplayed.length;
+      return this.questionsStore.questionsDisplayed.length;
     },
     quizs() {
-      return this.$store.state.quizs;
+      return this.quizsStore.quizs;
     },
   },
 
@@ -212,9 +211,9 @@ export default {
       }
       this.showFilterBox = false;
       if (this.objectType === 'question') {
-        this.$store.dispatch('UPDATE_QUESTION_FILTERS', this.tempQuestionFilters);
+        this.questionsStore.updateFilters(this.tempQuestionFilters);
       } else {
-        this.$store.dispatch('UPDATE_QUIZ_FILTERS', this.tempQuestionFilters);
+        this.quizsStore.updateFilters(this.tempQuestionFilters);
       }
     },
     removeFilter(data) {

@@ -21,6 +21,11 @@
 import AppHeader from './components/AppHeader.vue';
 import AppFooter from './components/AppFooter.vue';
 import i18n from './i18n';
+import { mapStores, mapState } from 'pinia';
+import { useMainStore } from './stores/main';
+import { useResourcesStore } from './stores/resources';
+import { useQuestionsStore } from './stores/questions';
+import { useQuizsStore } from './stores/quizs';
 
 const siteTitle = i18n.t('header.title');
 const siteSubtitle = i18n.t('header.subtitle');
@@ -106,12 +111,8 @@ export default {
   },
 
   computed: {
-    loading() {
-      return this.$store.state.loading;
-    },
-    error() {
-      return this.$store.state.error;
-    },
+    ...mapStores(useMainStore, useResourcesStore, useQuestionsStore, useQuizsStore),
+    ...mapState(useMainStore, ['loading', 'error']),
   },
 
   watch: {
@@ -135,32 +136,33 @@ export default {
 
   methods: {
     initData() {
-      this.$store.dispatch('SET_LOCALE');
-      this.$store.dispatch('GET_CONFIGURATION_DICT_FROM_LOCAL_YAML');
-      this.$store.dispatch('GET_DIFFICULTY_LEVEL_LIST_FROM_LOCAL_YAML');
-      this.$store.dispatch('GET_LANGUAGE_LIST_FROM_LOCAL_YAML');
-      this.$store.dispatch('GET_AUTHOR_LIST_FROM_LOCAL_YAML');
+      this.mainStore.setLocale();
+      this.mainStore.getConfigurationFromYaml();
+      this.resourcesStore.getDifficultyLevelListFromYaml();
+      this.resourcesStore.getLanguageListFromYaml();
+      this.resourcesStore.getAuthorsFromYaml();
       Promise.all([
-        // this.$store.dispatch('GET_CATEGORY_LIST_FROM_LOCAL_YAML'),
-        this.$store.dispatch('GET_CATEGORY_LIST_FROM_API'),
-        // this.$store.dispatch('GET_TAG_LIST_FROM_LOCAL_YAML'),
-        this.$store.dispatch('GET_TAG_LIST_FROM_API'),
+        // this.resourcesStore.getCategoriesFromYaml(),
+        this.resourcesStore.getCategoriesFromApi(),
+        // this.resourcesStore.getTagsFromYaml(),
+        this.resourcesStore.getTagsFromApi(),
       ]).then(() => {
-        this.$store.dispatch('GET_QUESTION_LIST_FROM_LOCAL_YAML');
+        this.questionsStore.getQuestionsFromYaml();
       }).then(() => {
-        this.$store.dispatch('GET_QUIZ_LIST_FROM_LOCAL_YAML');
+        this.quizsStore.getQuizsFromYaml();
       });
-      this.$store.dispatch('UPDATE_QUIZ_FILTERS', {});
+      this.quizsStore.updateFilters({});
 
       // needed for both glossary page & abbr filter
-      // this.$store.dispatch('GET_RESSOURCES_GLOSSAIRE_LIST_FROM_LOCAL_YAML');
-      this.$store.dispatch('GET_RESSOURCES_GLOSSAIRE_LIST_FROM_API');
+      // this.resourcesStore.getGlossaryFromYaml();
+      this.resourcesStore.getGlossaryFromApi();
 
       // stats
-      this.$store.dispatch('GET_STATS_DICT_FROM_LOCAL_YAML');
+      this.mainStore.getStatsFromYaml();
     },
     dismissAlert() {
-      this.$store.dispatch('RESET_LOADING_STATUS');
+      this.mainStore.stopLoading();
+      this.mainStore.error = null;
     },
   },
 };
