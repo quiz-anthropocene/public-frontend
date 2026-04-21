@@ -4165,3 +4165,40 @@
   spotlight: true
   created: '2026-02-16'
   updated: '2026-03-11'
+- id: 135
+  name: Bifurquer ou s'enfoncer ?
+  slug: bifurquer-ou-senfoncer
+  introduction: "<p>De plus en plus d'entre nous roulent électrique, trient leurs\
+    \ déchets, réduisent la viande...Et pourtant, nos impacts et nos émissions ne\
+    \ baissent pas au rythme souhaité. Pourquoi ?<br />\r\nEh bien, nos actions individuelles\
+    \ se heurtent à des systèmes qui tirent dans l'autre sens. Des logiques économiques,\
+    \ des infrastructures, des habitudes collectives qui reconstituent le problème\
+    \ dès qu'on croit l'avoir résolu.</p>\r\n\r\n<p>C'est la question qu'explore un\
+    \ rapport publié par l'agence BL Evolution en 2026. Pas pour nous culpabiliser,\
+    \ mais pour comprendre où sont nos leviers. Partons ensemble à sa découverte.</p>"
+  conclusion: <p>Certaines réponses vous ont surpris ? Bonne nouvelle ! Ces paradoxes
+    sont au cœur du rapport. Au-delà de nos efforts individuels, il  esquisse des
+    bifurcations qui permettraient d'en sortir. Pas de solutions miracles, mais une
+    lecture lucide de ce qui bloque — et de ce qui pourrait changer. L'étude <em><a
+    href="https://www.bl-evolution.com/publication/etude-bifurquer-ou-senfoncer-comprendre-et-lever-les-freins-systemiques-pour-une-transition-ecologique-a-la-hauteur-des-enjeux/">Bifurquer
+    ou s’enfoncer ? Comprendre et lever les freins systémiques, pour une transition
+    écologique à la hauteur des enjeux</a></em> est téléchargeable gratuitement. Elle
+    mérite une heure de votre temps.</p>
+  questions: []
+  question_count: 0
+  tags: []
+  difficulty_average: 0.0
+  language: FRENCH
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/ecd1fd6c.png
+  has_audio: false
+  authors:
+  - 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  publish: false
+  publish_date: null
+  spotlight: false
+  created: '2026-04-20'
+  updated: '2026-04-20'
