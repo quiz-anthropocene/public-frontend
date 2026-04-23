@@ -8,6 +8,7 @@
 
     <p><i>Table des matières</i></p>
     <ol>
+      <li><a href="#ressources-autres-formats">Des formats alternatifs</a></li>
       <li><a href="#ressources-soutiens">Les associations et les personnes qui participent de près ou de loin au projet</a></li>
       <li><a href="#ressources-documentation">Des ressources qui nous ont été utiles pour trouver de nouvelles questions</a></li>
       <li><a href="#ressources-autres-apps">Des projets et jeux similaires</a></li>
