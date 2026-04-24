@@ -55979,9 +55979,9 @@
     dynamiques. Lesquelles ?
   hint: ''
   type: QCM-RM
-  category: null
+  category: 6
   tags: []
-  difficulty: 1
+  difficulty: 3
   language: FRENCH
   answer_choice_a: Le désir des citadins d'accéder à un pavillon individuel avec jardin,
     fuyant des conditions de vie urbaines dégradées
@@ -55991,7 +55991,7 @@
   answer_choice_d: La politique nationale de développement des zones d'activité économique
     en périphérie
   answer_correct: ab
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: "Côté offre : avec les règles du marché et les faibles revenus\
     \ de l'agriculture conventionnelle, de nombreux exploitants ne parviennent pas\
     \ à vivre décemment de leur travail ni à se constituer une retraite suffisante.\
@@ -56003,7 +56003,7 @@
     \ ville (bruit, pollution, manque d'espace), des ménages choisissent de s'installer\
     \ en périphérie. Ce choix alimente l'étalement urbain, augmente le trafic automobile,\
     \ dégrade à son tour la qualité de vie dans les centres — poussant d'autres habitants\
-    \ à partir, dans un cercle infernal auto-entretenu.\r\nCes deux dynamiques se\
+    \ à partir, dans un cercle infernal auto-entretenu. \r\nCes deux dynamiques se\
     \ combinent : la disponibilité de terres agricoles bon marché (côté offre) rencontre\
     \ une demande soutenue de logements individuels (côté demande), le tout soutenu\
     \ par des collectivités qui financent les infrastructures routières réclamées\
@@ -56018,8 +56018,10 @@
   answer_source_scientific_url: https://www.artificialisation.developpement-durable.gouv.fr/bibliographie/lanalyse-des-determinants-la-consommation-despace-2009-2023-cerema
   answer_source_scientific_url_text: Analyse des déterminants de la consommation d'espace
     2009-2023 – CEREMA
-  answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/47b94abf.png
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page 22 à 26
+  answer_image_url: ''
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -56028,16 +56030,16 @@
   validator: null
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-03'
+  updated: '2026-04-23'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
     sur la qualité des rénovations thermiques ?
   hint: ''
   type: QCM
-  category: null
+  category: 6
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
   answer_choice_a: Les travaux deviennent plus rapides et moins chers, sans impact
     sur la qualité énergétique
@@ -56046,10 +56048,9 @@
     de chaque bâtiment
   answer_choice_c: Les produits industriels offrent de meilleures performances thermiques
     que les matériaux traditionnels
-  answer_choice_d: La standardisation facilite les contrôles qualité et réduit les
-    malfaçons
+  answer_choice_d: La standardisation réduit les malfaçons
   answer_correct: b
-  has_ordered_answers: true
+  has_ordered_answers: false
   answer_explanation: 'En cherchant à minimiser le temps passé sur le chantier et
     à standardiser les tâches, les entreprises du bâtiment recourent à des produits
     industriels prêts à poser, réduisant le recours au travail qualifié. En conséquence,
@@ -56068,7 +56069,9 @@
   answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/les-renovations-energetiques-aidees-par-maprimerenov-entre-2020-et-2022-0
   answer_source_scientific_url_text: Les rénovations thermiques aidées par MaPrimeRénov'
     entre 2020 et 2022 – ONRE
-  answer_book_recommendation: ''
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
   answer_image_url: ''
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -56078,4 +56081,524 @@
   validator: null
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-02'
+  updated: '2026-04-23'
+- id: 1519
+  text: Pour rénover thermiquement un million de logements au niveau BBC par an, combien
+    d'ouvriers qualifiés supplémentaires seront nécessaires ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: 50 000 ouvriers qualifiés
+  answer_choice_b: 150 000 ouvriers qualifiés
+  answer_choice_c: 500 000 ouvriers qualifiés
+  answer_choice_d: 2 millions d'ouvriers qualifiés
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: '1 million, c''était l''objectif proposé par le rapport précédent
+    de BL Evolution de 2018. Or les métiers du bâtiment sont parmi les plus en tension
+    en France, du fait de la déconsidération des métiers manuels et de conditions
+    de rémunération peu attractives. Ce n''est pas une simple question de formation
+    : c''est le cycle infernal du coût du travail décent qui est à l''œuvre. Tant
+    que le coût du travail qualifié est jugé dissuasif, on cherche à le minimiser,
+    ce qui rend le travail qualifié encore plus rare et encore plus cher.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.statistiques.developpement-durable.gouv.fr/les-renovations-energetiques-aidees-par-maprimerenov-entre-2020-et-2022-0
+  answer_source_accessible_url_text: Les rénovations thermiques aidées par MaPrimeRénov'
+    2020-2022 – ONRE
+  answer_source_scientific_url: https://dares.travail-emploi.gouv.fr/publication/les-metiers-en-2030
+  answer_source_scientific_url_text: Les métiers en 2030 – DARES / Ministère du Travail
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1520
+  text: Entre 2015 et 2022, le réseau de voiries destinées aux véhicules motorisés
+    et le réseau de pistes cyclables en France ont évolué de façon similaire. Quelle
+    conclusion principale peut-on en tirer ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: Le vélo est en train de remplacer progressivement la voiture dans
+    les politiques d'aménagement
+  answer_choice_b: Le réseau cyclable se développe en parallèle du réseau motorisé,
+    sans que les investissements routiers soient redirigés vers les modes actifs
+  answer_choice_c: Le développement des pistes cyclables a permis de réduire significativement
+    le trafic automobile en ville
+  answer_choice_d: Les collectivités manquent de budget pour développer les infrastructures,
+    tous modes confondus
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: "Entre 2015 et 2020, 16 000 km de voiries ont été créées pour\
+    \ les véhicules motorisés ; entre 2017 et 2022, 17 000 km de pistes cyclables\
+    \ ont été aménagées. Ces chiffres comparables révèlent que les deux réseaux se\
+    \ développent en parallèle, sans report significatif des investissements vers\
+    \ les modes actifs. C'est le cycle infernal de \"l'infrastructure qui appelle\
+    \ l'infrastructure\" : investir dans un type d'infrastructure attire des utilisateurs,\
+    \ crée une saturation, et appelle de nouveaux investissements dans cette même\
+    \ infrastructure. Pour inverser la tendance, il faudrait non pas ajouter des pistes\
+    \ cyclables, mais transformer des voies motorisées en voies cyclables — un choix\
+    \ politique difficile.\r\nYousra pour intégrer la 19"
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.notre-environnement.gouv.fr/themes/amenagement/transport-et-mobilite-ressources/article/les-francais-et-le-velo-en-2022
+  answer_source_accessible_url_text: Les Français et le vélo en 2022 – Ministère de
+    la Transition écologique
+  answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-transports-2022/33-infrastructures-de-transport
+  answer_source_scientific_url_text: Chiffres clés des transports 2022, infrastructures
+    – SDES
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1521
+  text: Comment a évolué le transport de marchandises par route en France entre 1960
+    et 2018 ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: Il a grossi d'un facteur 5
+  answer_choice_b: D'un facteur 10
+  answer_choice_c: D'un facteur 25
+  answer_choice_d: D'un facteur 50
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'Il s''élevait en 2018 à 317 milliards de tonnes-km en 2018.
+    Cette croissance considérable est à la fois la cause et la conséquence d''un modèle
+    économique bâti sur la mobilité des marchandises : des chaînes logistiques mondiales,
+    des sites de production dispersés, une grande distribution organisée autour du
+    flux tendu. C''est le cycle infernal du "coût du changement" : les décisions passées
+    (investissements autoroutiers, avantages fiscaux du transport routier) ont façonné
+    une économie qui ne peut plus fonctionner sans elles.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-transports-2022/33-infrastructures-de-transport
+  answer_source_scientific_url_text: Chiffres clés des transports 2022 – SDES
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1522
+  text: L'agriculture intensive en monoculture repose sur un ensemble d'interventions
+    pour compenser l'absence de l'écosystème naturel. Avec quelles conséquences ?
+  hint: ''
+  type: QCM-RM
+  category: 4
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: L'absence de diversité accroît la vulnérabilité aux variations
+    climatiques et aux maladies
+  answer_choice_b: La monoculture améliore la rétention d'eau dans les sols, réduisant
+    le besoin en irrigation
+  answer_choice_c: La standardisation des cultures facilite l'adoption de l'agriculture
+    biologique
+  answer_choice_d: La plante est coupée de ses auxiliaires biologiques (faune du sol,
+    insectes), ce qui nécessite toujours plus d'intrants chimiques pour compenser
+  answer_correct: ad
+  has_ordered_answers: false
+  answer_explanation: En agriculture intensive, la logique de monoculture consiste
+    à mettre la plante "sous contrôle" au moyen d'intrants (fertilisants, herbicides,
+    pesticides) et à éliminer tout obstacle à la mécanisation (haies, arbres). Ce
+    faisant, on coupe la plante de ses auxiliaires biologiques naturels — insectes,
+    faune du sol — qui l'aident à se développer et à résister aux agressions. La plante
+    devient donc dépendante des intrants pour survivre. Parallèlement, l'absence de
+    diversité biologique sur de grands bassins augmente considérablement la vulnérabilité
+    du système aux aléas climatiques (sécheresse, canicule) et aux bioagresseurs.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.inrae.fr/actualites/pratiques-agricoles-rendements-cultures-cerealieres-resultats-modules-limpact-biodiversite
+  answer_source_accessible_url_text: Pratiques agricoles et rendements des céréales
+    – INRAE
+  answer_source_scientific_url: https://hal.science/hal-01939107
+  answer_source_scientific_url_text: Intérêt des infrastructures agroécologiques pour
+    la biodiversité – INRAE (hal.science)
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/64d724e7.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1523
+  text: Lors d'années avec des aléas climatiques importants (sécheresse, canicule,
+    inondations), comment se comparent les rendements de l'agriculture intensive et
+    de l'agriculture favorisant la biodiversité ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: L'agriculture intensive conserve son avantage de rendement même
+    lors des années difficiles
+  answer_choice_b: Les deux systèmes sont également affectés par les aléas climatiques
+  answer_choice_c: L'agriculture favorisant la biodiversité maintient mieux ses rendements
+    lors des aléas climatiques
+  answer_choice_d: L'agriculture intensive est plus résiliente grâce aux intrants
+    qui compensent les déficits hydriques
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: Une étude de l'INRAE montre que si les pratiques d'agriculture
+    intensive peuvent augmenter les rendements agricoles sur une année normale, ceux-ci
+    chutent plus fortement que ceux des systèmes favorisant la biodiversité lors des
+    années avec des aléas climatiques importants. Or ces aléas vont se multiplier
+    et s'intensifier en France avec le changement climatique. Les infrastructures
+    agroécologiques (haies, couverts végétaux, agroforesterie) permettent d'utiliser
+    moins d'intrants tout en préservant des rendements proches de ceux de l'agriculture
+    conventionnelle — et surtout plus stables dans le temps. La "performance" à court
+    terme de la monoculture se paie d'une fragilité croissante.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.inrae.fr/actualites/pratiques-agricoles-rendements-cultures-cerealieres-resultats-modules-limpact-biodiversite
+  answer_source_accessible_url_text: Pratiques agricoles et rendements des céréales
+    face aux aléas climatiques – INRAE
+  answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0167880921005144
+  answer_source_scientific_url_text: Agriculture, biodiversité et rendements face
+    aux aléas – Science of the Total Environment (INRAE)
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1524
+  text: Considérons les 1 % des ménages les plus riches en France. Quelle part est
+    prise par l'avion dans leur empreinte carbone ?
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: 10%
+  answer_choice_b: 20%
+  answer_choice_c: 40%
+  answer_choice_d: 60%
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: 'Cette empreinte est en moyenne de 22,6 t CO2eq par an, 40%
+    par l''avion. Cela illustre que l''avion n''est pas un problème de masse : seulement
+    29 % des Français prennent l''avion au moins une fois par an pour le loisir ou
+    la famille, et cette catégorie respecte généralement la norme d''un vol tous les
+    deux ans. Ce sont les voyageurs réguliers — essentiellement professionnels — qui
+    concentrent la grande majorité des vols commerciaux et de leur empreinte. L''avion
+    fonctionne comme un marqueur social : plus il est utilisé, moins on en voit les
+    impacts, et plus on est incité à l''utiliser.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.bonpote.com/10-chiffres-a-connaitre-sur-lavion-et-le-climat/
+  answer_source_accessible_url_text: 10 chiffres à connaître sur l'avion et le climat
+    – Bon Pote
+  answer_source_scientific_url: https://www.cambridge.org/core/journals/global-sustainability/article/unequal-distribution-of-household-carbon-footprints-in-europe-and-its-link-to-sustainability/F1ED4F705AF1C6C1FCAD477398353DC2
+  answer_source_scientific_url_text: Inégale distribution des empreintes carbone des
+    ménages en Europe – Global Sustainability (Cambridge)
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6c7fe9b4.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1525
+  text: Le projet EMILI prévoit d'ouvrir la première mine de lithium en France, dans
+    l'Allier. Ce lithium servirait à fabriquer des batteries pour véhicules électriques.
+    Comment réagissent majoritairement les riverains ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: 'Ils soutiennent le projet : décarboner les transports est une
+    priorité.'
+  answer_choice_b: 'Ils s''y opposent : pollution de l''eau, des sols et des écosystèmes
+    locaux.'
+  answer_choice_c: Ils sont indifférents car la mine sera souterraine et peu visible
+  answer_choice_d: Ils demandent à voter pour ou contre par référendum local.
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: 'Plus de 3 600 personnes ont participé au débat public de 2024,
+    largement marqué par l''opposition locale. Les inquiétudes portent sur la consommation
+    d''eau (1,2 million de m³ par an dans des rivières déjà en tension), la pollution
+    aux métaux lourds héritée des anciennes activités minières du secteur, et les
+    impacts sur la forêt. Pourtant, ces mêmes riverains sont souvent favorables à
+    la transition électrique dans son principe. Ce paradoxe illustre le phénomène
+    NIMBY — Not In My Backyard : « oui à la transition, mais pas chez moi », ainsi
+    que le cycle infernal "Faire porter nos mode de vie sur les pays tiers". Il révèle
+    une tension réelle entre la nécessité de produire les matières premières de la
+    décarbonation et le refus de leurs impacts locaux. La question est posée par des
+    experts : peut-on sortir des énergies fossiles sans accepter, quelque part, les
+    nuisances de leur substitut ?'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.politis.fr/articles/2024/03/allier-echassieres-imerys-emili-une-mine-de-lithium-electrise-le-debat/
+  answer_source_accessible_url_text: Dans l'Allier, une future mine de lithium électrise
+    le débat, Politis, 2024
+  answer_source_scientific_url: https://www.debatpublic.fr/mine-de-lithium-allier
+  answer_source_scientific_url_text: Commission nationale du débat public — Bilan
+    du débat EMILI, 2024
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/399f65f5.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1526
+  text: "Le déploiement de la 5G devait diviser par 10 à 20 la consommation d'énergie\
+    \ par octet transmis par rapport à la 4G. Quelle a été la conséquence réelle sur\
+    \ la consommation TOTALE des antennes-relais ?\r\nAvec le déploiement de la 5G,\
+    \ la consommation énergétique des antennes a-t-elle baissé ?"
+  hint: ''
+  type: QCM
+  category: 2
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: La consommation totale des antennes a bien baissé d'un facteur
+    10Oui, elle a été divisée par 10 comme prévu
+  answer_choice_b: Non, elle est restée stable
+  answer_choice_c: Non, elle a augmenté d'un facteur 10
+  answer_choice_d: L'évolution est encore incertaineOui, elle a légèrement diminué
+  answer_correct: c
+  has_ordered_answers: false
+  answer_explanation: Pour que la 5G soit 10 fois plus efficace par octet, il faut
+    que les antennes traitent un flux multiplié par 100. La consommation totale des
+    antennes finit donc par être multipliée par 10 — c'est l'effet rebond à l'état
+    pur. Le Haut Conseil pour le Climat rappelle que "l'expérience du déploiement
+    des technologies numériques montre que les usages finaux sont rarement ceux anticipés,
+    mais que les possibilités techniques offertes ont toujours été utilisées". La
+    4G, qui devait réduire les consommations par rapport à la 3G, a surtout déclenché
+    l'explosion du streaming vidéo sur mobile. La 5G reproduit exactement cette dynamique.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf
+  answer_source_scientific_url_text: Maîtriser l'impact carbone de la 5G – Haut Conseil
+    pour le Climat, 2020
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1527
+  text: Quelle part des émissions de gaz à effet de serre des Français est liée aux
+    importations ?
+  hint: ''
+  type: QCM
+  category: 1
+  tags: []
+  difficulty: 3
+  language: FRENCH
+  answer_choice_a: Environ 15 %
+  answer_choice_b: Environ 30 %
+  answer_choice_c: Environ 50 %
+  answer_choice_d: Environ 70 %
+  answer_correct: c
+  has_ordered_answers: true
+  answer_explanation: La moitié de notre empreinte carbone se produit hors de nos
+    frontières, invisible dans nos statistiques nationales (principalement de l'Union
+    Européenne et d'Asie) Et si nous avons fermé nos dernières mines de charbon, beaucoup
+    de nos produits manufacturés viennent d'usines encore alimentées au charbon.
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
+    les freins systémiques, pour une transition écologique à la hauteur des enjeux,
+    page XXX
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1528
+  text: Le mouvement architectural du Vorarlberg en Autriche est reconnu comme un
+    exemple inspirant de transition réussie. Quelle est sa caractéristique principale
+    qui le différencie ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 2
+  language: FRENCH
+  answer_choice_a: Il repose sur l'importation de technologies étrangères plus performantes
+    que les techniques locales
+  answer_choice_b: Il articule fortement le culturel, l'économique, le social et l'écologique
+    autour de filières locales de transformation du bois, créant un modèle de développement
+    territorial intégré
+  answer_choice_c: Il consiste à appliquer un cahier des charges national de construction
+    écologique identique sur tout le territoire autrichien
+  answer_choice_d: Il est piloté par une grande entreprise de construction qui a imposé
+    ses standards à toute la région
+  answer_correct: b
+  has_ordered_answers: false
+  answer_explanation: 'Le mouvement architectural du Vorarlberg est né dans les années
+    1960, quand des architectes et des charpentiers ont décidé de faire de la dynamique
+    de construction locale un outil de développement territorial. À partir de la culture
+    sylvestre ancrée dans la région, ils ont développé des filières locales de transformation
+    du bois (coupe sélective, isolation, chauffage local). Ce qui est puissant dans
+    cette approche, c''est le lien très fort entre le culturel, l''économique, le
+    social et l''écologique. Les habitants se sont approprié les enjeux architecturaux
+    : les discussions sur la construction et l''aménagement ont lieu partout, sur
+    les places comme dans les consultations publiques.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: https://www.cerema.fr/fr/actualites/artificialisation-sols-comment-mieux-gerer-foncier
+  answer_source_accessible_url_text: Architecture vernaculaire et développement local
+    – CEREMA
+  answer_source_scientific_url: https://www.ademe.fr/expertise/batiment/passer-a-laction/construire-renover/
+  answer_source_scientific_url_text: Construction écologique et filières locales –
+    ADEME
+  answer_book_recommendation: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/22b8abd6.png
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
+- id: 1529
+  text: Dans la ville de Trappes, une grille d'analyse multicritères est utilisée
+    pour toutes les décisions d'achat. Parmi ces critères, lequel vous semble le plus
+    inhabituel dans une commande publique classique ?
+  hint: ''
+  type: QCM
+  category: 6
+  tags: []
+  difficulty: 1
+  language: FRENCH
+  answer_choice_a: Impact carbone global
+  answer_choice_b: Coût et délai de réalisation
+  answer_choice_c: Emploi local de qualité généré
+  answer_choice_d: 'Agir collectif : dans quelle mesure l''action favorise-t-elle
+    l''agir collectif ?'
+  answer_correct: d
+  has_ordered_answers: false
+  answer_explanation: 'Les critères carbone et emploi local commencent à se diffuser.
+    Mais évaluer dans quelle mesure une décision d''achat renforce la capacité collective
+    d''agir d''un territoire — c''est un changement de paradigme profond. C''est sortir
+    de la vision en silo : ce qu''on économise d''une main ne doit pas être payé de
+    l''autre.'
+  answer_audio_url: ''
+  answer_audio_url_text: ''
+  answer_video_url: ''
+  answer_video_url_text: ''
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: ''
+  answer_source_scientific_url_text: ''
+  answer_book_recommendation: ''
+  answer_image_url: ''
+  answer_image_url_text: ''
+  answer_extra_info: ''
+  author: 2
+  visibility: PUBLIC
+  validation_status: DRAFT
+  validator: null
+  validation_date: null
+  created: '2026-04-23'
+  updated: '2026-04-23'
