@@ -56072,7 +56072,7 @@
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
     page XXX
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/abe66c4b.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -56081,7 +56081,7 @@
   validator: null
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-23'
+  updated: '2026-04-24'
 - id: 1519
   text: Pour rénover thermiquement un million de logements au niveau BBC par an, combien
     d'ouvriers qualifiés supplémentaires seront nécessaires ?
@@ -56116,7 +56116,7 @@
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
     page XXX
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ba910371.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -56125,7 +56125,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-24'
 - id: 1520
   text: Entre 2015 et 2022, le réseau de voiries destinées aux véhicules motorisés
     et le réseau de pistes cyclables en France ont évolué de façon similaire. Quelle
@@ -56169,7 +56169,7 @@
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
     page XXX
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/222093bc.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -56178,7 +56178,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-24'
 - id: 1521
   text: Comment a évolué le transport de marchandises par route en France entre 1960
     et 2018 ?
@@ -56212,7 +56212,7 @@
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
     page XXX
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c6f5f253.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -56221,7 +56221,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-24'
 - id: 1522
   text: L'agriculture intensive en monoculture repose sur un ensemble d'interventions
     pour compenser l'absence de l'écosystème naturel. Avec quelles conséquences ?
