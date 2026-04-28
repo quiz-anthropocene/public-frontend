@@ -56030,7 +56030,7 @@
   validator: null
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
@@ -56081,7 +56081,7 @@
   validator: null
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-24'
+  updated: '2026-04-27'
 - id: 1519
   text: Pour rénover thermiquement un million de logements au niveau BBC par an, combien
     d'ouvriers qualifiés supplémentaires seront nécessaires ?
@@ -56125,7 +56125,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-24'
+  updated: '2026-04-27'
 - id: 1520
   text: Entre 2015 et 2022, le réseau de voiries destinées aux véhicules motorisés
     et le réseau de pistes cyclables en France ont évolué de façon similaire. Quelle
@@ -56178,7 +56178,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-24'
+  updated: '2026-04-27'
 - id: 1521
   text: Comment a évolué le transport de marchandises par route en France entre 1960
     et 2018 ?
@@ -56221,7 +56221,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-24'
+  updated: '2026-04-27'
 - id: 1522
   text: L'agriculture intensive en monoculture repose sur un ensemble d'interventions
     pour compenser l'absence de l'écosystème naturel. Avec quelles conséquences ?
@@ -56271,7 +56271,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1523
   text: Lors d'années avec des aléas climatiques importants (sécheresse, canicule,
     inondations), comment se comparent les rendements de l'agriculture intensive et
@@ -56322,7 +56322,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1524
   text: Considérons les 1 % des ménages les plus riches en France. Quelle part est
     prise par l'avion dans leur empreinte carbone ?
@@ -56368,7 +56368,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1525
   text: Le projet EMILI prévoit d'ouvrir la première mine de lithium en France, dans
     l'Allier. Ce lithium servirait à fabriquer des batteries pour véhicules électriques.
@@ -56421,7 +56421,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1526
   text: "Le déploiement de la 5G devait diviser par 10 à 20 la consommation d'énergie\
     \ par octet transmis par rapport à la 4G. Quelle a été la conséquence réelle sur\
@@ -56469,7 +56469,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1527
   text: Quelle part des émissions de gaz à effet de serre des Français est liée aux
     importations ?
@@ -56509,7 +56509,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1528
   text: Le mouvement architectural du Vorarlberg en Autriche est reconnu comme un
     exemple inspirant de transition réussie. Quelle est sa caractéristique principale
@@ -56560,7 +56560,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
 - id: 1529
   text: Dans la ville de Trappes, une grille d'analyse multicritères est utilisée
     pour toutes les décisions d'achat. Parmi ces critères, lequel vous semble le plus
@@ -56601,4 +56601,4 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-23'
+  updated: '2026-04-27'
