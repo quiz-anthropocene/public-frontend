@@ -56021,7 +56021,7 @@
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
     page 22 à 26
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/07138127.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -56030,7 +56030,7 @@
   validator: null
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
@@ -56075,13 +56075,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/abe66c4b.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 98
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 90
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1519
   text: Pour rénover thermiquement un million de logements au niveau BBC par an, combien
     d'ouvriers qualifiés supplémentaires seront nécessaires ?
@@ -56115,17 +56115,17 @@
   answer_source_scientific_url_text: Les métiers en 2030 – DARES / Ministère du Travail
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
+    pages 5 à 9
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ba910371.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 98
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1520
   text: Entre 2015 et 2022, le réseau de voiries destinées aux véhicules motorisés
     et le réseau de pistes cyclables en France ont évolué de façon similaire. Quelle
@@ -56168,7 +56168,7 @@
     – SDES
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
+    page 12
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/222093bc.png
   answer_image_url_text: ''
   answer_extra_info: ''
@@ -56178,7 +56178,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1521
   text: Comment a évolué le transport de marchandises par route en France entre 1960
     et 2018 ?
@@ -56211,17 +56211,17 @@
   answer_source_scientific_url_text: Chiffres clés des transports 2022 – SDES
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
+    page 15
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/c6f5f253.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1522
   text: L'agriculture intensive en monoculture repose sur un ensemble d'interventions
     pour compenser l'absence de l'écosystème naturel. Avec quelles conséquences ?
@@ -56242,36 +56242,36 @@
   answer_correct: ad
   has_ordered_answers: false
   answer_explanation: En agriculture intensive, la logique de monoculture consiste
-    à mettre la plante "sous contrôle" au moyen d'intrants (fertilisants, herbicides,
+    à mettre la plante sous contrôle au moyen d'intrants (fertilisants, herbicides,
     pesticides) et à éliminer tout obstacle à la mécanisation (haies, arbres). Ce
     faisant, on coupe la plante de ses auxiliaires biologiques naturels — insectes,
     faune du sol — qui l'aident à se développer et à résister aux agressions. La plante
     devient donc dépendante des intrants pour survivre. Parallèlement, l'absence de
     diversité biologique sur de grands bassins augmente considérablement la vulnérabilité
-    du système aux aléas climatiques (sécheresse, canicule) et aux bioagresseurs.
+    du système aux aléas climatiques (sècheresse, canicule) et aux bioagresseurs.
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
   answer_source_accessible_url: https://www.inrae.fr/actualites/pratiques-agricoles-rendements-cultures-cerealieres-resultats-modules-limpact-biodiversite
   answer_source_accessible_url_text: Pratiques agricoles et rendements des céréales
-    – INRAE
+    – INRAE, 2022
   answer_source_scientific_url: https://hal.science/hal-01939107
   answer_source_scientific_url_text: Intérêt des infrastructures agroécologiques pour
     la biodiversité – INRAE (hal.science)
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
+    page 17
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/64d724e7.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 90
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1523
   text: Lors d'années avec des aléas climatiques importants (sécheresse, canicule,
     inondations), comment se comparent les rendements de l'agriculture intensive et
@@ -56307,29 +56307,30 @@
   answer_source_accessible_url: https://www.inrae.fr/actualites/pratiques-agricoles-rendements-cultures-cerealieres-resultats-modules-limpact-biodiversite
   answer_source_accessible_url_text: Pratiques agricoles et rendements des céréales
     face aux aléas climatiques – INRAE
-  answer_source_scientific_url: https://www.sciencedirect.com/science/article/pii/S0167880921005144
-  answer_source_scientific_url_text: Agriculture, biodiversité et rendements face
-    aux aléas – Science of the Total Environment (INRAE)
+  answer_source_scientific_url: https://www.inrae.fr/sites/default/files/pdf/RegulNat-synth%C3%A8se_19-10-22_VF.pdf
+  answer_source_scientific_url_text: Protéger les cultures en augmentant la diversité
+    végétale des espaces agricoles, INRAE, 2022
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
-  answer_image_url: ''
+    page 17
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/ac43ef5e.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1524
   text: Considérons les 1 % des ménages les plus riches en France. Quelle part est
     prise par l'avion dans leur empreinte carbone ?
   hint: ''
   type: QCM
   category: 2
-  tags: []
+  tags:
+  - 34
   difficulty: 3
   language: FRENCH
   answer_choice_a: 10%
@@ -56338,14 +56339,14 @@
   answer_choice_d: 60%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Cette empreinte est en moyenne de 22,6 t CO2eq par an, 40%
-    par l''avion. Cela illustre que l''avion n''est pas un problème de masse : seulement
-    29 % des Français prennent l''avion au moins une fois par an pour le loisir ou
-    la famille, et cette catégorie respecte généralement la norme d''un vol tous les
-    deux ans. Ce sont les voyageurs réguliers — essentiellement professionnels — qui
-    concentrent la grande majorité des vols commerciaux et de leur empreinte. L''avion
-    fonctionne comme un marqueur social : plus il est utilisé, moins on en voit les
-    impacts, et plus on est incité à l''utiliser.'
+  answer_explanation: 'Cette empreinte est en moyenne de 22,6 t CO2eq par an, dont
+    40% par l''avion. Cela illustre que l''avion n''est pas un problème de masse :
+    seulement 29 % des Français prennent l''avion au moins une fois par an pour le
+    loisir ou la famille, et cette catégorie respecte généralement la norme d''un
+    vol tous les deux ans. Ce sont les voyageurs réguliers — essentiellement professionnels
+    — qui concentrent la grande majorité des vols commerciaux et de leur empreinte.
+    L''avion fonctionne comme un marqueur social : plus il est utilisé, moins on en
+    voit les impacts, et plus on est incité à l''utiliser.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -56358,17 +56359,17 @@
     ménages en Europe – Global Sustainability (Cambridge)
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
+    page 26
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/6c7fe9b4.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1525
   text: Le projet EMILI prévoit d'ouvrir la première mine de lithium en France, dans
     l'Allier. Ce lithium servirait à fabriquer des batteries pour véhicules électriques.
@@ -56417,27 +56418,24 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1526
-  text: "Le déploiement de la 5G devait diviser par 10 à 20 la consommation d'énergie\
-    \ par octet transmis par rapport à la 4G. Quelle a été la conséquence réelle sur\
-    \ la consommation TOTALE des antennes-relais ?\r\nAvec le déploiement de la 5G,\
-    \ la consommation énergétique des antennes a-t-elle baissé ?"
+  text: Avec le déploiement de la 5G, la consommation énergétique des antennes a-t-elle
+    baissé ?
   hint: ''
   type: QCM
   category: 2
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: La consommation totale des antennes a bien baissé d'un facteur
-    10Oui, elle a été divisée par 10 comme prévu
+  answer_choice_a: Oui, elle a été divisée par 10 comme prévu
   answer_choice_b: Non, elle est restée stable
   answer_choice_c: Non, elle a augmenté d'un facteur 10
-  answer_choice_d: L'évolution est encore incertaineOui, elle a légèrement diminué
+  answer_choice_d: Oui, elle a légèrement diminué
   answer_correct: c
   has_ordered_answers: false
   answer_explanation: Pour que la 5G soit 10 fois plus efficace par octet, il faut
@@ -56452,24 +56450,25 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
-  answer_source_accessible_url_text: ''
-  answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf
-  answer_source_scientific_url_text: Maîtriser l'impact carbone de la 5G – Haut Conseil
+  answer_source_accessible_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf
+  answer_source_accessible_url_text: Maîtriser l'impact carbone de la 5G – Haut Conseil
     pour le Climat, 2020
+  answer_source_scientific_url: https://www.arcep.fr/uploads/tx_gspublication/etude-numerique-environnement-ademe-arcep-note-synthese_janv2022.pdf
+  answer_source_scientific_url_text: EVALUATION DE L’IMPACT ENVIRONNEMENTAL DU NUMERIQUE
+    EN FRANCE ET ANALYSE PROSPECTIVE, ARCEP, 2022
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
-  answer_image_url: ''
+    page 28
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/e142a5fb.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 90
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1527
   text: Quelle part des émissions de gaz à effet de serre des Français est liée aux
     importations ?
@@ -56495,21 +56494,21 @@
   answer_video_url_text: ''
   answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.hautconseilclimat.fr/wp-content/uploads/2020/10/hcc_rapport_maitriser-lempreinte-carbone-de-la-france-1.pdf
+  answer_source_scientific_url_text: HCC - Maîtriser notre empreinte carbone
   answer_book_recommendation: Etude Bifurquer ou s’enfoncer ? Comprendre et lever
     les freins systémiques, pour une transition écologique à la hauteur des enjeux,
-    page XXX
-  answer_image_url: ''
+    page 38
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/91fc2eef.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 90
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1528
   text: Le mouvement architectural du Vorarlberg en Autriche est reconnu comme un
     exemple inspirant de transition réussie. Quelle est sa caractéristique principale
@@ -56554,17 +56553,16 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/22b8abd6.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 90
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 98
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
 - id: 1529
-  text: Dans la ville de Trappes, une grille d'analyse multicritères est utilisée
-    pour toutes les décisions d'achat. Parmi ces critères, lequel vous semble le plus
-    inhabituel dans une commande publique classique ?
+  text: La ville de Trappes a introduit dans sa commande publique un dispositif novateur.
+    Lequel ?
   hint: ''
   type: QCM
   category: 6
@@ -56592,13 +56590,13 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: ''
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3bcebd9f.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
+  validation_status: TO_VALIDATE
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-27'
+  updated: '2026-04-28'
