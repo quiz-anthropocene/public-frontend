@@ -4184,10 +4184,23 @@
     ou s’enfoncer ? Comprendre et lever les freins systémiques, pour une transition
     écologique à la hauteur des enjeux</a></em> est téléchargeable gratuitement. Elle
     mérite une heure de votre temps.</p>
-  questions: []
-  question_count: 0
+  questions:
+  - 1374
+  - 1375
+  - 1519
+  - 1520
+  - 1521
+  - 1522
+  - 1523
+  - 1524
+  - 1525
+  - 1526
+  - 1527
+  - 1528
+  - 1529
+  question_count: 13
   tags: []
-  difficulty_average: 0.0
+  difficulty_average: 2.2
   language: FRENCH
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/ecd1fd6c.png
   has_audio: false
@@ -4201,4 +4214,4 @@
   publish_date: null
   spotlight: false
   created: '2026-04-20'
-  updated: '2026-04-20'
+  updated: '2026-04-27'
