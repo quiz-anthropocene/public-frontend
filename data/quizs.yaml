@@ -3595,7 +3595,7 @@
   - 242
   difficulty_average: 1.5
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/810cdf44.jpg
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/cec87231.png
   has_audio: false
   authors:
   - 96
@@ -3607,7 +3607,7 @@
   publish_date: '2025-06-20'
   spotlight: true
   created: '2025-05-14'
-  updated: '2025-06-20'
+  updated: '2026-04-28'
 - id: 121
   name: Empreinte matière
   slug: empreinte-matiere
