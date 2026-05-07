@@ -55995,19 +55995,18 @@
   answer_explanation: "Côté offre : avec les règles du marché et les faibles revenus\
     \ de l'agriculture conventionnelle, de nombreux exploitants ne parviennent pas\
     \ à vivre décemment de leur travail ni à se constituer une retraite suffisante.\
-    \ Faute de repreneur, ils vendent leurs terres au plus offrant — souvent un promoteur\
-    \ immobilier. Or le prix moyen d'un terrain agricole qui devient constructible\
-    \ est multiplié par près de 660, rendant cette vente économiquement irrésistible.\r\
-    \nCôté demande : le rêve du pavillon individuel avec jardin reste très fort dans\
-    \ la culture populaire. Face à des conditions de vie jugées insatisfaisantes en\
-    \ ville (bruit, pollution, manque d'espace), des ménages choisissent de s'installer\
-    \ en périphérie. Ce choix alimente l'étalement urbain, augmente le trafic automobile,\
-    \ dégrade à son tour la qualité de vie dans les centres — poussant d'autres habitants\
-    \ à partir, dans un cercle infernal auto-entretenu. \r\nCes deux dynamiques se\
-    \ combinent : la disponibilité de terres agricoles bon marché (côté offre) rencontre\
-    \ une demande soutenue de logements individuels (côté demande), le tout soutenu\
-    \ par des collectivités qui financent les infrastructures routières réclamées\
-    \ par les nouveaux périphériques."
+    \ Faute de repreneur, ils vendent leurs terres au plus offrant — souvent un promoteur.\
+    \ Or le prix moyen d'un terrain agricole qui devient constructible est multiplié\
+    \ par près de 660, rendant cette vente économiquement irrésistible.\r\nCôté demande\
+    \ : le rêve du pavillon individuel avec jardin reste très fort dans la culture\
+    \ populaire. Face à des conditions de vie jugées insatisfaisantes en ville, des\
+    \ ménages choisissent de s'installer en périphérie. Ce choix alimente l'étalement\
+    \ urbain, augmente le trafic automobile, dégrade à son tour la qualité de vie\
+    \ dans les centres — poussant d'autres habitants à partir, dans un cercle infernal\
+    \ auto-entretenu. \r\nCes deux dynamiques se combinent : la disponibilité de terres\
+    \ agricoles bon marché (côté offre) rencontre une demande soutenue de logements\
+    \ individuels. Le tout soutenu par des collectivités qui financent les infrastructures\
+    \ routières réclamées par les nouveaux périphériques."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -56026,11 +56025,11 @@
   answer_extra_info: ''
   author: 2
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 90
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-04-28'
+  updated: '2026-05-06'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
