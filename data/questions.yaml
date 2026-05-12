@@ -30732,7 +30732,7 @@
   validator: 2
   validation_date: '2021-01-13'
   created: '2021-01-06'
-  updated: '2024-03-12'
+  updated: '2026-05-11'
 - id: 751
   text: Quelle est la part de la population mondiale qui utilise des vols internationaux
     ?
@@ -55981,7 +55981,7 @@
   type: QCM-RM
   category: 6
   tags: []
-  difficulty: 3
+  difficulty: 2
   language: FRENCH
   answer_choice_a: Le désir des citadins d'accéder à un pavillon individuel avec jardin,
     fuyant des conditions de vie urbaines dégradées
@@ -56029,7 +56029,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-05-06'
+  updated: '2026-05-11'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
@@ -56088,7 +56088,7 @@
   type: QCM
   category: 6
   tags: []
-  difficulty: 2
+  difficulty: 4
   language: FRENCH
   answer_choice_a: 50 000 ouvriers qualifiés
   answer_choice_b: 150 000 ouvriers qualifiés
@@ -56124,7 +56124,7 @@
   validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1520
   text: Entre 2015 et 2022, le réseau de voiries destinées aux véhicules motorisés
     et le réseau de pistes cyclables en France ont évolué de façon similaire. Quelle
@@ -56145,16 +56145,23 @@
     tous modes confondus
   answer_correct: b
   has_ordered_answers: false
-  answer_explanation: "Entre 2015 et 2020, 16 000 km de voiries ont été créées pour\
-    \ les véhicules motorisés ; entre 2017 et 2022, 17 000 km de pistes cyclables\
-    \ ont été aménagées. Ces chiffres comparables révèlent que les deux réseaux se\
-    \ développent en parallèle, sans report significatif des investissements vers\
-    \ les modes actifs. C'est le cycle infernal de \"l'infrastructure qui appelle\
-    \ l'infrastructure\" : investir dans un type d'infrastructure attire des utilisateurs,\
-    \ crée une saturation, et appelle de nouveaux investissements dans cette même\
-    \ infrastructure. Pour inverser la tendance, il faudrait non pas ajouter des pistes\
-    \ cyclables, mais transformer des voies motorisées en voies cyclables — un choix\
-    \ politique difficile.\r\nYousra pour intégrer la 19"
+  answer_explanation: 'Entre 2015 et 2020, 16 000 km de voiries ont été créées pour
+    les véhicules motorisés contre 17 000 km de pistes cyclables sur la même période.
+    Les deux réseaux se développent en parallèle, sans report significatif des investissements
+    vers les modes actifs. C''est le cycle infernal de "l''infrastructure qui appelle
+    l''infrastructure" : investir dans un type d''infrastructure attire des utilisateurs,
+    crée une saturation, et appelle de nouveaux investissements dans cette même infrastructure.
+    Pour inverser la tendance, il faudrait non pas ajouter des pistes cyclables, mais
+    transformer des voies motorisées en voies cyclables — un choix politique difficile.
+    Pourtant, ce même mécanisme de dépendance peut être retourné pour devenir un puissant
+    levier de changement : c’est l’apparition de la boucle vertueuse symétrique de
+    ce cycle infernal  : plus il y a d''infrastructures cyclables, plus il y a de
+    cyclistes dans les rues ; plus il y a de cyclistes, plus les cyclistes se sentent
+    en sécurité ; plus ils se sentent en sécurité, plus la demande d''infrastructures
+    supplémentaires augmente. Des villes comme Bordeaux, Strasbourg, Grenoble ou Nantes
+    ont démontré cette dynamique : investir massivement dans les infrastructures vélo
+    crée une culture du vélo qui s''auto-renforce. L''offre crée la demande bien plus
+    sûrement que les seules incitations à l''achat.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -56177,7 +56184,7 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1521
   text: Comment a évolué le transport de marchandises par route en France entre 1960
     et 2018 ?
@@ -56185,7 +56192,7 @@
   type: QCM
   category: 6
   tags: []
-  difficulty: 3
+  difficulty: 4
   language: FRENCH
   answer_choice_a: Il a grossi d'un facteur 5
   answer_choice_b: D'un facteur 10
@@ -56220,7 +56227,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1522
   text: L'agriculture intensive en monoculture repose sur un ensemble d'interventions
     pour compenser l'absence de l'écosystème naturel. Avec quelles conséquences ?
@@ -56270,7 +56277,7 @@
   validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1523
   text: Lors d'années avec des aléas climatiques importants (sécheresse, canicule,
     inondations), comment se comparent les rendements de l'agriculture intensive et
@@ -56330,7 +56337,7 @@
   category: 2
   tags:
   - 34
-  difficulty: 3
+  difficulty: 2
   language: FRENCH
   answer_choice_a: 10%
   answer_choice_b: 20%
@@ -56368,7 +56375,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1525
   text: Le projet EMILI prévoit d'ouvrir la première mine de lithium en France, dans
     l'Allier. Ce lithium servirait à fabriquer des batteries pour véhicules électriques.
@@ -56429,7 +56436,7 @@
   type: QCM
   category: 2
   tags: []
-  difficulty: 2
+  difficulty: 3
   language: FRENCH
   answer_choice_a: Oui, elle a été divisée par 10 comme prévu
   answer_choice_b: Non, elle est restée stable
@@ -56467,7 +56474,7 @@
   validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1527
   text: Quelle part des émissions de gaz à effet de serre des Français est liée aux
     importations ?
@@ -56507,7 +56514,7 @@
   validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1528
   text: Le mouvement architectural du Vorarlberg en Autriche est reconnu comme un
     exemple inspirant de transition réussie. Quelle est sa caractéristique principale
@@ -56516,7 +56523,7 @@
   type: QCM
   category: 6
   tags: []
-  difficulty: 2
+  difficulty: 3
   language: FRENCH
   answer_choice_a: Il repose sur l'importation de technologies étrangères plus performantes
     que les techniques locales
@@ -56558,7 +56565,7 @@
   validator: 98
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
 - id: 1529
   text: La ville de Trappes a introduit dans sa commande publique un dispositif novateur.
     Lequel ?
@@ -56566,7 +56573,7 @@
   type: QCM
   category: 6
   tags: []
-  difficulty: 1
+  difficulty: 2
   language: FRENCH
   answer_choice_a: Impact carbone global
   answer_choice_b: Coût et délai de réalisation
@@ -56598,4 +56605,4 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-04-28'
+  updated: '2026-05-11'
