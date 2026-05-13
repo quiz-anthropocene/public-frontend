@@ -4197,9 +4197,9 @@
   - 1529
   question_count: 13
   tags: []
-  difficulty_average: 2.2
+  difficulty_average: 2.5
   language: FRENCH
-  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/ecd1fd6c.png
+  image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/6e2296d0.png
   has_audio: false
   authors:
   - 2
@@ -4211,4 +4211,4 @@
   publish_date: null
   spotlight: false
   created: '2026-04-20'
-  updated: '2026-04-28'
+  updated: '2026-05-12'
