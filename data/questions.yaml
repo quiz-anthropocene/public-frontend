@@ -55992,21 +55992,21 @@
     en périphérie
   answer_correct: ab
   has_ordered_answers: false
-  answer_explanation: "Côté offre : avec les règles du marché et les faibles revenus\
-    \ de l'agriculture conventionnelle, de nombreux exploitants ne parviennent pas\
-    \ à vivre décemment de leur travail ni à se constituer une retraite suffisante.\
-    \ Faute de repreneur, ils vendent leurs terres au plus offrant — souvent un promoteur.\
-    \ Or le prix moyen d'un terrain agricole qui devient constructible est multiplié\
-    \ par près de 660, rendant cette vente économiquement irrésistible.\r\nCôté demande\
-    \ : le rêve du pavillon individuel avec jardin reste très fort dans la culture\
-    \ populaire. Face à des conditions de vie jugées insatisfaisantes en ville, des\
-    \ ménages choisissent de s'installer en périphérie. Ce choix alimente l'étalement\
-    \ urbain, augmente le trafic automobile, dégrade à son tour la qualité de vie\
-    \ dans les centres — poussant d'autres habitants à partir, dans un cercle infernal\
-    \ auto-entretenu. \r\nCes deux dynamiques se combinent : la disponibilité de terres\
-    \ agricoles bon marché (côté offre) rencontre une demande soutenue de logements\
-    \ individuels. Le tout soutenu par des collectivités qui financent les infrastructures\
-    \ routières réclamées par les nouveaux périphériques."
+  answer_explanation: "Avec les règles du marché et les faibles revenus de l'agriculture\
+    \ conventionnelle, de nombreux exploitants ne parviennent pas à vivre décemment\
+    \ de leur travail ni à se constituer une retraite suffisante ; faute de repreneur,\
+    \ ils vendent leurs terres au plus offrant — souvent un promoteur. Or le prix\
+    \ moyen d'un terrain agricole qui devient constructible est multiplié par près\
+    \ de 660, un attrait auquel il est difficile de résister.\r\nDe l'autre côté,\
+    \ le rêve du pavillon individuel avec jardin reste très fort dans notre culture.\
+    \ Face à des conditions de vie jugées insatisfaisantes en ville, des ménages choisissent\
+    \ de s'installer en périphérie. Ce choix alimente l'étalement urbain, augmente\
+    \ le trafic automobile, dégrade à son tour la qualité de vie dans les centres\
+    \ — poussant d'autres habitants à partir, dans un cercle infernal auto-entretenu.\
+    \ \r\nCes deux dynamiques se combinent : la disponibilité de terres agricoles\
+    \ bon marché (côté offre) rencontre une demande soutenue de logements individuels.\
+    \ Le tout soutenu par des collectivités qui financent les infrastructures routières\
+    \ réclamées par les nouveaux périphériques."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -56029,7 +56029,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-05-11'
+  updated: '2026-05-12'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
@@ -56132,13 +56132,14 @@
   hint: ''
   type: QCM
   category: 6
-  tags: []
+  tags:
+  - 249
   difficulty: 2
   language: FRENCH
   answer_choice_a: Le vélo est en train de remplacer progressivement la voiture dans
     les politiques d'aménagement
-  answer_choice_b: Le réseau cyclable se développe en parallèle du réseau motorisé,
-    sans que les investissements routiers soient redirigés vers les modes actifs
+  answer_choice_b: Le réseau cyclable se développe en parallèle du réseau motorisé
+    qui augmente également
   answer_choice_c: Le développement des pistes cyclables a permis de réduire significativement
     le trafic automobile en ville
   answer_choice_d: Les collectivités manquent de budget pour développer les infrastructures,
@@ -56146,22 +56147,22 @@
   answer_correct: b
   has_ordered_answers: false
   answer_explanation: 'Entre 2015 et 2020, 16 000 km de voiries ont été créées pour
-    les véhicules motorisés contre 17 000 km de pistes cyclables sur la même période.
-    Les deux réseaux se développent en parallèle, sans report significatif des investissements
-    vers les modes actifs. C''est le cycle infernal de "l''infrastructure qui appelle
-    l''infrastructure" : investir dans un type d''infrastructure attire des utilisateurs,
-    crée une saturation, et appelle de nouveaux investissements dans cette même infrastructure.
-    Pour inverser la tendance, il faudrait non pas ajouter des pistes cyclables, mais
-    transformer des voies motorisées en voies cyclables — un choix politique difficile.
-    Pourtant, ce même mécanisme de dépendance peut être retourné pour devenir un puissant
-    levier de changement : c’est l’apparition de la boucle vertueuse symétrique de
-    ce cycle infernal  : plus il y a d''infrastructures cyclables, plus il y a de
-    cyclistes dans les rues ; plus il y a de cyclistes, plus les cyclistes se sentent
-    en sécurité ; plus ils se sentent en sécurité, plus la demande d''infrastructures
-    supplémentaires augmente. Des villes comme Bordeaux, Strasbourg, Grenoble ou Nantes
-    ont démontré cette dynamique : investir massivement dans les infrastructures vélo
-    crée une culture du vélo qui s''auto-renforce. L''offre crée la demande bien plus
-    sûrement que les seules incitations à l''achat.'
+    les véhicules motorisés contre 17 000 km de pistes cyclables. Les deux réseaux
+    se développent en parallèle, sans report significatif des investissements vers
+    les modes actifs. C''est le cycle infernal de "l''infrastructure qui appelle l''infrastructure"
+    : investir dans un type d''infrastructure attire des utilisateurs, crée une saturation,
+    et appelle de nouveaux investissements dans cette même infrastructure. Pour inverser
+    la tendance, il faudrait non pas ajouter des pistes cyclables, mais transformer
+    des voies motorisées en voies cyclables — un choix politique difficile. Pourtant,
+    ce même mécanisme de dépendance peut être retourné pour devenir un puissant levier
+    de changement : c’est l’apparition de la boucle vertueuse symétrique de ce cycle
+    infernal  : plus il y a d''infrastructures cyclables, plus il y a de cyclistes
+    dans les rues ; plus il y a de cyclistes, plus les cyclistes se sentent en sécurité
+    ; plus ils se sentent en sécurité, plus la demande d''infrastructures supplémentaires
+    augmente. Les expériences de villes comme Bordeaux, Strasbourg, Grenoble ou Nantes
+    témoignent de cette dynamique, où l''investissement massif dans les infrastructures
+    vélo crée une culture du vélo qui s''auto-renforce. L''offre crée la demande bien
+    plus surement que les seules incitations à l''achat.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -56178,13 +56179,13 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/222093bc.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 90
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-11'
+  updated: '2026-05-12'
 - id: 1521
   text: Comment a évolué le transport de marchandises par route en France entre 1960
     et 2018 ?
@@ -56599,10 +56600,10 @@
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3bcebd9f.png
   answer_image_url_text: ''
   answer_extra_info: ''
-  author: 2
+  author: 98
   visibility: PUBLIC
-  validation_status: TO_VALIDATE
+  validation_status: DRAFT
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-11'
+  updated: '2026-05-12'
