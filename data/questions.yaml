@@ -56568,31 +56568,35 @@
   created: '2026-04-23'
   updated: '2026-05-11'
 - id: 1529
-  text: La ville de Trappes a introduit dans sa commande publique un dispositif novateur.
-    Lequel ?
+  text: La ville de Trappes utilise un dispositif novateur au service de la bifurcation
+    écologique. Lequel ?
   hint: ''
   type: QCM
   category: 6
   tags: []
   difficulty: 2
   language: FRENCH
-  answer_choice_a: Impact carbone global
-  answer_choice_b: Coût et délai de réalisation
-  answer_choice_c: Emploi local de qualité généré
-  answer_choice_d: 'Agir collectif : dans quelle mesure l''action favorise-t-elle
-    l''agir collectif ?'
+  answer_choice_a: Une calculatrice d'empreinte CO2 des déplacements effectués par
+    les services du territoire
+  answer_choice_b: Un questionnaire pour évaluer la démarche RSE des entreprises prestataires
+  answer_choice_c: Une borne d'évaluation des performances environnementales des projets
+    par la population
+  answer_choice_d: Une grille d'analyse multicritères permettant d'évaluer les politiques
+    menées selon plusieurs axes
   answer_correct: d
   has_ordered_answers: false
-  answer_explanation: 'Les critères carbone et emploi local commencent à se diffuser.
-    Mais évaluer dans quelle mesure une décision d''achat renforce la capacité collective
-    d''agir d''un territoire — c''est un changement de paradigme profond. C''est sortir
-    de la vision en silo : ce qu''on économise d''une main ne doit pas être payé de
-    l''autre.'
+  answer_explanation: 'Des indicateurs comme l''empreinte carbone commencent à se
+    diffuser, mais évaluer chaque décision d''achat, chaque projet de la collectivité,
+    au regard de critères multidimensionnels (justice sociale, impact carbone, emploi
+    local, pression sur les ressources, agir collectif du territoire), c''est un changement
+    de paradigme profond. Les outils tels que la grille d''analyse multicritères permettent
+    de sortir d''une vision en silo et de l''analyse classique "coût-délai-qualité"
+    : ce qu''on économise d''une main ne doit pas être payé de l''autre.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: ''
+  answer_source_accessible_url: https://www.dir.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/rn10_trappes_dossier_de_concertation.pdf
   answer_source_accessible_url_text: ''
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
@@ -56606,4 +56610,4 @@
   validator: null
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-12'
+  updated: '2026-05-13'
