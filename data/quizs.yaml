@@ -3034,9 +3034,9 @@
   validation_date: null
   publish: true
   publish_date: null
-  spotlight: true
+  spotlight: false
   created: '2024-05-24'
-  updated: '2026-01-15'
+  updated: '2026-05-18'
 - id: 107
   name: Affresco del Clima - Set n°1
   slug: affresco-clima-set-1
@@ -4202,13 +4202,13 @@
   image_background_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/quizs/6e2296d0.png
   has_audio: false
   authors:
-  - 2
+  - 98
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
+  validation_status: VALIDATED
+  validator: 2
   validation_date: null
-  publish: false
+  publish: true
   publish_date: null
-  spotlight: false
+  spotlight: true
   created: '2026-04-20'
-  updated: '2026-05-12'
+  updated: '2026-05-18'

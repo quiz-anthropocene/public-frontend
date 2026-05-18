@@ -56586,28 +56586,30 @@
   answer_correct: d
   has_ordered_answers: false
   answer_explanation: 'Des indicateurs comme l''empreinte carbone commencent à se
-    diffuser, mais évaluer chaque décision d''achat, chaque projet de la collectivité,
-    au regard de critères multidimensionnels (justice sociale, impact carbone, emploi
-    local, pression sur les ressources, agir collectif du territoire), c''est un changement
-    de paradigme profond. Les outils tels que la grille d''analyse multicritères permettent
-    de sortir d''une vision en silo et de l''analyse classique "coût-délai-qualité"
-    : ce qu''on économise d''une main ne doit pas être payé de l''autre.'
+    diffuser. Cependant, évaluer chaque projet, chaque décision d''achat de la collectivité,
+    au regard de critères aussi variés que la justice sociale, l''impact carbone,
+    l''emploi local, la pression sur les ressources ou encore l''agir collectif du
+    territoire, c''est un changement de paradigme profond. Les outils tels que la
+    grille d''analyse multicritères permettent de sortir d''une vision en silo et
+    de l''analyse classique coût - délai - qualité : ce qu''on économise d''une main
+    ne doit pas être payé de l''autre.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.dir.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/rn10_trappes_dossier_de_concertation.pdf
+  answer_source_accessible_url: ''
   answer_source_accessible_url_text: ''
-  answer_source_scientific_url: ''
-  answer_source_scientific_url_text: ''
+  answer_source_scientific_url: https://www.dir.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/rn10_trappes_dossier_de_concertation.pdf
+  answer_source_scientific_url_text: Requalification de la RN10 à Trappes - Dossier
+    de concertation, DIRIF, 2013
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/3bcebd9f.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 98
   visibility: PUBLIC
-  validation_status: DRAFT
-  validator: null
-  validation_date: null
+  validation_status: VALIDATED
+  validator: 2
+  validation_date: '2026-05-18'
   created: '2026-04-23'
-  updated: '2026-05-13'
+  updated: '2026-05-18'
