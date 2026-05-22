@@ -2970,7 +2970,7 @@
   created: '2020-03-10'
   updated: '2024-02-15'
 - id: 70
-  text: Quelle est la part des énergies fossiles dans la consommation d'énergie mondiale
+  text: Dans la consommation d'énergie mondiale, quelle est la part des énergies fossiles
     (chiffres 2013) ?
   hint: ''
   type: QCM
@@ -2982,10 +2982,10 @@
   - 216
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 40%
+  answer_choice_a: 30%
   answer_choice_b: 50%
-  answer_choice_c: 70%
-  answer_choice_d: 90%
+  answer_choice_c: 80%
+  answer_choice_d: 95%
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: Pétrole (33%), Charbon (27%), Gaz (23%). Gardons en tête que
@@ -3012,7 +3012,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-04-03'
+  updated: '2026-05-21'
 - id: 71
   text: A combien s'élève l'empreinte carbone moyenne d'un Français (2018, en équivalent
     CO2) ?
@@ -46969,7 +46969,7 @@
   language: FRENCH
   answer_choice_a: '3'
   answer_choice_b: '4'
-  answer_choice_c: '6'
+  answer_choice_c: '7'
   answer_choice_d: '9'
   answer_correct: c
   has_ordered_answers: true
@@ -46996,7 +46996,7 @@
   answer_source_scientific_url: ''
   answer_source_scientific_url_text: ''
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/f6812529.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/4f196e7c.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -47005,7 +47005,7 @@
   validator: 47
   validation_date: '2024-02-16'
   created: '2024-02-15'
-  updated: '2024-06-12'
+  updated: '2026-05-21'
 - id: 1156
   text: Avant la révolution industrielle, à quoi servaient les excreta des citadins
     ?
@@ -56011,7 +56011,7 @@
   answer_audio_url_text: ''
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://artificialisation.developpement-durable.gouv.fr/
+  answer_source_accessible_url: https://artificialisation.developpement-durable.gouv.fr/bibliographie/lanalyse-des-determinants-la-consommation-despace-2009-2023-cerema
   answer_source_accessible_url_text: Portail national de l'artificialisation des sols
     – CEREMA / Ministère de la Transition écologique
   answer_source_scientific_url: https://www.artificialisation.developpement-durable.gouv.fr/bibliographie/lanalyse-des-determinants-la-consommation-despace-2009-2023-cerema
@@ -56029,7 +56029,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-02'
-  updated: '2026-05-12'
+  updated: '2026-05-21'
 - id: 1375
   text: Pour réduire leurs coûts, les entreprises du bâtiment ont massivement recours
     à des produits industriels standardisés prêts à poser. Avec quelle conséquence
@@ -56093,11 +56093,11 @@
   answer_choice_a: 50 000 ouvriers qualifiés
   answer_choice_b: 150 000 ouvriers qualifiés
   answer_choice_c: 500 000 ouvriers qualifiés
-  answer_choice_d: 2 millions d'ouvriers qualifiés
+  answer_choice_d: 1 millions d'ouvriers qualifiés
   answer_correct: c
   has_ordered_answers: true
   answer_explanation: '1 million, c''était l''objectif proposé par le rapport précédent
-    de BL Evolution de 2018. Or les métiers du bâtiment sont parmi les plus en tension
+    de BL Evolution de 2018. Or, les métiers du bâtiment sont parmi les plus en tension
     en France, du fait de la déconsidération des métiers manuels et de conditions
     de rémunération peu attractives. Ce n''est pas une simple question de formation
     : c''est le cycle infernal du coût du travail décent qui est à l''œuvre. Tant
@@ -56124,7 +56124,7 @@
   validator: 2
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-11'
+  updated: '2026-05-21'
 - id: 1520
   text: Entre 2015 et 2022, le réseau de voiries destinées aux véhicules motorisés
     et le réseau de pistes cyclables en France ont évolué de façon similaire. Quelle
@@ -56201,11 +56201,11 @@
   answer_choice_d: D'un facteur 50
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: 'Il s''élevait en 2018 à 317 milliards de tonnes-km en 2018.
-    Cette croissance considérable est à la fois la cause et la conséquence d''un modèle
-    économique bâti sur la mobilité des marchandises : des chaînes logistiques mondiales,
-    des sites de production dispersés, une grande distribution organisée autour du
-    flux tendu. C''est le cycle infernal du "coût du changement" : les décisions passées
+  answer_explanation: 'Il s''élevait en 2018 à 317 milliards de tonnes-km. Cette croissance
+    considérable est à la fois la cause et la conséquence d''un modèle économique
+    bâti sur la mobilité des marchandises : des chaines logistiques mondiales, des
+    sites de production dispersés, une grande distribution organisée autour du flux
+    tendu. C''est le cycle infernal du "cout du changement" : les décisions passées
     (investissements autoroutiers, avantages fiscaux du transport routier) ont façonné
     une économie qui ne peut plus fonctionner sans elles.'
   answer_audio_url: ''
@@ -56228,7 +56228,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-11'
+  updated: '2026-05-21'
 - id: 1522
   text: L'agriculture intensive en monoculture repose sur un ensemble d'interventions
     pour compenser l'absence de l'écosystème naturel. Avec quelles conséquences ?
@@ -56349,11 +56349,8 @@
   answer_explanation: 'Cette empreinte est en moyenne de 22,6 t CO2eq par an, dont
     40% par l''avion. Cela illustre que l''avion n''est pas un problème de masse :
     seulement 29 % des Français prennent l''avion au moins une fois par an pour le
-    loisir ou la famille, et cette catégorie respecte généralement la norme d''un
-    vol tous les deux ans. Ce sont les voyageurs réguliers — essentiellement professionnels
-    — qui concentrent la grande majorité des vols commerciaux et de leur empreinte.
-    L''avion fonctionne comme un marqueur social : plus il est utilisé, moins on en
-    voit les impacts, et plus on est incité à l''utiliser.'
+    loisir ou la famille. L''avion fonctionne comme un marqueur social : plus il est
+    utilisé, moins on en voit les impacts, et plus on est incité à l''utiliser.'
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -56376,7 +56373,7 @@
   validator: 90
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-11'
+  updated: '2026-05-21'
 - id: 1525
   text: Le projet EMILI prévoit d'ouvrir la première mine de lithium en France, dans
     l'Allier. Ce lithium servirait à fabriquer des batteries pour véhicules électriques.
@@ -56546,16 +56543,16 @@
     social et l''écologique. Les habitants se sont approprié les enjeux architecturaux
     : les discussions sur la construction et l''aménagement ont lieu partout, sur
     les places comme dans les consultations publiques.'
-  answer_audio_url: ''
-  answer_audio_url_text: ''
+  answer_audio_url: https://www.radiofrance.fr//franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-16-fevrier-2025-2799657
+  answer_audio_url_text: 'Le Vorarlberg, land autrichien : un modèle de territoire
+    écologique, Radio France, 2025'
   answer_video_url: ''
   answer_video_url_text: ''
-  answer_source_accessible_url: https://www.cerema.fr/fr/actualites/artificialisation-sols-comment-mieux-gerer-foncier
-  answer_source_accessible_url_text: Architecture vernaculaire et développement local
-    – CEREMA
-  answer_source_scientific_url: https://www.ademe.fr/expertise/batiment/passer-a-laction/construire-renover/
-  answer_source_scientific_url_text: Construction écologique et filières locales –
-    ADEME
+  answer_source_accessible_url: ''
+  answer_source_accessible_url_text: ''
+  answer_source_scientific_url: https://www.ihedate.org/IMG/pdf/VORARLBERG_DGM-2.pdf
+  answer_source_scientific_url_text: L’architecture écologique du Vorarlberg, un modèle
+    social, culturel et économique, IHEDATE, Voyage d’études dans le Vorarlberg, 2008
   answer_book_recommendation: ''
   answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/22b8abd6.png
   answer_image_url_text: ''
@@ -56566,7 +56563,7 @@
   validator: 98
   validation_date: null
   created: '2026-04-23'
-  updated: '2026-05-11'
+  updated: '2026-05-21'
 - id: 1529
   text: La ville de Trappes utilise un dispositif novateur au service de la bifurcation
     écologique. Lequel ?
