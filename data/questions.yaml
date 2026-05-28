@@ -38211,20 +38211,21 @@
   - 241
   difficulty: 2
   language: FRENCH
-  answer_choice_a: 35%
-  answer_choice_b: 55%
-  answer_choice_c: 75%
-  answer_choice_d: 95%
+  answer_choice_a: 30%
+  answer_choice_b: 45%
+  answer_choice_c: 60%
+  answer_choice_d: 80%
   answer_correct: c
   has_ordered_answers: true
-  answer_explanation: "En France, la grande distribution représente les trois quarts\
-    \ des dépenses de produits alimentaires. Les circuits courts n'en représentent\
-    \ que 6 à 7%. \r\nL’approvisionnement de la population repose très majoritairement\
-    \ sur les poids lourds, la grande distribution, les véhicules utilitaires de livraison\
-    \ et la voiture individuelle. Le système de production et de distribution fonctionne\
-    \ en flux tendu et ne dispose par conséquent que de très peu de stocks. Une perturbation\
-    \ des transports routiers ou une crise énergétique soudaine par exemple auraient\
-    \ des impacts immédiats majeurs sur la sécurité alimentaire."
+  answer_explanation: "Une part qui s'érode progressivement au profit du drive, des\
+    \ commerces de proximité et des circuits courts. Les circuits courts ne représentent\
+    \ quant à eux que 5 à 8%. \r\nL’approvisionnement de la population repose très\
+    \ majoritairement sur les poids lourds, la grande distribution, les véhicules\
+    \ utilitaires de livraison et la voiture individuelle. Le système de production\
+    \ et de distribution fonctionne en flux tendu et ne dispose par conséquent que\
+    \ de très peu de stocks. Une perturbation des transports routiers ou une crise\
+    \ énergétique soudaine par exemple auraient des impacts immédiats majeurs sur\
+    \ la sécurité alimentaire."
   answer_audio_url: ''
   answer_audio_url_text: ''
   answer_video_url: ''
@@ -38245,7 +38246,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-06-28'
+  updated: '2026-05-27'
 - id: 929
   text: A l’échelle mondiale, quelle proportion des surfaces agricoles est occupée
     par et pour l'élevage (pâturages et surfaces agricoles pour nourrir les bêtes)
