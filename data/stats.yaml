@@ -20,10 +20,10 @@ quiz_per_language_count:
   total: 5
 - language: GERMAN
   total: 1
-question_answer_count: 957034
-quiz_answer_count: 71152
-question_answer_count_last_30_days: 5609
-quiz_answer_count_last_30_days: 349
+question_answer_count: 957168
+quiz_answer_count: 71163
+question_answer_count_last_30_days: 5671
+quiz_answer_count_last_30_days: 357
 category_count: 8
 tag_count: 242
 question_feedback_count: 10914
@@ -31,4 +31,4 @@ quiz_feedback_count: 2040
 contribution_count: 871
 question_feedback_count_last_30_days: 34
 quiz_feedback_count_last_30_days: 22
-contribution_count_last_30_days: 2
+contribution_count_last_30_days: 1
