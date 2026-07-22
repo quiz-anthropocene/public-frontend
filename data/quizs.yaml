@@ -4168,14 +4168,18 @@
 - id: 135
   name: Bifurquer ou s'enfoncer ?
   slug: bifurquer-ou-senfoncer
-  introduction: <p>En 2018, l'agence BL Evolution publiait l'étude '<a href="https://www.bl-evolution.com/publication/comment-saligner-sur-une-trajectoire-compatible-avec-les-15c/">Comment
-    s’aligner sur une trajectoire compatible avec les 1,5°C ?</a>', qui a fait un
-    certain bruit. 8 ans plus tard, l'agence refait un état des lieux. Les Français
-    sont de plus à rouler en électrique, à trier leurs leurs déchets, à réduire la
-    viande...Et pourtant, nos impacts et nos émissions ne baissent pas au rythme souhaité.
-    Pourquoi ? Quels sont les cercles infernaux dans lesquels nous nous enfermons
-    ? Et à l'inverse, propose des cercles vertueux à promouvoir. Partons ensemble
-    à sa découverte.</p>
+  introduction: <p>En 2018, le cabinet de conseil <a href="https://www.bl-evolution.com/">BL
+    évolution</a> publiait l'étude "<a href="https://www.bl-evolution.com/publication/comment-saligner-sur-une-trajectoire-compatible-avec-les-15c/">Comment
+    s’aligner sur une trajectoire compatible avec les 1,5°C ?</a>", qui a fait un
+    certain bruit. 8 ans plus tard, il refait un état des lieux de la transition écologique
+    en France dans l'étude "<a href="https://www.bl-evolution.com/publication/etude-bifurquer-ou-senfoncer-comprendre-et-lever-les-freins-systemiques-pour-une-transition-ecologique-a-la-hauteur-des-enjeux/">Bifurquer
+    ou s'enfoncer ? Comprendre et lever les freins systémiques, pour une transition
+    écologique à la hauteur des enjeux</a>". Les Françaises et les Français sont de
+    plus en plus nombreux à rouler en électrique, à trier leurs leurs déchets, à réduire
+    la viande... Et pourtant, nos impacts et nos émissions ne baissent pas au rythme
+    souhaité. Pourquoi ? Quels sont les cercles infernaux qui nous enferment dans
+    une trajectoire insoutenable ? Et inversement, quelles sont les dynamiques bénéfiques
+    à promouvoir ? Partons à sa découverte.</p>
   conclusion: <p>Pour aller plus loin, téléchargez l'étude dont sont extraites ces
     questions, <em><a href="https://www.bl-evolution.com/publication/etude-bifurquer-ou-senfoncer-comprendre-et-lever-les-freins-systemiques-pour-une-transition-ecologique-a-la-hauteur-des-enjeux/">Bifurquer
     ou s’enfoncer ? Comprendre et lever les freins systémiques, pour une transition
@@ -4211,4 +4215,4 @@
   publish_date: null
   spotlight: true
   created: '2026-04-20'
-  updated: '2026-05-18'
+  updated: '2026-05-22'
