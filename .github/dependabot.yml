@@ -1,0 +1,38 @@
+version: 2
+updates:
+  # Frontend (Node.js)
+  - package-ecosystem: "npm"
+    directory: "/frontend"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 5
+    groups:
+      vue-ecosystem:
+        patterns:
+          - "vue"
+          - "vue-*"
+          - "@vue/*"
+      eslint-ecosystem:
+        patterns:
+          - "eslint"
+          - "eslint-*"
+          - "@vue/eslint*"
+      sass:
+        patterns:
+          - "sass"
+          - "sass-loader"
+      testing:
+        patterns:
+          - "chromedriver"
+          - "geckodriver"
+          - "@vue/cli-plugin-e2e-nightwatch"
+      bootstrap:
+        patterns:
+          - "bootstrap"
+          - "core-js"
+
+  # GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
