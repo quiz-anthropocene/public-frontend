@@ -33,8 +33,8 @@
     "eslint-plugin-vue": "^9.6.0",
     "geckodriver": "*",
     "prerender-spa-plugin-next": "^4.2.0",
-    "sass": "^1.43.3",
-    "sass-loader": "^10.1.1",
+    "sass": "^1.101.3",
+    "sass-loader": "^17.0.0",
     "vue-cli-plugin-i18n": "~2.0.2",
     "vue-cli-plugin-yaml": "^1.0.2",
     "vue-template-compiler": "^2.6.14"
