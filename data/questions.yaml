@@ -40,7 +40,7 @@
   validator: 1
   validation_date: '2020-03-14'
   created: '2020-03-07'
-  updated: '2026-04-02'
+  updated: '2026-07-22'
 - id: 2
   text: 'Faisons une expérience de pensée : demain, l''énergie consommée par chaque
     français doit être alimentée par des humains, chacun pédalant 8h par jour pour
@@ -1435,7 +1435,7 @@
   answer_choice_d: 45%
   answer_correct: b
   has_ordered_answers: true
-  answer_explanation: Environ la moitié de ces émissions es due à l'agriculture et
+  answer_explanation: Environ la moitié de ces émissions est due à l'agriculture et
     l'élevage (engrais, bovins, déjections, culture du riz), l'autre moitié est due
     à la déforestation et au changement d'utilisation des terres.
   answer_audio_url: ''
@@ -1456,7 +1456,7 @@
   validator: 1
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2025-05-16'
+  updated: '2026-07-22'
 - id: 35
   text: Le pergélisol (ou permafrost), c'est un sol dont la température se maintient
     en dessous de 0°C. Il couvre 20% de la surface terrestre. Que libère-t-il principalement
@@ -37975,7 +37975,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-06-28'
+  updated: '2026-07-22'
 - id: 923
   text: Parmi les poissons que l'on pêche, quelle proportion est exploitée à la limite
     ou au-delà de leur capacité de régénération ?
@@ -38062,7 +38062,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-06-28'
+  updated: '2026-07-22'
 - id: 925
   text: La moitié des céréales produites en France est exportée. Dans la moitié qui
     reste pour le marché français, quelle proportion est destinée à l’alimentation
@@ -38295,7 +38295,7 @@
   validator: 2
   validation_date: '2021-02-28'
   created: '2021-02-21'
-  updated: '2025-06-03'
+  updated: '2026-07-22'
 - id: 930
   text: Parmi ces quatre propositions, laquelle ne représente PAS un enjeu majeur
     direct vis-à-vis de la santé humaine ?
@@ -46957,7 +46957,7 @@
   validator: 2
   validation_date: null
   created: '2023-08-15'
-  updated: '2026-02-23'
+  updated: '2026-07-22'
 - id: 1155
   text: Des scientifiques ont déterminé 9 seuils planétaires à ne pas dépasser pour
     ne pas compromettre la vie sur terre. Combien d’entre eux sont considérées comme
@@ -51797,8 +51797,8 @@
   created: '2025-03-27'
   updated: '2025-04-08'
 - id: 1272
-  text: Quelle est la part des émissions de gaz à effet de serre issues de l'élevage
-    ? (chiffres 2021)
+  text: En France, quelle est la part des émissions de gaz à effet de serre issues
+    de l'élevage ? (chiffres 2021)
   hint: ''
   type: QCM
   category: 1
@@ -51836,7 +51836,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-03-28'
-  updated: '2025-06-20'
+  updated: '2026-07-22'
 - id: 1273
   text: 'Vrai ou faux : les nouveaux systèmes d''exploitation sont plus légers en
     mémoire vive'
@@ -52088,7 +52088,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-02'
-  updated: '2025-06-28'
+  updated: '2026-07-22'
 - id: 1279
   text: En France, quelle proportion des animaux d'élevage sont enfermés en élevage
     intensif ?
@@ -52218,7 +52218,7 @@
   validator: 2
   validation_date: '2025-06-20'
   created: '2025-06-03'
-  updated: '2025-07-01'
+  updated: '2026-07-22'
 - id: 1282
   text: Pour produire 1g de protéine animale, combien en faut-il de végétale ?
   hint: ''
