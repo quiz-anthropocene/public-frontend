@@ -3470,23 +3470,25 @@
   created: '2024-07-04'
   updated: '2026-03-11'
 - id: 118
-  name: Focus alimentation Eléfàn
+  name: Burger Quiz Alimentation Bar Radis
   slug: quiz-alimentation-elefan
   introduction: ''
   conclusion: ''
   questions:
   - 1
-  - 34
   - 95
   - 894
   - 922
-  - 923
   - 924
   - 928
   - 929
   - 966
   - 1088
-  question_count: 11
+  - 1154
+  - 1272
+  - 1278
+  - 1281
+  question_count: 13
   tags: []
   difficulty_average: 2.0
   language: FRENCH
@@ -3502,7 +3504,7 @@
   publish_date: null
   spotlight: false
   created: '2025-03-28'
-  updated: '2025-05-16'
+  updated: '2026-07-22'
 - id: 119
   name: Burger Quiz AI France 17 avril 2025
   slug: burger-quiz-ai-france-17-avril-2025
