@@ -2885,7 +2885,7 @@
   difficulty: 3
   language: FRENCH
   answer_choice_a: Oui, en 1930
-  answer_choice_b: Oui, en 1964
+  answer_choice_b: Oui, dans les années 60
   answer_choice_c: Oui, en 2006
   answer_choice_d: Non, elles sont continuellement en augmentation
   answer_correct: b
@@ -2905,7 +2905,7 @@
   answer_source_scientific_url_text: “Forecasting future production from past discovery”
     - Laherrere 2001
   answer_book_recommendation: ''
-  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/000068-fe0d.png
+  answer_image_url: https://s3.fr-par.scw.cloud/quiz-anthropocene/questions/46099821.png
   answer_image_url_text: ''
   answer_extra_info: ''
   author: 2
@@ -2914,7 +2914,7 @@
   validator: 5
   validation_date: '2020-03-17'
   created: '2020-03-10'
-  updated: '2024-05-03'
+  updated: '2026-10-06'
 - id: 69
   text: Avons-nous déjà atteint le pic de production de pétrole conventionnel ?
   hint: ''
