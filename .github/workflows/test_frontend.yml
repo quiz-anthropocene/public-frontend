@@ -38,6 +38,11 @@ jobs:
 
       - name: Install frontend dependencies
         run: yarn install --prefer-offline --frozen-lockfile  # won't update the yarn.lock
+        env:
+          # download the chromedriver binary matching the runner's Chrome (instead of the package.json version)
+          # https://github.com/giggio/node-chromedriver#detect-chromedriver-version
+          # (could also be set in frontend/.npmrc with `detect_chromedriver_version=true` to apply locally too)
+          DETECT_CHROMEDRIVER_VERSION: true
 
       - name: Run ESlint
         run: yarn lint
